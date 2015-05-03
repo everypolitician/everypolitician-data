@@ -30,16 +30,16 @@ task :publish do
     cwd = Dir.pwd
     puts "Currently in #{cwd}"
     puts "cd #{dir}"
-    last_commit = %x{ git rev-parse --short HEAD }
+    last_commit = %x{ git rev-parse --short HEAD }.chomp
     %x[ hub clone mysociety/popolo-viewer-sinatra #{dir} ]
-    %x[ git checkout -b epdata-#{last_commit} master ]
+    %x[ git checkout -b epdata-#{last_commit} ]
     @COUNTRIES.each do |country| 
       cp "#{country}/final.json", "#{dir}/data/#{country}.json"
     end
     %x[ git add . ]
     require 'pry'
     binding.pry
-    %x[ hub commit -m "Refresh with new data from #{last_commit}" ]
+    %x[ hub pull-request -m "Refresh with new data from #{last_commit}" ]
   end
 end
 
