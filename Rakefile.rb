@@ -31,7 +31,7 @@ task :publish do
     puts "Currently in #{cwd}"
     puts "cd #{dir}"
     last_commit = %x{ git rev-parse --short HEAD }.chomp
-    branch_name = "epdata-#{last_commit}"
+    branch_name = "epdata-#{Time.now.to_i}"
 
     %x[ hub clone mysociety/popolo-viewer-sinatra #{dir} ]
     %x[ git checkout -b epdata-#{last_commit} ]
