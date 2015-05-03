@@ -1,3 +1,4 @@
+require 'tmpdir'
 
 @COUNTRIES = FileList['*/Rakefile.rb'].pathmap('%d')
 
@@ -23,4 +24,26 @@ task :regenerate_all do
   end
 end
 
+desc "Publish data"
+task :publish do
+  Dir.mktmpdir do |dir|
+    cwd = Dir.pwd
+    puts "Currently in #{cwd}"
+    puts "cd #{dir}"
+    last_commit = %x{ git rev-parse --short HEAD }.chomp
+    branch_name = "epdata-#{Time.now.to_i}"
+
+    %x[ hub clone mysociety/popolo-viewer-sinatra #{dir} ]
+    %x[ git checkout -b #{branch_name} ]
+    @COUNTRIES.each do |country| 
+      cp "#{country}/final.json", "#{dir}/data/#{country}.json"
+    end
+    %x[ git add . ]
+    %x[ git commit -m "Refresh with new data from #{last_commit}" ]
+    %x[ git push -u origin #{branch_name} ]
+    %x[ hub pull-request -m "Refresh with new data from #{last_commit}" ]
+    require 'pry'
+    binding.pry
+  end
+end
 
