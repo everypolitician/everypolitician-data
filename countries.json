@@ -1,5 +1,35 @@
 [
   {
+    "country": "Aland",
+    "code": "AX",
+    "slug": "Aland",
+    "legislatures": [
+      {
+        "name": "Lagting",
+        "slug": "Lagting",
+        "sources_directory": "data/Aland/Lagting/sources",
+        "popolo": "data/Aland/Lagting/final.json",
+        "lastmod": "1435254492",
+        "sha": "a5fc4e3",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "csv": "data/Aland/Lagting/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2007",
+            "name": "2007–2011",
+            "start_date": "2007",
+            "csv": "data/Aland/Lagting/term-2007.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "country": "Andorra",
     "code": "AD",
     "slug": "Andorra",
@@ -79,36 +109,6 @@
             "name": "44th Parliament",
             "start_date": "2013-09-07",
             "csv": "data/Australia/Senate/term-44.csv"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "country": "Åland",
-    "code": "AX",
-    "slug": "Åland",
-    "legislatures": [
-      {
-        "name": "Lagting",
-        "slug": "Lagting",
-        "sources_directory": "data/Åland/Lagting/sources",
-        "popolo": "data/Åland/Lagting/final.json",
-        "lastmod": "1435251147",
-        "sha": "563aa2b",
-        "legislative_periods": [
-          {
-            "id": "term/2011",
-            "name": "2011–",
-            "start_date": "2011",
-            "csv": "data/Åland/Lagting/term-2011.csv"
-          },
-          {
-            "end_date": "2011",
-            "id": "term/2007",
-            "name": "2007–2011",
-            "start_date": "2007",
-            "csv": "data/Åland/Lagting/term-2007.csv"
           }
         ]
       }
