@@ -10,6 +10,7 @@ GEM
   specs:
     coderay (1.1.0)
     colorize (0.7.7)
+    iso_country_codes (0.7.1)
     json (1.8.2)
     method_source (0.8.2)
     mini_portile (0.6.2)
@@ -28,6 +29,7 @@ PLATFORMS
 DEPENDENCIES
   colorize
   csv_to_popolo (>= 0.9.9)!
+  iso_country_codes
   json
   nokogiri
   pry
