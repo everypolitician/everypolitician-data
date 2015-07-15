@@ -1,0 +1,6 @@
+{
+  "source": "duncanparkes/papuanewguinea",
+  "fetch_terms": true,
+  "query": "SELECT *, area AS constituency FROM data",
+  "term_query": null
+}

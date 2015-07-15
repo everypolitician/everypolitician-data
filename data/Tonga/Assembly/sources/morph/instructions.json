@@ -1,0 +1,6 @@
+{
+  "source": "duncanparkes/tonga",
+  "fetch_terms": true,
+  "query": "SELECT id, name, constituency, 'unknown' AS party, term_id AS term, image, email, phone, cell, details_url AS source FROM data",
+  "term_query": null
+}

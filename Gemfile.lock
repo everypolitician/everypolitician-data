@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: fccd486d607b47e26cf0bd65990180ef636b11f5
+  revision: 0781983aab9c60328162fab8a59217c59f77f9d4
   specs:
-    csv_to_popolo (0.9.3)
+    csv_to_popolo (0.9.10)
       json
 
 GEM
@@ -10,6 +10,7 @@ GEM
   specs:
     coderay (1.1.0)
     colorize (0.7.7)
+    iso_country_codes (0.7.1)
     json (1.8.2)
     method_source (0.8.2)
     mini_portile (0.6.2)
@@ -21,14 +22,17 @@ GEM
       slop (~> 3.4)
     rake (10.4.2)
     slop (3.6.0)
+    yajl-ruby (1.2.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   colorize
-  csv_to_popolo (>= 0.9.3)!
+  csv_to_popolo (>= 0.9.10)!
+  iso_country_codes
   json
   nokogiri
   pry
   rake
+  yajl-ruby

@@ -1,410 +1,3490 @@
 [
   {
+    "name": "Åland",
+    "country": "Åland",
+    "code": "AX",
+    "slug": "Aland",
+    "legislatures": [
+      {
+        "name": "Lagting",
+        "slug": "Lagting",
+        "sources_directory": "data/Aland/Lagting/sources",
+        "popolo": "data/Aland/Lagting/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Aland/Lagting/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2007",
+            "name": "2007–2011",
+            "start_date": "2007",
+            "slug": "2007",
+            "csv": "data/Aland/Lagting/term-2007.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
-    "sources_directory": "data/Andorra/sources",
-    "popolo": "data/Andorra/final.json",
-    "lastmod": "1433758497",
-    "sha": "ebe8828"
+    "slug": "Andorra",
+    "legislatures": [
+      {
+        "name": "Consell General",
+        "slug": "General-Council",
+        "sources_directory": "data/Andorra/General_Council/sources",
+        "popolo": "data/Andorra/General_Council/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "2015",
+            "start_date": "2015-03-23",
+            "slug": "2015",
+            "csv": "data/Andorra/General_Council/term-2015.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Angola",
     "country": "Angola",
     "code": "AO",
-    "sources_directory": "data/Angola/sources",
-    "popolo": "data/Angola/final.json",
-    "lastmod": "1433758676",
-    "sha": "5f6dce1"
+    "slug": "Angola",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Angola/National_Assembly/sources",
+        "popolo": "data/Angola/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/3",
+            "name": "3rd National Assembly",
+            "start_date": "2012",
+            "slug": "3",
+            "csv": "data/Angola/National_Assembly/term-3.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Australia",
     "country": "Australia",
     "code": "AU",
-    "sources_directory": "data/Australia/sources",
-    "popolo": "data/Australia/final.json",
-    "lastmod": "1433758788",
-    "sha": "2b1f822"
+    "slug": "Australia",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Representatives",
+        "sources_directory": "data/Australia/Representatives/sources",
+        "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/44",
+            "name": "44th Parliament",
+            "start_date": "2013-09-07",
+            "slug": "44",
+            "csv": "data/Australia/Representatives/term-44.csv"
+          }
+        ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Australia/Senate/sources",
+        "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/44",
+            "name": "44th Parliament",
+            "start_date": "2013-09-07",
+            "slug": "44",
+            "csv": "data/Australia/Senate/term-44.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Bangladesh",
     "country": "Bangladesh",
     "code": "BD",
-    "sources_directory": "data/Bangladesh/sources",
-    "popolo": "data/Bangladesh/final.json",
-    "lastmod": "1433758999",
-    "sha": "03d6ce7"
+    "slug": "Bangladesh",
+    "legislatures": [
+      {
+        "name": "Jatiyo Sangshad",
+        "slug": "House",
+        "sources_directory": "data/Bangladesh/House/sources",
+        "popolo": "data/Bangladesh/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2014-01-29",
+            "slug": "10",
+            "csv": "data/Bangladesh/House/term-10.csv"
+          },
+          {
+            "end_date": "2014-01-24",
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2009-01-25",
+            "slug": "9",
+            "csv": "data/Bangladesh/House/term-9.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Belarus",
     "country": "Belarus",
     "code": "BY",
-    "sources_directory": "data/Belarus/sources",
-    "popolo": "data/Belarus/final.json",
-    "lastmod": "1433778563",
-    "sha": "0a7b799"
+    "slug": "Belarus",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Chamber",
+        "sources_directory": "data/Belarus/Chamber/sources",
+        "popolo": "data/Belarus/Chamber/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012",
+            "start_date": "2012-09-23",
+            "slug": "2012",
+            "csv": "data/Belarus/Chamber/term-2012.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Benin",
+    "country": "Benin",
+    "code": "BJ",
+    "slug": "Benin",
+    "legislatures": [
+      {
+        "name": "Assemblée Nationale",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Benin/National_Assembly/sources",
+        "popolo": "data/Benin/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6e législature",
+            "start_date": "2015-04-26",
+            "slug": "6",
+            "csv": "data/Benin/National_Assembly/term-6.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bermuda",
     "country": "Bermuda",
     "code": "BM",
-    "sources_directory": "data/Bermuda/sources",
-    "popolo": "data/Bermuda/final.json",
-    "lastmod": "1433520376",
-    "sha": "6e0b957"
+    "slug": "Bermuda",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Assembly",
+        "sources_directory": "data/Bermuda/Assembly/sources",
+        "popolo": "data/Bermuda/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012-12-17",
+            "slug": "2012",
+            "csv": "data/Bermuda/Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Bhutan",
     "country": "Bhutan",
     "code": "BT",
-    "sources_directory": "data/Bhutan/sources",
-    "popolo": "data/Bhutan/final.json",
-    "lastmod": "1432559592",
-    "sha": "0a873b7"
+    "slug": "Bhutan",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Bhutan/Assembly/sources",
+        "popolo": "data/Bhutan/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2",
+            "name": "2nd Parliament",
+            "start_date": "2013-07-13",
+            "slug": "2",
+            "csv": "data/Bhutan/Assembly/term-2.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Botswana",
     "country": "Botswana",
     "code": "BW",
-    "sources_directory": "data/Botswana/sources",
-    "popolo": "data/Botswana/final.json",
-    "lastmod": "1433759577",
-    "sha": "092fa88"
+    "slug": "Botswana",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Botswana/Assembly/sources",
+        "popolo": "data/Botswana/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014",
+            "start_date": "2014-10-29",
+            "slug": "2014",
+            "csv": "data/Botswana/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Brazil",
     "country": "Brazil",
     "code": "BR",
-    "sources_directory": "data/Brazil/sources",
-    "popolo": "data/Brazil/final.json",
-    "lastmod": "1433849761",
-    "sha": "aab894f"
+    "slug": "Brazil",
+    "legislatures": [
+      {
+        "name": "National Congress",
+        "slug": "Deputies",
+        "sources_directory": "data/Brazil/Deputies/sources",
+        "popolo": "data/Brazil/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/55",
+            "name": "55th Legislature",
+            "start_date": "2015",
+            "slug": "55",
+            "csv": "data/Brazil/Deputies/term-55.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/54",
+            "name": "54th Legislature",
+            "start_date": "2011",
+            "slug": "54",
+            "csv": "data/Brazil/Deputies/term-54.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/53",
+            "name": "53rd Legislature",
+            "start_date": "2007",
+            "slug": "53",
+            "csv": "data/Brazil/Deputies/term-53.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/52",
+            "name": "52nd Legislature",
+            "start_date": "2003",
+            "slug": "52",
+            "csv": "data/Brazil/Deputies/term-52.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/51",
+            "name": "51st Legislature",
+            "start_date": "1999",
+            "slug": "51",
+            "csv": "data/Brazil/Deputies/term-51.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/50",
+            "name": "50th Legislature",
+            "start_date": "1995",
+            "slug": "50",
+            "csv": "data/Brazil/Deputies/term-50.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/49",
+            "name": "49th Legislature",
+            "start_date": "1991",
+            "slug": "49",
+            "csv": "data/Brazil/Deputies/term-49.csv"
+          },
+          {
+            "end_date": "1991",
+            "id": "term/48",
+            "name": "48th Legislature",
+            "start_date": "1987",
+            "slug": "48",
+            "csv": "data/Brazil/Deputies/term-48.csv"
+          },
+          {
+            "end_date": "1987",
+            "id": "term/47",
+            "name": "47th Legislature",
+            "start_date": "1983",
+            "slug": "47",
+            "csv": "data/Brazil/Deputies/term-47.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/46",
+            "name": "46th Legislature",
+            "start_date": "1979",
+            "slug": "46",
+            "csv": "data/Brazil/Deputies/term-46.csv"
+          },
+          {
+            "end_date": "1979",
+            "id": "term/45",
+            "name": "45th Legislature",
+            "start_date": "1975",
+            "slug": "45",
+            "csv": "data/Brazil/Deputies/term-45.csv"
+          },
+          {
+            "end_date": "1975",
+            "id": "term/44",
+            "name": "44th Legislature",
+            "start_date": "1971",
+            "slug": "44",
+            "csv": "data/Brazil/Deputies/term-44.csv"
+          },
+          {
+            "end_date": "1971",
+            "id": "term/43",
+            "name": "43rd Legislature",
+            "start_date": "1967",
+            "slug": "43",
+            "csv": "data/Brazil/Deputies/term-43.csv"
+          },
+          {
+            "end_date": "1967",
+            "id": "term/42",
+            "name": "42nd Legislature",
+            "start_date": "1963",
+            "slug": "42",
+            "csv": "data/Brazil/Deputies/term-42.csv"
+          },
+          {
+            "end_date": "1962",
+            "id": "term/41",
+            "name": "41st Legislature",
+            "start_date": "1959",
+            "slug": "41",
+            "csv": "data/Brazil/Deputies/term-41.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Burkina Faso",
+    "country": "Burkina Faso",
+    "code": "BF",
+    "slug": "Burkina-Faso",
+    "legislatures": [
+      {
+        "name": "Assemblée Nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Burkina_Faso/Assembly/sources",
+        "popolo": "data/Burkina_Faso/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–2015",
+            "start_date": "2012-12-02",
+            "slug": "2012",
+            "csv": "data/Burkina_Faso/Assembly/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Burundi",
     "country": "Burundi",
     "code": "BI",
-    "sources_directory": "data/Burundi/sources",
-    "popolo": "data/Burundi/final.json",
-    "lastmod": "1433760699",
-    "sha": "6dfa11e"
+    "slug": "Burundi",
+    "legislatures": [
+      {
+        "name": "Assemblée nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Burundi/Assembly/sources",
+        "popolo": "data/Burundi/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2015-04-30",
+            "id": "term/2010",
+            "name": "2010",
+            "start_date": "2010",
+            "slug": "2010",
+            "csv": "data/Burundi/Assembly/term-2010.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Cabo Verde",
     "country": "Cabo Verde",
     "code": "CV",
-    "sources_directory": "data/Cabo Verde/sources",
-    "popolo": "data/Cabo_Verde/final.json",
-    "lastmod": "1433514607",
-    "sha": "bc5b5d0"
+    "slug": "Cabo-Verde",
+    "legislatures": [
+      {
+        "name": "Assembleia Nacional",
+        "slug": "Assembly",
+        "sources_directory": "data/Cabo_Verde/Assembly/sources",
+        "popolo": "data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "VIII Legislatura",
+            "start_date": "2011-03-11",
+            "slug": "8",
+            "csv": "data/Cabo_Verde/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Cameroon",
+    "country": "Cameroon",
+    "code": "CM",
+    "slug": "Cameroon",
+    "legislatures": [
+      {
+        "name": "Assemblée Nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Cameroon/Assembly/sources",
+        "popolo": "data/Cameroon/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9e législature",
+            "start_date": "2013",
+            "slug": "9",
+            "csv": "data/Cameroon/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/8",
+            "name": "8e législature",
+            "start_date": "2007",
+            "slug": "8",
+            "csv": "data/Cameroon/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/7",
+            "name": "7e législature",
+            "start_date": "2002",
+            "slug": "7",
+            "csv": "data/Cameroon/Assembly/term-7.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/6",
+            "name": "6e législature",
+            "start_date": "1997",
+            "slug": "6",
+            "csv": "data/Cameroon/Assembly/term-6.csv"
+          },
+          {
+            "end_date": "1997",
+            "id": "term/5",
+            "name": "5e législature",
+            "start_date": "1992",
+            "slug": "5",
+            "csv": "data/Cameroon/Assembly/term-5.csv"
+          },
+          {
+            "end_date": "1992",
+            "id": "term/4",
+            "name": "4e législature",
+            "start_date": "1988",
+            "slug": "4",
+            "csv": "data/Cameroon/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "1988",
+            "id": "term/3",
+            "name": "3e législature",
+            "start_date": "1983",
+            "slug": "3",
+            "csv": "data/Cameroon/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "1978",
+            "id": "term/1",
+            "name": "1e législature",
+            "start_date": "1973",
+            "slug": "1",
+            "csv": "data/Cameroon/Assembly/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Canada",
     "country": "Canada",
     "code": "CA",
-    "sources_directory": "data/Canada/sources",
-    "popolo": "data/Canada/final.json",
-    "lastmod": "1433761413",
-    "sha": "8bd2c3b"
+    "slug": "Canada",
+    "legislatures": [
+      {
+        "name": "House of Commons",
+        "slug": "Commons",
+        "sources_directory": "data/Canada/Commons/sources",
+        "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/41",
+            "name": "41st Canadian Parliament",
+            "start_date": "2011-06-02",
+            "slug": "41",
+            "csv": "data/Canada/Commons/term-41.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Chad",
+    "country": "Chad",
+    "code": "TD",
+    "slug": "Chad",
+    "legislatures": [
+      {
+        "name": "Assemblée Nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Chad/Assembly/sources",
+        "popolo": "data/Chad/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/3",
+            "name": "Troisième Législature",
+            "start_date": "2011",
+            "slug": "3",
+            "csv": "data/Chad/Assembly/term-3.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chile",
     "country": "Chile",
     "code": "CL",
-    "sources_directory": "data/Chile/sources",
-    "popolo": "data/Chile/final.json",
-    "lastmod": "1431785828",
-    "sha": "998e9c5"
+    "slug": "Chile",
+    "legislatures": [
+      {
+        "name": "National Congress",
+        "slug": "Deputies",
+        "sources_directory": "data/Chile/Deputies/sources",
+        "popolo": "data/Chile/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2018-03-10",
+            "id": "term/8",
+            "name": "Legislativo 2014-2018",
+            "start_date": "2014-03-11",
+            "slug": "8",
+            "csv": "data/Chile/Deputies/term-8.csv"
+          },
+          {
+            "end_date": "2014-03-10",
+            "id": "term/6",
+            "name": "Legislativo 2010-2014",
+            "start_date": "2010-03-11",
+            "slug": "6",
+            "csv": "data/Chile/Deputies/term-6.csv"
+          },
+          {
+            "end_date": "2010-03-10",
+            "id": "term/5",
+            "name": "Legislativo 2006-2010",
+            "start_date": "2006-03-11",
+            "slug": "5",
+            "csv": "data/Chile/Deputies/term-5.csv"
+          },
+          {
+            "end_date": "2006-03-10",
+            "id": "term/4",
+            "name": "Legislativo 2002-2006",
+            "start_date": "2002-03-11",
+            "slug": "4",
+            "csv": "data/Chile/Deputies/term-4.csv"
+          },
+          {
+            "end_date": "2002-03-10",
+            "id": "term/3",
+            "name": "Legislativo 1998-2002",
+            "start_date": "1998-03-11",
+            "slug": "3",
+            "csv": "data/Chile/Deputies/term-3.csv"
+          },
+          {
+            "end_date": "1998-03-10",
+            "id": "term/2",
+            "name": "Legislativo 1994-1998",
+            "start_date": "1994-03-11",
+            "slug": "2",
+            "csv": "data/Chile/Deputies/term-2.csv"
+          },
+          {
+            "end_date": "1994-03-10",
+            "id": "term/1",
+            "name": "Legislativo 1990-1994",
+            "start_date": "1990-03-11",
+            "slug": "1",
+            "csv": "data/Chile/Deputies/term-1.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Congo-Brazzaville",
     "country": "Congo-Brazzaville",
     "code": "CG",
-    "sources_directory": "data/Congo-Brazzaville/sources",
-    "popolo": "data/Congo-Brazzaville/final.json",
-    "lastmod": "1433761752",
-    "sha": "7d3ae1d"
+    "slug": "Congo-Brazzaville",
+    "legislatures": [
+      {
+        "name": "Assemblee Nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Congo-Brazzaville/Assembly/sources",
+        "popolo": "data/Congo-Brazzaville/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13ème législature",
+            "start_date": "2012",
+            "slug": "13",
+            "csv": "data/Congo-Brazzaville/Assembly/term-13.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Curaçao",
+    "country": "Curaçao",
+    "code": "CW",
+    "slug": "Curacao",
+    "legislatures": [
+      {
+        "name": "Estates of Curaçao",
+        "slug": "Estates",
+        "sources_directory": "data/Curacao/Estates/sources",
+        "popolo": "data/Curacao/Estates/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2",
+            "name": "2nd Curaçaoan Estates",
+            "start_date": "2012",
+            "slug": "2",
+            "csv": "data/Curacao/Estates/term-2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Czech Republic",
     "country": "Czech Republic",
     "code": "CZ",
-    "sources_directory": "data/Czech Republic/sources",
-    "popolo": "data/Czech_Republic/final.json",
-    "lastmod": "1433860463",
-    "sha": "522186a"
+    "slug": "Czech-Republic",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Czech_Republic/Deputies/sources",
+        "popolo": "data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "171",
+            "identifiers": [
+              {
+                "identifier": "7",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "171",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "2013-10-26",
+            "slug": "171",
+            "csv": "data/Czech_Republic/Deputies/term-171.csv"
+          },
+          {
+            "end_date": "2013-08-28",
+            "id": "170",
+            "identifiers": [
+              {
+                "identifier": "6",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "170",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "2010-05-29",
+            "slug": "170",
+            "csv": "data/Czech_Republic/Deputies/term-170.csv"
+          },
+          {
+            "end_date": "2010-06-03",
+            "id": "169",
+            "identifiers": [
+              {
+                "identifier": "5",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "169",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "2006-06-03",
+            "slug": "169",
+            "csv": "data/Czech_Republic/Deputies/term-169.csv"
+          },
+          {
+            "end_date": "2006-06-15",
+            "id": "168",
+            "identifiers": [
+              {
+                "identifier": "4",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "168",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "2002-06-15",
+            "slug": "168",
+            "csv": "data/Czech_Republic/Deputies/term-168.csv"
+          },
+          {
+            "end_date": "2002-06-20",
+            "id": "167",
+            "identifiers": [
+              {
+                "identifier": "3",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "167",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1998-06-20",
+            "slug": "167",
+            "csv": "data/Czech_Republic/Deputies/term-167.csv"
+          },
+          {
+            "end_date": "1998-06-19",
+            "id": "166",
+            "identifiers": [
+              {
+                "identifier": "2",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "166",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1996-06-01",
+            "slug": "166",
+            "csv": "data/Czech_Republic/Deputies/term-166.csv"
+          },
+          {
+            "end_date": "1996-06-06",
+            "id": "165",
+            "identifiers": [
+              {
+                "identifier": "1",
+                "scheme": "psp.cz/term"
+              },
+              {
+                "identifier": "165",
+                "scheme": "psp.cz/organy"
+              }
+            ],
+            "name": "Poslanecká sněmovna",
+            "other_names": [
+              {
+                "name": "PSP",
+                "note": "abbreviation"
+              }
+            ],
+            "start_date": "1992-06-06",
+            "slug": "165",
+            "csv": "data/Czech_Republic/Deputies/term-165.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Denmark",
     "country": "Denmark",
     "code": "DK",
-    "sources_directory": "data/Denmark/sources",
-    "popolo": "data/Denmark/final.json",
-    "lastmod": "1431267337",
-    "sha": "c397806"
+    "slug": "Denmark",
+    "legislatures": [
+      {
+        "name": "Folketing",
+        "slug": "Folketing",
+        "sources_directory": "data/Denmark/Folketing/sources",
+        "popolo": "data/Denmark/Folketing/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2015",
+            "name": "Folketing 2015–",
+            "start_date": "2015-06-20",
+            "slug": "2015",
+            "csv": "data/Denmark/Folketing/term-2015.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Dominican Republic",
+    "country": "Dominican Republic",
+    "code": "DO",
+    "slug": "Dominican-Republic",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Diputados",
+        "sources_directory": "data/Dominican_Republic/Diputados/sources",
+        "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2010",
+            "name": "2010–2016",
+            "start_date": "2010",
+            "slug": "2010",
+            "csv": "data/Dominican_Republic/Diputados/term-2010.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
     "country": "Estonia",
     "code": "EE",
-    "sources_directory": "data/Estonia/sources",
-    "popolo": "data/Estonia/final.json",
-    "lastmod": "1431267337",
-    "sha": "c397806"
+    "slug": "Estonia",
+    "legislatures": [
+      {
+        "name": "Riigikogu",
+        "slug": "Riigikogu",
+        "sources_directory": "data/Estonia/Riigikogu/sources",
+        "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13th Riigikogu",
+            "start_date": "2015-03-30",
+            "slug": "13",
+            "csv": "data/Estonia/Riigikogu/term-13.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Finland",
     "country": "Finland",
     "code": "FI",
-    "sources_directory": "data/Finland/sources",
-    "popolo": "data/Finland/final.json",
-    "lastmod": "1432548937",
-    "sha": "c9d6e1a"
+    "slug": "Finland",
+    "legislatures": [
+      {
+        "name": "Eduskunta",
+        "slug": "Eduskunta",
+        "sources_directory": "data/Finland/Eduskunta/sources",
+        "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/36",
+            "identifiers": [
+              {
+                "identifier": "1",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 36 (2011)",
+            "start_date": "2011-04-20",
+            "slug": "36",
+            "csv": "data/Finland/Eduskunta/term-36.csv"
+          },
+          {
+            "end_date": "2011-04-19",
+            "id": "term/35",
+            "identifiers": [
+              {
+                "identifier": "2",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 35 (2007)",
+            "start_date": "2007-03-21",
+            "slug": "35",
+            "csv": "data/Finland/Eduskunta/term-35.csv"
+          },
+          {
+            "end_date": "2007-03-20",
+            "id": "term/34",
+            "identifiers": [
+              {
+                "identifier": "3",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 34 (2003)",
+            "start_date": "2003-03-19",
+            "slug": "34",
+            "csv": "data/Finland/Eduskunta/term-34.csv"
+          },
+          {
+            "end_date": "2003-03-18",
+            "id": "term/33",
+            "identifiers": [
+              {
+                "identifier": "4",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 33 (1999)",
+            "start_date": "1999-03-24",
+            "slug": "33",
+            "csv": "data/Finland/Eduskunta/term-33.csv"
+          },
+          {
+            "end_date": "1999-03-23",
+            "id": "term/32",
+            "identifiers": [
+              {
+                "identifier": "36",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 32 (1995)",
+            "start_date": "1995-03-24",
+            "slug": "32",
+            "csv": "data/Finland/Eduskunta/term-32.csv"
+          },
+          {
+            "end_date": "1995-03-23",
+            "id": "term/31",
+            "identifiers": [
+              {
+                "identifier": "35",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 31 (1991)",
+            "start_date": "1991-03-22",
+            "slug": "31",
+            "csv": "data/Finland/Eduskunta/term-31.csv"
+          },
+          {
+            "end_date": "1991-03-21",
+            "id": "term/30",
+            "identifiers": [
+              {
+                "identifier": "34",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 30 (1987)",
+            "start_date": "1987-03-21",
+            "slug": "30",
+            "csv": "data/Finland/Eduskunta/term-30.csv"
+          },
+          {
+            "end_date": "1987-03-20",
+            "id": "term/29",
+            "identifiers": [
+              {
+                "identifier": "33",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 29 (1983)",
+            "start_date": "1983-03-26",
+            "slug": "29",
+            "csv": "data/Finland/Eduskunta/term-29.csv"
+          },
+          {
+            "end_date": "1983-03-25",
+            "id": "term/28",
+            "identifiers": [
+              {
+                "identifier": "32",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 28 (1979)",
+            "start_date": "1979-03-24",
+            "slug": "28",
+            "csv": "data/Finland/Eduskunta/term-28.csv"
+          },
+          {
+            "end_date": "1979-03-23",
+            "id": "term/27",
+            "identifiers": [
+              {
+                "identifier": "31",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 27 (1975 II)",
+            "start_date": "1975-09-27",
+            "slug": "27",
+            "csv": "data/Finland/Eduskunta/term-27.csv"
+          },
+          {
+            "end_date": "1975-09-26",
+            "id": "term/26",
+            "identifiers": [
+              {
+                "identifier": "30",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 26 (1972)",
+            "start_date": "1972-01-22",
+            "slug": "26",
+            "csv": "data/Finland/Eduskunta/term-26.csv"
+          },
+          {
+            "end_date": "1972-01-21",
+            "id": "term/25",
+            "identifiers": [
+              {
+                "identifier": "29",
+                "scheme": "kansanmuisti.fi"
+              }
+            ],
+            "name": "Eduskunta 25 (1970)",
+            "start_date": "1970-03-23",
+            "slug": "25",
+            "csv": "data/Finland/Eduskunta/term-25.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "France",
+    "country": "France",
+    "code": "FR",
+    "slug": "France",
+    "legislatures": [
+      {
+        "name": "Assemblée nationale",
+        "slug": "National-Assembly",
+        "sources_directory": "data/France/National_Assembly/sources",
+        "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "XIVe législature de la Ve République",
+            "start_date": "2012-06-20",
+            "slug": "14",
+            "csv": "data/France/National_Assembly/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gabon",
     "country": "Gabon",
     "code": "GA",
-    "sources_directory": "data/Gabon/sources",
-    "popolo": "data/Gabon/final.json",
-    "lastmod": "1433761779",
-    "sha": "ede4267"
+    "slug": "Gabon",
+    "legislatures": [
+      {
+        "name": "Assemblée nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Gabon/Assembly/sources",
+        "popolo": "data/Gabon/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12 Législature",
+            "start_date": "2012",
+            "slug": "12",
+            "csv": "data/Gabon/Assembly/term-12.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Germany",
     "country": "Germany",
     "code": "DE",
-    "sources_directory": "data/Germany/sources",
-    "popolo": "data/Germany/final.json",
-    "lastmod": "1433323425",
-    "sha": "7c428b9"
+    "slug": "Germany",
+    "legislatures": [
+      {
+        "name": "Bundestag",
+        "slug": "Bundestag",
+        "sources_directory": "data/Germany/Bundestag/sources",
+        "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/18",
+            "name": "18th Bundestag",
+            "start_date": "2013-10-22",
+            "slug": "18",
+            "csv": "data/Germany/Bundestag/term-18.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Ghana",
     "country": "Ghana",
     "code": "GH",
-    "sources_directory": "data/Ghana/sources",
-    "popolo": "data/Ghana/final.json",
-    "lastmod": "1433761803",
-    "sha": "9f4a6af"
+    "slug": "Ghana",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Ghana/Parliament/sources",
+        "popolo": "data/Ghana/Parliament/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "Sixth Parliament of the Fourth Republic",
+            "start_date": "2013-01-07",
+            "slug": "6",
+            "csv": "data/Ghana/Parliament/term-6.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Greece",
+    "country": "Greece",
+    "code": "GR",
+    "slug": "Greece",
+    "legislatures": [
+      {
+        "name": "Hellenic Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Greece/Parliament/sources",
+        "popolo": "data/Greece/Parliament/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/16",
+            "name": "16th Hellenic Parliament",
+            "start_date": "2015-01-25",
+            "slug": "16",
+            "csv": "data/Greece/Parliament/term-16.csv"
+          },
+          {
+            "end_date": "2014-12-31",
+            "id": "term/15",
+            "name": "15th Hellenic Parliament",
+            "start_date": "2012-06-17",
+            "slug": "15",
+            "csv": "data/Greece/Parliament/term-15.csv"
+          },
+          {
+            "end_date": "2012-05-19",
+            "id": "term/14",
+            "name": "14th Hellenic Parliament",
+            "start_date": "2012-05-06",
+            "slug": "14",
+            "csv": "data/Greece/Parliament/term-14.csv"
+          },
+          {
+            "end_date": "2012-04-11",
+            "id": "term/13",
+            "name": "13th Hellenic Parliament",
+            "start_date": "2009-10-04",
+            "slug": "13",
+            "csv": "data/Greece/Parliament/term-13.csv"
+          },
+          {
+            "end_date": "2009-09-07",
+            "id": "term/12",
+            "name": "12th Hellenic Parliament",
+            "start_date": "2007-09-16",
+            "slug": "12",
+            "csv": "data/Greece/Parliament/term-12.csv"
+          },
+          {
+            "end_date": "2007-08-18",
+            "id": "term/11",
+            "name": "11th Hellenic Parliament",
+            "start_date": "2004-03-07",
+            "slug": "11",
+            "csv": "data/Greece/Parliament/term-11.csv"
+          },
+          {
+            "end_date": "2004-02-11",
+            "id": "term/10",
+            "name": "10th Hellenic Parliament",
+            "start_date": "2000-04-09",
+            "slug": "10",
+            "csv": "data/Greece/Parliament/term-10.csv"
+          },
+          {
+            "end_date": "2000-03-14",
+            "id": "term/9",
+            "name": "9th Hellenic Parliament",
+            "start_date": "1996-09-22",
+            "slug": "9",
+            "csv": "data/Greece/Parliament/term-9.csv"
+          },
+          {
+            "end_date": "1996-08-24",
+            "id": "term/8",
+            "name": "8th Hellenic Parliament",
+            "start_date": "1993-10-10",
+            "slug": "8",
+            "csv": "data/Greece/Parliament/term-8.csv"
+          },
+          {
+            "end_date": "1993-09-11",
+            "id": "term/7",
+            "name": "7th Hellenic Parliament",
+            "start_date": "1990-04-08",
+            "slug": "7",
+            "csv": "data/Greece/Parliament/term-7.csv"
+          },
+          {
+            "end_date": "1990-03-12",
+            "id": "term/6",
+            "name": "6th Hellenic Parliament",
+            "start_date": "1989-11-05",
+            "slug": "6",
+            "csv": "data/Greece/Parliament/term-6.csv"
+          },
+          {
+            "end_date": "1989-10-12",
+            "id": "term/5",
+            "name": "5th Hellenic Parliament",
+            "start_date": "1989-06-18",
+            "slug": "5",
+            "csv": "data/Greece/Parliament/term-5.csv"
+          },
+          {
+            "end_date": "1989-06-02",
+            "id": "term/4",
+            "name": "4th Hellenic Parliament",
+            "start_date": "1985-06-02",
+            "slug": "4",
+            "csv": "data/Greece/Parliament/term-4.csv"
+          },
+          {
+            "end_date": "1985-05-07",
+            "id": "term/3",
+            "name": "3nd Hellenic Parliament",
+            "start_date": "1981-10-18",
+            "slug": "3",
+            "csv": "data/Greece/Parliament/term-3.csv"
+          },
+          {
+            "end_date": "1981-09-19",
+            "id": "term/2",
+            "name": "2nd Hellenic Parliament",
+            "start_date": "1977-11-20",
+            "slug": "2",
+            "csv": "data/Greece/Parliament/term-2.csv"
+          },
+          {
+            "end_date": "1977-10-22",
+            "id": "term/1",
+            "name": "1st Hellenic Parliament",
+            "start_date": "1974-11-17",
+            "slug": "1",
+            "csv": "data/Greece/Parliament/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Greenland",
     "country": "Greenland",
     "code": "GL",
-    "sources_directory": "data/Greenland/sources",
-    "popolo": "data/Greenland/final.json",
-    "lastmod": "1431267337",
-    "sha": "c397806"
+    "slug": "Greenland",
+    "legislatures": [
+      {
+        "name": "Inatsisartut",
+        "slug": "Inatsisartut",
+        "sources_directory": "data/Greenland/Inatsisartut/sources",
+        "popolo": "data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014-12-12",
+            "name": "Inatsisartut 13",
+            "start_date": "2014-12-12",
+            "slug": "2014-12-12",
+            "csv": "data/Greenland/Inatsisartut/term-2014-12-12.csv"
+          },
+          {
+            "end_date": "2014-12-11",
+            "id": "term/2014-11-28",
+            "name": "Inatsisartut 12",
+            "start_date": "2014-11-28",
+            "slug": "2014-11-28",
+            "csv": "data/Greenland/Inatsisartut/term-2014-11-28.csv"
+          },
+          {
+            "end_date": "2014-11-27",
+            "id": "term/2013-03-12",
+            "name": "Inatsisartut 11",
+            "start_date": "2013-03-12",
+            "slug": "2013-03-12",
+            "csv": "data/Greenland/Inatsisartut/term-2013-03-12.csv"
+          },
+          {
+            "end_date": "2013-03-11",
+            "id": "term/2009-06-02",
+            "name": "Inatsisartut 10",
+            "start_date": "2009-06-02",
+            "slug": "2009-06-02",
+            "csv": "data/Greenland/Inatsisartut/term-2009-06-02.csv"
+          },
+          {
+            "end_date": "2009-06-01",
+            "id": "term/2005-11-15",
+            "name": "Inatsisartut 9",
+            "start_date": "2005-11-15",
+            "slug": "2005-11-15",
+            "csv": "data/Greenland/Inatsisartut/term-2005-11-15.csv"
+          },
+          {
+            "end_date": "2005-11-14",
+            "id": "term/2002-12-03",
+            "name": "Inatsisartut 8",
+            "start_date": "2002-12-03",
+            "slug": "2002-12-03",
+            "csv": "data/Greenland/Inatsisartut/term-2002-12-03.csv"
+          },
+          {
+            "end_date": "2002-12-02",
+            "id": "term/1999-02-16",
+            "name": "Inatsisartut 7",
+            "start_date": "1999-02-16",
+            "slug": "1999-02-16",
+            "csv": "data/Greenland/Inatsisartut/term-1999-02-16.csv"
+          },
+          {
+            "end_date": "1999-02-15",
+            "id": "term/1995-03-04",
+            "name": "Inatsisartut 6",
+            "start_date": "1995-03-04",
+            "slug": "1995-03-04",
+            "csv": "data/Greenland/Inatsisartut/term-1995-03-04.csv"
+          },
+          {
+            "end_date": "1995-03-03",
+            "id": "term/1991-03-05",
+            "name": "Inatsisartut 5",
+            "start_date": "1991-03-05",
+            "slug": "1991-03-05",
+            "csv": "data/Greenland/Inatsisartut/term-1991-03-05.csv"
+          },
+          {
+            "end_date": "1991-03-04",
+            "id": "term/1987-05-26",
+            "name": "Inatsisartut 4",
+            "start_date": "1987-05-26",
+            "slug": "1987-05-26",
+            "csv": "data/Greenland/Inatsisartut/term-1987-05-26.csv"
+          },
+          {
+            "end_date": "1987-05-25",
+            "id": "term/1984-06-06",
+            "name": "Inatsisartut 3",
+            "start_date": "1984-06-06",
+            "slug": "1984-06-06",
+            "csv": "data/Greenland/Inatsisartut/term-1984-06-06.csv"
+          },
+          {
+            "end_date": "1984-06-05",
+            "id": "term/1983-04-12",
+            "name": "Inatsisartut 2",
+            "start_date": "1983-04-12",
+            "slug": "1983-04-12",
+            "csv": "data/Greenland/Inatsisartut/term-1983-04-12.csv"
+          },
+          {
+            "end_date": "1983-04-11",
+            "id": "term/1979-05-01",
+            "name": "Inatsisartut 1",
+            "start_date": "1979-05-01",
+            "slug": "1979-05-01",
+            "csv": "data/Greenland/Inatsisartut/term-1979-05-01.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Hungary",
+    "country": "Hungary",
+    "code": "HU",
+    "slug": "Hungary",
+    "legislatures": [
+      {
+        "name": "Országgyűlés",
+        "slug": "Assembly",
+        "sources_directory": "data/Hungary/Assembly/sources",
+        "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "550303bc273a39033bab34df",
+            "identifiers": [
+              {
+                "identifier": "40",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 2014 - ",
+            "start_date": "2014-05-06",
+            "slug": "550303bc273a39033bab34df",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34df.csv"
+          },
+          {
+            "end_date": "2014-05-05",
+            "id": "550303bc273a39033bab34e1",
+            "identifiers": [
+              {
+                "identifier": "39",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 2010 - 2014",
+            "start_date": "2010-05-14",
+            "slug": "550303bc273a39033bab34e1",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e1.csv"
+          },
+          {
+            "end_date": "2010-05-13",
+            "id": "550303bc273a39033bab34e3",
+            "identifiers": [
+              {
+                "identifier": "38",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 2006 - 2010",
+            "start_date": "2006-05-16",
+            "slug": "550303bc273a39033bab34e3",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e3.csv"
+          },
+          {
+            "end_date": "2006-05-15",
+            "id": "550303bc273a39033bab34e5",
+            "identifiers": [
+              {
+                "identifier": "37",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 2002 - 2006",
+            "start_date": "2002-05-15",
+            "slug": "550303bc273a39033bab34e5",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e5.csv"
+          },
+          {
+            "end_date": "2002-05-14",
+            "id": "550303bc273a39033bab34e7",
+            "identifiers": [
+              {
+                "identifier": "36",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 1998 - 2002",
+            "start_date": "1998-06-18",
+            "slug": "550303bc273a39033bab34e7",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e7.csv"
+          },
+          {
+            "end_date": "1998-06-17",
+            "id": "550303bc273a39033bab34e9",
+            "identifiers": [
+              {
+                "identifier": "35",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 1994 - 98",
+            "start_date": "1994-06-28",
+            "slug": "550303bc273a39033bab34e9",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e9.csv"
+          },
+          {
+            "end_date": "1994-06-27",
+            "id": "550303bc273a39033bab34eb",
+            "identifiers": [
+              {
+                "identifier": "34",
+                "scheme": "parlament.hu/chamber"
+              }
+            ],
+            "name": "Országgyűlés 1990 - 94",
+            "start_date": "1990-05-02",
+            "slug": "550303bc273a39033bab34eb",
+            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34eb.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
     "country": "Iceland",
     "code": "IS",
-    "sources_directory": "data/Iceland/sources",
-    "popolo": "data/Iceland/final.json",
-    "lastmod": "1433762044",
-    "sha": "a99bbd9"
+    "slug": "Iceland",
+    "legislatures": [
+      {
+        "name": "Alþingi",
+        "slug": "Assembly",
+        "sources_directory": "data/Iceland/Assembly/sources",
+        "popolo": "data/Iceland/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "Alþingi 2013",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Iceland/Assembly/term-2013.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/2009",
+            "name": "Alþingi 2009",
+            "start_date": "2009",
+            "slug": "2009",
+            "csv": "data/Iceland/Assembly/term-2009.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/2007",
+            "name": "Alþingi 2007",
+            "start_date": "2007",
+            "slug": "2007",
+            "csv": "data/Iceland/Assembly/term-2007.csv"
+          },
+          {
+            "end_date": "2007",
+            "id": "term/2003",
+            "name": "Alþingi 2003",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/Iceland/Assembly/term-2003.csv"
+          },
+          {
+            "end_date": "2003",
+            "id": "term/1999",
+            "name": "Alþingi 1999",
+            "start_date": "1999",
+            "slug": "1999",
+            "csv": "data/Iceland/Assembly/term-1999.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/1995",
+            "name": "Alþingi 1995",
+            "start_date": "1995",
+            "slug": "1995",
+            "csv": "data/Iceland/Assembly/term-1995.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "India",
+    "country": "India",
+    "code": "IN",
+    "slug": "India",
+    "legislatures": [
+      {
+        "name": "Lok Sabha",
+        "slug": "Lok-Sabha",
+        "sources_directory": "data/India/Lok_Sabha/sources",
+        "popolo": "data/India/Lok_Sabha/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/16",
+            "name": "XVI Lok Sabha",
+            "start_date": "2014-05-26",
+            "slug": "16",
+            "csv": "data/India/Lok_Sabha/term-16.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iran",
     "country": "Iran",
     "code": "IR",
-    "sources_directory": "data/Iran/sources",
-    "popolo": "data/Iran/final.json",
-    "lastmod": "1431267337",
-    "sha": "c397806"
+    "slug": "Iran",
+    "legislatures": [
+      {
+        "name": "Majles",
+        "slug": "Assembly",
+        "sources_directory": "data/Iran/Assembly/sources",
+        "popolo": "data/Iran/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Assembly",
+            "start_date": "2012-05-27",
+            "slug": "9",
+            "csv": "data/Iran/Assembly/term-9.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Italy",
     "country": "Italy",
     "code": "IT",
-    "sources_directory": "data/Italy/sources",
-    "popolo": "data/Italy/final.json",
-    "lastmod": "1431267337",
-    "sha": "c397806"
+    "slug": "Italy",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/Italy/House/sources",
+        "popolo": "data/Italy/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/17",
+            "name": "XVII Legislatura",
+            "start_date": "2013-03-15",
+            "slug": "17",
+            "csv": "data/Italy/House/term-17.csv"
+          }
+        ]
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Italy/Senate/sources",
+        "popolo": "data/Italy/Senate/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/17",
+            "name": "XVII Legislatura",
+            "start_date": "2013-03-15",
+            "slug": "17",
+            "csv": "data/Italy/Senate/term-17.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Côte d'Ivoire",
+    "country": "Côte d'Ivoire",
+    "code": "CI",
+    "slug": "Ivory-Coast",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Ivory_Coast/Assembly/sources",
+        "popolo": "data/Ivory_Coast/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2.2",
+            "name": "2e législature de la 2e République",
+            "start_date": "2012-03-12",
+            "slug": "2.2",
+            "csv": "data/Ivory_Coast/Assembly/term-2.2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jersey",
+    "country": "Jersey",
+    "code": "JE",
+    "slug": "Jersey",
+    "legislatures": [
+      {
+        "name": "States",
+        "slug": "States",
+        "sources_directory": "data/Jersey/States/sources",
+        "popolo": "data/Jersey/States/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011",
+            "slug": "2011",
+            "csv": "data/Jersey/States/term-2011.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
     "country": "Kazakhstan",
     "code": "KZ",
-    "sources_directory": "data/Kazakhstan/sources",
-    "popolo": "data/Kazakhstan/final.json",
-    "lastmod": "1433762068",
-    "sha": "99d17cd"
+    "slug": "Kazakhstan",
+    "legislatures": [
+      {
+        "name": "Mazhilis",
+        "slug": "Assembly",
+        "sources_directory": "data/Kazakhstan/Assembly/sources",
+        "popolo": "data/Kazakhstan/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/5",
+            "name": "Fifth Convocation",
+            "start_date": "2012-01-15",
+            "slug": "5",
+            "csv": "data/Kazakhstan/Assembly/term-5.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Kenya",
+    "country": "Kenya",
+    "code": "KE",
+    "slug": "Kenya",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Kenya/Assembly/sources",
+        "popolo": "data/Kenya/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Parliament",
+            "start_date": "2013-03-28",
+            "slug": "11",
+            "csv": "data/Kenya/Assembly/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kosovo",
     "country": "Kosovo",
     "code": "XK",
-    "sources_directory": "data/Kosovo/sources",
-    "popolo": "data/Kosovo/final.json",
-    "lastmod": "1433851529",
-    "sha": "5f70ac4"
+    "slug": "Kosovo",
+    "legislatures": [
+      {
+        "name": "Kuvendit",
+        "slug": "Assembly",
+        "sources_directory": "data/Kosovo/Assembly/sources",
+        "popolo": "data/Kosovo/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "chamber_2014-07-17",
+            "name": "Periudha e pestë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,102"
+              }
+            ],
+            "start_date": "2014-07-17",
+            "slug": "chamber_2014-07-17",
+            "csv": "data/Kosovo/Assembly/term-chamber_2014-07-17.csv"
+          },
+          {
+            "end_date": "2014-05-07",
+            "id": "chamber_2010-12-12",
+            "name": "Periudha e katërt Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=4"
+              }
+            ],
+            "start_date": "2010-12-12",
+            "slug": "chamber_2010-12-12",
+            "csv": "data/Kosovo/Assembly/term-chamber_2010-12-12.csv"
+          },
+          {
+            "end_date": "2010-11-03",
+            "id": "chamber_2007-12-13",
+            "name": "Periudha e tretë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=3"
+              }
+            ],
+            "start_date": "2007-12-13",
+            "slug": "chamber_2007-12-13",
+            "csv": "data/Kosovo/Assembly/term-chamber_2007-12-13.csv"
+          },
+          {
+            "end_date": "2007-12-12",
+            "id": "chamber_2004-11-23",
+            "name": "Periudha e dytë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=2"
+              }
+            ],
+            "start_date": "2004-11-23",
+            "slug": "chamber_2004-11-23",
+            "csv": "data/Kosovo/Assembly/term-chamber_2004-11-23.csv"
+          },
+          {
+            "end_date": "2004-11-23",
+            "id": "chamber_2001-11-17",
+            "name": "Periudha e parë Legjislative",
+            "sources": [
+              {
+                "url": "http://www.kuvendikosoves.org/?cid=1,158&legid=1"
+              }
+            ],
+            "start_date": "2001-11-17",
+            "slug": "chamber_2001-11-17",
+            "csv": "data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Lesotho",
+    "country": "Lesotho",
+    "code": "LS",
+    "slug": "Lesotho",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Lesotho/Assembly/sources",
+        "popolo": "data/Lesotho/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2015-03-10",
+            "slug": "9",
+            "csv": "data/Lesotho/Assembly/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Liberia",
     "country": "Liberia",
     "code": "LR",
-    "sources_directory": "data/Liberia/sources",
-    "popolo": "data/Liberia/final.json",
-    "lastmod": "1433519355",
-    "sha": "db4d5d1"
+    "slug": "Liberia",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/Liberia/House/sources",
+        "popolo": "data/Liberia/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/53",
+            "name": "53rd Session",
+            "start_date": "2011",
+            "slug": "53",
+            "csv": "data/Liberia/House/term-53.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Libya",
+    "country": "Libya",
+    "code": "LY",
+    "slug": "Libya",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House-of-Representatives",
+        "sources_directory": "data/Libya/House_of_Representatives/sources",
+        "popolo": "data/Libya/House_of_Representatives/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/1",
+            "name": "1st House of Representatives",
+            "start_date": "2014-08-04",
+            "slug": "1",
+            "csv": "data/Libya/House_of_Representatives/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "country": "Madagascar",
+    "code": "MG",
+    "slug": "Madagascar",
+    "legislatures": [
+      {
+        "name": "National Parliament",
+        "slug": "Assembly",
+        "sources_directory": "data/Madagascar/Assembly/sources",
+        "popolo": "data/Madagascar/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2018",
+            "id": "term/2013",
+            "name": "2013-1018",
+            "start_date": "2013-12-20",
+            "slug": "2013",
+            "csv": "data/Madagascar/Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malawi",
     "country": "Malawi",
     "code": "MW",
-    "sources_directory": "data/Malawi/sources",
-    "popolo": "data/Malawi/final.json",
-    "lastmod": "1433519436",
-    "sha": "13ad73f"
+    "slug": "Malawi",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Malawi/Assembly/sources",
+        "popolo": "data/Malawi/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Malawi/Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Malaysia",
+    "country": "Malaysia",
+    "code": "MY",
+    "slug": "Malaysia",
+    "legislatures": [
+      {
+        "name": "Dewan Rakyat",
+        "slug": "Dewan-Rakyat",
+        "sources_directory": "data/Malaysia/Dewan_Rakyat/sources",
+        "popolo": "data/Malaysia/Dewan_Rakyat/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13th Parliament of Malaysia",
+            "start_date": "2013-06-24",
+            "slug": "13",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-13.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/12",
+            "name": "12th Parliament of Malaysia",
+            "start_date": "2008",
+            "slug": "12",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-12.csv"
+          },
+          {
+            "end_date": "2008",
+            "id": "term/11",
+            "name": "11th Parliament of Malaysia",
+            "start_date": "2004",
+            "slug": "11",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-11.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/10",
+            "name": "10th Parliament of Malaysia",
+            "start_date": "1999",
+            "slug": "10",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-10.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/9",
+            "name": "9th Parliament of Malaysia",
+            "start_date": "1995",
+            "slug": "9",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-9.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/8",
+            "name": "8th Parliament of Malaysia",
+            "start_date": "1990",
+            "slug": "8",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-8.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/7",
+            "name": "7th Parliament of Malaysia",
+            "start_date": "1986",
+            "slug": "7",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-7.csv"
+          },
+          {
+            "end_date": "1986",
+            "id": "term/6",
+            "name": "6th Parliament of Malaysia",
+            "start_date": "1982",
+            "slug": "6",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-6.csv"
+          },
+          {
+            "end_date": "1982",
+            "id": "term/5",
+            "name": "5th Parliament of Malaysia",
+            "start_date": "1978",
+            "slug": "5",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-5.csv"
+          },
+          {
+            "end_date": "1978",
+            "id": "term/4",
+            "name": "4th Parliament of Malaysia",
+            "start_date": "1974",
+            "slug": "4",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-4.csv"
+          },
+          {
+            "end_date": "1974",
+            "id": "term/3",
+            "name": "3rd Parliament of Malaysia",
+            "start_date": "1969",
+            "slug": "3",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-3.csv"
+          },
+          {
+            "end_date": "1969",
+            "id": "term/2",
+            "name": "2nd Parliament of Malaysia",
+            "start_date": "1964",
+            "slug": "2",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-2.csv"
+          },
+          {
+            "end_date": "1964",
+            "id": "term/1",
+            "name": "1st Parliament of Malaysia",
+            "start_date": "1959",
+            "slug": "1",
+            "csv": "data/Malaysia/Dewan_Rakyat/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Maldives",
+    "country": "Maldives",
+    "code": "MV",
+    "slug": "Maldives",
+    "legislatures": [
+      {
+        "name": "Majlis",
+        "slug": "Majlis",
+        "sources_directory": "data/Maldives/Majlis/sources",
+        "popolo": "data/Maldives/Majlis/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Maldives/Majlis/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "country": "Mauritania",
+    "code": "MR",
+    "slug": "Mauritania",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Mauritania/National_Assembly/sources",
+        "popolo": "data/Mauritania/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/12",
+            "name": "12th National Assembly",
+            "start_date": "2013-12-21",
+            "slug": "12",
+            "csv": "data/Mauritania/National_Assembly/term-12.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "country": "Micronesia",
+    "code": "FM",
+    "slug": "Micronesia",
+    "legislatures": [
+      {
+        "name": "Congress",
+        "slug": "Congress",
+        "sources_directory": "data/Micronesia/Congress/sources",
+        "popolo": "data/Micronesia/Congress/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/19",
+            "name": "19th Congress",
+            "start_date": "2015-05-11",
+            "slug": "19",
+            "csv": "data/Micronesia/Congress/term-19.csv"
+          },
+          {
+            "end_date": "2015-05-10",
+            "id": "term/18",
+            "name": "18th Congress",
+            "start_date": "2013-05-11",
+            "slug": "18",
+            "csv": "data/Micronesia/Congress/term-18.csv"
+          },
+          {
+            "end_date": "2013-05-10",
+            "id": "term/17",
+            "name": "17th Congress",
+            "start_date": "2011-05-11",
+            "slug": "17",
+            "csv": "data/Micronesia/Congress/term-17.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Moldova",
     "country": "Moldova",
     "code": "MD",
-    "sources_directory": "data/Moldova/sources",
-    "popolo": "data/Moldova/final.json",
-    "lastmod": "1433762122",
-    "sha": "e7f1c73"
+    "slug": "Moldova",
+    "legislatures": [
+      {
+        "name": "Parlament",
+        "slug": "Parlamentul",
+        "sources_directory": "data/Moldova/Parlamentul/sources",
+        "popolo": "data/Moldova/Parlamentul/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014–2018",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Moldova/Parlamentul/term-2014.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Monaco",
+    "country": "Monaco",
+    "code": "MC",
+    "slug": "Monaco",
+    "legislatures": [
+      {
+        "name": "National Council",
+        "slug": "Council",
+        "sources_directory": "data/Monaco/Council/sources",
+        "popolo": "data/Monaco/Council/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2018",
+            "id": "term/2013",
+            "name": "2013",
+            "start_date": "2013-02-21",
+            "slug": "2013",
+            "csv": "data/Monaco/Council/term-2013.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/2008",
+            "name": "2008-2013",
+            "start_date": "2008",
+            "slug": "2008",
+            "csv": "data/Monaco/Council/term-2008.csv"
+          },
+          {
+            "end_date": "2008",
+            "id": "term/2003",
+            "name": "2003-2008",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/Monaco/Council/term-2003.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mongolia",
     "country": "Mongolia",
     "code": "MN",
-    "sources_directory": "data/Mongolia/sources",
-    "popolo": "data/Mongolia/final.json",
-    "lastmod": "1433762281",
-    "sha": "cda77e4"
+    "slug": "Mongolia",
+    "legislatures": [
+      {
+        "name": "State Great Khural",
+        "slug": "Assembly",
+        "sources_directory": "data/Mongolia/Assembly/sources",
+        "popolo": "data/Mongolia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "State Grand Khural 2012–",
+            "start_date": "2012-06-28",
+            "slug": "2012",
+            "csv": "data/Mongolia/Assembly/term-2012.csv"
+          },
+          {
+            "end_date": "2012-06-28",
+            "id": "term/2008",
+            "name": "State Grand Khural 2008–2012",
+            "start_date": "2008-07-23",
+            "slug": "2008",
+            "csv": "data/Mongolia/Assembly/term-2008.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Montenegro",
     "country": "Montenegro",
     "code": "ME",
-    "sources_directory": "data/Montenegro/sources",
-    "popolo": "data/Montenegro/final.json",
-    "lastmod": "1433851578",
-    "sha": "1e28983"
+    "slug": "Montenegro",
+    "legislatures": [
+      {
+        "name": "Skupština",
+        "slug": "Assembly",
+        "sources_directory": "data/Montenegro/Assembly/sources",
+        "popolo": "data/Montenegro/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "550a7f50273a3965683bd824",
+            "identifiers": [
+              {
+                "identifier": "25",
+                "scheme": "skupstina.me/chamber"
+              }
+            ],
+            "name": "Skupština Crne Gore 2012 - 2015",
+            "slug": "550a7f50273a3965683bd824",
+            "csv": "data/Montenegro/Assembly/term-550a7f50273a3965683bd824.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Mozambique",
     "country": "Mozambique",
     "code": "MZ",
-    "sources_directory": "data/Mozambique/sources",
-    "popolo": "data/Mozambique/final.json",
-    "lastmod": "1433605104",
-    "sha": "aee3455"
+    "slug": "Mozambique",
+    "legislatures": [
+      {
+        "name": "Assembleia da República",
+        "slug": "Assembly",
+        "sources_directory": "data/Mozambique/Assembly/sources",
+        "popolo": "data/Mozambique/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "VIII Legislature",
+            "start_date": "2015-01-12",
+            "slug": "8",
+            "csv": "data/Mozambique/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Namibia",
+    "country": "Namibia",
+    "code": "NA",
+    "slug": "Namibia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Namibia/Assembly/sources",
+        "popolo": "data/Namibia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2020",
+            "id": "term/6",
+            "name": "6th National Assembly: 2015 - 2020",
+            "start_date": "2015",
+            "slug": "6",
+            "csv": "data/Namibia/Assembly/term-6.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/5",
+            "name": "5th National Assembly: 2010 - 2015",
+            "start_date": "2010",
+            "slug": "5",
+            "csv": "data/Namibia/Assembly/term-5.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/4",
+            "name": "4th National Council: 2010 - 2015",
+            "start_date": "2010",
+            "slug": "4",
+            "csv": "data/Namibia/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/3",
+            "name": "3rd National Council: 2004 - 2010",
+            "start_date": "2004",
+            "slug": "3",
+            "csv": "data/Namibia/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2",
+            "name": "2nd National Council: 1998 - 2004",
+            "start_date": "1998",
+            "slug": "2",
+            "csv": "data/Namibia/Assembly/term-2.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1",
+            "name": "1st National Council: 1993 - 1998",
+            "start_date": "1993",
+            "slug": "1",
+            "csv": "data/Namibia/Assembly/term-1.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/0",
+            "name": "Constituent Assembly: 1989 - 1990",
+            "start_date": "1989",
+            "slug": "0",
+            "csv": "data/Namibia/Assembly/term-0.csv"
+          }
+        ]
+      },
+      {
+        "name": "National Council",
+        "slug": "Council",
+        "sources_directory": "data/Namibia/Council/sources",
+        "popolo": "data/Namibia/Council/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/4",
+            "name": "4th National Council: 2010 - 2015",
+            "start_date": "2010",
+            "slug": "4",
+            "csv": "data/Namibia/Council/term-4.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/3",
+            "name": "3rd National Council: 2004 - 2010",
+            "start_date": "2004",
+            "slug": "3",
+            "csv": "data/Namibia/Council/term-3.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2",
+            "name": "2nd National Council: 1998 - 2004",
+            "start_date": "1998",
+            "slug": "2",
+            "csv": "data/Namibia/Council/term-2.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1",
+            "name": "1st National Council: 1993 - 1998",
+            "start_date": "1993",
+            "slug": "1",
+            "csv": "data/Namibia/Council/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
     "country": "New Zealand",
     "code": "NZ",
-    "sources_directory": "data/New Zealand/sources",
-    "popolo": "data/New_Zealand/final.json",
-    "lastmod": "1433763410",
-    "sha": "d9029b2"
+    "slug": "New-Zealand",
+    "legislatures": [
+      {
+        "name": "New Zealand Parliament",
+        "slug": "House",
+        "sources_directory": "data/New_Zealand/House/sources",
+        "popolo": "data/New_Zealand/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/51",
+            "name": "51st Parliament",
+            "start_date": "2014-10-20",
+            "slug": "51",
+            "csv": "data/New_Zealand/House/term-51.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Niger",
     "country": "Niger",
     "code": "NE",
-    "sources_directory": "data/Niger/sources",
-    "popolo": "data/Niger/final.json",
-    "lastmod": "1433782612",
-    "sha": "5a11c6f"
+    "slug": "Niger",
+    "legislatures": [
+      {
+        "name": "Assemblée nationale",
+        "slug": "Assembly",
+        "sources_directory": "data/Niger/Assembly/sources",
+        "popolo": "data/Niger/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/7.1",
+            "name": "1ere Legislature de la 7eme Republique",
+            "start_date": "2011-10-06",
+            "slug": "7.1",
+            "csv": "data/Niger/Assembly/term-7.1.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Northern Ireland",
     "country": "Northern Ireland",
     "code": "GB-NIR",
-    "sources_directory": "data/Northern Ireland/sources",
-    "popolo": "data/Northern_Ireland/final.json",
-    "lastmod": "1431804638",
-    "sha": "3e503c7"
+    "slug": "Northern-Ireland",
+    "legislatures": [
+      {
+        "name": "Northern Ireland Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Northern_Ireland/Assembly/sources",
+        "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "4th Assembly",
+            "start_date": "2011-05-06",
+            "slug": "4",
+            "csv": "data/Northern_Ireland/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "2011-03-24",
+            "id": "term/3",
+            "name": "3rd Assembly",
+            "start_date": "2007-03-09",
+            "slug": "3",
+            "csv": "data/Northern_Ireland/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "2007-01-30",
+            "id": "term/2",
+            "name": "2nd Assembly",
+            "start_date": "2003-11-26",
+            "slug": "2",
+            "csv": "data/Northern_Ireland/Assembly/term-2.csv"
+          },
+          {
+            "end_date": "2003-04-28",
+            "id": "term/1",
+            "name": "1st Assembly",
+            "start_date": "1998-06-25",
+            "slug": "1",
+            "csv": "data/Northern_Ireland/Assembly/term-1.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Pakistan",
+    "country": "Pakistan",
+    "code": "PK",
+    "slug": "Pakistan",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Pakistan/Assembly/sources",
+        "popolo": "data/Pakistan/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/14",
+            "name": "14th National Assembly",
+            "start_date": "2013-06-01",
+            "slug": "14",
+            "csv": "data/Pakistan/Assembly/term-14.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
     "country": "Papua New Guinea",
     "code": "PG",
-    "sources_directory": "data/Papua New Guinea/sources",
-    "popolo": "data/Papua_New_Guinea/final.json",
-    "lastmod": "1433771623",
-    "sha": "a961b54"
+    "slug": "Papua-New-Guinea",
+    "legislatures": [
+      {
+        "name": "National Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Papua_New_Guinea/Parliament/sources",
+        "popolo": "data/Papua_New_Guinea/Parliament/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2017",
+            "id": "term/2012",
+            "name": "2012-2017",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Papua_New_Guinea/Parliament/term-2012.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Paraguay",
     "country": "Paraguay",
     "code": "PY",
-    "sources_directory": "data/Paraguay/sources",
-    "popolo": "data/Paraguay/final.json",
-    "lastmod": "1433763486",
-    "sha": "083af4f"
+    "slug": "Paraguay",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Paraguay/Deputies/sources",
+        "popolo": "data/Paraguay/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–2018",
+            "start_date": "2013-04-21",
+            "slug": "2013",
+            "csv": "data/Paraguay/Deputies/term-2013.csv"
+          }
+        ]
+      }
+    ]
   },
   {
-    "country": "Poland",
-    "code": "PL",
-    "sources_directory": "data/Poland/sources",
-    "popolo": "data/Poland/final.json",
-    "lastmod": "1433920096",
-    "sha": "96b25ba"
+    "name": "Philippines",
+    "country": "Philippines",
+    "code": "PH",
+    "slug": "Philippines",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "House",
+        "sources_directory": "data/Philippines/House/sources",
+        "popolo": "data/Philippines/House/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2016-06-30",
+            "id": "term/16",
+            "name": "16th Congress of the Philippines",
+            "start_date": "2013-06-30",
+            "slug": "16",
+            "csv": "data/Philippines/House/term-16.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Portugal",
     "country": "Portugal",
     "code": "PT",
-    "sources_directory": "data/Portugal/sources",
-    "popolo": "data/Portugal/final.json",
-    "lastmod": "1433763839",
-    "sha": "a8fb50a"
+    "slug": "Portugal",
+    "legislatures": [
+      {
+        "name": "Assembleia da República",
+        "slug": "Assembly",
+        "sources_directory": "data/Portugal/Assembly/sources",
+        "popolo": "data/Portugal/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/12",
+            "name": "12ª Legislatura",
+            "start_date": "2011",
+            "slug": "12",
+            "csv": "data/Portugal/Assembly/term-12.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/11",
+            "name": "11ª Legislatura",
+            "start_date": "2009",
+            "slug": "11",
+            "csv": "data/Portugal/Assembly/term-11.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/10",
+            "name": "10ª Legislatura",
+            "start_date": "2005",
+            "slug": "10",
+            "csv": "data/Portugal/Assembly/term-10.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/9",
+            "name": "9ª Legislatura",
+            "start_date": "2002",
+            "slug": "9",
+            "csv": "data/Portugal/Assembly/term-9.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/8",
+            "name": "8ª Legislatura",
+            "start_date": "1999",
+            "slug": "8",
+            "csv": "data/Portugal/Assembly/term-8.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/7",
+            "name": "7ª Legislatura",
+            "start_date": "1995",
+            "slug": "7",
+            "csv": "data/Portugal/Assembly/term-7.csv"
+          },
+          {
+            "end_date": "1995",
+            "id": "term/6",
+            "name": "6ª Legislatura",
+            "start_date": "1991",
+            "slug": "6",
+            "csv": "data/Portugal/Assembly/term-6.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Rwanda",
     "country": "Rwanda",
     "code": "RW",
-    "sources_directory": "data/Rwanda/sources",
-    "popolo": "data/Rwanda/final.json",
-    "lastmod": "1433762352",
-    "sha": "836bff6"
+    "slug": "Rwanda",
+    "legislatures": [
+      {
+        "name": "Chamber of Deputies",
+        "slug": "Deputies",
+        "sources_directory": "data/Rwanda/Deputies/sources",
+        "popolo": "data/Rwanda/Deputies/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/3",
+            "name": "3rd Legislature",
+            "start_date": "2013",
+            "slug": "3",
+            "csv": "data/Rwanda/Deputies/term-3.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "San Marino",
+    "country": "San Marino",
+    "code": "SM",
+    "slug": "San-Marino",
+    "legislatures": [
+      {
+        "name": "Grand and General Council",
+        "slug": "Council",
+        "sources_directory": "data/San_Marino/Council/sources",
+        "popolo": "data/San_Marino/Council/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "Assembly 2012–",
+            "start_date": "2012-12-26",
+            "slug": "2012",
+            "csv": "data/San_Marino/Council/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Scotland",
     "country": "Scotland",
     "code": "GB-SCT",
-    "sources_directory": "data/Scotland/sources",
-    "popolo": "data/Scotland/final.json",
-    "lastmod": "1432215238",
-    "sha": "0b7af5f"
+    "slug": "Scotland",
+    "legislatures": [
+      {
+        "name": "Scottish Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Scotland/Parliament/sources",
+        "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "4th Parliament",
+            "start_date": "2011-05-06",
+            "slug": "4",
+            "csv": "data/Scotland/Parliament/term-4.csv"
+          },
+          {
+            "end_date": "2011-05-04",
+            "id": "term/3",
+            "name": "3rd Parliament",
+            "start_date": "2007-05-03",
+            "slug": "3",
+            "csv": "data/Scotland/Parliament/term-3.csv"
+          },
+          {
+            "end_date": "2007-04-02",
+            "id": "term/2",
+            "name": "2nd Parliament",
+            "start_date": "2003-05-01",
+            "slug": "2",
+            "csv": "data/Scotland/Parliament/term-2.csv"
+          },
+          {
+            "end_date": "2003-03-31",
+            "id": "term/1",
+            "name": "1st Parliament",
+            "start_date": "1999-05-06",
+            "slug": "1",
+            "csv": "data/Scotland/Parliament/term-1.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Seychelles",
     "country": "Seychelles",
     "code": "SC",
-    "sources_directory": "data/Seychelles/sources",
-    "popolo": "data/Seychelles/final.json",
-    "lastmod": "1433762409",
-    "sha": "d05d97b"
+    "slug": "Seychelles",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Seychelles/Assembly/sources",
+        "popolo": "data/Seychelles/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "2011–2016",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Seychelles/Assembly/term-2011.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Sierra Leone",
+    "country": "Sierra Leone",
+    "code": "SL",
+    "slug": "Sierra-Leone",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Sierra_Leone/Parliament/sources",
+        "popolo": "data/Sierra_Leone/Parliament/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2-4",
+            "name": "Fourth Parliament of the Second Republic",
+            "start_date": "2012",
+            "slug": "2-4",
+            "csv": "data/Sierra_Leone/Parliament/term-2-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "country": "Slovenia",
+    "code": "SI",
+    "slug": "Slovenia",
+    "legislatures": [
+      {
+        "name": "Državni zbor",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Slovenia/National_Assembly/sources",
+        "popolo": "data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "7th National Assembly",
+            "start_date": "2014-08-01",
+            "slug": "7",
+            "csv": "data/Slovenia/National_Assembly/term-7.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "country": "South Africa",
+    "code": "ZA",
+    "slug": "South-Africa",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/South_Africa/Assembly/sources",
+        "popolo": "data/South_Africa/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/26",
+            "name": "26th Parliament",
+            "start_date": "2014",
+            "slug": "26",
+            "csv": "data/South_Africa/Assembly/term-26.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Sudan",
     "country": "South Sudan",
     "code": "SS",
-    "sources_directory": "data/South Sudan/sources",
-    "popolo": "data/South_Sudan/final.json",
-    "lastmod": "1433762709",
-    "sha": "88822e9"
+    "slug": "South-Sudan",
+    "legislatures": [
+      {
+        "name": "National Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/South_Sudan/Assembly/sources",
+        "popolo": "data/South_Sudan/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/1",
+            "name": "1st Parliament",
+            "start_date": "2011-07-09",
+            "slug": "1",
+            "csv": "data/South_Sudan/Assembly/term-1.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Spain",
+    "country": "Spain",
+    "code": "ES",
+    "slug": "Spain",
+    "legislatures": [
+      {
+        "name": "Congreso de los Diputados",
+        "slug": "Congress",
+        "sources_directory": "data/Spain/Congress/sources",
+        "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "X Legislatura",
+            "start_date": "2011-11-28",
+            "slug": "10",
+            "csv": "data/Spain/Congress/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Suriname",
     "country": "Suriname",
     "code": "SR",
-    "sources_directory": "data/Suriname/sources",
-    "popolo": "data/Suriname/final.json",
-    "lastmod": "1433763211",
-    "sha": "844707a"
+    "slug": "Suriname",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Suriname/Assembly/sources",
+        "popolo": "data/Suriname/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/2010",
+            "name": "2010–2015",
+            "start_date": "2010",
+            "slug": "2010",
+            "csv": "data/Suriname/Assembly/term-2010.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Swaziland",
+    "country": "Swaziland",
+    "code": "SZ",
+    "slug": "Swaziland",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Swaziland/Assembly/sources",
+        "popolo": "data/Swaziland/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/10",
+            "name": "10th Parliament",
+            "start_date": "2013",
+            "slug": "10",
+            "csv": "data/Swaziland/Assembly/term-10.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/9",
+            "name": "9th Parliament",
+            "start_date": "2008",
+            "slug": "9",
+            "csv": "data/Swaziland/Assembly/term-9.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tanzania",
     "country": "Tanzania",
     "code": "TZ",
-    "sources_directory": "data/Tanzania/sources",
-    "popolo": "data/Tanzania/final.json",
-    "lastmod": "1433763350",
-    "sha": "ffc7260"
+    "slug": "Tanzania",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Tanzania/Assembly/sources",
+        "popolo": "data/Tanzania/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "4th Assembly",
+            "start_date": "2010-10-31",
+            "slug": "4",
+            "csv": "data/Tanzania/Assembly/term-4.csv"
+          },
+          {
+            "end_date": "2010-10-30",
+            "id": "term/3",
+            "name": "3rd Assembly",
+            "start_date": "2005-10-30",
+            "slug": "3",
+            "csv": "data/Tanzania/Assembly/term-3.csv"
+          },
+          {
+            "end_date": "2005-10-29",
+            "id": "term/2",
+            "name": "2nd Assembly",
+            "start_date": "2000-10-29",
+            "slug": "2",
+            "csv": "data/Tanzania/Assembly/term-2.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Togo",
+    "country": "Togo",
+    "code": "TG",
+    "slug": "Togo",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Togo/Assembly/sources",
+        "popolo": "data/Togo/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2013",
+            "name": "2013–",
+            "start_date": "2013",
+            "slug": "2013",
+            "csv": "data/Togo/Assembly/term-2013.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "country": "Tonga",
+    "code": "TO",
+    "slug": "Tonga",
+    "legislatures": [
+      {
+        "name": "Legislative Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Tonga/Assembly/sources",
+        "popolo": "data/Tonga/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "end_date": "2018",
+            "id": "term/2015",
+            "name": "2015-2018",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Tonga/Assembly/term-2015.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
     "country": "Turkey",
     "code": "TR",
-    "sources_directory": "data/Turkey/sources",
-    "popolo": "data/Turkey/final.json",
-    "lastmod": "1433763937",
-    "sha": "4c14327"
+    "slug": "Turkey",
+    "legislatures": [
+      {
+        "name": "Grand National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Turkey/Assembly/sources",
+        "popolo": "data/Turkey/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/24",
+            "name": "24th Parliament",
+            "start_date": "2011-06-28",
+            "slug": "24",
+            "csv": "data/Turkey/Assembly/term-24.csv"
+          },
+          {
+            "end_date": "2011-06-28",
+            "id": "term/23",
+            "name": "23rd Parliament",
+            "start_date": "2007-07-23",
+            "slug": "23",
+            "csv": "data/Turkey/Assembly/term-23.csv"
+          },
+          {
+            "end_date": "2007-07-23",
+            "id": "term/22",
+            "name": "22nd Parliament",
+            "start_date": "2002-11-14",
+            "slug": "22",
+            "csv": "data/Turkey/Assembly/term-22.csv"
+          },
+          {
+            "end_date": "2002-11-14",
+            "id": "term/21",
+            "name": "21st Parliament",
+            "start_date": "1999-04-18",
+            "slug": "21",
+            "csv": "data/Turkey/Assembly/term-21.csv"
+          },
+          {
+            "end_date": "1999-04-18",
+            "id": "term/20",
+            "name": "20th Parliament",
+            "start_date": "1996-01-08",
+            "slug": "20",
+            "csv": "data/Turkey/Assembly/term-20.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "UK",
     "country": "UK",
     "code": "GB",
-    "sources_directory": "data/UK/sources",
-    "popolo": "data/UK/final.json",
-    "lastmod": "1433346322",
-    "sha": "8231275"
+    "slug": "UK",
+    "legislatures": [
+      {
+        "name": "House of Commons",
+        "slug": "Commons",
+        "sources_directory": "data/UK/Commons/sources",
+        "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/56",
+            "name": "56th Parliament of the United Kingdom",
+            "start_date": "2015-05-08",
+            "slug": "56",
+            "csv": "data/UK/Commons/term-56.csv"
+          },
+          {
+            "end_date": "2015-03-30",
+            "id": "term/55",
+            "name": "55th Parliament of the United Kingdom",
+            "start_date": "2010-05-06",
+            "slug": "55",
+            "csv": "data/UK/Commons/term-55.csv"
+          },
+          {
+            "end_date": "2010-04-12",
+            "id": "term/54",
+            "name": "54th Parliament of the United Kingdom",
+            "start_date": "2005-05-05",
+            "slug": "54",
+            "csv": "data/UK/Commons/term-54.csv"
+          },
+          {
+            "end_date": "2005-04-11",
+            "id": "term/53",
+            "name": "53rd Parliament of the United Kingdom",
+            "start_date": "2001-06-07",
+            "slug": "53",
+            "csv": "data/UK/Commons/term-53.csv"
+          },
+          {
+            "end_date": "2001-05-14",
+            "id": "term/52",
+            "name": "52nd Parliament of the United Kingdom",
+            "start_date": "1997-05-01",
+            "slug": "52",
+            "csv": "data/UK/Commons/term-52.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Wales",
     "country": "Wales",
     "code": "GB-WLS",
-    "sources_directory": "data/Wales/sources",
-    "popolo": "data/Wales/final.json",
-    "lastmod": "1433763528",
-    "sha": "812eb66"
+    "slug": "Wales",
+    "legislatures": [
+      {
+        "name": "National Assembly for Wales",
+        "slug": "Assembly",
+        "sources_directory": "data/Wales/Assembly/sources",
+        "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/4",
+            "name": "Fourth Assembly",
+            "start_date": "2011-09-15",
+            "slug": "4",
+            "csv": "data/Wales/Assembly/term-4.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Zambia",
     "country": "Zambia",
     "code": "ZM",
-    "sources_directory": "data/Zambia/sources",
-    "popolo": "data/Zambia/final.json",
-    "lastmod": "1433763557",
-    "sha": "55e6232"
+    "slug": "Zambia",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Zambia/Assembly/sources",
+        "popolo": "data/Zambia/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "11th Assembly",
+            "start_date": "2011-10-06",
+            "slug": "2011",
+            "csv": "data/Zambia/Assembly/term-2011.csv"
+          }
+        ]
+      }
+    ]
   },
   {
+    "name": "Zimbabwe",
     "country": "Zimbabwe",
     "code": "ZW",
-    "sources_directory": "data/Zimbabwe/sources",
-    "popolo": "data/Zimbabwe/final.json",
-    "lastmod": "1433437248",
-    "sha": "9933279"
+    "slug": "Zimbabwe",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Zimbabwe/Assembly/sources",
+        "popolo": "data/Zimbabwe/Assembly/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Parliament",
+            "start_date": "2013",
+            "slug": "8",
+            "csv": "data/Zimbabwe/Assembly/term-8.csv"
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -1,0 +1,5 @@
+{
+  "source": "duncanparkes/belarus",
+  "query": "SELECT *, 2012 as term, 'unknown' as party_id FROM data",
+  "fetch_terms": false
+}

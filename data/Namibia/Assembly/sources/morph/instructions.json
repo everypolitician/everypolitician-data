@@ -1,0 +1,6 @@
+{
+  "source": "duncanparkes/namibia",
+  "fetch_terms": true,
+  "query": "SELECT data.id, data.name, data.image, data.party, data.party AS party_id, terms.term_number AS term, data.email, data.area, data.details_url AS source from data JOIN terms ON data.term_id = terms.id WHERE chamber = 'National Assembly'",
+  "term_query": "SELECT *, term_number AS id FROM terms"
+}

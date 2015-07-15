@@ -1,0 +1,5 @@
+{
+  "source": "duncanparkes/monaco",
+  "fetch_terms": true,
+  "query": "SELECT id, name, party, area, image, email, term_id AS term, details_url AS source FROM data"
+}

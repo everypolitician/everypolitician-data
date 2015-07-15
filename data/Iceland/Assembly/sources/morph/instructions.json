@@ -1,0 +1,5 @@
+{
+  "source": "tmtmtmtm/iceland-althing-wp",
+  "fetch_terms": false,
+  "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data"
+}

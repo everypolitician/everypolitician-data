@@ -1,0 +1,5 @@
+{
+  "source": "pudo/de-bundestag-mdbs",
+  "fetch_terms": false,
+  "query": "SELECT * FROM data ORDER BY last_update DESC LIMIT 1"
+}

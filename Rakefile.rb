@@ -1,37 +1,10 @@
-require 'json'
+require 'yajl/json_gem'
 require 'iso_country_codes'
 require 'tmpdir'
 
-@COUNTRIES = FileList['data/*/Rakefile.rb'].map do |c|
-  {
-    path: c.pathmap('%d'),
-    name: c.pathmap('%d').split('/').last
-  }
-end
-
-@COUNTRIES.each do |country|
-  desc "Regenerate #{country[:name]}"
-  task country[:name].to_sym do
-    warn "Regenerating #{country[:name]}"
-    Rake::Task[:regenerate].execute(country: country)
-  end
-end
-
-task :regenerate, :country do |_t, args|
-  country = args[:country] || abort('Need a country')
-  Dir.chdir country[:path] do
-    sh 'rake rebuild'
-  end
-end
-
-desc 'Regenarate all countries'
-task :regenerate_all do
-  @COUNTRIES.each do |country|
-    Rake::Task[country[:name].to_sym].execute
-  end
-end
-
 ISO = IsoCountryCodes.for_select
+
+@HOUSES = FileList['data/**/Rakefile.rb'].map { |f| f.pathmap '%d' }.reject { |p| File.exist? "#{p}/WIP" }
 
 def name_to_iso_code(name)
   if code = ISO.find { |iname, _| iname == name }
@@ -43,25 +16,64 @@ def name_to_iso_code(name)
   end
 end
 
+def json_from(json_file)
+  JSON.parse(File.read(json_file), symbolize_names: true)
+end
+
+def terms_from(json, h)
+  terms = json[:events].find_all { |o| o[:classification] == 'legislative period' }
+  terms.sort_by { |t| t[:start_date].to_s }.reverse.map { |t|
+    t.delete :classification
+    t.delete :organization_id
+    t[:slug] ||= t[:id].split('/').last
+    t[:csv] = h + "/term-#{t[:slug]}.csv"
+    t
+  }.select { |t| File.exist? t[:csv] }
+end
+
+def name_from(json)
+  orgs = json[:organizations].find_all { |o| o[:classification] == 'legislature' }
+  raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
+  orgs.first[:name]
+end
+
 desc 'Install country-list locally'
 task 'countries.json' do
-  data = @COUNTRIES.reject { |c| File.exist? c[:path] + '/WIP' }.map do |c|
-    meta_file = c[:path] + '/meta.json'
-    json_file = c[:path] + '/final.json'
-
-    name = c[:name].tr('_', ' ')
-    cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{json_file}"
-    (sha, lastmod) = `#{cmd}`.chomp.split('|')
+  countries = @HOUSES.group_by { |h| h.split('/')[1] }
+  
+  data = countries.map do |c, hs|
+    meta_file = hs.first + '/../meta.json'
     meta = File.exist?(meta_file) ? JSON.load(File.open meta_file) : {}
+    name = meta['name'] || c.tr('_', ' ')
+    slug = c.tr('_', '-')
+
 
     {
+      name: name,
+      # Deprecated — will be removed soon!
       country: name,
       code: meta['iso_code'] || name_to_iso_code(name),
-      sources_directory: "data/#{name}/sources",
-      popolo: json_file,
-      lastmod: lastmod,
-      sha: sha
+      slug: slug,
+      legislatures: hs.map { |h|
+        json_file = h + '/ep-popolo-v1.0.json'
+        popolo = json_from(json_file)
+
+        cmd = "git log -p --format='%h|%at' --no-notes -s -1 #{h}"
+        (sha, lastmod) = `#{cmd}`.chomp.split('|')
+        lname = name_from(popolo)
+        lslug = h.split('/').last.tr('_', '-')
+        {
+          name: lname,
+          slug: lslug,
+          sources_directory: "#{h}/sources",
+          popolo: json_file,
+          lastmod: lastmod,
+          sha: sha,
+          legislative_periods: terms_from(popolo, h),
+        }
+      }
     }
   end
   File.write('countries.json', JSON.pretty_generate(data.to_a))
 end
+

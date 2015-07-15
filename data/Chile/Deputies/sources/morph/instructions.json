@@ -1,0 +1,5 @@
+{
+  "source": "tmtmtmtm/chile-opendata",
+  "fetch_terms": false,
+  "query": "SELECT *, CASE district WHEN '0' THEN '' ELSE district END AS area FROM data"
+}
