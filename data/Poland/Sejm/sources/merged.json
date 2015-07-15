@@ -1093,27 +1093,6 @@
       ]
     },
     {
-      "birth_date": "1971-02-04",
-      "family_name": "Mularczyk",
-      "gender": "male",
-      "given_name": "Arkadiusz",
-      "id": "5509a90c273a3904f6e71e7a",
-      "identifiers": [
-        {
-          "identifier": "254",
-          "scheme": "mojepanstwo.pl/people"
-        }
-      ],
-      "image": "http://files.parldata.eu/pl/sejm/people/5509a90c273a3904f6e71e7a/image.jpeg",
-      "name": "Arkadiusz Mularczyk",
-      "sort_name": "Mularczyk, Arkadiusz",
-      "sources": [
-        {
-          "url": "http://mojepanstwo.pl/dane/poslowie/254"
-        }
-      ]
-    },
-    {
       "birth_date": "1945-03-23",
       "family_name": "Fiedler",
       "gender": "male",
@@ -6632,6 +6611,27 @@
       ]
     },
     {
+      "birth_date": "1969-03-13",
+      "family_name": "Poręba",
+      "gender": "male",
+      "given_name": "Marek Zbigniew",
+      "id": "55a289fe273a39085224806f",
+      "identifiers": [
+        {
+          "identifier": "1171",
+          "scheme": "mojepanstwo.pl/people"
+        }
+      ],
+      "image": "http://resources.sejmometr.pl/mowcy/a/0/1582.jpg",
+      "name": "Marek Poręba",
+      "sort_name": "Poręba, Marek Zbigniew",
+      "sources": [
+        {
+          "url": "http://mojepanstwo.pl/dane/poslowie/1171"
+        }
+      ]
+    },
+    {
       "birth_date": "1984-10-14",
       "family_name": "Poznański",
       "gender": "male",
@@ -9801,6 +9801,27 @@
       ]
     },
     {
+      "birth_date": "1966-09-11",
+      "family_name": "Rusecka",
+      "gender": "female",
+      "given_name": "Urszula Beata",
+      "id": "55a289fc273a39085224806b",
+      "identifiers": [
+        {
+          "identifier": "1172",
+          "scheme": "mojepanstwo.pl/people"
+        }
+      ],
+      "image": "http://resources.sejmometr.pl/mowcy/a/0/1583.jpg",
+      "name": "Urszula Rusecka",
+      "sort_name": "Rusecka, Urszula Beata",
+      "sources": [
+        {
+          "url": "http://mojepanstwo.pl/dane/poslowie/1172"
+        }
+      ]
+    },
+    {
       "birth_date": "1971-09-17",
       "family_name": "Andzel",
       "gender": "male",
@@ -10557,6 +10578,34 @@
       ]
     },
     {
+      "birth_date": "1971-02-04",
+      "changes": [
+        {
+          "end_date": "2015-07-14",
+          "property": "name",
+          "value": "Arkadiusz Mularczyk"
+        }
+      ],
+      "family_name": "Mularczyk",
+      "gender": "male",
+      "given_name": "Arkadiusz",
+      "id": "5509a90c273a3904f6e71e7a",
+      "identifiers": [
+        {
+          "identifier": "254",
+          "scheme": "mojepanstwo.pl/people"
+        }
+      ],
+      "image": "http://files.parldata.eu/pl/sejm/people/5509a90c273a3904f6e71e7a/image.jpeg",
+      "name": "imie_nazwisko",
+      "sort_name": "Mularczyk, Arkadiusz",
+      "sources": [
+        {
+          "url": "http://mojepanstwo.pl/dane/poslowie/254"
+        }
+      ]
+    },
+    {
       "birth_date": "1975-04-11",
       "family_name": "Borowiak",
       "gender": "male",
@@ -10663,6 +10712,23 @@
     }
   ],
   "organizations": [
+    {
+      "classification": "party",
+      "id": "55a28a14273a390852248077",
+      "identifiers": [
+        {
+          "identifier": "12",
+          "scheme": "mojepanstwo.pl/parties"
+        }
+      ],
+      "name": "Biało-Czerwoni",
+      "other_names": [
+        {
+          "name": "Biało-Czerwoni"
+        }
+      ],
+      "parent_id": "5509a8fb273a3904f6e71a64"
+    },
     {
       "classification": "party",
       "id": "5509a91d273a3904f6e72294",
@@ -11047,6 +11113,11 @@
     {
       "id": "5509a91f273a3904f6e7231e",
       "organization_id": "5509a91d273a3904f6e72298",
+      "person_id": "5509a8fc273a3904f6e71aae"
+    },
+    {
+      "id": "55a28a39273a3908522480e7",
+      "organization_id": "55a28a14273a390852248077",
       "person_id": "5509a8fc273a3904f6e71aae"
     },
     {
@@ -12785,6 +12856,11 @@
       "person_id": "5509a907273a3904f6e71d52"
     },
     {
+      "id": "55a28a25273a3908522480ab",
+      "organization_id": "55a28a14273a390852248077",
+      "person_id": "5509a907273a3904f6e71d52"
+    },
+    {
       "id": "5509a907273a3904f6e71d58",
       "organization_id": "5509a8fb273a3904f6e71a64",
       "person_id": "5509a907273a3904f6e71d56"
@@ -13465,6 +13541,11 @@
       "person_id": "5509a90b273a3904f6e71e56"
     },
     {
+      "id": "55a28a31273a3908522480cd",
+      "organization_id": "55a28a14273a390852248077",
+      "person_id": "5509a90b273a3904f6e71e56"
+    },
+    {
       "id": "5509a90c273a3904f6e71e5c",
       "organization_id": "5509a8fb273a3904f6e71a64",
       "person_id": "5509a90b273a3904f6e71e5a"
@@ -13472,6 +13553,11 @@
     {
       "id": "5509a937273a3904f6e729d2",
       "organization_id": "5509a91d273a3904f6e72298",
+      "person_id": "5509a90b273a3904f6e71e5a"
+    },
+    {
+      "id": "55a28a31273a3908522480cb",
+      "organization_id": "55a28a14273a390852248077",
       "person_id": "5509a90b273a3904f6e71e5a"
     },
     {
@@ -15010,6 +15096,11 @@
       "person_id": "5509a915273a3904f6e720a6"
     },
     {
+      "id": "55a28a40273a3908522480f9",
+      "organization_id": "5509a91d273a3904f6e72298",
+      "person_id": "5509a915273a3904f6e720a6"
+    },
+    {
       "id": "5509a915273a3904f6e720ac",
       "organization_id": "5509a8fb273a3904f6e71a64",
       "person_id": "5509a915273a3904f6e720aa"
@@ -16068,6 +16159,26 @@
       "id": "554a3457273a395cd19194ab",
       "organization_id": "5509a91d273a3904f6e7228e",
       "person_id": "554a3434273a395cd19194a3"
+    },
+    {
+      "id": "55a289fc273a39085224806d",
+      "organization_id": "5509a8fb273a3904f6e71a64",
+      "person_id": "55a289fc273a39085224806b"
+    },
+    {
+      "id": "55a28a24273a3908522480a3",
+      "organization_id": "5509a91d273a3904f6e7228e",
+      "person_id": "55a289fc273a39085224806b"
+    },
+    {
+      "id": "55a289fe273a390852248071",
+      "organization_id": "5509a8fb273a3904f6e71a64",
+      "person_id": "55a289fe273a39085224806f"
+    },
+    {
+      "id": "55a28a26273a3908522480af",
+      "organization_id": "5509a91d273a3904f6e7228c",
+      "person_id": "55a289fe273a39085224806f"
     }
   ],
   "events": [
