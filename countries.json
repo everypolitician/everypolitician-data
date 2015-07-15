@@ -2825,6 +2825,36 @@
     ]
   },
   {
+    "name": "Poland",
+    "country": "Poland",
+    "code": "PL",
+    "slug": "Poland",
+    "legislatures": [
+      {
+        "name": "Sejm",
+        "slug": "Sejm",
+        "sources_directory": "data/Poland/Sejm/sources",
+        "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
+        "lastmod": "1436976942",
+        "sha": "24e9df3",
+        "legislative_periods": [
+          {
+            "id": "5509a8fb273a3904f6e71a64",
+            "identifiers": [
+              {
+                "identifier": "7",
+                "scheme": "mojepanstwo.pl/chamber"
+              }
+            ],
+            "name": "Sejm 2011 - ",
+            "slug": "5509a8fb273a3904f6e71a64",
+            "csv": "data/Poland/Sejm/term-5509a8fb273a3904f6e71a64.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Portugal",
     "country": "Portugal",
     "code": "PT",
