@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/nepal-ca-members",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.leadnepal.com/contactyourleader",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
