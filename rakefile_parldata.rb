@@ -133,7 +133,7 @@ namespace :transform do
         # require 'colorize'
         # puts "Making #{group_mems.count} memberships for #{missing[:person_id]} in #{term}".yellow
 
-        group_mems.sort_by { |m| m[:start_date] }.each_with_index do |group_mem, i|
+        group_mems.sort_by { |m| m[:start_date].to_s }.each_with_index do |group_mem, i|
           raise "No membership ID in #{missing}" unless missing.key? :id
           leg_mem = missing.dup
           # Careful with the shallow copy...
@@ -141,7 +141,7 @@ namespace :transform do
           leg_mem[:on_behalf_of_id] = group_mem[:organization_id]
           # TODO: were they in no groups for a while in the middle?
           leg_mem[:start_date] = group_mem[:start_date] if group_mem.key?(:start_date) && group_mem[:start_date] > leg_mem[:start_date]
-          leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   && group_mem[:end_date]   < leg_mem[:end_date]
+          leg_mem[:end_date]   = group_mem[:end_date]   if group_mem.key?(:end_date)   && group_mem[:end_date]   < (leg_mem[:end_date] || "9999-99-99")
           # puts "+ #{JSON.pretty_generate leg_mem}".green
           @json[:memberships].push leg_mem
         end
