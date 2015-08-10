@@ -1,0 +1,32 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/germany-bundestag-members-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://de.wikipedia.org/wiki/Liste_der_Listen_der_Mitglieder_des_Deutschen_Bundestages",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/germany-bundestag-members-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "field": "identifier__wikipedia_de",
+        "match_on": "wikipedia__de"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

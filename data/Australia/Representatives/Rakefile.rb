@@ -1,1 +1,1 @@
-require_relative '../../../rakefile_morph.rb'
+require_relative '../../../rakefile_local.rb'

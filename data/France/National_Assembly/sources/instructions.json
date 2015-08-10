@@ -18,11 +18,9 @@
         "query": "SELECT * FROM data"
       },
       "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
-      "type": "person",
+      "type": "wikidata",
       "merge": { 
-        "field": "name",
-        "approximate": true,
-        "clobber": false
+        "field": "name"
       }
     }
   ]

@@ -18,10 +18,9 @@
         "query": "SELECT *, id AS wikidata, identifier__parlamentDOTch AS id FROM data"
       },
       "source": "https://www.wikidata.org/",
-      "type": "person",
+      "type": "wikidata",
       "merge": { 
-        "field": "id",
-        "clobber": false
+        "field": "id"
       }
     },
     {
