@@ -1,0 +1,18 @@
+{
+  "sources": [
+    {
+      "file": "morph/members.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/georgia-chemiparlamenti",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.chemiparlamenti.ge/",
+      "type": "membership"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

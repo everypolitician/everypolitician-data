@@ -26,6 +26,33 @@
     ]
   },
   {
+    "name": "Alderney",
+    "country": "Alderney",
+    "code": "GG-ALD",
+    "slug": "Alderney",
+    "legislatures": [
+      {
+        "name": "States",
+        "slug": "States",
+        "sources_directory": "data/Alderney/States/sources",
+        "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
+        "lastmod": "1439108757",
+        "person_count": 10,
+        "sha": "8961e50",
+        "legislative_periods": [
+          {
+            "end_date": "2015",
+            "id": "term/2014",
+            "name": "2014–2015",
+            "start_date": "2014",
+            "slug": "2014",
+            "csv": "data/Alderney/States/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Andorra",
     "country": "Andorra",
     "code": "AD",
@@ -213,9 +240,9 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1438887311",
         "person_count": 150,
-        "sha": "80fde5a",
+        "sha": "3e45c84",
         "legislative_periods": [
           {
             "id": "term/44",
@@ -951,9 +978,9 @@
         "slug": "Parliament",
         "sources_directory": "data/Cook_Islands/Parliament/sources",
         "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
-        "lastmod": "1437821367",
+        "lastmod": "1438935207",
         "person_count": 47,
-        "sha": "673ea6b",
+        "sha": "f17f5c0",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -1299,6 +1326,80 @@
     ]
   },
   {
+    "name": "Faroe Islands",
+    "country": "Faroe Islands",
+    "code": "FO",
+    "slug": "Faroe-Islands",
+    "legislatures": [
+      {
+        "name": "Løgting",
+        "slug": "Logting",
+        "sources_directory": "data/Faroe_Islands/Logting/sources",
+        "popolo": "data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
+        "lastmod": "1439031358",
+        "person_count": 99,
+        "sha": "8c822d9",
+        "legislative_periods": [
+          {
+            "id": "term/2011",
+            "name": "Løgting 2011–",
+            "start_date": "2011",
+            "slug": "2011",
+            "csv": "data/Faroe_Islands/Logting/term-2011.csv"
+          },
+          {
+            "end_date": "2011",
+            "id": "term/2008",
+            "name": "Løgting 2008–2011",
+            "start_date": "2008",
+            "slug": "2008",
+            "csv": "data/Faroe_Islands/Logting/term-2008.csv"
+          },
+          {
+            "end_date": "2008",
+            "id": "term/2004",
+            "name": "Løgting 2004–2008",
+            "start_date": "2004",
+            "slug": "2004",
+            "csv": "data/Faroe_Islands/Logting/term-2004.csv"
+          },
+          {
+            "end_date": "2004",
+            "id": "term/2002",
+            "name": "Løgting 2002–2004",
+            "start_date": "2002",
+            "slug": "2002",
+            "csv": "data/Faroe_Islands/Logting/term-2002.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/1998",
+            "name": "Løgting 1998–2002",
+            "start_date": "1998",
+            "slug": "1998",
+            "csv": "data/Faroe_Islands/Logting/term-1998.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/1994",
+            "name": "Løgting 1994–1998",
+            "start_date": "1994",
+            "slug": "1994",
+            "csv": "data/Faroe_Islands/Logting/term-1994.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/1990",
+            "name": "Løgting 1990–1994",
+            "start_date": "1990",
+            "slug": "1990",
+            "csv": "data/Faroe_Islands/Logting/term-1990.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Fiji",
     "country": "Fiji",
     "code": "FJ",
@@ -1521,9 +1622,9 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1438204251",
+        "lastmod": "1438876113",
         "person_count": 627,
-        "sha": "bcae502",
+        "sha": "9bb5288",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -1563,6 +1664,33 @@
     ]
   },
   {
+    "name": "Georgia",
+    "country": "Georgia",
+    "code": "GE",
+    "slug": "Georgia",
+    "legislatures": [
+      {
+        "name": "Parliament of Georgia",
+        "slug": "Parliament",
+        "sources_directory": "data/Georgia/Parliament/sources",
+        "popolo": "data/Georgia/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1438860627",
+        "person_count": 148,
+        "sha": "6c1b43d",
+        "legislative_periods": [
+          {
+            "end_date": "2016-10-01",
+            "id": "term/8",
+            "name": "8th Convocation",
+            "start_date": "2012-10-20",
+            "slug": "8",
+            "csv": "data/Georgia/Parliament/term-8.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Germany",
     "country": "Germany",
     "code": "DE",
@@ -1573,9 +1701,9 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "lastmod": "1436864729",
-        "person_count": 643,
-        "sha": "83c8b0f",
+        "lastmod": "1439025285",
+        "person_count": 3809,
+        "sha": "c44ac38",
         "legislative_periods": [
           {
             "id": "term/18",
@@ -1583,6 +1711,142 @@
             "start_date": "2013-10-22",
             "slug": "18",
             "csv": "data/Germany/Bundestag/term-18.csv"
+          },
+          {
+            "end_date": "2013",
+            "id": "term/17",
+            "name": "17th Bundestag",
+            "start_date": "2009",
+            "slug": "17",
+            "csv": "data/Germany/Bundestag/term-17.csv"
+          },
+          {
+            "end_date": "2009",
+            "id": "term/16",
+            "name": "16th Bundestag",
+            "start_date": "2005",
+            "slug": "16",
+            "csv": "data/Germany/Bundestag/term-16.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/15",
+            "name": "15th Bundestag",
+            "start_date": "2002",
+            "slug": "15",
+            "csv": "data/Germany/Bundestag/term-15.csv"
+          },
+          {
+            "end_date": "2002",
+            "id": "term/14",
+            "name": "14th Bundestag",
+            "start_date": "1998",
+            "slug": "14",
+            "csv": "data/Germany/Bundestag/term-14.csv"
+          },
+          {
+            "end_date": "1998",
+            "id": "term/13",
+            "name": "13th Bundestag",
+            "start_date": "1994",
+            "slug": "13",
+            "csv": "data/Germany/Bundestag/term-13.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/12",
+            "name": "12th Bundestag",
+            "start_date": "1990",
+            "slug": "12",
+            "csv": "data/Germany/Bundestag/term-12.csv"
+          },
+          {
+            "end_date": "1990",
+            "id": "term/11",
+            "name": "11th Bundestag",
+            "start_date": "1987",
+            "slug": "11",
+            "csv": "data/Germany/Bundestag/term-11.csv"
+          },
+          {
+            "end_date": "1987",
+            "id": "term/10",
+            "name": "10th Bundestag",
+            "start_date": "1983",
+            "slug": "10",
+            "csv": "data/Germany/Bundestag/term-10.csv"
+          },
+          {
+            "end_date": "1983",
+            "id": "term/9",
+            "name": "9th Bundestag",
+            "start_date": "1980",
+            "slug": "9",
+            "csv": "data/Germany/Bundestag/term-9.csv"
+          },
+          {
+            "end_date": "1980",
+            "id": "term/8",
+            "name": "8th Bundestag",
+            "start_date": "1976",
+            "slug": "8",
+            "csv": "data/Germany/Bundestag/term-8.csv"
+          },
+          {
+            "end_date": "1976",
+            "id": "term/7",
+            "name": "7th Bundestag",
+            "start_date": "1972",
+            "slug": "7",
+            "csv": "data/Germany/Bundestag/term-7.csv"
+          },
+          {
+            "end_date": "1972",
+            "id": "term/6",
+            "name": "6th Bundestag",
+            "start_date": "1969",
+            "slug": "6",
+            "csv": "data/Germany/Bundestag/term-6.csv"
+          },
+          {
+            "end_date": "1969",
+            "id": "term/5",
+            "name": "5th Bundestag",
+            "start_date": "1965",
+            "slug": "5",
+            "csv": "data/Germany/Bundestag/term-5.csv"
+          },
+          {
+            "end_date": "1965",
+            "id": "term/4",
+            "name": "4th Bundestag",
+            "start_date": "1961",
+            "slug": "4",
+            "csv": "data/Germany/Bundestag/term-4.csv"
+          },
+          {
+            "end_date": "1961",
+            "id": "term/3",
+            "name": "3rd Bundestag",
+            "start_date": "1957",
+            "slug": "3",
+            "csv": "data/Germany/Bundestag/term-3.csv"
+          },
+          {
+            "end_date": "1957",
+            "id": "term/2",
+            "name": "2nd Bundestag",
+            "start_date": "1953",
+            "slug": "2",
+            "csv": "data/Germany/Bundestag/term-2.csv"
+          },
+          {
+            "end_date": "1953",
+            "id": "term/1",
+            "name": "1st Bundestag",
+            "start_date": "1949",
+            "slug": "1",
+            "csv": "data/Germany/Bundestag/term-1.csv"
           }
         ]
       }
@@ -2545,6 +2809,32 @@
     ]
   },
   {
+    "name": "Lithuania",
+    "country": "Lithuania",
+    "code": "LT",
+    "slug": "Lithuania",
+    "legislatures": [
+      {
+        "name": "Seimas",
+        "slug": "Seimas",
+        "sources_directory": "data/Lithuania/Seimas/sources",
+        "popolo": "data/Lithuania/Seimas/ep-popolo-v1.0.json",
+        "lastmod": "1438968909",
+        "person_count": 150,
+        "sha": "78c4ca3",
+        "legislative_periods": [
+          {
+            "id": "term/11",
+            "name": "11th Seimas",
+            "start_date": "2012-11-17",
+            "slug": "11",
+            "csv": "data/Lithuania/Seimas/term-11.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Madagascar",
     "country": "Madagascar",
     "code": "MG",
@@ -3181,9 +3471,9 @@
         "slug": "Congress",
         "sources_directory": "data/New_Caledonia/Congress/sources",
         "popolo": "data/New_Caledonia/Congress/ep-popolo-v1.0.json",
-        "lastmod": "1438520421",
+        "lastmod": "1438873279",
         "person_count": 54,
-        "sha": "13d075e",
+        "sha": "0482149",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -3285,9 +3575,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1438327762",
+        "lastmod": "1438873271",
         "person_count": 235,
-        "sha": "11c3dcf",
+        "sha": "9a8f8b6",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -3614,6 +3904,80 @@
             "start_date": "2013-06-30",
             "slug": "16",
             "csv": "data/Philippines/House/term-16.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "country": "Poland",
+    "code": "PL",
+    "slug": "Poland",
+    "legislatures": [
+      {
+        "name": "Sejm",
+        "slug": "Sejm",
+        "sources_directory": "data/Poland/Sejm/sources",
+        "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
+        "lastmod": "1438874512",
+        "person_count": 1965,
+        "sha": "9927bc9",
+        "legislative_periods": [
+          {
+            "id": "term/7",
+            "name": "VII kadencja",
+            "start_date": "2011-11-08",
+            "slug": "7",
+            "csv": "data/Poland/Sejm/term-7.csv"
+          },
+          {
+            "end_date": "2011-11-07",
+            "id": "term/6",
+            "name": "VI kadencja",
+            "start_date": "2007-11-05",
+            "slug": "6",
+            "csv": "data/Poland/Sejm/term-6.csv"
+          },
+          {
+            "end_date": "2007-11-04",
+            "id": "term/5",
+            "name": "V kadencja",
+            "start_date": "2005-10-19",
+            "slug": "5",
+            "csv": "data/Poland/Sejm/term-5.csv"
+          },
+          {
+            "end_date": "2005-10-18",
+            "id": "term/4",
+            "name": "IV kadencja",
+            "start_date": "2001-10-19",
+            "slug": "4",
+            "csv": "data/Poland/Sejm/term-4.csv"
+          },
+          {
+            "end_date": "2001-10-18",
+            "id": "term/3",
+            "name": "III kadencja",
+            "start_date": "1997-10-20",
+            "slug": "3",
+            "csv": "data/Poland/Sejm/term-3.csv"
+          },
+          {
+            "end_date": "1997-10-19",
+            "id": "term/2",
+            "name": "II kadencja",
+            "start_date": "1993-09-19",
+            "slug": "2",
+            "csv": "data/Poland/Sejm/term-2.csv"
+          },
+          {
+            "end_date": "1993-09-18",
+            "id": "term/1",
+            "name": "I kadencja",
+            "start_date": "1991-11-25",
+            "slug": "1",
+            "csv": "data/Poland/Sejm/term-1.csv"
           }
         ]
       }
@@ -4057,9 +4421,9 @@
         "slug": "National-Council",
         "sources_directory": "data/Switzerland/National_Council/sources",
         "popolo": "data/Switzerland/National_Council/ep-popolo-v1.0.json",
-        "lastmod": "1438278601",
+        "lastmod": "1438874927",
         "person_count": 1165,
-        "sha": "a2e63af",
+        "sha": "bbaa182",
         "legislative_periods": [
           {
             "end_date": "2015-11-29",
@@ -4417,9 +4781,9 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1438873188",
         "person_count": 60,
-        "sha": "80fde5a",
+        "sha": "751e1db",
         "legislative_periods": [
           {
             "id": "term/4",
