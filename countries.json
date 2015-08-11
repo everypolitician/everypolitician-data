@@ -3439,6 +3439,32 @@
     ]
   },
   {
+    "name": "Nepal",
+    "country": "Nepal",
+    "code": "NP",
+    "slug": "Nepal",
+    "legislatures": [
+      {
+        "name": "Constituent Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Nepal/Assembly/sources",
+        "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439290068",
+        "person_count": 550,
+        "sha": "db70bda",
+        "legislative_periods": [
+          {
+            "id": "term/ca2",
+            "name": "2nd Constituent Assembly",
+            "start_date": "2014-01-22",
+            "slug": "ca2",
+            "csv": "data/Nepal/Assembly/term-ca2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "New Caledonia",
     "country": "New Caledonia",
     "code": "NC",
