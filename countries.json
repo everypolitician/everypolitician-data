@@ -105,6 +105,81 @@
     ]
   },
   {
+    "name": "Anguilla",
+    "country": "Anguilla",
+    "code": "AI",
+    "slug": "Anguilla",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "Assembly",
+        "sources_directory": "data/Anguilla/Assembly/sources",
+        "popolo": "data/Anguilla/Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1439232228",
+        "person_count": 18,
+        "sha": "94752b9",
+        "legislative_periods": [
+          {
+            "end_date": "2020",
+            "id": "term/2015",
+            "name": "2015–2020",
+            "start_date": "2015",
+            "slug": "2015",
+            "csv": "data/Anguilla/Assembly/term-2015.csv"
+          },
+          {
+            "end_date": "2015",
+            "id": "term/2010",
+            "name": "2010–2015",
+            "start_date": "2010",
+            "slug": "2010",
+            "csv": "data/Anguilla/Assembly/term-2010.csv"
+          },
+          {
+            "end_date": "2010",
+            "id": "term/2005",
+            "name": "2005–2010",
+            "start_date": "2005",
+            "slug": "2005",
+            "csv": "data/Anguilla/Assembly/term-2005.csv"
+          },
+          {
+            "end_date": "2005",
+            "id": "term/2000",
+            "name": "2000–2005",
+            "start_date": "2000",
+            "slug": "2000",
+            "csv": "data/Anguilla/Assembly/term-2000.csv"
+          },
+          {
+            "end_date": "2000",
+            "id": "term/1999",
+            "name": "1999–2000",
+            "start_date": "1999",
+            "slug": "1999",
+            "csv": "data/Anguilla/Assembly/term-1999.csv"
+          },
+          {
+            "end_date": "1999",
+            "id": "term/1994",
+            "name": "1994–1999",
+            "start_date": "1994",
+            "slug": "1994",
+            "csv": "data/Anguilla/Assembly/term-1994.csv"
+          },
+          {
+            "end_date": "1994",
+            "id": "term/1989",
+            "name": "1989–1994",
+            "start_date": "1989",
+            "slug": "1989",
+            "csv": "data/Anguilla/Assembly/term-1989.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Antigua and Barbuda",
     "country": "Antigua and Barbuda",
     "code": "AG",
@@ -1436,19 +1511,14 @@
         "slug": "Eduskunta",
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
-        "lastmod": "1436785093",
+        "lastmod": "1439216689",
         "person_count": 432,
-        "sha": "80fde5a",
+        "sha": "6610a1c",
         "legislative_periods": [
           {
+            "end_date": "2015-03-14",
             "id": "term/36",
-            "identifiers": [
-              {
-                "identifier": "1",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 36 (2011)",
+            "name": "Eduskunta 36",
             "start_date": "2011-04-20",
             "slug": "36",
             "csv": "data/Finland/Eduskunta/term-36.csv"
@@ -1456,13 +1526,7 @@
           {
             "end_date": "2011-04-19",
             "id": "term/35",
-            "identifiers": [
-              {
-                "identifier": "2",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 35 (2007)",
+            "name": "Eduskunta 35",
             "start_date": "2007-03-21",
             "slug": "35",
             "csv": "data/Finland/Eduskunta/term-35.csv"
@@ -1470,13 +1534,7 @@
           {
             "end_date": "2007-03-20",
             "id": "term/34",
-            "identifiers": [
-              {
-                "identifier": "3",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 34 (2003)",
+            "name": "Eduskunta 34",
             "start_date": "2003-03-19",
             "slug": "34",
             "csv": "data/Finland/Eduskunta/term-34.csv"
@@ -1484,13 +1542,7 @@
           {
             "end_date": "2003-03-18",
             "id": "term/33",
-            "identifiers": [
-              {
-                "identifier": "4",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 33 (1999)",
+            "name": "Eduskunta 33",
             "start_date": "1999-03-24",
             "slug": "33",
             "csv": "data/Finland/Eduskunta/term-33.csv"
@@ -1498,13 +1550,7 @@
           {
             "end_date": "1999-03-23",
             "id": "term/32",
-            "identifiers": [
-              {
-                "identifier": "36",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 32 (1995)",
+            "name": "Eduskunta 32",
             "start_date": "1995-03-24",
             "slug": "32",
             "csv": "data/Finland/Eduskunta/term-32.csv"
@@ -1512,13 +1558,7 @@
           {
             "end_date": "1995-03-23",
             "id": "term/31",
-            "identifiers": [
-              {
-                "identifier": "35",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 31 (1991)",
+            "name": "Eduskunta 31",
             "start_date": "1991-03-22",
             "slug": "31",
             "csv": "data/Finland/Eduskunta/term-31.csv"
@@ -1526,13 +1566,7 @@
           {
             "end_date": "1991-03-21",
             "id": "term/30",
-            "identifiers": [
-              {
-                "identifier": "34",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 30 (1987)",
+            "name": "Eduskunta 30",
             "start_date": "1987-03-21",
             "slug": "30",
             "csv": "data/Finland/Eduskunta/term-30.csv"
@@ -1540,13 +1574,7 @@
           {
             "end_date": "1987-03-20",
             "id": "term/29",
-            "identifiers": [
-              {
-                "identifier": "33",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 29 (1983)",
+            "name": "Eduskunta 29",
             "start_date": "1983-03-26",
             "slug": "29",
             "csv": "data/Finland/Eduskunta/term-29.csv"
@@ -1554,13 +1582,7 @@
           {
             "end_date": "1983-03-25",
             "id": "term/28",
-            "identifiers": [
-              {
-                "identifier": "32",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 28 (1979)",
+            "name": "Eduskunta 28",
             "start_date": "1979-03-24",
             "slug": "28",
             "csv": "data/Finland/Eduskunta/term-28.csv"
@@ -1568,13 +1590,7 @@
           {
             "end_date": "1979-03-23",
             "id": "term/27",
-            "identifiers": [
-              {
-                "identifier": "31",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 27 (1975 II)",
+            "name": "Eduskunta 27",
             "start_date": "1975-09-27",
             "slug": "27",
             "csv": "data/Finland/Eduskunta/term-27.csv"
@@ -1582,13 +1598,7 @@
           {
             "end_date": "1975-09-26",
             "id": "term/26",
-            "identifiers": [
-              {
-                "identifier": "30",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 26 (1972)",
+            "name": "Eduskunta 26",
             "start_date": "1972-01-22",
             "slug": "26",
             "csv": "data/Finland/Eduskunta/term-26.csv"
@@ -1596,13 +1606,7 @@
           {
             "end_date": "1972-01-21",
             "id": "term/25",
-            "identifiers": [
-              {
-                "identifier": "29",
-                "scheme": "kansanmuisti.fi"
-              }
-            ],
-            "name": "Eduskunta 25 (1970)",
+            "name": "Eduskunta 25",
             "start_date": "1970-03-23",
             "slug": "25",
             "csv": "data/Finland/Eduskunta/term-25.csv"
