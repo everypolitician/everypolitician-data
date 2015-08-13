@@ -2250,106 +2250,64 @@
         "slug": "Assembly",
         "sources_directory": "data/Hungary/Assembly/sources",
         "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1437667903",
-        "person_count": 215,
-        "sha": "03bc5db",
+        "lastmod": "1439379592",
+        "person_count": 216,
+        "sha": "1131b9f",
         "legislative_periods": [
           {
-            "id": "550303bc273a39033bab34df",
-            "identifiers": [
-              {
-                "identifier": "40",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/40",
             "name": "Országgyűlés 2014 - ",
             "start_date": "2014-05-06",
-            "slug": "550303bc273a39033bab34df",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34df.csv"
+            "slug": "40",
+            "csv": "data/Hungary/Assembly/term-40.csv"
           },
           {
             "end_date": "2014-05-05",
-            "id": "550303bc273a39033bab34e1",
-            "identifiers": [
-              {
-                "identifier": "39",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/39",
             "name": "Országgyűlés 2010 - 2014",
             "start_date": "2010-05-14",
-            "slug": "550303bc273a39033bab34e1",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e1.csv"
+            "slug": "39",
+            "csv": "data/Hungary/Assembly/term-39.csv"
           },
           {
             "end_date": "2010-05-13",
-            "id": "550303bc273a39033bab34e3",
-            "identifiers": [
-              {
-                "identifier": "38",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/38",
             "name": "Országgyűlés 2006 - 2010",
             "start_date": "2006-05-16",
-            "slug": "550303bc273a39033bab34e3",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e3.csv"
+            "slug": "38",
+            "csv": "data/Hungary/Assembly/term-38.csv"
           },
           {
             "end_date": "2006-05-15",
-            "id": "550303bc273a39033bab34e5",
-            "identifiers": [
-              {
-                "identifier": "37",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/37",
             "name": "Országgyűlés 2002 - 2006",
             "start_date": "2002-05-15",
-            "slug": "550303bc273a39033bab34e5",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e5.csv"
+            "slug": "37",
+            "csv": "data/Hungary/Assembly/term-37.csv"
           },
           {
             "end_date": "2002-05-14",
-            "id": "550303bc273a39033bab34e7",
-            "identifiers": [
-              {
-                "identifier": "36",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/36",
             "name": "Országgyűlés 1998 - 2002",
             "start_date": "1998-06-18",
-            "slug": "550303bc273a39033bab34e7",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e7.csv"
+            "slug": "36",
+            "csv": "data/Hungary/Assembly/term-36.csv"
           },
           {
             "end_date": "1998-06-17",
-            "id": "550303bc273a39033bab34e9",
-            "identifiers": [
-              {
-                "identifier": "35",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/35",
             "name": "Országgyűlés 1994 - 98",
             "start_date": "1994-06-28",
-            "slug": "550303bc273a39033bab34e9",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34e9.csv"
+            "slug": "35",
+            "csv": "data/Hungary/Assembly/term-35.csv"
           },
           {
             "end_date": "1994-06-27",
-            "id": "550303bc273a39033bab34eb",
-            "identifiers": [
-              {
-                "identifier": "34",
-                "scheme": "parlament.hu/chamber"
-              }
-            ],
+            "id": "term/34",
             "name": "Országgyűlés 1990 - 94",
             "start_date": "1990-05-02",
-            "slug": "550303bc273a39033bab34eb",
-            "csv": "data/Hungary/Assembly/term-550303bc273a39033bab34eb.csv"
+            "slug": "34",
+            "csv": "data/Hungary/Assembly/term-34.csv"
           }
         ]
       }
