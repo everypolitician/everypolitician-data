@@ -184,6 +184,7 @@ def combine_sources
 
       # TODO: add as other_name
       warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".yellow if wd_match && wd_match[:name] != r[:name]
+      warn "Matched #{r[:name]} to #{wd_match[:name]} (#{wd_match[:id]})".green if wd_match && wd_match[:name] == r[:name]
 
       # Merge it in (non-destructively)
       wd_match.headers.each { |h| r[h] = wd_match[h] if r[h].to_s.empty? || r[h].to_s.downcase == 'unknown' }
