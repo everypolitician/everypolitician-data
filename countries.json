@@ -4137,6 +4137,32 @@
     ]
   },
   {
+    "name": "Sint Maarten",
+    "country": "Sint Maarten",
+    "code": "SX",
+    "slug": "Sint-Maarten",
+    "legislatures": [
+      {
+        "name": "Estates",
+        "slug": "Estates",
+        "sources_directory": "data/Sint_Maarten/Estates/sources",
+        "popolo": "data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
+        "lastmod": null,
+        "person_count": 15,
+        "sha": null,
+        "legislative_periods": [
+          {
+            "id": "term/2",
+            "name": "2nd Estates",
+            "start_date": "2014",
+            "slug": "2",
+            "csv": "data/Sint_Maarten/Estates/term-2.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Slovenia",
     "country": "Slovenia",
     "code": "SI",
