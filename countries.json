@@ -2492,6 +2492,129 @@
     ]
   },
   {
+    "name": "Gibraltar",
+    "country": "Gibraltar",
+    "code": "GI",
+    "slug": "Gibraltar",
+    "legislatures": [
+      {
+        "name": "Parliament",
+        "slug": "Parliament",
+        "sources_directory": "data/Gibraltar/Parliament/sources",
+        "popolo": "data/Gibraltar/Parliament/ep-popolo-v1.0.json",
+        "lastmod": "1442187795",
+        "person_count": 108,
+        "sha": "11148f4",
+        "legislative_periods": [
+          {
+            "end_date": "3 November 2011",
+            "id": "term/12",
+            "name": "Eleventh Gibraltar Parliament",
+            "start_date": "8 November 2007",
+            "slug": "12",
+            "csv": "data/Gibraltar/Parliament/term-12.csv"
+          },
+          {
+            "end_date": "24 October 2003",
+            "id": "term/9",
+            "name": "Ninth House of Assembly",
+            "start_date": "23 February 2000",
+            "slug": "9",
+            "csv": "data/Gibraltar/Parliament/term-9.csv"
+          },
+          {
+            "end_date": "to date",
+            "id": "term/13",
+            "name": "Twelfth Gibraltar Parliament",
+            "start_date": "21 December 2011",
+            "slug": "13",
+            "csv": "data/Gibraltar/Parliament/term-13.csv"
+          },
+          {
+            "end_date": "7 September 2007",
+            "id": "term/11",
+            "name": "Tenth Gibraltar Parliament",
+            "start_date": "2 January 2007",
+            "slug": "11",
+            "csv": "data/Gibraltar/Parliament/term-11.csv"
+          },
+          {
+            "end_date": "2000",
+            "id": "term/8",
+            "name": "Eighth House of Assembly",
+            "start_date": "1996",
+            "slug": "8",
+            "csv": "data/Gibraltar/Parliament/term-8.csv"
+          },
+          {
+            "end_date": "1996",
+            "id": "term/7",
+            "name": "Seventh House of Assembly",
+            "start_date": "1992",
+            "slug": "7",
+            "csv": "data/Gibraltar/Parliament/term-7.csv"
+          },
+          {
+            "end_date": "1992",
+            "id": "term/6",
+            "name": "Sixth House of Assembly",
+            "start_date": "1988",
+            "slug": "6",
+            "csv": "data/Gibraltar/Parliament/term-6.csv"
+          },
+          {
+            "end_date": "1988",
+            "id": "term/5",
+            "name": "Fifth House of Assembly",
+            "start_date": "1984",
+            "slug": "5",
+            "csv": "data/Gibraltar/Parliament/term-5.csv"
+          },
+          {
+            "end_date": "1984",
+            "id": "term/4",
+            "name": "Fourth House of Assembly",
+            "start_date": "1980",
+            "slug": "4",
+            "csv": "data/Gibraltar/Parliament/term-4.csv"
+          },
+          {
+            "end_date": "1980",
+            "id": "term/3",
+            "name": "Third House of Assembly",
+            "start_date": "1976",
+            "slug": "3",
+            "csv": "data/Gibraltar/Parliament/term-3.csv"
+          },
+          {
+            "end_date": "1976",
+            "id": "term/2",
+            "name": "Second House of Assembly",
+            "start_date": "1972",
+            "slug": "2",
+            "csv": "data/Gibraltar/Parliament/term-2.csv"
+          },
+          {
+            "end_date": "1972",
+            "id": "term/1",
+            "name": "First House of Assembly",
+            "start_date": "1969",
+            "slug": "1",
+            "csv": "data/Gibraltar/Parliament/term-1.csv"
+          },
+          {
+            "end_date": "1 January 2007",
+            "id": "term/10",
+            "name": "Tenth House of Assembly",
+            "start_date": "18 December 2003",
+            "slug": "10",
+            "csv": "data/Gibraltar/Parliament/term-10.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Greece",
     "country": "Greece",
     "code": "GR",
