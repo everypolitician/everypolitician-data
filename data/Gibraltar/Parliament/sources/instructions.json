@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "andylolz/gibraltar-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/andylolz/gibraltar-parliament",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "andylolz/gibraltar-parliament",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}
