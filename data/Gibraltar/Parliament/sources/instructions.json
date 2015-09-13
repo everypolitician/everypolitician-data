@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "andylolz/gibraltar-parliament",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://www.parliament.gi/history/composition-of-parliament",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "andylolz/gibraltar-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://morph.io/andylolz/gibraltar-wikipedia",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "term_match": true,
+        "amatch_threshold": 65,
+        "amatch_warning": 100
+      }
+    },
+    {
+      "file": "morph/terms.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "andylolz/gibraltar-parliament",
+        "query": "SELECT * FROM terms"
+      },
+      "source": "http://www.parliament.gi/history/composition-of-parliament",
+      "type": "term"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/gibraltar-parliament-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikipedia_name"
+      }
+    }
+  ]
+}
