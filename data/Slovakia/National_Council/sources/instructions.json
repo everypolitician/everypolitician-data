@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/slovakia-national-council",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://api.parldata.eu/sk/nrsr/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "file": "morph/terms.csv",
+        "type": "morph",
+        "scraper": "tmtmtmtm/slovakia-national-council",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}

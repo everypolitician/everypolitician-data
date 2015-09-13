@@ -5974,6 +5974,72 @@
     ]
   },
   {
+    "name": "Slovakia",
+    "country": "Slovakia",
+    "code": "SK",
+    "slug": "Slovakia",
+    "legislatures": [
+      {
+        "name": "National Council",
+        "slug": "National-Council",
+        "sources_directory": "data/Slovakia/National_Council/sources",
+        "popolo": "data/Slovakia/National_Council/ep-popolo-v1.0.json",
+        "lastmod": "1441352524",
+        "person_count": 1086,
+        "sha": "09ca6c2",
+        "legislative_periods": [
+          {
+            "id": "term/6",
+            "name": "6. Národná rada 2012-",
+            "start_date": "2012-03-11",
+            "slug": "6",
+            "csv": "data/Slovakia/National_Council/term-6.csv"
+          },
+          {
+            "end_date": "2012-03-10",
+            "id": "term/5",
+            "name": "5. Národná rada 2010-2012",
+            "start_date": "2010-06-13",
+            "slug": "5",
+            "csv": "data/Slovakia/National_Council/term-5.csv"
+          },
+          {
+            "end_date": "2010-06-12",
+            "id": "term/4",
+            "name": "4. Národná rada 2006-2010",
+            "start_date": "2006-06-17",
+            "slug": "4",
+            "csv": "data/Slovakia/National_Council/term-4.csv"
+          },
+          {
+            "end_date": "2006-06-16",
+            "id": "term/3",
+            "name": "3. Národná rada 2002-2006",
+            "start_date": "2002-09-22",
+            "slug": "3",
+            "csv": "data/Slovakia/National_Council/term-3.csv"
+          },
+          {
+            "end_date": "2002-09-21",
+            "id": "term/2",
+            "name": "2. Národná rada 1998-2002",
+            "start_date": "1998-09-26",
+            "slug": "2",
+            "csv": "data/Slovakia/National_Council/term-2.csv"
+          },
+          {
+            "end_date": "1998-09-25",
+            "id": "term/1",
+            "name": "1. Národná rada 1994-1998",
+            "start_date": "1994-10-01",
+            "slug": "1",
+            "csv": "data/Slovakia/National_Council/term-1.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Slovenia",
     "country": "Slovenia",
     "code": "SI",
