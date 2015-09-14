@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/north-korea-assembly-wikipedia",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://en.wikipedia.org/wiki/North_Korean_parliamentary_election,_2014",
+      "type": "membership"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/north-korea-assembly-wikidata",
+        "query": "SELECT * FROM data"
+      },
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "wikipedia__en",
+        "existing_field": "wikiname"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}

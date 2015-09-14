@@ -1,0 +1,23 @@
+{
+  "sources": [
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "dracos/scraper-sweden-riksdagen",
+        "query": "SELECT * FROM data"
+      },
+      "source": "http://data.riksdagen.se/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "create": {
+        "type": "morph",
+        "scraper": "dracos/scraper-sweden-riksdagen",
+        "query": "SELECT * FROM terms"
+      }
+    }
+  ]
+}

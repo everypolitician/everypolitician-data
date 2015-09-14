@@ -5074,6 +5074,32 @@
     ]
   },
   {
+    "name": "North Korea",
+    "country": "North Korea",
+    "code": "KP",
+    "slug": "North-Korea",
+    "legislatures": [
+      {
+        "name": "Supreme People’s Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/North_Korea/National_Assembly/sources",
+        "popolo": "data/North_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442242273",
+        "person_count": 687,
+        "sha": "9b28e08",
+        "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "13th Assembly",
+            "start_date": "2014-03-09",
+            "slug": "13",
+            "csv": "data/North_Korea/National_Assembly/term-13.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Northern Cyprus",
     "country": "Northern Cyprus",
     "code": "CY-TRNC",
@@ -6639,6 +6665,32 @@
     ]
   },
   {
+    "name": "Sweden",
+    "country": "Sweden",
+    "code": "SE",
+    "slug": "Sweden",
+    "legislatures": [
+      {
+        "name": "Riksdag",
+        "slug": "Riksdag",
+        "sources_directory": "data/Sweden/Riksdag/sources",
+        "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "lastmod": "1442249890",
+        "person_count": 349,
+        "sha": "5c312c8",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "2014 election",
+            "start_date": "2014-09-14",
+            "slug": "2014",
+            "csv": "data/Sweden/Riksdag/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Switzerland",
     "country": "Switzerland",
     "code": "CH",
@@ -6892,9 +6944,9 @@
         "slug": "National-Legislative-Assembly",
         "sources_directory": "data/Thailand/National_Legislative_Assembly/sources",
         "popolo": "data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
-        "lastmod": "1441980978",
+        "lastmod": "1442233088",
         "person_count": 218,
-        "sha": "77aab0c",
+        "sha": "1b4cc7c",
         "legislative_periods": [
           {
             "id": "term/2557",
