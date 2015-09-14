@@ -1,0 +1,5 @@
+# with http://harelba.github.io/q/
+
+q -d, -O -H 'SELECT id, name, given_name, family_name, honorific_prefix, honorific_suffix, gender, email, website, twitter, facebook,
+SUBSTR(birth_date,7,4) || "-" || SUBSTR(birth_date,4,2) || "-" || SUBSTR(birth_date,1,2) AS birth_date, image,
+area, "group", term, MAX(start_date,"2013-09-29") AS start_date, end_date, source_page_url AS source FROM full.csv WHERE term = 25' > members.csv

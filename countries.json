@@ -552,6 +552,32 @@
     ]
   },
   {
+    "name": "Austria",
+    "country": "Austria",
+    "code": "AT",
+    "slug": "Austria",
+    "legislatures": [
+      {
+        "name": "Nationalrat",
+        "slug": "Nationalrat",
+        "sources_directory": "data/Austria/Nationalrat/sources",
+        "popolo": "data/Austria/Nationalrat/ep-popolo-v1.0.json",
+        "lastmod": "1442233984",
+        "person_count": 182,
+        "sha": "7a32309",
+        "legislative_periods": [
+          {
+            "id": "term/25",
+            "name": "25th Legislative Period",
+            "start_date": "2013-09-29",
+            "slug": "25",
+            "csv": "data/Austria/Nationalrat/term-25.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Azerbaijan",
     "country": "Azerbaijan",
     "code": "AZ",
@@ -572,6 +598,32 @@
             "start_date": "2010",
             "slug": "4",
             "csv": "data/Azerbaijan/National_Assembly/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "country": "Bahamas",
+    "code": "BS",
+    "slug": "Bahamas",
+    "legislatures": [
+      {
+        "name": "House of Assembly",
+        "slug": "House-of-Assembly",
+        "sources_directory": "data/Bahamas/House_of_Assembly/sources",
+        "popolo": "data/Bahamas/House_of_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442215699",
+        "person_count": 38,
+        "sha": "b66488a",
+        "legislative_periods": [
+          {
+            "id": "term/2012",
+            "name": "2012–",
+            "start_date": "2012",
+            "slug": "2012",
+            "csv": "data/Bahamas/House_of_Assembly/term-2012.csv"
           }
         ]
       }
@@ -6441,6 +6493,32 @@
     ]
   },
   {
+    "name": "South Korea",
+    "country": "South Korea",
+    "code": "KR",
+    "slug": "South-Korea",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/South_Korea/National_Assembly/sources",
+        "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442223488",
+        "person_count": 296,
+        "sha": "ff1022a",
+        "legislative_periods": [
+          {
+            "id": "term/19",
+            "name": "19th National Assembly",
+            "start_date": "2012-05-30",
+            "slug": "19",
+            "csv": "data/South_Korea/National_Assembly/term-19.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "South Sudan",
     "country": "South Sudan",
     "code": "SS",
@@ -6704,6 +6782,32 @@
             "start_date": "2012-05-24",
             "slug": "2012",
             "csv": "data/Syria/Majlis/term-2012.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "country": "Taiwan",
+    "code": "TW",
+    "slug": "Taiwan",
+    "legislatures": [
+      {
+        "name": "Legislative Yuan",
+        "slug": "Legislative-Yuan",
+        "sources_directory": "data/Taiwan/Legislative_Yuan/sources",
+        "popolo": "data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
+        "lastmod": "1442228940",
+        "person_count": 111,
+        "sha": "156254d",
+        "legislative_periods": [
+          {
+            "id": "term/8",
+            "name": "8th Legislative Yuan",
+            "start_date": "2012-02-01",
+            "slug": "8",
+            "csv": "data/Taiwan/Legislative_Yuan/term-8.csv"
           }
         ]
       }
@@ -7534,6 +7638,32 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "country": "Yemen",
+    "code": "YE",
+    "slug": "Yemen",
+    "legislatures": [
+      {
+        "name": "House of Representatives",
+        "slug": "Majlis",
+        "sources_directory": "data/Yemen/Majlis/sources",
+        "popolo": "data/Yemen/Majlis/ep-popolo-v1.0.json",
+        "lastmod": "1442231151",
+        "person_count": 302,
+        "sha": "9047dc2",
+        "legislative_periods": [
+          {
+            "id": "term/2003",
+            "name": "2003–",
+            "start_date": "2003",
+            "slug": "2003",
+            "csv": "data/Yemen/Majlis/term-2003.csv"
           }
         ]
       }
