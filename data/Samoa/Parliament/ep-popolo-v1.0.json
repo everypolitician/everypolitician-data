@@ -2,7 +2,13 @@
   "persons": [
     {
       "gender": "male",
-      "id": "person/Q4646813",
+      "id": "person/13",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-AEAU-Peniamina-Leavaseeta.png"
+        }
+      ],
       "name": "A'eau Peniamina"
     },
     {
@@ -75,7 +81,13 @@
     {
       "gender": "female",
       "given_name": "Naomi",
-      "id": "person/Q5446290",
+      "id": "person/15",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-FIAME-Naomi-Mataafa.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Afioga-Hon-FIAME-Naomi-Mataafa.png"
+        }
+      ],
       "name": "Fiame Naomi"
     },
     {
@@ -231,7 +243,13 @@
     {
       "gender": "male",
       "given_name": "Niko",
-      "id": "person/Q11041329",
+      "id": "person/38",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga-Hon-PAPALIITELE-Niko-Lee-Hang.png"
+        }
+      ],
       "name": "Niko Lee Hang"
     },
     {
@@ -361,17 +379,17 @@
     {
       "birth_date": "1945-04-14",
       "gender": "male",
-      "id": "person/Q57723",
+      "id": "person/41",
       "identifiers": [
         {
           "identifier": "/m/08jzgq",
           "scheme": "freebase"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tuilaepa_Sailele_Malielegaoi.jpg",
+      "image": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga_Hon_Tuilaepa_Fatialofa_Lupesoliai_Aiono_Neioti_Sailele_Malielegaoi.png",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tuilaepa_Sailele_Malielegaoi.jpg"
+          "url": "http://www.parliament.gov.ws/new/wp-content/gallery/members-parliament-15/Susuga_Hon_Tuilaepa_Fatialofa_Lupesoliai_Aiono_Neioti_Sailele_Malielegaoi.png"
         }
       ],
       "name": "Tuilaepa Sailele Malielegaoi"
@@ -508,6 +526,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/falealupo",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/tsp",
+      "organization_id": "legislature",
+      "person_id": "person/13",
+      "role": "member"
+    },
+    {
       "area_id": "area/palauli-le-falefa",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/hrpp",
@@ -521,6 +547,14 @@
       "on_behalf_of_id": "party/hrpp",
       "organization_id": "legislature",
       "person_id": "person/148",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lotofaga",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/hrpp",
+      "organization_id": "legislature",
+      "person_id": "person/15",
       "role": "member"
     },
     {
@@ -660,11 +694,27 @@
       "role": "member"
     },
     {
+      "area_id": "area/individual",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/hrpp",
+      "organization_id": "legislature",
+      "person_id": "person/38",
+      "role": "member"
+    },
+    {
       "area_id": "area/aiga-i-le-tai",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/hrpp",
       "organization_id": "legislature",
       "person_id": "person/39",
+      "role": "member"
+    },
+    {
+      "area_id": "area/lepa",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/hrpp",
+      "organization_id": "legislature",
+      "person_id": "person/41",
       "role": "member"
     },
     {
@@ -793,38 +843,6 @@
       "on_behalf_of_id": "party/hrpp",
       "organization_id": "legislature",
       "person_id": "person/92",
-      "role": "member"
-    },
-    {
-      "area_id": "area/individual",
-      "legislative_period_id": "term/15",
-      "on_behalf_of_id": "party/hrpp",
-      "organization_id": "legislature",
-      "person_id": "person/Q11041329",
-      "role": "member"
-    },
-    {
-      "area_id": "area/falealupo",
-      "legislative_period_id": "term/15",
-      "on_behalf_of_id": "party/tsp",
-      "organization_id": "legislature",
-      "person_id": "person/Q4646813",
-      "role": "member"
-    },
-    {
-      "area_id": "area/lotofaga",
-      "legislative_period_id": "term/15",
-      "on_behalf_of_id": "party/hrpp",
-      "organization_id": "legislature",
-      "person_id": "person/Q5446290",
-      "role": "member"
-    },
-    {
-      "area_id": "area/lepa",
-      "legislative_period_id": "term/15",
-      "on_behalf_of_id": "party/hrpp",
-      "organization_id": "legislature",
-      "person_id": "person/Q57723",
       "role": "member"
     },
     {

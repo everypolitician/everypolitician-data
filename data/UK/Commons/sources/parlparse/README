@@ -1,6 +1,6 @@
-This should all move to morph.io, but currently blows its memory limits
-so for now you can load the data by:
+# This should all move to morph.io, but currently blows its memory limits
+# so for now you can load the data by:
 
-1) curl -o twfy.json https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json 
+curl -o twfy.json https://raw.githubusercontent.com/mysociety/parlparse/master/members/people.json 
 
-2) ruby json_to_csv.rb twfy.json > data.csv
+ruby json_to_csv.rb twfy.json > data.csv
