@@ -124,9 +124,12 @@ namespace :merge_sources do
       else 
         # warn "Patching #{to_patch.size} rows with #{new_row[incoming_field]}".green
       end
-      # For now, only set values that are not already set (or are set to 'unknown')
-      # TODO: clobber / append.
+
+      # If 'term_match: true' is set, only merge data for the same term
+      to_patch.keep_if { |r| r[:term].to_s == new_row[:term].to_s } if opts[:term_match] 
       to_patch.each do |existing_row|
+        # For now, only set values that are not already set (or are set to 'unknown')
+        # TODO: have a 'clobber' flag (or list of values to trust the latter source for)
         new_row.keys.each do |h| 
           existing_row[h] = new_row[h] if existing_row[h].to_s.empty? || existing_row[h].to_s.downcase == 'unknown' 
         end
