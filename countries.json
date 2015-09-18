@@ -4453,6 +4453,32 @@
     ]
   },
   {
+    "name": "Mauritius",
+    "country": "Mauritius",
+    "code": "MU",
+    "slug": "Mauritius",
+    "legislatures": [
+      {
+        "name": "National Assembly",
+        "slug": "National-Assembly",
+        "sources_directory": "data/Mauritius/National_Assembly/sources",
+        "popolo": "data/Mauritius/National_Assembly/ep-popolo-v1.0.json",
+        "lastmod": "1442608705",
+        "person_count": 62,
+        "sha": "f07fdf0",
+        "legislative_periods": [
+          {
+            "id": "term/2014",
+            "name": "10th National Assembly",
+            "start_date": "2014-12-10",
+            "slug": "2014",
+            "csv": "data/Mauritius/National_Assembly/term-2014.csv"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Mexico",
     "country": "Mexico",
     "code": "MX",
