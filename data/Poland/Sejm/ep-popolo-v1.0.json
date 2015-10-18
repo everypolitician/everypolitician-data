@@ -1239,6 +1239,7 @@
       ]
     },
     {
+      "birth_date": "1957-01-01",
       "gender": "male",
       "given_name": "Adam",
       "id": "person/adam-struzik",
@@ -3736,6 +3737,7 @@
       ]
     },
     {
+      "birth_date": "1945-01-01",
       "gender": "male",
       "given_name": "Alfred",
       "id": "person/alfred-domagalski",
@@ -3745,10 +3747,21 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfred_Domagalski_Sejm_08.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Alfred_Domagalski_Sejm_08.JPG"
+        }
+      ],
       "name": "Alfred Domagalski",
       "other_names": [
         {
           "lang": "pl",
+          "name": "Alfred Domagalski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
           "name": "Alfred Domagalski",
           "note": "multilingual"
         }
@@ -6636,6 +6649,8 @@
       ]
     },
     {
+      "birth_date": "1572-01-01",
+      "death_date": "1657-07-14",
       "gender": "male",
       "given_name": "Andrzej",
       "id": "person/andrzej-lipski",
@@ -6647,6 +6662,12 @@
         {
           "identifier": "Q9152767",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/POL_COA_Grabie.svg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/POL_COA_Grabie.svg"
         }
       ],
       "name": "Andrzej Lipski",
@@ -7009,6 +7030,11 @@
       "other_names": [
         {
           "lang": "pl",
+          "name": "Andrzej Micewski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Andrzej Micewski",
           "note": "multilingual"
         },
@@ -28305,6 +28331,7 @@
       ]
     },
     {
+      "birth_date": "1940-12-25",
       "gender": "male",
       "given_name": "Henryk",
       "id": "person/henryk-wujec",
@@ -43110,6 +43137,12 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/John_Godson.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://johngodson.pl/"
+        }
+      ],
       "name": "John Godson",
       "other_names": [
         {
@@ -46242,6 +46275,10 @@
         {
           "identifier": "175891230",
           "scheme": "sudoc"
+        },
+        {
+          "identifier": "nm0215186",
+          "scheme": "imdb"
         },
         {
           "identifier": "ola2002159248",
@@ -60970,6 +61007,7 @@
       ]
     },
     {
+      "birth_date": "1939-07-16",
       "gender": "male",
       "given_name": "Marian",
       "id": "person/marian-król",
@@ -65200,6 +65238,7 @@
       ]
     },
     {
+      "birth_date": "1961-10-13",
       "gender": "male",
       "id": "person/mirosław-lewandowski",
       "identifiers": [
@@ -81100,12 +81139,6 @@
         {
           "identifier": "Q9354892",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tadeusz_Mazowiecki_nah.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tadeusz_Mazowiecki_nah.jpg"
         }
       ],
       "name": "Tadeusz Syryjczyk",
