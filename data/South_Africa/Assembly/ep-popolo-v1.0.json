@@ -383,12 +383,18 @@
     },
     {
       "email": "Andries.Nel@parliament.gov.za",
+      "gender": "male",
+      "given_name": "Andries",
       "honorific_prefix": "Mr",
       "id": "e1c9486d-5d6b-4ddb-a92f-12d91c76b9f3",
       "identifiers": [
         {
           "identifier": "andries-carl-nel",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16744353",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/3e/85/3e85ab83dcaabdd63fa7bceeaa8e12d4.jpg",
@@ -397,7 +403,30 @@
           "url": "http://www.pa.org.za/media_root/cache/3e/85/3e85ab83dcaabdd63fa7bceeaa8e12d4.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andries_Nel"
+        }
+      ],
       "name": "Andries Nel",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Andries Nel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andries Nel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andries Nel",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.pa.org.za/person/andries-carl-nel/"
