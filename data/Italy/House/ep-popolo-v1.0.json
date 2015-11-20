@@ -17362,6 +17362,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/gianpiero.dalia?fref=ts"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gianpierodalia.it/"
         }
       ],
       "name": "D'ALIA Gianpiero",
@@ -19720,7 +19724,7 @@
     },
     {
       "birth_date": "1978-08-04",
-      "email": "aledibattista@tiscali.itmailto:dibattista_a@camera.it",
+      "email": "DIBATTISTA_A@CAMERA.IT",
       "family_name": "Di Battista",
       "gender": "male",
       "given_name": "Alessandro",
@@ -55532,11 +55536,6 @@
     },
     {
       "classification": "party",
-      "id": "party/area_popolare_(ncd-udc)",
-      "name": "Area Popolare (NCD-UDC)"
-    },
-    {
-      "classification": "party",
       "id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "name": "FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE"
     },
@@ -55584,6 +55583,11 @@
     },
     {
       "classification": "party",
+      "id": "party/misto_-_alternativa_libera-possibile",
+      "name": "MISTO - ALTERNATIVA LIBERA-POSSIBILE"
+    },
+    {
+      "classification": "party",
       "id": "party/misto_-_centro_democratico",
       "name": "MISTO - CENTRO DEMOCRATICO"
     },
@@ -55616,11 +55620,6 @@
       "classification": "party",
       "id": "party/movimento_5_stelle",
       "name": "MOVIMENTO 5 STELLE"
-    },
-    {
-      "classification": "party",
-      "id": "party/movimento_5_stelle",
-      "name": "Movimento 5 stelle"
     },
     {
       "classification": "party",
@@ -57912,12 +57911,22 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "55b1505c-be47-4580-95e3-9a9b8d5f8737",
       "role": "member",
       "start_date": "2015-07-01"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
+      "organization_id": "legislature",
+      "person_id": "55b1505c-be47-4580-95e3-9a9b8d5f8737",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "VIII",
@@ -58040,12 +58049,22 @@
     },
     {
       "area_id": "III",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "59379bdb-9655-45c6-ad2f-a3753a8df42b",
       "role": "member",
       "start_date": "2015-05-08"
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
+      "organization_id": "legislature",
+      "person_id": "59379bdb-9655-45c6-ad2f-a3753a8df42b",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "XIX",
@@ -59447,12 +59466,22 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "8b300df9-67f6-426c-bed3-f85612c9660d",
       "role": "member",
       "start_date": "2015-07-25"
+    },
+    {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
+      "organization_id": "legislature",
+      "person_id": "8b300df9-67f6-426c-bed3-f85612c9660d",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "I",
@@ -59550,9 +59579,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/campania_2",
+      "area_id": "XX",
+      "end_date": "2013-12-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare_(ncd-udc)",
+      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
       "organization_id": "legislature",
       "person_id": "8dfa9c0c-c200-4cb7-b862-dd51c630b912",
       "role": "member"
@@ -59667,7 +59697,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/lazio_1",
+      "area_id": "XV",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -59890,7 +59920,7 @@
     {
       "area_id": "VII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "9602d5ef-f44b-460e-bed6-894938452503",
       "role": "member",
@@ -59991,7 +60021,7 @@
     {
       "area_id": "I",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "9a95aa24-4d8b-49d9-be2e-183f0b8034b5",
       "role": "member",
@@ -60175,7 +60205,7 @@
     {
       "area_id": "XII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "a03f5ac0-cd84-4ea9-88e9-531d9dfacd8b",
       "role": "member",
@@ -60421,7 +60451,7 @@
     {
       "area_id": "XXI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "a7622b46-f5e1-4896-a920-74e857f3b75d",
       "role": "member",
@@ -60487,12 +60517,22 @@
     },
     {
       "area_id": "X",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "aaa3ac87-99f3-4758-aeaf-a9dcbb69d958",
       "role": "member",
       "start_date": "2015-03-25"
+    },
+    {
+      "area_id": "X",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
+      "organization_id": "legislature",
+      "person_id": "aaa3ac87-99f3-4758-aeaf-a9dcbb69d958",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "III",
@@ -60572,7 +60612,7 @@
     {
       "area_id": "XII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "ae34ada4-9c1c-44e8-8cd5-0a9e450e92d0",
       "role": "member",
@@ -60625,12 +60665,22 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "ae8c76a7-7c20-48ae-b0c5-b665afdccf5d",
       "role": "member",
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "ae8c76a7-7c20-48ae-b0c5-b665afdccf5d",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "XI",
@@ -60829,12 +60879,22 @@
     },
     {
       "area_id": "IX",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "b7e6ec90-307b-4820-b7ce-4dc45f6282dc",
       "role": "member",
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "IX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "b7e6ec90-307b-4820-b7ce-4dc45f6282dc",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "XI",
@@ -61599,12 +61659,22 @@
     },
     {
       "area_id": "IX",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "d06f571e-24a3-4533-82d9-f3343ac5496a",
       "role": "member",
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "IX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "d06f571e-24a3-4533-82d9-f3343ac5496a",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "XIX",
@@ -62732,7 +62802,7 @@
     {
       "area_id": "XII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "f4d97db3-24c1-483a-a396-e28e3f3c334e",
       "role": "member",
@@ -62919,12 +62989,22 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "legislature",
       "person_id": "f9b8b1e5-f462-46be-b259-a236fd2701d6",
       "role": "member",
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "f9b8b1e5-f462-46be-b259-a236fd2701d6",
+      "role": "member",
+      "start_date": "2015-11-17"
     },
     {
       "area_id": "IV",
@@ -63296,11 +63376,6 @@
     {
       "id": "XXVII",
       "name": "VALLE D'AOSTA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/campania_2",
-      "name": "Campania 2",
       "type": "constituency"
     },
     {
