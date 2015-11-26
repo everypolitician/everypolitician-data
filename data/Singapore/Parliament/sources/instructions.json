@@ -11,6 +11,22 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/singapore-parliament-2016-wikipedia",
+        "query": "SELECT *, 13 AS term FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": { 
+        "incoming_field": "name",
+        "existing_field": "name",
+        "term_match": true,
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
       "file": "morph/terms.csv",
       "create": {
         "type": "morph",
