@@ -5,7 +5,7 @@
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/turkey-tbmm-wikipedia",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, NULL AS source FROM data"
       },
       "source": "https://morph.io/tmtmtmtm/turkey-tbmm-wikipedia",
       "type": "membership"
