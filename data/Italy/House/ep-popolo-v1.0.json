@@ -11531,7 +11531,7 @@
       "email": "CARBONE_E@CAMERA.IT",
       "family_name": "Carbone",
       "gender": "male",
-      "given_name": "Ernesto",
+      "given_name": "Hermenegildo arzuza",
       "id": "de81d1c6-513b-416b-805c-ce8ff9126483",
       "identifiers": [
         {
@@ -18849,7 +18849,7 @@
           "value": "https://twitter.com/#!/RogerDeMenech"
         }
       ],
-      "email": "DEMENECH_R@CAMERA.IT",
+      "email": "demenech_r@camera.itmailto:roger@demenech.it",
       "family_name": "DE MENECH",
       "gender": "male",
       "given_name": "Roger",
@@ -27182,7 +27182,7 @@
           "value": "https://twitter.com/#!/TommasoGinoble"
         }
       ],
-      "email": "ginoble_t@camera.it",
+      "email": "GINOBLE_T@CAMERA.IT",
       "family_name": "GINOBLE",
       "gender": "male",
       "given_name": "Tommaso",
@@ -33701,7 +33701,7 @@
       "email": "MAGORNO_E@CAMERA.IT",
       "family_name": "MAGORNO",
       "gender": "male",
-      "given_name": "Ernesto",
+      "given_name": "Hermenegildo arzuza",
       "id": "4ac62369-b7a3-432c-96bd-837e782649b2",
       "identifiers": [
         {
@@ -45173,7 +45173,7 @@
       "email": "PREZIOSI_E@CAMERA.IT",
       "family_name": "Preziosi",
       "gender": "male",
-      "given_name": "Ernesto",
+      "given_name": "Hermenegildo arzuza",
       "id": "42bc8f33-7f56-46dd-93c4-76ed9f45ff8d",
       "identifiers": [
         {
@@ -55663,11 +55663,6 @@
       "name": "FRATELLI D'ITALIA-ALLEANZA NAZIONALE"
     },
     {
-      "classification": "party",
-      "id": "party/gruppo_misto",
-      "name": "Gruppo Misto"
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -57408,9 +57403,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/puglia",
+      "area_id": "XXI",
+      "end_date": "2015-11-19",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "legislature",
       "person_id": "40e58249-bb50-4434-abc6-9cdaa6d1fe6b",
       "role": "member"
@@ -57558,7 +57554,7 @@
       "role": "member"
     },
     {
-      "area_id": "VIII",
+      "area_id": "area/veneto_2",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -58179,7 +58175,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/abruzzo",
+      "area_id": "XVII",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -59977,12 +59973,22 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2015-12-02",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
       "role": "member",
       "start_date": "2015-08-05"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)",
+      "organization_id": "legislature",
+      "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+      "role": "member",
+      "start_date": "2015-12-02"
     },
     {
       "area_id": "III",
@@ -63701,18 +63707,13 @@
       "type": "constituency"
     },
     {
-      "id": "area/abruzzo",
-      "name": "Abruzzo",
-      "type": "constituency"
-    },
-    {
       "id": "area/lazio_1",
       "name": "Lazio 1",
       "type": "constituency"
     },
     {
-      "id": "area/puglia",
-      "name": "Puglia",
+      "id": "area/veneto_2",
+      "name": "Veneto 2",
       "type": "constituency"
     }
   ]
