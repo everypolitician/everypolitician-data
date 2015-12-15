@@ -11588,6 +11588,10 @@
           "url": "https://it.wikipedia.org/wiki/Ernesto_Carbone"
         },
         {
+          "note": "Wikipedia (itwikiquote)",
+          "url": "https://itwikiquote.wikipedia.org/wiki/Ernesto_Carbone"
+        },
+        {
           "note": "facebook",
           "url": "https://www.facebook.com/ernestocarbone?fref=ts"
         }
@@ -17895,7 +17899,7 @@
           "value": "https://twitter.com/#!/F_DUva"
         }
       ],
-      "email": "DUVA_F@CAMERA.IT",
+      "email": "duva_f@camera.it",
       "family_name": "D'Uva",
       "gender": "male",
       "given_name": "Francesco",
@@ -32716,6 +32720,10 @@
           "scheme": "sbn_it"
         },
         {
+          "identifier": "192144928812954440391",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q15117583",
           "scheme": "wikidata"
         }
@@ -37037,6 +37045,10 @@
         {
           "note": "Wikipedia (itwikiquote)",
           "url": "https://itwikiquote.wikipedia.org/wiki/Giorgia_Meloni"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジョルジャ・メローニ"
         },
         {
           "note": "Wikipedia (pl)",
@@ -44586,8 +44598,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "no2008183690",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "IT\\ICCU\\UBOV\\935606",
           "scheme": "sbn_it"
+        },
+        {
+          "identifier": "116637579",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "210209103",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q1071082",
@@ -55818,6 +55842,11 @@
     },
     {
       "classification": "party",
+      "id": "party/movimento_5_stelle",
+      "name": "Movimento 5 stelle"
+    },
+    {
+      "classification": "party",
       "id": "party/nuovo_centrodestra",
       "name": "NUOVO CENTRODESTRA"
     },
@@ -56898,7 +56927,7 @@
       "role": "member"
     },
     {
-      "area_id": "XXV",
+      "area_id": "area/sicilia_2",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -63776,6 +63805,11 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/sicilia_2",
+      "name": "Sicilia 2",
       "type": "constituency"
     }
   ]
