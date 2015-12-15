@@ -675,6 +675,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "yue",
+          "name": "盧曼華",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "盧曼華",
           "note": "multilingual"
@@ -2337,6 +2342,12 @@
         {
           "identifier": "Q5220520",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danny_Kinahan_at_Portcullis_House_November_2015.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Danny_Kinahan_at_Portcullis_House_November_2015.png"
         }
       ],
       "links": [
@@ -4733,7 +4744,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Francie Molloy",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Francie Molloy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Francie Molloy",
           "note": "multilingual"
         }
@@ -5567,8 +5588,15 @@
     },
     {
       "birth_date": "1953-04-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GerryKellyMLA"
+        }
+      ],
+      "family_name": "Kelly",
       "gender": "male",
-      "given_name": "Gerry",
+      "given_name": "Gerard",
       "id": "de99e576-546a-432b-b9c4-57ec40be15b2",
       "identifiers": [
         {
@@ -5608,6 +5636,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Gerry Kelly",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Gerry Kelly",
           "note": "multilingual"
@@ -5615,6 +5648,11 @@
         {
           "lang": "ga",
           "name": "Gearóid Ó Ceallaigh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Gerry Kelly",
           "note": "multilingual"
         }
       ]
@@ -6008,6 +6046,10 @@
         {
           "identifier": "/m/0nxf7",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "0048249",
+          "scheme": "gnc"
         },
         {
           "identifier": "119479362",
@@ -7544,6 +7586,10 @@
         {
           "identifier": "13800",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "dr-joseph-hendron",
+          "scheme": "hansard"
         },
         {
           "identifier": "Q6210280",
@@ -12542,6 +12588,10 @@
           "url": "https://af.wikipedia.org/wiki/Peter_Robinson_(politikus)"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Peter_Robinson"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Peter_Robinson"
         },
@@ -14319,6 +14369,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stewart_Dickson_MLA_Head_Shot.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Stewart_Dickson_MLA_Head_Shot.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -15014,6 +15070,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/WilliamHay.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/WilliamHay.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -15204,6 +15266,12 @@
         {
           "identifier": "Q16239299",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Willie_Clarke.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Willie_Clarke.jpg"
         }
       ],
       "links": [
@@ -15675,6 +15743,11 @@
       "classification": "party",
       "id": "initial-presiding-officer",
       "name": "Initial Presiding Officer"
+    },
+    {
+      "classification": "party",
+      "id": "ni21",
+      "name": "NI21"
     },
     {
       "classification": "party",
@@ -16309,6 +16382,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "ukip",
+      "name": "UKIP"
     },
     {
       "classification": "party",
@@ -18584,11 +18662,31 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/557-NI",
+      "end_date": "2012-01-29",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "uup",
       "organization_id": "legislature",
       "person_id": "7b526ffd-9805-4b8a-9f7a-6774dbba6f17",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/557-NI",
+      "end_date": "2012-10-04",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "7b526ffd-9805-4b8a-9f7a-6774dbba6f17",
+      "role": "member",
+      "start_date": "2012-01-30"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/557-NI",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "ukip",
+      "organization_id": "legislature",
+      "person_id": "7b526ffd-9805-4b8a-9f7a-6774dbba6f17",
+      "role": "member",
+      "start_date": "2012-10-05"
     },
     {
       "area_id": "uk.org.publicwhip/cons/515-NI",
@@ -19212,11 +19310,31 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/325-NI",
+      "end_date": "2013-03-04",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "uup",
       "organization_id": "legislature",
       "person_id": "a7b407a3-8f43-40e4-812d-c19efca0c1c4",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/325-NI",
+      "end_date": "2013-06-05",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "independent",
+      "organization_id": "legislature",
+      "person_id": "a7b407a3-8f43-40e4-812d-c19efca0c1c4",
+      "role": "member",
+      "start_date": "2013-03-04"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/325-NI",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "ni21",
+      "organization_id": "legislature",
+      "person_id": "a7b407a3-8f43-40e4-812d-c19efca0c1c4",
+      "role": "member",
+      "start_date": "2013-06-06"
     },
     {
       "area_id": "uk.org.publicwhip/cons/197-NI",
