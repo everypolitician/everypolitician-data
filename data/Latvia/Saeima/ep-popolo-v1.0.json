@@ -16604,6 +16604,11 @@
     },
     {
       "classification": "party",
+      "id": "party/unaffiliated_members_of_parliament",
+      "name": "Unaffiliated members of parliament"
+    },
+    {
+      "classification": "party",
       "id": "party/union_of_greens_and_farmers",
       "identifiers": [
         {
@@ -17225,11 +17230,20 @@
       "role": "member"
     },
     {
+      "end_date": "2015-12-16",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/latvian_regional_alliance",
       "organization_id": "legislature",
       "person_id": "49894cb6-b7b2-4ca5-8453-c77c0eabeefc",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unaffiliated_members_of_parliament",
+      "organization_id": "legislature",
+      "person_id": "49894cb6-b7b2-4ca5-8453-c77c0eabeefc",
+      "role": "member",
+      "start_date": "2015-12-16"
     },
     {
       "end_date": "2014-11-05",
