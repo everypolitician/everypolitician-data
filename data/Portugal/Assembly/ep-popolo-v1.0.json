@@ -1,12 +1,19 @@
 {
   "persons": [
     {
+      "birth_date": "1963-10-13",
       "email": "abel.l.baptista@cds.parlamento.pt",
+      "gender": "male",
+      "given_name": "Abel",
       "id": "25798a7f-a63e-4525-88e7-08999a31ebe8",
       "identifiers": [
         {
           "identifier": "abel-baptista",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q318379",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/2167.jpg",
@@ -17,11 +24,75 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Abel_Baptista"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Abel_Lima_Baptista"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Abel_Baptista"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2167"
         }
       ],
       "name": "Abel Baptista",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abel Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abel Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abel Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abel Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Abel Lima Baptista",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/abel-baptista/"
@@ -198,11 +269,31 @@
       ]
     },
     {
+      "birth_date": "1945-04-25",
+      "family_name": "Martins",
+      "gender": "male",
+      "given_name": "Alberto",
       "id": "4e5e0bd2-ad17-4ef0-8013-51d364baaf1c",
       "identifiers": [
         {
           "identifier": "alberto-martins",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09gkmkz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "116411333",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "77571458",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2831797",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/462.jpg",
@@ -213,11 +304,84 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alberto_Martins"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alberto_Martins"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alberto_Martins"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Alberto_Martins"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=462"
         }
       ],
       "name": "Alberto Martins",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Alberto Martins",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/alberto-martins/"
@@ -477,6 +641,7 @@
       ]
     },
     {
+      "birth_date": "1963-01-28",
       "contact_details": [
         {
           "type": "twitter",
@@ -484,11 +649,21 @@
         }
       ],
       "email": "af@pcp.parlamento.pt",
+      "gender": "male",
+      "given_name": "António",
       "id": "56370d29-358d-46a8-9f18-20486fb9ed9e",
       "identifiers": [
         {
           "identifier": "antonio-filipe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "24879353",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q9619105",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/209.jpg",
@@ -499,6 +674,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/António_Filipe"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=209"
         },
@@ -508,6 +687,48 @@
         }
       ],
       "name": "António Filipe",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "António Filipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "António Filipe",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/antonio-filipe/"
@@ -1787,12 +2008,19 @@
       ]
     },
     {
+      "birth_date": "1955-11-29",
       "email": "f.negrao@psd.parlamento.pt",
+      "gender": "male",
+      "given_name": "Fernando",
       "id": "377d99f7-2aa2-45b7-8f71-c6362a7e650c",
       "identifiers": [
         {
           "identifier": "fernando-negrao",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10281462",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/1905.jpg",
@@ -1803,6 +2031,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fernando_Negrão"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1905"
         },
@@ -1812,6 +2044,43 @@
         }
       ],
       "name": "Fernando Negrão",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Fernando Negrão",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/fernando-negrao/"
@@ -2182,11 +2451,17 @@
     },
     {
       "email": "gsilva@psd.parlamento.pt",
+      "gender": "male",
+      "given_name": "Guilherme",
       "id": "a58c5afb-822a-4bb6-8a31-37398085930a",
       "identifiers": [
         {
           "identifier": "guilherme-silva",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10292842",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/618.jpg",
@@ -2197,6 +2472,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Guilherme_Silva"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=618"
         },
@@ -2206,6 +2485,53 @@
         }
       ],
       "name": "Guilherme Silva",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Guilherme Silva",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/guilherme-silva/"
@@ -2285,6 +2611,7 @@
       ]
     },
     {
+      "birth_date": "1969-06-26",
       "contact_details": [
         {
           "type": "twitter",
@@ -2292,11 +2619,16 @@
         }
       ],
       "email": "heloisa.apolonia@pev.parlamento.pt",
+      "gender": "female",
       "id": "476c4e7b-07cf-4afc-8475-63df0dd6c753",
       "identifiers": [
         {
           "identifier": "heloisa-apolonia",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q971595",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/834.jpg",
@@ -2307,6 +2639,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Heloísa_Apolónia"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Heloísa_Apolónia"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Heloísa_Apolónia"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=834"
         },
@@ -2316,6 +2660,43 @@
         }
       ],
       "name": "Heloísa Apolónia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Heloísa Apolónia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/heloisa-apolonia/"
@@ -2680,12 +3061,31 @@
       ]
     },
     {
+      "birth_date": "1947-04-13",
       "email": "gp_pcp@pcp.parlamento.pt",
+      "gender": "male",
+      "given_name": "Jerónimo",
       "id": "4380faf3-42b4-4624-ae01-71f70869209c",
       "identifiers": [
         {
           "identifier": "jeronimo-de-sousa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04q_ql",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "142858846",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "99040000",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1688029",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/210.jpg",
@@ -2696,6 +3096,46 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jerónimo_de_Sousa"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/热罗尼莫·德·索萨"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=210"
         },
@@ -2705,6 +3145,63 @@
         }
       ],
       "name": "Jerónimo de Sousa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jerónimo de Sousa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "热罗尼莫·德·索萨",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/jeronimo-de-sousa/"
@@ -3575,12 +4072,47 @@
       ]
     },
     {
+      "birth_date": "1949-08-29",
       "email": "joaosoares@ps.parlamento.pt",
+      "gender": "male",
+      "given_name": "João",
       "id": "ab517850-3c2b-422f-a00f-58e1510ff317",
       "identifiers": [
         {
+          "identifier": "12971788v",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "2160",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "joao-soares",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03qlcv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0001 1510 7685",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nb2002045519",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "102430012",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "6899495",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1340708",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/1814.jpg",
@@ -3591,6 +4123,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/João_Soares"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/João_Soares_(politician)"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/João_Soares"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/João_Soares"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/João_Barroso_Soares"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1814"
         },
@@ -3600,6 +4152,63 @@
         }
       ],
       "name": "João Soares",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "João Barroso Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "João Barroso Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "João Barroso Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "João Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "João Barroso Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "João Barroso Soares",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/joao-soares/"
@@ -4263,12 +4872,19 @@
       ]
     },
     {
+      "birth_date": "1949-06-28",
       "email": "mbelemroseira@ps.parlamento.pt",
+      "gender": "female",
+      "given_name": "Maria",
       "id": "63100ccc-a746-4e09-9f75-0d2e94e623c0",
       "identifiers": [
         {
           "identifier": "maria-de-belem-roseira",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6761683",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/1671.jpg",
@@ -4279,6 +4895,34 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Maria_de_Belém_Roseira"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1671"
         },
@@ -4288,6 +4932,48 @@
         }
       ],
       "name": "Maria de Belém Roseira",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Maria de Belém Roseira",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/maria-de-belem-roseira/"
@@ -4647,12 +5333,31 @@
       ]
     },
     {
+      "birth_date": "1943-04-15",
       "email": "mota.amaral@ar.parlamento.pt",
+      "gender": "male",
+      "given_name": "João",
       "id": "d7c8b83a-7ca6-4ef0-b180-2f32dbacca0e",
       "identifiers": [
         {
           "identifier": "mota-amaral",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04q88mq",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 6766 9295",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "50937601",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q745134",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/390.jpg",
@@ -4663,6 +5368,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/João_Bosco_Soares_da_Mota_Amaral"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mota_Amaral"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mota_Amaral"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/João_Bosco_Mota_Amaral"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=390"
         },
@@ -4672,6 +5393,63 @@
         }
       ],
       "name": "Mota Amaral",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "João Bosco Soares da Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mota Amaral",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/mota-amaral/"
@@ -5554,11 +6332,18 @@
       ]
     },
     {
+      "birth_date": "1977-11-07",
+      "gender": "male",
+      "given_name": "Pedro",
       "id": "5c12edf1-4d4d-40b6-b327-826cc0c5f569",
       "identifiers": [
         {
           "identifier": "pedro-morais-soares",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16940524",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/4429.jpg",
@@ -5569,11 +6354,42 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Morais_Soares"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4429"
         }
       ],
       "name": "Pedro Morais Soares",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pedro Morais Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Morais Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Morais Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pedro Morais Soares",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pedro Morais Soares",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/pedro-morais-soares/"
@@ -5581,11 +6397,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Pedro",
       "id": "f048e368-5566-4f2a-9d19-adc4d65efc1c",
       "identifiers": [
         {
           "identifier": "pedro-nuno-santos",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10347660",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/2051.jpg",
@@ -5596,11 +6418,47 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Nuno_Santos"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2051"
         }
       ],
       "name": "Pedro Nuno Santos",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pedro Nuno Santos",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/pedro-nuno-santos/"
@@ -6156,6 +7014,7 @@
       ]
     },
     {
+      "birth_date": "1960-02-04",
       "contact_details": [
         {
           "type": "twitter",
@@ -6163,11 +7022,17 @@
         }
       ],
       "email": "tcorreia@cds.parlamento.pt",
+      "gender": "male",
+      "given_name": "Telmo",
       "id": "f2f174be-0719-4cda-a076-827227bc89fd",
       "identifiers": [
         {
           "identifier": "telmo-correia",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16940875",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/1655.jpg",
@@ -6178,6 +7043,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Telmo_Correia"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1655"
         },
@@ -6187,6 +7056,33 @@
         }
       ],
       "name": "Telmo Correia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Telmo Correia",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/telmo-correia/"
@@ -6221,6 +7117,7 @@
       ]
     },
     {
+      "birth_date": "1969-02-14",
       "contact_details": [
         {
           "type": "twitter",
@@ -6228,11 +7125,17 @@
         }
       ],
       "email": "tcaeiro@cds.parlamento.pt",
+      "gender": "female",
+      "given_name": "Teresa",
       "id": "79b2a0c8-3871-4129-8a1d-20865d787fc2",
       "identifiers": [
         {
           "identifier": "teresa-caeiro",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3038797",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://demo.cratica.org/media/img/deputados/1923.jpg",
@@ -6243,6 +7146,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Teresa_Caeiro"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Teresa_Caeiro"
+        },
+        {
           "note": "website",
           "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1923"
         },
@@ -6252,6 +7163,53 @@
         }
       ],
       "name": "Teresa Caeiro",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Teresa Caeiro",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "http://demo.cratica.org/deputados/teresa-caeiro/"
@@ -6526,6 +7484,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/1915blocodeesquerdas.png",
       "links": [
         {
           "note": "website",
@@ -6635,6 +7594,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cds_simbolo_2.png",
       "links": [
         {
           "note": "website",
@@ -6759,6 +7719,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logopcp.gif",
       "links": [
         {
           "note": "website",
@@ -6975,6 +7936,11 @@
           "lang": "uk",
           "name": "Партія Зелених",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "生态主义党“绿党”",
+          "note": "multilingual"
         }
       ]
     },
@@ -6987,6 +7953,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_PS_cor.jpg",
       "links": [
         {
           "note": "website",
@@ -7166,6 +8133,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logo_PSD_cor.PNG",
       "links": [
         {
           "note": "website",
@@ -7339,7 +8307,8 @@
   ],
   "meta": {
     "sources": [
-      "https://morph.io/tmtmtmtm/portugal-democratica-scraper"
+      "https://morph.io/tmtmtmtm/portugal-democratica-scraper",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
