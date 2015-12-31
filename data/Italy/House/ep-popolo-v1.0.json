@@ -31200,7 +31200,7 @@
           "value": "https://twitter.com/#!/baffone5stelle"
         }
       ],
-      "email": "LABBATE_G@CAMERA.IT",
+      "email": "labbate_g@camera.it",
       "family_name": "L'Abbate",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -58534,6 +58534,11 @@
     },
     {
       "classification": "party",
+      "id": "party/movimento_5_stelle",
+      "name": "Movimento 5 stelle"
+    },
+    {
+      "classification": "party",
       "id": "party/nuovo_centrodestra",
       "name": "NUOVO CENTRODESTRA"
     },
@@ -63640,7 +63645,7 @@
       "start_date": "2015-02-05"
     },
     {
-      "area_id": "XXI",
+      "area_id": "area/puglia",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -66502,6 +66507,11 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puglia",
+      "name": "Puglia",
       "type": "constituency"
     }
   ]
