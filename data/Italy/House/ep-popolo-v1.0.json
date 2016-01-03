@@ -812,7 +812,7 @@
           "scheme": "isni"
         },
         {
-          "identifier": "p300431",
+          "identifier": "300431",
           "scheme": "italian_cod"
         },
         {
@@ -4632,12 +4632,20 @@
           "scheme": "isni"
         },
         {
+          "identifier": "300026",
+          "scheme": "italian_cod"
+        },
+        {
           "identifier": "n2004088758",
           "scheme": "lcauth"
         },
         {
           "identifier": "00000028092",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "207",
+          "scheme": "openpolis"
         },
         {
           "identifier": "IT\\ICCU\\LO1V\\274977",
@@ -4789,7 +4797,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.bersanisegretario.it/"
+          "url": "http://www.pierluigibersani.it/"
         }
       ],
       "name": "BERSANI Pier Luigi",
@@ -15466,7 +15474,7 @@
           "scheme": "isni"
         },
         {
-          "identifier": "p15080",
+          "identifier": "15080",
           "scheme": "italian_cod"
         },
         {
@@ -31200,7 +31208,7 @@
           "value": "https://twitter.com/#!/baffone5stelle"
         }
       ],
-      "email": "labbate_g@camera.it",
+      "email": "LABBATE_G@CAMERA.IT",
       "family_name": "L'Abbate",
       "gender": "male",
       "given_name": "Giuseppe",
@@ -58534,11 +58542,6 @@
     },
     {
       "classification": "party",
-      "id": "party/movimento_5_stelle",
-      "name": "Movimento 5 stelle"
-    },
-    {
-      "classification": "party",
       "id": "party/nuovo_centrodestra",
       "name": "NUOVO CENTRODESTRA"
     },
@@ -63645,7 +63648,7 @@
       "start_date": "2015-02-05"
     },
     {
-      "area_id": "area/puglia",
+      "area_id": "XXI",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/movimento_5_stelle",
       "organization_id": "legislature",
@@ -66507,11 +66510,6 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/puglia",
-      "name": "Puglia",
       "type": "constituency"
     }
   ]
