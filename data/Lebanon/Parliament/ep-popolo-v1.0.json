@@ -5606,14 +5606,45 @@
       ]
     },
     {
+      "gender": "male",
       "id": "5b821b53-5a8c-457d-b29c-1da6f023bc84",
       "identifiers": [
         {
           "identifier": "nohad_el_machnouk",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16123912",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نهاد_المشنوق"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nohad_Machnouk"
         }
       ],
       "name": "Nohad el Machnouk",
+      "other_names": [
+        {
+          "name": "Nohad Machnouk",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نهاد المشنوق",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nohad Machnouk",
+          "note": "multilingual"
+        }
+      ],
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament"
@@ -8054,6 +8085,14 @@
       "on_behalf_of_id": "party/future_movement",
       "organization_id": "legislature",
       "person_id": "5a8c9d07-d8b8-47e2-ba17-2957cdf06f25",
+      "role": "member"
+    },
+    {
+      "area_id": "area/beirut_ii",
+      "legislative_period_id": "term/2009",
+      "on_behalf_of_id": "party/future_movement",
+      "organization_id": "legislature",
+      "person_id": "5b821b53-5a8c-457d-b29c-1da6f023bc84",
       "role": "member"
     },
     {
