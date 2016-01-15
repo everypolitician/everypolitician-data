@@ -1,6 +1,7 @@
 {
   "persons": [
     {
+      "birth_date": "1967-02-18",
       "gender": "male",
       "given_name": "Adrian",
       "id": "fab9ea04-d8d5-47a6-b65c-87f5ce63a2e7",
@@ -572,6 +573,7 @@
       ]
     },
     {
+      "birth_date": "1988-11-02",
       "gender": "male",
       "given_name": "Andy",
       "id": "2f234292-213b-4630-b0f2-1fe641e7f61a",
@@ -3282,6 +3284,10 @@
       "name": "David Trimble",
       "other_names": [
         {
+          "name": "felipe",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "دافيد تريمبل",
           "note": "multilingual"
@@ -3328,7 +3334,7 @@
         },
         {
           "lang": "en",
-          "name": "David Trimble",
+          "name": "felipe",
           "note": "multilingual"
         },
         {
@@ -4441,6 +4447,7 @@
       ]
     },
     {
+      "birth_date": "1980-01-01",
       "gender": "female",
       "given_name": "Emma",
       "id": "d75803ce-1eff-4152-94ef-64f49f767451",
@@ -5855,6 +5862,7 @@
       ]
     },
     {
+      "birth_date": "1986-03-06",
       "gender": "male",
       "given_name": "Gordon",
       "id": "46b3ec25-0424-43de-a188-ffc8a9ee5898",
@@ -7595,6 +7603,7 @@
       ]
     },
     {
+      "birth_date": "1935-01-29",
       "family_name": "Carson",
       "gender": "female",
       "given_name": "Joan",
@@ -11322,6 +11331,7 @@
       ]
     },
     {
+      "birth_date": "1973-05-15",
       "gender": "male",
       "given_name": "Neil",
       "id": "9b545ec6-6ca9-4cad-8c9a-2f3aee680d96",
@@ -13621,6 +13631,12 @@
         {
           "identifier": "Q7368901",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Rosie_McCorley,_MLA.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Rosie_McCorley,_MLA.jpg"
         }
       ],
       "links": [
