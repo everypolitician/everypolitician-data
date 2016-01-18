@@ -9857,7 +9857,7 @@
     },
     {
       "birth_date": "1956-01-16",
-      "email": "BRESSA_G@camera.it",
+      "email": "BRESSA_G@CAMERA.IT",
       "family_name": "BRESSA",
       "gender": "male",
       "id": "447f4723-7cde-4a08-a307-8290e293242e",
@@ -11859,7 +11859,7 @@
           "value": "Pecoranera18"
         }
       ],
-      "email": "CAPELLI_R@CAMERA.IT",
+      "email": "capelli_r@camera.itmailto:capelli.57@gmail.com",
       "family_name": "CAPELLI",
       "gender": "male",
       "given_name": "Roberto",
@@ -12089,8 +12089,8 @@
       ]
     },
     {
-      "birth_date": "1949-09-09",
-      "email": "capodicasa_a@camera.it",
+      "birth_date": "1949-11-09",
+      "email": "CAPODICASA_A@CAMERA.IT",
       "family_name": "CAPODICASA",
       "gender": "male",
       "given_name": "Angelo",
@@ -19097,7 +19097,7 @@
     },
     {
       "birth_date": "1973-08-30",
-      "email": "dattorre_a@camera.it",
+      "email": "DATTORRE_A@CAMERA.IT",
       "family_name": "D'Attorre",
       "gender": "male",
       "given_name": "Alfredo",
@@ -20859,7 +20859,7 @@
     },
     {
       "birth_date": "1953-09-29",
-      "email": "delbasso_u@camera.it",
+      "email": "DELBASSO_U@CAMERA.IT",
       "family_name": "DEL BASSO DE CARO",
       "gender": "male",
       "given_name": "Umberto",
@@ -26281,6 +26281,14 @@
         {
           "identifier": "305748",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "305748",
+          "scheme": "italian_cod"
+        },
+        {
+          "identifier": "687357",
+          "scheme": "openpolis"
         },
         {
           "identifier": "Q16573834",
@@ -33083,6 +33091,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "305749",
+          "scheme": "italian_cod"
+        },
+        {
+          "identifier": "429053",
+          "scheme": "openpolis"
+        },
+        {
           "identifier": "Q8220408",
           "scheme": "wikidata"
         }
@@ -33111,8 +33127,16 @@
           "url": "http://www.facebook.com/enzo.lattuca"
         },
         {
+          "note": "instagram",
+          "url": "enzolattuca"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/enzlat"
+        },
+        {
+          "note": "website",
+          "url": "http://www.enzolattuca.it"
         }
       ],
       "name": "LATTUCA Enzo",
@@ -35889,6 +35913,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/マリアンナ・マディーア"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/마리아나_마디아"
         },
         {
           "note": "Wikipedia (la)",
@@ -60443,6 +60471,11 @@
     },
     {
       "classification": "party",
+      "id": "party/democrazia_solidale_-_centro_democratico",
+      "name": "Democrazia Solidale - Centro Democratico"
+    },
+    {
+      "classification": "party",
       "id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "name": "FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE"
     },
@@ -60577,11 +60610,6 @@
       "classification": "party",
       "id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "name": "SINISTRA ITALIANA - SINISTRA ECOLOGIA LIBERTA'"
-    },
-    {
-      "classification": "party",
-      "id": "party/sinistra_italiana-sinistra_ecologia_e_libertà",
-      "name": "Sinistra Italiana-Sinistra ecologia e libertà"
     },
     {
       "classification": "party",
@@ -61317,7 +61345,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/campania_2",
+      "area_id": "XX",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -62334,7 +62362,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/trentino-alto_adige",
+      "area_id": "VI",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -62447,7 +62475,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/sicilia_1",
+      "area_id": "XXIV",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
@@ -62677,10 +62705,9 @@
       "start_date": "2014-12-16"
     },
     {
-      "area_id": "XXVI",
-      "end_date": "2013-03-21",
+      "area_id": "area/sardegna",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/democrazia_solidale_-_centro_democratico",
       "organization_id": "legislature",
       "person_id": "4f8bb819-3be6-4431-bbe0-9ec7792c6545",
       "role": "member"
@@ -65987,9 +66014,10 @@
       "start_date": "2015-09-24"
     },
     {
-      "area_id": "area/calabria",
+      "area_id": "XXIII",
+      "end_date": "2015-11-06",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana-sinistra_ecologia_e_libertà",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "b82c7448-9c5c-4212-aebd-b09ba73c4b83",
       "role": "member"
@@ -68528,11 +68556,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/calabria",
-      "name": "Calabria",
-      "type": "constituency"
-    },
-    {
       "id": "area/campania_2",
       "name": "Campania 2",
       "type": "constituency"
@@ -68543,13 +68566,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/sicilia_1",
-      "name": "Sicilia 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/trentino-alto_adige",
-      "name": "Trentino-Alto Adige",
+      "id": "area/sardegna",
+      "name": "Sardegna",
       "type": "constituency"
     }
   ]
