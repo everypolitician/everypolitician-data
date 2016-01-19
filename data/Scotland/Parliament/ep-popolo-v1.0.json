@@ -2786,6 +2786,7 @@
     },
     {
       "birth_date": "1961-01-01",
+      "death_date": "1961-01-01",
       "gender": "male",
       "given_name": "Brian",
       "id": "c4fff6e0-0d32-4de2-a553-0b086e54a6d4",
@@ -3046,6 +3047,7 @@
     },
     {
       "birth_date": "1961-01-01",
+      "death_date": "1961-01-01",
       "gender": "male",
       "given_name": "Bruce",
       "id": "1bca02f6-8ed1-4a4a-805e-3b2999f0acf6",
@@ -11983,6 +11985,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "cd28486c-9549-4837-8bae-9352f66bfaf7",
+      "name": "Lesley Brennan"
     },
     {
       "birth_date": "1957-01-01",
@@ -21557,6 +21563,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-01-11",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "labour",
       "organization_id": "legislature",
@@ -24273,6 +24280,15 @@
       "organization_id": "legislature",
       "person_id": "cc9d2221-ebeb-404d-945d-cd26e26783c0",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/10721",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "labour",
+      "organization_id": "legislature",
+      "person_id": "cd28486c-9549-4837-8bae-9352f66bfaf7",
+      "role": "member",
+      "start_date": "2016-01-13"
     },
     {
       "area_id": "uk.org.publicwhip/cons/10747",
