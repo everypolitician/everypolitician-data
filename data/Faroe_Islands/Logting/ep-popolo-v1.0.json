@@ -827,6 +827,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cy",
+          "name": "Atli Dam",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Atli Dam",
           "note": "multilingual"
@@ -1428,6 +1433,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Bárður_Nielsen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bárður_Nielsen"
         }
       ],
       "name": "Bárður Nielsen",
@@ -1476,6 +1485,21 @@
       "sources": [
         {
           "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2002-2004"
+        }
+      ]
+    },
+    {
+      "id": "c7fc7683-46b7-48e2-aa69-25ae3a767fc8",
+      "identifiers": [
+        {
+          "identifier": "Bárður á Steig Nielsen",
+          "scheme": "wikipedia_fo"
+        }
+      ],
+      "name": "Bárður á Steig Nielsen",
+      "sources": [
+        {
+          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2011%E2%80%932015"
         }
       ]
     },
@@ -1888,6 +1912,11 @@
           "lang": "nb",
           "name": "Eyðgunn Samuelsen",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eyðgunn Samuelsen",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -2015,6 +2044,11 @@
       ],
       "name": "Finnbogi Ísakson",
       "other_names": [
+        {
+          "lang": "cy",
+          "name": "Finnbogi Ísakson",
+          "note": "multilingual"
+        },
         {
           "lang": "da",
           "name": "Finnbogi Ísakson",
@@ -3760,25 +3794,6 @@
       ]
     },
     {
-      "id": "92724dce-128b-42e0-b46f-d7f2310d9dd9",
-      "identifiers": [
-        {
-          "identifier": "john_petersen",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "John Petersen",
-          "scheme": "wikipedia_fo"
-        }
-      ],
-      "name": "John Petersen",
-      "sources": [
-        {
-          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_1990-94"
-        }
-      ]
-    },
-    {
       "birth_date": "1948-09-08",
       "gender": "male",
       "given_name": "John",
@@ -3840,7 +3855,7 @@
       ],
       "sources": [
         {
-          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_1998%E2%80%932002"
+          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_1990-94"
         }
       ]
     },
@@ -6253,6 +6268,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cy",
+          "name": "Marita Petersen",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Marita Petersen",
           "note": "multilingual"
@@ -6578,6 +6598,11 @@
         },
         {
           "lang": "nb",
+          "name": "Poul Michelsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Poul Michelsen",
           "note": "multilingual"
         }
@@ -7143,6 +7168,11 @@
         },
         {
           "lang": "nb",
+          "name": "Sjúrður Skaale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sjúrður Skaale",
           "note": "multilingual"
         }
@@ -7941,14 +7971,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/norðurstreymoy",
-      "legislative_period_id": "term/2011",
-      "on_behalf_of_id": "party/sambandsflokkurin",
-      "organization_id": "legislature",
-      "person_id": "09a27ec3-c737-40cc-b6a0-e376f35d9822",
-      "role": "member"
-    },
-    {
       "area_id": "area/suðurstreymoy",
       "legislative_period_id": "term/1998",
       "on_behalf_of_id": "party/sambandsflokkurin",
@@ -8653,22 +8675,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/sandoy",
-      "legislative_period_id": "term/1990",
-      "on_behalf_of_id": "party/fólkaflokkurin",
-      "organization_id": "legislature",
-      "person_id": "92724dce-128b-42e0-b46f-d7f2310d9dd9",
-      "role": "member"
-    },
-    {
-      "area_id": "area/sandoy",
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "party/fólkaflokkurin",
-      "organization_id": "legislature",
-      "person_id": "92724dce-128b-42e0-b46f-d7f2310d9dd9",
-      "role": "member"
-    },
-    {
       "area_id": "area/suðuroy",
       "legislative_period_id": "term/2002",
       "on_behalf_of_id": "party/sambandsflokkurin",
@@ -9365,6 +9371,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/norðurstreymoy",
+      "legislative_period_id": "term/2011",
+      "on_behalf_of_id": "party/sambandsflokkurin",
+      "organization_id": "legislature",
+      "person_id": "c7fc7683-46b7-48e2-aa69-25ae3a767fc8",
+      "role": "member"
+    },
+    {
       "area_id": "area/suðurstreymoy",
       "legislative_period_id": "term/1998",
       "on_behalf_of_id": "party/tjóðveldisflokkurin",
@@ -9650,6 +9664,22 @@
       "on_behalf_of_id": "party/fólkaflokkurin",
       "organization_id": "legislature",
       "person_id": "f9991478-7040-4b5f-9721-fd932acebfd4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sandoy",
+      "legislative_period_id": "term/1990",
+      "on_behalf_of_id": "party/fólkaflokkurin",
+      "organization_id": "legislature",
+      "person_id": "fcbdbeb9-59b5-44b4-a193-8aa5b069ff65",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sandoy",
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "party/fólkaflokkurin",
+      "organization_id": "legislature",
+      "person_id": "fcbdbeb9-59b5-44b4-a193-8aa5b069ff65",
       "role": "member"
     },
     {
