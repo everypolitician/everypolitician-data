@@ -116,6 +116,7 @@
       ]
     },
     {
+      "birth_date": "1965",
       "email": "rahimdwd@yahoo.co.uk",
       "gender": "male",
       "given_name": "Abdul",
@@ -7433,6 +7434,11 @@
           "lang": "fr",
           "name": "Ahmed Shakeel Shabbir Ahmed",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Shakeel Shabbir",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -9098,7 +9104,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/mbeere_south",
+      "area_id": "area/embu",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
       "organization_id": "legislature",
@@ -11146,6 +11152,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/luanda",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "legislature",
@@ -12307,6 +12314,11 @@
       "type": "constituency"
     },
     {
+      "id": "area/luanda",
+      "name": "Luanda",
+      "type": "constituency"
+    },
+    {
       "id": "area/lugari",
       "name": "Lugari",
       "type": "constituency"
@@ -12459,11 +12471,6 @@
     {
       "id": "area/mbeere_north",
       "name": "Mbeere North",
-      "type": "constituency"
-    },
-    {
-      "id": "area/mbeere_south",
-      "name": "Mbeere South",
       "type": "constituency"
     },
     {
