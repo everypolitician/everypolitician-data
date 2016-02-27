@@ -302,6 +302,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cy",
+          "name": "Charles Bruzon",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Charles Bruzon",
           "note": "multilingual"
@@ -594,7 +599,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Edwin Reyes",
           "note": "multilingual"
         },
@@ -1205,6 +1220,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "John Cortes",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
           "name": "John Cortes",
           "note": "multilingual"
@@ -1369,7 +1389,7 @@
       "sort_name": "Bossano, Joseph John"
     },
     {
-      "birth_date": "1967-01-01",
+      "birth_date": "1967",
       "family_name": "Garcia",
       "gender": "male",
       "given_name": "Joseph John",
@@ -1591,6 +1611,10 @@
         {
           "identifier": "11",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "421867",
+          "scheme": "fast"
         },
         {
           "identifier": "/m/053q78",
@@ -2454,6 +2478,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "gl",
+          "name": "Reggie Valarino",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Reggie Valarino",
           "note": "multilingual"
@@ -2824,7 +2853,6 @@
     "sources": [
       "http://www.parliament.gi/history/composition-of-parliament",
       "https://morph.io/andylolz/gibraltar-wikipedia",
-      "http://www.parliament.gi/history/composition-of-parliament",
       "http://wikidata.org/"
     ]
   },
@@ -3152,6 +3180,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
+      "organization_id": "legislature",
+      "person_id": "2c24b73f-5770-40e3-bc6e-38c32664db83",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/gibraltar_socialist_labour_party",
       "organization_id": "legislature",
@@ -3188,6 +3223,13 @@
     },
     {
       "legislative_period_id": "term/1",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "34328435-d155-4611-be08-ff24fac4fa78",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "34328435-d155-4611-be08-ff24fac4fa78",
@@ -3362,6 +3404,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "6c093d83-2782-4c2d-8b32-006f85df137f",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -3446,6 +3495,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "6ffe17fb-24d1-4dc3-b44b-068e76baad64",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -3517,6 +3573,13 @@
     },
     {
       "legislative_period_id": "term/1",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "7d8c2b3b-c516-4ee8-ad2b-02e7db23011c",
@@ -3796,6 +3859,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "c13f2c7c-b6cc-4a88-bf2a-5a5e8dfd4164",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
@@ -3811,6 +3881,13 @@
     },
     {
       "legislative_period_id": "term/1",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "legislature",
       "person_id": "c4520ab6-dc17-4a3c-aacc-572d891d289e",
@@ -4356,6 +4433,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2015-10-20",
       "id": "term/12",
       "name": "Twelfth Gibraltar Parliament",
       "organization_id": "legislature",
