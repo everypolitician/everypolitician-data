@@ -6,6 +6,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/kildare32.csv",
+      "create": {
+        "type": "morph",
+        "scraper": "tmtmtmtm/ireland-kildarestreet",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "https://morph.io/tmtmtmtm/ireland-kildarestreet",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "type": "morph",
