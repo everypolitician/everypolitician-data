@@ -262,11 +262,11 @@ namespace :merge_sources do
       vote_threshold = 0.8 # and at least this ratio of votes were for it
 
       gender = CSV.table(gb[:file], converters: nil).group_by { |r| r[:uuid] }
-      gb_votes = 0
+      gb_votes = Set.new
 
       # Only calculate the gender if we don't already have it
       # TODO: warn if the GB data differs from the pre-existing version
-      merged_rows.select { |r| r[:gender].to_s.empty? }.each do |r|
+      merged_rows.each do |r|
         votes = (gender[ r[:uuid] ] or next).first
         next if votes[:total].to_i < min_selections
         winner = votes.reject { |k, _| %i(uuid total).include? k }.find { |k, v| (v.to_f / votes[:total].to_f) > vote_threshold } or begin
@@ -274,10 +274,13 @@ namespace :merge_sources do
           next
         end
         next if winner.first == :skip
+        if !r[:gender].to_s.empty? && r[:gender] != winner.first.to_s
+          warn "Gender difference for #{r[:name]} (#{r[:uuid]}) — source: #{r[:gender]} | GB: #{winner.first.to_s}"
+        end
         r[:gender] = winner.first.to_s 
-        gb_votes += 1
+        gb_votes.add r[:uuid]
       end
-      puts "⚥ #{gb_votes}".cyan 
+      puts "⚥ #{gb_votes.count}".cyan 
     end
 
     # Map Areas
