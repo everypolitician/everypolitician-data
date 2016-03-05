@@ -42,6 +42,14 @@
         "type": "gender-balance",
         "source": "Dominican-Republic/Diputados"
       }
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "create": {
+        "type": "wikidata-raw",
+        "source": "reconciliation/wikidata.csv"
+      }
     }
   ]
 }
