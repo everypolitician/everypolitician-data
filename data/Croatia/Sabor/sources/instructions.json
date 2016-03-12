@@ -1,13 +1,23 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/sabor-7.csv",
+      "source": "http://www.sabor.hr",
+      "type": "membership"
+    },
+    {
+      "file": "morph/sabor-8.csv",
       "create": {
         "type": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
         "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, source FROM data"
       },
       "source": "http://www.sabor.hr",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/sabor-8.csv"
+      },
       "type": "membership"
     },
     {
