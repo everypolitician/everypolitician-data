@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "file": "morph/shineyoureye.csv",
+      "create": {
+        "url": "https://raw.githubusercontent.com/theyworkforyou/shineyoureye_data/master/senate_legislative_memberships.csv"
+      },
+      "source": "http://www.shineyoureye.org/",
+      "type": "membership"
+    },
+    {
+      "file": "sye/people.csv",
+      "create": {
+        "url": "https://raw.githubusercontent.com/theyworkforyou/shineyoureye_data/master/people.csv"
+      },
+      "type": "person",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id",
+        "report_missing": false
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    }
+  ]
+}
