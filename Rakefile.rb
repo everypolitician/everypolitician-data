@@ -67,7 +67,7 @@ task 'countries.json' do
       legislatures: hs.map { |h|
         json_file = h + '/ep-popolo-v1.0.json'
         name_file = h + '/names.csv'
-        remote_source = 'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
+        remote_source = 'https://github.com/everypolitician/everypolitician-data/raw/%s/%s'
         popolo, statement_count = json_from(json_file)
 
         cmd = "git --no-pager log --format='%h|%at' -1 #{h}"
