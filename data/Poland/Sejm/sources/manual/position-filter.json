@@ -10,33 +10,25 @@
   "include": {
     "self": [
       {
-        "id": "Q100172",
-        "name": "Marshal of the Sejm"
-      },
-      {
         "id": "Q5261044",
         "name": "Deputy Marshal of the Sejm of the Republic of Poland"
+      },
+      {
+        "id": "Q100172",
+        "name": "Marshal of the Sejm"
       }
     ],
     "other_legislatures": [
       {
-        "id": "Q20066605",
-        "name": "senator of Poland"
-      },
-      {
         "id": "Q27169",
         "name": "member of the European Parliament"
+      },
+      {
+        "id": "Q20066605",
+        "name": "senator of Poland"
       }
     ],
     "executive": [
-      {
-        "id": "Q3259469",
-        "name": "Prime Minister of Poland"
-      },
-      {
-        "id": "Q1054799",
-        "name": "President of Poland"
-      },
       {
         "id": "Q55831",
         "name": "Acting President of Poland"
@@ -48,6 +40,14 @@
       {
         "id": "Q11781525",
         "name": "Minister of Finance of Poland"
+      },
+      {
+        "id": "Q1054799",
+        "name": "President of Poland"
+      },
+      {
+        "id": "Q3259469",
+        "name": "Prime Minister of Poland"
       }
     ],
     "party": [
@@ -55,33 +55,33 @@
     ],
     "other": [
       {
-        "id": "Q7925068",
-        "name": "Vice President of the European Parliament"
-      },
-      {
-        "id": "Q740126",
-        "name": "President of the European Parliament"
-      },
-      {
-        "id": "Q735587",
-        "name": "President of the European Council"
+        "id": "Q1780202",
+        "name": "European Commissioner for Financial Programming and the Budget"
       },
       {
         "id": "Q3846811",
         "name": "Marshal of the Senate of the Republic of Poland"
       },
       {
-        "id": "Q1780202",
-        "name": "European Commissioner for Financial Programming and the Budget"
+        "id": "Q735587",
+        "name": "President of the European Council"
+      },
+      {
+        "id": "Q740126",
+        "name": "President of the European Parliament"
+      },
+      {
+        "id": "Q7925068",
+        "name": "Vice President of the European Parliament"
       }
     ]
   },
   "unknown": {
     "unknown": [
       {
-        "id": "Q98964",
-        "name": "Sejm of the Republic of Poland",
-        "count": 5
+        "id": "Q178909",
+        "name": "Chancellery of the President of the Republic of Poland",
+        "count": 1
       },
       {
         "id": "Q6627774",
@@ -89,43 +89,13 @@
         "count": 5
       },
       {
-        "id": "Q486839",
-        "name": "member of parliament",
-        "count": 2
-      },
-      {
         "id": "Q4380777",
         "name": "Ministry of Agriculture and Rural Development",
         "count": 2
       },
       {
-        "id": "Q877955",
-        "name": "deputy prime minister",
-        "count": 1
-      },
-      {
-        "id": "Q736559",
-        "name": "Secretary of State",
-        "count": 1
-      },
-      {
-        "id": "Q4657217",
-        "name": "municipal executive",
-        "count": 1
-      },
-      {
-        "id": "Q4294791",
-        "name": "Ministry of Finance",
-        "count": 1
-      },
-      {
         "id": "Q4294766",
         "name": "Ministry of Labour and Social Policy",
-        "count": 1
-      },
-      {
-        "id": "Q4294646",
-        "name": "Ministry of Regional Development",
         "count": 1
       },
       {
@@ -134,8 +104,8 @@
         "count": 1
       },
       {
-        "id": "Q30185",
-        "name": "mayor",
+        "id": "Q4294646",
+        "name": "Ministry of Regional Development",
         "count": 1
       },
       {
@@ -144,8 +114,8 @@
         "count": 1
       },
       {
-        "id": "Q178909",
-        "name": "Chancellery of the President of the Republic of Poland",
+        "id": "Q1339181",
+        "name": "Palikot's Movement",
         "count": 1
       },
       {
@@ -154,13 +124,18 @@
         "count": 1
       },
       {
-        "id": "Q15686806",
-        "name": "senator",
+        "id": "Q736559",
+        "name": "Secretary of State",
         "count": 1
       },
       {
+        "id": "Q98964",
+        "name": "Sejm of the Republic of Poland",
+        "count": 5
+      },
+      {
         "id": "Q1558362",
-        "name": "Q1558362",
+        "name": "Voivodeship marshal",
         "count": 1
       },
       {
@@ -169,13 +144,28 @@
         "count": 1
       },
       {
-        "id": "Q1339181",
-        "name": "Palikot's Movement",
+        "id": "Q121998",
+        "name": "ambassador",
         "count": 1
       },
       {
-        "id": "Q121998",
-        "name": "ambassador",
+        "id": "Q30185",
+        "name": "mayor",
+        "count": 1
+      },
+      {
+        "id": "Q486839",
+        "name": "member of parliament",
+        "count": 2
+      },
+      {
+        "id": "Q4657217",
+        "name": "municipal executive",
+        "count": 1
+      },
+      {
+        "id": "Q15686806",
+        "name": "senator",
         "count": 1
       }
     ]
