@@ -469,6 +469,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Alvin Yeo",
+          "note": "multilingual"
+        },
+        {
           "lang": "yue",
           "name": "楊康海",
           "note": "multilingual"
@@ -1065,6 +1070,21 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/11th-parliament"
+        }
+      ]
+    },
+    {
+      "id": "5ad39e88-c918-43a8-8c39-272da226dd53",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo.jpg"
+        }
+      ],
+      "name": "Azmoon Bin Ahmad",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
         }
       ]
     },
@@ -4650,6 +4670,21 @@
       ]
     },
     {
+      "id": "28dfe1cc-a662-4ffe-b1f6-921c11cbc306",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_0.jpg"
+        }
+      ],
+      "name": "Ganesh Rajaram",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
+        }
+      ]
+    },
+    {
       "id": "d269f7f3-8e49-4aa4-b0d4-5ccd79894c7c",
       "identifiers": [
         {
@@ -7213,6 +7248,21 @@
       ]
     },
     {
+      "id": "4a7057ce-2af4-4408-af66-d85925e3345c",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_3.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_3.jpg"
+        }
+      ],
+      "name": "K Thanaletchimi",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
+        }
+      ]
+    },
+    {
       "id": "0af1be46-3e70-43bf-bbb1-242a624bfd73",
       "identifiers": [
         {
@@ -7496,6 +7546,21 @@
           "note": "multilingual"
         }
       ],
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
+        }
+      ]
+    },
+    {
+      "id": "f8d119bb-2b3c-477b-b668-999b5eebcc99",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_1.jpg"
+        }
+      ],
+      "name": "Kok Heng Leun",
       "sources": [
         {
           "url": "http://www.parliament.gov.sg/history/13th-parliament"
@@ -11642,6 +11707,21 @@
       ]
     },
     {
+      "id": "f98cb5f9-db12-4cde-933a-7c886057652f",
+      "image": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.sg/sites/default/files/blank_photo_2.jpg"
+        }
+      ],
+      "name": "Mahdev Mohan",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.sg/history/13th-parliament"
+        }
+      ]
+    },
+    {
       "id": "a73a743e-3dbd-4824-9f10-6c80e733cb43",
       "identifiers": [
         {
@@ -11912,6 +11992,11 @@
         {
           "lang": "ru",
           "name": "Майкл Палмер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "மைக்கேல் பாமர்",
           "note": "multilingual"
         },
         {
@@ -16612,6 +16697,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Tharman Shanmugaratnam",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "தர்மன் சண்முகரத்தினம்",
           "note": "multilingual"
@@ -19434,6 +19524,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -20698,6 +20793,13 @@
     },
     {
       "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "28dfe1cc-a662-4ffe-b1f6-921c11cbc306",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "2997c850-84ee-43d6-8e8d-241b7087810f",
@@ -21726,6 +21828,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "4a7057ce-2af4-4408-af66-d85925e3345c",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
@@ -22108,6 +22217,13 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "5a7d6b64-007b-401e-97ff-0270d1ddff45",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "5ad39e88-c918-43a8-8c39-272da226dd53",
       "role": "member"
     },
     {
@@ -24155,6 +24271,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/nominated_member_of_parliament",
+      "organization_id": "legislature",
+      "person_id": "a31048d1-46f1-4c9a-a67d-e92408986bbf",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
@@ -24457,6 +24580,13 @@
     },
     {
       "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/nominated_member_of_parliament",
+      "organization_id": "legislature",
+      "person_id": "b1110acb-68c8-4d62-86f7-60b0974b9e65",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "b1110acb-68c8-4d62-86f7-60b0974b9e65",
@@ -24961,6 +25091,13 @@
     },
     {
       "legislative_period_id": "term/12",
+      "on_behalf_of_id": "party/nominated_member_of_parliament",
+      "organization_id": "legislature",
+      "person_id": "ba7014e4-3179-4125-989f-00b75b7d7541",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/nominated_member_of_parliament",
       "organization_id": "legislature",
       "person_id": "ba7014e4-3179-4125-989f-00b75b7d7541",
@@ -26689,6 +26826,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/nominated_member_of_parliament",
+      "organization_id": "legislature",
+      "person_id": "f1266740-99f3-437a-8f10-50268c26bdd3",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
@@ -26899,6 +27043,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "f8d119bb-2b3c-477b-b668-999b5eebcc99",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
@@ -26917,6 +27068,13 @@
       "on_behalf_of_id": "party/people’s_action_party",
       "organization_id": "legislature",
       "person_id": "f8ee4523-61b9-4b31-9af2-c3bb1c68c60a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "legislature",
+      "person_id": "f98cb5f9-db12-4cde-933a-7c886057652f",
       "role": "member"
     },
     {
