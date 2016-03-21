@@ -1105,6 +1105,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Angelino Alfano",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Angelino Alfano",
           "note": "multilingual"
@@ -42056,12 +42061,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0004 1970 4016",
+          "scheme": "isni"
+        },
+        {
           "identifier": "305725",
           "scheme": "italian_cod"
         },
         {
           "identifier": "IT\\ICCU\\MILV\\106759",
           "scheme": "sbn_it"
+        },
+        {
+          "identifier": "90245446",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q3737781",
@@ -69882,11 +69895,21 @@
     },
     {
       "area_id": "A",
+      "end_date": "2016-03-16",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "legislature",
       "person_id": "c12195ef-1f76-41b4-93ba-8274783b5a0b",
       "role": "member"
+    },
+    {
+      "area_id": "A",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
+      "organization_id": "legislature",
+      "person_id": "c12195ef-1f76-41b4-93ba-8274783b5a0b",
+      "role": "member",
+      "start_date": "2016-03-16"
     },
     {
       "area_id": "III",
@@ -71746,12 +71769,22 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2016-03-16",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "f9b8b1e5-f462-46be-b259-a236fd2701d6",
       "role": "member",
       "start_date": "2015-11-17"
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "legislature",
+      "person_id": "f9b8b1e5-f462-46be-b259-a236fd2701d6",
+      "role": "member",
+      "start_date": "2016-03-17"
     },
     {
       "area_id": "IV",
