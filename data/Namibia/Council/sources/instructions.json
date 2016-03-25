@@ -7,7 +7,7 @@
         "scraper": "duncanparkes/namibia",
         "query": "SELECT data.id, data.name, data.image, data.party, data.party AS party_id, terms.term_number AS term, data.email, data.area, data.details_url AS source from data JOIN terms ON data.term_id = terms.id WHERE chamber = 'National Council'"
       },
-      "source": "https://morph.io/duncanparkes/namibia",
+      "source": "http://www.parliament.gov.na",
       "type": "membership"
     },
     {
