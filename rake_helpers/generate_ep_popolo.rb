@@ -68,7 +68,7 @@ namespace :transform do
     raise "No terms.csv" if termfiles.count.zero?
     raise "Too many terms.csv [#{termfiles}]" if termfiles.count > 1
 
-    CSV.read(termfiles.first, headers:true).map do |row|
+    CSV.read(termfiles.first, headers:true).reject { |r| r.empty? }.map do |row|
       {
         id: row['id'][/\//] ? row['id'] : "term/#{row['id']}",
         name: row['name'],
@@ -148,7 +148,7 @@ namespace :transform do
     remap = Hash[GENDER_MAP.map { |k, vs| vs.map { |v| [v, k] } }.flatten(1)]
     @json[:persons].each do |p|
       next if p[:gender].to_s.empty?
-      p[:gender] = remap[ p[:gender].downcase.strip ] || raise("Unknown gender: #{p[:gender]}")
+      p[:gender] = remap[ p[:gender].downcase.strip ] || warn("Unknown gender: #{p[:gender]}")
     end
   end
 

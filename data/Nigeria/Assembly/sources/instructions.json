@@ -1,34 +1,28 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/shineyoureye.csv",
       "create": {
-        "type": "morph",
-        "scraper": "tmtmtmtm/nigeria-national-assembly",
-        "query": "SELECT * FROM data"
+        "url": "https://raw.githubusercontent.com/theyworkforyou/shineyoureye_data/master/reps_legislative_memberships.csv"
       },
-      "source": "http://www.nass.gov.ng/",
+      "source": "http://www.shineyoureye.org/",
       "type": "membership"
+    },
+    {
+      "file": "sye/people.csv",
+      "create": {
+        "url": "https://raw.githubusercontent.com/theyworkforyou/shineyoureye_data/master/people.csv"
+      },
+      "type": "person",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id",
+        "report_missing": false
+      }
     },
     {
       "file": "manual/terms.csv",
       "type": "term"
-    },
-    {
-      "file": "wikidata/groups.json",
-      "type": "group",
-      "create": {
-        "type": "group-wikidata",
-        "source": "manual/group_wikidata.csv"
-      }
-    },
-    {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
-      "create": {
-        "type": "gender-balance",
-        "source": "Nigeria/Assembly"
-      }
     }
   ]
 }

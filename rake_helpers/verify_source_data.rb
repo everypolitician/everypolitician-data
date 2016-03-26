@@ -32,7 +32,10 @@ namespace :verify do
         end
         abort "Badly formatted #{d} in #{r}" unless r[d].match /^\d{4}-\d{2}-\d{2}$/
         parsed_date = Date.parse(r[d]) rescue 'broken'
-        abort "Invalid #{d} in #{r}" unless parsed_date.to_s == r[d]
+        unless parsed_date.to_s == r[d]
+          warn "Invalid #{d} (#{r[d]}) in #{r}" 
+          next
+        end
       end
     end
   end  
