@@ -3849,6 +3849,25 @@
       "patronymic_name": "Іванович"
     },
     {
+      "family_name": "Бригинець",
+      "given_name": "Олександр",
+      "id": "10140e3e-3487-4b54-8fac-68a111199b0e",
+      "identifiers": [
+        {
+          "identifier": "15838",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp75.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp75.jpg"
+        }
+      ],
+      "name": "Бригинець Олександр Михайлович",
+      "patronymic_name": "Михайлович"
+    },
+    {
       "family_name": "Бриченко",
       "gender": "male",
       "given_name": "Ігор",
@@ -4418,6 +4437,25 @@
         }
       ],
       "patronymic_name": "Миколайович"
+    },
+    {
+      "family_name": "Білоцерковець",
+      "given_name": "Дмитро",
+      "id": "edee8c24-ca54-473e-9d86-baf9d78f0af0",
+      "identifiers": [
+        {
+          "identifier": "16340",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp76.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp76.jpg"
+        }
+      ],
+      "name": "Білоцерковець Дмитро Олександрович",
+      "patronymic_name": "Олександрович"
     },
     {
       "birth_date": "1973-04-11",
@@ -6672,6 +6710,11 @@
       ],
       "name": "Гройсман Володимир Борисович",
       "other_names": [
+        {
+          "lang": "az",
+          "name": "Vladimir Qroysman",
+          "note": "multilingual"
+        },
         {
           "lang": "be-tarask",
           "name": "Уладзімер Гройсман",
@@ -18563,6 +18606,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "زلاتا اوگنویچ",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Zlata Ognevitš",
           "note": "multilingual"
@@ -22226,6 +22274,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "az",
+          "name": "Nadejda Savçenko",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Надзея Віктараўна Саўчанка",
           "note": "multilingual"
@@ -22263,6 +22316,11 @@
         {
           "lang": "en",
           "name": "Nadiya Savchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nadija Savĉenko",
           "note": "multilingual"
         },
         {
@@ -22343,6 +22401,11 @@
         {
           "lang": "sv",
           "name": "Nadezjda Savtjenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Nadiä Savçenko",
           "note": "multilingual"
         },
         {
@@ -31486,6 +31549,15 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "10140e3e-3487-4b54-8fac-68a111199b0e",
+      "role": "member",
+      "start_date": "2016-03-29"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
       "on_behalf_of_id": "2612",
       "organization_id": "legislature",
       "person_id": "1027a64e-ed6a-42b9-abf6-d563259d70bf",
@@ -32721,12 +32793,32 @@
     },
     {
       "area_id": "167",
+      "end_date": "2016-03-29",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
+      "role": "member",
+      "start_date": "2016-01-26"
+    },
+    {
+      "area_id": "167",
+      "end_date": "2016-03-28",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "legislature",
       "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
       "role": "member",
       "start_date": "2016-01-27"
+    },
+    {
+      "area_id": "167",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "5e3313a2-01f7-449d-8336-890d973c21e9",
+      "role": "member",
+      "start_date": "2016-03-29"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -34752,7 +34844,6 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
-      "end_date": "2016-03-17",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2615",
       "organization_id": "legislature",
@@ -35319,6 +35410,15 @@
       "organization_id": "legislature",
       "person_id": "ede74b3e-ac89-451f-934f-26e9e919bb19",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "legislature",
+      "person_id": "edee8c24-ca54-473e-9d86-baf9d78f0af0",
+      "role": "member",
+      "start_date": "2016-03-29"
     },
     {
       "area_id": "66",
