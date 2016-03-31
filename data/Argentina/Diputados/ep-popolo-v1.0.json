@@ -19320,6 +19320,11 @@
     },
     {
       "classification": "party",
+      "id": "party/dialogo_y_trabajo",
+      "name": "DIALOGO Y TRABAJO"
+    },
+    {
+      "classification": "party",
       "id": "party/fe",
       "name": "FE"
     },
@@ -19502,11 +19507,6 @@
       "classification": "party",
       "id": "party/union_pro",
       "name": "UNION PRO"
-    },
-    {
-      "classification": "party",
-      "id": "party/unipersonal",
-      "name": "UNIPERSONAL"
     },
     {
       "classification": "party",
@@ -20041,7 +20041,7 @@
     {
       "area_id": "area/ciudad_de_buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/unipersonal",
+      "on_behalf_of_id": "party/dialogo_y_trabajo",
       "organization_id": "legislature",
       "person_id": "2c6909f1-19c3-4759-af8c-132b35da3b80",
       "role": "member"
