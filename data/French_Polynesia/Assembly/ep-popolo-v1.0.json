@@ -4,10 +4,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "jb.ah-scha@assemblee.pf"
+          "value": "joseph.ah-scha@assemblee.pf"
         }
       ],
-      "email": "jb.ah-scha@assemblee.pf",
+      "email": "joseph.ah-scha@assemblee.pf",
       "gender": "male",
       "id": "b943cf1f-2462-4dad-a1f3-f9cfbf9075f2",
       "identifiers": [
@@ -225,7 +225,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/DROLLET-Jacqui.jpg"
         }
       ],
-      "name": "DROLLET Jacqui",
+      "name": "DROLLET Jacqui (Vice-président)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=62"
@@ -457,7 +457,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GEROS-Antony.jpg"
         }
       ],
-      "name": "GÉROS Antony",
+      "name": "GÉROS Antony (Président)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=68"
@@ -515,7 +515,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/IRITI-Teura.jpg"
         }
       ],
-      "name": "IRITI Teura",
+      "name": "IRITI Teura (Présidente)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=94"
@@ -863,7 +863,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PUHETINI-Sylvana.jpg"
         }
       ],
-      "name": "PUHETINI Sylvana",
+      "name": "PUHETINI Sylvana (Présidente)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=100"
@@ -925,6 +925,22 @@
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=102"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "93c27df1-baa6-438b-8bc8-1be90d23ae83",
+      "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RIVETA-Frederic.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RIVETA-Frederic.jpg"
+        }
+      ],
+      "name": "RIVETA Frédéric",
+      "sources": [
+        {
+          "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=136"
         }
       ]
     },
@@ -1008,7 +1024,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AMARU-Lois.jpg"
         }
       ],
-      "name": "SALMON-AMARU Loïs",
+      "name": "SALMON-AMARU Loïs (Vice-présidente)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=106"
@@ -1248,6 +1264,22 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "6437983d-57cb-4336-b988-5a6870048abe",
+      "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMEHARO-Rene.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMEHARO-Rene.jpg"
+        }
+      ],
+      "name": "TEMEHARO René",
+      "sources": [
+        {
+          "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=135"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1414,7 +1446,7 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TONG-SANG-Gaston.jpg"
         }
       ],
-      "name": "TONG SANG Gaston",
+      "name": "TONG SANG Gaston (vice-président)",
       "sources": [
         {
           "url": "http://www.assemblee.pf/en/representants/vos-representants/trouvez-un-representant?rep=81"
@@ -1656,40 +1688,6 @@
   ],
   "organizations": [
     {
-      "classification": "party",
-      "id": "party/a_tia_porinetia",
-      "identifiers": [
-        {
-          "identifier": "Q13972422",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.atiaporinetia.org/"
-        }
-      ],
-      "name": "A tia porinetia",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "A Ti'a Porinetia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "A Ti'a Porinetia",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "A Ti'a Porinetia",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "classification": "legislature",
       "id": "legislature",
       "identifiers": [
@@ -1700,6 +1698,11 @@
       ],
       "name": "Assembly",
       "seats": 57
+    },
+    {
+      "classification": "party",
+      "id": "party/rassemblement_pour_une_majorité_autonomiste",
+      "name": "Rassemblement pour une majorité autonomiste"
     },
     {
       "classification": "party",
@@ -1803,29 +1806,6 @@
     },
     {
       "classification": "party",
-      "id": "party/tapura_huiraatira",
-      "identifiers": [
-        {
-          "identifier": "Q23691290",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Tapura huiraatira",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Tapura Huiraatira",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Tapura Huiraatira",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "party/union_pour_la_démocratie",
       "identifiers": [
         {
@@ -1877,7 +1857,7 @@
     {
       "area_id": "area/section_3_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "00c9ca3f-a595-4bc2-bb0d-e56b602cdd96",
       "role": "member"
@@ -1893,7 +1873,7 @@
     {
       "area_id": "area/section_des_îles-sous-le-vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "13153440-692f-46c3-a622-33512150fd95",
       "role": "member"
@@ -1917,7 +1897,7 @@
     {
       "area_id": "area/section_3_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "17490af1-c556-4774-bf41-0f382dd5e7f6",
       "role": "member"
@@ -1925,7 +1905,7 @@
     {
       "area_id": "area/section_des_îles-sous-le-vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "19e9e7c7-ec03-480f-9ece-5d0125b3dd16",
       "role": "member"
@@ -1941,7 +1921,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "2543eb1b-c26c-48d7-8e48-83b5afc1b546",
       "role": "member"
@@ -1949,7 +1929,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "26710f59-6830-4d82-b838-8ee95b55bff8",
       "role": "member"
@@ -1957,7 +1937,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "280bef5a-b101-4dd3-b390-da404b36f468",
       "role": "member"
@@ -1973,7 +1953,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "33fa963c-f9fe-407f-b4ed-bdc0285b4020",
       "role": "member"
@@ -1981,7 +1961,7 @@
     {
       "area_id": "area/section_3_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tahoera'a_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "39d9c201-1cf9-4566-9dde-426551da1fd7",
       "role": "member"
@@ -2021,7 +2001,7 @@
     {
       "area_id": "area/section_des_îles-sous-le-vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "3f32e9d6-1456-4195-8e5b-192886238c92",
       "role": "member"
@@ -2029,7 +2009,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "3f9cfab1-de13-4049-9920-f20247a3de2c",
       "role": "member"
@@ -2037,7 +2017,7 @@
     {
       "area_id": "area/section_3_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "48bb0fcc-e6f2-47d0-9de1-8260b356eab1",
       "role": "member"
@@ -2053,7 +2033,7 @@
     {
       "area_id": "area/section_des_îles_tuamotu_de_l'ouest",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "4e79c851-fde2-46ac-86c3-2ec9af7476a4",
       "role": "member"
@@ -2061,7 +2041,7 @@
     {
       "area_id": "area/section_des_îles_tuamotu_de_l'ouest",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "51e814db-771e-4b37-abe8-26f5460a4a58",
       "role": "member"
@@ -2069,7 +2049,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "547318b6-8ea5-4fdc-8c07-3982a03c39c5",
       "role": "member"
@@ -2093,9 +2073,17 @@
     {
       "area_id": "area/section_des_îles-sous-le-vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "5c245699-dc25-42f4-ae34-a5ba62c8af13",
+      "role": "member"
+    },
+    {
+      "area_id": "area/section_1_des_îles_du_vent",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
+      "organization_id": "legislature",
+      "person_id": "6437983d-57cb-4336-b988-5a6870048abe",
       "role": "member"
     },
     {
@@ -2125,7 +2113,7 @@
     {
       "area_id": "area/section_des_îles_marquises",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/union_pour_la_démocratie",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "6be153d6-fe52-4227-9279-49a658975c47",
       "role": "member"
@@ -2157,7 +2145,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "8cea5db7-022f-4f34-92eb-d84f5ba7b3d2",
       "role": "member"
@@ -2179,9 +2167,17 @@
       "role": "member"
     },
     {
+      "area_id": "area/section_des_îles_australes",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
+      "organization_id": "legislature",
+      "person_id": "93c27df1-baa6-438b-8bc8-1be90d23ae83",
+      "role": "member"
+    },
+    {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "9570e042-ae2b-4ff8-913f-e1ded2abe68c",
       "role": "member"
@@ -2221,7 +2217,7 @@
     {
       "area_id": "area/section_des_îles_marquises",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "b943cf1f-2462-4dad-a1f3-f9cfbf9075f2",
       "role": "member"
@@ -2229,7 +2225,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "bb027f3c-4482-4a01-a0c7-a037368b9171",
       "role": "member"
@@ -2253,7 +2249,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tahoera'a_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "c6e3b722-f1d6-48f5-a870-b80b3b57c582",
       "role": "member"
@@ -2277,7 +2273,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/a_tia_porinetia",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "d62006bc-0611-44d2-85a7-5e844218b915",
       "role": "member"
@@ -2293,7 +2289,7 @@
     {
       "area_id": "area/section_1_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "e19bb01b-8726-4d83-87e9-b8efc02337f3",
       "role": "member"
@@ -2309,7 +2305,7 @@
     {
       "area_id": "area/section_3_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "ebdbe699-cd10-4645-976d-c284256c3f26",
       "role": "member"
@@ -2317,7 +2313,7 @@
     {
       "area_id": "area/section_des_îles_marquises",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "ed69eadf-25fe-4798-aeb5-eaecceecd22a",
       "role": "member"
@@ -2325,7 +2321,7 @@
     {
       "area_id": "area/section_2_des_îles_du_vent",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/tapura_huiraatira",
+      "on_behalf_of_id": "party/rassemblement_pour_une_majorité_autonomiste",
       "organization_id": "legislature",
       "person_id": "f719ccd5-50d1-42ba-a044-fc62875520bb",
       "role": "member"
