@@ -5355,6 +5355,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "no92019623",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "050229427",
           "scheme": "sudoc"
         },
@@ -6416,10 +6420,10 @@
       ],
       "email": "gcousinet@diputados.gob.ar",
       "id": "a857c0c6-4059-4594-9327-f23360159b84",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/gcousinet.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/gcousinet.jpg"
         }
       ],
       "name": "GRACIELA COUSINET",
@@ -8663,6 +8667,12 @@
         {
           "identifier": "Q5649262",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CFKyMendiguren.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CFKyMendiguren.jpg"
         }
       ],
       "links": [
@@ -18013,6 +18023,10 @@
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "sergiomassa"
         }
       ],
       "email": "smassa@diputados.gob.ar",
@@ -18071,6 +18085,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Серхіо_Томас_Масса"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sergiomassa"
         }
       ],
       "name": "SERGIO TOMAS MASSA",
@@ -19320,6 +19338,11 @@
     },
     {
       "classification": "party",
+      "id": "party/dialogo_y_trabajo",
+      "name": "DIALOGO Y TRABAJO"
+    },
+    {
+      "classification": "party",
       "id": "party/fe",
       "name": "FE"
     },
@@ -19347,11 +19370,6 @@
       "classification": "party",
       "id": "party/frente_de_izquierda_y_de_los_trabajadores",
       "name": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES"
-    },
-    {
-      "classification": "party",
-      "id": "party/frente_para_la_victoria_-_partido_bloquista",
-      "name": "FRENTE PARA LA VICTORIA - PARTIDO BLOQUISTA"
     },
     {
       "classification": "party",
@@ -19417,6 +19435,11 @@
       "classification": "party",
       "id": "party/movimiento_solidario_popular",
       "name": "MOVIMIENTO SOLIDARIO POPULAR"
+    },
+    {
+      "classification": "party",
+      "id": "party/partido_bloquista_de_san_juan",
+      "name": "PARTIDO BLOQUISTA DE SAN JUAN"
     },
     {
       "classification": "party",
@@ -19502,11 +19525,6 @@
       "classification": "party",
       "id": "party/union_pro",
       "name": "UNION PRO"
-    },
-    {
-      "classification": "party",
-      "id": "party/unipersonal",
-      "name": "UNIPERSONAL"
     },
     {
       "classification": "party",
@@ -19669,7 +19687,7 @@
     {
       "area_id": "area/san_juan",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_partido_bloquista",
+      "on_behalf_of_id": "party/partido_bloquista_de_san_juan",
       "organization_id": "legislature",
       "person_id": "0f932734-59be-446c-b68c-7223fbd4c607",
       "role": "member",
@@ -20041,7 +20059,7 @@
     {
       "area_id": "area/ciudad_de_buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/unipersonal",
+      "on_behalf_of_id": "party/dialogo_y_trabajo",
       "organization_id": "legislature",
       "person_id": "2c6909f1-19c3-4759-af8c-132b35da3b80",
       "role": "member"
