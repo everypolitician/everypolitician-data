@@ -89,11 +89,28 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Override memberships with Membership Matrix information
+  #---------------------------------------------------------------------
+  task :write => :membership_matrix
+  task :membership_matrix => :load do
+    sources.find_all { |src| src.type == 'membership_matrix' }.each do |src|
+      # We want to clobber existing memberships for a [term,area] combo that we
+      # have new memberships for, but leave the other memberships intact.
+      src.as_table.group_by { |m| m[:legislative_period_id] }.each do |lp_id, lp_mems|
+        lp_mems.group_by { |m| m[:area_id] }.each do |area_id, mems|
+          @json[:memberships].delete_if { |m| m[:legislative_period_id] == lp_id && m[:area_id] == area_id }
+          @json[:memberships] += mems
+        end
+      end
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Don't duplicate start/end dates into memberships needlessly
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task :write => :tidy_memberships
-  task :tidy_memberships => :ensure_term do
+  task :tidy_memberships => :membership_matrix do
     @json[:memberships].each do |m|
       e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a term"
 

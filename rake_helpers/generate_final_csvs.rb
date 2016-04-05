@@ -32,7 +32,11 @@ namespace :term_csvs do
 
       if group.nil?
         warn "No group for #{m}"
-        binding.pry
+        next
+      end
+
+      if person.nil?
+        warn "No person for #{m}"
         next
       end
 
@@ -55,7 +59,7 @@ namespace :term_csvs do
         gender: person.gender,
       }
     end
-    data.group_by { |r| r[:term] }.each do |t, rs|
+    data.compact.group_by { |r| r[:term] }.each do |t, rs|
       filename = "term-#{t}.csv"
       header = rs.first.keys.to_csv
       rows   = rs.sort_by { |r| [r[:name], r[:id], r[:start_date].to_s, r[:area].to_s ] }.map { |r| r.values.to_csv }

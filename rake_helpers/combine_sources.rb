@@ -53,13 +53,6 @@ namespace :merge_sources do
 
   # http://codereview.stackexchange.com/questions/84290/combining-csvs-using-ruby-to-match-headers
   def combine_sources
-
-    # Make sure all instructions have a `type`
-    if (no_type = instructions(:sources).find { |src| src[:type].to_s.empty? })
-      raise "Missing `type` in #{no_type} file"
-    end
-
-    sources = instructions(:sources).map { |s| Source::Base.instantiate(s) }
     all_headers = (%i(id uuid) + sources.map { |s| s.fields }).flatten.uniq
 
     merged_rows = []

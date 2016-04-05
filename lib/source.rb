@@ -5,15 +5,16 @@ module Source
   class Base
     # Instantiate correct subclass based on instructions
     def self.instantiate(i)
-      return Source::Membership.new(i) if i[:type] == 'membership'
-      return Source::Person.new(i)     if i[:type] == 'person'
-      return Source::Wikidata.new(i)   if i[:type] == 'wikidata'
-      return Source::Group.new(i)      if i[:type] == 'group'
-      return Source::OCD.new(i)        if i[:type] == 'ocd'
-      return Source::Area.new(i)       if i[:type] == 'area-wikidata'
-      return Source::Gender.new(i)     if i[:type] == 'gender'
-      return Source::Positions.new(i)  if i[:type] == 'wikidata-positions'
-      return Source::Term.new(i)       if i[:type] == 'term'
+      return Source::Membership.new(i)       if i[:type] == 'membership'
+      return Source::Person.new(i)           if i[:type] == 'person'
+      return Source::Wikidata.new(i)         if i[:type] == 'wikidata'
+      return Source::Group.new(i)            if i[:type] == 'group'
+      return Source::OCD.new(i)              if i[:type] == 'ocd'
+      return Source::Area.new(i)             if i[:type] == 'area-wikidata'
+      return Source::Gender.new(i)           if i[:type] == 'gender'
+      return Source::Positions.new(i)        if i[:type] == 'wikidata-positions'
+      return Source::Term.new(i)             if i[:type] == 'term'
+      return Source::MembershipMatrix.new(i) if i[:type] == 'membership_matrix'
       raise "Don't know how to handle #{i[:type]} files (#{i})" 
     end
 
@@ -178,5 +179,18 @@ module Source
   end
 
   class Positions < JSON
+  end
+
+  class MembershipMatrix < CSV
+    def fields
+      []
+    end
+
+    # TODO: This should really happen in the base class but the base class
+    # currently remaps the fields, which isn't what we want here.
+    # @see https://github.com/everypolitician/everypolitician/issues/372
+    def as_table
+      ::CSV.table(filename, converters: nil).map(&:to_hash)
+    end
   end
 end

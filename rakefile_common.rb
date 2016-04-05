@@ -63,7 +63,7 @@ def json_write(file, json)
   end
   json[:organizations].sort_by! { |o| [ o[:name].to_s, o[:id] ] }
   json[:memberships].sort_by!   { |m| [ 
-    m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s 
+    m[:person_id].to_s, m[:organization_id].to_s, m[:legislative_period_id].to_s, m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s
   ] }
   json[:events].sort_by!        { |e| [ e[:start_date] || '', e[:id] ] } if json.key? :events
   json[:areas].sort_by!         { |a| [ a[:id] ] } if json.key? :areas
@@ -154,6 +154,13 @@ end
 def instructions(key)
   @instructions ||= load_instructions_file
   @instructions[key]
+end
+
+def sources
+  @sources ||= instructions(:sources).map do |src|
+    raise "Missing `type` field in source: #{src}" if src[:type].to_s.empty?
+    Source::Base.instantiate(src)
+  end
 end
 
 desc "Rebuild from source data"
