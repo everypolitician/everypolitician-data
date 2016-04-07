@@ -27036,6 +27036,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Florin_Aurelian_Popescu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/弗洛林·奥勒扬·波佩斯库"
         }
       ],
       "name": "Popescu Florin Aurelian",
@@ -29966,11 +29970,17 @@
     },
     {
       "birth_date": "1973-10-24",
+      "gender": "male",
+      "given_name": "George",
       "id": "6c6428c1-e565-4a22-99b5-5481208c7b39",
       "identifiers": [
         {
           "identifier": "329",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5544386",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/ScutaruAdrianGeorge.jpg",
@@ -29979,7 +29989,48 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/ScutaruAdrianGeorge.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Scutaru"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/George_Scutaru"
+        }
+      ],
       "name": "Scutaru Adrian George",
+      "other_names": [
+        {
+          "name": "George Scutaru",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "George Scutaru",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Adrian George SCUTARU",
       "sources": [
         {
@@ -36800,7 +36851,7 @@
         },
         {
           "lang": "ro",
-          "name": "Politician independent",
+          "name": "politician independent",
           "note": "multilingual"
         },
         {
@@ -36951,6 +37002,11 @@
         {
           "lang": "sd",
           "name": "آزاد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Politicus nullius factionis",
           "note": "multilingual"
         },
         {
@@ -37156,11 +37212,6 @@
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Parteilos",
           "note": "multilingual"
         },
         {
@@ -40522,7 +40573,7 @@
     {
       "area_id": "9",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/unpr",
+      "on_behalf_of_id": "party/psd",
       "organization_id": "legislature",
       "person_id": "fad92554-9359-4e9d-9f6c-e7a263b6901d",
       "role": "member"
