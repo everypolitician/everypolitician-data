@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/sycomore.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/france-national-assembly-syccomore",
+        "query": "SELECT *, id AS identifier__sycomore FROM data WHERE term = '13' ORDER BY id"
+      },
+      "source": "http://www.assemblee-nationale.fr/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/sycomore.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
