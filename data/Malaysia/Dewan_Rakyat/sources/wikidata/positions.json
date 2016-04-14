@@ -2,19 +2,22 @@
   "Q845722": [
     {
       "id": "Q6566930",
-      "label": "List of Chief Ministers of Penang"
+      "label": "Chief Minister of Penang",
+      "title": "Chief Minister of Penang"
     }
   ],
   "Q6891328": [
     {
       "id": "Q3893588",
-      "label": "Ministry of Higher Education"
+      "label": "Ministry of Higher Education",
+      "title": "Ministry of Higher Education"
     }
   ],
   "Q57675": [
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "2009-04-03",
         "P1365": "Abdullah Ahmad Badawi"
@@ -23,18 +26,25 @@
     {
       "id": "Q5261073",
       "label": "Deputy Prime Minister of Malaysia",
+      "title": "Deputy Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "2004-01-07",
         "P582": "2009-04-03",
         "P1365": "Abdullah Ahmad Badawi",
         "P1366": "Muhyiddin Yassin"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
     }
   ],
   "Q14917258": [
     {
       "id": "Q7574262",
       "label": "Speaker of the Dewan Rakyat",
+      "title": "Speaker of the Dewan Rakyat",
       "qualifiers": {
         "P580": "1959-09-01",
         "P582": "1964-02-29",
@@ -45,19 +55,32 @@
   "Q7462256": [
     {
       "id": "Q4294580",
-      "label": "Ministry of Women, Family and Community Development"
+      "label": "Ministry of Women, Family and Community Development",
+      "title": "Ministry of Women, Family and Community Development"
     }
   ],
   "Q3176113": [
     {
       "id": "Q3527309",
-      "label": "Ministry of Foreign Affairs of Malaysia"
+      "label": "Ministry of Foreign Affairs of Malaysia",
+      "title": "Ministry of Foreign Affairs of Malaysia"
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ],
   "Q7660415": [
     {
       "id": "Q7574262",
       "label": "Speaker of the Dewan Rakyat",
+      "title": "Speaker of the Dewan Rakyat",
       "qualifiers": {
         "P580": "1978",
         "P1365": "Nik Ahmad Kamil Nik Mahmud",
@@ -66,16 +89,32 @@
       }
     }
   ],
+  "Q4198159": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
+    }
+  ],
   "Q713971": [
     {
       "id": "Q6566930",
-      "label": "List of Chief Ministers of Penang"
+      "label": "Chief Minister of Penang",
+      "title": "Chief Minister of Penang"
+    }
+  ],
+  "Q707164": [
+    {
+      "id": "Q6566930",
+      "label": "Chief Minister of Penang",
+      "title": "Chief Minister of Penang"
     }
   ],
   "Q529391": [
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1976-01-15",
         "P582": "1981-07-16",
@@ -86,6 +125,7 @@
     {
       "id": "Q5261073",
       "label": "Deputy Prime Minister of Malaysia",
+      "title": "Deputy Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1973-08-13",
         "P582": "1976-01-15",
@@ -97,19 +137,22 @@
   "Q3536391": [
     {
       "id": "Q6867411",
-      "label": "Ministry of Natural Resources and Environment"
+      "label": "Ministry of Natural Resources and Environment",
+      "title": "Ministry of Natural Resources and Environment"
     }
   ],
   "Q1449940": [
     {
       "id": "Q6867668",
-      "label": "Ministry of Youth and Sports"
+      "label": "Ministry of Youth and Sports",
+      "title": "Ministry of Youth and Sports"
     }
   ],
   "Q264516": [
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1970-09-22",
         "P582": "1976-01-14",
@@ -120,39 +163,81 @@
     {
       "id": "Q5261073",
       "label": "Deputy Prime Minister of Malaysia",
+      "title": "Deputy Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1957-08-31",
         "P582": "1970-09-22",
         "P1366": "Ismail Abdul Rahman"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
+    }
+  ],
+  "Q1521486": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
+    }
+  ],
+  "Q4670201": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ],
   "Q717696": [
     {
       "id": "Q7098625",
-      "label": "Opposition"
+      "label": "Opposition",
+      "title": "Opposition"
     }
   ],
   "Q2380853": [
     {
       "id": "Q12689905",
-      "label": "Ministry of Information, Communication and Culture"
+      "label": "Ministry of Information, Communication and Culture",
+      "title": "Ministry of Information, Communication and Culture"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ],
   "Q2745305": [
     {
       "id": "Q313465",
-      "label": "Minister of External Affairs"
+      "label": "Minister of External Affairs",
+      "title": "Minister of External Affairs"
     },
     {
       "id": "Q16556694",
-      "label": "member of the Lok Sabha"
+      "label": "member of the Lok Sabha",
+      "title": "member of the Lok Sabha"
+    }
+  ],
+  "Q4764583": [
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ],
   "Q7289724": [
     {
       "id": "Q7574262",
       "label": "Speaker of the Dewan Rakyat",
+      "title": "Speaker of the Dewan Rakyat",
       "qualifiers": {
         "P580": "2004-11-22",
         "P1365": "Mohamed Zahir Ismail",
@@ -165,6 +250,7 @@
     {
       "id": "Q7574262",
       "label": "Speaker of the Dewan Rakyat",
+      "title": "Speaker of the Dewan Rakyat",
       "qualifiers": {
         "P580": "1974-11-11",
         "P1365": "Chik Mohamad Yusuf",
@@ -176,25 +262,36 @@
   "Q6891417": [
     {
       "id": "Q7829094",
-      "label": "Tourism Malaysia"
+      "label": "Tourism Malaysia",
+      "title": "Tourism Malaysia"
     }
   ],
   "Q659879": [
     {
       "id": "Q1161813",
-      "label": "President of the United Nations General Assembly"
+      "label": "President of the United Nations General Assembly",
+      "title": "President of the United Nations General Assembly"
+    }
+  ],
+  "Q4695503": [
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
     }
   ],
   "Q5772615": [
     {
-      "id": "Q4294501",
-      "label": "Ministry of Defence"
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
     }
   ],
   "Q7660318": [
     {
       "id": "Q7574262",
       "label": "Speaker of the Dewan Rakyat",
+      "title": "Speaker of the Dewan Rakyat",
       "qualifiers": {
         "P580": "1964-05-18",
         "P1365": "Mohamad Noah Omar",
@@ -207,6 +304,7 @@
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "2003-10-31",
         "P582": "2009-04-03",
@@ -218,6 +316,7 @@
     {
       "id": "Q5261073",
       "label": "Deputy Prime Minister of Malaysia",
+      "title": "Deputy Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1999-01-29",
         "P582": "2003-10-31",
@@ -225,12 +324,23 @@
         "P1366": "Najib Razak",
         "P768": "Kepala Batas, Penang"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ],
   "Q181383": [
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1981-07-16",
         "P582": "2003-10-31",
@@ -241,28 +351,41 @@
     {
       "id": "Q5261073",
       "label": "Deputy Prime Minister of Malaysia",
+      "title": "Deputy Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1976-03-05",
         "P582": "1981-07-16",
         "P1366": "Musa Hitam"
       }
+    },
+    {
+      "id": "Q20449744",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence"
     }
   ],
   "Q7682024": [
     {
       "id": "Q1886920",
-      "label": "Malaysian Chinese Association"
+      "label": "Malaysian Chinese Association",
+      "title": "Malaysian Chinese Association"
     }
   ],
   "Q296317": [
     {
       "id": "Q862559",
       "label": "Prime Minister of Malaysia",
+      "title": "Prime Minister of Malaysia",
       "qualifiers": {
         "P580": "1957-08-31",
         "P582": "1970-09-22",
         "P1366": "Abdul Razak Hussein"
       }
+    },
+    {
+      "id": "Q7361931",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs"
     }
   ]
 }
