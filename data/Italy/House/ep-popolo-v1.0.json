@@ -163,6 +163,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ferdinando_Adornato"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ferdinando_Adornato"
         },
@@ -67351,6 +67355,11 @@
     },
     {
       "classification": "party",
+      "id": "party/democrazia_solidale_-_centro_democratico",
+      "name": "Democrazia Solidale - Centro Democratico"
+    },
+    {
+      "classification": "party",
       "id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "name": "FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE"
     },
@@ -67410,6 +67419,11 @@
       "classification": "party",
       "id": "party/misto_-_conservatori_e_riformisti",
       "name": "MISTO - CONSERVATORI E RIFORMISTI"
+    },
+    {
+      "classification": "party",
+      "id": "party/misto_-_fare!-pri",
+      "name": "MISTO - FARE!-PRI"
     },
     {
       "classification": "party",
@@ -69048,10 +69062,9 @@
       "role": "member"
     },
     {
-      "area_id": "IV",
-      "end_date": "2013-12-10",
+      "area_id": "area/lombardia_2",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/democrazia_solidale_-_centro_democratico",
       "organization_id": "legislature",
       "person_id": "3e08c05b-e9e4-4642-bcce-da09f2462eea",
       "role": "member"
@@ -72074,12 +72087,22 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2016-04-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "9d4e9c47-35df-4d97-a0df-5188ea81d084",
       "role": "member",
       "start_date": "2015-03-26"
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_fare!-pri",
+      "organization_id": "legislature",
+      "person_id": "9d4e9c47-35df-4d97-a0df-5188ea81d084",
+      "role": "member",
+      "start_date": "2016-04-11"
     },
     {
       "area_id": "XII",
@@ -72247,12 +72270,22 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2016-04-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "a3311a77-bc01-4c0a-a616-f07f87844123",
       "role": "member",
       "start_date": "2015-03-26"
+    },
+    {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_fare!-pri",
+      "organization_id": "legislature",
+      "person_id": "a3311a77-bc01-4c0a-a616-f07f87844123",
+      "role": "member",
+      "start_date": "2016-04-11"
     },
     {
       "area_id": "VI",
@@ -73440,12 +73473,22 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2016-04-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "c700bfb9-ceea-48a7-a914-2e7f7d4e5eeb",
       "role": "member",
       "start_date": "2015-03-26"
+    },
+    {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_fare!-pri",
+      "organization_id": "legislature",
+      "person_id": "c700bfb9-ceea-48a7-a914-2e7f7d4e5eeb",
+      "role": "member",
+      "start_date": "2016-04-11"
     },
     {
       "area_id": "XXIV",
@@ -74409,12 +74452,22 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2016-04-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "legislature",
       "person_id": "e5e71e47-e066-492d-8853-65e0b9dea578",
       "role": "member",
       "start_date": "2015-09-09"
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_fare!-pri",
+      "organization_id": "legislature",
+      "person_id": "e5e71e47-e066-492d-8853-65e0b9dea578",
+      "role": "member",
+      "start_date": "2016-04-11"
     },
     {
       "area_id": "XV",
@@ -75527,6 +75580,11 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lombardia_2",
+      "name": "Lombardia 2",
       "type": "constituency"
     },
     {
