@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -1452,10 +1455,10 @@
       ],
       "email": "acopes@diputados.gob.ar",
       "id": "25ac6be0-a07e-4507-b862-bc6af7a7acb1",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/acopes.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/acopes.jpg"
         }
       ],
       "name": "ANA ISABEL COPES",
@@ -1512,8 +1515,8 @@
           "url": "http://www4.hcdn.gob.ar/fotos/allanosm.jpg"
         }
       ],
-      "name": "ANA LLANOS",
-      "sort_name": "LLANOS, ANA",
+      "name": "ANA LLANOS MASSA",
+      "sort_name": "LLANOS MASSA, ANA",
       "sources": [
         {
           "url": "http://www.hcdn.gob.ar/diputados/allanosm/"
@@ -3827,6 +3830,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Diego_Bossio"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Diego_Bossio"
         },
@@ -5355,6 +5362,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "no92019623",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "050229427",
           "scheme": "sudoc"
         },
@@ -6416,10 +6427,10 @@
       ],
       "email": "gcousinet@diputados.gob.ar",
       "id": "a857c0c6-4059-4594-9327-f23360159b84",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/gcousinet.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/gcousinet.jpg"
         }
       ],
       "name": "GRACIELA COUSINET",
@@ -8665,6 +8676,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CFKyMendiguren.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/CFKyMendiguren.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (es)",
@@ -10451,10 +10468,10 @@
       ],
       "email": "jraffo@diputados.gob.ar",
       "id": "2c6909f1-19c3-4759-af8c-132b35da3b80",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/jraffo.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/jraffo.jpg"
         }
       ],
       "name": "JULIO CESAR RAFFO",
@@ -17347,10 +17364,10 @@
       ],
       "email": "dgiustozzi@diputados.gob.ar",
       "id": "6b95e796-00d1-4332-8dfa-f53b1817e2a2",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/dgiustozzi.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/dgiustozzi.jpg"
         }
       ],
       "name": "RUBEN DARIO GIUSTOZZI",
@@ -18013,6 +18030,10 @@
         {
           "type": "phone",
           "value": "4127-7100"
+        },
+        {
+          "type": "twitter",
+          "value": "sergiomassa"
         }
       ],
       "email": "smassa@diputados.gob.ar",
@@ -18071,6 +18092,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Серхіо_Томас_Масса"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sergiomassa"
         }
       ],
       "name": "SERGIO TOMAS MASSA",
@@ -19310,6 +19335,11 @@
     },
     {
       "classification": "party",
+      "id": "party/del_bicentenario",
+      "name": "DEL BICENTENARIO"
+    },
+    {
+      "classification": "party",
       "id": "party/democrata_de_mendoza",
       "name": "DEMOCRATA DE MENDOZA"
     },
@@ -19317,6 +19347,11 @@
       "classification": "party",
       "id": "party/democrata_progresista",
       "name": "DEMOCRATA PROGRESISTA"
+    },
+    {
+      "classification": "party",
+      "id": "party/dialogo_y_trabajo",
+      "name": "DIALOGO Y TRABAJO"
     },
     {
       "classification": "party",
@@ -19347,11 +19382,6 @@
       "classification": "party",
       "id": "party/frente_de_izquierda_y_de_los_trabajadores",
       "name": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES"
-    },
-    {
-      "classification": "party",
-      "id": "party/frente_para_la_victoria_-_partido_bloquista",
-      "name": "FRENTE PARA LA VICTORIA - PARTIDO BLOQUISTA"
     },
     {
       "classification": "party",
@@ -19417,6 +19447,11 @@
       "classification": "party",
       "id": "party/movimiento_solidario_popular",
       "name": "MOVIMIENTO SOLIDARIO POPULAR"
+    },
+    {
+      "classification": "party",
+      "id": "party/partido_bloquista_de_san_juan",
+      "name": "PARTIDO BLOQUISTA DE SAN JUAN"
     },
     {
       "classification": "party",
@@ -19502,11 +19537,6 @@
       "classification": "party",
       "id": "party/union_pro",
       "name": "UNION PRO"
-    },
-    {
-      "classification": "party",
-      "id": "party/unipersonal",
-      "name": "UNIPERSONAL"
     },
     {
       "classification": "party",
@@ -19669,7 +19699,7 @@
     {
       "area_id": "area/san_juan",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_partido_bloquista",
+      "on_behalf_of_id": "party/partido_bloquista_de_san_juan",
       "organization_id": "legislature",
       "person_id": "0f932734-59be-446c-b68c-7223fbd4c607",
       "role": "member",
@@ -20041,7 +20071,7 @@
     {
       "area_id": "area/ciudad_de_buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/unipersonal",
+      "on_behalf_of_id": "party/dialogo_y_trabajo",
       "organization_id": "legislature",
       "person_id": "2c6909f1-19c3-4759-af8c-132b35da3b80",
       "role": "member"
@@ -20601,7 +20631,7 @@
     {
       "area_id": "area/tucuman",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/ucr",
+      "on_behalf_of_id": "party/del_bicentenario",
       "organization_id": "legislature",
       "person_id": "5546d51b-be18-419f-a9b6-2151fd4fea0a",
       "role": "member"
@@ -22629,7 +22659,7 @@
     {
       "area_id": "area/tucuman",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/ucr",
+      "on_behalf_of_id": "party/del_bicentenario",
       "organization_id": "legislature",
       "person_id": "f1cac6db-f241-403d-8687-adb1eddf43cb",
       "role": "member",
