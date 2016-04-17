@@ -1,7 +1,11 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1976-08-12",
+      "gender": "male",
       "given_name": "Adrian",
       "id": "15676146-0b4a-45f2-a1d3-72ea4d43ad63",
       "identifiers": [
@@ -112,6 +116,7 @@
     },
     {
       "birth_date": "1981-01-11",
+      "gender": "male",
       "id": "2c7bb30d-90ae-422c-93bb-05f8aa6f8f53",
       "identifiers": [
         {
@@ -264,6 +269,7 @@
     },
     {
       "birth_date": "1969-04-25",
+      "gender": "female",
       "id": "8945fd73-216f-481d-a7cd-2b0147eafc45",
       "identifiers": [
         {
@@ -320,6 +326,7 @@
         }
       ],
       "email": "Anatolie.Gorila@parlament.md",
+      "gender": "male",
       "id": "4aa3199a-6416-4a2d-bb8b-24c08e411c50",
       "identifiers": [
         {
@@ -549,6 +556,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Андрыян_Ільіч_Канду"
+        },
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Andrian_Candu"
@@ -1093,6 +1104,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "1dfff33e-31b0-4838-a302-fbcfc1c6ba39",
       "identifiers": [
         {
@@ -1230,6 +1242,7 @@
     },
     {
       "birth_date": "1969-06-30",
+      "gender": "male",
       "id": "fe56d4d1-7095-4174-ac0b-01715c4c1ea7",
       "identifiers": [
         {
@@ -1349,6 +1362,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Карасени,_Демьян_Николаевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Дем'ян_Карасені"
         }
       ],
       "name": "Demian Caraseni",
@@ -1361,6 +1378,11 @@
         {
           "lang": "ru",
           "name": "Карасени, Демьян Николаевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дем'ян Карасені",
           "note": "multilingual"
         }
       ],
@@ -1877,6 +1899,7 @@
     },
     {
       "birth_date": "1958-10-23",
+      "gender": "male",
       "id": "7a06f904-1b0c-4943-87ed-0ac2820e37ea",
       "identifiers": [
         {
@@ -2056,6 +2079,7 @@
     },
     {
       "birth_date": "1968-08-05",
+      "gender": "male",
       "id": "d4ba368f-b788-4802-95a7-3b8518be7279",
       "identifiers": [
         {
@@ -2227,6 +2251,7 @@
     },
     {
       "birth_date": "1983-02-06",
+      "gender": "male",
       "id": "18df8ae3-0580-4431-93b1-5dc1b7438b49",
       "identifiers": [
         {
@@ -2451,6 +2476,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Додон,_Игорь_Николаевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Ігор_Додон"
         }
       ],
       "name": "Igor Dodon",
@@ -2498,6 +2527,11 @@
         {
           "lang": "ru",
           "name": "Додон, Игорь Николаевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Ігор Додон",
           "note": "multilingual"
         }
       ],
@@ -3410,6 +3444,7 @@
     },
     {
       "birth_date": "1978-10-12",
+      "gender": "male",
       "id": "f943f03d-b643-4fef-b331-d0d700e10e2d",
       "identifiers": [
         {
@@ -3863,7 +3898,7 @@
         },
         {
           "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Лупу_Маріан"
+          "url": "https://uk.wikipedia.org/wiki/Маріан_Лупу"
         },
         {
           "note": "Wikipedia (yo)",
@@ -4171,6 +4206,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "a67455e1-c8af-4b24-8fa6-49d0ffffeb70",
       "identifiers": [
         {
@@ -4897,6 +4933,7 @@
     },
     {
       "birth_date": "1971-12-15",
+      "gender": "male",
       "id": "9e005622-eea7-4a16-ae56-152f76d1ec98",
       "identifiers": [
         {
@@ -4937,6 +4974,7 @@
     },
     {
       "birth_date": "1960-10-22",
+      "gender": "male",
       "id": "427e3ce6-68c4-46f2-abe3-2112f8de7540",
       "identifiers": [
         {
@@ -4989,6 +5027,7 @@
         }
       ],
       "email": "Oleg.Reidman@parlament.md",
+      "gender": "male",
       "id": "a4513b3a-6ef7-4741-ae08-e257d73f4a30",
       "identifiers": [
         {
@@ -5029,6 +5068,7 @@
     },
     {
       "birth_date": "1966-12-10",
+      "gender": "male",
       "id": "f919817c-8f90-4712-b643-76dd0961149f",
       "identifiers": [
         {
@@ -5081,6 +5121,7 @@
         }
       ],
       "email": "Oleg.Sirbu@parlament.md",
+      "gender": "male",
       "id": "3045e31c-fddb-46c3-9c93-c4c12ee3d03e",
       "identifiers": [
         {
@@ -5324,6 +5365,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Уладзімір_Георгіевіч_Плахатнюк"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Vladimir_Plahotniuc"
         },
@@ -5400,6 +5445,7 @@
     },
     {
       "birth_date": "1973-05-01",
+      "gender": "male",
       "id": "bfcce7a2-e58a-4bd0-ba02-30525a8d4cb0",
       "identifiers": [
         {
@@ -5452,6 +5498,7 @@
         }
       ],
       "email": "Cristina.Ciolac@parlament.md",
+      "gender": "female",
       "id": "83f941b1-e15d-410f-8093-6081b6cbafa0",
       "identifiers": [
         {
@@ -6580,6 +6627,7 @@
     },
     {
       "birth_date": "1948-08-12",
+      "gender": "male",
       "given_name": "Victor",
       "id": "84fd505e-f6c0-4ca6-a062-746602f2106d",
       "identifiers": [
@@ -7259,6 +7307,7 @@
       ]
     },
     {
+      "gender": "male",
       "given_name": "Vladimir",
       "id": "5c687652-a7a8-4737-a3a0-1a022f24df58",
       "identifiers": [
@@ -8332,6 +8381,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Шалару,_Анатолий"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Анатолій_Шалару"
         }
       ],
       "name": "Şalaru Anatolie",
@@ -8368,6 +8421,11 @@
         {
           "lang": "ru",
           "name": "Анатол Шалару",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Анатолій Шалару",
           "note": "multilingual"
         }
       ],
