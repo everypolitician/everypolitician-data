@@ -1,4 +1,16 @@
 {
+  "posts": [
+    {
+      "id": "woman_representative",
+      "label": "Woman Representative",
+      "organization_id": "legislature"
+    },
+    {
+      "id": "pwd",
+      "label": "PWD",
+      "organization_id": "legislature"
+    }
+  ],
   "persons": [
     {
       "gender": "male",
@@ -24675,6 +24687,7 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "1c2a802d-235c-4665-b9a0-cf53197ac270",
+      "post_id": "woman_representative",
       "role": "member"
     },
     {
@@ -25355,6 +25368,7 @@
       "on_behalf_of_id": "NRM",
       "organization_id": "legislature",
       "person_id": "35b0fd49-1df3-458b-ab58-089c14adf3fd",
+      "post_id": "pwd",
       "role": "member"
     },
     {
