@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1972-03-11",
@@ -2208,6 +2211,11 @@
         {
           "lang": "nl",
           "name": "Andrew Nikolic",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Andrija Nikolić",
           "note": "multilingual"
         },
         {
@@ -34084,6 +34092,10 @@
           "scheme": "ndl"
         },
         {
+          "identifier": "512183",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "215/000110882",
           "scheme": "nndb"
         },
@@ -45479,6 +45491,13 @@
     },
     {
       "birth_date": "1968-10-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Trent.Zimmerman.MP@aph.gov.au"
+        }
+      ],
+      "email": "Trent.Zimmerman.MP@aph.gov.au",
       "family_name": "Zimmerman",
       "gender": "male",
       "given_name": "Trent",
