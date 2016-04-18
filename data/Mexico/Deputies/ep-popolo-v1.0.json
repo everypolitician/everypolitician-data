@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "gender": "male",
@@ -30056,6 +30059,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Magdalena_Núñez_Monreal"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Magdalena_Nuñez_Monreal"
         }
       ],
       "name": "Magdalena del Socorro Núñez Monreal",
@@ -30072,6 +30079,11 @@
         {
           "lang": "en",
           "name": "Magdalena Núñez Monreal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Magdalena Nuñez Monreal",
           "note": "multilingual"
         },
         {
@@ -39033,6 +39045,22 @@
       ]
     },
     {
+      "id": "cda16863-a6a5-4cd8-9d8f-b3f079b5fb3d",
+      "image": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/528_FOTO_CHICA.jpg",
+      "images": [
+        {
+          "url": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/528_FOTO_CHICA.jpg"
+        }
+      ],
+      "name": "Paulino Alberto Vázquez Villalobos",
+      "sort_name": "Vázquez Villalobos Paulino Alberto",
+      "sources": [
+        {
+          "url": "http://sitl.diputados.gob.mx/LXIII_leg/curricula.php?dipt=773"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -45287,6 +45315,22 @@
       "sources": [
         {
           "url": "http://sitl.diputados.gob.mx/LXIII_leg/curricula.php?dipt=150"
+        }
+      ]
+    },
+    {
+      "id": "41f7a5ef-55a0-435d-b73d-e8e7cf0d9d37",
+      "image": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/529_FOTO_CHICA.jpg",
+      "images": [
+        {
+          "url": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/529_FOTO_CHICA.jpg"
+        }
+      ],
+      "name": "Teodardo Muñoz Torres",
+      "sort_name": "Muñoz Torres Teodardo",
+      "sources": [
+        {
+          "url": "http://sitl.diputados.gob.mx/LXIII_leg/curricula.php?dipt=770"
         }
       ]
     },
@@ -52386,6 +52430,14 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:mx/entidad:tlaxcala/distrito:3",
+      "legislative_period_id": "term/63",
+      "on_behalf_of_id": "PRI",
+      "organization_id": "legislature",
+      "person_id": "41f7a5ef-55a0-435d-b73d-e8e7cf0d9d37",
+      "role": "member"
+    },
+    {
       "area_id": "ocd-division/country:mx/entidad:jalisco/distrito:10",
       "legislative_period_id": "term/62",
       "on_behalf_of_id": "PAN",
@@ -56855,6 +56907,14 @@
       "on_behalf_of_id": "PVE",
       "organization_id": "legislature",
       "person_id": "cd8a1c9c-bafb-4199-9124-433ee4c1e24a",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:mx/entidad:veracruz/distrito:3",
+      "legislative_period_id": "term/63",
+      "on_behalf_of_id": "PRI",
+      "organization_id": "legislature",
+      "person_id": "cda16863-a6a5-4cd8-9d8f-b3f079b5fb3d",
       "role": "member"
     },
     {
