@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "birth_date": "1979-03-30",
@@ -271,6 +274,11 @@
         },
         {
           "lang": "es",
+          "name": "Aitor Esteban",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
           "name": "Aitor Esteban",
           "note": "multilingual"
         },
@@ -681,8 +689,20 @@
       "id": "65669c5d-db75-4e41-af9b-6a9c531d1611",
       "identifiers": [
         {
+          "identifier": "XX4824937",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "a11152801",
+          "scheme": "cantic"
+        },
+        {
           "identifier": "70",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n2012013996",
+          "scheme": "lcauth"
         },
         {
           "identifier": "15934493X",
@@ -2203,6 +2223,10 @@
       "given_name": "Alfredo",
       "id": "ecaf6c50-e5e3-4c13-a32b-99f95080a367",
       "identifiers": [
+        {
+          "identifier": "XX968618",
+          "scheme": "bne"
+        },
         {
           "identifier": "a11632501",
           "scheme": "cantic"
@@ -5995,10 +6019,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/10_11.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Premios_HazteOir.org_2011_(6).jpg",
       "images": [
         {
-          "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/10_11.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Premios_HazteOir.org_2011_(6).jpg"
         }
       ],
       "links": [
@@ -7315,8 +7339,36 @@
       "id": "19c59271-822e-4770-914b-4a0a8e72c455",
       "identifiers": [
         {
+          "identifier": "XX1685813",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "a11310625",
+          "scheme": "cantic"
+        },
+        {
           "identifier": "312",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1060667770",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7974 4571",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2004054109",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "079539092",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "44551432",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q16297359",
@@ -12148,6 +12200,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Xavier Domènech Sampere",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Xavier Domènech",
           "note": "multilingual"
@@ -12957,6 +13014,11 @@
         {
           "name": "Francisco Jorquera",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Francisco Jorquera",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -17985,6 +18047,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ca",
+          "name": "Joaquín García Díez",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Joaquín García Díez",
           "note": "multilingual"
@@ -19957,6 +20024,11 @@
           "lang": "fr",
           "name": "José Enrique Serrano",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "José Enrique Serrano",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Serrano Martínez, José Enrique",
@@ -21492,6 +21564,10 @@
       "id": "9a9219b3-4b03-4790-83e1-7acd19795c28",
       "identifiers": [
         {
+          "identifier": "XX824719",
+          "scheme": "bne"
+        },
+        {
           "identifier": "16648896v",
           "scheme": "bnf"
         },
@@ -21502,6 +21578,14 @@
         {
           "identifier": "/m/0vxd4c0",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 6078 3677",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2008085638",
+          "scheme": "lcauth"
         },
         {
           "identifier": "87616734",
@@ -21819,6 +21903,10 @@
       "given_name": "José María",
       "id": "101b7617-ffeb-4c53-ae55-e25e2dbd2c2c",
       "identifiers": [
+        {
+          "identifier": "XX950784",
+          "scheme": "bne"
+        },
         {
           "identifier": "12200370s",
           "scheme": "bnf"
@@ -23501,6 +23589,10 @@
           "url": "https://de.wikipedia.org/wiki/Juan_Carlos_Girauta"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Girauta"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Girauta"
         },
@@ -24578,7 +24670,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Julián López Milla",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Julián López Milla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Julián López Milla",
           "note": "multilingual"
         },
@@ -26861,6 +26963,10 @@
       "given_name": "Mariano",
       "id": "6bf4d593-fc25-4d82-958e-954c21d1efdb",
       "identifiers": [
+        {
+          "identifier": "XX1079922",
+          "scheme": "bne"
+        },
         {
           "identifier": "16223389w",
           "scheme": "bnf"
@@ -36877,6 +36983,14 @@
         {
           "identifier": "381",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "192249584",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "20146030517535860298",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6070218",
