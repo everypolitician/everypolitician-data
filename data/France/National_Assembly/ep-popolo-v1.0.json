@@ -3001,6 +3001,10 @@
           "url": "https://ru.wikipedia.org/wiki/Громер,_Анн"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Anne_Grommerch"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/annegrommerch"
         },
@@ -30031,6 +30035,11 @@
         {
           "lang": "da",
           "name": "Guy-Michel Chauveau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γκι-Μισέλ Σωβώ",
           "note": "multilingual"
         },
         {
@@ -60946,6 +60955,10 @@
           "url": "https://ru.wikipedia.org/wiki/Косцюшко-Моризе,_Натали"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet"
         },
@@ -63536,6 +63549,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pascal_Cherki"
+        },
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Pascal_Cherki"
@@ -66408,6 +66425,37 @@
       "sources": [
         {
           "url": "http://www.nosdeputes.fr/patrick-vignal/json"
+        }
+      ]
+    },
+    {
+      "birth_date": "1954-07-01",
+      "family_name": "Weiten",
+      "gender": "male",
+      "given_name": "Patrick",
+      "id": "2184450f-9e29-46c7-801a-537a2b605a01",
+      "identifiers": [
+        {
+          "identifier": "642876",
+          "scheme": "assemblee_nationale"
+        }
+      ],
+      "image": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642876.jpg",
+      "images": [
+        {
+          "url": "http://www2.assemblee-nationale.fr/static/tribun/14/photos/642876.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www2.assemblee-nationale.fr/deputes/fiche/OMC_PA642876"
+        }
+      ],
+      "name": "Patrick Weiten",
+      "sources": [
+        {
+          "url": "http://www.nosdeputes.fr/patrick-weiten/json"
         }
       ]
     },
@@ -70504,6 +70552,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Pierre_Moscovici"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Pierre_Moscovici"
         },
         {
           "note": "Wikipedia (cs)",
@@ -85912,6 +85964,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/moselle",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "party/ni",
+      "organization_id": "legislature",
+      "person_id": "2184450f-9e29-46c7-801a-537a2b605a01",
+      "role": "member",
+      "start_date": "2016-04-16"
+    },
+    {
       "area_id": "area/oise",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
@@ -88102,6 +88163,7 @@
     },
     {
       "area_id": "area/moselle",
+      "end_date": "2016-04-15",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "party/les-rep",
       "organization_id": "legislature",
