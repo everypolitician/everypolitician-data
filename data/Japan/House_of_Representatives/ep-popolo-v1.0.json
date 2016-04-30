@@ -14401,6 +14401,22 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "031b4bee-67f4-4e5c-9f6f-94701291b513",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
+        }
+      ],
+      "name": "KITAGAMI Keiro",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_k.htm"
+        }
+      ]
+    },
+    {
       "birth_date": "1953",
       "contact_details": [
         {
@@ -17294,6 +17310,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/松本文明"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/松本文明"
         }
       ],
       "name": "MATSUMOTO Fumiaki",
@@ -33883,6 +33903,22 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "d829e142-0755-45d2-a1bc-a5c01768546c",
+      "image": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm"
+        }
+      ],
+      "name": "WADA Yoshiaki",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/member/mem_w.htm"
+        }
+      ]
+    },
+    {
       "birth_date": "1961",
       "gender": "male",
       "given_name": "Kenji",
@@ -36278,6 +36314,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kinki_bloc",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "031b4bee-67f4-4e5c-9f6f-94701291b513",
+      "role": "member"
+    },
+    {
       "area_id": "area/oita_3rd_district",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/ldp",
@@ -38070,6 +38114,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kyoto_3rd_district",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/dp",
+      "organization_id": "legislature",
+      "person_id": "777d4ed3-6de2-4772-b439-302c59bc7285",
+      "role": "member"
+    },
+    {
       "area_id": "area/tokyo_bloc",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/dp",
@@ -39430,6 +39482,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/hokkaido_5th_district",
+      "legislative_period_id": "term/46",
+      "on_behalf_of_id": "party/ldp",
+      "organization_id": "legislature",
+      "person_id": "d829e142-0755-45d2-a1bc-a5c01768546c",
+      "role": "member"
+    },
+    {
       "area_id": "area/tokyo_bloc",
       "legislative_period_id": "term/46",
       "on_behalf_of_id": "party/ldp",
@@ -40448,6 +40508,11 @@
     {
       "id": "area/hokkaido_4th_district",
       "name": "Hokkaido 4th District",
+      "type": "constituency"
+    },
+    {
+      "id": "area/hokkaido_5th_district",
+      "name": "Hokkaido 5th District",
       "type": "constituency"
     },
     {
