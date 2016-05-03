@@ -1052,6 +1052,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q2073755": [
@@ -2731,6 +2735,16 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    }
+  ],
+  "Q19402658": [
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2015-01-01",
+        "P1365": "Ronald Pofalla"
+      }
     }
   ],
   "Q98828": [
@@ -4492,7 +4506,18 @@
       "qualifiers": {
         "P580": "1991",
         "P582": "1995",
-        "P1366": "Ursula Seiler-Albring"
+        "P1366": "Ursula Seiler-Albring",
+        "P1365": "Dietrich von Brühl"
+      }
+    },
+    {
+      "id": "Q23653654",
+      "label": "Q23653654",
+      "qualifiers": {
+        "P580": "1995",
+        "P582": "1997",
+        "P1365": "Hans-Joachim Hallier",
+        "P1366": "Jürgen Oesterhelt"
       }
     }
   ],
@@ -5311,7 +5336,28 @@
   "Q1080321": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008120"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2008-05-15",
+        "P1365": "Bernward Müller",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q1226238": [
@@ -5826,6 +5872,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q1744798": [
@@ -6060,6 +6110,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18556824",
+      "label": "member of the Landtag of Brandenburg"
     }
   ],
   "Q15805255": [
@@ -8779,6 +8833,10 @@
     {
       "id": "Q30185",
       "label": "mayor"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q1889734": [
@@ -9196,6 +9254,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland"
     }
   ],
   "Q1289488": [
@@ -10037,7 +10099,7 @@
       "id": "Q1307072",
       "label": "Chief Whip",
       "qualifiers": {
-        "P642": "Q1023134",
+        "P642": "CDU/CSU faction",
         "P580": "2009-10-27",
         "P582": "2012-05-22",
         "P1365": "Norbert Röttgen"
@@ -10840,6 +10902,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q1532988": [
@@ -12419,6 +12485,10 @@
     {
       "id": "Q18557729",
       "label": "member of the Volkskammer"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q121807": [
@@ -12838,15 +12908,7 @@
       "id": "Q504272",
       "label": "Vice-Chancellor of Germany",
       "qualifiers": {
-        "P580": "1982-09-17",
-        "P582": "1992-05-18"
-      }
-    },
-    {
-      "id": "Q2006176",
-      "label": "Minister for Foreign Affairs",
-      "qualifiers": {
-        "P580": "1982-09-17",
+        "P580": "1982-10-04",
         "P582": "1992-05-18"
       }
     }
@@ -12921,7 +12983,7 @@
       "id": "Q1307072",
       "label": "Chief Whip",
       "qualifiers": {
-        "P642": "Q1023134",
+        "P642": "CDU/CSU faction",
         "P580": "2002",
         "P582": "2005-01"
       }
@@ -13393,7 +13455,11 @@
   "Q1731675": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008591"
+      }
     },
     {
       "id": "Q30185",
@@ -15213,7 +15279,7 @@
       "id": "Q1307072",
       "label": "Chief Whip",
       "qualifiers": {
-        "P642": "Q1023134",
+        "P642": "CDU/CSU faction",
         "P580": "2005-01-25",
         "P582": "2009",
         "P1366": "Peter Altmaier"
@@ -15832,6 +15898,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland"
     }
   ],
   "Q1712199": [
@@ -16770,6 +16840,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q1536770": [
@@ -18048,7 +18122,10 @@
   "Q15433139": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
     }
   ],
   "Q1914013": [
@@ -20156,7 +20233,26 @@
   "Q103519": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q65114": [
@@ -20543,7 +20639,35 @@
   "Q2157563": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008685"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2002-10-17",
+        "P582": "2005-10-18"
+      }
     }
   ],
   "Q1690506": [
@@ -20734,6 +20858,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland"
     }
   ],
   "Q1284158": [
@@ -21419,7 +21547,7 @@
     },
     {
       "id": "Q897395",
-      "label": "Vorstand",
+      "label": "executive board",
       "qualifiers": {
         "P642": "Deutsche Vereinigung für Politische Bildung e.V."
       }
@@ -21837,7 +21965,28 @@
   "Q1379228": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Berlin Mitte"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-01-12",
+        "P1365": "Ditmar Staffelt",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q1449410": [
@@ -22394,6 +22543,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland"
     }
   ],
   "Q1360501": [
@@ -22464,7 +22617,11 @@
   "Q1609894": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Cologne II"
+      }
     }
   ],
   "Q1563400": [
@@ -23375,6 +23532,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q1407193": [
@@ -24973,12 +25134,20 @@
     {
       "id": "Q30185",
       "label": "mayor"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q15782242": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22",
+        "P768": "Q1008386"
+      }
     }
   ],
   "Q76924": [
@@ -28426,11 +28595,30 @@
   "Q123504": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
     },
     {
       "id": "Q17781726",
       "label": "member of the Landtag of North Rhine-Westphalia"
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q105117": [
@@ -29200,6 +29388,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18130478",
+      "label": "Member of the Landtag of Saarland"
     }
   ],
   "Q1290430": [
@@ -32498,6 +32690,10 @@
     {
       "id": "Q1939555",
       "label": "member of the German Bundestag"
+    },
+    {
+      "id": "Q18327335",
+      "label": "Member of the Abgeordnetenhaus of Berlin"
     }
   ],
   "Q99637": [
@@ -34072,7 +34268,26 @@
   "Q74806": [
     {
       "id": "Q1939555",
-      "label": "member of the German Bundestag"
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2009-10-27",
+        "P582": "2013-10-22"
+      }
+    },
+    {
+      "id": "Q1939555",
+      "label": "member of the German Bundestag",
+      "qualifiers": {
+        "P580": "2005-10-18",
+        "P582": "2009-10-27"
+      }
     }
   ],
   "Q1642012": [
