@@ -6539,6 +6539,11 @@
           "lang": "sv",
           "name": "Jeff Radebe",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "傑夫·拉德貝",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -11046,6 +11051,11 @@
         {
           "lang": "sv",
           "name": "Mosiuoa Lekota",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "莫司奧·萊科塔",
           "note": "multilingual"
         }
       ],
@@ -16924,6 +16934,29 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "wnewhoudt@parliament.gov.za"
+        }
+      ],
+      "email": "wnewhoudt@parliament.gov.za",
+      "honorific_prefix": "Mrs",
+      "id": "178527df-90df-416c-a312-2185dbd30d8a",
+      "image": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg",
+      "images": [
+        {
+          "url": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg"
+        }
+      ],
+      "name": "Wilma Susan Newhoudt-Druchen",
+      "sources": [
+        {
+          "url": "http://www.pa.org.za/person/wilma-susan-newhoudt-druchen/"
+        }
+      ]
+    },
+    {
       "birth_date": "1953-07-05",
       "contact_details": [
         {
@@ -19581,6 +19614,13 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "ANC",
       "organization_id": "legislature",
+      "person_id": "178527df-90df-416c-a312-2185dbd30d8a",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "ANC",
+      "organization_id": "legislature",
       "person_id": "18828e6e-90b4-45fc-bab9-e14e5b3bff78",
       "role": "member"
     },
@@ -20144,7 +20184,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/gauteng",
+      "area_id": "area/unknown_sub-area_of_gauteng_known_as_da_constituency_area:_boksburg",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "DA",
       "organization_id": "legislature",
@@ -22315,6 +22355,11 @@
     {
       "id": "area/northern_cape",
       "name": "Northern Cape",
+      "type": "constituency"
+    },
+    {
+      "id": "area/unknown_sub-area_of_gauteng_known_as_da_constituency_area:_boksburg",
+      "name": "Unknown sub-area of Gauteng known as DA Constituency Area: Boksburg",
       "type": "constituency"
     },
     {
