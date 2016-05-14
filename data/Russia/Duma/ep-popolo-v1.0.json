@@ -2591,6 +2591,14 @@
           "scheme": "allmovie"
         },
         {
+          "identifier": "454174",
+          "scheme": "allocine"
+        },
+        {
+          "identifier": "35537",
+          "scheme": "csfd"
+        },
+        {
           "identifier": "525",
           "scheme": "declarator"
         },
@@ -2619,12 +2627,20 @@
           "scheme": "isni"
         },
         {
+          "identifier": "256810",
+          "scheme": "kinopoisk"
+        },
+        {
           "identifier": "no2004015954",
           "scheme": "lcauth"
         },
         {
           "identifier": "13282",
           "scheme": "moviemeter"
+        },
+        {
+          "identifier": "177692",
+          "scheme": "port"
         },
         {
           "identifier": "15626501X",
@@ -4875,8 +4891,20 @@
           "scheme": "allmovie"
         },
         {
+          "identifier": "42680",
+          "scheme": "allocine"
+        },
+        {
+          "identifier": "10601",
+          "scheme": "csfd"
+        },
+        {
           "identifier": "177",
           "scheme": "declarator"
+        },
+        {
+          "identifier": "126711",
+          "scheme": "elonet"
         },
         {
           "identifier": "131483",
@@ -4903,12 +4931,20 @@
           "scheme": "isni"
         },
         {
+          "identifier": "185642",
+          "scheme": "kinopoisk"
+        },
+        {
           "identifier": "no94017326",
           "scheme": "lcauth"
         },
         {
           "identifier": "12117",
           "scheme": "moviemeter"
+        },
+        {
+          "identifier": "179186",
+          "scheme": "port"
         },
         {
           "identifier": "163857",
@@ -5008,6 +5044,11 @@
         {
           "lang": "az",
           "name": "Stanislav Qovoruxin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Станіслаў Сяргеевіч Гаварухін",
           "note": "multilingual"
         },
         {
@@ -13863,6 +13904,11 @@
           "note": "alternate"
         },
         {
+          "lang": "be-tarask",
+          "name": "Ігар Лебедзеў",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Igor Wladimirowitsch Lebedew",
           "note": "multilingual"
@@ -17209,6 +17255,11 @@
           "lang": "uk",
           "name": "Наришкін Сергій Євгенович",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "謝爾蓋·納雷什金",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -17489,6 +17540,11 @@
         {
           "name": "Николаев, Михаил Ефимович",
           "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Міхаіл Яфімавіч Нікалаеў",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -18603,6 +18659,21 @@
       "sources": [
         {
           "url": "http://www.duma.gov.ru/structure/deputies/131264/"
+        }
+      ]
+    },
+    {
+      "id": "97f29796-79e4-4942-8ef2-60f133da4d30",
+      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "images": [
+        {
+          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+        }
+      ],
+      "name": "Петеляева Ирина Владимировна",
+      "sources": [
+        {
+          "url": "http://www.duma.gov.ru/structure/deputies/1673517/"
         }
       ]
     },
@@ -20948,6 +21019,16 @@
         {
           "lang": "zh",
           "name": "艾琳娜·羅德妮娜",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "伊琳娜·罗德尼娜",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "伊琳娜·羅德尼娜",
           "note": "multilingual"
         }
       ],
@@ -33370,6 +33451,14 @@
       "on_behalf_of_id": "party/ЛДПР",
       "organization_id": "legislature",
       "person_id": "97568ad5-d6ba-42fb-87eb-272c4f4cd831",
+      "role": "member"
+    },
+    {
+      "area_id": "area/Республика_Карелия,_Ленинградская_область",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/«СПРАВЕДЛИВАЯ_РОССИЯ»",
+      "organization_id": "legislature",
+      "person_id": "97f29796-79e4-4942-8ef2-60f133da4d30",
       "role": "member"
     },
     {
