@@ -621,6 +621,10 @@
           "scheme": "italian_cod"
         },
         {
+          "identifier": "IT\\ICCU\\TO0V\\572273",
+          "scheme": "sbn_it"
+        },
+        {
           "identifier": "286193708",
           "scheme": "viaf"
         },
@@ -6811,6 +6815,11 @@
         {
           "lang": "vec",
           "name": "Rosy Bindi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "羅西·賓迪",
           "note": "multilingual"
         }
       ],
@@ -18307,6 +18316,11 @@
           "lang": "uk",
           "name": "Фабріціо Чікітто",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法布里齊奧·奇齊托",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -26041,6 +26055,16 @@
           "lang": "uk",
           "name": "Гульєльмо Епіфані",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "古列尔莫·埃皮法尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "古列爾莫·埃皮法尼",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -31608,6 +31632,11 @@
           "lang": "sv",
           "name": "Daniela Santanchè",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "丹妮拉·桑坦切",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -32571,6 +32600,16 @@
         {
           "lang": "uk",
           "name": "Паоло Джентілоні",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "保罗·真蒂洛尼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "保羅·真蒂洛尼",
           "note": "multilingual"
         }
       ],
@@ -44094,6 +44133,21 @@
         {
           "lang": "uk",
           "name": "Антоніо Мартіно",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安東尼奧·馬爾提諾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "挪威755国道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "挪威755國道",
           "note": "multilingual"
         }
       ],
@@ -61952,6 +62006,30 @@
       ]
     },
     {
+      "birth_date": "1952-12-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "SECCO_D@CAMERA.IT"
+        }
+      ],
+      "email": "SECCO_D@CAMERA.IT",
+      "gender": "male",
+      "id": "c5e3f310-bfa1-4178-bb87-d4a46c8de5d8",
+      "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/961/original_d306961.jpg",
+      "images": [
+        {
+          "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/306/961/original_d306961.jpg"
+        }
+      ],
+      "name": "SECCO Dino",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306961&idpersona=306961&idlegislatura=17"
+        }
+      ]
+    },
+    {
       "birth_date": "1978-01-12",
       "contact_details": [
         {
@@ -66992,6 +67070,10 @@
           "scheme": "openpolis"
         },
         {
+          "identifier": "IT\\ICCU\\VIAV\\117042",
+          "scheme": "sbn_it"
+        },
+        {
           "identifier": "Q3929279",
           "scheme": "wikidata"
         }
@@ -68667,8 +68749,8 @@
     },
     {
       "classification": "party",
-      "id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
-      "name": "MISTO - USEI (UNIONE SUDAMERICANA EMIGRATI ITALIANI)"
+      "id": "party/misto_-_usei-idea",
+      "name": "MISTO - USEI-IDEA"
     },
     {
       "classification": "party",
@@ -69725,7 +69807,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "on_behalf_of_id": "party/misto_-_usei-idea",
       "organization_id": "legislature",
       "person_id": "29f700c3-f56d-40b7-9fcc-a70de18b5a30",
       "role": "member",
@@ -69851,7 +69933,7 @@
     {
       "area_id": "B",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "on_behalf_of_id": "party/misto_-_usei-idea",
       "organization_id": "legislature",
       "person_id": "30f5b86d-c111-42e4-82de-4e54be66f56b",
       "role": "member",
@@ -73369,11 +73451,21 @@
     },
     {
       "area_id": "III",
+      "end_date": "2016-05-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "legislature",
       "person_id": "9e6033d5-ee09-459a-9702-c9be8ef089f4",
       "role": "member"
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "legislature",
+      "person_id": "9e6033d5-ee09-459a-9702-c9be8ef089f4",
+      "role": "member",
+      "start_date": "2016-05-11"
     },
     {
       "area_id": "XXI",
@@ -73876,7 +73968,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "on_behalf_of_id": "party/misto_-_usei-idea",
       "organization_id": "legislature",
       "person_id": "ae62856d-da5c-408c-ab2a-e3951a42756f",
       "role": "member",
@@ -74242,7 +74334,7 @@
     {
       "area_id": "XVI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "on_behalf_of_id": "party/misto_-_usei-idea",
       "organization_id": "legislature",
       "person_id": "b8ab1864-d5fa-4a54-84d6-0f3349983789",
       "role": "member",
@@ -74650,6 +74742,15 @@
       "role": "member"
     },
     {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
+      "organization_id": "legislature",
+      "person_id": "c5e3f310-bfa1-4178-bb87-d4a46c8de5d8",
+      "role": "member",
+      "start_date": "2016-04-28"
+    },
+    {
       "area_id": "XI",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
@@ -74954,7 +75055,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_usei_(unione_sudamericana_emigrati_italiani)",
+      "on_behalf_of_id": "party/misto_-_usei-idea",
       "organization_id": "legislature",
       "person_id": "cf0143f4-a16d-4f8c-b799-3188b7197580",
       "role": "member",
