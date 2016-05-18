@@ -4555,6 +4555,25 @@
       "patronymic_name": "Миколайович"
     },
     {
+      "family_name": "Білозір",
+      "given_name": "Оксана",
+      "id": "b0c793a5-4a92-4c61-bacb-006f239298a9",
+      "identifiers": [
+        {
+          "identifier": "5503",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp80.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp80.jpg"
+        }
+      ],
+      "name": "Білозір Оксана Володимирівна",
+      "patronymic_name": "Володимирівна"
+    },
+    {
       "birth_date": "1986-02-21",
       "family_name": "Білоцерковець",
       "given_name": "Дмитро",
@@ -15347,6 +15366,10 @@
           "url": "https://pl.wikipedia.org/wiki/Ihor_Łucenko"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Луценко,_Игорь_Викторович"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Луценко_Ігор_Вікторович"
         }
@@ -15371,6 +15394,11 @@
         {
           "lang": "pl",
           "name": "Ihor Łucenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Игорь Викторович Луценко",
           "note": "multilingual"
         },
         {
@@ -35879,6 +35907,15 @@
       "organization_id": "legislature",
       "person_id": "b0c00cf5-dd57-438a-aeb5-dba41138ba9c",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "legislature",
+      "person_id": "b0c793a5-4a92-4c61-bacb-006f239298a9",
+      "role": "member",
+      "start_date": "2016-05-17"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
