@@ -30330,6 +30330,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0282641",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "135736080",
           "scheme": "gnd"
         },
@@ -39167,6 +39171,11 @@
         {
           "lang": "nl",
           "name": "Gad Yaacobi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яакоби, Гад",
           "note": "multilingual"
         }
       ],
@@ -48427,6 +48436,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/ישראל_אייכלר"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Yisrael_Eichler"
         },
         {
           "note": "Wikipedia (ru)",
@@ -62592,6 +62605,11 @@
         {
           "lang": "ru",
           "name": "Регев, Мири",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Miri Regev",
           "note": "multilingual"
         }
       ],
@@ -77297,6 +77315,16 @@
         {
           "lang": "yi",
           "name": "פנחס לבון",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "平哈斯·拉冯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "平哈斯·拉馮",
           "note": "multilingual"
         }
       ],
@@ -104317,6 +104345,23 @@
       ]
     },
     {
+      "birth_date": "1965-11-20",
+      "gender": "male",
+      "id": "14324a3f-6075-4f0e-a192-1e21bf3e98bd",
+      "image": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg",
+      "images": [
+        {
+          "url": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg"
+        }
+      ],
+      "name": "Yehuda Joshua Glick",
+      "sources": [
+        {
+          "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=955"
+        }
+      ]
+    },
+    {
       "birth_date": "1947-09-25",
       "gender": "male",
       "given_name": "Yehuda",
@@ -123409,6 +123454,14 @@
       "start_date": "1980-02-29"
     },
     {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/likud",
+      "organization_id": "legislature",
+      "person_id": "14324a3f-6075-4f0e-a192-1e21bf3e98bd",
+      "role": "member",
+      "start_date": "2016-05-23"
+    },
+    {
       "legislative_period_id": "term/19",
       "on_behalf_of_id": "party/habayit_hayehudi",
       "organization_id": "legislature",
@@ -127702,6 +127755,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-01-29",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/kulanu_chaired_by_moshe_kahlon",
       "organization_id": "legislature",
@@ -132841,6 +132895,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-05-23",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/likud",
       "organization_id": "legislature",
@@ -134355,6 +134410,14 @@
       "organization_id": "legislature",
       "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/united_torah_judaism",
+      "organization_id": "legislature",
+      "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
+      "role": "member",
+      "start_date": "2016-05-24"
     },
     {
       "legislative_period_id": "term/1",
@@ -141033,7 +141096,7 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2016-01-29",
+      "end_date": "2016-05-24",
       "id": "term/20",
       "name": "Knesset 20",
       "organization_id": "legislature",
