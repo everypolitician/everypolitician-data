@@ -30330,6 +30330,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0282641",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "135736080",
           "scheme": "gnd"
         },
@@ -37109,6 +37113,10 @@
           "url": "https://he.wikipedia.org/wiki/אראל_מרגלית"
         },
         {
+          "note": "Wikipedia (hewikiquote)",
+          "url": "https://hewikiquote.wikipedia.org/wiki/אראל_מרגלית"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ErelMargalit"
         }
@@ -39167,6 +39175,11 @@
         {
           "lang": "nl",
           "name": "Gad Yaacobi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Яакоби, Гад",
           "note": "multilingual"
         }
       ],
@@ -48427,6 +48440,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/ישראל_אייכלר"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Yisrael_Eichler"
         },
         {
           "note": "Wikipedia (ru)",
@@ -62294,6 +62311,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/מיקי_רוזנטל"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мики_Розенталь"
         }
       ],
       "name": "Micky Rosenthal",
@@ -62592,6 +62613,11 @@
         {
           "lang": "ru",
           "name": "Регев, Мири",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Miri Regev",
           "note": "multilingual"
         }
       ],
@@ -77297,6 +77323,16 @@
         {
           "lang": "yi",
           "name": "פנחס לבון",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "平哈斯·拉冯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "平哈斯·拉馮",
           "note": "multilingual"
         }
       ],
@@ -104317,6 +104353,23 @@
       ]
     },
     {
+      "birth_date": "1965-11-20",
+      "gender": "male",
+      "id": "cdac760c-0ebf-47d2-b46c-045972937869",
+      "image": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg",
+      "images": [
+        {
+          "url": "http://www.knesset.gov.il/mk/images/members/Yehuda_Glick.jpg"
+        }
+      ],
+      "name": "Yehuda Joshua Glick",
+      "sources": [
+        {
+          "url": "http://www.knesset.gov.il/mk/eng/mk_print_eng.asp?mk_individual_id_t=955"
+        }
+      ]
+    },
+    {
       "birth_date": "1947-09-25",
       "gender": "male",
       "given_name": "Yehuda",
@@ -116995,6 +117048,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Yuval Steinitz",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Юваль Штайніц",
           "note": "multilingual"
@@ -127702,6 +127760,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-01-29",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/kulanu_chaired_by_moshe_kahlon",
       "organization_id": "legislature",
@@ -132841,6 +132900,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-05-23",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/likud",
       "organization_id": "legislature",
@@ -134355,6 +134415,14 @@
       "organization_id": "legislature",
       "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/united_torah_judaism",
+      "organization_id": "legislature",
+      "person_id": "a709e113-c216-46d8-ac67-78fa1ee9667e",
+      "role": "member",
+      "start_date": "2016-05-24"
     },
     {
       "legislative_period_id": "term/1",
@@ -137070,6 +137138,14 @@
       "organization_id": "legislature",
       "person_id": "cd9eea0e-4595-4016-8e53-d56abf2e791a",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/likud",
+      "organization_id": "legislature",
+      "person_id": "cdac760c-0ebf-47d2-b46c-045972937869",
+      "role": "member",
+      "start_date": "2016-05-23"
     },
     {
       "legislative_period_id": "term/16",
@@ -141033,7 +141109,7 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2016-01-29",
+      "end_date": "2016-05-24",
       "id": "term/20",
       "name": "Knesset 20",
       "organization_id": "legislature",
