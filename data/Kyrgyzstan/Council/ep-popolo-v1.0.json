@@ -2721,22 +2721,6 @@
       ]
     },
     {
-      "id": "c753e65f-c300-4368-9609-2389753832f9",
-      "name": "Mamytova Lunara Ulukbekovna",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Мамытова Лунара Улукбековна",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://www.kenesh.kg/RU/Articles/31653-Mamytova_Lunara_Ulukbekovna__Frakciya_Bir_Bol.aspx"
-        }
-      ]
-    },
-    {
       "id": "9e9eee96-1c88-4895-bd8b-a73cce5689e8",
       "name": "Mannanov Ilxom Abdukaxarovich",
       "other_names": [
@@ -3281,6 +3265,22 @@
       "sources": [
         {
           "url": "http://www.kenesh.kg/RU/Articles/31699-Omurkulov_Isa_SHejshenkulovich_Frakciya_SDPK.aspx"
+        }
+      ]
+    },
+    {
+      "id": "c753e65f-c300-4368-9609-2389753832f9",
+      "name": "Ormonov Ulugbek Zulpukarovich",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Ормонов Улугбек Зулпукарович",
+          "note": "multilingual"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kenesh.kg/RU/Articles/31653-Ormonov_Ulugbek_Zulpukarovich__Frakciya_Bir_Bol.aspx"
         }
       ]
     },
@@ -5238,6 +5238,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ar-namys.org/en/"
+        }
+      ],
       "name": "ArNamys",
       "other_names": [
         {
@@ -5386,6 +5392,11 @@
         {
           "lang": "nl",
           "name": "Ata Meken Socialist Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アタ・メケン党",
           "note": "multilingual"
         },
         {
@@ -5561,6 +5572,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.republic.kg/"
+        }
+      ],
       "name": "Respublika",
       "other_names": [
         {
@@ -5606,6 +5623,11 @@
         {
           "lang": "nl",
           "name": "Respublika Party of Kyrgyzstan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "キルギス共和党",
           "note": "multilingual"
         },
         {
@@ -7473,12 +7495,61 @@
   ],
   "events": [
     {
+      "classification": "general election",
+      "end_date": "1990",
+      "id": "Q6452425",
+      "name": "Kyrgyzstani parliamentary election, 1990",
+      "start_date": "1990"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q6452426",
+      "name": "Kyrgyzstani parliamentary election, 1995",
+      "start_date": "1995"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2000",
+      "id": "Q6452427",
+      "name": "Kyrgyzstani parliamentary election, 2000",
+      "start_date": "2000"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2005",
+      "id": "Q384537",
+      "name": "Kyrgyzstani parliamentary election, 2005",
+      "start_date": "2005"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2007-12-16",
+      "id": "Q2052974",
+      "name": "Kyrgyzstani parliamentary election, 2007",
+      "start_date": "2007-12-16"
+    },
+    {
       "classification": "legislative period",
       "end_date": "2015-10-15",
       "id": "term/5",
       "name": "5th Convocation",
       "organization_id": "legislature",
       "start_date": "2010"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2010-10-10",
+      "id": "Q1860723",
+      "name": "Kyrgyzstani parliamentary election, 2010",
+      "start_date": "2010-10-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2015-10-04",
+      "id": "Q19947264",
+      "name": "Kyrgyzstani parliamentary election, 2015",
+      "start_date": "2015-10-04"
     },
     {
       "classification": "legislative period",
