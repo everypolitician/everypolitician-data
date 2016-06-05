@@ -1,4 +1,7 @@
 {
+  "posts": [
+
+  ],
   "persons": [
     {
       "contact_details": [
@@ -2643,6 +2646,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.gana.org.sv/"
+        }
+      ],
       "name": "GANA",
       "other_names": [
         {
@@ -2663,6 +2672,11 @@
         {
           "lang": "ru",
           "name": "Широкий альянс за национальное единство",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "GANA",
           "note": "multilingual"
         }
       ]
@@ -2734,6 +2748,16 @@
           "lang": "nb",
           "name": "Partido de Concertación Nacional",
           "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Partido de Conciliación Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Conciliacion Nacional",
+          "note": "multilingual"
         }
       ]
     },
@@ -2773,6 +2797,16 @@
           "lang": "es",
           "name": "Cambio Democrático",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Changement democratique",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Cambio Democratico",
+          "note": "multilingual"
         }
       ]
     }
@@ -2784,7 +2818,6 @@
   },
   "memberships": [
     {
-      "area_id": "area/santa_ana",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -2792,7 +2825,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pdc",
       "organization_id": "legislature",
@@ -2800,7 +2832,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_vicente",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/gana",
       "organization_id": "legislature",
@@ -2808,7 +2839,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_miguel",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -2872,7 +2902,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pcn",
       "organization_id": "legislature",
@@ -2888,7 +2917,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -2912,7 +2940,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -2936,7 +2963,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/la_paz",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -2992,7 +3018,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/usulután",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3024,7 +3049,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3048,7 +3072,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3056,7 +3079,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3064,7 +3086,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/santa_ana",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3072,7 +3093,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/santa_ana",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/gana",
       "organization_id": "legislature",
@@ -3088,7 +3108,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/ahuachapán",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pcn",
       "organization_id": "legislature",
@@ -3136,7 +3155,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/la_libertad",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3168,7 +3186,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/morazán",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3192,7 +3209,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3200,7 +3216,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/la_libertad",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3280,7 +3295,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3320,7 +3334,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/chalatenango",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pcn",
       "organization_id": "legislature",
@@ -3328,7 +3341,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/sonsonate",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3336,7 +3348,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_miguel",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3344,7 +3355,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/usulután",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3376,7 +3386,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/santa_ana",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pcn",
       "organization_id": "legislature",
@@ -3384,7 +3393,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/sonsonate",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3392,7 +3400,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/san_salvador",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/arena",
       "organization_id": "legislature",
@@ -3416,7 +3423,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/chalatenango",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3432,7 +3438,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/santa_ana",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/fmln",
       "organization_id": "legislature",
@@ -3448,7 +3453,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/cuscatlán",
       "legislative_period_id": "term/2015-2018",
       "on_behalf_of_id": "party/pcn",
       "organization_id": "legislature",
