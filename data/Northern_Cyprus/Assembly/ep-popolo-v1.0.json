@@ -425,6 +425,9 @@
       ]
     },
     {
+      "family_name": "Saner",
+      "gender": "male",
+      "given_name": "Hamza Ersan",
       "id": "1364d999-3e01-46fb-88fb-c01130903a1e",
       "identifiers": [
         {
@@ -432,7 +435,20 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamza-ersan-saner.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/hamza-ersan-saner.jpg"
+        }
+      ],
       "name": "Ersan Saner",
+      "other_names": [
+        {
+          "name": "Hamza Ersan Saner",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Saner, Hamza Ersan",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
@@ -1629,8 +1645,9 @@
     },
     {
       "birth_date": "1950",
+      "family_name": "Kalyoncu",
       "gender": "male",
-      "given_name": "Ömer",
+      "given_name": "Ömer Soyer",
       "id": "776882ca-48d3-4520-bd31-e7734107bd7c",
       "identifiers": [
         {
@@ -1640,6 +1657,12 @@
         {
           "identifier": "Q20669153",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg",
+      "images": [
+        {
+          "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/omer-kalyoncu.jpg"
         }
       ],
       "links": [
@@ -1670,6 +1693,10 @@
       ],
       "name": "Ömer Kalyoncu",
       "other_names": [
+        {
+          "name": "Ömer Soyer Kalyoncu",
+          "note": "alternate"
+        },
         {
           "lang": "af",
           "name": "Ömer Kalyoncu",
@@ -2051,6 +2078,7 @@
           "note": "multilingual"
         }
       ],
+      "sort_name": "Kalyoncu, Ömer Soyer",
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/14th_Parliament_of_Northern_Cyprus"
