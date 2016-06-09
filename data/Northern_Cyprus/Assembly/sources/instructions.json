@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/nc-assembly-scraper",
-        "query": "SELECT id, name, given_name, family_name, sort_name, gender, image FROM data ORDER BY id"
+        "query": "SELECT id, name, given_name, family_name, sort_name, birth_date, gender, image FROM data ORDER BY id"
       },
       "source": "https://morph.io/wfdd/nc-assembly-scraper",
       "type": "person",
