@@ -764,6 +764,17 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q16990924": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2011-04-20",
+        "P768": "Vaasa"
+      }
+    }
+  ],
   "Q16299254": [
     {
       "id": "Q17592486",
@@ -1450,7 +1461,9 @@
       "qualifiers": {
         "P580": "2015-05-29",
         "P1365": "Antti Rinne",
-        "P361": "Juha Sipilä's cabinet"
+        "P361": "Juha Sipilä's cabinet",
+        "P582": "2016-06-22",
+        "P1366": "Petteri Orpo"
       }
     },
     {
@@ -2205,6 +2218,28 @@
         "P580": "1980-09-26",
         "P582": "2015-04-21",
         "P768": "Tavastia"
+      }
+    }
+  ],
+  "Q2983780": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2003-03-19",
+        "P768": "Vaasa"
+      }
+    },
+    {
+      "id": "Q1445938",
+      "label": "Minister of the Interior",
+      "title": "Minister of the Interior",
+      "description": "Finnish Minister of the Interior",
+      "qualifiers": {
+        "P580": "2016-06-22",
+        "P1365": "Petteri Orpo",
+        "P361": "Juha Sipilä's cabinet"
       }
     }
   ],
@@ -3516,7 +3551,9 @@
       "qualifiers": {
         "P580": "2015-05-29",
         "P361": "Juha Sipilä's cabinet",
-        "P1365": "Päivi Räsänen"
+        "P1365": "Päivi Räsänen",
+        "P582": "2016-06-22",
+        "P1366": "Paula Risikko"
       }
     },
     {
@@ -3526,6 +3563,17 @@
       "description": "leader of Finnish political party",
       "qualifiers": {
         "P580": "2016-06-11",
+        "P1365": "Alexander Stubb"
+      }
+    },
+    {
+      "id": "Q2367542",
+      "label": "Minister of Finance",
+      "title": "Minister of Finance",
+      "description": "cabinet minister of Finland",
+      "qualifiers": {
+        "P580": "2016-06-22",
+        "P361": "Juha Sipilä's cabinet",
         "P1365": "Alexander Stubb"
       }
     }
