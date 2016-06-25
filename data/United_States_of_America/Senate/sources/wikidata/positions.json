@@ -3705,7 +3705,13 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2013-02-01",
+        "P582": "2013-07-16",
+        "P1365": "John Kerry",
+        "P1366": "Ed Markey"
+      }
     }
   ],
   "Q631195": [
@@ -5105,7 +5111,23 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1985-01-02",
+        "P582": "2013-02-01",
+        "P1365": "Paul Tsongas",
+        "P1366": "Mo Cowan"
+      }
+    },
+    {
+      "id": "Q14213",
+      "label": "United States Secretary of State",
+      "title": "United States Secretary of State",
+      "description": "U.S. cabinet member and head of the U.S. State Department",
+      "qualifiers": {
+        "P1365": "Hillary Clinton",
+        "P580": "2013-02-01"
+      }
     }
   ],
   "Q1807209": [
@@ -5151,12 +5173,37 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Massachusetts's 5th congressional district",
+        "P580": "2013-01-03",
+        "P582": "2013-07-15",
+        "P1365": "Niki Tsongas",
+        "P1366": "Katherine Clark"
+      }
     },
     {
-      "id": "Q17342542",
-      "label": "Member of the Massachusetts House of Representatives",
-      "title": "Member of the Massachusetts House of Representatives"
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "title": "United States Senator",
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2013-07-16",
+        "P1365": "Mo Cowan"
+      }
+    },
+    {
+      "id": "Q13218630",
+      "label": "United States representative",
+      "title": "United States representative",
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P768": "Massachusetts's 7th congressional district",
+        "P580": "1976-11-02",
+        "P582": "2013-01-03",
+        "P1365": "Torbert Macdonald",
+        "P1366": "Mike Capuano"
+      }
     }
   ],
   "Q458945": [
