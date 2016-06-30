@@ -14105,7 +14105,13 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178871.jpg"
         }
       ],
-      "name": "EVAIR DE MELO",
+      "name": "EVAIR VIEIRA DE MELO",
+      "other_names": [
+        {
+          "name": "EVAIR DE MELO",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195831&tipo=0"
@@ -15026,6 +15032,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/163831.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Fernandojordao2010.jpg"
         }
       ],
       "links": [
@@ -18567,12 +18576,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Heuler_Cruvinel"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Heuler_Cruvinel"
         }
       ],
       "name": "HEULER CRUVINEL",
       "other_names": [
+        {
+          "lang": "fr",
+          "name": "Heuler Cruvinel",
+          "note": "multilingual"
+        },
         {
           "lang": "pt",
           "name": "Heuler Cruvinel",
@@ -19021,6 +19039,21 @@
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=100505&tipo=0"
+        }
+      ]
+    },
+    {
+      "id": "e14ce3bc-2e0c-47d7-a33a-51fbf94a4760",
+      "image": "http://www.camara.gov.br/internet/deputado/bandep/194592.jpg",
+      "images": [
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/194592.jpg"
+        }
+      ],
+      "name": "ILDON MARQUES",
+      "sources": [
+        {
+          "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=201840&tipo=0"
         }
       ]
     },
@@ -34736,6 +34769,7 @@
         }
       ],
       "email": "dep.pastorlucianobraga@camara.leg.br",
+      "gender": "male",
       "id": "6bb81fc4-8510-46d0-8bee-d3770d5fa37b",
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193982.jpg",
       "images": [
@@ -36538,6 +36572,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/122158.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Pedro_Paulo_cropped.jpg"
         }
       ],
       "links": [
@@ -46554,6 +46591,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Waldir_Maranhão"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Waldir_Maranhão"
         },
         {
           "note": "Wikipedia (pt)",
@@ -61125,6 +61166,14 @@
       "on_behalf_of_id": "PMDB",
       "organization_id": "legislature",
       "person_id": "e138b4e4-5ba2-42d8-af52-337af5de19fa",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ma",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "PSB",
+      "organization_id": "legislature",
+      "person_id": "e14ce3bc-2e0c-47d7-a33a-51fbf94a4760",
       "role": "member"
     },
     {
