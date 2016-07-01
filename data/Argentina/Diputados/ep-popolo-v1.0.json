@@ -3070,10 +3070,10 @@
       ],
       "email": "baustin@diputados.gob.ar",
       "id": "c42cdabb-8012-4c53-877e-4ea2c02e2a23",
-      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "image": "http://www4.hcdn.gob.ar/fotos/baustin.jpg",
       "images": [
         {
-          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+          "url": "http://www4.hcdn.gob.ar/fotos/baustin.jpg"
         }
       ],
       "name": "BRENDA LIS AUSTIN",
@@ -6849,10 +6849,6 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Facundo_Garretón"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/facundogarreton"
         }
@@ -7113,6 +7109,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فيديريكو_بينيدو"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Federico_Pinedo"
         },
@@ -7127,6 +7127,11 @@
       ],
       "name": "FEDERICO PINEDO",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "فيديريكو بينيدو",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Federico Pinedo",
@@ -24697,6 +24702,33 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "ssosa@diputados.gob.ar"
+        },
+        {
+          "type": "phone",
+          "value": "4127-7100"
+        }
+      ],
+      "email": "ssosa@diputados.gob.ar",
+      "id": "50dbb63a-c526-4dde-9bb2-59723a2330f7",
+      "image": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg",
+      "images": [
+        {
+          "url": "http://www4.hcdn.gob.ar/fotos//_silueta_medium.jpg"
+        }
+      ],
+      "name": "SOLEDAD SOSA",
+      "sort_name": "SOSA, SOLEDAD",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/ssosa/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "vsosacapurro@diputados.gob.ar"
         },
         {
@@ -24751,7 +24783,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "SOSA , SOLEDAD",
+      "sort_name": "SOSA, SOLEDAD",
       "sources": [
         {
           "url": "http://www.hcdn.gob.ar/diputados/vsosacapurro/"
@@ -26850,6 +26882,11 @@
     },
     {
       "classification": "party",
+      "id": "party/peronismo_para_la_victoria",
+      "name": "PERONISMO PARA LA VICTORIA"
+    },
+    {
+      "classification": "party",
       "id": "party/primero_tucuman",
       "name": "PRIMERO TUCUMAN"
     },
@@ -27520,7 +27557,7 @@
     {
       "area_id": "area/santa_fe",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "13675ca1-0f46-41b4-af15-086f51c5468c",
       "role": "member",
@@ -28107,7 +28144,7 @@
     {
       "area_id": "area/cordoba",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "424a530e-5d9a-49a4-9cc5-d612dedca5cf",
       "role": "member"
@@ -28319,6 +28356,14 @@
       "person_id": "504bd870-c589-4bfa-bf46-1696840e83ed",
       "role": "member",
       "start_date": "2015-12-10"
+    },
+    {
+      "area_id": "area/mendoza",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/frente_de_izquierda_y_de_los_trabajadores",
+      "organization_id": "legislature",
+      "person_id": "50dbb63a-c526-4dde-9bb2-59723a2330f7",
+      "role": "member"
     },
     {
       "area_id": "area/entre_rios",
@@ -29106,7 +29151,7 @@
     {
       "area_id": "area/corrientes",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "8c488fd8-7a36-485b-82b6-03607513302e",
       "role": "member",
@@ -29283,7 +29328,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "985bb329-6f88-497b-8525-d40d449a7fa7",
       "role": "member"
@@ -29496,7 +29541,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "aa61d44c-2f2f-4b40-a858-c329a8fb9d55",
       "role": "member",
@@ -30276,7 +30321,7 @@
     {
       "area_id": "area/rio_negro",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/peronismo_para_la_victoria",
       "organization_id": "legislature",
       "person_id": "e76e4b33-688c-489b-ac2e-cccfda5882ab",
       "role": "member",
