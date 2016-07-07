@@ -1635,12 +1635,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Cabo_Verde/Assembly/sources",
         "popolo": "data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5962720/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1af67d8/data/Cabo_Verde/Assembly/ep-popolo-v1.0.json",
         "names": "data/Cabo_Verde/Assembly/names.csv",
-        "lastmod": "1465899306",
-        "person_count": 75,
-        "sha": "5962720",
+        "lastmod": "1467733425",
+        "person_count": 81,
+        "sha": "1af67d8",
         "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "IX Legislatura",
+            "start_date": "2016-04-20",
+            "slug": "9",
+            "csv": "data/Cabo_Verde/Assembly/term-9.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1af67d8/data/Cabo_Verde/Assembly/term-9.csv"
+          },
           {
             "end_date": "2016-03-20",
             "id": "term/8",
@@ -1648,10 +1656,10 @@
             "start_date": "2011-03-11",
             "slug": "8",
             "csv": "data/Cabo_Verde/Assembly/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5962720/data/Cabo_Verde/Assembly/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1af67d8/data/Cabo_Verde/Assembly/term-8.csv"
           }
         ],
-        "statement_count": 1131
+        "statement_count": 1609
       }
     ]
   },
