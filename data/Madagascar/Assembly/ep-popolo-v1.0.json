@@ -38,6 +38,16 @@
       "name": "ALIDY Bin Soufou"
     },
     {
+      "id": "a7f1fd0f-e0f7-40d3-b206-518bae2b6857",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
+        }
+      ],
+      "name": "ANDRIAMAROTIA Ludovic Edmond"
+    },
+    {
       "gender": "female",
       "id": "8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "identifiers": [
@@ -70,6 +80,16 @@
         }
       ],
       "name": "ANDRIAMBOAVONJY Nantenaina Herisoa"
+    },
+    {
+      "id": "82eaa2b9-b11b-4c4a-a7e1-8188c5d4c39a",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
+        }
+      ],
+      "name": "ANDRIAMIFALISON Réné Rakotonirina"
     },
     {
       "gender": "male",
@@ -121,23 +141,6 @@
         }
       ],
       "name": "ANDRIANIRINA Josoa Marohajaina"
-    },
-    {
-      "gender": "male",
-      "id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
-      "identifiers": [
-        {
-          "identifier": "andrianjaka_samson_goulzar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
-        }
-      ],
-      "name": "ANDRIANJAKA Samson Goulzar"
     },
     {
       "gender": "male",
@@ -898,23 +901,6 @@
     },
     {
       "gender": "male",
-      "id": "a41230f6-3516-4582-ac49-e2af27014afb",
-      "identifiers": [
-        {
-          "identifier": "rabenirina_jean_jacques",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
-        }
-      ],
-      "name": "RABENIRINA Jean Jacques"
-    },
-    {
-      "gender": "male",
       "id": "2cf10402-896e-4097-afce-a3c47a1342b2",
       "identifiers": [
         {
@@ -1079,23 +1065,6 @@
         }
       ],
       "name": "RAHARIJAONA -"
-    },
-    {
-      "gender": "female",
-      "id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
-      "identifiers": [
-        {
-          "identifier": "raharimalala_marie_lydia",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
-        }
-      ],
-      "name": "RAHARIMALALA Marie Lydia"
     },
     {
       "gender": "female",
@@ -2800,6 +2769,16 @@
       "name": "ROCHELIN Houssen"
     },
     {
+      "id": "7a797dcb-5828-4eee-8493-e4f189150c1b",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
+        }
+      ],
+      "name": "ROGER Moussa Jassat"
+    },
+    {
       "gender": "male",
       "id": "22f2f47c-b3b2-47bf-a4a4-9fc736a2f1cf",
       "identifiers": [
@@ -3719,6 +3698,11 @@
     },
     {
       "classification": "party",
+      "id": "party/mapar_ii",
+      "name": "MAPAR II"
+    },
+    {
+      "classification": "party",
       "id": "party/mts",
       "name": "MTS"
     },
@@ -3893,14 +3877,6 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "legislature",
       "person_id": "1980b1ca-4c6a-43e4-a9c1-914e227e007e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ampanihy_andrefana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
-      "person_id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
       "role": "member"
     },
     {
@@ -4256,6 +4232,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/ampanihy_andrefana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar_ii",
+      "organization_id": "legislature",
+      "person_id": "7a797dcb-5828-4eee-8493-e4f189150c1b",
+      "role": "member"
+    },
+    {
       "area_id": "area/antananarivo_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
@@ -4325,6 +4309,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "legislature",
       "person_id": "8159e945-aab3-4c4c-9ed9-ce15c9961807",
+      "role": "member"
+    },
+    {
+      "area_id": "area/fandriana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar",
+      "organization_id": "legislature",
+      "person_id": "82eaa2b9-b11b-4c4a-a7e1-8188c5d4c39a",
       "role": "member"
     },
     {
@@ -4560,14 +4552,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/betioky_atsimo",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
-      "person_id": "a41230f6-3516-4582-ac49-e2af27014afb",
-      "role": "member"
-    },
-    {
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
@@ -4581,6 +4565,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "legislature",
       "person_id": "a6f4035f-5a87-4f3e-b501-6701e5234200",
+      "role": "member"
+    },
+    {
+      "area_id": "area/betioky_atsimo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/vp-mmm",
+      "organization_id": "legislature",
+      "person_id": "a7f1fd0f-e0f7-40d3-b206-518bae2b6857",
       "role": "member"
     },
     {
@@ -4701,14 +4693,6 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "legislature",
       "person_id": "c742a1d9-641f-4976-8ef0-a70ca867d629",
-      "role": "member"
-    },
-    {
-      "area_id": "area/fandriana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
-      "person_id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
       "role": "member"
     },
     {
