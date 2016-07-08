@@ -307,7 +307,11 @@
       "id": "Q21103025",
       "label": "Minister of Finance",
       "title": "Minister of Finance",
-      "description": "Estonian finance minister"
+      "description": "Estonian finance minister",
+      "qualifiers": {
+        "P580": "2009",
+        "P582": "2009"
+      }
     }
   ],
   "Q11032994": [
@@ -593,7 +597,11 @@
       "id": "Q23268238",
       "label": "Minister of Regional Affairs",
       "title": "Minister of Regional Affairs",
-      "description": "Estonian cabinet minister"
+      "description": "Estonian cabinet minister",
+      "qualifiers": {
+        "P580": "1997",
+        "P582": "1999"
+      }
     },
     {
       "id": "Q24067751",
@@ -809,7 +817,11 @@
       "id": "Q23725838",
       "label": "Minister of Culture and Education",
       "title": "Minister of Culture and Education",
-      "description": "Estonian cabinet minister"
+      "description": "Estonian cabinet minister",
+      "qualifiers": {
+        "P580": "1992",
+        "P582": "1994"
+      }
     },
     {
       "id": "Q6866110",
@@ -972,12 +984,6 @@
       "label": "member of the Estonian Riigikogu",
       "title": "member of the Estonian Riigikogu",
       "description": "person who has been elected to the Estonian Riigikogu"
-    },
-    {
-      "id": "Q6866110",
-      "label": "Minister of Education and Research",
-      "title": "Minister of Education and Research",
-      "description": "Estonian cabinet position"
     },
     {
       "id": "Q23725838",
@@ -2194,12 +2200,6 @@
         "P155": "Mart Siimann",
         "P156": "Siim Kallas"
       }
-    },
-    {
-      "id": "Q6866431",
-      "label": "Minister of the Interior",
-      "title": "Minister of the Interior",
-      "description": "Estonian Minister of the Interior"
     }
   ],
   "Q12365130": [
