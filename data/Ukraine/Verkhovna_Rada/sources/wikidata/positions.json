@@ -9,6 +9,19 @@
       }
     }
   ],
+  "Q1348657": [
+    {
+      "id": "Q16147568",
+      "label": "First Deputy Prime Minister of Ukraine",
+      "title": "First Deputy Prime Minister of Ukraine"
+    },
+    {
+      "id": "Q25525260",
+      "label": "Minister of Finance",
+      "title": "Minister of Finance",
+      "description": "Ukrainian minister"
+    }
+  ],
   "Q927269": [
     {
       "id": "Q1145714",
@@ -32,10 +45,15 @@
       }
     },
     {
-      "id": "Q3099723",
-      "label": "Minister-President",
-      "title": "Minister-President",
-      "description": "political office, head of the executive branch of a sovereign country or federal state"
+      "id": "Q16147568",
+      "label": "First Deputy Prime Minister of Ukraine",
+      "title": "First Deputy Prime Minister of Ukraine",
+      "qualifiers": {
+        "P580": "1993-06-11",
+        "P582": "1994-07-04",
+        "P1365": "Ihor Yukhnovskyi",
+        "P1366": "Viktor Pynzenyk"
+      }
     }
   ],
   "Q894312": [
