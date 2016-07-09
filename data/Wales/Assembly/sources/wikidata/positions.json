@@ -194,7 +194,13 @@
       "id": "Q6865862",
       "label": "Minister for Health and Social Services",
       "title": "Minister for Health and Social Services",
-      "description": "in Welsh Government"
+      "description": "in Welsh Government",
+      "qualifiers": {
+        "P580": "2011-05-13",
+        "P582": "2013-05-14",
+        "P1365": "Edwina Hart",
+        "P1366": "Mark Drakeford"
+      }
     }
   ],
   "Q7917285": [
@@ -299,14 +305,22 @@
       "description": "Welsh government position",
       "qualifiers": {
         "P580": "2011-05-13",
-        "P1365": "Ieuan Wyn Jones"
+        "P1365": "Ieuan Wyn Jones",
+        "P582": "2016-05-07",
+        "P1366": "to be announced"
       }
     },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
-      "description": "member of the legislature of Wales"
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P580": "1999-05-06",
+        "P582": "2016-04-06",
+        "P1366": "Rebecca Evans",
+        "P768": "Gower"
+      }
     },
     {
       "id": "Q6865862",
@@ -351,14 +365,27 @@
       "description": "member of the legislature of Wales",
       "qualifiers": {
         "P582": "2013-06-20",
-        "P580": "1999-05-06"
+        "P580": "1999-05-06",
+        "P768": "Ynys Môn"
       }
     },
     {
       "id": "Q23602586",
       "label": "Minister for Business, Enterprise, Technology and Science",
       "title": "Minister for Business, Enterprise, Technology and Science",
-      "description": "Welsh government position"
+      "description": "Welsh government position",
+      "qualifiers": {
+        "P580": "2007",
+        "P582": "2011",
+        "P1365": "Brian Gibbons",
+        "P1366": "Edwina Hart"
+      }
+    },
+    {
+      "id": "Q10691",
+      "label": "Plaid Cymru",
+      "title": "Plaid Cymru",
+      "description": "Welsh political party"
     }
   ],
   "Q6388501": [
@@ -473,6 +500,12 @@
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales"
+    },
+    {
+      "id": "Q6865862",
+      "label": "Minister for Health and Social Services",
+      "title": "Minister for Health and Social Services",
+      "description": "in Welsh Government"
     }
   ],
   "Q20065239": [
@@ -531,18 +564,30 @@
       "id": "Q18996",
       "label": "First Minister of Wales",
       "title": "First Minister of Wales",
-      "description": "leader of the Welsh Government"
+      "description": "leader of the Welsh Government",
+      "qualifiers": {
+        "P580": "2009-12-10",
+        "P1365": "Rhodri Morgan"
+      }
     },
     {
       "id": "Q5176615",
       "label": "Counsel General for Wales",
-      "title": "Counsel General for Wales"
+      "title": "Counsel General for Wales",
+      "qualifiers": {
+        "P580": "2007-07-19",
+        "P1365": "",
+        "P1366": "John Griffiths"
+      }
     },
     {
       "id": "Q3406079",
       "label": "Member of the National Assembly for Wales",
       "title": "Member of the National Assembly for Wales",
-      "description": "member of the legislature of Wales"
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P580": "1999-05-06"
+      }
     },
     {
       "id": "Q23766510",
@@ -550,7 +595,8 @@
       "title": "Leader of Welsh Labour",
       "description": "UK party leader",
       "qualifiers": {
-        "P580": "2009-12-10"
+        "P580": "2009-12-10",
+        "P1365": "Rhodri Morgan"
       }
     }
   ],
