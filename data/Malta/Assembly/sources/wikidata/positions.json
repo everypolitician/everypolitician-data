@@ -71,6 +71,13 @@
       "title": "Member of the House of Representatives of Malta"
     }
   ],
+  "Q24643928": [
+    {
+      "id": "Q19367406",
+      "label": "Member of the House of Representatives of Malta",
+      "title": "Member of the House of Representatives of Malta"
+    }
+  ],
   "Q5416069": [
     {
       "id": "Q19367406",
@@ -193,13 +200,27 @@
     {
       "id": "Q5261066",
       "label": "Deputy Prime Minister of Malta",
-      "title": "Deputy Prime Minister of Malta"
+      "title": "Deputy Prime Minister of Malta",
+      "qualifiers": {
+        "P580": "2013-03-13",
+        "P1365": "Tonio Borg"
+      }
     },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2004-06-12",
+        "P582": "2012-12-27"
+      }
+    },
+    {
+      "id": "Q25631196",
+      "label": "Minister of European Affairs",
+      "title": "Minister of European Affairs",
+      "description": "Cabinet position in Malta"
     }
   ],
   "Q524961": [
