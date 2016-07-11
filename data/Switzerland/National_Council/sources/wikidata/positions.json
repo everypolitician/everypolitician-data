@@ -1940,7 +1940,13 @@
       "id": "Q688230",
       "label": "President of the Swiss Confederation",
       "title": "President of the Swiss Confederation",
-      "description": "presiding member of the seven-member Swiss Federal Council"
+      "description": "presiding member of the seven-member Swiss Federal Council",
+      "qualifiers": {
+        "P580": "2010-01-01",
+        "P582": "2010-12-31",
+        "P1365": "Hans-Rudolf Merz",
+        "P1366": "Micheline Calmy-Rey"
+      }
     },
     {
       "id": "Q11811941",
@@ -1951,6 +1957,26 @@
       "id": "Q18510612",
       "label": "Member of the Swiss National Council",
       "title": "Member of the Swiss National Council"
+    },
+    {
+      "id": "Q25550811",
+      "label": "Vice president of Switzerland",
+      "title": "Vice president of Switzerland",
+      "qualifiers": {
+        "P580": "2016-01-01",
+        "P1365": "Johann Schneider-Ammann"
+      }
+    },
+    {
+      "id": "Q25550811",
+      "label": "Vice president of Switzerland",
+      "title": "Vice president of Switzerland",
+      "qualifiers": {
+        "P580": "2009-01-01",
+        "P582": "2009-12-31",
+        "P1365": "Hans-Rudolf Merz",
+        "P1366": "Moritz Leuenberger"
+      }
     }
   ],
   "Q813067": [
@@ -2870,6 +2896,11 @@
         "P1365": "Adolf Ogi",
         "P1366": "Kaspar Villiger"
       }
+    },
+    {
+      "id": "Q25550811",
+      "label": "Vice president of Switzerland",
+      "title": "Vice president of Switzerland"
     }
   ],
   "Q119978": [
@@ -3965,6 +3996,11 @@
         "P580": "1999",
         "P582": "2010"
       }
+    },
+    {
+      "id": "Q25550811",
+      "label": "Vice president of Switzerland",
+      "title": "Vice president of Switzerland"
     }
   ],
   "Q375806": [
