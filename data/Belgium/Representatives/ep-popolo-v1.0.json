@@ -2791,6 +2791,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1105873587",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 0314 2363",
           "scheme": "isni"
         },
@@ -18437,158 +18441,8 @@
     },
     {
       "classification": "party",
-      "id": "party/ecolo/groen",
-      "identifiers": [
-        {
-          "identifier": "Q513521",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Groen_logo.png",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://groen.be"
-        }
-      ],
-      "name": "Ecolo/Groen",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bg",
-          "name": "Зелено!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Green",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Berdeak!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Verdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "フルン",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Зелёные!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Grön",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Зелені!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vls",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Πράσινοι (Βελγικό πολιτικό κόμμα)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "比利時綠黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "绿党 (比利时)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Groen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Green!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Groen!",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "フルン!",
-          "note": "multilingual"
-        }
-      ]
+      "id": "party/ecolo",
+      "name": "Ecolo"
     },
     {
       "classification": "party",
@@ -18759,6 +18613,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/groen",
+      "name": "Groen"
     },
     {
       "classification": "party",
@@ -21262,7 +21121,7 @@
       "area_id": "area/brussel-hoofdstad",
       "end_date": "2015-05-28",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "09b5ec9a-b3ee-4c10-a13a-d488a0b122f2",
       "role": "member"
@@ -21310,7 +21169,7 @@
     {
       "area_id": "area/antwerpen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "130ded5e-4097-403e-982f-eb03c9185cf1",
       "role": "member"
@@ -21358,7 +21217,7 @@
     {
       "area_id": "area/brussel-hoofdstad",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "1e36c1ae-388e-443f-801a-19f5eebb1af5",
       "role": "member"
@@ -21496,7 +21355,7 @@
     {
       "area_id": "area/oost-vlaanderen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "39f7bfa8-90e9-4fab-9b91-de8dde26c1ac",
       "role": "member"
@@ -21512,7 +21371,7 @@
     {
       "area_id": "area/luik",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "3c754fe0-0099-40ee-9f6c-1c95a643b6cd",
       "role": "member"
@@ -21536,7 +21395,7 @@
     {
       "area_id": "area/antwerpen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "42e5d079-ccc0-484d-8883-cdd24e0c0597",
       "role": "member"
@@ -21561,7 +21420,7 @@
     {
       "area_id": "area/waals-brabant",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "4661d855-11ac-4a8c-a0d5-a89af41b00b8",
       "role": "member"
@@ -21643,7 +21502,7 @@
     {
       "area_id": "area/west-vlaanderen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "55c9587f-9bb2-496f-a18b-c2333627be97",
       "role": "member"
@@ -22055,7 +21914,7 @@
     {
       "area_id": "area/brussel-hoofdstad",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "9ecd1569-85b9-43cd-98c0-284f6298f2a9",
       "role": "member",
@@ -22088,7 +21947,7 @@
     {
       "area_id": "area/henegouwen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "a1b49c17-50f7-40a2-932d-1c7e333c3115",
       "role": "member"
@@ -22323,7 +22182,7 @@
     {
       "area_id": "area/oost-vlaanderen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "c38e7cb5-748a-4d42-9346-1485c91dfea7",
       "role": "member"
@@ -22381,7 +22240,7 @@
     {
       "area_id": "area/namen",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/ecolo",
       "organization_id": "legislature",
       "person_id": "cb4615de-5068-4354-905b-17f3c400daa3",
       "role": "member"
@@ -22583,7 +22442,7 @@
     {
       "area_id": "area/vlaams-brabant",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/ecolo/groen",
+      "on_behalf_of_id": "party/groen",
       "organization_id": "legislature",
       "person_id": "ffd68da3-8501-4960-b392-e3ed2504e720",
       "role": "member"
