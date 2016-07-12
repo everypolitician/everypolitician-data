@@ -2141,7 +2141,9 @@
       "description": "in Finland",
       "qualifiers": {
         "P580": "2005-09-23",
-        "P582": "2007-04-19"
+        "P582": "2007-04-19",
+        "P1365": "Leena Luhtanen",
+        "P1366": "Anu Vehviläinen"
       }
     },
     {
@@ -2151,7 +2153,8 @@
       "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2013-05-24",
-        "P582": "2014-06-24"
+        "P582": "2014-06-24",
+        "P1365": "Maria Guzenina-Richardson"
       }
     },
     {
@@ -2161,7 +2164,8 @@
       "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2014-06-24",
-        "P582": "2015-05-29"
+        "P582": "2015-05-29",
+        "P1366": "Juha Rehula"
       }
     }
   ],
@@ -2198,7 +2202,13 @@
       "id": "Q18694348",
       "label": "Minister of Health and Social Services",
       "title": "Minister of Health and Social Services",
-      "description": "Finnish Cabinet minister"
+      "description": "Finnish Cabinet minister",
+      "qualifiers": {
+        "P580": "2011-06-22",
+        "P582": "2013-05-24",
+        "P1365": "Paula Risikko",
+        "P1366": "Susanna Huovinen"
+      }
     }
   ],
   "Q11849980": [
@@ -2305,6 +2315,24 @@
         "P580": "2016-06-22",
         "P1365": "Petteri Orpo",
         "P361": "Juha Sipilä's cabinet"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister"
+    },
+    {
+      "id": "Q25713902",
+      "label": "Minister of Transport and Local Government",
+      "title": "Minister of Transport and Local Government",
+      "description": "Finnish cabinet position",
+      "qualifiers": {
+        "P580": "2014-06-24",
+        "P582": "2015-05-29",
+        "P1365": "Henna Virkkunen",
+        "P1366": "Anu Vehviläinen"
       }
     }
   ],
@@ -3811,12 +3839,27 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2014"
+      }
     },
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q15934457",
+      "label": "Minister of Transport",
+      "title": "Minister of Transport",
+      "description": "in Finland"
+    },
+    {
+      "id": "Q11895091",
+      "label": "Minister of Education and Culture of Finland",
+      "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland"
     }
   ],
   "Q6216432": [
