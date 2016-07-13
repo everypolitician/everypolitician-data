@@ -1357,6 +1357,11 @@
         "P1365": "Kjeld Olesen",
         "P1366": "Niels Helveg Petersen"
       }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing"
     }
   ],
   "Q12327679": [
@@ -2239,14 +2244,10 @@
   ],
   "Q237797": [
     {
-      "id": "Q2986316",
-      "label": "European Commissioner for Climate Action",
-      "title": "European Commissioner for Climate Action"
-    },
-    {
-      "id": "Q3359295",
-      "label": "Ministry of Climate and Energy",
-      "title": "Ministry of Climate and Energy"
+      "id": "Q25776270",
+      "label": "Minister for Climate and Energy",
+      "title": "Minister for Climate and Energy",
+      "description": "Danish minister"
     },
     {
       "id": "Q2986316",
@@ -2256,6 +2257,24 @@
         "P580": "2010",
         "P582": "2014",
         "P1366": "Miguel Arias Cañete"
+      }
+    },
+    {
+      "id": "Q1311756",
+      "label": "Minister for the Environment",
+      "title": "Minister for the Environment",
+      "description": "Danish cabinet position"
+    },
+    {
+      "id": "Q25775944",
+      "label": "Minister for Nordic Cooperation",
+      "title": "Minister for Nordic Cooperation",
+      "description": "Danish minister",
+      "qualifiers": {
+        "P580": "2005-02-18",
+        "P582": "2007-11-23",
+        "P1365": "Flemming Hansen",
+        "P1366": "Bertel Haarder"
       }
     }
   ],
@@ -3272,7 +3291,11 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
-      "title": "member of the Folketing"
+      "title": "member of the Folketing",
+      "qualifiers": {
+        "P582": "2014-11-10",
+        "P580": "1994-09-21"
+      }
     },
     {
       "id": "Q6317024",
