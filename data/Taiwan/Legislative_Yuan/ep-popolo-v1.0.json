@@ -3550,6 +3550,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Chiang_Huei-chen"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/江惠貞"
         }
@@ -5304,6 +5308,30 @@
       "sources": [
         {
           "url": "http://www.ly.gov.tw/en/03_leg/legIntro.action?lgno=00100&stage=8"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "08318333-2cae-450c-862b-d4fe95bd4614",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90115.jpg",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90115.jpg"
+        }
+      ],
+      "name": "Li-Feng Lee",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "李麗芬",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Lee, Li-Feng",
+      "sources": [
+        {
+          "url": "http://www.ly.gov.tw/en/03_leg/legIntro.action?lgno=00115&stage=9"
         }
       ]
     },
@@ -9440,6 +9468,30 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "7287e59a-4646-4d85-ac7b-9e50ecc96b44",
+      "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90114.jpg",
+      "images": [
+        {
+          "url": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90114.jpg"
+        }
+      ],
+      "name": "Yi-Fang Shih",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "施義芳",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Shih, Yi-Fang",
+      "sources": [
+        {
+          "url": "http://www.ly.gov.tw/en/03_leg/legIntro.action?lgno=00114&stage=9"
+        }
+      ]
+    },
+    {
       "birth_date": "1960-08-21",
       "gender": "female",
       "id": "a04e58b2-a9b7-42fa-874b-4be930ef06a8",
@@ -11621,6 +11673,11 @@
     },
     {
       "classification": "party",
+      "id": "party/new_power_party",
+      "name": "New Power Party"
+    },
+    {
+      "classification": "party",
       "id": "party/pfp",
       "identifiers": [
         {
@@ -11909,6 +11966,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/9th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -11933,6 +11991,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -11950,12 +12009,22 @@
       "start_date": "2015-02-16"
     },
     {
+      "area_id": "area/2rd_electoral_district,_nantou_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
       "person_id": "07196c98-4c82-4bc8-9356-01d4db468f5c",
       "role": "member",
       "start_date": "2016-02-01"
+    },
+    {
+      "area_id": "area/nationwide",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/dpp",
+      "organization_id": "legislature",
+      "person_id": "08318333-2cae-450c-862b-d4fe95bd4614",
+      "role": "member",
+      "start_date": "2016-05-26"
     },
     {
       "area_id": "area/hualien_county",
@@ -11966,6 +12035,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -11982,6 +12052,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -11998,6 +12069,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12006,6 +12078,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/5th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12022,6 +12095,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_tainan_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12038,6 +12112,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/7th_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12046,6 +12121,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/2nd_electoral_district,_changhua_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12062,6 +12138,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/4th_electoral_district,_tainan_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12078,6 +12155,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_yulin_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12094,6 +12172,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/8th_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12102,6 +12181,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/2rd_electoral_district,pingtung_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12142,6 +12222,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12150,6 +12231,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12158,6 +12240,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/4th_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12166,6 +12249,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/3rd_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12190,6 +12274,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_miaoli_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12198,6 +12283,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12214,6 +12300,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12230,6 +12317,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/3rd_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12246,6 +12334,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/3rd_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12287,6 +12376,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12311,6 +12401,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_yulin_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12328,6 +12419,7 @@
       "start_date": "2015-02-16"
     },
     {
+      "area_id": "area/6th_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12344,6 +12436,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/4th_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12361,6 +12454,7 @@
       "start_date": "2014-02-10"
     },
     {
+      "area_id": "area/1st_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12385,6 +12479,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/plain",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12401,6 +12496,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/aboriginals_district",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12417,6 +12513,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/3rd_electoral_district,_tainan_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12433,6 +12530,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12449,6 +12547,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/9th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12465,6 +12564,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12473,6 +12573,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12497,6 +12598,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12514,6 +12616,7 @@
       "start_date": "2013-02-01"
     },
     {
+      "area_id": "area/2rd_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12531,6 +12634,7 @@
       "start_date": "2015-02-16"
     },
     {
+      "area_id": "area/2nd_electoral_district,_miaoli_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12547,6 +12651,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/lienchiang_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12579,6 +12684,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12603,6 +12709,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12635,6 +12742,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_chiayi_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12643,6 +12751,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/8th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12659,6 +12768,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/4th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12667,6 +12777,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/4th_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12683,6 +12794,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/taitung_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12691,6 +12803,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/3rd_electoral_district,_changhua_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12707,6 +12820,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/aboriginals_district",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12715,6 +12829,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/10th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12731,12 +12846,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_power_party",
       "organization_id": "legislature",
       "person_id": "71f5ff97-4749-4d6b-a4c7-e389d7977b2d",
       "role": "member",
       "start_date": "2016-02-01"
+    },
+    {
+      "area_id": "area/nationwide",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/dpp",
+      "organization_id": "legislature",
+      "person_id": "7287e59a-4646-4d85-ac7b-9e50ecc96b44",
+      "role": "member",
+      "start_date": "2016-05-26"
     },
     {
       "area_id": "area/1st_electoral_district,_kaohsiung_city",
@@ -12747,6 +12872,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12771,6 +12897,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12803,6 +12930,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12811,6 +12939,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12827,6 +12956,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/kinmen_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12843,6 +12973,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/hsinchu_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12867,6 +12998,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12875,6 +13007,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12907,6 +13040,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/hsinchu_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12923,6 +13057,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_nantou_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -12931,8 +13066,9 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_power_party",
       "organization_id": "legislature",
       "person_id": "9372c393-4148-4fdb-8ed9-9e9e5fc5aa44",
       "role": "member",
@@ -12947,6 +13083,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/aboriginals_district",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/pfp",
       "organization_id": "legislature",
@@ -12963,6 +13100,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12979,6 +13117,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,pingtung_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -12995,6 +13134,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/4th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13011,6 +13151,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/7th_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13027,6 +13168,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13043,6 +13185,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13067,6 +13210,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/6th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13083,6 +13227,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/8th_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13091,6 +13236,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13099,6 +13245,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13107,6 +13254,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13123,6 +13271,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_tainan_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13131,6 +13280,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13139,6 +13289,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/6th_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13155,6 +13306,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/6th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13180,6 +13332,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/6th_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13196,6 +13349,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13220,6 +13374,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/plain",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13236,6 +13391,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/penghu_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13252,6 +13408,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/hualien_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13260,6 +13417,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13277,6 +13435,7 @@
       "start_date": "2015-02-16"
     },
     {
+      "area_id": "area/3rd_electoral_district,pingtung_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13293,6 +13452,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/3rd_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13301,6 +13461,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13317,6 +13478,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/5th_electoral_district,_taoyuan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13325,6 +13487,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/keelung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13341,6 +13504,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13357,8 +13521,9 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_power_party",
       "organization_id": "legislature",
       "person_id": "c3bffd29-f41d-46c7-920f-8a2c8bf4beb6",
       "role": "member",
@@ -13381,6 +13546,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13397,6 +13563,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/pfp",
       "organization_id": "legislature",
@@ -13405,8 +13572,9 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/12th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_power_party",
       "organization_id": "legislature",
       "person_id": "cc62be07-ae52-4db3-95b3-01e4a0e2cf21",
       "role": "member",
@@ -13437,6 +13605,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/8th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13453,6 +13622,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/7th_electoral_district,_kaohsiung_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13461,6 +13631,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/7th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13478,6 +13649,7 @@
       "start_date": "2015-02-16"
     },
     {
+      "area_id": "area/4th_electoral_district,_changhua_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13502,6 +13674,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_changhua_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13510,6 +13683,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/5th_electoral_district,_tainan_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13527,6 +13701,7 @@
       "start_date": "2013-03-22"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/pfp",
       "organization_id": "legislature",
@@ -13543,6 +13718,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/2nd_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13559,6 +13735,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/1st_electoral_district,_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13583,6 +13760,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13599,6 +13777,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/chaiyi_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13607,6 +13786,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13615,6 +13795,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/plain",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13639,6 +13820,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/11th_electoral_district,_new_taipei_city",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/kmt",
       "organization_id": "legislature",
@@ -13655,6 +13837,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/nationwide",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/pfp",
       "organization_id": "legislature",
@@ -13672,8 +13855,9 @@
       "start_date": "2014-02-10"
     },
     {
+      "area_id": "area/3rd_electoral_district,_taichung_city",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_power_party",
       "organization_id": "legislature",
       "person_id": "fbf1fb88-acce-4621-bda4-44f92f09c4ea",
       "role": "member",
@@ -13688,6 +13872,7 @@
       "role": "member"
     },
     {
+      "area_id": "area/i-lan_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
@@ -13696,6 +13881,7 @@
       "start_date": "2016-02-01"
     },
     {
+      "area_id": "area/1st_electoral_district,_chiayi_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/dpp",
       "organization_id": "legislature",
