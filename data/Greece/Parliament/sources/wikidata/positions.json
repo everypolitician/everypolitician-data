@@ -143,8 +143,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24323044",
@@ -516,8 +517,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24306409",
@@ -634,6 +636,29 @@
         "P582": "2015-07-05",
         "P1365": "Alexis Tsipras",
         "P1366": "Vangelis Meimarakis"
+      }
+    }
+  ],
+  "Q3347276": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of Synaspismós)",
+      "qualifiers": {
+        "P580": "1989",
+        "P582": "1993",
+        "P642": "Synaspismós"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of Synaspismós)",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2007",
+        "P768": "Athens A",
+        "P642": "Synaspismós"
       }
     }
   ],
@@ -844,8 +869,8 @@
     },
     {
       "id": "Q24306162",
-      "label": "Q24306162",
-      "title": "Q24306162"
+      "label": "MP for Aetolia-Acarnania",
+      "title": "MP for Aetolia-Acarnania"
     }
   ],
   "Q19758235": [
@@ -1080,7 +1105,13 @@
       "id": "Q16147098",
       "label": "Minister for Foreign Affairs of Greece",
       "title": "Minister for Foreign Affairs of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1989-07-03",
+        "P582": "1989-10-12",
+        "P1365": "Andreas Papandreou",
+        "P1366": "Yannis Grivas"
+      }
     },
     {
       "id": "Q6865935",
@@ -1272,20 +1303,20 @@
   "Q23636195": [
     {
       "id": "Q23640247",
-      "label": "Q23640247",
-      "title": "Q23640247",
+      "label": "Deputy Minister of Labour",
+      "title": "Deputy Minister of Labour",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
       "id": "Q23639512",
-      "label": "Q23639512",
-      "title": "Q23639512",
+      "label": "Deputy Minister of Employment",
+      "title": "Deputy Minister of Employment",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
       "id": "Q24306162",
-      "label": "Q24306162",
-      "title": "Q24306162"
+      "label": "MP for Aetolia-Acarnania",
+      "title": "MP for Aetolia-Acarnania"
     }
   ],
   "Q445545": [
@@ -1317,12 +1348,33 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Panhellenic Socialist Movement)",
+      "qualifiers": {
+        "P580": "2000",
+        "P582": "2002",
+        "P642": "Panhellenic Socialist Movement"
+      }
     },
     {
       "id": "Q23772807",
       "label": "Member of the Athens Academy",
-      "title": "Member of the Athens Academy"
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "1998"
+      }
+    },
+    {
+      "id": "Q23836178",
+      "label": "Deputy Foreign Minister",
+      "title": "Deputy Foreign Minister (of Third Cabinet of Costas Simitis)",
+      "description": "Greek deputy minister",
+      "qualifiers": {
+        "P580": "2000-04-13",
+        "P582": "2000-11-20",
+        "P1365": "Q19744016",
+        "P1366": "Q19744016",
+        "P642": "Third Cabinet of Costas Simitis"
+      }
     }
   ],
   "Q12884280": [
@@ -1623,6 +1675,113 @@
       "description": "Greek government minister"
     }
   ],
+  "Q6062066": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of National Radical Union)",
+      "qualifiers": {
+        "P580": "1958",
+        "P582": "1967",
+        "P768": "Q18907360",
+        "P642": "National Radical Union"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "2007",
+        "P768": "Q18907360",
+        "P642": "New Democracy"
+      }
+    },
+    {
+      "id": "Q19858317",
+      "label": "Greek Minister of the Interior",
+      "title": "Greek Minister of the Interior (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1992-12-03",
+        "P582": "1993-09-14",
+        "P1365": "Q19858311",
+        "P1366": "Q12878314",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q23901391",
+      "label": "Minister of Public Order and Citizen Protection",
+      "title": "Minister of Public Order and Citizen Protection (of Cabinet of Tzannis Tzannetakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1989-07-02",
+        "P582": "1989-10-12",
+        "P1365": "Q14337768",
+        "P642": "Cabinet of Tzannis Tzannetakis"
+      }
+    },
+    {
+      "id": "Q3559112",
+      "label": "Minister of State of Greece",
+      "title": "Minister of State of Greece (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1990-05-24",
+        "P582": "1991-09-04",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q20128304",
+      "label": "Minister of Tourism of Greece",
+      "title": "Minister of Tourism of Greece (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1991-05-24",
+        "P582": "1991-09-04",
+        "P1365": "Georgios Souflias",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q21485921",
+      "label": "Q21485921",
+      "title": "Q21485921 (of Cabinet of Georgios Rallis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1980-05-10",
+        "P582": "1981-09-17",
+        "P1365": "Georgios Souflias",
+        "P1366": "Efstáthios Panagoúlis",
+        "P642": "Cabinet of Georgios Rallis"
+      }
+    },
+    {
+      "id": "Q23651600",
+      "label": "Q23651600",
+      "title": "Q23651600 (of Ecumenical Cabinet of Xenophon Zolotas)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1989-11-23",
+        "P582": "1990-02-13",
+        "P642": "Ecumenical Cabinet of Xenophon Zolotas"
+      }
+    },
+    {
+      "id": "Q23641350",
+      "label": "Q23641350",
+      "title": "Q23641350 (of Fifth Cabinet of Konstantinos Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1976-09-10",
+        "P582": "1977-10-21",
+        "P642": "Fifth Cabinet of Konstantinos Karamanlis"
+      }
+    }
+  ],
   "Q16512833": [
     {
       "id": "Q24306378",
@@ -1759,8 +1918,9 @@
     },
     {
       "id": "Q23836178",
-      "label": "Q23836178",
-      "title": "Q23836178"
+      "label": "Deputy Foreign Minister",
+      "title": "Deputy Foreign Minister",
+      "description": "Greek deputy minister"
     },
     {
       "id": "Q24306194",
@@ -1976,8 +2136,8 @@
   "Q23308675": [
     {
       "id": "Q24306162",
-      "label": "Q24306162",
-      "title": "Q24306162"
+      "label": "MP for Aetolia-Acarnania",
+      "title": "MP for Aetolia-Acarnania"
     }
   ],
   "Q23653341": [
@@ -2313,8 +2473,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     }
   ],
   "Q4846569": [
@@ -2398,14 +2559,15 @@
     },
     {
       "id": "Q23640247",
-      "label": "Q23640247",
-      "title": "Q23640247",
+      "label": "Deputy Minister of Labour",
+      "title": "Deputy Minister of Labour",
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24323021",
@@ -2628,8 +2790,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24322923",
@@ -2948,9 +3111,9 @@
       "label": "Speaker of the Hellenic Parliament",
       "title": "Speaker of the Hellenic Parliament",
       "qualifiers": {
-        "P580": "1993",
-        "P582": "2004",
-        "P1365": "Q12873121",
+        "P580": "1993-10-22",
+        "P582": "2004-02-11",
+        "P1365": "Athanasios Tsaldaris",
         "P1366": "Anna Benaki-Psarouda"
       }
     },
@@ -2958,7 +3121,13 @@
       "id": "Q19858443",
       "label": "Minister of National Education and Religious Affairs of Greece",
       "title": "Minister of National Education and Religious Affairs of Greece",
-      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009"
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009",
+      "qualifiers": {
+        "P580": "1988-05-09",
+        "P582": "1988-06-22",
+        "P1365": "Antonis Tritsis",
+        "P1366": "George Papandreou"
+      }
     },
     {
       "id": "Q19858568",
@@ -2970,7 +3139,13 @@
       "id": "Q19860560",
       "label": "Minister of Justice of Greece",
       "title": "Minister of Justice of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1986-04-25",
+        "P582": "1987-02-05",
+        "P1365": "Georgios Mangakis",
+        "P1366": "Eleftherios Veryvakis"
+      }
     },
     {
       "id": "Q19860747",
@@ -2989,6 +3164,28 @@
       "label": "Minister of Education of Greece",
       "title": "Minister of Education of Greece",
       "description": "Greek government minister"
+    },
+    {
+      "id": "Q19858443",
+      "label": "Minister of National Education and Religious Affairs of Greece",
+      "title": "Minister of National Education and Religious Affairs of Greece",
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009",
+      "qualifiers": {
+        "P580": "1982-07-05",
+        "P582": "1986-04-25",
+        "P1365": "Eleftherios Veryvakis",
+        "P1366": "Antonis Tritsis"
+      }
+    },
+    {
+      "id": "Q19858443",
+      "label": "Minister of National Education and Religious Affairs of Greece",
+      "title": "Minister of National Education and Religious Affairs of Greece",
+      "description": "Greek minister in charge of \"National Education and Religious Affairs\" between 1955 and 2009",
+      "qualifiers": {
+        "P580": "1988-05-09",
+        "P582": "1988-06-22"
+      }
     }
   ],
   "Q672308": [
@@ -3030,8 +3227,9 @@
     },
     {
       "id": "Q23836178",
-      "label": "Q23836178",
-      "title": "Q23836178"
+      "label": "Deputy Foreign Minister",
+      "title": "Deputy Foreign Minister",
+      "description": "Greek deputy minister"
     }
   ],
   "Q701055": [
@@ -3231,6 +3429,30 @@
       "id": "Q24306194",
       "label": "Q24306194",
       "title": "Q24306194"
+    }
+  ],
+  "Q12877513": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of SYRIZA)",
+      "qualifiers": {
+        "P580": "2012-05-06",
+        "P582": "2015-08",
+        "P768": "Athens A",
+        "P642": "SYRIZA"
+      }
+    },
+    {
+      "id": "Q7574264",
+      "label": "Speaker of the Hellenic Parliament",
+      "title": "Speaker of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2015-02-06",
+        "P582": "2015-10-04",
+        "P1365": "Vangelis Meimarakis",
+        "P1366": "Nikos Voutsis"
+      }
     }
   ],
   "Q6433554": [
@@ -3745,8 +3967,8 @@
   "Q20650920": [
     {
       "id": "Q24306162",
-      "label": "Q24306162",
-      "title": "Q24306162"
+      "label": "MP for Aetolia-Acarnania",
+      "title": "MP for Aetolia-Acarnania"
     }
   ],
   "Q16327105": [
@@ -3850,8 +4072,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     }
   ],
   "Q1289527": [
@@ -4143,7 +4366,7 @@
       "qualifiers": {
         "P580": "1981",
         "P582": "1989",
-        "P1366": "Q12873121",
+        "P1366": "Athanasios Tsaldaris",
         "P1365": "Q16327447"
       }
     }
@@ -4378,8 +4601,9 @@
   "Q23010963": [
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24306426",
@@ -4398,13 +4622,37 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Synaspismós)",
+      "qualifiers": {
+        "P580": "1989",
+        "P582": "1993",
+        "P768": "Athens B",
+        "P642": "Synaspismós"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of SYRIZA)",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2014",
+        "P768": "Athens B",
+        "P642": "SYRIZA"
+      }
     },
     {
       "id": "Q19860560",
       "label": "Minister of Justice of Greece",
-      "title": "Minister of Justice of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Justice of Greece (of Cabinet of Tzannis Tzannetakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1989-07-02",
+        "P582": "1989-10-12",
+        "P1365": "Ioannis Skoularikis",
+        "P1366": "Athanasios Kanellopoulos",
+        "P642": "Cabinet of Tzannis Tzannetakis"
+      }
     }
   ],
   "Q312013": [
@@ -4511,8 +4759,9 @@
     },
     {
       "id": "Q23836178",
-      "label": "Q23836178",
-      "title": "Q23836178"
+      "label": "Deputy Foreign Minister",
+      "title": "Deputy Foreign Minister",
+      "description": "Greek deputy minister"
     }
   ],
   "Q12874202": [
@@ -4573,48 +4822,95 @@
       "id": "Q6865935",
       "label": "Minister for National Defence of Greece",
       "title": "Minister for National Defence of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2009-10-07",
+        "P582": "2011-06-17"
+      }
     },
     {
       "id": "Q19752714",
       "label": "Finance minister of Greece",
       "title": "Finance minister of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2011-06-17",
+        "P582": "2012-03-21",
+        "P1365": "Giorgos Papakonstantinou",
+        "P1366": "Philippos Sachinidis"
+      }
     },
     {
       "id": "Q19860560",
       "label": "Minister of Justice of Greece",
       "title": "Minister of Justice of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1996-01-22",
+        "P582": "1996-08-30"
+      }
     },
     {
       "id": "Q19904334",
       "label": "Minister of Culture of Greece",
       "title": "Minister of Culture of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2000-11-21",
+        "P582": "2004-03-10"
+      }
     },
     {
       "id": "Q19904387",
       "label": "Minister of Transports and Communications of Greece",
       "title": "Minister of Transports and Communications of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1995-09-15",
+        "P582": "1996-01-22"
+      }
     },
     {
       "id": "Q19943050",
       "label": "Minister of Development of Greece",
       "title": "Minister of Development of Greece",
-      "description": "Greek government minister"
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1999-02-19",
+        "P582": "2000-04-13"
+      }
     },
     {
       "id": "Q3394691",
       "label": "Deputy Prime Minister of Greece",
-      "title": "Deputy Prime Minister of Greece"
+      "title": "Deputy Prime Minister of Greece",
+      "qualifiers": {
+        "P580": "2013-06-25",
+        "P582": "2015-01-27",
+        "P1365": "Theodoros Pangalos",
+        "P1366": "Yannis Dragasakis"
+      }
     },
     {
       "id": "Q23653047",
       "label": "Q23653047",
       "title": "Q23653047",
       "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q19904334",
+      "label": "Minister of Culture of Greece",
+      "title": "Minister of Culture of Greece",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1996-09-26",
+        "P582": "1999-02-19"
+      }
+    },
+    {
+      "id": "Q6866010",
+      "label": "Minister for the Press and the Media",
+      "title": "Minister for the Press and the Media"
     }
   ],
   "Q12873618": [
@@ -4716,13 +5012,51 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24323021",
       "label": "Q24323021",
       "title": "Q24323021"
+    }
+  ],
+  "Q20685081": [
+    {
+      "id": "Q19858626",
+      "label": "Minister of Commercial Marine of Greece",
+      "title": "Minister of Commercial Marine of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q19860606",
+      "label": "Minister of Agriculture of Greece",
+      "title": "Minister of Agriculture of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q19860747",
+      "label": "Labour minister of Greece",
+      "title": "Labour minister of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q19904343",
+      "label": "Minister of Industry of Greece",
+      "title": "Minister of Industry of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q23641291",
+      "label": "Q23641291",
+      "title": "Q23641291",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q24306451",
+      "label": "Q24306451",
+      "title": "Q24306451"
     }
   ],
   "Q5277577": [
@@ -4812,8 +5146,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24323964",
@@ -4846,8 +5181,9 @@
     },
     {
       "id": "Q23906392",
-      "label": "Q23906392",
-      "title": "Q23906392"
+      "label": "Prefect",
+      "title": "Prefect",
+      "description": "Greek prefect"
     },
     {
       "id": "Q24323989",
