@@ -1160,7 +1160,14 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1986",
+        "P582": "1989",
+        "P1365": "Miltiadis Evert",
+        "P768": "Athens A",
+        "P642": "New Democracy"
+      }
     }
   ],
   "Q7168492": [
@@ -1993,24 +2000,62 @@
     {
       "id": "Q19858317",
       "label": "Greek Minister of the Interior",
-      "title": "Greek Minister of the Interior",
-      "description": "Greek government minister"
+      "title": "Greek Minister of the Interior (of Second Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1956-02-29",
+        "P582": "1958-03-05",
+        "P1365": "Q12881823",
+        "P1366": "Konstantinos Georgakopoulos",
+        "P642": "Second Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q19858317",
+      "label": "Greek Minister of the Interior",
+      "title": "Greek Minister of the Interior (of Third Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1958-05-17",
+        "P582": "1961-09-20",
+        "P1365": "Konstantinos Georgakopoulos",
+        "P1366": "Q12881823",
+        "P642": "Third Cabinet of Konstantinos Karamanlis"
+      }
     },
     {
       "id": "Q19858568",
       "label": "Minister of the Presidency of Greece",
-      "title": "Minister of the Presidency of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of the Presidency of Greece (of Fourth Cabinet of Konstantinos Karamanlis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1961-11-04",
+        "P582": "1963-06-19",
+        "P1365": "Q20289223",
+        "P642": "Fourth Cabinet of Konstantinos Karamanlis"
+      }
     },
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of National Radical Union)",
+      "qualifiers": {
+        "P580": "1956",
+        "P582": "1967",
+        "P768": "Q24324554",
+        "P642": "National Radical Union"
+      }
     },
     {
-      "id": "Q24324554",
-      "label": "Q24324554",
-      "title": "Q24324554"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1977",
+        "P768": "Q24324554",
+        "P642": "New Democracy"
+      }
     }
   ],
   "Q252657": [
@@ -5087,13 +5132,24 @@
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "title": "member of the European Parliament (of independent politician)",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2014",
+        "P768": "Greece",
+        "P642": "independent politician"
+      }
     },
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament (of Independent Greeks)",
+      "qualifiers": {
+        "P580": "2012",
+        "P582": "2014",
+        "P768": "Q24306432",
+        "P642": "Independent Greeks"
+      }
     }
   ],
   "Q12881085": [
