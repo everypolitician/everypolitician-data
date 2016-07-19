@@ -101,6 +101,21 @@
         "from": "election-wikidata",
         "base": "Q17317594"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-spain-congreso-list",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/Congreso_Es/lists/diputados-2011-2016",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
