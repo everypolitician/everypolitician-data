@@ -25,12 +25,12 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-ireland-list",
-        "query": "SELECT id, name, twitter, image FROM data WHERE guess_type = 'td' OR guess_type = '?'"
+        "query": "SELECT id, name AS temp_name, twitter, image FROM data WHERE guess_type = 'td' OR guess_type = '?'"
       },
       "type": "person",
       "source": "https://twitter.com/elainebyrne/lists/irish-politicians",
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "temp_name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
