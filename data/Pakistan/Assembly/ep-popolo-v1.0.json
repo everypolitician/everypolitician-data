@@ -23274,7 +23274,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/na-271_(kharan-cum-panjgur)",
+      "area_id": "area/()",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "legislature",
@@ -24897,6 +24897,11 @@
   ],
   "areas": [
     {
+      "id": "area/()",
+      "name": "()",
+      "type": "constituency"
+    },
+    {
       "id": "area/na-100_(gujranwala-vi)",
       "name": "NA-100 (Gujranwala-VI)",
       "type": "constituency"
@@ -25839,11 +25844,6 @@
     {
       "id": "area/na-270_(awaran-cum-lasbella)",
       "name": "NA-270 (Awaran-cum-Lasbella)",
-      "type": "constituency"
-    },
-    {
-      "id": "area/na-271_(kharan-cum-panjgur)",
-      "name": "NA-271 (Kharan-cum-Panjgur)",
       "type": "constituency"
     },
     {
