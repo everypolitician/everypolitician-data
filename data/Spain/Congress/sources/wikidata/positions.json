@@ -1699,6 +1699,25 @@
       "title": "Member of the Congress of Deputies of Spain"
     }
   ],
+  "Q22337925": [
+    {
+      "id": "Q708492",
+      "label": "councillor",
+      "title": "councillor (of Cardedeu)",
+      "description": "representative of voters to a local government",
+      "qualifiers": {
+        "P642": "Cardedeu"
+      }
+    },
+    {
+      "id": "Q18171345",
+      "label": "Member of the Congress of Deputies of Spain",
+      "title": "Member of the Congress of Deputies of Spain",
+      "qualifiers": {
+        "P580": "2016-01-08"
+      }
+    }
+  ],
   "Q945431": [
     {
       "id": "Q30185",
@@ -2002,12 +2021,27 @@
     {
       "id": "Q18714088",
       "label": "Member of the Catalan Parliament",
-      "title": "Member of the Catalan Parliament"
+      "title": "Member of the Catalan Parliament",
+      "qualifiers": {
+        "P580": "2003-11-24",
+        "P582": "2010-12-30",
+        "P1366": "Josep Sicart i Enguix",
+        "P768": "Barcelona"
+      }
     },
     {
       "id": "Q21620329",
       "label": "Minister of the Government of Catalonia",
       "title": "Minister of the Government of Catalonia"
+    },
+    {
+      "id": "Q18171345",
+      "label": "Member of the Congress of Deputies of Spain",
+      "title": "Member of the Congress of Deputies of Spain",
+      "qualifiers": {
+        "P580": "2016-01-08",
+        "P768": "Barcelona"
+      }
     }
   ],
   "Q5943076": [
