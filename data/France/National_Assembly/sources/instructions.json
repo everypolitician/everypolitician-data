@@ -76,6 +76,21 @@
         "from": "election-wikidata",
         "base": "Q22160703"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/french-assembly-twitter-list-scraper",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/AssembleeNat/lists/les-députés",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name__fr",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
