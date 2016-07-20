@@ -71,6 +71,21 @@
         "from": "wikidata-raw",
         "source": "reconciliation/wikidata.csv"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-australia-senate",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/AuSenate/lists/senators",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name__en",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
