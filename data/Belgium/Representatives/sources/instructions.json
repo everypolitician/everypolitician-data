@@ -74,6 +74,21 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-list-belgium-vlaamse-regering",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "person",
+      "source": "https://twitter.com/vlaparl/lists/vlaamse-regering",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
