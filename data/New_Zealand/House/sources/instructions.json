@@ -75,6 +75,21 @@
         "from": "election-wikidata",
         "base": "Q22162827"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-list-new-zealand-parliament",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "person",
+      "source": "https://twitter.com/NZParliament/lists/new-mps-as-at-20-10-2014",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
