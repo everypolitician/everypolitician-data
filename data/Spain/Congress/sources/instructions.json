@@ -106,26 +106,14 @@
       "file": "morph/twitter.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/twitter-spain-congreso-list",
+        "scraper": "everypolitician-scrapers/twitter-list-spain-congreso",
         "query": "SELECT * FROM data"
       },
       "type": "person",
-      "source": "https://twitter.com/Congreso_Es/lists/diputados-2011-2016",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/twitter.csv"
-      }
-    },
-    {
-      "file": "morph/twitter.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/twitter-spain-XILegislature-list",
-        "query": "SELECT * FROM data"
-      },
-      "type": "person",
-      "source": "https://twitter.com/Congreso_Es/lists/diputados-xi-legislatura/",
+      "source": [
+        "https://twitter.com/Congreso_Es/lists/diputados-2011-2016",
+        "https://twitter.com/Congreso_Es/lists/diputados-xi-legislatura"
+      ],
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
