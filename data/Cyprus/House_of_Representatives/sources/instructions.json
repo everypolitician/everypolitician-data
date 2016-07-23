@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/cyprus-openpatata",
-        "query": "SELECT *, NULL as wikipedia FROM data WHERE term IN ('10', '11')"
+        "query": "SELECT *, NULL as wikipedia FROM data WHERE term IN ('10', '11') ORDER BY id"
       },
       "source": "https://github.com/openpatata/openpatata-data/",
       "type": "membership"
