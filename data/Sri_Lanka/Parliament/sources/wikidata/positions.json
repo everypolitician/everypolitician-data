@@ -169,6 +169,11 @@
       "id": "Q18964938",
       "label": "Member of the Parliament of Sri Lanka",
       "title": "Member of the Parliament of Sri Lanka"
+    },
+    {
+      "id": "Q17070513",
+      "label": "Ministry of Foreign Employment Promotion and Welfare",
+      "title": "Ministry of Foreign Employment Promotion and Welfare"
     }
   ],
   "Q1395772": [
@@ -340,7 +345,13 @@
     {
       "id": "Q1758894",
       "label": "Prime Minister of Sri Lanka",
-      "title": "Prime Minister of Sri Lanka"
+      "title": "Prime Minister of Sri Lanka",
+      "qualifiers": {
+        "P580": "2004-04-06",
+        "P582": "2005-11-19",
+        "P1365": "Ranil Wickremesinghe",
+        "P1366": "Ratnasiri Wickremanayake"
+      }
     },
     {
       "id": "Q5153709",
@@ -369,6 +380,16 @@
         "P1365": "Ratnasiri Wickremanayake",
         "P1366": "Ranil Wickremesinghe"
       }
+    },
+    {
+      "id": "Q16056500",
+      "label": "Ministry of Fisheries and Aquatic Resources Development",
+      "title": "Ministry of Fisheries and Aquatic Resources Development"
+    },
+    {
+      "id": "Q6866137",
+      "label": "Minister of Finance of Sri Lanka",
+      "title": "Minister of Finance of Sri Lanka"
     }
   ],
   "Q7359782": [
@@ -1130,6 +1151,17 @@
         "P1365": "Mahinda Rajapaksa",
         "P1366": "Nimal Siripala de Silva"
       }
+    },
+    {
+      "id": "Q1758894",
+      "label": "Prime Minister of Sri Lanka",
+      "title": "Prime Minister of Sri Lanka"
+    },
+    {
+      "id": "Q198668",
+      "label": "Ministry of Education",
+      "title": "Ministry of Education",
+      "description": "Sri Lankan ministry responsible for education"
     }
   ],
   "Q13642662": [
