@@ -38,6 +38,16 @@
       "name": "ALIDY Bin Soufou"
     },
     {
+      "id": "9963b594-f722-4d84-b4d5-e7dae96be6b5",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
+        }
+      ],
+      "name": "ANDRIAMAROTIA Ludovic Edmond"
+    },
+    {
       "gender": "female",
       "id": "8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "identifiers": [
@@ -70,6 +80,16 @@
         }
       ],
       "name": "ANDRIAMBOAVONJY Nantenaina Herisoa"
+    },
+    {
+      "id": "a37422b1-6847-4c74-b2b7-26babd586a31",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
+        }
+      ],
+      "name": "ANDRIAMIFALISON Réné Rakotonirina"
     },
     {
       "gender": "male",
@@ -121,23 +141,6 @@
         }
       ],
       "name": "ANDRIANIRINA Josoa Marohajaina"
-    },
-    {
-      "gender": "male",
-      "id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
-      "identifiers": [
-        {
-          "identifier": "andrianjaka_samson_goulzar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
-        }
-      ],
-      "name": "ANDRIANJAKA Samson Goulzar"
     },
     {
       "gender": "male",
@@ -898,23 +901,6 @@
     },
     {
       "gender": "male",
-      "id": "a41230f6-3516-4582-ac49-e2af27014afb",
-      "identifiers": [
-        {
-          "identifier": "rabenirina_jean_jacques",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
-        }
-      ],
-      "name": "RABENIRINA Jean Jacques"
-    },
-    {
-      "gender": "male",
       "id": "2cf10402-896e-4097-afce-a3c47a1342b2",
       "identifiers": [
         {
@@ -1079,23 +1065,6 @@
         }
       ],
       "name": "RAHARIJAONA -"
-    },
-    {
-      "gender": "female",
-      "id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
-      "identifiers": [
-        {
-          "identifier": "raharimalala_marie_lydia",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
-        }
-      ],
-      "name": "RAHARIMALALA Marie Lydia"
     },
     {
       "gender": "female",
@@ -1535,10 +1504,10 @@
     },
     {
       "id": "45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png",
       "images": [
         {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png"
         }
       ],
       "name": "RAMAHATODISOLOMANANA Voanalaroy"
@@ -2800,6 +2769,16 @@
       "name": "ROCHELIN Houssen"
     },
     {
+      "id": "affa4d4c-3ebb-498b-bebb-4b1db0989dca",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
+        }
+      ],
+      "name": "ROGER Moussa Jassat"
+    },
+    {
       "gender": "male",
       "id": "22f2f47c-b3b2-47bf-a4a4-9fc736a2f1cf",
       "identifiers": [
@@ -3719,6 +3698,11 @@
     },
     {
       "classification": "party",
+      "id": "party/mapar_ii",
+      "name": "MAPAR II"
+    },
+    {
+      "classification": "party",
       "id": "party/mts",
       "name": "MTS"
     },
@@ -3729,7 +3713,7 @@
     },
     {
       "classification": "legislature",
-      "id": "legislature",
+      "id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "identifiers": [
         {
           "identifier": "Q1141206",
@@ -3779,7 +3763,7 @@
       "area_id": "area/farafangana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "01e9c769-d617-4e33-b01e-36d76203d179",
       "role": "member"
     },
@@ -3787,7 +3771,7 @@
       "area_id": "area/toliary_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "02855853-175b-4f53-88d3-f5d672baee68",
       "role": "member"
     },
@@ -3795,7 +3779,7 @@
       "area_id": "area/beroroha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "04747901-75b6-4edf-888b-2772de82aa32",
       "role": "member"
     },
@@ -3803,7 +3787,7 @@
       "area_id": "area/miandrivazo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "0578bcd7-4fce-40f1-9527-8291c4cd2891",
       "role": "member"
     },
@@ -3811,7 +3795,7 @@
       "area_id": "area/port_berger",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "05906b32-c23f-4d7f-9365-935295266d2b",
       "role": "member"
     },
@@ -3819,7 +3803,7 @@
       "area_id": "area/betafo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "094ae182-d783-456c-b9f7-c680cf5fa5c7",
       "role": "member"
     },
@@ -3827,7 +3811,7 @@
       "area_id": "area/manajary",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "09f9688a-946f-4ca6-8efa-592929d74d50",
       "role": "member"
     },
@@ -3835,7 +3819,7 @@
       "area_id": "area/lalangina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "0a29c81b-9252-4e9b-b766-71c3f9da251b",
       "role": "member"
     },
@@ -3843,7 +3827,7 @@
       "area_id": "area/mahajanga_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "0a839fc2-24f5-48d9-a93f-b5ede96c1291",
       "role": "member"
     },
@@ -3851,7 +3835,7 @@
       "area_id": "area/vangaindrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "0d2fff3b-4843-4583-a563-79430846da53",
       "role": "member"
     },
@@ -3859,7 +3843,7 @@
       "area_id": "area/amboasary_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "16fc3af5-3b3b-44f4-8a95-d7c47655b936",
       "role": "member"
     },
@@ -3867,7 +3851,7 @@
       "area_id": "area/antsiranana_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "17e7962c-3910-461c-a420-dcaf4949357b",
       "role": "member"
     },
@@ -3875,7 +3859,7 @@
       "area_id": "area/ankazoabo_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1889fc83-9a29-4f53-8232-004421fc0064",
       "role": "member"
     },
@@ -3883,7 +3867,7 @@
       "area_id": "area/morombe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "18c44d92-0a65-4e4f-87fc-4fa45dccef67",
       "role": "member"
     },
@@ -3891,23 +3875,15 @@
       "area_id": "area/ivohibe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1980b1ca-4c6a-43e4-a9c1-914e227e007e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ampanihy_andrefana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
-      "person_id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
       "role": "member"
     },
     {
       "area_id": "area/vangaindrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1a062ace-e6e8-4b87-b53b-7032256dbf8b",
       "role": "member"
     },
@@ -3915,7 +3891,7 @@
       "area_id": "area/anjozorobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1b31b2db-a2cd-4621-998f-05b707c7ed40",
       "role": "member"
     },
@@ -3923,7 +3899,7 @@
       "area_id": "area/fénérive_est",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1d1dd714-c171-44bd-a3b4-d7553a6d55d8",
       "role": "member"
     },
@@ -3931,7 +3907,7 @@
       "area_id": "area/antananarivo_atsimondrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1f982176-91ca-403f-a6d0-7dd56eb89f7c",
       "role": "member"
     },
@@ -3939,7 +3915,7 @@
       "area_id": "area/toamasina_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "22f2f47c-b3b2-47bf-a4a4-9fc736a2f1cf",
       "role": "member"
     },
@@ -3947,7 +3923,7 @@
       "area_id": "area/amparafaravola",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "2be28518-2c43-49fd-bda6-1b8bf1b450fe",
       "role": "member"
     },
@@ -3955,7 +3931,7 @@
       "area_id": "area/mahajanga_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "2c1b166a-e1d5-4a53-ac36-a2309bec23f6",
       "role": "member"
     },
@@ -3963,7 +3939,7 @@
       "area_id": "area/moramanga",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "2cea79cd-ea5b-4ec6-8935-cf23dfa795df",
       "role": "member"
     },
@@ -3971,7 +3947,7 @@
       "area_id": "area/andilamena",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "2cf10402-896e-4097-afce-a3c47a1342b2",
       "role": "member"
     },
@@ -3979,7 +3955,7 @@
       "area_id": "area/ihosy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "2d93e4a2-fde9-40c3-a5eb-d4fc9a4e707f",
       "role": "member"
     },
@@ -3987,7 +3963,7 @@
       "area_id": "area/mampikony",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "3083b7de-ddd4-4130-aa76-7430b39ed14b",
       "role": "member"
     },
@@ -3995,7 +3971,7 @@
       "area_id": "area/ambatolampy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "32631baf-a34c-4d69-a05b-93c8ff5fac2c",
       "role": "member"
     },
@@ -4003,7 +3979,7 @@
       "area_id": "area/maintirano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "345fc4e0-5a4b-440b-8f8e-7f706d825209",
       "role": "member"
     },
@@ -4011,7 +3987,7 @@
       "area_id": "area/antananarivo_v",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "34731470-53c8-41d8-b73c-aafebe4b47b0",
       "role": "member"
     },
@@ -4019,7 +3995,7 @@
       "area_id": "area/antananarivo_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "37aa151b-dca1-4558-8680-5c9cbe23a76c",
       "role": "member"
     },
@@ -4027,7 +4003,7 @@
       "area_id": "area/beloha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "37f2935e-4dab-4f6a-896f-c66d5f8172c0",
       "role": "member"
     },
@@ -4035,7 +4011,7 @@
       "area_id": "area/tsaratanàna",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "383f9dff-26f7-4713-afe9-ed6c9b6b5936",
       "role": "member"
     },
@@ -4043,7 +4019,7 @@
       "area_id": "area/mananara_avaratra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "39e08c89-31f6-4e8a-9417-1bc0acf9cb04",
       "role": "member"
     },
@@ -4051,7 +4027,7 @@
       "area_id": "area/amparafaravola",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "3f4522e7-e43d-47ca-a167-346aedaeff07",
       "role": "member"
     },
@@ -4059,7 +4035,7 @@
       "area_id": "area/nosy_varika",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "41b1a9d4-96c3-4fa0-9b0f-54fcf9b6b600",
       "role": "member"
     },
@@ -4067,7 +4043,7 @@
       "area_id": "area/ambositra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "440cdfa4-4555-4e7e-b227-41aa44468fe9",
       "role": "member"
     },
@@ -4075,7 +4051,7 @@
       "area_id": "area/ambositra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "441c0310-ed2f-47bc-9379-0787f458b68f",
       "role": "member"
     },
@@ -4083,7 +4059,7 @@
       "area_id": "area/nosy_be",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "447f92a8-d0ca-4c79-b4a9-4816289d33ed",
       "role": "member"
     },
@@ -4091,7 +4067,7 @@
       "area_id": "area/brickaville",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
       "role": "member"
     },
@@ -4099,7 +4075,7 @@
       "area_id": "area/manandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "4b64bb77-c0ad-4c6e-b4af-474ee95d37f5",
       "role": "member"
     },
@@ -4107,7 +4083,7 @@
       "area_id": "area/befotaka_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "4be0df9c-1c85-465e-90c6-f84950561edf",
       "role": "member"
     },
@@ -4115,7 +4091,7 @@
       "area_id": "area/belo_tsiribihina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hiaraka_isika",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "4d18c905-f163-4047-aa4f-8053f44db879",
       "role": "member"
     },
@@ -4123,7 +4099,7 @@
       "area_id": "area/miarinarivo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "500bc725-d568-435b-8425-fdf97fb32d66",
       "role": "member"
     },
@@ -4131,7 +4107,7 @@
       "area_id": "area/ankazobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/-",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5156bf25-5e8c-4534-a56c-cfc37daf38cd",
       "role": "member"
     },
@@ -4139,7 +4115,7 @@
       "area_id": "area/ifanadina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "531e761e-d6c1-4d37-b83b-51f06896babf",
       "role": "member"
     },
@@ -4147,7 +4123,7 @@
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5594ea80-e0ce-4805-a48f-79741dc3c65c",
       "role": "member"
     },
@@ -4155,7 +4131,7 @@
       "area_id": "area/toamasina_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "579f2627-8c78-496e-8ed1-c12ae02844fb",
       "role": "member"
     },
@@ -4163,7 +4139,7 @@
       "area_id": "area/mahanoro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "57ca41df-fd4e-4df1-9a09-cdf6603364d3",
       "role": "member"
     },
@@ -4171,7 +4147,7 @@
       "area_id": "area/ambohidratrimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5ac05f82-5fd1-4a10-9930-f92d0df1f9da",
       "role": "member"
     },
@@ -4179,7 +4155,7 @@
       "area_id": "area/mitsinjo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5aca6353-39fb-4f95-b712-2fb98e0368eb",
       "role": "member"
     },
@@ -4187,7 +4163,7 @@
       "area_id": "area/ikalamavony",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5dae7a3f-ce4b-451b-822a-1cdeccd8e5e1",
       "role": "member"
     },
@@ -4195,7 +4171,7 @@
       "area_id": "area/ambanja",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "5fb2bebd-ffb1-4c61-820b-42b77aaaa72c",
       "role": "member"
     },
@@ -4203,7 +4179,7 @@
       "area_id": "area/antanifotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "639f6386-7d56-404e-8439-b21a40846a37",
       "role": "member"
     },
@@ -4211,7 +4187,7 @@
       "area_id": "area/betroka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "66059408-d5f1-450d-96d3-04622f016d1d",
       "role": "member"
     },
@@ -4219,7 +4195,7 @@
       "area_id": "area/antsiranana_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "6640a24a-371e-4d30-9571-2e9b0641ef8f",
       "role": "member"
     },
@@ -4227,7 +4203,7 @@
       "area_id": "area/antsirabe_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "6c165f8a-607e-4eff-8c30-7b2238f02967",
       "role": "member"
     },
@@ -4235,7 +4211,7 @@
       "area_id": "area/sainte_marie",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "6d205342-eb03-404e-bf20-3791e130d0ff",
       "role": "member"
     },
@@ -4243,7 +4219,7 @@
       "area_id": "area/soanierana_ivongo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "6e2954ee-167d-447c-a575-a494f7014145",
       "role": "member"
     },
@@ -4251,7 +4227,7 @@
       "area_id": "area/arivonimamo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "77446eb5-42e1-4485-bd26-1c46ad36d34b",
       "role": "member"
     },
@@ -4259,7 +4235,7 @@
       "area_id": "area/antananarivo_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7baca6c5-41e5-433c-999e-a321300b43d9",
       "role": "member"
     },
@@ -4267,7 +4243,7 @@
       "area_id": "area/farafangana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7be614f4-ce9a-4f5e-9696-4eabf1751271",
       "role": "member"
     },
@@ -4275,7 +4251,7 @@
       "area_id": "area/isandra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7c049f1b-d485-4dd6-9bdc-e804f939ea16",
       "role": "member"
     },
@@ -4283,7 +4259,7 @@
       "area_id": "area/tsiroanomandidy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7d6d7a42-dcfc-478c-b3d4-76552a6a75cb",
       "role": "member"
     },
@@ -4291,7 +4267,7 @@
       "area_id": "area/vatomandry",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7da5fa90-0d3a-4d58-a44f-4b3221c1660e",
       "role": "member"
     },
@@ -4299,7 +4275,7 @@
       "area_id": "area/antsohihy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "7fd2bb88-54f9-489a-8956-b04e973a27c0",
       "role": "member"
     },
@@ -4307,7 +4283,7 @@
       "area_id": "area/befandriana_avaratra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "80427e93-a135-4b84-9def-69d4d59c3ce5",
       "role": "member"
     },
@@ -4315,7 +4291,7 @@
       "area_id": "area/marolambo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "80f6fb30-6ee5-4141-95e4-3aae3f535502",
       "role": "member"
     },
@@ -4323,7 +4299,7 @@
       "area_id": "area/ambalavao",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8159e945-aab3-4c4c-9ed9-ce15c9961807",
       "role": "member"
     },
@@ -4331,7 +4307,7 @@
       "area_id": "area/antananarivo_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "84864c97-8ea9-4e48-af18-dbbdcf4d3c8a",
       "role": "member"
     },
@@ -4339,7 +4315,7 @@
       "area_id": "area/toamasina_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "85a3e9d0-70d0-4a38-8452-a4c8e94b5360",
       "role": "member"
     },
@@ -4347,7 +4323,7 @@
       "area_id": "area/mandritsara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "85c13dd8-f059-464a-899c-fa5810d3a700",
       "role": "member"
     },
@@ -4355,7 +4331,7 @@
       "area_id": "area/antananarivo_iii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "88f61e4a-18e1-4649-a0eb-a805e43f9a40",
       "role": "member"
     },
@@ -4363,7 +4339,7 @@
       "area_id": "area/morafenobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "897aa8ae-056d-4122-9d9d-740802923b45",
       "role": "member"
     },
@@ -4371,7 +4347,7 @@
       "area_id": "area/ampanihy_andrefana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8a0b17dd-2f7a-47dd-a8b0-26dbbd7eeae3",
       "role": "member"
     },
@@ -4379,7 +4355,7 @@
       "area_id": "area/toliary_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8a127f0d-07c7-4121-ba6d-c118a1794e3a",
       "role": "member"
     },
@@ -4387,7 +4363,7 @@
       "area_id": "area/antananarivo_vi",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8b16e0bc-2419-4ba8-908c-f47f3ff67a49",
       "role": "member"
     },
@@ -4395,7 +4371,7 @@
       "area_id": "area/vondrozo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8d14c732-bda6-4c28-8546-8723355b2e34",
       "role": "member"
     },
@@ -4403,7 +4379,7 @@
       "area_id": "area/ambohimahasoa",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8d79f2d4-8f71-43f9-96ea-62d87988d25f",
       "role": "member"
     },
@@ -4411,7 +4387,7 @@
       "area_id": "area/ambatondrazaka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "role": "member"
     },
@@ -4419,7 +4395,7 @@
       "area_id": "area/midongy_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8e52a267-680d-4dfa-8e5c-134878e1401e",
       "role": "member"
     },
@@ -4427,7 +4403,7 @@
       "area_id": "area/mahabo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8eaf520d-834c-4826-a376-2a9ea9278d6b",
       "role": "member"
     },
@@ -4435,7 +4411,7 @@
       "area_id": "area/vohibato",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8f3e5dc4-da32-490f-9887-7c3f11fd0d4f",
       "role": "member"
     },
@@ -4443,7 +4419,7 @@
       "area_id": "area/brickaville",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "8ffff346-b021-4aa7-bdb6-98fd41507989",
       "role": "member"
     },
@@ -4451,7 +4427,7 @@
       "area_id": "area/ikongo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "92499b54-eb6e-440c-a7c6-38ef604f8f73",
       "role": "member"
     },
@@ -4459,7 +4435,7 @@
       "area_id": "area/ambovombe_androy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "960f973b-2b83-449e-a269-8190c9708a53",
       "role": "member"
     },
@@ -4467,7 +4443,7 @@
       "area_id": "area/mahajanga_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "96df5234-89bb-46fd-8c17-1f3d280645cb",
       "role": "member"
     },
@@ -4475,15 +4451,23 @@
       "area_id": "area/toliary_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "97549f73-91f1-4216-b0cc-113ffd3715f4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/betioky_atsimo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/vp-mmm",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "9963b594-f722-4d84-b4d5-e7dae96be6b5",
       "role": "member"
     },
     {
       "area_id": "area/antanifotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "996fb581-b6ff-4ab2-952d-3a5bcac2381b",
       "role": "member"
     },
@@ -4491,7 +4475,7 @@
       "area_id": "area/fianarantsoa_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9a0cd944-553c-4c3b-9d12-156cd3a2d39a",
       "role": "member"
     },
@@ -4499,7 +4483,7 @@
       "area_id": "area/analalava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/psd",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9c2cdc3e-6f30-4ef4-951a-ebfdf8ec3952",
       "role": "member"
     },
@@ -4507,7 +4491,7 @@
       "area_id": "area/besalampy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/les_as",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9ce0764b-d55f-49c7-8471-e42daeff41d7",
       "role": "member"
     },
@@ -4515,7 +4499,7 @@
       "area_id": "area/sainte_marie",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9da528da-86bf-4059-aca9-b8d722373bec",
       "role": "member"
     },
@@ -4523,7 +4507,7 @@
       "area_id": "area/antananarivo_v",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9dcbac2c-7ac0-454e-a2aa-bde7219900a7",
       "role": "member"
     },
@@ -4531,7 +4515,7 @@
       "area_id": "area/ambatomainty",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9f5a05ba-46b2-4693-9e41-742a7011eebb",
       "role": "member"
     },
@@ -4539,7 +4523,7 @@
       "area_id": "area/ambatondrazaka",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "9fac6272-92ee-4d47-8ebe-4023759a3518",
       "role": "member"
     },
@@ -4547,7 +4531,7 @@
       "area_id": "area/antananarivo_avaradrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "a181c9dd-b116-463a-8e06-5001c5d6e3c0",
       "role": "member"
     },
@@ -4555,23 +4539,23 @@
       "area_id": "area/arivonimamo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "a36a8141-25e6-4e85-88ac-0a731ab0e01b",
       "role": "member"
     },
     {
-      "area_id": "area/betioky_atsimo",
+      "area_id": "area/fandriana",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
-      "person_id": "a41230f6-3516-4582-ac49-e2af27014afb",
+      "on_behalf_of_id": "party/mapar",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "a37422b1-6847-4c74-b2b7-26babd586a31",
       "role": "member"
     },
     {
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "a6c6fe51-9992-4a90-a096-dfc039dcf466",
       "role": "member"
     },
@@ -4579,7 +4563,7 @@
       "area_id": "area/antananarivo_atsimondrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "a6f4035f-5a87-4f3e-b501-6701e5234200",
       "role": "member"
     },
@@ -4587,7 +4571,7 @@
       "area_id": "area/vohémar",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vpm-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "a896d8a5-32f8-49c3-8376-257e05a4cf3c",
       "role": "member"
     },
@@ -4595,7 +4579,7 @@
       "area_id": "area/antsalova",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ab275259-111a-48ec-9736-3cfe20d54bec",
       "role": "member"
     },
@@ -4603,7 +4587,7 @@
       "area_id": "area/fénérive_est",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ac13b08a-2a7c-4fee-b361-aa486046e7a3",
       "role": "member"
     },
@@ -4611,7 +4595,7 @@
       "area_id": "area/tsihombe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ae7ba839-5a98-408f-a1fa-46ff0069c912",
       "role": "member"
     },
@@ -4619,7 +4603,7 @@
       "area_id": "area/anosibe_an’ala",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ae9beca6-2f02-4ccb-8014-c3cb11cc7be0",
       "role": "member"
     },
@@ -4627,15 +4611,23 @@
       "area_id": "area/soalala",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "afddada8-5363-450d-8b19-41584d76305d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ampanihy_andrefana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar_ii",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "affa4d4c-3ebb-498b-bebb-4b1db0989dca",
       "role": "member"
     },
     {
       "area_id": "area/faratsiho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "b5ab4617-46ba-498c-b624-ee629ade8ca9",
       "role": "member"
     },
@@ -4643,7 +4635,7 @@
       "area_id": "area/sambava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "b738846f-87bc-42eb-b532-f1664fcec603",
       "role": "member"
     },
@@ -4651,7 +4643,7 @@
       "area_id": "area/vavatenina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "b9e6cb73-cded-4517-99cc-82e2aedfddb7",
       "role": "member"
     },
@@ -4659,7 +4651,7 @@
       "area_id": "area/antananarivo_iv",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "bae8ba28-4dc2-416d-a307-378c410aa61b",
       "role": "member"
     },
@@ -4667,7 +4659,7 @@
       "area_id": "area/manajary",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "bc081910-e080-4ed1-acc3-27c519073932",
       "role": "member"
     },
@@ -4675,7 +4667,7 @@
       "area_id": "area/antsiranana_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c0fb2d2a-53f7-42a9-9d34-3b3a0c51548c",
       "role": "member"
     },
@@ -4683,7 +4675,7 @@
       "area_id": "area/andapa",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c19d4c16-bd7e-4701-ba46-605377adb239",
       "role": "member"
     },
@@ -4691,7 +4683,7 @@
       "area_id": "area/moramanga",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c44e3e6f-5a0c-4d61-865d-b68912fb7e0a",
       "role": "member"
     },
@@ -4699,23 +4691,15 @@
       "area_id": "area/fianarantsoa_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c742a1d9-641f-4976-8ef0-a70ca867d629",
-      "role": "member"
-    },
-    {
-      "area_id": "area/fandriana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
-      "person_id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
       "role": "member"
     },
     {
       "area_id": "area/manakara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c9e6eee0-3049-43ba-87b7-89f634867b80",
       "role": "member"
     },
@@ -4723,7 +4707,7 @@
       "area_id": "area/kandreho",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ca0a58c5-345f-46da-a8af-ad2577a4f2af",
       "role": "member"
     },
@@ -4731,7 +4715,7 @@
       "area_id": "area/sambava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "cb79604b-c24b-46ca-8d24-9f46238aaa54",
       "role": "member"
     },
@@ -4739,7 +4723,7 @@
       "area_id": "area/andramasina",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ce9b3bdf-1209-4ddc-8d22-058b8a2ef181",
       "role": "member"
     },
@@ -4747,7 +4731,7 @@
       "area_id": "area/antananarivo_iv",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ced5d0df-1f80-40f5-888c-87df03bfd6ab",
       "role": "member"
     },
@@ -4755,7 +4739,7 @@
       "area_id": "area/ambato_boeny",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "cf412e9a-7571-4244-88c8-12493fdc0ad6",
       "role": "member"
     },
@@ -4763,7 +4747,7 @@
       "area_id": "area/tsiroanomandidy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "cfcd49c7-1559-4096-81f0-52f7f7c484ce",
       "role": "member"
     },
@@ -4771,7 +4755,7 @@
       "area_id": "area/benenitra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d0d7bcfb-aa77-4819-9d71-6f5e5b1544c4",
       "role": "member"
     },
@@ -4779,7 +4763,7 @@
       "area_id": "area/maevatanàna",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d1f3a8d5-bc9d-498e-84e2-cdc424921fd8",
       "role": "member"
     },
@@ -4787,7 +4771,7 @@
       "area_id": "area/ambatofinandrahana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d1f3af71-741b-4ff8-b671-cc443a07c502",
       "role": "member"
     },
@@ -4795,7 +4779,7 @@
       "area_id": "area/mandoto",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d2131185-c510-4f4e-9672-9ccccf786c2e",
       "role": "member"
     },
@@ -4803,7 +4787,7 @@
       "area_id": "area/antanambao_manampotsy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d31f2210-2139-47ec-80fa-58c9622dbeb2",
       "role": "member"
     },
@@ -4811,7 +4795,7 @@
       "area_id": "area/fenoarivo_be",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d34eaa8d-424a-4963-9416-9db0b10c9ee3",
       "role": "member"
     },
@@ -4819,7 +4803,7 @@
       "area_id": "area/manja",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d4fcca56-27a6-4dc5-8668-2759563a324a",
       "role": "member"
     },
@@ -4827,7 +4811,7 @@
       "area_id": "area/maroantsetra",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d693abe7-2343-460b-bb1a-4efbe47f0347",
       "role": "member"
     },
@@ -4835,7 +4819,7 @@
       "area_id": "area/ambilobe",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d9127fe4-33e1-4d47-bbdd-723135a035d6",
       "role": "member"
     },
@@ -4843,7 +4827,7 @@
       "area_id": "area/antananarivo_iii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d94215ca-74f6-47dc-bab0-f31c840d80c6",
       "role": "member"
     },
@@ -4851,7 +4835,7 @@
       "area_id": "area/manjakandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "d97bf579-6584-4662-ab41-d28276a72757",
       "role": "member"
     },
@@ -4859,7 +4843,7 @@
       "area_id": "area/iakora",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/hasin’i_madagasikara",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "e06596ed-402d-4754-8252-23963162f593",
       "role": "member"
     },
@@ -4867,7 +4851,7 @@
       "area_id": "area/antananarivo_avaradrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mouvance_ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "e780f41f-2634-44e9-a71a-c7296238961c",
       "role": "member"
     },
@@ -4875,7 +4859,7 @@
       "area_id": "area/ambohidratrimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ebefe696-8113-454c-8f92-549b305aff28",
       "role": "member"
     },
@@ -4883,7 +4867,7 @@
       "area_id": "area/taolagnaro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ee73f61e-7c62-4bbc-a279-c2282a69174b",
       "role": "member"
     },
@@ -4891,7 +4875,7 @@
       "area_id": "area/toliary_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "ef47aac8-a23d-4c21-aac7-53996107c891",
       "role": "member"
     },
@@ -4899,7 +4883,7 @@
       "area_id": "area/taolagnaro",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f07f8b30-987c-4d1b-910f-ccffa56d4114",
       "role": "member"
     },
@@ -4907,7 +4891,7 @@
       "area_id": "area/vohipeno",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f234d367-0506-42f5-89a8-dc09b451bbcf",
       "role": "member"
     },
@@ -4915,7 +4899,7 @@
       "area_id": "area/antalaha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f3618228-e2cd-4e4c-8d89-679a7126f8ac",
       "role": "member"
     },
@@ -4923,7 +4907,7 @@
       "area_id": "area/manakara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f3807b81-7991-4b43-91da-fc21e039226b",
       "role": "member"
     },
@@ -4931,7 +4915,7 @@
       "area_id": "area/bealanana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f5155a20-eb2f-4f4c-8ba4-03f600c16f3e",
       "role": "member"
     },
@@ -4939,7 +4923,7 @@
       "area_id": "area/ambovombe_androy",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "f8bb8fcb-21ce-47f2-887f-4835e9f689ba",
       "role": "member"
     },
@@ -4947,7 +4931,7 @@
       "area_id": "area/antananarivo_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fae95fda-e47a-42c1-a582-0ce2deb25528",
       "role": "member"
     },
@@ -4955,7 +4939,7 @@
       "area_id": "area/antananarivo_vi",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fbb9ef08-2815-4f18-bae2-ce7c6175b7e6",
       "role": "member"
     },
@@ -4963,7 +4947,7 @@
       "area_id": "area/sakaraha",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fc140e7f-7b38-4ec4-a317-658e2496b8ed",
       "role": "member"
     },
@@ -4971,7 +4955,7 @@
       "area_id": "area/soavinandriana",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fc878ee8-899e-4b96-be07-4d5ed3629dfa",
       "role": "member"
     },
@@ -4979,7 +4963,7 @@
       "area_id": "area/morondava",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fe740abc-363e-4fee-989c-26e200452aa5",
       "role": "member"
     },
@@ -4987,7 +4971,7 @@
       "area_id": "area/bekily",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mts",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "fff9b0cd-74ed-4758-83b9-aa2f87e9b3b5",
       "role": "member"
     }
@@ -5075,7 +5059,7 @@
       "end_date": "2018",
       "id": "term/2013",
       "name": "2013-2018",
-      "organization_id": "legislature",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "start_date": "2013-12-20"
     }
   ],
