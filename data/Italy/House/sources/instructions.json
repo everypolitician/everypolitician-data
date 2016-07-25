@@ -76,6 +76,21 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/italy-twitter-list",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "person",
+      "source": "https://twitter.com/Montecitorio/lists/deputati",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
