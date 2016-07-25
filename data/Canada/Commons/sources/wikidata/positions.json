@@ -97,7 +97,7 @@
     {
       "id": "Q177645",
       "label": "Mayor of Montreal",
-      "title": "Mayor of Montreal (of Montreal City Council)",
+      "title": "Mayor of Montreal",
       "description": "mayor of the city of Montreal, Quebec, Canada",
       "qualifiers": {
         "P580": "2013-11-03",
@@ -402,7 +402,13 @@
       "id": "Q3251775",
       "label": "Minister of the Environment",
       "title": "Minister of the Environment",
-      "description": "in Canada"
+      "description": "in Canada",
+      "qualifiers": {
+        "P580": "2013-07-15",
+        "P582": "2015-11-04",
+        "P1365": "Peter Kent",
+        "P1366": "Catherine McKenna"
+      }
     }
   ],
   "Q3517031": [
@@ -585,7 +591,7 @@
     {
       "id": "Q5261098",
       "label": "deputy leader",
-      "title": "deputy leader (of New Democratic Party)",
+      "title": "deputy leader",
       "description": "second-in-command of a political party",
       "qualifiers": {
         "P642": "New Democratic Party",
@@ -616,7 +622,7 @@
     {
       "id": "Q1553195",
       "label": "party leader",
-      "title": "party leader (of New Democratic Party)",
+      "title": "party leader",
       "description": "leading official of a political party",
       "qualifiers": {
         "P642": "New Democratic Party",
@@ -637,7 +643,7 @@
     {
       "id": "Q83307",
       "label": "minister",
-      "title": "minister (of Ministry of Sustainable Development, Environment and Parks)",
+      "title": "minister",
       "description": "politician who holds significant public office in a national or regional government",
       "qualifiers": {
         "P642": "Ministry of Sustainable Development, Environment and Parks",
@@ -1262,6 +1268,16 @@
   ],
   "Q3441480": [
     {
+      "id": "Q2506651",
+      "label": "Leader of the Official Opposition",
+      "title": "Leader of the Official Opposition",
+      "description": "position in the Parliament of Canada",
+      "qualifiers": {
+        "P580": "2015-11-05",
+        "P582": ""
+      }
+    },
+    {
       "id": "Q3251800",
       "label": "Minister of Health",
       "title": "Minister of Health",
@@ -1278,16 +1294,6 @@
       "qualifiers": {
         "P580": "2010-01-19",
         "P582": "2013-07-15"
-      }
-    },
-    {
-      "id": "Q2506651",
-      "label": "Leader of the Official Opposition",
-      "title": "Leader of the Official Opposition",
-      "description": "position in the Parliament of Canada",
-      "qualifiers": {
-        "P580": "2015-11-05",
-        "P582": ""
       }
     },
     {
@@ -1945,9 +1951,9 @@
       "description": "representative elected by the canadian voters"
     },
     {
-      "id": "Q3251800",
-      "label": "Minister of Health",
-      "title": "Minister of Health",
+      "id": "Q3251775",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
       "description": "in Canada"
     }
   ],
@@ -2040,16 +2046,6 @@
   ],
   "Q206": [
     {
-      "id": "Q15964890",
-      "label": "member of the House of Commons of Canada",
-      "title": "member of the House of Commons of Canada",
-      "description": "representative elected by the canadian voters",
-      "qualifiers": {
-        "P768": "Calgary Southwest",
-        "P580": "2002-06-28"
-      }
-    },
-    {
       "id": "Q839078",
       "label": "Prime Minister of Canada",
       "title": "Prime Minister of Canada",
@@ -2058,6 +2054,16 @@
         "P580": "2006-02-06",
         "P805": "Premiership of Stephen Harper",
         "P1365": "Paul Martin"
+      }
+    },
+    {
+      "id": "Q15964890",
+      "label": "member of the House of Commons of Canada",
+      "title": "member of the House of Commons of Canada",
+      "description": "representative elected by the canadian voters",
+      "qualifiers": {
+        "P768": "Calgary Southwest",
+        "P580": "2002-06-28"
       }
     },
     {
@@ -2280,7 +2286,7 @@
     {
       "id": "Q30185",
       "label": "mayor",
-      "title": "mayor (of Conception Bay South)",
+      "title": "mayor",
       "description": "head of municipal government such as a town or city",
       "qualifiers": {
         "P642": "Conception Bay South",
@@ -3732,7 +3738,7 @@
     {
       "id": "Q1018894",
       "label": "Bâtonnier",
-      "title": "Bâtonnier (of Bar of Quebec)",
+      "title": "Bâtonnier",
       "qualifiers": {
         "P642": "Bar of Quebec",
         "P580": "1992",
@@ -3751,7 +3757,7 @@
     {
       "id": "Q3477319",
       "label": "Parliamentary Secretary",
-      "title": "Parliamentary Secretary (of Minister of Foreign Affairs of Canada)",
+      "title": "Parliamentary Secretary",
       "description": "in Canada",
       "qualifiers": {
         "P642": "Minister of Foreign Affairs of Canada",
