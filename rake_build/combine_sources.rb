@@ -371,10 +371,10 @@ namespace :merge_sources do
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
       out << all_headers
-      merged_rows.each { |r|
+      merged_rows.each do |r|
         r[:email].gsub!("mailto:","")
         out << all_headers.map { |header| r[header.to_sym] } 
-      }
+      end
     end
 
   end
