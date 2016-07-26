@@ -1763,12 +1763,6 @@
   ],
   "Q479171": [
     {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
-    },
-    {
       "id": "Q2484309",
       "label": "Secretary of State for the Home Department",
       "title": "Secretary of State for the Home Department",
@@ -1777,6 +1771,12 @@
         "P580": "2016-07-13",
         "P1365": "Theresa May"
       }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom"
     },
     {
       "id": "Q7444345",
@@ -2996,7 +2996,7 @@
     {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom (of Cambridge)",
+      "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P642": "Cambridge",
@@ -3455,6 +3455,16 @@
   ],
   "Q180589": [
     {
+      "id": "Q1371091",
+      "label": "Secretary of State for Foreign and Commonwealth Affairs",
+      "title": "Secretary of State for Foreign and Commonwealth Affairs",
+      "description": "United Kingdom government cabinet minister heading the Foreign and Commonwealth Office",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": "Philip Hammond"
+      }
+    },
+    {
       "id": "Q38931",
       "label": "Mayor of London",
       "title": "Mayor of London",
@@ -3473,16 +3483,6 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2001-06-09"
-      }
-    },
-    {
-      "id": "Q1371091",
-      "label": "Secretary of State for Foreign and Commonwealth Affairs",
-      "title": "Secretary of State for Foreign and Commonwealth Affairs",
-      "description": "United Kingdom government cabinet minister heading the Foreign and Commonwealth Office",
-      "qualifiers": {
-        "P580": "2016-07-13",
-        "P1365": "Philip Hammond"
       }
     }
   ],
@@ -3962,6 +3962,18 @@
       "qualifiers": {
         "P580": "2016-07-14",
         "P1365": "Greg Clark"
+      }
+    },
+    {
+      "id": "Q3858507",
+      "label": "Secretary of State for Business, Innovation and Skills",
+      "title": "Secretary of State for Business, Innovation and Skills",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2015-05-11",
+        "P582": "2016-07-14",
+        "P1365": "Vince Cable",
+        "P1366": "Greg Clark"
       }
     }
   ],
@@ -6899,7 +6911,7 @@
     {
       "id": "Q140686",
       "label": "chairperson",
-      "title": "chairperson (of Fabian Society)",
+      "title": "chairperson",
       "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "Fabian Society"
@@ -8006,7 +8018,13 @@
       "id": "Q1369302",
       "label": "Secretary of State for Northern Ireland",
       "title": "Secretary of State for Northern Ireland",
-      "description": "United Kingdom government cabinet minister"
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2012-09-04",
+        "P582": "2016-07-14",
+        "P1365": "Owen Paterson",
+        "P1366": "James Brokenshire"
+      }
     }
   ],
   "Q333474": [
@@ -11711,6 +11729,16 @@
   ],
   "Q750091": [
     {
+      "id": "Q14984399",
+      "label": "Secretary of State for Environment, Food and Rural Affairs",
+      "title": "Secretary of State for Environment, Food and Rural Affairs",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2016-07-14",
+        "P1365": "Elizabeth Truss"
+      }
+    },
+    {
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
@@ -11736,16 +11764,6 @@
       "title": "Minister of State for Energy",
       "qualifiers": {
         "P580": "2015-05-11"
-      }
-    },
-    {
-      "id": "Q14984399",
-      "label": "Secretary of State for Environment, Food and Rural Affairs",
-      "title": "Secretary of State for Environment, Food and Rural Affairs",
-      "description": "United Kingdom government cabinet minister",
-      "qualifiers": {
-        "P580": "2016-07-14",
-        "P1365": "Elizabeth Truss"
       }
     }
   ],
@@ -13786,6 +13804,16 @@
   ],
   "Q300023": [
     {
+      "id": "Q25860233",
+      "label": "Secretary of State for Exiting the European Union",
+      "title": "Secretary of State for Exiting the European Union",
+      "description": "secretary of state responsible for the United Kingdom's withdrawal from the European Union",
+      "qualifiers": {
+        "P580": "2016-07-13",
+        "P1365": ""
+      }
+    },
+    {
       "id": "Q4976591",
       "label": "Shadow Home Secretary",
       "title": "Shadow Home Secretary",
@@ -13836,16 +13864,6 @@
         "P582": "1997-05-02",
         "P1365": "David Heathcoat-Amory",
         "P1366": "Doug Henderson"
-      }
-    },
-    {
-      "id": "Q25860233",
-      "label": "Secretary of State for Exiting the European Union",
-      "title": "Secretary of State for Exiting the European Union",
-      "description": "secretary of state responsible for the United Kingdom's withdrawal from the European Union",
-      "qualifiers": {
-        "P580": "2016-07-13",
-        "P1365": ""
       }
     }
   ],
@@ -16732,12 +16750,6 @@
   ],
   "Q265140": [
     {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
-    },
-    {
       "id": "Q1369302",
       "label": "Secretary of State for Northern Ireland",
       "title": "Secretary of State for Northern Ireland",
@@ -16748,6 +16760,17 @@
         "P1366": "",
         "P582": ""
       }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q17110513",
+      "label": "Minister for Security and Immigration",
+      "title": "Minister for Security and Immigration"
     }
   ],
   "Q4761286": [
@@ -16809,6 +16832,15 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    },
+    {
+      "id": "Q3858507",
+      "label": "Secretary of State for Business, Innovation and Skills",
+      "title": "Secretary of State for Business, Innovation and Skills",
+      "description": "United Kingdom government cabinet minister",
+      "qualifiers": {
+        "P580": "2016-07-14"
+      }
     }
   ],
   "Q285183": [
@@ -17118,6 +17150,16 @@
   ],
   "Q271889": [
     {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1970-06-18",
+        "P1365": "Antony Gardner"
+      }
+    },
+    {
       "id": "Q1937160",
       "label": "minister without portfolio",
       "title": "minister without portfolio",
@@ -17127,16 +17169,6 @@
         "P582": "2014-07-14",
         "P1365": "Sayeeda Warsi, Baroness Warsi",
         "P1366": "Robert Halfon"
-      }
-    },
-    {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom",
-      "qualifiers": {
-        "P580": "1970-06-18",
-        "P1365": "Antony Gardner"
       }
     },
     {
@@ -18945,7 +18977,7 @@
     {
       "id": "Q140686",
       "label": "chairperson",
-      "title": "chairperson (of Better Together)",
+      "title": "chairperson",
       "description": "highest officer of an organized group",
       "qualifiers": {
         "P580": "2012-06-01",
@@ -23495,13 +23527,14 @@
   ],
   "Q736160": [
     {
-      "id": "Q2982287",
-      "label": "Department for Transport",
-      "title": "Department for Transport",
-      "description": "United Kingdom government ministerial department responsible for the English transport network",
+      "id": "Q15109454",
+      "label": "Minister of State for Transport",
+      "title": "Minister of State for Transport",
       "qualifiers": {
         "P580": "2003-06-13",
-        "P582": "2004-09-10"
+        "P582": "2004-09-10",
+        "P1365": "John Spellar",
+        "P1366": "Tony McNulty"
       }
     },
     {
@@ -23537,6 +23570,12 @@
         "P1365": "Elizabeth Symons, Baroness Symons of Vernham Dean",
         "P1366": "Bill Rammell"
       }
+    },
+    {
+      "id": "Q25991521",
+      "label": "Minister of State for Higher Education",
+      "title": "Minister of State for Higher Education",
+      "description": "UK minister of state"
     }
   ],
   "Q334293": [
