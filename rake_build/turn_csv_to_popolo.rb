@@ -1,4 +1,3 @@
-
 desc "Generate merged.json"
 task :whittle => [:clobber, 'sources/merged.json']
 
@@ -9,6 +8,13 @@ namespace :whittle do
 
   task :load => 'verify:check_data' do
     @json = Popolo::CSV.new('sources/merged.csv').data
+    persons = @json[:persons].map do |person|
+      if person[:email]
+        person[:email].gsub!('mailto:','')
+      end
+      person
+    end
+    @json[:persons] = persons
   end
 
   task :meta_info => :load do

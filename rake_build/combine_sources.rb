@@ -366,7 +366,9 @@ namespace :merge_sources do
     end
 
     # No matter what 'id' columns we had, use the UUID as the final ID
-    merged_rows.each { |row| row[:id] = row[:uuid] }
+    merged_rows.each do |row| 
+      row[:id] = row[:uuid]
+    end
 
     # Then write it all out
     CSV.open("sources/merged.csv", "w") do |out|
