@@ -86,6 +86,7 @@
     "dates": [
       "2011-10-09"
     ],
+    "followed_by": "Polish parliamentary election, 2015",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Donald Tusk"
@@ -465,6 +466,8 @@
     "dates": [
       "1997-09-21"
     ],
+    "follows": "Polish parliamentary election, 1993",
+    "followed_by": "Polish parliamentary election, 2001",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Jerzy Buzek"
@@ -567,8 +570,10 @@
       }
     ],
     "dates": [
-      "1993"
+      "1993-09-19"
     ],
+    "follows": "Polish parliamentary election, 1991",
+    "followed_by": "Polish parliamentary election, 1997",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Waldemar Pawlak"
@@ -606,6 +611,8 @@
     "dates": [
       "1965"
     ],
+    "follows": "1961 Polish legislative election",
+    "followed_by": "Polish legislative election, 1969",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Józef Cyrankiewicz"
@@ -695,7 +702,9 @@
     ],
     "dates": [
       "1969"
-    ]
+    ],
+    "follows": "Polish legislative election, 1965",
+    "followed_by": "1972 Polish legislative election"
   },
   "Q2355470": {
     "identifiers": [
@@ -764,6 +773,7 @@
     "dates": [
       "1989"
     ],
+    "follows": "1985 Polish legislative election",
     "followed_by": "Polish parliamentary election, 1991"
   },
   "Q2536330": {
@@ -818,6 +828,7 @@
     "dates": [
       "1922"
     ],
+    "follows": "1919 Polish legislative election",
     "followed_by": "1928 Polish legislative election"
   },
   "Q2608105": {
@@ -885,8 +896,9 @@
       }
     ],
     "dates": [
-      "1991"
+      "1991-10-27"
     ],
+    "follows": "Polish legislative election, 1989",
     "followed_by": "Polish parliamentary election, 1993",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
@@ -924,7 +936,9 @@
     ],
     "dates": [
       "1935"
-    ]
+    ],
+    "follows": "1930 Polish legislative election",
+    "followed_by": "1938 Polish legislative election"
   },
   "Q3051838": {
     "identifiers": [
@@ -958,6 +972,8 @@
     "dates": [
       "1961-04-16"
     ],
+    "follows": "1957 Polish legislative election",
+    "followed_by": "Polish legislative election, 1965",
     "office": "Prime Minister of Poland",
     "successful_candidates": [
       "Józef Cyrankiewicz"
@@ -999,7 +1015,9 @@
     ],
     "dates": [
       "1985"
-    ]
+    ],
+    "follows": "1980 Polish legislative election",
+    "followed_by": "Polish legislative election, 1989"
   },
   "Q3051853": {
     "identifiers": [
@@ -1075,7 +1093,9 @@
     ],
     "dates": [
       "1976-03-21"
-    ]
+    ],
+    "follows": "1972 Polish legislative election",
+    "followed_by": "1980 Polish legislative election"
   },
   "Q3051869": {
     "identifiers": [
@@ -1108,7 +1128,9 @@
     ],
     "dates": [
       "1972-03-19"
-    ]
+    ],
+    "follows": "Polish legislative election, 1969",
+    "followed_by": "1976 Polish legislative election"
   },
   "Q3051880": {
     "identifiers": [
@@ -1178,7 +1200,9 @@
     ],
     "dates": [
       "1980"
-    ]
+    ],
+    "follows": "1976 Polish legislative election",
+    "followed_by": "1985 Polish legislative election"
   },
   "Q3053068": {
     "identifiers": [
@@ -1217,6 +1241,7 @@
     "dates": [
       "1930"
     ],
+    "follows": "1928 Polish legislative election",
     "followed_by": "1935 Polish legislative election"
   },
   "Q3054954": {
@@ -1414,7 +1439,31 @@
     "dates": [
       "2015-10-25"
     ],
+    "follows": "Polish parliamentary election, 2011",
     "followed_by": "Next Polish parliamentary election",
     "office": "Prime Minister of Poland"
+  },
+  "Q23132741": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q23132741"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Next Polish parliamentary election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Polen 2019",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2019"
+    ]
   }
 }
