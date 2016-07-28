@@ -1398,6 +1398,12 @@
       "label": "member of the Chamber of Representatives of Belgium",
       "title": "member of the Chamber of Representatives of Belgium",
       "description": "member of the lower house of the federal parliament of Belgium"
+    },
+    {
+      "id": "Q24199589",
+      "label": "Minister of Defence",
+      "title": "Minister of Defence",
+      "description": "defence minister of Belgium"
     }
   ],
   "Q2884009": [
@@ -1451,7 +1457,19 @@
       "id": "Q24199589",
       "label": "Minister of Defence",
       "title": "Minister of Defence",
-      "description": "defence minister of Belgium"
+      "description": "defence minister of Belgium",
+      "qualifiers": {
+        "P580": "2007-12-21",
+        "P582": "2014-10-11",
+        "P1365": "André Flahaut",
+        "P1366": "Steven Vandeput"
+      }
+    },
+    {
+      "id": "Q877955",
+      "label": "deputy prime minister",
+      "title": "deputy prime minister",
+      "description": "civil servant position"
     }
   ],
   "Q15992": [
