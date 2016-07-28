@@ -82,12 +82,12 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/italy-twitter-list",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name as temp_name, twitter, image FROM data ORDER BY id"
       },
       "type": "person",
       "source": "https://twitter.com/Montecitorio/lists/deputati",
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "temp_name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
