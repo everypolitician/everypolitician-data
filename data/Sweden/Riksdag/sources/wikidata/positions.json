@@ -1020,7 +1020,13 @@
       "id": "Q920108",
       "label": "Minister for Defence",
       "title": "Minister for Defence",
-      "description": "Swedish cabinet minister"
+      "description": "Swedish cabinet minister",
+      "qualifiers": {
+        "P580": "2007-09-05",
+        "P582": "2012-03-29",
+        "P1365": "Mikael Odenberg",
+        "P1366": "Catharina Elmsäter-Svärd"
+      }
     },
     {
       "id": "Q776570",
@@ -3341,7 +3347,7 @@
     {
       "id": "Q1553195",
       "label": "party leader",
-      "title": "party leader (of Centre Party)",
+      "title": "party leader",
       "description": "leading official of a political party",
       "qualifiers": {
         "P642": "Centre Party",
@@ -7478,6 +7484,12 @@
       "label": "Member of the Riksdag",
       "title": "Member of the Riksdag",
       "description": "Member of the Swedish parlament"
+    },
+    {
+      "id": "Q920108",
+      "label": "Minister for Defence",
+      "title": "Minister for Defence",
+      "description": "Swedish cabinet minister"
     }
   ],
   "Q6238347": [
@@ -8454,7 +8466,7 @@
     {
       "id": "Q140686",
       "label": "chairperson",
-      "title": "chairperson (of IF Metall)",
+      "title": "chairperson",
       "description": "highest officer of an organized group",
       "qualifiers": {
         "P642": "IF Metall",
@@ -8478,7 +8490,7 @@
     {
       "id": "Q1553195",
       "label": "party leader",
-      "title": "party leader (of Swedish Social Democratic Party)",
+      "title": "party leader",
       "description": "leading official of a political party",
       "qualifiers": {
         "P642": "Swedish Social Democratic Party",
@@ -8532,7 +8544,7 @@
     {
       "id": "Q10655178",
       "label": "Member of the Riksdag",
-      "title": "Member of the Riksdag (of Q10680603)",
+      "title": "Member of the Riksdag",
       "description": "Member of the Swedish parlament",
       "qualifiers": {
         "P642": "Q10680603",
@@ -8825,7 +8837,7 @@
     {
       "id": "Q10676649",
       "label": "Q10676649",
-      "title": "Q10676649 (of Green Party)",
+      "title": "Q10676649",
       "qualifiers": {
         "P642": "Green Party",
         "P580": "2011"
