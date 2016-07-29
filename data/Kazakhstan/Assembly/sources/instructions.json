@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/kazakhstan-mazhilis",
-        "query": "SELECT *, 6 AS term FROM data ORDER BY id"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.parlam.kz",
       "type": "membership"
