@@ -14,7 +14,7 @@
       "file": "morph/official-6.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/kazakh-mazhilis",
+        "scraper": "everypolitician-scrapers/kazakhstan-mazhilis",
         "query": "SELECT *, 6 AS term FROM data ORDER BY id"
       },
       "source": "http://www.parlam.kz",
