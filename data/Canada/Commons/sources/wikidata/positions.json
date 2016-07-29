@@ -402,7 +402,13 @@
       "id": "Q3251775",
       "label": "Minister of the Environment",
       "title": "Minister of the Environment",
-      "description": "in Canada"
+      "description": "in Canada",
+      "qualifiers": {
+        "P580": "2013-07-15",
+        "P582": "2015-11-04",
+        "P1365": "Peter Kent",
+        "P1366": "Catherine McKenna"
+      }
     }
   ],
   "Q3517031": [
@@ -1262,6 +1268,16 @@
   ],
   "Q3441480": [
     {
+      "id": "Q2506651",
+      "label": "Leader of the Official Opposition",
+      "title": "Leader of the Official Opposition",
+      "description": "position in the Parliament of Canada",
+      "qualifiers": {
+        "P580": "2015-11-05",
+        "P582": ""
+      }
+    },
+    {
       "id": "Q3251800",
       "label": "Minister of Health",
       "title": "Minister of Health",
@@ -1278,16 +1294,6 @@
       "qualifiers": {
         "P580": "2010-01-19",
         "P582": "2013-07-15"
-      }
-    },
-    {
-      "id": "Q2506651",
-      "label": "Leader of the Official Opposition",
-      "title": "Leader of the Official Opposition",
-      "description": "position in the Parliament of Canada",
-      "qualifiers": {
-        "P580": "2015-11-05",
-        "P582": ""
       }
     },
     {
@@ -1945,9 +1951,9 @@
       "description": "representative elected by the canadian voters"
     },
     {
-      "id": "Q3251800",
-      "label": "Minister of Health",
-      "title": "Minister of Health",
+      "id": "Q3251775",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
       "description": "in Canada"
     }
   ],
@@ -2040,16 +2046,6 @@
   ],
   "Q206": [
     {
-      "id": "Q15964890",
-      "label": "member of the House of Commons of Canada",
-      "title": "member of the House of Commons of Canada",
-      "description": "representative elected by the canadian voters",
-      "qualifiers": {
-        "P768": "Calgary Southwest",
-        "P580": "2002-06-28"
-      }
-    },
-    {
       "id": "Q839078",
       "label": "Prime Minister of Canada",
       "title": "Prime Minister of Canada",
@@ -2058,6 +2054,16 @@
         "P580": "2006-02-06",
         "P805": "Premiership of Stephen Harper",
         "P1365": "Paul Martin"
+      }
+    },
+    {
+      "id": "Q15964890",
+      "label": "member of the House of Commons of Canada",
+      "title": "member of the House of Commons of Canada",
+      "description": "representative elected by the canadian voters",
+      "qualifiers": {
+        "P768": "Calgary Southwest",
+        "P580": "2002-06-28"
       }
     },
     {
@@ -3709,9 +3715,10 @@
       }
     },
     {
-      "id": "Q7444351",
-      "label": "Secretary of State for Latin America and Africa",
-      "title": "Secretary of State for Latin America and Africa",
+      "id": "Q7444329",
+      "label": "Secretary of State",
+      "title": "Secretary of State",
+      "description": "appointed position with the government of Canada",
       "qualifiers": {
         "P580": "2002-01-15",
         "P582": "2003-12-11"
