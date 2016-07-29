@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/kazakh-mazhilis",
-        "query": "SELECT *, 6 AS term FROM data"
+        "query": "SELECT *, 6 AS term FROM data ORDER BY id"
       },
       "source": "http://www.parlam.kz",
       "type": "membership"
