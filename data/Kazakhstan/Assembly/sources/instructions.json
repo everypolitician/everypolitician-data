@@ -1,11 +1,21 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official-5.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/kazakh-mazhilis",
         "query": "SELECT *, 5 AS term FROM data"
+      },
+      "source": "http://www.parlam.kz",
+      "type": "membership"
+    },
+    {
+      "file": "morph/official-6.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/kazakh-mazhilis",
+        "query": "SELECT *, 6 AS term FROM data"
       },
       "source": "http://www.parlam.kz",
       "type": "membership"
