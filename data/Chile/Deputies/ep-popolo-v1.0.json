@@ -21991,6 +21991,16 @@
   "organizations": [
     {
       "classification": "party",
+      "id": "AMPL",
+      "name": "Amplitud"
+    },
+    {
+      "classification": "party",
+      "id": "EVOP",
+      "name": "Evopolis"
+    },
+    {
+      "classification": "party",
       "id": "IND",
       "identifiers": [
         {
@@ -23971,6 +23981,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "REVD",
+      "name": "Revolución Democrática"
     },
     {
       "classification": "party",
@@ -27933,7 +27948,7 @@
     {
       "area_id": "area/37",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "IC",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "person_id": "9316ee4e-352d-4cfe-a174-b048e31f1eff",
       "role": "member"
@@ -28910,7 +28925,7 @@
     {
       "area_id": "area/13",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "AMPL",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "person_id": "b56b2a5b-c09e-41ee-9100-c4e98f5220a3",
       "role": "member"
@@ -29431,7 +29446,7 @@
     {
       "area_id": "area/22",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "REVD",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "person_id": "ce08dcc3-65ad-4f1e-baf5-07ee0e5a3508",
       "role": "member"
@@ -30326,7 +30341,7 @@
     {
       "area_id": "area/28",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "AMPL",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "person_id": "f1c2332a-b811-4e04-b335-11c99af88878",
       "role": "member"
@@ -30553,7 +30568,7 @@
     {
       "area_id": "area/22",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "IND",
+      "on_behalf_of_id": "EVOP",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "person_id": "f8f6d2d4-46b6-488c-ad75-cef883b2b64b",
       "role": "member"
