@@ -275,13 +275,42 @@
     {
       "id": "Q6865904",
       "label": "Minister for Justice and Equality",
-      "title": "Minister for Justice and Equality"
+      "title": "Minister for Justice and Equality",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2014-05-07",
+        "P1365": "Brendan Smith",
+        "P1366": "Frances Fitzgerald"
+      }
     },
     {
       "id": "Q654291",
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
-      "description": "member of the Irish Parliament"
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "1981-06",
+        "P582": "2002-05"
+      }
+    },
+    {
+      "id": "Q6865781",
+      "label": "Minister for Defence",
+      "title": "Minister for Defence",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2014-05-07"
+      }
+    },
+    {
+      "id": "Q654291",
+      "label": "Deputy to the Dáil",
+      "title": "Deputy to the Dáil",
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "2007-05",
+        "P582": "2016-02"
+      }
     }
   ],
   "Q6405442": [
@@ -847,7 +876,12 @@
       "id": "Q654291",
       "label": "Deputy to the Dáil",
       "title": "Deputy to the Dáil",
-      "description": "member of the Irish Parliament"
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P768": "Dublin North–West",
+        "P580": "2011",
+        "P582": "2016"
+      }
     }
   ],
   "Q5085220": [
