@@ -619,6 +619,14 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q4349014": [
+    {
+      "id": "Q2516426",
+      "label": "Ministry of Transport",
+      "title": "Ministry of Transport",
+      "description": "ministry or department or other government agency responsible for transport"
+    }
+  ],
   "Q5489994": [
     {
       "id": "Q17592486",
@@ -1469,7 +1477,13 @@
       "id": "Q15934457",
       "label": "Minister of Transport",
       "title": "Minister of Transport",
-      "description": "in Finland"
+      "description": "in Finland",
+      "qualifiers": {
+        "P580": "2011-06-22",
+        "P582": "2014-04-24",
+        "P1365": "Anu Vehviläinen",
+        "P1366": "Henna Virkkunen"
+      }
     }
   ],
   "Q503143": [
