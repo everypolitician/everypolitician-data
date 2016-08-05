@@ -1,3 +1,4 @@
+require_relative '../lib/group_popolo'
 
 #-----------------------------------------------------------------------
 # Transform the results from generic CSV-to-Popolo into EP-Popolo
@@ -212,12 +213,7 @@ namespace :transform do
   task :group_wikidata => :load do
     instructions(:sources).find_all { |src| src[:type].to_s.downcase == 'group' }.each do |src|
       group_data = JSON.parse(File.read(src[:file]), symbolize_names: true)
-      @json[:organizations].select { |o| o[:classification] == 'party' }.each do |org|
-
-        # FIXME: This doesn't do a deep merge, so any nested arrays on 'org'
-        # will be clobbered if they appear in 'group_data'.
-        org.merge!(group_data.fetch(org[:id].sub(/^party\//, '').to_sym, {}))
-      end
+      GroupPopolo.new(@json).merge_group_data(group_data)
     end
   end
 
