@@ -107,7 +107,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-list-spain-congreso",
-        "query": "SELECT * FROM data"
+        "query": "SELECT id, name AS temp_name, twitter, image FROM data"
       },
       "type": "person",
       "source": [
@@ -115,7 +115,7 @@
         "https://twitter.com/Congreso_Es/lists/diputados-xi-legislatura"
       ],
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "temp_name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
