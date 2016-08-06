@@ -1,6 +1,15 @@
 {
   "posts": [
-
+    {
+      "id": null,
+      "label": "",
+      "organization_id": "legislature"
+    },
+    {
+      "id": "women's_representative",
+      "label": "Women's Representative",
+      "organization_id": "legislature"
+    }
   ],
   "persons": [
     {
@@ -9,6 +18,10 @@
         {
           "type": "email",
           "value": "ababumtumwa@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "AbabuNamwamba"
         }
       ],
       "email": "ababumtumwa@yahoo.com",
@@ -33,8 +46,18 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/c10c64c27e0606d1654b81b9bb482558_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AbabuNamwamba"
+        }
+      ],
       "name": "Ababu Namwamba",
       "other_names": [
+        {
+          "name": "Ababu Tawfiq Pius Namwamba",
+          "note": "alternate"
+        },
         {
           "name": "Pius Namwamba Ababu",
           "note": "alternate"
@@ -74,41 +97,15 @@
       ]
     },
     {
-      "gender": "male",
-      "id": "96462d5d-4141-499b-8797-4554bfac1d89",
-      "identifiers": [
-        {
-          "identifier": "abdi-noor-mohammed-ali",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13135",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/10/0c/100c009c5785534a97f51d681ab3ea0c.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/10/0c/100c009c5785534a97f51d681ab3ea0c.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/461011bcaf5b5e723e897c33f049f169_M.jpg"
-        }
-      ],
-      "name": "Abdi Noor Mohammed Ali",
-      "sort_name": "Ali, Abdi Noor Mohammed",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/abdi-noor-mohammed-ali/"
-        }
-      ]
-    },
-    {
       "birth_date": "1972-10-21",
       "contact_details": [
         {
           "type": "email",
           "value": "abdikadir25@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "HonAbdiK"
         }
       ],
       "email": "abdikadir25@yahoo.com",
@@ -131,6 +128,16 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/471bd07fdaa7b040f7ab8b2a13f8f35b_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Abdikadir-Omar-Aden-Abdi-K-403286473036697"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HonAbdiK"
         }
       ],
       "name": "Abdikadir Omar Aden",
@@ -302,6 +309,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/0ef95987526970d668cbb7995fe36b10_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AbdullahiJaldesaBanticha/info"
+        }
+      ],
       "name": "Abdullahi Jaldesa Banticha",
       "sort_name": "Banticha, Abdullahi Jaldesa",
       "sources": [
@@ -315,6 +328,10 @@
         {
           "type": "email",
           "value": "asnassir@radiorahma.co.ke"
+        },
+        {
+          "type": "twitter",
+          "value": "Asnassir"
         }
       ],
       "email": "asnassir@radiorahma.co.ke",
@@ -334,6 +351,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/e0/50/e050532d2d32a3932ce389c2e27545f6.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/abdulswamadnassir"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Asnassir"
         }
       ],
       "name": "Abdulswamad Sheriff Nassir",
@@ -371,6 +398,12 @@
         }
       ],
       "name": "Adan Keynan",
+      "other_names": [
+        {
+          "name": "Adan Wehliye Keynan",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/adan-keynan/"
@@ -409,6 +442,10 @@
         {
           "type": "email",
           "value": "hmsk@wananchi.com"
+        },
+        {
+          "type": "twitter",
+          "value": "HonAdenDuale"
         }
       ],
       "email": "hmsk@wananchi.com",
@@ -441,6 +478,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Aden_Duale"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Aden-Bare-Duale"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HonAdenDuale"
         }
       ],
       "name": "Aden Bare Duale",
@@ -613,35 +658,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "butula@parliament.go.ke"
-        }
-      ],
-      "email": "butula@parliament.go.ke",
-      "gender": "male",
-      "id": "c6b3dc13-7b5a-47ce-900e-98529966cea5",
-      "identifiers": [
-        {
-          "identifier": "alfred-bwire",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/1f/aa/1faaf6ee144655468257445cd4d43af8.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/1f/aa/1faaf6ee144655468257445cd4d43af8.jpg"
-        }
-      ],
-      "name": "Alfred Bwire",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/alfred-bwire/"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "alfketer2000@yahoo.com"
         }
       ],
@@ -662,6 +678,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/92/d3/92d3f99446d22420938d03c899a50ed2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/alfred.k.keter/about"
         }
       ],
       "name": "Alfred Kiptoo Keter",
@@ -839,44 +861,6 @@
       ]
     },
     {
-      "birth_date": "1969-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aaahargeisa@yahoo.com"
-        }
-      ],
-      "email": "aaahargeisa@yahoo.com",
-      "gender": "female",
-      "id": "53f8ae39-1f39-4bbe-8eb0-570ab8cf3885",
-      "identifiers": [
-        {
-          "identifier": "amina-abdalla",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "382",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/a1/99/a19976e3df06cdf81b8df01b4b6194c5.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/a1/99/a19976e3df06cdf81b8df01b4b6194c5.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/171fc14b49a79ea979710de5b3402b30_M.jpg"
-        }
-      ],
-      "name": "Amina Abdalla",
-      "sort_name": "Abdalla, Amina",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/amina-abdalla/"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "email",
@@ -1042,6 +1026,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/600eb6612b31632f6c618c9c012d873d_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/anthonymutahi.kimaru/info"
+        }
+      ],
       "name": "Anthony Mutahi Kimaru",
       "sort_name": "Kimaru, Anthony Mutahi",
       "sources": [
@@ -1115,6 +1105,10 @@
       ],
       "name": "Asman Kamama",
       "other_names": [
+        {
+          "name": "Asman Abongutum Kamama",
+          "note": "alternate"
+        },
         {
           "name": "Kamama Asman Abongotum",
           "note": "alternate"
@@ -1423,6 +1417,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/0d1fd34f22c9730e91eb5170fbddc114_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/benjamin.andola.9"
+        }
+      ],
       "name": "Benjamin Andola Andayi",
       "other_names": [
         {
@@ -1473,6 +1473,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Benjamin_Jomo_Washiali"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/washialiseasky"
         }
       ],
       "name": "Benjamin Jomo Washiali",
@@ -1738,6 +1742,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Alfred_Sambu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/honalfred.sambu"
         }
       ],
       "name": "Bernard Alfred Wekesa Sambu",
@@ -1816,39 +1824,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bspmutemi@yahoo.com"
-        }
-      ],
-      "email": "bspmutemi@yahoo.com",
-      "gender": "male",
-      "id": "699afb1a-92b5-4129-8a97-28984b9f58a1",
-      "identifiers": [
-        {
-          "identifier": "robert-mutemi-mutua",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13137",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/88/7e/887efee773918a79cf22e93523a11d80.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/88/7e/887efee773918a79cf22e93523a11d80.jpg"
-        }
-      ],
-      "name": "Bishop Robert Mutemi Mutua",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/robert-mutemi-mutua/"
-        }
-      ]
-    },
-    {
       "birth_date": "1968-10-20",
       "contact_details": [
         {
@@ -1873,6 +1848,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/a2/60/a26064a1ac707847cc4b9d1dcb8c907f.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/bonface.otsiula"
         }
       ],
       "name": "Bonface Okhiya Otsiula",
@@ -2043,7 +2024,19 @@
           "url": "http://info.mzalendo.com/media_root/cache/82/b1/82b1447e930b3299a13bc44783bb941e.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/pages/Cecily-Mbarire/236963103007881"
+        }
+      ],
       "name": "Cecily Mbarire",
+      "other_names": [
+        {
+          "name": "Cecily Mutitu Mbarire",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/cecily-mbarire/"
@@ -2078,6 +2071,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/1379b5de7cb668c186ab48a9361eabd7_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Charles-Gimose-82792373849"
         }
       ],
       "name": "Charles Gumini Gimose",
@@ -2186,6 +2185,12 @@
         }
       ],
       "name": "Charles Nyamai",
+      "other_names": [
+        {
+          "name": "Charles Mutisya Nyamai",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/charles-nyamai/"
@@ -2197,6 +2202,10 @@
         {
           "type": "email",
           "value": "chwamalwa@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "cwamalwa"
         }
       ],
       "email": "chwamalwa@yahoo.com",
@@ -2216,6 +2225,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/ab/26/ab26858a2aeb3f7d98d6a69f274daac1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cwamalwa"
         }
       ],
       "name": "Chrisantus Wamalwa Wakhungu",
@@ -2387,6 +2402,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/74/6c/746c12299cd1b8d15cb84defd2a27a05.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/cornellys"
+        }
+      ],
       "name": "Cornelly Serem",
       "sources": [
         {
@@ -2473,6 +2494,10 @@
       ],
       "name": "Dalmas Otieno",
       "other_names": [
+        {
+          "name": "Dalmas Anyango Otieno",
+          "note": "alternate"
+        },
         {
           "name": "Dalmas Otieno Anyango",
           "note": "alternate"
@@ -2610,39 +2635,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/daniel-kitonga-maanzo/"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dan.sitati@yahoo.com"
-        }
-      ],
-      "email": "dan.sitati@yahoo.com",
-      "gender": "male",
-      "id": "23af649f-5bc9-4f13-810f-34430876cf82",
-      "identifiers": [
-        {
-          "identifier": "daniel-wanyama-sitati",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "3012",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/51/f0/51f0f92ea62aa4d7d8f405ffaa7ee2c8.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/51/f0/51f0f92ea62aa4d7d8f405ffaa7ee2c8.jpg"
-        }
-      ],
-      "name": "Daniel Wanyama Sitati",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/daniel-wanyama-sitati/"
         }
       ]
     },
@@ -2839,6 +2831,10 @@
         {
           "type": "email",
           "value": "ochiengoo@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "David_Ouma"
         }
       ],
       "email": "ochiengoo@yahoo.com",
@@ -2858,6 +2854,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/75/a6/75a6a96185316258666e01e90f4c8c20.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/David_Ouma"
         }
       ],
       "name": "David Ouma Ochieng'",
@@ -2927,6 +2929,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/2f/3e/2f3e208367c7d158aa213c377b9a8c63.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/changeindagoretti"
+        }
+      ],
       "name": "Dennis Kariuki Waweru",
       "sources": [
         {
@@ -2954,6 +2962,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/8e5f062e9750688c028aaa3058da9ec4_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Dennitah-Ghati-for-Women-Representative-Migori-County-403724059683744"
         }
       ],
       "name": "Dennitah Ghati",
@@ -3046,10 +3060,44 @@
           "url": "http://info.mzalendo.com/media_root/cache/03/37/0337408d16db717a96c5d09b26901345.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/rachael.nyamaimavuui"
+        }
+      ],
       "name": "Dr Rachael Kaki Nyamai",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/rachael-kaki-nyamai/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "info@drchrisbichage.com"
+        }
+      ],
+      "email": "info@drchrisbichage.com",
+      "id": "a8b46c64-0896-461c-8ea7-c59fad948d27",
+      "identifiers": [
+        {
+          "identifier": "2616",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/0d/cc/0dcc269cf20f1a7d477c584935ce0d3e.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/0d/cc/0dcc269cf20f1a7d477c584935ce0d3e.jpg"
+        }
+      ],
+      "name": "Dr. Chris Munga Nyamaratandi Bichage",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/chris-munga-nyamaratandi-bichage/"
         }
       ]
     },
@@ -3078,6 +3126,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/f1/74/f174a5f89805572ffffb6422b72a0d46.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Major-Rtd-Dr-David-Eseli-Simiyu-27189833155"
         }
       ],
       "name": "Dr. David Eseli Simiyu",
@@ -3122,6 +3176,10 @@
         {
           "name": "Enoch Wamalwa Kibunguchy",
           "note": "alternate"
+        },
+        {
+          "name": "Enoch Wamalwa Kibunguchy",
+          "note": "alternate"
         }
       ],
       "sort_name": "Kibunguchy, Enoch Wamalwa",
@@ -3159,6 +3217,12 @@
         }
       ],
       "name": "Dr. Hellen Sambili",
+      "other_names": [
+        {
+          "name": "Hellen Jepkemoi Sambili",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/hellen-sambili/"
@@ -3205,6 +3269,10 @@
       ],
       "name": "Dr. James Gesami",
       "other_names": [
+        {
+          "name": "James Ondicho Gesami",
+          "note": "alternate"
+        },
         {
           "name": "James Ondicho Gesami",
           "note": "alternate"
@@ -3463,88 +3531,15 @@
         }
       ],
       "name": "Dr. Naomi Shaban",
+      "other_names": [
+        {
+          "name": "Naomi Namsi Shaban",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/naomi-shaban/"
-        }
-      ]
-    },
-    {
-      "birth_date": "1943-10-15",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Bondo@parliament.go.ke"
-        }
-      ],
-      "email": "Bondo@parliament.go.ke",
-      "gender": "male",
-      "id": "deaac9ce-fc4c-4949-9551-25919c723ded",
-      "identifiers": [
-        {
-          "identifier": "oburu-odinga",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "194",
-          "scheme": "mzalendo"
-        },
-        {
-          "identifier": "Q2013243",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/1f/a9/1fa99cb5d3b46266aa324e53a2b45faa.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/1f/a9/1fa99cb5d3b46266aa324e53a2b45faa.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Oburu_Odinga"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Oburu_Odinga"
-        }
-      ],
-      "name": "Dr. Oburu Odinga",
-      "other_names": [
-        {
-          "name": "Oburu Odinga",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Oburu Odinga",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Oburu Odinga",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Oburu Odinga",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "オブル・オディンガ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Oburu Odinga",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/oburu-odinga/"
         }
       ]
     },
@@ -3587,6 +3582,10 @@
         {
           "type": "email",
           "value": "otuoma.paul@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "HonOtuoma"
         }
       ],
       "email": "otuoma.paul@yahoo.com",
@@ -3617,10 +3616,18 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Paul_Otuoma"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HonOtuoma"
         }
       ],
       "name": "Dr. Paul Otuoma",
       "other_names": [
+        {
+          "name": "Paul Nyongesa Otuoma",
+          "note": "alternate"
+        },
         {
           "name": "Paul Otuoma",
           "note": "alternate"
@@ -3711,6 +3718,12 @@
         }
       ],
       "name": "Dr. Simon Ogari",
+      "other_names": [
+        {
+          "name": "Simon Ogari Arama",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/simon-ogari/"
@@ -3772,6 +3785,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/dd34e32172fe0202ef287e574244e1d2_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Edwin-Kipruto-Barchilei-128606500616256"
+        }
+      ],
       "name": "Edwin Kipruto Barchilei",
       "sort_name": "Barchilei, Edwin Kipruto",
       "sources": [
@@ -3807,6 +3826,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/576492c356d8e0278dfa7b752bad5bc8_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/njogu.barua"
         }
       ],
       "name": "Ejidius Njogu Barua",
@@ -3875,6 +3900,10 @@
       ],
       "name": "Elijah Lagat",
       "other_names": [
+        {
+          "name": "Elijah Kiptarbei Lagat",
+          "note": "alternate"
+        },
         {
           "name": "Elijah Kiptarbei Lagat",
           "note": "alternate"
@@ -3975,6 +4004,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/95a78f3015bd19286b33c65657114fc4_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/elisha.kipkorirbusienei/about"
+        }
+      ],
       "name": "Elisha Kipkorir Busienei",
       "sort_name": "Busienei, Elisha Kipkorir",
       "sources": [
@@ -4045,6 +4080,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/84ac056b57dd032fcf18a346d4a81feb_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/HON-MP-Joseph-G-Gitari-202352383133860"
+        }
+      ],
       "name": "Eng Joseph Gachoki Gitari",
       "other_names": [
         {
@@ -4098,6 +4139,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mohamed_Maalim_Mohamud"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mohamed.mahamud.12"
         }
       ],
       "name": "Eng Maalim Mohamud Mohamed",
@@ -4188,6 +4233,10 @@
           "note": "alternate"
         },
         {
+          "name": "James Kwanya Rege",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "James Kwanya Rege",
           "note": "multilingual"
@@ -4241,6 +4290,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/39ab3bf46ced9d4856c25205fb92582a_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/EngineerJohnKiraguChege"
         }
       ],
       "name": "Eng. John Kiragu Chege",
@@ -4443,10 +4498,18 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Esther_Murugi_Mathenge"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/em.mathenge"
         }
       ],
       "name": "Esther Murugi",
       "other_names": [
+        {
+          "name": "Esther Murugi Mathenge",
+          "note": "alternate"
+        },
         {
           "name": "Esther Murugi Mathenge",
           "note": "alternate"
@@ -4551,77 +4614,16 @@
           "url": "http://info.mzalendo.com/media_root/cache/bb/0e/bb0edc7b9fcb523f038a787dd87a4204.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Eusilah-Jepkosgei-Ngeny-320520244710978"
+        }
+      ],
       "name": "Eusilah Jepkosgei Ngeny",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/eusilah-jepkosgei-ngeny/"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "d0f34c8b-ca2d-4973-80ed-97a298e43afa",
-      "identifiers": [
-        {
-          "identifier": "fatuma-ibrahim-ali",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13152",
-          "scheme": "mzalendo"
-        },
-        {
-          "identifier": "Q17411041",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/90/d2/90d2f2c9e4aff8c164cfa8f4b8d57d71.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/90/d2/90d2f2c9e4aff8c164cfa8f4b8d57d71.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/ce7646a74c54cecf1c05442c71f02147_M.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Fatuma_Ibrahim_Ali"
-        }
-      ],
-      "name": "Fatuma Ibrahim Ali",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Fatuma Ibrahim Ali",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Fatuma Ibrahim Ali",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Fatuma Ibrahim Ali",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Fatuma Ibrahim Ali",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Fatuma Ibrahim Ali",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Ali, Fatuma Ibrahim",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/fatuma-ibrahim-ali/"
         }
       ]
     },
@@ -4852,6 +4854,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/17/b9/17b94322bb9a7f11f863fc7b411cba11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Francis-Munyua-Waititu-WAKAPEE-131806670299637"
+        }
+      ],
       "name": "Francis Munyua Waititu",
       "sources": [
         {
@@ -4881,6 +4889,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/ab98897d60eaa0d05c1862c118538407_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/honfrancis.mwangangi/about"
+        }
+      ],
       "name": "Francis Mwangangi Kilonzo",
       "sort_name": "Kilonzo, Francis Mwangangi",
       "sources": [
@@ -4894,6 +4908,10 @@
         {
           "type": "email",
           "value": "frankmwa57@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "fnyenze"
         }
       ],
       "email": "frankmwa57@yahoo.com",
@@ -4913,6 +4931,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/11/a7/11a7cbe7f6f84f15e1b0b1ec0c4b02d2.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/fnyenze"
         }
       ],
       "name": "Francis Mwanzia Nyenze",
@@ -4983,6 +5007,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/9962afd4d7801adbe96e49a2f2eab69f_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/honmithika.linturi"
         }
       ],
       "name": "Franklin Mithika Linturi",
@@ -5070,6 +5100,54 @@
       ]
     },
     {
+      "id": "dafac32b-992d-45ad-9924-1d4dc0c939d8",
+      "identifiers": [
+        {
+          "identifier": "12510",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/d8/01/d8010b913736209d472b8b4eaae7340d.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/d8/01/d8010b913736209d472b8b4eaae7340d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/councillorgeorge.wanjohi"
+        }
+      ],
+      "name": "George Mike Wanjohi",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/george-mike-wanjohi/"
+        }
+      ]
+    },
+    {
+      "id": "7787b4b2-63fd-4cbc-834d-df0cb95e30c2",
+      "identifiers": [
+        {
+          "identifier": "1623",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/11/61/11614172b3a4ff2cf2bdc5010ab75fe4.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/11/61/11614172b3a4ff2cf2bdc5010ab75fe4.jpg"
+        }
+      ],
+      "name": "George Mukuru Muchai",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/george-mukuru-muchai/"
+        }
+      ]
+    },
+    {
       "birth_date": "1977-05-13",
       "contact_details": [
         {
@@ -5094,6 +5172,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/f2/e3/f2e37185c2e6d8a46b50008ca0405b32.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/George-Oner-Rangwe-2013-350025385022543"
         }
       ],
       "name": "George Oner Ogalo",
@@ -5146,6 +5230,10 @@
         {
           "type": "email",
           "value": "george_theuri@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "theurigeorgy"
         }
       ],
       "email": "george_theuri@yahoo.com",
@@ -5165,6 +5253,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/c6/6e/c66efc7a243dfbb1c80bed028500e835.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/George-Theuri-112739923416"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/theurigeorgy"
         }
       ],
       "name": "George Theuri",
@@ -5236,6 +5334,12 @@
         }
       ],
       "name": "Gideon Maitha",
+      "other_names": [
+        {
+          "name": "Gideon Mung'aro Maitha",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/gideon-maitha/"
@@ -5248,6 +5352,10 @@
         {
           "type": "email",
           "value": "mwitiirea@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "GIDEONMWITIIREA"
         }
       ],
       "email": "mwitiirea@gmail.com",
@@ -5270,6 +5378,16 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/8012f255a337782bffaadea968723f36_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/gideon.mwitiirea"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GIDEONMWITIIREA"
         }
       ],
       "name": "Gideon Mwiti Irea",
@@ -5370,7 +5488,19 @@
           "url": "http://info.mzalendo.com/media_root/cache/dd/ec/ddec56652cfad20fd8841580cbf1792a.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Gladys-Nyasuna-Wanga-for-Women-Rep-Homabay-County-202318379864382"
+        }
+      ],
       "name": "Gladys Wanga",
+      "other_names": [
+        {
+          "name": "Gladys Atieno Nyasuna",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/gladys-atieno-nyasuna/"
@@ -5442,6 +5572,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/f9bbdeb62248e2fc4418a6935e64cf4c_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Grace-Kobilo-Kiptui-276281862436748"
         }
       ],
       "name": "Grace Jemutai Kiptui",
@@ -5558,39 +5694,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bokola5@yahoo.com"
-        }
-      ],
-      "email": "bokola5@yahoo.com",
-      "gender": "male",
-      "id": "14c73aaf-dff1-4726-a916-ac42035ea7d8",
-      "identifiers": [
-        {
-          "identifier": "hassan-aden-osman",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13133",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/e0/9c/e09c09571d5a200ae14f8858467ed662.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/e0/9c/e09c09571d5a200ae14f8858467ed662.jpg"
-        }
-      ],
-      "name": "Hassan Aden Osman",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/hassan-aden-osman/"
-        }
-      ]
-    },
-    {
       "gender": "male",
       "id": "bfea732b-97c9-430e-b0a2-7f9290797765",
       "identifiers": [
@@ -5638,6 +5741,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/cc947675ce0ac0c98617f27425843c35_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/MrsHellenCChepkwony"
+        }
+      ],
       "name": "Hellen Chelangat Chepkwony",
       "sort_name": "Chepkwony, Hellen Chelangat",
       "sources": [
@@ -5651,6 +5760,10 @@
         {
           "type": "email",
           "value": "awiti@habo-group.com"
+        },
+        {
+          "type": "twitter",
+          "value": "awitibollo"
         }
       ],
       "email": "awiti@habo-group.com",
@@ -5675,11 +5788,42 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/c6db11a71571f6269d8aa754fc40212f_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/HezronAwitiBolo"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/awitibollo"
+        }
+      ],
       "name": "Hezron Awiti Bollo",
       "sort_name": "Bollo, Hezron Awiti",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/hezron-awiti-bollo/"
+        }
+      ]
+    },
+    {
+      "id": "05f61cdd-d19f-4e25-a796-4cab144e614f",
+      "identifiers": [
+        {
+          "identifier": "13164",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/54/da/54dafd656278c1a84d943bb0c2cd8991.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/54/da/54dafd656278c1a84d943bb0c2cd8991.jpg"
+        }
+      ],
+      "name": "Hon Willy Mtengo",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/willy-mtengo/"
         }
       ]
     },
@@ -5825,6 +5969,10 @@
         {
           "type": "email",
           "value": "abassahmed46@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "abass_ijara"
         }
       ],
       "email": "abassahmed46@yahoo.com",
@@ -5847,6 +5995,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/15d43aef6c8a5134e1fc00a9c98b8ab0_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/abass_ijara"
         }
       ],
       "name": "Ibrahim Ahmed Abass",
@@ -5934,6 +6088,10 @@
           "url": "https://en.wikipedia.org/wiki/Irshadali_Sumra"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/irshadali.sumra"
+        },
+        {
           "note": "website",
           "url": "http://www.sumraforchange.com"
         }
@@ -6003,65 +6161,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/irungu-kangata/"
-        }
-      ]
-    },
-    {
-      "birth_date": "1982-05-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mwaura.isa@gmail.com"
-        }
-      ],
-      "email": "mwaura.isa@gmail.com",
-      "gender": "male",
-      "given_name": "Isaac",
-      "id": "fd5c33f3-6800-41e9-bb8f-c5bb59a1a146",
-      "identifiers": [
-        {
-          "identifier": "isaac-mwaura",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13129",
-          "scheme": "mzalendo"
-        },
-        {
-          "identifier": "Q20744564",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/22/08/22083f10ee21383d4cad89838147d780.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/22/08/22083f10ee21383d4cad89838147d780.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Hon_Mwaura.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Isaac_Mwaura"
-        }
-      ],
-      "name": "Isaac Maigua Mwaura",
-      "other_names": [
-        {
-          "name": "Isaac Mwaura",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Isaac Mwaura",
-          "note": "multilingual"
-        }
-      ],
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/isaac-mwaura/"
         }
       ]
     },
@@ -6171,6 +6270,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jackson_Kiptanui"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100001223443245"
         }
       ],
       "name": "Jackson Kiplagat Kiptanui",
@@ -6236,6 +6339,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/4ddc75f1698994d05cf43f2316d7d33a_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jacob.macharia.1"
+        }
+      ],
       "name": "Jacob Waweru Macharia",
       "sort_name": "Macharia, Jacob Waweru",
       "sources": [
@@ -6271,6 +6380,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/bc04f87b1442e82a9d7828879f80552b_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jameskimaru.bett"
         }
       ],
       "name": "James Kimaru Bett",
@@ -6424,6 +6539,10 @@
         {
           "type": "email",
           "value": "ndungu.gethenji@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "ndungu_one"
         }
       ],
       "email": "ndungu.gethenji@gmail.com",
@@ -6446,6 +6565,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/e1e1ad60f07c4aa3ccbcb2973e9d7007_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ndungu_one"
         }
       ],
       "name": "James Ndungu Gethenji",
@@ -6565,6 +6690,10 @@
         {
           "type": "email",
           "value": "jane.machira@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "JaneApollos"
         }
       ],
       "email": "jane.machira@gmail.com",
@@ -6589,37 +6718,17 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/c987a1b31fd3f1f08322280ca0954f48_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JaneApollos"
+        }
+      ],
       "name": "Jane Agnes Wanjira Machira",
       "sort_name": "Machira, Jane Agnes Wanjira",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/jane-agnes-wanjira-machira/"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "512388de-b8f0-416a-a084-c7d08dcd3263",
-      "identifiers": [
-        {
-          "identifier": "janet-marania-teiyaa",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13132",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/9a/12/9a12fb00e127b8da30bfa8afcdadd7e7.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/9a/12/9a12fb00e127b8da30bfa8afcdadd7e7.jpg"
-        }
-      ],
-      "name": "Janet Marania Teiyaa",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/janet-marania-teiyaa/"
         }
       ]
     },
@@ -6795,6 +6904,10 @@
         {
           "name": "Jimmy Nuru Ondieki Angwenyi",
           "note": "alternate"
+        },
+        {
+          "name": "Jimmy Nuru Ondieki Angwenyi",
+          "note": "alternate"
         }
       ],
       "sort_name": "Angwenyi, Jimmy Nuru Ondieki",
@@ -6898,6 +7011,12 @@
         }
       ],
       "name": "Joel Onyancha",
+      "other_names": [
+        {
+          "name": "Joel Omagwa Onyancha",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/joel-onyancha/"
@@ -7029,6 +7148,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/b2/df/b2df5d68286d16289eb6ab89fa6d4366.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/lodepe.nakara"
         }
       ],
       "name": "John Lodepe Nakara",
@@ -7265,6 +7390,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/49/c0/49c0b1a8bbaab931d573661b51a5f916.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JohnOgutu4Embakasi"
+        }
+      ],
       "name": "John Ogutu Omondi",
       "sources": [
         {
@@ -7350,6 +7481,10 @@
         {
           "identifier": "john-oroo-oyioka",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1257",
+          "scheme": "mzalendo"
         }
       ],
       "image": "http://info.mzalendo.com/media_root/cache/0c/12/0c129a6bc52d58e3593d82cd8e336132.jpg",
@@ -7501,40 +7636,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/john-opore/"
-        }
-      ]
-    },
-    {
-      "birth_date": "1985",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jsakaja@gmail.com"
-        }
-      ],
-      "email": "jsakaja@gmail.com",
-      "gender": "male",
-      "id": "e0fb9f72-ce28-4f6a-9ca2-7fe6066f91bc",
-      "identifiers": [
-        {
-          "identifier": "johnson-arthur-sakaja",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13131",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/30/1c/301ce7770b0e82cc96490e762b21cd01.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/30/1c/301ce7770b0e82cc96490e762b21cd01.jpg"
-        }
-      ],
-      "name": "Johnson Arthur Sakaja",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/johnson-arthur-sakaja/"
         }
       ]
     },
@@ -7706,6 +7807,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/274936c4b649c88ffad7944bfc7a744a_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/people/Joseph-Lekuton/1384590343"
+        }
+      ],
       "name": "Joseph Lemasolai Lekuton",
       "other_names": [
         {
@@ -7749,6 +7856,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/569585164bf57f8a1e8703b19497bdbc_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/josephmeruaki"
+        }
+      ],
       "name": "Joseph M'eruaki M'uthari",
       "sort_name": "M'uthari, Joseph M'eruaki",
       "sources": [
@@ -7784,6 +7897,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/8ee107fb8e11fa27c5eb0c84c03d7dff_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mburu.kahangara.1/about"
         }
       ],
       "name": "Joseph Mburu Kahangara",
@@ -7829,6 +7948,34 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "info@jossymobiles.co.ke"
+        }
+      ],
+      "email": "info@jossymobiles.co.ke",
+      "id": "178f42a7-74cc-48e1-bf6a-51ac6056da35",
+      "identifiers": [
+        {
+          "identifier": "1520",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/37/73/3773277555787f2274da7605dbc450fb.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/37/73/3773277555787f2274da7605dbc450fb.jpg"
+        }
+      ],
+      "name": "Joseph Ngugi Nyumu",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/joseph-ngugi-nyumu/"
+        }
+      ]
+    },
+    {
       "gender": "male",
       "id": "369e11c4-e1b9-42f5-9b88-4d0c3f644fed",
       "identifiers": [
@@ -7845,6 +7992,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/b2/90/b290287250f21327de4bf48bee8a8f71.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/josephobiero.ndiege.7"
         }
       ],
       "name": "Joseph Obiero Ndiege",
@@ -7958,6 +8111,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/f5ddf7bd97d01d87f4a7985398aea709_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/HONJoseph-Samal-Lomwa-Mp-Isiolo-North-Constituency-2013-264384173596682"
+        }
+      ],
       "name": "Joseph Samal Lomwa",
       "sort_name": "Lomwa, Joseph Samal",
       "sources": [
@@ -8037,6 +8196,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jemanikor"
+        }
+      ],
       "gender": "female",
       "id": "3f1bcea1-55b5-4af3-ab36-17f7693e8587",
       "identifiers": [
@@ -8058,6 +8223,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/63ae8dd535459e6ddaa9950601158f8d_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jemanikor"
+        }
+      ],
       "name": "Joyce Akai Emanikor",
       "sort_name": "Emanikor, Joyce Akai",
       "sources": [
@@ -8067,6 +8238,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "wanjala_lay"
+        }
+      ],
       "gender": "female",
       "id": "87bd2dcf-8335-4c78-b1bc-435e3658cf8a",
       "identifiers": [
@@ -8086,6 +8263,16 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/7d0d25bfcaa1421c2931a4f0387462aa_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Joyce-Wanjala-Lay-For-Women-rep-Taita-Taveta-County-271216582984059"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/wanjala_lay"
         }
       ],
       "name": "Joyce Wanjalah Lay",
@@ -8123,6 +8310,10 @@
       ],
       "name": "Judah ole Metito",
       "other_names": [
+        {
+          "name": "Judah Katoo Ole-Metito",
+          "note": "alternate"
+        },
         {
           "name": "Metito Judah Katoo",
           "note": "alternate"
@@ -8230,6 +8421,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/28232e87509dedeadc0cd2b6a94ea3f5_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/julius.ndegwakariuki/about"
+        }
+      ],
       "name": "Julius Ndegwa Kariuki",
       "sort_name": "Kariuki, Julius Ndegwa",
       "sources": [
@@ -8314,6 +8511,10 @@
         {
           "type": "email",
           "value": "mukurweini@parliament.co.ke"
+        },
+        {
+          "type": "twitter",
+          "value": "wakabando"
         }
       ],
       "email": "mukurweini@parliament.co.ke",
@@ -8346,6 +8547,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kabando_wa_Kabando"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Kabando-Wa-Kabando"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/wakabando"
         }
       ],
       "name": "Kabando wa Kabando",
@@ -8382,49 +8591,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "tomkajwang@yahoo.com"
-        }
-      ],
-      "email": "tomkajwang@yahoo.com",
-      "gender": "male",
-      "id": "64125136-c60a-4f12-9385-6d9aabcaa7b5",
-      "identifiers": [
-        {
-          "identifier": "kajwang-tom-joseph-francis",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "2712",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/d8/cb/d8cb6c15577b2cf6c182bac69af941f6.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/d8/cb/d8cb6c15577b2cf6c182bac69af941f6.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/7be335477876db854960134c6e137164_M.jpg"
-        }
-      ],
-      "name": "Kajwang' Tom Joseph Francis",
-      "other_names": [
-        {
-          "name": "Kajwang' Tom Joseph Francis",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Francis, Kajwang' Tom Joseph",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/kajwang-tom-joseph-francis/"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "kathurisouthimenti@gmail.com"
         }
       ],
@@ -8445,6 +8611,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/98/78/987889add81a0837f8f9965693ee3855.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/HonKathuri-Murungi-MP-South-Imenti-500968646625406"
         }
       ],
       "name": "Kathuri Murungi",
@@ -8492,6 +8664,10 @@
         {
           "type": "email",
           "value": "teamkenokoth@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "okothkenneth"
         }
       ],
       "email": "teamkenokoth@gmail.com",
@@ -8511,6 +8687,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/ba/46/ba462413582ae2de6985a148510f8891.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/okothkenneth"
         }
       ],
       "name": "Kenneth Odhiambo Okoth",
@@ -8609,6 +8791,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/7fb770f34c796f7501d3cf0f0dc39075_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Most Visited "
+        }
+      ],
       "name": "Korei Ole Lemein",
       "sort_name": "Lemein, Korei Ole",
       "sources": [
@@ -8622,6 +8810,10 @@
         {
           "type": "email",
           "value": "mpuruaburi@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "tiganiaec"
         }
       ],
       "email": "mpuruaburi@yahoo.com",
@@ -8644,6 +8836,16 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/9f6d22dec5a20bcdd01cd84e98637764_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/hon.aburi"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/tiganiaec"
         }
       ],
       "name": "Lawrence Mpuru Aburi",
@@ -8681,6 +8883,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/6cff81ed2fd5fd02c6bfe5986e55231b_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Lemanken-Aramat-205270572820796"
         }
       ],
       "name": "Lemanken Aramat",
@@ -8785,6 +8993,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/4251dec72b18ac89643edfb7a8300016_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-David-Pkosing-Losiakou-138940586203600"
+        }
+      ],
       "name": "Losiakou David Pkosing",
       "other_names": [
         {
@@ -8804,10 +9018,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "kajiadocentral@parliament.go.kemailto:nkaisserrykasaine@yahoo.com"
+          "value": "kajiadocentral@parliament.go.ke"
         }
       ],
-      "email": "kajiadocentral@parliament.go.kemailto:nkaisserrykasaine@yahoo.com",
+      "email": "kajiadocentral@parliament.go.ke",
       "gender": "male",
       "given_name": "Joseph",
       "id": "e079a77b-b71b-4137-b844-4c9b1a812199",
@@ -8815,6 +9029,10 @@
         {
           "identifier": "joseph-nkaissery",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "192",
+          "scheme": "mzalendo"
         },
         {
           "identifier": "Q6285933",
@@ -8835,6 +9053,10 @@
       ],
       "name": "MAJ GEN (rtd) Joseph Nkaissery",
       "other_names": [
+        {
+          "name": "Joseph Kasaine Ole Nkaissery",
+          "note": "alternate"
+        },
         {
           "name": "Joseph Ole Nkaissery",
           "note": "alternate"
@@ -8966,7 +9188,19 @@
           "url": "http://info.mzalendo.com/media_root/cache/e8/71/e87107635e5743031152b2b7f8cc9f99.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Manson-Nyamweya"
+        }
+      ],
       "name": "Manson Nyamweya",
+      "other_names": [
+        {
+          "name": "Manson Oyongo Nyamweya",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/manson-nyamweya/"
@@ -8974,6 +9208,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MutuaMuluvi"
+        }
+      ],
       "gender": "male",
       "id": "22aa0652-5f28-4b6e-824f-3eca9e4f64ae",
       "identifiers": [
@@ -8990,6 +9230,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/95/fa/95fa8e2bf451c7b5f23dbab7de2bdd88.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MutuaMuluvi"
         }
       ],
       "name": "Marcus Mutua Muluvi",
@@ -9282,6 +9528,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/43/1c/431cf33f3ab08391c0ee779aa81b83be.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/MichaelOnyura.ButulaMP"
+        }
+      ],
       "name": "Michael Aringo Onyura",
       "sources": [
         {
@@ -9380,6 +9632,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/48689e827932dc70ec0a6e6067e8a72b_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mishi.j.khamisi"
         }
       ],
       "name": "Mishi Juma Khamisi",
@@ -9600,6 +9858,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "HonMosesKuria"
+        }
+      ],
       "gender": "male",
       "id": "e5d70e90-d03f-4fdd-807e-afcf6772fe2b",
       "identifiers": [
@@ -9618,6 +9882,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/2a/9d/2a9d878c5a2ae4ef2bd006c3e20fe287.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HonMosesKuria"
+        }
+      ],
       "name": "Moses Kuria",
       "sources": [
         {
@@ -9631,6 +9901,10 @@
         {
           "type": "email",
           "value": "EldamaRavine@parliament.go.ke"
+        },
+        {
+          "type": "twitter",
+          "value": "MosesLessonet"
         }
       ],
       "email": "EldamaRavine@parliament.go.ke",
@@ -9664,6 +9938,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Moses_Lessonet"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mlessonet"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MosesLessonet"
         }
       ],
       "name": "Moses Lessonet",
@@ -9734,6 +10016,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/d0d354668f69293e040aa69de3140c78_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mosesmalulu.injendi/about"
+        }
+      ],
       "name": "Moses Malulu Injendi",
       "sort_name": "Injendi, Moses Malulu",
       "sources": [
@@ -9743,6 +10031,12 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "olesakuda"
+        }
+      ],
       "gender": "male",
       "id": "fea22eb2-0d02-429c-a1cc-91f0d0745286",
       "identifiers": [
@@ -9759,6 +10053,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/b8/d4/b8d4c1a777a112fab8f32ed69d677d7f.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/olesakuda"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/olesakuda"
         }
       ],
       "name": "Moses Somoine ole Sakuda",
@@ -10001,6 +10305,12 @@
         }
       ],
       "name": "Nyiva Mwendwa",
+      "other_names": [
+        {
+          "name": "Winfred Nyiva Mwendwa",
+          "note": "alternate"
+        }
+      ],
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/nyiva-mwendwa/"
@@ -10032,6 +10342,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/11/97/11970e853d5cdf9ebfe7031164102069.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Omar-Mwinyi-Shimbwa-301015606682250"
         }
       ],
       "name": "Omar Mwinyi Shimbwa",
@@ -10204,39 +10520,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kecpatpress@yahoo.com"
-        }
-      ],
-      "email": "kecpatpress@yahoo.com",
-      "gender": "male",
-      "id": "7490d076-57a7-4103-9455-e0a7086f7974",
-      "identifiers": [
-        {
-          "identifier": "patrick-wangamati",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13128",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/d1/c4/d1c42e9d186694a37c98bbb8deeea3d0.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/d1/c4/d1c42e9d186694a37c98bbb8deeea3d0.jpg"
-        }
-      ],
-      "name": "Patrick Wangamati",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/patrick-wangamati/"
-        }
-      ]
-    },
-    {
       "birth_date": "1981-11-28",
       "contact_details": [
         {
@@ -10261,6 +10544,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/b4/da/b4dabb464319c6192fa476775af7028d.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/HonPaul-Simba-Arati-MP-Dagoretti-North-406160619452245"
         }
       ],
       "name": "Paul Arati Simba",
@@ -10293,6 +10582,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/817a0b87c8b4a5b09390d4c2ae24ca96_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Honpaul-KBII-savimbi-293128250788413"
+        }
+      ],
       "name": "Paul Kipchirchir Bii",
       "sort_name": "Bii, Paul Kipchirchir",
       "sources": [
@@ -10306,6 +10601,10 @@
         {
           "type": "email",
           "value": "sosdetorg@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "KoinangePaul_MP"
         }
       ],
       "email": "sosdetorg@yahoo.com",
@@ -10330,6 +10629,16 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/dbe05350458c15fa6c802fb686391131_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/paul.koinange.1/info"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KoinangePaul_MP"
+        }
+      ],
       "name": "Paul Koinange",
       "sort_name": "Koinange, Paul",
       "sources": [
@@ -10344,6 +10653,10 @@
         {
           "type": "email",
           "value": "tobppp68@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "pesitobiko"
         }
       ],
       "email": "tobppp68@yahoo.com",
@@ -10363,6 +10676,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/0f/f2/0ff2dfc3be099830da7161498f624bd4.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/PerisPesiTobiko"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pesitobiko"
         }
       ],
       "name": "Peris Pesi Tobiko",
@@ -10468,6 +10791,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/04/f9/04f998ad2c3c81750b88aeaac9e815ef.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Peter-Kamande-Mwangi-MP-Maragua-271228986337915"
+        }
+      ],
       "name": "Peter Kamande Mwangi",
       "sources": [
         {
@@ -10481,6 +10810,10 @@
         {
           "type": "email",
           "value": "nbaiya@njorogebaiya.com"
+        },
+        {
+          "type": "twitter",
+          "value": "HonBaiya"
         }
       ],
       "email": "nbaiya@njorogebaiya.com",
@@ -10514,6 +10847,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Peter_Njoroge_Baiya"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HonBaiya"
         }
       ],
       "name": "Peter Njoroge Baiya",
@@ -10611,6 +10948,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/4b/55/4b5504a50954ecdef2171e394a0a85fd.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Peter-Safari-Shehe-266221436735149"
+        }
+      ],
       "name": "Peter Safari Shehe",
       "sources": [
         {
@@ -10694,6 +11037,10 @@
         {
           "type": "email",
           "value": "wakili.nyokabi@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "wakilinyokabi"
         }
       ],
       "email": "wakili.nyokabi@gmail.com",
@@ -10716,6 +11063,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/a07bb170c4a36161aa1f8f4859c19794_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/wakilinyokabi"
         }
       ],
       "name": "Priscilla Nyokabi Kanyua",
@@ -10799,6 +11152,10 @@
         {
           "type": "email",
           "value": "wshebesh@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "rachelshebesh"
         }
       ],
       "email": "wshebesh@yahoo.com",
@@ -10818,6 +11175,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/25/d0/25d0917c67492f7b45c41e42182f4bab.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Rachel-Shebesh"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/rachelshebesh"
         }
       ],
       "name": "Rachel Wambui Shebesh",
@@ -10911,6 +11278,10 @@
         {
           "type": "email",
           "value": "rotaalo11@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "LURAMBI"
         }
       ],
       "email": "rotaalo11@gmail.com",
@@ -10930,6 +11301,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/b6/bc/b6bc67a7330af4e992226a5ed5a3a93f.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Raphael-M-Otaalo-MP-Lurambi-Constituency-230527657009906"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LURAMBI"
         }
       ],
       "name": "Raphael Milikau Otaalo",
@@ -11045,6 +11426,10 @@
         {
           "type": "email",
           "value": "Gachoka@parliament.go.ke"
+        },
+        {
+          "type": "twitter",
+          "value": "mutavamusyimi"
         }
       ],
       "email": "Gachoka@parliament.go.ke",
@@ -11066,6 +11451,16 @@
           "url": "http://info.mzalendo.com/media_root/cache/4b/a9/4ba9c3f2e0500749df2e068c19f98d4d.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/profile.php"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mutavamusyimi"
+        }
+      ],
       "name": "Rev. Mutava Musyimi",
       "sources": [
         {
@@ -11078,6 +11473,10 @@
         {
           "type": "email",
           "value": "richardmakenga@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "richardmakenga"
         }
       ],
       "email": "richardmakenga@yahoo.com",
@@ -11100,6 +11499,16 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/eefd4fe8f589e64e0e66a4f2937ae4ae_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/richardmakenga"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/richardmakenga"
         }
       ],
       "name": "Richard Makenga Katemi",
@@ -11228,6 +11637,10 @@
           "note": "alternate"
         },
         {
+          "name": "Richard Momoima Onyonka",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Richard Momoima Onyonka",
           "note": "multilingual"
@@ -11323,6 +11736,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/17/da/17da14e7d906545e6b13502dcb31763d.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/robert.mbuimpkathiani/about"
+        }
+      ],
       "name": "Robert Mbui",
       "sources": [
         {
@@ -11336,6 +11755,10 @@
         {
           "type": "email",
           "value": "pukose@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "Pukose"
         }
       ],
       "email": "pukose@yahoo.com",
@@ -11355,6 +11778,16 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/85/8e/858eb71faf793b5a7ea37e1a129c8a07.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/pukose.robert"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Pukose"
         }
       ],
       "name": "Robert Pukose",
@@ -11391,36 +11824,16 @@
           "url": "http://info.mzalendo.com/media_root/cache/d9/6c/d96c199b3ca2b3bfc01047983923d17e.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/ronald.kiprotichtonui"
+        }
+      ],
       "name": "Ronald Kiprotich Tonui",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/ronald-kiprotich-tonui/"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "49d3890c-2b23-4b5b-aeee-a537e1fd1459",
-      "identifiers": [
-        {
-          "identifier": "rose-auma-ogendo",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "738",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/3b/f0/3bf01215a49a04ee5bf6b38058e8505d.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/3b/f0/3bf01215a49a04ee5bf6b38058e8505d.jpg"
-        }
-      ],
-      "name": "Rose Auma Ogendo",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/rose-auma-ogendo/"
         }
       ]
     },
@@ -11443,10 +11856,48 @@
           "url": "http://info.mzalendo.com/media_root/cache/f6/85/f6851541c40082824c4736d46269d1ac.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/rosemuseo.mumo/about"
+        }
+      ],
       "name": "Rose Museo Mumo",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/rose-museo-mumo/"
+        }
+      ]
+    },
+    {
+      "gender": "female",
+      "id": "49d3890c-2b23-4b5b-aeee-a537e1fd1459",
+      "identifiers": [
+        {
+          "identifier": "rose-auma-ogendo",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "738",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/c3/43/c343563ed9fee8b0f1dc62325699f54b.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/c3/43/c343563ed9fee8b0f1dc62325699f54b.jpg"
+        }
+      ],
+      "name": "Rose Nyamunga",
+      "other_names": [
+        {
+          "name": "Rose Auma Ogendo",
+          "note": "alternate"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/rose-auma-ogendo/"
         }
       ]
     },
@@ -11538,6 +11989,12 @@
         },
         {
           "url": "http://www.parliament.go.ke/media/k2/items/cache/42bfbea03cce865b2f6f3be1a87895b7_M.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Sabina.Wanjiru.Chege"
         }
       ],
       "name": "Sabina Wanjiru Chege",
@@ -11658,6 +12115,10 @@
       ],
       "name": "Sammy Mwaita",
       "other_names": [
+        {
+          "name": "Sammy Sila Komen Mwaita",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Sammy Mwaita",
@@ -11908,6 +12369,10 @@
       "name": "Samuel Moroto",
       "other_names": [
         {
+          "name": "Samuel Chumel Moroto",
+          "note": "alternate"
+        },
+        {
           "name": "Samuel Moroto Chumel",
           "note": "alternate"
         },
@@ -11936,32 +12401,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/samuel-moroto/"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "29c0cce9-6f1d-46e5-9228-418b603ee1c9",
-      "identifiers": [
-        {
-          "identifier": "sara-paulata-korere",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13134",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/85/9b/859b5725bed0a35069e3bc8d6fdd2a13.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/85/9b/859b5725bed0a35069e3bc8d6fdd2a13.jpg"
-        }
-      ],
-      "name": "Sara Paulata Korere",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/sara-paulata-korere/"
         }
       ]
     },
@@ -12071,10 +12510,18 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Shakeel_Shabbir"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Hon-Shakeel-Ahmed-Shabbir"
         }
       ],
       "name": "Shakeel Shabbir",
       "other_names": [
+        {
+          "name": "Ahmed Shakeel Shabbir Ahmed",
+          "note": "alternate"
+        },
         {
           "name": "Ahmed Shakeel Shabbir Ahmed",
           "note": "alternate"
@@ -12145,28 +12592,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/shakila-abdalla/"
-        }
-      ]
-    },
-    {
-      "gender": "female",
-      "id": "238fadb6-bfb4-40b6-bf11-91e4d7cf205b",
-      "identifiers": [
-        {
-          "identifier": "shakila-abdalla-mohamed",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/dc/72/dc7239bdb6ecbd9c4b07f52095c59a7e.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/dc/72/dc7239bdb6ecbd9c4b07f52095c59a7e.jpg"
-        }
-      ],
-      "name": "Shakila Abdalla Mohamed",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/shakila-abdalla-mohamed/"
         }
       ]
     },
@@ -12342,6 +12767,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/bf/f4/bff49fef0577ea1fc12d85547bfbbc98.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SilvanceOselleForKabondoKasipulConsituency"
         }
       ],
       "name": "Silvance Osele Onyango",
@@ -12528,6 +12959,10 @@
         {
           "type": "email",
           "value": "mundiakenya@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "stevenkariukimp"
         }
       ],
       "email": "mundiakenya@gmail.com",
@@ -12547,6 +12982,12 @@
       "images": [
         {
           "url": "http://info.mzalendo.com/media_root/cache/f6/f4/f6f4a85d1de15ee5c7f306c3ecce731e.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/stevenkariukimp"
         }
       ],
       "name": "Steven Kariuki",
@@ -12623,85 +13064,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/suleiman-murunga-kasuti/"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "soniabirdikenya@gmail.com"
-        }
-      ],
-      "email": "soniabirdikenya@gmail.com",
-      "gender": "female",
-      "given_name": "Sonia",
-      "id": "b771a3c8-3234-40cb-a7dd-a98c91d3651f",
-      "identifiers": [
-        {
-          "identifier": "sunjeev-kour-birdi",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13136",
-          "scheme": "mzalendo"
-        },
-        {
-          "identifier": "Q16842239",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/4b/f1/4bf14bb6978a4889836ac14c2a610aff.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/4b/f1/4bf14bb6978a4889836ac14c2a610aff.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/fe392f78a62c6fc460cf8c2a182b395f_M.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sonia_Birdi"
-        }
-      ],
-      "name": "Sunjeev Kour Birdi",
-      "other_names": [
-        {
-          "name": "Sonia Birdi",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Sonia Birdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Sonia Birdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sonia Birdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Sonia Birdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sonia Birdi",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Birdi, Sunjeev Kour",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/sunjeev-kour-birdi/"
         }
       ]
     },
@@ -12787,6 +13149,10 @@
           "note": "alternate"
         },
         {
+          "name": "Thomas Ludindi Mwadeghu",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Thomas Ludindi Mwadeghu",
           "note": "multilingual"
@@ -12855,6 +13221,10 @@
         {
           "type": "email",
           "value": "info@timwanyonyi.com"
+        },
+        {
+          "type": "twitter",
+          "value": "TimothyWanyonyi"
         }
       ],
       "email": "info@timwanyonyi.com",
@@ -12885,6 +13255,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Timothy_Wanyonyi_Wetangula"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/TimothyWanyonyiWetangula"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TimothyWanyonyi"
         }
       ],
       "name": "Timothy Wanyonyi Wetangula",
@@ -12928,6 +13306,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/0b/c7/0bc73547510683576fb82c69cd5d1fad.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tirusnyingi"
+        }
+      ],
       "name": "Tirus Nyingi Ngahu",
       "sources": [
         {
@@ -12958,11 +13342,60 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/ee68a9df1200997b07be8fb0bbdb9f29_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/IsioloCountyForMadamTiyahGalgalo"
+        }
+      ],
       "name": "Tiyah Galgalo Ali",
       "sort_name": "Ali, Tiyah Galgalo",
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/tiyah-galgalo-ali/"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tomkajwang@yahoo.com"
+        }
+      ],
+      "email": "tomkajwang@yahoo.com",
+      "gender": "male",
+      "id": "64125136-c60a-4f12-9385-6d9aabcaa7b5",
+      "identifiers": [
+        {
+          "identifier": "kajwang-tom-joseph-francis",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2712",
+          "scheme": "mzalendo"
+        }
+      ],
+      "image": "http://info.mzalendo.com/media_root/cache/d8/cb/d8cb6c15577b2cf6c182bac69af941f6.jpg",
+      "images": [
+        {
+          "url": "http://info.mzalendo.com/media_root/cache/d8/cb/d8cb6c15577b2cf6c182bac69af941f6.jpg"
+        },
+        {
+          "url": "http://www.parliament.go.ke/media/k2/items/cache/7be335477876db854960134c6e137164_M.jpg"
+        }
+      ],
+      "name": "Tom Joseph Kajwang'",
+      "other_names": [
+        {
+          "name": "Kajwang' Tom Joseph Francis",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Francis, Kajwang' Tom Joseph",
+      "sources": [
+        {
+          "url": "http://info.mzalendo.com/person/kajwang-tom-joseph-francis/"
         }
       ]
     },
@@ -13026,6 +13459,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/40/05/4005f4b0635f15c142783b614cd11996.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/honengvincent"
+        }
+      ],
       "name": "Vincent Musyoka Musau",
       "sources": [
         {
@@ -13038,6 +13477,10 @@
         {
           "type": "email",
           "value": "wanjikumuhia.nyandaruacounty@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "wanjikumuhia"
         }
       ],
       "email": "wanjikumuhia.nyandaruacounty@gmail.com",
@@ -13059,6 +13502,12 @@
           "url": "http://info.mzalendo.com/media_root/cache/7e/22/7e22dfdbf9c17a8308217287efb230df.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/wanjikumuhia"
+        }
+      ],
       "name": "Wanjiku Muhia",
       "sources": [
         {
@@ -13072,6 +13521,10 @@
         {
           "type": "email",
           "value": "gedo207@yahoo.com"
+        },
+        {
+          "type": "twitter",
+          "value": "jakoyomidiwo"
         }
       ],
       "email": "gedo207@yahoo.com",
@@ -13102,6 +13555,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Washington_Jakoyo_Midiwo"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jakoyomidiwo"
         }
       ],
       "name": "Washington Jakoyo Midiwo",
@@ -13364,6 +13821,12 @@
           "url": "http://www.parliament.go.ke/media/k2/items/cache/c9e8d9069e929f4898939a62f1adcffd_M.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/william.kisang"
+        }
+      ],
       "name": "William Kipkemoi Kisang",
       "sort_name": "Kisang, William Kipkemoi",
       "sources": [
@@ -13411,10 +13874,18 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/William_Kipkorir"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/william.k.cheptumo"
         }
       ],
       "name": "William Kipkiror",
       "other_names": [
+        {
+          "name": "William Cheptumo Kipkiror",
+          "note": "alternate"
+        },
         {
           "name": "William Kipkiror Cheptumo",
           "note": "alternate"
@@ -13527,6 +13998,10 @@
         {
           "type": "email",
           "value": "kamukunji@parliament.go.ke"
+        },
+        {
+          "type": "twitter",
+          "value": "YusufKamukunji"
         }
       ],
       "email": "kamukunji@parliament.go.ke",
@@ -13563,6 +14038,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/YusufKamukunji"
         }
       ],
       "name": "Yusuf Hassan Abdi",
@@ -13774,50 +14257,6 @@
       "sources": [
         {
           "url": "http://info.mzalendo.com/person/zipporah-jesang-kurgat-kering/"
-        }
-      ]
-    },
-    {
-      "birth_date": "1979-08-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "akinatanga@yahoo.co.uk"
-        }
-      ],
-      "email": "akinatanga@yahoo.co.uk",
-      "gender": "female",
-      "id": "108103c3-c58d-49ea-b3ac-fff8e507b96b",
-      "identifiers": [
-        {
-          "identifier": "zulekha-juma-hassan",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "13130",
-          "scheme": "mzalendo"
-        }
-      ],
-      "image": "http://info.mzalendo.com/media_root/cache/e9/de/e9de206f284949490e3fac2f73b55d03.jpg",
-      "images": [
-        {
-          "url": "http://info.mzalendo.com/media_root/cache/e9/de/e9de206f284949490e3fac2f73b55d03.jpg"
-        },
-        {
-          "url": "http://www.parliament.go.ke/media/k2/items/cache/0bfc0ce99892772fc285e10ee3943d9a_M.jpg"
-        }
-      ],
-      "name": "Zulekha Juma Hassan",
-      "other_names": [
-        {
-          "name": "Zulekha Hassan Juma",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "Juma, Zulekha Hassan",
-      "sources": [
-        {
-          "url": "http://info.mzalendo.com/person/zulekha-juma-hassan/"
         }
       ]
     }
@@ -14578,6 +15017,16 @@
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
           "note": "multilingual"
         }
       ]
@@ -15404,6 +15853,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "037a05a5-bee2-44f1-bfaa-d864ac35196f",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15412,6 +15862,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "05089efc-37b3-4ed4-9d8f-785261bc7be7",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15421,6 +15872,15 @@
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "05e7d7d8-428d-428a-b34a-4f10ebe99fcf",
       "role": "member"
+    },
+    {
+      "area_id": "area/malindi",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/orange_democratic_movement",
+      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
+      "person_id": "05f61cdd-d19f-4e25-a796-4cab144e614f",
+      "role": "member",
+      "start_date": "2016"
     },
     {
       "area_id": "area/isiolo_south",
@@ -15452,6 +15912,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "0bd0450d-29fa-409c-ae9c-01055eb2d250",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15460,7 +15921,8 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "0bd2d1fc-8377-41a4-9247-95c61683ed45",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-08-11"
     },
     {
       "area_id": "area/chepalungu",
@@ -15527,13 +15989,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "108103c3-c58d-49ea-b3ac-fff8e507b96b",
-      "role": "member"
-    },
-    {
       "area_id": "area/kibra",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
@@ -15547,7 +16002,8 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "12641688-eff9-4fee-b3d7-096961c197a1",
-      "role": "member"
+      "role": "member",
+      "start_date": "2013-12-01"
     },
     {
       "area_id": "area/baringo_north",
@@ -15582,13 +16038,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "UDF",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "14c73aaf-dff1-4726-a916-ac42035ea7d8",
-      "role": "member"
-    },
-    {
       "area_id": "area/ugenya",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
@@ -15610,6 +16059,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "16bdc734-8d45-4e0a-b9a7-402878fffe5a",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15618,6 +16068,16 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "16fa4791-699a-43f5-a479-6b116ae4cf0c",
+      "post_id": "women's_representative",
+      "role": "member"
+    },
+    {
+      "area_id": "area/gatundu_south",
+      "end_date": "2014-05-01",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "IND",
+      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
+      "person_id": "178f42a7-74cc-48e1-bf6a-51ac6056da35",
       "role": "member"
     },
     {
@@ -15706,6 +16166,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "1f063062-c288-4996-81ab-f7013b214e63",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15730,6 +16191,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "210f724d-18f4-4fa8-a004-18ad48ffc7fb",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15738,6 +16200,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "21bfb96d-5cb0-4216-8651-cd0b390d7711",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15754,22 +16217,6 @@
       "on_behalf_of_id": "IND",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "22e01415-5739-4d56-939b-8db2bc8eac0a",
-      "role": "member"
-    },
-    {
-      "area_id": "area/lamu",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "238fadb6-bfb4-40b6-bf11-91e4d7cf205b",
-      "role": "member"
-    },
-    {
-      "area_id": "area/webuye_west",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_ford_kenya",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "23af649f-5bc9-4f13-810f-34430876cf82",
       "role": "member"
     },
     {
@@ -15837,13 +16284,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "URP",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "29c0cce9-6f1d-46e5-9228-418b603ee1c9",
-      "role": "member"
-    },
-    {
       "area_id": "area/embakasi_central",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
@@ -15865,6 +16305,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "2ad446db-da59-4150-b462-eb5606d45a4b",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -15881,7 +16322,8 @@
       "on_behalf_of_id": "party/ford_people",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "2c156fe7-0f71-4e91-a86c-07a799c9b702",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-06-01"
     },
     {
       "area_id": "area/runyenjes",
@@ -15985,6 +16427,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "332d9d69-b90e-4dbc-8233-91d5885706e2",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16033,6 +16476,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "38d429cb-6e19-416f-8ad9-d569e04c0306",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16105,6 +16549,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "3f1bcea1-55b5-4af3-ab36-17f7693e8587",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16209,6 +16654,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "48e2b7ed-751a-4b7c-9708-4767e044f663",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16225,6 +16671,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "49d3890c-2b23-4b5b-aeee-a537e1fd1459",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16241,6 +16688,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "4fa87804-386d-4ccb-b374-26d988bf98cb",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16249,13 +16697,6 @@
       "on_behalf_of_id": "APK",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "503cc932-7919-43b1-848f-39fa9da3712f",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "TNA",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "512388de-b8f0-416a-a084-c7d08dcd3263",
       "role": "member"
     },
     {
@@ -16280,6 +16721,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "52048028-322f-4f08-ab06-bdfebd6ad15b",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16315,13 +16757,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "TNA",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "53f8ae39-1f39-4bbe-8eb0-570ab8cf3885",
-      "role": "member"
-    },
-    {
       "area_id": "area/mathioya",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "TNA",
@@ -16335,6 +16770,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "55d9af0e-f53b-4aac-ab19-e1d9e28b6f04",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16343,6 +16779,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "55efb46e-892d-4c86-8db2-777fefbad1c9",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16415,6 +16852,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "6161b2ca-deba-4a37-831e-571f023b32b5",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16423,6 +16861,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "61bf796c-9f85-4d3c-8a87-7dd6845b66d6",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16503,7 +16942,8 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "681530dc-552b-4a36-b762-fe65b461ce76",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-03-16"
     },
     {
       "area_id": "area/turkana_north",
@@ -16519,13 +16959,6 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "6995907e-49cf-4f70-8b6d-8710a488bb03",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "699afb1a-92b5-4129-8a97-28984b9f58a1",
       "role": "member"
     },
     {
@@ -16622,6 +17055,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "70694968-7e20-4f57-83e9-4af0da2bbf0b",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16678,13 +17112,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "7484149c-6600-4612-a0d1-5628975b95e1",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/ford_kenya",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "7490d076-57a7-4103-9455-e0a7086f7974",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16709,6 +17137,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "760fefed-0ed0-4d3d-b288-6b910b6ddb8a",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16741,6 +17170,15 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "768f9ea4-f06e-4f59-8230-ed2b14426af2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/kabete",
+      "end_date": "2015-02-07",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "IND",
+      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
+      "person_id": "7787b4b2-63fd-4cbc-834d-df0cb95e30c2",
       "role": "member"
     },
     {
@@ -16869,6 +17307,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "823a242a-3786-48d6-8bcf-8aa1b4acc503",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16905,8 +17344,9 @@
     },
     {
       "area_id": "area/malindi",
+      "end_date": "2015-11-28",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
+      "on_behalf_of_id": "IND",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "84c0e716-2043-4147-9180-cb8887f72534",
       "role": "member"
@@ -16933,6 +17373,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "87bd2dcf-8335-4c78-b1bc-435e3658cf8a",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -16965,6 +17406,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "89a64d7a-c7fe-4de6-85b5-0c1784f34339",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17045,6 +17487,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "92e6fdc3-a227-4915-b217-801d1ba0391f",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17061,6 +17504,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "93d423f4-0e02-4fb1-a91d-92d475b4c42d",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17069,13 +17513,6 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "940ab101-004b-4928-b816-500b3502b7d3",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "URP",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "96462d5d-4141-499b-8797-4554bfac1d89",
       "role": "member"
     },
     {
@@ -17132,6 +17569,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "9d6ac26c-7fab-46f3-941f-3899470bfdb6",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17156,6 +17594,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "a02a5ad9-b9db-4e1d-aa2e-8636d90591c2",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17231,6 +17670,15 @@
       "role": "member"
     },
     {
+      "area_id": "area/nyaribari_chache",
+      "end_date": "2013-12-01",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/orange_democratic_movement",
+      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
+      "person_id": "a8b46c64-0896-461c-8ea7-c59fad948d27",
+      "role": "member"
+    },
+    {
       "area_id": "area/mt._elgon",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/independent_aspirant",
@@ -17244,6 +17692,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "adebda50-9c95-42e1-86fb-ba1ed1e3b45b",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17260,6 +17709,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "ae5cf262-3596-48fb-9367-8eefdb05774e",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17351,18 +17801,12 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "URP",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "b771a3c8-3234-40cb-a7dd-a98c91d3651f",
-      "role": "member"
-    },
-    {
       "area_id": "area/kwale",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "b87f61e9-db9b-4f9c-805d-f429163cabbb",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17499,6 +17943,7 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "c2ed4f12-b90e-4937-94b4-6287ec2fb93c",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17523,14 +17968,6 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "c5bdb8e5-ebbd-46fd-aa14-31130d686e5d",
-      "role": "member"
-    },
-    {
-      "area_id": "area/kajiado_south",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "TNA",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "c6b3dc13-7b5a-47ce-900e-98529966cea5",
       "role": "member"
     },
     {
@@ -17603,6 +18040,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "ce249eb5-9e17-42a6-a213-7e54d2b54707",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17611,14 +18049,6 @@
       "on_behalf_of_id": "party/orange_democratic_movement",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "ce5659dd-c414-4410-b39a-df458990ead3",
-      "role": "member"
-    },
-    {
-      "area_id": "area/wajir",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "d0f34c8b-ca2d-4973-80ed-97a298e43afa",
       "role": "member"
     },
     {
@@ -17651,6 +18081,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "d398e356-50c6-4ff2-b712-1171e1fc9bb4",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17699,6 +18130,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "d9543102-c5b3-4821-adcf-70fd0aa0b6bb",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17715,6 +18147,15 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "d9c6359a-5eac-44b4-a8c6-b8307e69eb15",
+      "role": "member"
+    },
+    {
+      "area_id": "area/mathare",
+      "end_date": "2014-03-18",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "TNA",
+      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
+      "person_id": "dafac32b-992d-45ad-9924-1d4dc0c939d8",
       "role": "member"
     },
     {
@@ -17782,13 +18223,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "deaac9ce-fc4c-4949-9551-25919c723ded",
-      "role": "member"
-    },
-    {
       "area_id": "area/baringo_central",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "URP",
@@ -17802,6 +18236,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "df0ec9a1-0e76-4247-9765-fe21dac997a9",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -17814,17 +18249,11 @@
     },
     {
       "area_id": "area/kajiado_central",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "e079a77b-b71b-4137-b844-4c9b1a812199",
-      "role": "member"
-    },
-    {
+      "end_date": "2014-12-02",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "IND",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "e0fb9f72-ce28-4f6a-9ca2-7fe6066f91bc",
+      "person_id": "e079a77b-b71b-4137-b844-4c9b1a812199",
       "role": "member"
     },
     {
@@ -17849,7 +18278,8 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "e5d70e90-d03f-4fdd-807e-afcf6772fe2b",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-08-01"
     },
     {
       "area_id": "area/kitui_central",
@@ -17965,11 +18395,13 @@
     },
     {
       "area_id": "area/bonchari",
+      "end_date": "2014-06-01",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/kenya_african_national_union",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "f0981b42-429c-4275-a2a5-39b192ed7df4",
-      "role": "member"
+      "role": "member",
+      "start_date": "2013-09-23"
     },
     {
       "area_id": "area/kajiado",
@@ -17977,6 +18409,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "f18a41b9-50c3-4292-8c53-7ae173544997",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18001,6 +18434,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "f32d1055-aa19-45d1-b6f9-819f5c95d8e6",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18025,6 +18459,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "f81c3218-88d7-4a03-b354-ee9e7bdc6fb9",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18041,6 +18476,7 @@
       "on_behalf_of_id": "URP",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "f92eede7-0157-4083-b44d-16747ee050b7",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18108,13 +18544,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/orange_democratic_movement",
-      "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
-      "person_id": "fd5c33f3-6800-41e9-bb8f-c5bb59a1a146",
-      "role": "member"
-    },
-    {
       "area_id": "area/marakwet_east",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "URP",
@@ -18128,6 +18557,7 @@
       "on_behalf_of_id": "TNA",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "fd7e5959-2da7-49ff-8d17-e872ec588c18",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18136,6 +18566,7 @@
       "on_behalf_of_id": "party/wiper_democratic_movement_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "fda1a94a-3af4-4e70-8808-4412c482ea63",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18144,6 +18575,7 @@
       "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "fe8bb5a4-3b3c-42b0-abfa-e2c2241f31fa",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18160,6 +18592,7 @@
       "on_behalf_of_id": "party/new_ford_kenya",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "person_id": "ff29b4af-ae87-4c7f-a1ef-894207117560",
+      "post_id": "women's_representative",
       "role": "member"
     },
     {
@@ -18726,6 +19159,11 @@
     {
       "id": "area/juja",
       "name": "Juja",
+      "type": "constituency"
+    },
+    {
+      "id": "area/kabete",
+      "name": "Kabete",
       "type": "constituency"
     },
     {
@@ -19934,11 +20372,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/wajir",
-      "name": "Wajir",
-      "type": "constituency"
-    },
-    {
       "id": "area/wajir_east",
       "name": "Wajir East",
       "type": "constituency"
@@ -19961,11 +20394,6 @@
     {
       "id": "area/webuye_east",
       "name": "Webuye East",
-      "type": "constituency"
-    },
-    {
-      "id": "area/webuye_west",
-      "name": "Webuye West",
       "type": "constituency"
     },
     {
