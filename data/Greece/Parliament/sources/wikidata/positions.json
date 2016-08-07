@@ -274,29 +274,38 @@
   ],
   "Q1886385": [
     {
-      "id": "Q83307",
-      "label": "minister",
-      "title": "minister",
-      "description": "politician who holds significant public office in a national or regional government"
-    },
-    {
       "id": "Q23901083",
       "label": "Minister of Health of Greece",
-      "title": "Minister of Health of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Health of Greece (of Cabinet of Antonis Samaras)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2014-06-10",
+        "P582": "2015-01-27",
+        "P1365": "Adonis Georgiades",
+        "P1366": "Panagiotis Kouroumplis",
+        "P642": "Cabinet of Antonis Samaras"
+      }
     },
     {
       "id": "Q23901465",
       "label": "Minister for Infrastructure, Transport and Networks",
-      "title": "Minister for Infrastructure, Transport and Networks",
-      "description": "Greek government minister"
+      "title": "Minister for Infrastructure, Transport and Networks (of Coalition Cabinet of Lucas Papademos)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2011-11-11",
+        "P582": "2012-05-17",
+        "P1365": "Giannis Ragousis",
+        "P642": "Coalition Cabinet of Lucas Papademos"
+      }
     },
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of Popular Orthodox Rally)",
       "qualifiers": {
-        "P768": "Attica"
+        "P768": "Attica",
+        "P580": "2007",
+        "P642": "Popular Orthodox Rally"
       }
     }
   ],
@@ -839,6 +848,44 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Athens A"
+      }
+    }
+  ],
+  "Q470533": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament (of Party of European Socialists)",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1994",
+        "P582": "2004",
+        "P768": "Greece",
+        "P642": "Party of European Socialists"
+      }
+    },
+    {
+      "id": "Q23651610",
+      "label": "Q23651610",
+      "title": "Q23651610 (of National Unity Cabinet of Konstantinos Karamanlis)",
+      "description": "undersecretary to a ministry of the Greek government",
+      "qualifiers": {
+        "P580": "1974-07-26",
+        "P582": "1974-10-09",
+        "P1366": "Q23308567",
+        "P1706": "Q20127745",
+        "P642": "National Unity Cabinet of Konstantinos Karamanlis"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of Union of the Democratic Centre)",
+      "qualifiers": {
+        "P580": "1974",
+        "P582": "1976",
+        "P768": "Q26215021",
+        "P642": "Union of the Democratic Centre"
       }
     }
   ],
@@ -4073,9 +4120,12 @@
   ],
   "Q23670570": [
     {
-      "id": "Q24306178",
-      "label": "Q24306178",
-      "title": "Q24306178"
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26220077"
+      }
     },
     {
       "id": "Q18915989",
@@ -6433,7 +6483,10 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament"
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26220071"
+      }
     },
     {
       "id": "Q19860769",
@@ -6475,11 +6528,6 @@
       "label": "Q23641350",
       "title": "Q23641350",
       "description": "undersecretary to a ministry of the Greek government"
-    },
-    {
-      "id": "Q24323821",
-      "label": "Q24323821",
-      "title": "Q24323821"
     }
   ],
   "Q17605586": [
@@ -6577,11 +6625,19 @@
       "description": "undersecretary to a ministry of the Greek government"
     },
     {
-      "id": "Q24306451",
-      "label": "Q24306451",
-      "title": "Q24306451",
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Thessaloniki B"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q26219925"
       }
     }
   ],
@@ -6962,7 +7018,7 @@
       "qualifiers": {
         "P580": "1974",
         "P582": "1996",
-        "P768": "Q24306451",
+        "P768": "Q26219925",
         "P642": "Panhellenic Socialist Movement"
       }
     },
