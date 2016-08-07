@@ -12965,6 +12965,17 @@
       "description": "member of a regional council in France"
     }
   ],
+  "Q24255086": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Bas-Rhin's 1st constituency",
+        "P580": "2016-05-30"
+      }
+    }
+  ],
   "Q3265107": [
     {
       "id": "Q3044918",
@@ -14752,7 +14763,8 @@
       "description": "head of state of France",
       "qualifiers": {
         "P580": "2012-05-15",
-        "P1365": "Nicolas Sarkozy"
+        "P1365": "Nicolas Sarkozy",
+        "P2715": "French presidential election 2012"
       }
     },
     {
@@ -20393,21 +20405,14 @@
   ],
   "Q3172248": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
-      "qualifiers": {
-        "P1366": "Viviane Le Dissez",
-        "P580": "1997",
-        "P582": "2012",
-        "P1365": "Charles Josselin"
-      }
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 2nd constituency",
+        "P580": "1985-12-16",
+        "P582": "1986-04-01"
+      }
     },
     {
       "id": "Q382617",
@@ -20420,6 +20425,46 @@
       "label": "conseiller régional",
       "title": "conseiller régional",
       "description": "member of a regional council in France"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 2nd constituency",
+        "P580": "1992-05-05",
+        "P582": "1993-04-01"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 2nd constituency",
+        "P580": "1997-07-05",
+        "P582": "2002-06-18"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 2nd constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 2nd constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-19"
+      }
     }
   ],
   "Q3300839": [
@@ -21569,7 +21614,8 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3540116",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-07-20"
       }
     }
   ],
@@ -22597,21 +22643,14 @@
   ],
   "Q3083236": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
-      "qualifiers": {
-        "P1366": "Annie Le Houérou",
-        "P580": "2002",
-        "P582": "2012",
-        "P1365": "Félix Leyzour"
-      }
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 4th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
     },
     {
       "id": "Q382617",
@@ -22624,6 +22663,16 @@
       "label": "conseiller régional",
       "title": "conseiller régional",
       "description": "member of a regional council in France"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 4th constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-19"
+      }
     }
   ],
   "Q249802": [
@@ -23027,21 +23076,31 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3540179",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P1365": "Philippe Folliot"
       }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
-      "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "title": "conseiller régional (of Midi-Pyrénées)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P580": "2004",
+        "P642": "Midi-Pyrénées",
+        "P582": "2010"
+      }
     }
   ],
   "Q24512980": [
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Ain's 3rd constituency",
+        "P580": "2016-06-13"
+      }
     }
   ],
   "Q3134497": [
@@ -26166,15 +26225,14 @@
   ],
   "Q2689070": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries"
-    },
-    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 5th constituency",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18"
+      }
     },
     {
       "id": "Q382617",
@@ -26193,6 +26251,16 @@
       "label": "Member of the General Council",
       "title": "Member of the General Council",
       "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Cotes-d'Armor's 5th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
     }
   ],
   "Q2961751": [
@@ -26547,7 +26615,8 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Nord's 1st constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2016-07-21"
       }
     }
   ],
