@@ -38,6 +38,16 @@
       "name": "ALIDY Bin Soufou"
     },
     {
+      "id": "0b524099-26e4-42e3-bff9-1be3f9456b83",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
+        }
+      ],
+      "name": "ANDRIAMAROTIA Ludovic Edmond"
+    },
+    {
       "gender": "female",
       "id": "8e4eaad9-d9cb-4213-a206-728a3cb80bd4",
       "identifiers": [
@@ -70,6 +80,16 @@
         }
       ],
       "name": "ANDRIAMBOAVONJY Nantenaina Herisoa"
+    },
+    {
+      "id": "cfd03deb-b965-45c8-8d90-2951061601c8",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
+        }
+      ],
+      "name": "ANDRIAMIFALISON Réné Rakotonirina"
     },
     {
       "gender": "male",
@@ -121,23 +141,6 @@
         }
       ],
       "name": "ANDRIANIRINA Josoa Marohajaina"
-    },
-    {
-      "gender": "male",
-      "id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
-      "identifiers": [
-        {
-          "identifier": "andrianjaka_samson_goulzar",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
-        }
-      ],
-      "name": "ANDRIANJAKA Samson Goulzar"
     },
     {
       "gender": "male",
@@ -898,23 +901,6 @@
     },
     {
       "gender": "male",
-      "id": "a41230f6-3516-4582-ac49-e2af27014afb",
-      "identifiers": [
-        {
-          "identifier": "rabenirina_jean_jacques",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg"
-        }
-      ],
-      "name": "RABENIRINA Jean Jacques"
-    },
-    {
-      "gender": "male",
       "id": "2cf10402-896e-4097-afce-a3c47a1342b2",
       "identifiers": [
         {
@@ -1079,23 +1065,6 @@
         }
       ],
       "name": "RAHARIJAONA -"
-    },
-    {
-      "gender": "female",
-      "id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
-      "identifiers": [
-        {
-          "identifier": "raharimalala_marie_lydia",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/62.jpg"
-        }
-      ],
-      "name": "RAHARIMALALA Marie Lydia"
     },
     {
       "gender": "female",
@@ -1535,10 +1504,10 @@
     },
     {
       "id": "45d35ef0-28a7-41d3-b011-aab2b07d1cdd",
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png",
       "images": [
         {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/98.jpg"
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/img/vavy.png"
         }
       ],
       "name": "RAMAHATODISOLOMANANA Voanalaroy"
@@ -2800,6 +2769,16 @@
       "name": "ROCHELIN Houssen"
     },
     {
+      "id": "58199d6d-df0d-4ee8-8ee0-6108399e8ce9",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/8.jpg"
+        }
+      ],
+      "name": "ROGER Moussa Jassat"
+    },
+    {
       "gender": "male",
       "id": "22f2f47c-b3b2-47bf-a4a4-9fc736a2f1cf",
       "identifiers": [
@@ -3681,6 +3660,16 @@
           "lang": "cs",
           "name": "bez stranické příslušnosti",
           "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "нестраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "ванстраначки политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -3716,6 +3705,11 @@
       "classification": "party",
       "id": "party/mapar",
       "name": "MAPAR"
+    },
+    {
+      "classification": "party",
+      "id": "party/mapar_ii",
+      "name": "MAPAR II"
     },
     {
       "classification": "party",
@@ -3848,6 +3842,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/betioky_atsimo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/vp-mmm",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "0b524099-26e4-42e3-bff9-1be3f9456b83",
+      "role": "member"
+    },
+    {
       "area_id": "area/vangaindrano",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/leader_fanilo",
@@ -3893,14 +3895,6 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "1980b1ca-4c6a-43e4-a9c1-914e227e007e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ampanihy_andrefana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
-      "person_id": "19da0d0d-eda4-414f-a687-01d2c9cafbc0",
       "role": "member"
     },
     {
@@ -4165,6 +4159,14 @@
       "on_behalf_of_id": "party/mapar",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "57ca41df-fd4e-4df1-9a09-cdf6603364d3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ampanihy_andrefana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar_ii",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "58199d6d-df0d-4ee8-8ee0-6108399e8ce9",
       "role": "member"
     },
     {
@@ -4560,14 +4562,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/betioky_atsimo",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/vp-mmm",
-      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
-      "person_id": "a41230f6-3516-4582-ac49-e2af27014afb",
-      "role": "member"
-    },
-    {
       "area_id": "area/antsirabe_ii",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/m._ravalomanana",
@@ -4704,14 +4698,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/fandriana",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/mapar",
-      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
-      "person_id": "c7ebf7bb-91ec-4c42-bb6e-90358a09111d",
-      "role": "member"
-    },
-    {
       "area_id": "area/manakara",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
@@ -4765,6 +4751,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "cfcd49c7-1559-4096-81f0-52f7f7c484ce",
+      "role": "member"
+    },
+    {
+      "area_id": "area/fandriana",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/mapar",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "cfd03deb-b965-45c8-8d90-2951061601c8",
       "role": "member"
     },
     {
