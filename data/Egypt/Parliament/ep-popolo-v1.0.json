@@ -4587,7 +4587,6 @@
       "name": "كريم عبد الكريم درويش"
     },
     {
-      "birth_date": "1975-05-16",
       "id": "2fa29866-3194-428b-90a8-877827b1e67d",
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4439",
       "images": [
@@ -7205,6 +7204,11 @@
     },
     {
       "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
+    },
+    {
+      "classification": "party",
       "id": "party/الاتحاد",
       "name": "الاتحاد"
     },
@@ -8152,9 +8156,8 @@
       "role": "member"
     },
     {
-      "area_id": "area/القاهرة",
       "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/مستقل",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "c12bfd70-76b4-476b-98a4-0e16a6499688",
       "person_id": "2fa29866-3194-428b-90a8-877827b1e67d",
       "role": "member"
