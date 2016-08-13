@@ -60,6 +60,21 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
+    },
+    {
+      "file": "morph/twitter.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/twitter-list-turkish-politicians",
+        "query": "SELECT * FROM data"
+      },
+      "type": "person",
+      "source": "https://twitter.com/politwoopsTR/lists/turkish-politicians",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/twitter.csv"
+      }
     }
   ]
 }
