@@ -442,6 +442,15 @@
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
       "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+    },
+    {
+      "id": "Q12339722",
+      "label": "transport minister",
+      "title": "transport minister",
+      "qualifiers": {
+        "P580": "2010-07-13",
+        "P582": "2011-04-08"
+      }
     }
   ],
   "Q12059145": [
@@ -1152,7 +1161,7 @@
         "P582": "2002-07-15",
         "P1365": "Josef Tošovský",
         "P1366": "Vladimír Špidla",
-        "P805": "Q3112520"
+        "P805": "Miloš Zeman's cabinet"
       }
     },
     {
@@ -2608,6 +2617,38 @@
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
       "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+    },
+    {
+      "id": "Q7330070",
+      "label": "foreign minister",
+      "title": "foreign minister",
+      "description": "cabinet minister in charge of a nation's foreign affairs",
+      "qualifiers": {
+        "P580": "2002-07-15",
+        "P582": "2006-09-04"
+      }
+    },
+    {
+      "id": "Q17578116",
+      "label": "interior minister",
+      "title": "interior minister",
+      "description": "minister in charge of interior or home affairs",
+      "qualifiers": {
+        "P580": "1998-01-02",
+        "P582": "1998-07-22"
+      }
+    },
+    {
+      "id": "Q1937160",
+      "label": "minister without portfolio",
+      "title": "minister without portfolio (of Mirek Topolánek's Second Cabinet)",
+      "description": "type of government minister",
+      "qualifiers": {
+        "P580": "2007-01-09",
+        "P582": "2009-01-23",
+        "P642": "Mirek Topolánek's Second Cabinet",
+        "P155": "Jiří Pospíšil"
+      }
     }
   ],
   "Q12044086": [
@@ -5568,7 +5609,30 @@
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "2013-10-26"
+      }
+    },
+    {
+      "id": "Q877955",
+      "label": "deputy prime minister",
+      "title": "deputy prime minister (of Bohuslav Sobotka's Cabinet)",
+      "description": "civil servant position",
+      "qualifiers": {
+        "P580": "2014-01-29",
+        "P642": "Bohuslav Sobotka's Cabinet"
+      }
+    },
+    {
+      "id": "Q7614320",
+      "label": "finance minister",
+      "title": "finance minister (of Bohuslav Sobotka's Cabinet)",
+      "description": "position in the government responsible for economic and financial policies",
+      "qualifiers": {
+        "P642": "Bohuslav Sobotka's Cabinet",
+        "P580": "2014-01-29"
+      }
     }
   ],
   "Q12045093": [
@@ -5673,18 +5737,22 @@
     {
       "id": "Q18941264",
       "label": "Member of the Senate of the Parliament of the Czech Republic",
-      "title": "Member of the Senate of the Parliament of the Czech Republic"
+      "title": "Member of the Senate of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1996-11-23",
+        "P582": "2004-11-21"
+      }
     },
     {
       "id": "Q3409229",
       "label": "Prime Minister of the Czech Republic",
-      "title": "Prime Minister of the Czech Republic",
+      "title": "Prime Minister of the Czech Republic (of Mirek Topolánek's First Cabinet)",
       "qualifiers": {
-        "P580": "2006-08",
+        "P580": "2006-08-16",
         "P582": "2009-05-08",
         "P1365": "Jiří Paroubek",
         "P1366": "Jan Fischer",
-        "P805": "Mirek Topolánek's First Cabinet"
+        "P642": "Mirek Topolánek's First Cabinet"
       }
     },
     {
@@ -6458,10 +6526,10 @@
     {
       "id": "Q17578116",
       "label": "interior minister",
-      "title": "interior minister (of Q3112520)",
+      "title": "interior minister (of Miloš Zeman's cabinet)",
       "description": "minister in charge of interior or home affairs",
       "qualifiers": {
-        "P642": "Q3112520",
+        "P642": "Miloš Zeman's cabinet",
         "P580": "2000-04-05",
         "P582": "2002-07-15",
         "P1365": "Václav Grulich",
@@ -6471,10 +6539,10 @@
     {
       "id": "Q877955",
       "label": "deputy prime minister",
-      "title": "deputy prime minister (of Q3112694)",
+      "title": "deputy prime minister (of Vladimír Špidla's cabinet)",
       "description": "civil servant position",
       "qualifiers": {
-        "P642": "Q3112694",
+        "P642": "Vladimír Špidla's cabinet",
         "P580": "2002-06-15",
         "P582": "2004-08-04"
       }
@@ -6874,7 +6942,20 @@
     {
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
-      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1996-06-01",
+        "P582": "1997-06-11"
+      }
+    },
+    {
+      "id": "Q19803234",
+      "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "qualifiers": {
+        "P580": "1998-06-20",
+        "P582": "2002-06-20"
+      }
     }
   ],
   "Q12017398": [
