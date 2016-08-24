@@ -125,6 +125,18 @@
       "label": "member of the House of Representatives of Japan",
       "title": "member of the House of Representatives of Japan",
       "description": "elected Representative of the  House of Representatives of Japan"
+    },
+    {
+      "id": "Q1623534",
+      "label": "Governor (Japan)",
+      "title": "Governor (Japan) (of Hokkaidō Prefecture)",
+      "description": "highest ranking executive of a prefecture",
+      "qualifiers": {
+        "P642": "Hokkaidō Prefecture",
+        "P580": "1969-12-27",
+        "P582": "1983-04",
+        "P2715": "Q11186000"
+      }
     }
   ],
   "Q463331": [
@@ -1242,7 +1254,9 @@
       "label": "Governor of Tokyo",
       "title": "Governor of Tokyo",
       "qualifiers": {
-        "P580": "2016-08"
+        "P580": "2016-08-02",
+        "P2715": "Tokyo gubernatorial election, 2016",
+        "P1365": "Yōichi Masuzoe"
       }
     }
   ],
