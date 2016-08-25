@@ -3402,10 +3402,9 @@
       }
     },
     {
-      "id": "Q23906392",
-      "label": "Prefect",
-      "title": "Prefect",
-      "description": "Greek prefect"
+      "id": "Q26484784",
+      "label": "Q26484784",
+      "title": "Q26484784"
     }
   ],
   "Q4846569": [
@@ -4772,32 +4771,106 @@
     {
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament (of New Democracy)",
       "qualifiers": {
-        "P768": "Athens A"
+        "P768": "Athens A",
+        "P580": "1981",
+        "P582": "2009",
+        "P642": "New Democracy"
       }
     },
     {
       "id": "Q7574264",
       "label": "Speaker of the Hellenic Parliament",
-      "title": "Speaker of the Hellenic Parliament"
+      "title": "Speaker of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2004-03-19",
+        "P582": "2007-09-27",
+        "P1365": "Apostolos Kaklamanis",
+        "P1366": "Dimitris Sioufas"
+      }
     },
     {
       "id": "Q19860560",
       "label": "Minister of Justice of Greece",
-      "title": "Minister of Justice of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Justice of Greece (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1992-12-03",
+        "P582": "1993-09-14",
+        "P1365": "Ioannis Varvitsiotis",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
       "id": "Q19904334",
       "label": "Minister of Culture of Greece",
-      "title": "Minister of Culture of Greece",
-      "description": "Greek government minister"
+      "title": "Minister of Culture of Greece (of Cabinet of Tzannis Tzannetakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1989-07-02",
+        "P582": "1989-07-07",
+        "P1365": "Melina Mercouri",
+        "P1366": "Georgios Mylonas",
+        "P642": "Cabinet of Tzannis Tzannetakis"
+      }
+    },
+    {
+      "id": "Q19904334",
+      "label": "Minister of Culture of Greece",
+      "title": "Minister of Culture of Greece (of Cabinet of Konstantinos Mitsotakis)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "1991-08-08",
+        "P582": "1992-12-03",
+        "P1365": "Tzannis Tzannetakis",
+        "P1366": "Q16512482",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
+    },
+    {
+      "id": "Q23836177",
+      "label": "Q23836177",
+      "title": "Q23836177 (of Cabinet of Tzannis Tzannetakis)",
+      "qualifiers": {
+        "P580": "1989-07-02",
+        "P582": "1989-10-12",
+        "P642": "Cabinet of Tzannis Tzannetakis"
+      }
+    },
+    {
+      "id": "Q23836192",
+      "label": "Q23836192",
+      "title": "Q23836192 (of Cabinet of Konstantinos Mitsotakis)",
+      "qualifiers": {
+        "P580": "1990-04-11",
+        "P582": "1991-08-08",
+        "P642": "Cabinet of Konstantinos Mitsotakis"
+      }
     },
     {
       "id": "Q23772807",
       "label": "Member of the Athens Academy",
-      "title": "Member of the Athens Academy"
+      "title": "Member of the Athens Academy",
+      "qualifiers": {
+        "P580": "2010"
+      }
+    }
+  ],
+  "Q19800967": [
+    {
+      "id": "Q23639048",
+      "label": "minister of defense",
+      "title": "minister of defense",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q18749440"
+      }
     }
   ],
   "Q468064": [
@@ -6843,6 +6916,49 @@
       "id": "Q18915989",
       "label": "Member of the Hellenic Parliament",
       "title": "Member of the Hellenic Parliament"
+    }
+  ],
+  "Q4344616": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament"
+    },
+    {
+      "id": "Q19860560",
+      "label": "Minister of Justice of Greece",
+      "title": "Minister of Justice of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q3559112",
+      "label": "Minister of State of Greece",
+      "title": "Minister of State of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q21485921",
+      "label": "Q21485921",
+      "title": "Q21485921",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q23653047",
+      "label": "Q23653047",
+      "title": "Q23653047",
+      "description": "undersecretary to a ministry of the Greek government"
+    },
+    {
+      "id": "Q23901400",
+      "label": "Minister of Justice, Transparency and Human Rights of Greece",
+      "title": "Minister of Justice, Transparency and Human Rights of Greece",
+      "description": "Greek government minister"
+    },
+    {
+      "id": "Q23901415",
+      "label": "Minister of Labour and Social Insurance of Greece",
+      "title": "Minister of Labour and Social Insurance of Greece",
+      "description": "Greek government minister"
     }
   ],
   "Q12874116": [
