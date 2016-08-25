@@ -23,6 +23,10 @@ class OcdId
     area_ids[name] ||= area_id_from_name(name)
   end
 
+  def area_lookup
+    @area_lookup ||= Hash[ocd_ids.map { |ocd_id| [ocd_id[:id], ocd_id] }]
+  end
+
   private
 
   def area_id_from_name(name)
@@ -249,6 +253,16 @@ namespace :merge_sources do
           r[:area_id] = area
         end
         output_warnings('Unmatched areas')
+
+        merged_rows.select { |r| r[:area].to_s.empty? && r[:area_id].to_s.start_with?('ocd-division') }.each do |r|
+          area = ocd_ids.area_lookup[r[:area_id]]
+          if area.nil?
+            warn_once "  No area_id match for #{r[:area_id]}"
+            next
+          end
+          r[:area] = area[:name]
+        end
+        output_warnings('Unmatched area ids')
       end
     end
 
