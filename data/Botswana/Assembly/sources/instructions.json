@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/botswana-national-assembly-wp",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/botswana-national-assembly",
-        "query": "SELECT name, email, REPLACE(LOWER(name),' ','-') AS id FROM data"
+        "query": "SELECT name, email, REPLACE(LOWER(name),' ','-') AS id FROM data ORDER BY name"
       },
       "source": "http://www.parliament.gov.bw/",
       "type": "person",
@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/botswana-national-assembly-wikidata",
-        "query": "SELECT *, id AS identifier__wikidata FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "https://www.wikidata.org/",
       "type": "wikidata",
