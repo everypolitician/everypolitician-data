@@ -6,6 +6,7 @@ require_relative '../lib/reconciliation'
 require_relative '../lib/remotesource'
 require_relative '../lib/source'
 require_relative '../lib/gender_balancer'
+require_relative '../lib/ocd_patcher'
 
 class OcdId
   attr_reader :ocd_ids
@@ -21,6 +22,10 @@ class OcdId
 
   def from_name(name)
     area_ids[name] ||= area_id_from_name(name)
+  end
+
+  def area_lookup
+    @area_lookup ||= Hash[ocd_ids.map { |ocd_id| [ocd_id[:id], ocd_id] }]
   end
 
   private
@@ -219,37 +224,10 @@ namespace :merge_sources do
     # Map Areas
     if area = sources.find { |src| src.type.downcase == 'ocd' }
       warn "Adding OCD areas from #{area.filename}".green
-      ocds = area.as_table.group_by { |r| r[:id] }
-
-      if area.generate == 'area'
-        merged_rows.each do |r|
-          if ocds.key?(r[:area_id])
-            r[:area] = ocds[r[:area_id]].first[:name]
-          elsif r[:area_id].to_s.empty?
-            warn_once "    No area_id given for #{r[:uuid]}"
-          else
-            # :area_id was given but didn't resolve to an OCD ID.
-            warn_once "    Could not resolve area_id #{r[:area_id]} for #{r[:uuid]}"
-          end
-        end
-        output_warnings('OCD ID issues')
-
-      else
-        # Generate IDs from names
-        overrides_with_string_keys = Hash[area.overrides.map { |k, v| [k.to_s, v] }]
-        fuzzy = (area.merge_instructions || {})[:fuzzy]
-        ocd_ids = OcdId.new(area.as_table, overrides_with_string_keys, fuzzy)
-
-        merged_rows.select { |r| r[:area_id].nil? }.each do |r|
-          area = ocd_ids.from_name(r[:area])
-          if area.nil?
-            warn_once "  No area match for #{r[:area]}"
-            next
-          end
-          r[:area_id] = area
-        end
-        output_warnings('Unmatched areas')
-      end
+      patcher = OcdPatcher.new(area)
+      merged_rows.each { |r| r.merge(patcher.patch(r)) }
+      patcher.warnings.each { |w| warn_once w }
+      output_warnings('OCD ID issues')
     end
 
     # Any local corrections in manual/corrections.csv
