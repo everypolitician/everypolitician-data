@@ -1981,7 +1981,10 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P768": "Q16541787"
+      }
     }
   ],
   "Q13581225": [
@@ -4499,10 +4502,10 @@
       "title": "Secretary of the Democratic Party",
       "description": "leader of the Democratic Party of Italy",
       "qualifiers": {
-        "P156": "Matteo Renzi",
+        "P1366": "Matteo Renzi",
         "P580": "2013-05-11",
         "P582": "2013-12-15",
-        "P155": "Pier Luigi Bersani"
+        "P1365": "Pier Luigi Bersani"
       }
     },
     {
