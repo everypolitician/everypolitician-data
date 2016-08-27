@@ -572,6 +572,30 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q11861334": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2011-04-20",
+        "P768": "Lapland"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
+      "qualifiers": {
+        "P580": "2015-05-29",
+        "P582": "2016-08-24",
+        "P361": "Juha Sipilä's cabinet",
+        "P1365": "Laura Räty",
+        "P1366": "Pirkko Mattila"
+      }
+    }
+  ],
   "Q3497402": [
     {
       "id": "Q2367542",
@@ -662,7 +686,8 @@
         "P580": "2011-06-22",
         "P1365": "Paula Lehtomäki",
         "P582": "2014-09-25",
-        "P1366": "Sanni Grahn-Laasonen"
+        "P1366": "Sanni Grahn-Laasonen",
+        "P361": "Jyrki Katainen's cabinet"
       }
     },
     {
@@ -670,7 +695,19 @@
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland",
       "qualifiers": {
-        "P580": "2007-03-18"
+        "P580": "2007-03-21",
+        "P768": "Finland Proper"
+      }
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "title": "chairperson (of Green League)",
+      "description": "highest officer of an organized group",
+      "qualifiers": {
+        "P642": "Green League",
+        "P580": "2011",
+        "P1365": "Anni Sinnemäki"
       }
     }
   ],
@@ -683,6 +720,28 @@
         "P580": "1983-03-26",
         "P582": "2003-03-18",
         "P768": "Uusimaa"
+      }
+    }
+  ],
+  "Q7198035": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2011-04-20",
+        "P768": "Oulu"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
+      "qualifiers": {
+        "P580": "2016-08-25",
+        "P361": "Juha Sipilä's cabinet",
+        "P1365": "Hanna Mäntylä"
       }
     }
   ],
@@ -1818,6 +1877,41 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q5406165": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2011-04-20",
+        "P768": "Tavastia"
+      }
+    },
+    {
+      "id": "Q1425432",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "description": "Finnish cabinet minister",
+      "qualifiers": {
+        "P580": "2014-09-26",
+        "P582": "2015-05-28",
+        "P361": "Alexander Stubb's cabinet",
+        "P1365": "Ville Niinistö",
+        "P1366": "Kimmo Tiilikainen"
+      }
+    },
+    {
+      "id": "Q11895091",
+      "label": "Minister of Education and Culture of Finland",
+      "title": "Minister of Education and Culture of Finland",
+      "description": "member of the government of Finland",
+      "qualifiers": {
+        "P580": "2015-05-29",
+        "P361": "Juha Sipilä's cabinet",
+        "P1365": "Krista Kiuru"
+      }
+    }
+  ],
   "Q6109579": [
     {
       "id": "Q17592486",
@@ -2573,7 +2667,7 @@
       "title": "member of the Parliament of Finland",
       "qualifiers": {
         "P580": "2011-04-17",
-        "P768": "Oulu (electoral district)"
+        "P768": "Oulu"
       }
     },
     {
@@ -3244,7 +3338,7 @@
       "title": "member of the Parliament of Finland",
       "qualifiers": {
         "P580": "2015-04-22",
-        "P768": "Oulu (electoral district)"
+        "P768": "Oulu"
       }
     }
   ],
