@@ -4544,6 +4544,13 @@
     },
     {
       "birth_date": "1971-06-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "andras.schiffer@parlament.hu"
+        }
+      ],
+      "email": "andras.schiffer@parlament.hu",
       "gender": "male",
       "given_name": "András",
       "id": "4de35018-dd3a-4d0f-b2e7-4f36e0789748",
@@ -6115,6 +6122,11 @@
         {
           "lang": "hu",
           "name": "Tóth Bertalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bertalan Tóth",
           "note": "multilingual"
         }
       ],
@@ -9350,6 +9362,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/László_Horváth_(politician)"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Horváth_László_(politikus)"
         }
       ],
       "name": "Horváth, László",
@@ -11514,13 +11530,6 @@
     },
     {
       "birth_date": "1980-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "novak.elod@parlament.hu"
-        }
-      ],
-      "email": "novak.elod@parlament.hu",
       "gender": "male",
       "id": "6e6824c5-9b7e-43ba-8beb-2ad77a759c2f",
       "identifiers": [
@@ -15561,6 +15570,11 @@
           "lang": "hu",
           "name": "Varju László",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "László Varju",
+          "note": "multilingual"
         }
       ],
       "sources": [
@@ -16844,6 +16858,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -17658,6 +17677,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lehet_Más_a_Politika_logó.png",
       "links": [
         {
           "note": "website",
@@ -18756,6 +18776,7 @@
       "role": "member"
     },
     {
+      "end_date": "2016-08-31",
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "party/jobbik",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
