@@ -1389,6 +1389,10 @@
       ]
     },
     {
+      "id": "c8f8c41b-1c5c-4bb6-b2a8-2eeeacf6c55e",
+      "name": "Non-partisan"
+    },
+    {
       "gender": "male",
       "id": "a63e4070-e5c3-4e62-91b1-936e7b21cc6b",
       "identifiers": [
@@ -1488,6 +1492,7 @@
       ]
     },
     {
+      "birth_date": "1970-12-18",
       "gender": "female",
       "id": "080a3dd5-8493-41e9-9f86-0617f0221c69",
       "identifiers": [
@@ -1559,6 +1564,7 @@
       ]
     },
     {
+      "birth_date": "1958-08-21",
       "gender": "male",
       "id": "0b718e1b-c6fc-4f80-9271-6366cba6dc5c",
       "identifiers": [
@@ -2340,6 +2346,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tg",
+          "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -3003,6 +3014,30 @@
       "start_date": "2013-09-10"
     },
     {
+      "area_id": "ocd-division/country:tv/constituency:",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "153fea0b-2fd9-4947-8cde-0ed2db820827",
+      "person_id": "c8f8c41b-1c5c-4bb6-b2a8-2eeeacf6c55e",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:tv/constituency:",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "153fea0b-2fd9-4947-8cde-0ed2db820827",
+      "person_id": "c8f8c41b-1c5c-4bb6-b2a8-2eeeacf6c55e",
+      "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:tv/constituency:",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "153fea0b-2fd9-4947-8cde-0ed2db820827",
+      "person_id": "c8f8c41b-1c5c-4bb6-b2a8-2eeeacf6c55e",
+      "role": "member"
+    },
+    {
       "area_id": "ocd-division/country:tv/constituency:niutao",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/independent",
@@ -3179,6 +3214,11 @@
     }
   ],
   "areas": [
+    {
+      "id": "ocd-division/country:tv/constituency:",
+      "name": "",
+      "type": "constituency"
+    },
     {
       "id": "ocd-division/country:tv/constituency:funafuti",
       "name": "Funafuti",
