@@ -1466,7 +1466,8 @@
     {
       "id": "Q11991832",
       "label": "Minister for Nordic Co-operation",
-      "title": "Minister for Nordic Co-operation"
+      "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister"
     }
   ],
   "Q20197700": [
@@ -1558,6 +1559,7 @@
       "id": "Q11991832",
       "label": "Minister for Nordic Co-operation",
       "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister",
       "qualifiers": {
         "P580": "2015-06-28",
         "P1365": "Carsten Hansen"
@@ -1676,6 +1678,16 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q12325655": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing",
+      "qualifiers": {
+        "P582": "2015-06-18"
+      }
     }
   ],
   "Q131991": [
@@ -2310,9 +2322,9 @@
       "description": "Danish cabinet position"
     },
     {
-      "id": "Q25775944",
-      "label": "Minister for Nordic Cooperation",
-      "title": "Minister for Nordic Cooperation",
+      "id": "Q11991832",
+      "label": "Minister for Nordic Co-operation",
+      "title": "Minister for Nordic Co-operation",
       "description": "Danish minister",
       "qualifiers": {
         "P580": "2005-02-18",
