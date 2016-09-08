@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/dominican-republic-deputies",
+        "scraper": "everypolitician-scrapers/dominican-republic-deputies",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.camaradediputados.gob.do",
@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/dominican-republic-deputies-wikidata",
+        "scraper": "everypolitician-scrapers/dominican-republic-deputies-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
