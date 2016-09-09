@@ -2375,6 +2375,14 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q5218668": [
+    {
+      "id": "Q4708496",
+      "label": "Alaska Attorney General",
+      "title": "Alaska Attorney General",
+      "description": "attorney general for the U.S. state of Alaska"
+    }
+  ],
   "Q326316": [
     {
       "id": "Q13217683",
@@ -4105,7 +4113,10 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P1365": "Jim DeMint"
+      }
     },
     {
       "id": "Q13218630",
@@ -5343,6 +5354,13 @@
         "P1365": "Earl T. Newbry",
         "P1366": "Howell Appling, Jr."
       }
+    }
+  ],
+  "Q6262874": [
+    {
+      "id": "Q1853534",
+      "label": "Lieutenant Governor of Montana",
+      "title": "Lieutenant Governor of Montana"
     }
   ],
   "Q519256": [
