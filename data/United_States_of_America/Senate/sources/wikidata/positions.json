@@ -231,7 +231,12 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "1963-01-03",
+        "P580": "1959-08-21",
+        "P1366": "Thomas Gill"
+      }
     },
     {
       "id": "Q1140848",
@@ -2375,6 +2380,14 @@
       "description": "elected representative in the US"
     }
   ],
+  "Q5218668": [
+    {
+      "id": "Q4708496",
+      "label": "Alaska Attorney General",
+      "title": "Alaska Attorney General",
+      "description": "attorney general for the U.S. state of Alaska"
+    }
+  ],
   "Q326316": [
     {
       "id": "Q13217683",
@@ -3385,7 +3398,13 @@
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P582": "1959-01-03",
+        "P580": "1953-01-03",
+        "P1365": "E. H. Hedrick",
+        "P1366": "John M. Slack, Jr."
+      }
     },
     {
       "id": "Q1140848",
@@ -4105,7 +4124,10 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P1365": "Jim DeMint"
+      }
     },
     {
       "id": "Q13218630",
@@ -5130,13 +5152,23 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2005-01-03",
+        "P1365": "John Edwards"
+      }
     },
     {
       "id": "Q13218630",
       "label": "United States representative",
       "title": "United States representative",
-      "description": "elected representative in the US"
+      "description": "elected representative in the US",
+      "qualifiers": {
+        "P580": "1995-01-03",
+        "P582": "2005-01-03",
+        "P1366": "Virginia Foxx",
+        "P1365": "Stephen L. Neal"
+      }
     }
   ],
   "Q1094716": [
@@ -5343,6 +5375,13 @@
         "P1365": "Earl T. Newbry",
         "P1366": "Howell Appling, Jr."
       }
+    }
+  ],
+  "Q6262874": [
+    {
+      "id": "Q1853534",
+      "label": "Lieutenant Governor of Montana",
+      "title": "Lieutenant Governor of Montana"
     }
   ],
   "Q519256": [
