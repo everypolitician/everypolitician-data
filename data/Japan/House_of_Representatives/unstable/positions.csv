@@ -1,33 +1,33 @@
-id,name,position,start_date,end_date
-b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Prime Minister of Japan,2012-12-26,
-b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Prime Minister of Japan,2006-09-26,2007-09-26
-b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Chief Cabinet Secretary,2005-10-31,2006-09-26
-d63990b1-ed89-431c-ac9b-5851612255bf,AKIMOTO Tsukasa,member of the House of Councillors,,
-44182c5a-b691-4eef-908b-95fbad712bb4,ASAO Keiichiro,member of the House of Councillors,,
-3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Prime Minister of Japan,2008-09-24,2009-09-16
-3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Deputy Prime Minister of Japan,,
-3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Minister of Finance,,
-33df6fd1-0b45-44fc-af79-5170e7e42b82,EDANO Yukio,Minister for Foreign Affairs,,
-6b9aacdb-34cc-4789-8598-ed7155f8c2d4,HASE Hiroshi,member of the House of Councillors,,
-5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Prime Minister of Japan,2010-06-08,2011-09-02
-5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Minister of Finance,2010-01-06,2010-06-08
-5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Deputy Prime Minister of Japan,2009-09-16,2010-06-08
-10cf15b6-39c4-4b5c-833e-0129a22820dc,KASAI Akira,member of the House of Councillors,,
-6ae24d9c-260e-474c-aae0-4db56ac03d1d,KISHI Nobuo,member of the House of Councillors,,
-7ea3d69d-fbf0-4c4a-a813-9cceb3ea31eb,KOIKE Yuriko,Minister of Defense of Japan,2007-07-04,2007-08-27
-7ea3d69d-fbf0-4c4a-a813-9cceb3ea31eb,KOIKE Yuriko,member of the House of Councillors,,
-6d6f696f-16bc-400d-affd-dcdf2f4a27a9,KOMURA Masahiko,Minister of Defense of Japan,,
-057f0268-8566-4f5a-8087-302b6ce53339,MAEHARA Seiji,Minister for Foreign Affairs,2010-09-17,2011-03-07
-057f0268-8566-4f5a-8087-302b6ce53339,MAEHARA Seiji,"Minister of Land, Infrastructure, Transport and Tourism",,
-16e32d56-18e1-498f-b544-f183de1d18ec,MORIYAMA Hiroshi,member of the House of Councillors,,
-100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,President of the Democratic Party,2011,2012
-100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Senior Vice Minister of Finance,2009,2010
-100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Minister of Finance,2010,2011
-100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Prime Minister of Japan,2011,2012
-eb537672-a848-492e-8689-236cbabf5919,OKADA Katsuya,Deputy Prime Minister of Japan,,
-eb537672-a848-492e-8689-236cbabf5919,OKADA Katsuya,Minister for Foreign Affairs,,
-0a1e6b19-3a9d-4121-986d-8333eecd9499,OZAWA Ichiro,Minister of Home Affairs,,
-0e187ffa-87d9-4795-a10e-5fed486f118d,TANIGAKI Sadakazu,Minister of Justice,,
-8dfee131-67e3-40bd-b54c-6c2bc340368e,TOYAMA Kiyohiko,member of the House of Councillors,,
-03e32c47-5684-4e60-a378-516d829ebf8f,UKISHIMA Tomoko,member of the House of Councillors,,
-96f088b4-9805-4bf7-8151-0fa546587dfe,YOSHIIE Hiroyuki,member of the House of Councillors,,
+id,name,position,start_date,end_date,type
+b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Prime Minister of Japan,2012-12-26,,executive
+b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Prime Minister of Japan,2006-09-26,2007-09-26,executive
+b6b32362-4267-44bf-83a4-9c47c299963c,ABE Shinzo,Chief Cabinet Secretary,2005-10-31,2006-09-26,executive
+d63990b1-ed89-431c-ac9b-5851612255bf,AKIMOTO Tsukasa,member of the House of Councillors,,,other_legislatures
+44182c5a-b691-4eef-908b-95fbad712bb4,ASAO Keiichiro,member of the House of Councillors,,,other_legislatures
+3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Prime Minister of Japan,2008-09-24,2009-09-16,executive
+3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Deputy Prime Minister of Japan,,,executive
+3c134282-5a10-45e7-8c39-7bc2af4cb88e,ASO Taro,Minister of Finance,,,executive
+33df6fd1-0b45-44fc-af79-5170e7e42b82,EDANO Yukio,Minister for Foreign Affairs,,,executive
+6b9aacdb-34cc-4789-8598-ed7155f8c2d4,HASE Hiroshi,member of the House of Councillors,,,other_legislatures
+5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Prime Minister of Japan,2010-06-08,2011-09-02,executive
+5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Minister of Finance,2010-01-06,2010-06-08,executive
+5744afad-f1dd-4f03-a2dc-137032c9f775,KAN Naoto,Deputy Prime Minister of Japan,2009-09-16,2010-06-08,executive
+10cf15b6-39c4-4b5c-833e-0129a22820dc,KASAI Akira,member of the House of Councillors,,,other_legislatures
+6ae24d9c-260e-474c-aae0-4db56ac03d1d,KISHI Nobuo,member of the House of Councillors,,,other_legislatures
+7ea3d69d-fbf0-4c4a-a813-9cceb3ea31eb,KOIKE Yuriko,Minister of Defense of Japan,2007-07-04,2007-08-27,executive
+7ea3d69d-fbf0-4c4a-a813-9cceb3ea31eb,KOIKE Yuriko,member of the House of Councillors,,,other_legislatures
+6d6f696f-16bc-400d-affd-dcdf2f4a27a9,KOMURA Masahiko,Minister of Defense of Japan,,,executive
+057f0268-8566-4f5a-8087-302b6ce53339,MAEHARA Seiji,Minister for Foreign Affairs,2010-09-17,2011-03-07,executive
+057f0268-8566-4f5a-8087-302b6ce53339,MAEHARA Seiji,"Minister of Land, Infrastructure, Transport and Tourism",,,executive
+16e32d56-18e1-498f-b544-f183de1d18ec,MORIYAMA Hiroshi,member of the House of Councillors,,,other_legislatures
+100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,President of the Democratic Party,2011,2012,party
+100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Senior Vice Minister of Finance,2009,2010,executive
+100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Minister of Finance,2010,2011,executive
+100e754b-6551-48a4-860a-c496cfa00688,NODA Yoshihiko,Prime Minister of Japan,2011,2012,executive
+eb537672-a848-492e-8689-236cbabf5919,OKADA Katsuya,Deputy Prime Minister of Japan,,,executive
+eb537672-a848-492e-8689-236cbabf5919,OKADA Katsuya,Minister for Foreign Affairs,,,executive
+0a1e6b19-3a9d-4121-986d-8333eecd9499,OZAWA Ichiro,Minister of Home Affairs,,,executive
+0e187ffa-87d9-4795-a10e-5fed486f118d,TANIGAKI Sadakazu,Minister of Justice,,,executive
+8dfee131-67e3-40bd-b54c-6c2bc340368e,TOYAMA Kiyohiko,member of the House of Councillors,,,other_legislatures
+03e32c47-5684-4e60-a378-516d829ebf8f,UKISHIMA Tomoko,member of the House of Councillors,,,other_legislatures
+96f088b4-9805-4bf7-8151-0fa546587dfe,YOSHIIE Hiroyuki,member of the House of Councillors,,,other_legislatures
