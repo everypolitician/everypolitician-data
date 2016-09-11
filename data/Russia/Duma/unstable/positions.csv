@@ -1,24 +1,24 @@
-id,name,position,start_date,end_date
-8a07b1a9-2915-4fb0-8fbd-bfdda965bd79,Волков Юрий Николаевич,member of the Federation Council of Russia,,
-031bbde0-4b54-4069-af42-d58b5a729b95,Гольдштейн Ростислав Эрнстович,member of the Federation Council of Russia,,
-f8051491-1e6f-4d25-819b-9bae513fc3bc,Жуков Александр Дмитриевич,Deputy Chairman of the Government of the Russian Federation,,
-d825260d-2dba-45d7-bd76-00aba1795f88,Зубов Валерий Михайлович,member of the Federation Council of Russia,,
-52973029-cd44-4bab-8049-684c4284c867,Калашников Сергей Вячеславович,member of the Federation Council of Russia,,
-1f980ed0-8566-4d03-8058-50ce80d40736,Клинцевич Франц Адамович,member of the Federation Council of Russia,,
-b8016ad8-ea41-4dba-b2bd-f574d1082e0e,Кулик Геннадий Васильевич,Deputy Chairman of the Government of the Russian Federation,,
-0e846402-0a62-4b0d-b245-e426accfb538,Лихачев Василий Николаевич,member of the Federation Council of Russia,,
-41f6d2ab-4627-48b4-b7ec-81f9115a87de,Мизулина Елена Борисовна,member of the Federation Council of Russia,,
-14ee17eb-346f-4732-a0e7-dc4bb88447d6,Миронов Сергей Михайлович,member of the Federation Council of Russia,,
-9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Kremlin Chief of Staff,2008-05-12,2011-12-20
-9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,First Deputy Chairman of the Government of the Russian Federation,2007-02-15,2008-05-12
-9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Chairman of the State Duma,2011-12-21,
-9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Deputy Chairman of the Government of the Russian Federation,,
-395ced90-33a9-40b6-b21a-7e39304d2c94,Николаев Михаил Ефимович,member of the Federation Council of Russia,,
-2179d93f-e54b-473d-85c3-f6c51375724d,Пивненко Валентина Николаевна,member of the Federation Council of Russia,,
-46564a59-740e-4f26-a2f0-c2f6f4eb75fd,Позгалев Вячеслав Евгеньевич,member of the Federation Council of Russia,,
-886722b5-0705-4d5c-ae9e-6206f2e0dd71,Попов Сергей Александрович,member of the Federation Council of Russia,,
-54cab0ec-f4b3-4fcc-ac57-829a1dd395fb,Романов Петр Васильевич,member of the Federation Council of Russia,,
-923fe0d6-24cc-4b44-916c-9a856bb64f23,Смолин Олег Николаевич,member of the Federation Council of Russia,,
-334cc26b-66ac-4a0b-b701-027320b84a66,Федоткин Владимир Николаевич,member of the Federation Council of Russia,,
-778c748c-e23c-497d-8a13-e231920cb256,Шудегов Виктор Евграфович,member of the Federation Council of Russia,,
-9ba1e70b-d1a7-473a-9f52-4d68ac6c049e,Шурчанов Валентин Сергеевич,member of the Federation Council of Russia,,
+id,name,position,start_date,end_date,type
+8a07b1a9-2915-4fb0-8fbd-bfdda965bd79,Волков Юрий Николаевич,member of the Federation Council of Russia,,,other_legislatures
+031bbde0-4b54-4069-af42-d58b5a729b95,Гольдштейн Ростислав Эрнстович,member of the Federation Council of Russia,,,other_legislatures
+f8051491-1e6f-4d25-819b-9bae513fc3bc,Жуков Александр Дмитриевич,Deputy Chairman of the Government of the Russian Federation,,,executive
+d825260d-2dba-45d7-bd76-00aba1795f88,Зубов Валерий Михайлович,member of the Federation Council of Russia,,,other_legislatures
+52973029-cd44-4bab-8049-684c4284c867,Калашников Сергей Вячеславович,member of the Federation Council of Russia,,,other_legislatures
+1f980ed0-8566-4d03-8058-50ce80d40736,Клинцевич Франц Адамович,member of the Federation Council of Russia,,,other_legislatures
+b8016ad8-ea41-4dba-b2bd-f574d1082e0e,Кулик Геннадий Васильевич,Deputy Chairman of the Government of the Russian Federation,,,executive
+0e846402-0a62-4b0d-b245-e426accfb538,Лихачев Василий Николаевич,member of the Federation Council of Russia,,,other_legislatures
+41f6d2ab-4627-48b4-b7ec-81f9115a87de,Мизулина Елена Борисовна,member of the Federation Council of Russia,,,other_legislatures
+14ee17eb-346f-4732-a0e7-dc4bb88447d6,Миронов Сергей Михайлович,member of the Federation Council of Russia,,,other_legislatures
+9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Kremlin Chief of Staff,2008-05-12,2011-12-20,other
+9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,First Deputy Chairman of the Government of the Russian Federation,2007-02-15,2008-05-12,executive
+9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Chairman of the State Duma,2011-12-21,,self
+9b4e088c-5410-4b35-b3de-97abb0add671,Нарышкин Сергей Евгеньевич,Deputy Chairman of the Government of the Russian Federation,,,executive
+395ced90-33a9-40b6-b21a-7e39304d2c94,Николаев Михаил Ефимович,member of the Federation Council of Russia,,,other_legislatures
+2179d93f-e54b-473d-85c3-f6c51375724d,Пивненко Валентина Николаевна,member of the Federation Council of Russia,,,other_legislatures
+46564a59-740e-4f26-a2f0-c2f6f4eb75fd,Позгалев Вячеслав Евгеньевич,member of the Federation Council of Russia,,,other_legislatures
+886722b5-0705-4d5c-ae9e-6206f2e0dd71,Попов Сергей Александрович,member of the Federation Council of Russia,,,other_legislatures
+54cab0ec-f4b3-4fcc-ac57-829a1dd395fb,Романов Петр Васильевич,member of the Federation Council of Russia,,,other_legislatures
+923fe0d6-24cc-4b44-916c-9a856bb64f23,Смолин Олег Николаевич,member of the Federation Council of Russia,,,other_legislatures
+334cc26b-66ac-4a0b-b701-027320b84a66,Федоткин Владимир Николаевич,member of the Federation Council of Russia,,,other_legislatures
+778c748c-e23c-497d-8a13-e231920cb256,Шудегов Виктор Евграфович,member of the Federation Council of Russia,,,other_legislatures
+9ba1e70b-d1a7-473a-9f52-4d68ac6c049e,Шурчанов Валентин Сергеевич,member of the Federation Council of Russia,,,other_legislatures
