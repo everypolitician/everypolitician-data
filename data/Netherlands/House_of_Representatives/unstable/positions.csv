@@ -1,26 +1,26 @@
-id,name,position,start_date,end_date
-5e92a19e-c13c-4480-99c5-6578dc829b2a,Anouchka van Miltenburg,Speaker of the House of Representatives (Netherlands),2012-09-25,2015-12-12
-beba2ad6-6ab7-464a-ba31-167944be3452,Barry Madlener,member of the European Parliament,,
-a458a3c4-0681-4d13-a26d-f05416cd877c,Cora van Nieuwenhuizen,member of the European Parliament,,
-790a2238-7d59-4ea7-8883-0fa23df8e655,Edith Schippers,"Minister of Public Health, Welfare and Sport",2010-10-14,
-43b1a768-cd59-4f8c-a4e3-a17dc8e09d64,Frans Timmermans,Minister of Foreign Affairs,2012-11-05,2014-10-17
-43b1a768-cd59-4f8c-a4e3-a17dc8e09d64,Frans Timmermans,European Commissioner,,
-97f4d80b-59b4-4682-a2b7-ec8da79d0a22,Jeanine Hennis-Plasschaert,member of the European Parliament,2004-07-20,2010-06-17
-97f4d80b-59b4-4682-a2b7-ec8da79d0a22,Jeanine Hennis-Plasschaert,Minister of Defence,2012-11-05,
-0ec79cc8-9b32-412e-bfb7-59f4c0f738f1,Jeroen Dijsselbloem,President of the Eurogroup,2013-01-21,
-0ec79cc8-9b32-412e-bfb7-59f4c0f738f1,Jeroen Dijsselbloem,Minister of Finance of the Netherlands,2012-11-05,
-0e7853ef-1e3e-4ec9-a397-dd3be86600f7,Jetta Klijnsma,Mayor of The Hague,,
-0e7853ef-1e3e-4ec9-a397-dd3be86600f7,Jetta Klijnsma,municipal executive of The Hague,,
-a616b100-4973-49ef-8e3e-9e0f71daf936,Khadija Arib,Speaker of the House of Representatives (Netherlands),2016-01-13,
-b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal councillor of Woerden,2001-01-01,2007-07-20
-b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal councillor of Woerden,2010-03-11,2010-05-27
-b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal executive of Woerden,2007-07-20,2010-05-27
-4aecab94-e6c1-4a22-8823-b98f189fde87,Louis Bontes,member of the European Parliament,,
-5f2f464b-9d07-4f8a-81f8-e22659ca0b93,Mark Harbers,municipal executive of Rotterdam,,
-3baca183-76d5-4220-9178-31c619788aea,Mark Rutte,Prime Minister of the Netherlands,2010-10-14,
-745b30ed-21b4-454c-bf84-278802991ac4,Paulus Jansen,municipal executive of Utrecht,,
-3699a855-e1ff-4278-bdf3-02ecccae60e0,Pierre Heijnen,municipal executive of The Hague,,
-da32763c-103e-4229-afe7-3cfd6f03a4c7,Rik Grashoff,municipal executive of Rotterdam,,
-e8a6a712-95ff-4702-a18a-1efe7af90218,Ronald Plasterk,"Minister of Education, Culture and Science",2007-02-22,2010-02-23
-e8a6a712-95ff-4702-a18a-1efe7af90218,Ronald Plasterk,minister of the Interior and Kingdom Relations,2012-11-05,
-88f8db6d-7327-4b84-a36c-6de11d04fb89,Stef Blok,Minister of Housing and the Central Government Sector,2012-11-05,
+id,name,position,start_date,end_date,type
+5e92a19e-c13c-4480-99c5-6578dc829b2a,Anouchka van Miltenburg,Speaker of the House of Representatives (Netherlands),2012-09-25,2015-12-12,self
+beba2ad6-6ab7-464a-ba31-167944be3452,Barry Madlener,member of the European Parliament,,,other_legislatures
+a458a3c4-0681-4d13-a26d-f05416cd877c,Cora van Nieuwenhuizen,member of the European Parliament,,,other_legislatures
+790a2238-7d59-4ea7-8883-0fa23df8e655,Edith Schippers,"Minister of Public Health, Welfare and Sport",2010-10-14,,executive
+43b1a768-cd59-4f8c-a4e3-a17dc8e09d64,Frans Timmermans,Minister of Foreign Affairs,2012-11-05,2014-10-17,executive
+43b1a768-cd59-4f8c-a4e3-a17dc8e09d64,Frans Timmermans,European Commissioner,,,other
+97f4d80b-59b4-4682-a2b7-ec8da79d0a22,Jeanine Hennis-Plasschaert,member of the European Parliament,2004-07-20,2010-06-17,other_legislatures
+97f4d80b-59b4-4682-a2b7-ec8da79d0a22,Jeanine Hennis-Plasschaert,Minister of Defence,2012-11-05,,executive
+0ec79cc8-9b32-412e-bfb7-59f4c0f738f1,Jeroen Dijsselbloem,President of the Eurogroup,2013-01-21,,other
+0ec79cc8-9b32-412e-bfb7-59f4c0f738f1,Jeroen Dijsselbloem,Minister of Finance of the Netherlands,2012-11-05,,executive
+0e7853ef-1e3e-4ec9-a397-dd3be86600f7,Jetta Klijnsma,Mayor of The Hague,,,other
+0e7853ef-1e3e-4ec9-a397-dd3be86600f7,Jetta Klijnsma,municipal executive of The Hague,,,other
+a616b100-4973-49ef-8e3e-9e0f71daf936,Khadija Arib,Speaker of the House of Representatives (Netherlands),2016-01-13,,self
+b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal councillor of Woerden,2001-01-01,2007-07-20,other
+b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal councillor of Woerden,2010-03-11,2010-05-27,other
+b9b2dd6c-a195-43ea-8093-2afb179b962d,Loes Ypma,municipal executive of Woerden,2007-07-20,2010-05-27,other
+4aecab94-e6c1-4a22-8823-b98f189fde87,Louis Bontes,member of the European Parliament,,,other_legislatures
+5f2f464b-9d07-4f8a-81f8-e22659ca0b93,Mark Harbers,municipal executive of Rotterdam,,,other
+3baca183-76d5-4220-9178-31c619788aea,Mark Rutte,Prime Minister of the Netherlands,2010-10-14,,executive
+745b30ed-21b4-454c-bf84-278802991ac4,Paulus Jansen,municipal executive of Utrecht,,,other
+3699a855-e1ff-4278-bdf3-02ecccae60e0,Pierre Heijnen,municipal executive of The Hague,,,other
+da32763c-103e-4229-afe7-3cfd6f03a4c7,Rik Grashoff,municipal executive of Rotterdam,,,other
+e8a6a712-95ff-4702-a18a-1efe7af90218,Ronald Plasterk,"Minister of Education, Culture and Science",2007-02-22,2010-02-23,executive
+e8a6a712-95ff-4702-a18a-1efe7af90218,Ronald Plasterk,minister of the Interior and Kingdom Relations,2012-11-05,,executive
+88f8db6d-7327-4b84-a36c-6de11d04fb89,Stef Blok,Minister of Housing and the Central Government Sector,2012-11-05,,executive
