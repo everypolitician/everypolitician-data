@@ -1466,7 +1466,8 @@
     {
       "id": "Q11991832",
       "label": "Minister for Nordic Co-operation",
-      "title": "Minister for Nordic Co-operation"
+      "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister"
     }
   ],
   "Q20197700": [
@@ -1558,6 +1559,7 @@
       "id": "Q11991832",
       "label": "Minister for Nordic Co-operation",
       "title": "Minister for Nordic Co-operation",
+      "description": "Danish minister",
       "qualifiers": {
         "P580": "2015-06-28",
         "P1365": "Carsten Hansen"
@@ -1676,6 +1678,16 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q12325655": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing",
+      "qualifiers": {
+        "P582": "2015-06-18"
+      }
     }
   ],
   "Q131991": [
@@ -1948,6 +1960,25 @@
       "label": "Minister of Economic and Business Affairs",
       "title": "Minister of Economic and Business Affairs",
       "description": "Danish minister"
+    },
+    {
+      "id": "Q2824523",
+      "label": "board member",
+      "title": "board member (of ESVAGT)",
+      "qualifiers": {
+        "P642": "ESVAGT",
+        "P582": "2015-07-03",
+        "P580": "2008-12-08"
+      }
+    },
+    {
+      "id": "Q2824523",
+      "label": "board member",
+      "title": "board member (of Lauritzen Foundation)",
+      "qualifiers": {
+        "P642": "Lauritzen Foundation",
+        "P580": "2009-01-01"
+      }
     }
   ],
   "Q12325727": [
@@ -2310,9 +2341,9 @@
       "description": "Danish cabinet position"
     },
     {
-      "id": "Q25775944",
-      "label": "Minister for Nordic Cooperation",
-      "title": "Minister for Nordic Cooperation",
+      "id": "Q11991832",
+      "label": "Minister for Nordic Co-operation",
+      "title": "Minister for Nordic Co-operation",
       "description": "Danish minister",
       "qualifiers": {
         "P580": "2005-02-18",
@@ -2968,6 +2999,15 @@
         "P582": "1993-03-29",
         "P1365": "Hans Engell",
         "P1366": "Erling Olsen"
+      }
+    },
+    {
+      "id": "Q2824523",
+      "label": "board member",
+      "title": "board member (of DONG Energy)",
+      "qualifiers": {
+        "P642": "DONG Energy",
+        "P580": "2012-04-18"
       }
     }
   ],
