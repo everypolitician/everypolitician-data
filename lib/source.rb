@@ -17,6 +17,7 @@ module Source
       return Source::Elections.new(i)   if i[:type] == 'wikidata-elections'
       return Source::Term.new(i)        if i[:type] == 'term'
       return Source::Corrections.new(i) if i[:type] == 'corrections'
+      return Source::Areas.new(i)       if i[:type] == 'wikidata-areas'
       raise "Don't know how to handle #{i[:type]} files (#{i})"
     end
 
@@ -253,5 +254,11 @@ module Source
   end
 
   class Corrections < PlainCSV
+  end
+
+  class Areas < PlainCSV
+    def fields
+      %i(area area_id)
+    end
   end
 end

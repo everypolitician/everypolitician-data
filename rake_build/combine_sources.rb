@@ -7,6 +7,7 @@ require_relative '../lib/remotesource'
 require_relative '../lib/source'
 require_relative '../lib/gender_balancer'
 require_relative '../lib/ocd_id'
+require_relative '../lib/wikidata_area_lookup'
 
 class String
   def tidy
@@ -203,6 +204,16 @@ namespace :merge_sources do
         end
         output_warnings('Unmatched areas')
       end
+    end
+
+    if areas = sources.find { |src| src.type.downcase == 'wikidata-areas' }
+      warn "Adding Wikidata areas from #{areas.filename}".green
+      area_lookup = WikidataAreaLookup.new(areas.as_table)
+      merged_rows.each do |r|
+        r[:area_id] = area_lookup.find_by_name(r[:area])
+        warn_once "  No area match for #{r[:area]}" if r[:area_id].nil?
+      end
+      output_warnings('Unmatched Wikidata areas')
     end
 
     # Any local corrections in manual/corrections.csv

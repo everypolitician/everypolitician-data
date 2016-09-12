@@ -56,19 +56,13 @@
       }
     },
     {
-      "file": "ocd/divisions.csv",
+      "file": "wikidata/areas.csv",
       "create": {
-        "from": "ocd",
-        "source": "country-au/federal_electorates.csv"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/australia-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "merge": {
-        "overrides": {
-          "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser",
-          "Northern Territory": ""
-        },
-        "fuzzy": true
-      },
-      "type": "ocd"
+      "type": "wikidata-areas"
     },
     {
       "file": "morph/terms.csv",
