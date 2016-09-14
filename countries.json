@@ -2644,12 +2644,20 @@
         "slug": "Diputados",
         "sources_directory": "data/Dominican_Republic/Diputados/sources",
         "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1bdb936b65cff60facc43ae425b3edff80b89441/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29d2676a48a543c3b9ec74e0b6f28faab594f991/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
         "names": "data/Dominican_Republic/Diputados/names.csv",
-        "lastmod": "1469806255",
-        "person_count": 190,
-        "sha": "1bdb936b65cff60facc43ae425b3edff80b89441",
+        "lastmod": "1473334270",
+        "person_count": 274,
+        "sha": "29d2676a48a543c3b9ec74e0b6f28faab594f991",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "2016–2020",
+            "start_date": "2016-08-15",
+            "slug": "2016",
+            "csv": "data/Dominican_Republic/Diputados/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29d2676a48a543c3b9ec74e0b6f28faab594f991/data/Dominican_Republic/Diputados/term-2016.csv"
+          },
           {
             "end_date": "2016-08-15",
             "id": "term/2010",
@@ -2657,10 +2665,10 @@
             "start_date": "2010",
             "slug": "2010",
             "csv": "data/Dominican_Republic/Diputados/term-2010.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1bdb936b65cff60facc43ae425b3edff80b89441/data/Dominican_Republic/Diputados/term-2010.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29d2676a48a543c3b9ec74e0b6f28faab594f991/data/Dominican_Republic/Diputados/term-2010.csv"
           }
         ],
-        "statement_count": 3777
+        "statement_count": 5455
       }
     ]
   },
