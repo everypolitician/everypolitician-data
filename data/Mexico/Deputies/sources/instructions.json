@@ -14,7 +14,7 @@
       "file": "morph/official-LXIII.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/mexico-diputados-2015",
+        "scraper": "everypolitician-scrapers/mexico-diputados-2015",
         "query": "SELECT *, '2015-' || id AS id FROM data ORDER BY id"
       },
       "source": "http://sitl.diputados.gob.mx/LXIII_leg/listado_diputados_gpnp.php?tipot=TOTAL",
