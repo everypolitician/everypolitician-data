@@ -4,7 +4,7 @@
       "file": "morph/openaustralia.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
+        "scraper": "everypolitician-scrapers/australia-openaustralia",
         "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
