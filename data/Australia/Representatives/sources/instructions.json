@@ -4,7 +4,7 @@
       "file": "morph/openaustralia.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
+        "scraper": "everypolitician-scrapers/australia-openaustralia",
         "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
       },
       "source": "http://data.openaustralia.org/",
@@ -28,7 +28,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/australia-house-of-representatives-wikidata",
+        "scraper": "everypolitician-scrapers/australia-house-of-representatives-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
@@ -74,7 +74,7 @@
       "file": "morph/terms.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/australia-openaustralia",
+        "scraper": "everypolitician-scrapers/australia-openaustralia",
         "query": "SELECT * FROM terms ORDER BY id"
       },
       "type": "term"
