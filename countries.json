@@ -1841,33 +1841,43 @@
         "slug": "Commons",
         "sources_directory": "data/Canada/Commons/sources",
         "popolo": "data/Canada/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/847f1c9ceab0605d774aa3a1fddfc47cef00c5e9/data/Canada/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8912959de598122a8f5cf2f2fe0e3b52ceb6a839/data/Canada/Commons/ep-popolo-v1.0.json",
         "names": "data/Canada/Commons/names.csv",
-        "lastmod": "1474530944",
+        "lastmod": "1474828100",
         "person_count": 537,
-        "sha": "847f1c9ceab0605d774aa3a1fddfc47cef00c5e9",
+        "sha": "8912959de598122a8f5cf2f2fe0e3b52ceb6a839",
         "legislative_periods": [
           {
             "id": "term/42",
+            "identifiers": [
+              {
+                "identifier": "Q21157957",
+                "scheme": "wikidata"
+              }
+            ],
             "name": "42nd Parliament",
             "start_date": "2015-12-03",
-            "wikidata": "Q21157957",
             "slug": "42",
             "csv": "data/Canada/Commons/term-42.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0276dc93a10b144b3ab85ea28a10e45dc5e0bd85/data/Canada/Commons/term-42.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8912959de598122a8f5cf2f2fe0e3b52ceb6a839/data/Canada/Commons/term-42.csv"
           },
           {
             "end_date": "2015-08-02",
             "id": "term/41",
+            "identifiers": [
+              {
+                "identifier": "Q2816776",
+                "scheme": "wikidata"
+              }
+            ],
             "name": "41st Parliament",
             "start_date": "2011-06-02",
-            "wikidata": "Q2816776",
             "slug": "41",
             "csv": "data/Canada/Commons/term-41.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0276dc93a10b144b3ab85ea28a10e45dc5e0bd85/data/Canada/Commons/term-41.csv"
           }
         ],
-        "statement_count": 37499
+        "statement_count": 37655
       }
     ]
   },
