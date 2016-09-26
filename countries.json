@@ -5298,17 +5298,22 @@
         "slug": "Saeima",
         "sources_directory": "data/Latvia/Saeima/sources",
         "popolo": "data/Latvia/Saeima/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f0bd86f4b415237c7b19c90b489a67bf76a994fd/data/Latvia/Saeima/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed3aba78a4164e25f0a90698f9d192314640be37/data/Latvia/Saeima/ep-popolo-v1.0.json",
         "names": "data/Latvia/Saeima/names.csv",
-        "lastmod": "1474557164",
+        "lastmod": "1474803745",
         "person_count": 203,
-        "sha": "f0bd86f4b415237c7b19c90b489a67bf76a994fd",
+        "sha": "ed3aba78a4164e25f0a90698f9d192314640be37",
         "legislative_periods": [
           {
             "id": "term/12",
+            "identifiers": [
+              {
+                "identifier": "Q20557340",
+                "scheme": "wikidata"
+              }
+            ],
             "name": "12th Saeima",
             "start_date": "2014-11-04",
-            "wikidata": "Q20557340",
             "slug": "12",
             "csv": "data/Latvia/Saeima/term-12.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/87e65f09286a5549fd00d78ab7669af30c30b1a4/data/Latvia/Saeima/term-12.csv"
@@ -5316,9 +5321,14 @@
           {
             "end_date": "2014-11-03",
             "id": "term/11",
+            "identifiers": [
+              {
+                "identifier": "Q13098708",
+                "scheme": "wikidata"
+              }
+            ],
             "name": "11th Saeima",
             "start_date": "2011-10-17",
-            "wikidata": "Q13098708",
             "slug": "11",
             "csv": "data/Latvia/Saeima/term-11.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/585373645f4dfcb30fb34455dddc96808242a0df/data/Latvia/Saeima/term-11.csv"
@@ -5326,15 +5336,20 @@
           {
             "end_date": "2011-10-16",
             "id": "term/10",
+            "identifiers": [
+              {
+                "identifier": "Q16347625",
+                "scheme": "wikidata"
+              }
+            ],
             "name": "10th Saeima",
             "start_date": "2010-11-02",
-            "wikidata": "Q16347625",
             "slug": "10",
             "csv": "data/Latvia/Saeima/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/585373645f4dfcb30fb34455dddc96808242a0df/data/Latvia/Saeima/term-10.csv"
           }
         ],
-        "statement_count": 27128
+        "statement_count": 27131
       }
     ]
   },
