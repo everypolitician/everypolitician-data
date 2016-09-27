@@ -10324,24 +10324,23 @@
     "name": "United Kingdom",
     "country": "United Kingdom",
     "code": "GB",
-    "slug": "UK",
+    "slug": "United-Kingdom",
     "legislatures": [
       {
         "name": "House of Commons",
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a46ef721903ad86a07af2abbebf469015e9b4367/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8338841e6a148f1beda7ac961dad66a19bf8a375/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1474220878",
+        "lastmod": "1474905431",
         "person_count": 1341,
-        "sha": "a46ef721903ad86a07af2abbebf469015e9b4367",
+        "sha": "8338841e6a148f1beda7ac961dad66a19bf8a375",
         "legislative_periods": [
           {
             "id": "term/56",
             "name": "56th Parliament of the United Kingdom",
             "start_date": "2015-05-08",
-            "wikidata": "Q21084473",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75450af74ffa8cbacb9d7ea187e10666843621fc/data/UK/Commons/term-56.csv"
@@ -10351,17 +10350,15 @@
             "id": "term/55",
             "name": "55th Parliament of the United Kingdom",
             "start_date": "2010-05-06",
-            "wikidata": "Q21084472",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75450af74ffa8cbacb9d7ea187e10666843621fc/data/UK/Commons/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8338841e6a148f1beda7ac961dad66a19bf8a375/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
             "id": "term/54",
             "name": "54th Parliament of the United Kingdom",
             "start_date": "2005-05-05",
-            "wikidata": "Q21084471",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75450af74ffa8cbacb9d7ea187e10666843621fc/data/UK/Commons/term-54.csv"
@@ -10371,7 +10368,6 @@
             "id": "term/53",
             "name": "53rd Parliament of the United Kingdom",
             "start_date": "2001-06-07",
-            "wikidata": "Q21084470",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75450af74ffa8cbacb9d7ea187e10666843621fc/data/UK/Commons/term-53.csv"
@@ -10381,13 +10377,12 @@
             "id": "term/52",
             "name": "52nd Parliament of the United Kingdom",
             "start_date": "1997-05-01",
-            "wikidata": "Q21084469",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/75450af74ffa8cbacb9d7ea187e10666843621fc/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 133521
+        "statement_count": 133653
       }
     ]
   },
