@@ -7796,7 +7796,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/PU_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -9875,6 +9874,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/distrito_central",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/lider",
+      "organization_id": "d719b911-f7d9-4588-8889-1e208ed3e66b",
+      "person_id": "addaf1e4-54fa-4c26-ab79-b3b79ed2ad40",
+      "role": "member"
+    },
+    {
       "area_id": "area/petén",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/lider",
@@ -10965,10 +10972,15 @@
       "classification": "legislative period",
       "end_date": "2016-01-14",
       "id": "term/7",
+      "identifiers": [
+        {
+          "identifier": "Q16644987",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "VII Legislatura",
       "organization_id": "d719b911-f7d9-4588-8889-1e208ed3e66b",
-      "start_date": "2012-01-14",
-      "wikidata": "Q16644987"
+      "start_date": "2012-01-14"
     },
     {
       "classification": "general election",
@@ -10981,10 +10993,15 @@
       "classification": "legislative period",
       "end_date": "2020-01-14",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q23051910",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "VIII Legislatura",
       "organization_id": "d719b911-f7d9-4588-8889-1e208ed3e66b",
-      "start_date": "2016-01-14",
-      "wikidata": "Q23051910"
+      "start_date": "2016-01-14"
     }
   ],
   "areas": [
