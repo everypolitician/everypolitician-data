@@ -298,6 +298,11 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing"
     }
   ],
   "Q12318297": [
@@ -415,6 +420,13 @@
         "P1365": "Holger K. Nielsen",
         "P1366": "Kristian Jensen"
       }
+    }
+  ],
+  "Q12335355": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing"
     }
   ],
   "Q2383396": [
@@ -772,6 +784,19 @@
         "P580": "2015-06-18",
         "P768": "Q12329225"
       }
+    }
+  ],
+  "Q12328808": [
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing"
+    },
+    {
+      "id": "Q121594",
+      "label": "professor",
+      "title": "professor",
+      "description": "highest academic rank at universities and other post-secondary education and research institutions in most countries"
     }
   ],
   "Q12325770": [
@@ -1563,6 +1588,16 @@
       "qualifiers": {
         "P580": "2015-06-28",
         "P1365": "Carsten Hansen"
+      }
+    },
+    {
+      "id": "Q2824523",
+      "label": "board member",
+      "title": "board member (of PKA)",
+      "qualifiers": {
+        "P642": "PKA",
+        "P580": "2010-05-01",
+        "P582": "2015-08-01"
       }
     }
   ],
