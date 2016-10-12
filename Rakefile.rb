@@ -27,8 +27,12 @@ task 'countries.json' do
   # we only build any country that contains that string. For example:
   #    EP_COUNTRY_REFRESH=Latvia be rake countries.json
   to_build = ENV['EP_COUNTRY_REFRESH'] || 'data'
-  countries = EveryPolitician.countries.select do |c|
-    c.slug.downcase.include? to_build.downcase
+  if to_build == 'data'
+    countries = EveryPolitician.countries
+  else
+    countries = countries.select do |c|
+      c.slug.downcase.include? to_build.downcase
+    end
   end
 
   data = json_load('countries.json') rescue {}
