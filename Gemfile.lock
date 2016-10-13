@@ -1,52 +1,24 @@
 GIT
-  remote: git://github.com/everypolitician/everypolitician-dataview-terms.git
-  revision: c492d2247b5a5693a91f45575b5d753bbe58931c
-  specs:
-    everypolitician-dataview-terms (0.0.1)
-      everypolitician-popolo
-
-GIT
-  remote: git://github.com/everypolitician/everypolitician-popolo.git
-  revision: 63c7a135c8436e77f0b7c5e6d3c43f91ee11e88a
-  specs:
-    everypolitician-popolo (0.6.1)
-
-GIT
-  remote: git://github.com/everypolitician/everypolitician-ruby.git
-  revision: 1ab5d5ba15ff42cb1af01ba7528b948becfb1544
-  specs:
-    everypolitician (0.7.0)
-      everypolitician-popolo
-
-GIT
-  remote: git://github.com/everypolitician/twitter_username_extractor.git
-  revision: 891a0f4ea587195fc952305562048f53498b2d84
-  specs:
-    twitter_username_extractor (0.1.0)
-
-GIT
-  remote: git://github.com/everypolitician/wikisnakker.git
-  revision: 3c438db2bb6ac10660d4e03adcbeae35d5834b3a
-  specs:
-    wikisnakker (0.7.0)
-
-GIT
-  remote: git://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: ec39a8bdf9330ef60f4cf5d8d6606c3c090f0223
-  specs:
-    csv_to_popolo (0.27.0)
-      facebook_username_extractor
-      json
-      rcsv
-      twitter_username_extractor
-
-GIT
   remote: https://github.com/everypolitician/close_old_pull_requests
   revision: ea9fe6f2b2468af95af84170bd01c0fddb7f3781
   branch: master
   specs:
     close_old_pull_requests (0.1.0)
       octokit (~> 4.3)
+
+GIT
+  remote: https://github.com/everypolitician/everypolitician-dataview-terms.git
+  revision: f2fc1dd7c8cc4cab65d4a8e1bca7e1790264f808
+  specs:
+    everypolitician-dataview-terms (0.0.1)
+      everypolitician-popolo
+
+GIT
+  remote: https://github.com/everypolitician/everypolitician-popolo.git
+  revision: 63c7a135c8436e77f0b7c5e6d3c43f91ee11e88a
+  ref: 63c7a13
+  specs:
+    everypolitician-popolo (0.6.1)
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-pull_request
@@ -57,6 +29,36 @@ GIT
       everypolitician-popolo
       octokit
       require_all
+
+GIT
+  remote: https://github.com/everypolitician/everypolitician-ruby.git
+  revision: 3ebe575c1d8a3729440096842264d9c0201e0b06
+  specs:
+    everypolitician (0.18.0)
+      everypolitician-popolo
+      require_all
+
+GIT
+  remote: https://github.com/everypolitician/twitter_username_extractor.git
+  revision: cc0aebc0ac8724f2d32ffba8426489ca7b1d92dd
+  specs:
+    twitter_username_extractor (0.2.0)
+
+GIT
+  remote: https://github.com/everypolitician/wikisnakker.git
+  revision: cc55a4f45290c8ad86dc3e2a41ea678e02e3dd94
+  specs:
+    wikisnakker (0.7.0)
+
+GIT
+  remote: https://github.com/tmtmtmtm/csv_to_popolo.git
+  revision: 130f7fc9dbc1a1fbdb7082e598e0a0bedf55d197
+  specs:
+    csv_to_popolo (0.27.1)
+      facebook_username_extractor
+      json
+      rcsv
+      twitter_username_extractor
 
 GEM
   remote: https://rubygems.org/
@@ -177,4 +179,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.12.5
+   1.13.3

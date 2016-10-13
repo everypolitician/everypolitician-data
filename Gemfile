@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 abort 'Ruby should be >= 2.1.0' unless RUBY_VERSION.to_f >= 2.1
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
 gem 'json'
 gem 'nokogiri'
@@ -15,7 +16,7 @@ gem 'sass'
 gem 'unicode_utils'
 gem 'wikisnakker', '~> 0.7.0', github: 'everypolitician/wikisnakker'
 gem 'everypolitician', github: 'everypolitician/everypolitician-ruby'
-gem 'everypolitician-popolo', '~> 0.6.0', github: 'everypolitician/everypolitician-popolo'
+gem 'everypolitician-popolo', '~> 0.6.0', github: 'everypolitician/everypolitician-popolo', ref: '63c7a13'
 gem 'twitter_username_extractor', github: 'everypolitician/twitter_username_extractor'
 gem 'facebook_username_extractor', '~> 0.2.0'
 gem 'json5'
@@ -34,5 +35,3 @@ group :test do
   gem 'rubocop'
   gem 'flog'
 end
-
-
