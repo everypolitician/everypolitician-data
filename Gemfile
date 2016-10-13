@@ -23,7 +23,7 @@ gem 'json5'
 gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'rcsv'
 gem 'require_all'
-gem 'close_old_pull_requests', git: 'https://github.com/everypolitician/close_old_pull_requests', branch: 'master'
+gem 'close_old_pull_requests', github: 'everypolitician/close_old_pull_requests'
 gem 'everypolitician-pull_request', git: 'https://github.com/everypolitician/everypolitician-pull_request', branch: 'master'
 gem 'everypolitician-dataview-terms', github: 'everypolitician/everypolitician-dataview-terms'
 
