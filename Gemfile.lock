@@ -14,10 +14,10 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-popolo.git
-  revision: 63c7a135c8436e77f0b7c5e6d3c43f91ee11e88a
-  ref: 63c7a13
+  revision: 3b3b7abc6d3ed4fc6cd4d3295e4f019219e568bf
   specs:
-    everypolitician-popolo (0.6.1)
+    everypolitician-popolo (0.7.0)
+      require_all
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-pull_request.git
@@ -151,7 +151,7 @@ DEPENDENCIES
   csv_to_popolo (~> 0.27.0)!
   everypolitician!
   everypolitician-dataview-terms!
-  everypolitician-popolo (~> 0.6.0)!
+  everypolitician-popolo (~> 0.7.0)!
   everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
   flog
