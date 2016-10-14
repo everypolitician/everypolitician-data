@@ -1308,9 +1308,9 @@
     },
     {
       "id": "Q676357",
-      "label": "Premier of South Australia",
-      "title": "Premier of South Australia",
-      "description": "head of government for the state of South Australia, Australia"
+      "label": "List of Premiers of South Australia",
+      "title": "List of Premiers of South Australia",
+      "description": "Wikimedia List"
     }
   ],
   "Q6239528": [
@@ -1738,7 +1738,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Western Australia",
+        "P580": "2008-07-01"
+      }
     }
   ],
   "Q6260826": [
