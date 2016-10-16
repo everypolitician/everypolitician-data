@@ -5453,6 +5453,10 @@
           "url": "https://tt.wikipedia.org/wiki/Вячеслав_Володин"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Володін_В'ячеслав_Вікторович"
+        },
+        {
           "note": "Wikipedia (ukwikiquote)",
           "url": "https://ukwikiquote.wikipedia.org/wiki/Володін_В'ячеслав_Вікторович"
         }
@@ -34689,6 +34693,10 @@
           "url": "https://en.wikipedia.org/wiki/Yevgeny_Alexeyevich_Fyodorov"
         },
         {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Eŭgeno_Aleksejeviĉ_Fjodorov"
+        },
+        {
           "note": "Wikipedia (ka)",
           "url": "https://ka.wikipedia.org/wiki/ევგენი_ფიოდოროვი"
         },
@@ -37266,10 +37274,10 @@
     },
     {
       "id": "cd21af7e-3faa-46d0-af51-4f0303611b8f",
-      "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
+      "image": "http://www.duma.gov.ru/upload/iblock/f15/f15a3b1eedf3dcd36ffa3eb23a8b07ee.jpg",
       "images": [
         {
-          "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
+          "url": "http://www.duma.gov.ru/upload/iblock/f15/f15a3b1eedf3dcd36ffa3eb23a8b07ee.jpg"
         }
       ],
       "name": "Шеремет Михаил Сергеевич",
@@ -38786,7 +38794,8 @@
         }
       ],
       "name": "Duma",
-      "seats": 450
+      "seats": 450,
+      "type": "lower house"
     },
     {
       "classification": "party",
@@ -45071,7 +45080,7 @@
       "role": "member"
     },
     {
-      "area_id": "0112",
+      "area_id": "area/Ленинградская_область",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/Вне_фракций",
       "organization_id": "2b944f3a-ffc1-4cd0-a96b-9699b20bb38e",
@@ -48418,11 +48427,6 @@
       "type": "constituency"
     },
     {
-      "id": "0112",
-      "name": "Ленинградская область",
-      "type": "constituency"
-    },
-    {
       "id": "0113",
       "name": "Ленинградская область",
       "type": "constituency"
@@ -48954,7 +48958,7 @@
     },
     {
       "id": "0219",
-      "name": "Город Севастополь город республиканского подчинения",
+      "name": "Город Севастополь",
       "type": "constituency"
     },
     {
