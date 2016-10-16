@@ -48,6 +48,16 @@
       "label": "bishop",
       "title": "bishop",
       "description": "ordained or consecrated member of the Christian clergy"
+    },
+    {
+      "id": "Q140686",
+      "label": "chairperson",
+      "title": "chairperson (of Financial Information Authority)",
+      "description": "highest officer of an organized group",
+      "qualifiers": {
+        "P642": "Financial Information Authority",
+        "P1366": "Giorgio Corbellini"
+      }
     }
   ],
   "Q517279": [
@@ -174,6 +184,20 @@
       "qualifiers": {
         "P642": "Ghana"
       }
+    }
+  ],
+  "Q817288": [
+    {
+      "id": "Q49476",
+      "label": "archbishop",
+      "title": "archbishop",
+      "description": "bishop of higher rank in many Christian denominations"
+    },
+    {
+      "id": "Q29182",
+      "label": "bishop",
+      "title": "bishop",
+      "description": "ordained or consecrated member of the Christian clergy"
     }
   ]
 }
