@@ -4128,22 +4128,31 @@
         "slug": "States",
         "sources_directory": "data/Guernsey/States/sources",
         "popolo": "data/Guernsey/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d665a023b9ea42dc1c418a3ea910365b8b82ee29/data/Guernsey/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58175280fe00d6d03ffae7165f25778c18218c09/data/Guernsey/States/ep-popolo-v1.0.json",
         "names": "data/Guernsey/States/names.csv",
-        "lastmod": "1476563201",
-        "person_count": 49,
-        "sha": "d665a023b9ea42dc1c418a3ea910365b8b82ee29",
+        "lastmod": "1476702730",
+        "person_count": 88,
+        "sha": "58175280fe00d6d03ffae7165f25778c18218c09",
         "legislative_periods": [
           {
+            "id": "term/2016",
+            "name": "2016–",
+            "start_date": "2016-04-27",
+            "slug": "2016",
+            "csv": "data/Guernsey/States/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58175280fe00d6d03ffae7165f25778c18218c09/data/Guernsey/States/term-2016.csv"
+          },
+          {
+            "end_date": "2012-04-26",
             "id": "term/2012",
-            "name": "2012–",
+            "name": "2012–2016",
             "start_date": "2012",
             "slug": "2012",
             "csv": "data/Guernsey/States/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/145fb27181efe040e91fba081c7f7703d29b591d/data/Guernsey/States/term-2012.csv"
           }
         ],
-        "statement_count": 1310
+        "statement_count": 1987
       }
     ]
   },
