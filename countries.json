@@ -6156,15 +6156,24 @@
         "slug": "Assembly",
         "sources_directory": "data/Mongolia/Assembly/sources",
         "popolo": "data/Mongolia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/69eee22c82a07f47a27e0642e75a869c0be1c35f/data/Mongolia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ebb7363638e0070fd7b31084c0de8535c5b745ee/data/Mongolia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Mongolia/Assembly/names.csv",
-        "lastmod": "1470234638",
-        "person_count": 117,
-        "sha": "69eee22c82a07f47a27e0642e75a869c0be1c35f",
+        "lastmod": "1473782746",
+        "person_count": 159,
+        "sha": "ebb7363638e0070fd7b31084c0de8535c5b745ee",
         "legislative_periods": [
           {
+            "id": "term/2016",
+            "name": "State Grand Khural 2016–",
+            "start_date": "2016-06-29",
+            "slug": "2016",
+            "csv": "data/Mongolia/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ebb7363638e0070fd7b31084c0de8535c5b745ee/data/Mongolia/Assembly/term-2016.csv"
+          },
+          {
+            "end_date": "2016-06-29",
             "id": "term/2012",
-            "name": "State Grand Khural 2012–",
+            "name": "State Grand Khural 2012–2016",
             "start_date": "2012-06-28",
             "slug": "2012",
             "csv": "data/Mongolia/Assembly/term-2012.csv",
@@ -6177,10 +6186,10 @@
             "start_date": "2008-07-23",
             "slug": "2008",
             "csv": "data/Mongolia/Assembly/term-2008.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6e339e10ec597d1aee0fdf1a023466bd6342661a/data/Mongolia/Assembly/term-2008.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/074ff98158732b13d2cfdd776a53b5d3c6569e3d/data/Mongolia/Assembly/term-2008.csv"
           }
         ],
-        "statement_count": 4993
+        "statement_count": 5722
       }
     ]
   },
