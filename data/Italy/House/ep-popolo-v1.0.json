@@ -25057,6 +25057,10 @@
           "url": "https://it.wikipedia.org/wiki/Federica_Daga"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дага,_Федерика"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/federica.daghi"
         },
@@ -77332,6 +77336,11 @@
     },
     {
       "classification": "party",
+      "id": "party/civici_e_innovatori",
+      "name": "CIVICI E INNOVATORI"
+    },
+    {
+      "classification": "party",
       "id": "party/democrazia_solidale_-_centro_democratico",
       "identifiers": [
         {
@@ -79584,6 +79593,11 @@
     },
     {
       "classification": "party",
+      "id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "name": "SCELTA CIVICA VERSO CITTADINI PER L'ITALIA-MAIE"
+    },
+    {
+      "classification": "party",
       "id": "party/sinistra_ecologia_liberta'",
       "identifiers": [
         {
@@ -80174,7 +80188,7 @@
     {
       "area_id": "I",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "05c87595-7cfd-4d97-8ed4-fe32a40f9762",
       "role": "member"
@@ -80513,7 +80527,7 @@
     {
       "area_id": "XIII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "142b8305-b109-46cb-88fc-80615b4bbe30",
       "role": "member"
@@ -80529,7 +80543,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "168e264a-1baa-44b3-ada5-0eb8efbf30db",
       "role": "member"
@@ -80868,12 +80882,22 @@
     },
     {
       "area_id": "B",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "24bf14b6-dd2e-4d6b-8432-bf18d4275e4e",
       "role": "member",
       "start_date": "2013-03-21"
+    },
+    {
+      "area_id": "B",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "24bf14b6-dd2e-4d6b-8432-bf18d4275e4e",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "II",
@@ -80973,12 +80997,22 @@
     },
     {
       "area_id": "XVII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "275ac905-4371-4fa0-aefb-43cf41a17620",
       "role": "member",
       "start_date": "2016-07-14"
+    },
+    {
+      "area_id": "XVII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "275ac905-4371-4fa0-aefb-43cf41a17620",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXI",
@@ -81000,7 +81034,7 @@
     {
       "area_id": "X",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "2982c4ae-d7e3-4b11-8f06-69821da29dbe",
       "role": "member"
@@ -81337,7 +81371,7 @@
     {
       "area_id": "VII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "37623b88-0330-4aa3-bee9-d5ee954c01f4",
       "role": "member",
@@ -81538,12 +81572,22 @@
     },
     {
       "area_id": "B",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "3b3af0ff-1693-4f9e-8e75-566524647472",
       "role": "member",
       "start_date": "2013-03-21"
+    },
+    {
+      "area_id": "B",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "3b3af0ff-1693-4f9e-8e75-566524647472",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "VIII",
@@ -82192,12 +82236,22 @@
     },
     {
       "area_id": "X",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "4fbee38c-86ec-45e7-a4d5-b74c01c8253f",
       "role": "member",
       "start_date": "2016-05-19"
+    },
+    {
+      "area_id": "X",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "4fbee38c-86ec-45e7-a4d5-b74c01c8253f",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXIII",
@@ -82371,7 +82425,7 @@
     {
       "area_id": "IV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "5522ac14-06bc-493a-8a42-ea88edb04a07",
       "role": "member"
@@ -82636,12 +82690,22 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "5dbab353-8659-4054-8461-840c0af7bdba",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "5dbab353-8659-4054-8461-840c0af7bdba",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XX",
@@ -83124,12 +83188,22 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "70f12948-71df-43fb-aed3-25758882b320",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "70f12948-71df-43fb-aed3-25758882b320",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXI",
@@ -83168,12 +83242,22 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "729c5adf-1757-4715-97ae-8d59565350ab",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "729c5adf-1757-4715-97ae-8d59565350ab",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XV",
@@ -83389,12 +83473,22 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "76149b8c-bbca-4460-8802-b1bb54b83bb1",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "76149b8c-bbca-4460-8802-b1bb54b83bb1",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXI",
@@ -83443,12 +83537,22 @@
     },
     {
       "area_id": "XXIV",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "784c5a2f-9c3c-402c-8f13-b0e0220c3c4a",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XXIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "784c5a2f-9c3c-402c-8f13-b0e0220c3c4a",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "VIII",
@@ -83479,12 +83583,22 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "78fbe0e7-849b-4c9c-9225-9afd96a4da60",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "78fbe0e7-849b-4c9c-9225-9afd96a4da60",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XX",
@@ -83556,7 +83670,7 @@
     {
       "area_id": "XX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7a58fa21-2851-456f-9682-65337cda45d2",
       "role": "member"
@@ -84227,12 +84341,22 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "8f31ab86-c2ff-4939-b266-d070cef80394",
       "role": "member",
       "start_date": "2016-07-14"
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "8f31ab86-c2ff-4939-b266-d070cef80394",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XV",
@@ -85129,7 +85253,7 @@
     {
       "area_id": "XXVI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "aa3cb215-f4e1-46b9-b85a-d50978b9fdd3",
       "role": "member"
@@ -85491,7 +85615,7 @@
     {
       "area_id": "XXI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "b3939460-64a9-4092-b40d-a849b3845098",
       "role": "member"
@@ -85595,12 +85719,22 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alleanza_liberalpopolare_autonomie_ala-maie-movimento_associativo_italiani_all'estero",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "b8151621-3de1-496a-affb-16168aa1e5c1",
       "role": "member",
       "start_date": "2015-09-24"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b8151621-3de1-496a-affb-16168aa1e5c1",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXIII",
@@ -85920,7 +86054,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c1bbf804-b205-4b4a-b852-10a774bfdd10",
       "role": "member"
@@ -86530,12 +86664,22 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "d2780f24-c170-4791-8626-238f68d94a5a",
       "role": "member",
       "start_date": "2016-07-14"
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "d2780f24-c170-4791-8626-238f68d94a5a",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XI",
@@ -86811,7 +86955,7 @@
     {
       "area_id": "XI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "dcd54fe4-8062-485e-8df2-66ca10ea62d2",
       "role": "member"
@@ -86871,7 +87015,7 @@
     {
       "area_id": "V",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "dfafda27-63c6-4dda-948e-7221820bf7ce",
       "role": "member"
@@ -86992,12 +87136,22 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "e1a1de93-95d7-4529-afeb-8e0d88765ab5",
       "role": "member",
       "start_date": "2016-08-03"
+    },
+    {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e1a1de93-95d7-4529-afeb-8e0d88765ab5",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XXIV",
@@ -87124,12 +87278,22 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_fare!-pri",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "e5e71e47-e066-492d-8853-65e0b9dea578",
       "role": "member",
       "start_date": "2016-04-11"
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e5e71e47-e066-492d-8853-65e0b9dea578",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XV",
@@ -87172,7 +87336,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "e6e39f6d-a744-41de-abbc-3d5ff36e4e38",
       "role": "member",
@@ -87404,7 +87568,7 @@
     {
       "area_id": "VII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ebeef87a-a043-4463-83b5-59c02075dcc6",
       "role": "member"
@@ -87612,12 +87776,22 @@
     },
     {
       "area_id": "II",
+      "end_date": "2016-10-13",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "f4b1207b-a08b-4a6b-a611-cb14f96bfcf3",
       "role": "member",
       "start_date": "2016-07-14"
+    },
+    {
+      "area_id": "II",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/scelta_civica_verso_cittadini_per_l'italia-maie",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "f4b1207b-a08b-4a6b-a611-cb14f96bfcf3",
+      "role": "member",
+      "start_date": "2016-10-13"
     },
     {
       "area_id": "XIV",
