@@ -6,6 +6,26 @@
       "type": "membership"
     },
     {
+      "file": "manual/members-2016.csv",
+      "source": "http://www.gov.gg/states_members",
+      "type": "membership"
+    },
+    {
+      "file": "morph/data.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/guernsey-2016",
+        "query": "SELECT * FROM data"
+      },
+      "source": "https://gov.gg/contactus",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/members.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
