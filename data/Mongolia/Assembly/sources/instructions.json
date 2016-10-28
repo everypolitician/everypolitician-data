@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/mongolia-khurai-wp",
+        "scraper": "everypolitician-scrapers/mongolia-khurai-wp-multiple-terms",
         "query": "SELECT * FROM data"
       },
       "source": "https://en.wikipedia.org/",
