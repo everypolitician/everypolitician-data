@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/data-2016.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/slovakia-national-assembly-2016",
+        "query": "SELECT * FROM data"
+      },
+      "source": "'http://www.nrsr.sk/web/",
+      "type": "membership",
+      "merge": {
+      "incoming_field": "name",
+      "existing_field": "name",
+      "reconciliation_file": "reconciliation/data-2016.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -26,14 +41,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/slovakia-national-council",
-        "query": "SELECT * FROM terms"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",

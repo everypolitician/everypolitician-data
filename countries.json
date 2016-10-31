@@ -8893,19 +8893,28 @@
         "slug": "National-Council",
         "sources_directory": "data/Slovakia/National_Council/sources",
         "popolo": "data/Slovakia/National_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9fc6bc68a92256eaffcc629484d0c0949bc2529e/data/Slovakia/National_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b392e6814cae542d0aea1c9120bfebe4210bc61f/data/Slovakia/National_Council/ep-popolo-v1.0.json",
         "names": "data/Slovakia/National_Council/names.csv",
-        "lastmod": "1477628710",
-        "person_count": 526,
-        "sha": "9fc6bc68a92256eaffcc629484d0c0949bc2529e",
+        "lastmod": "1477660513",
+        "person_count": 600,
+        "sha": "b392e6814cae542d0aea1c9120bfebe4210bc61f",
         "legislative_periods": [
           {
+            "id": "term/7",
+            "name": "7. Národná rada 2016-",
+            "start_date": "2016-03-23",
+            "slug": "7",
+            "csv": "data/Slovakia/National_Council/term-7.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b392e6814cae542d0aea1c9120bfebe4210bc61f/data/Slovakia/National_Council/term-7.csv"
+          },
+          {
+            "end_date": "2016-02-12",
             "id": "term/6",
-            "name": "6. Národná rada 2012-",
+            "name": "6. Národná rada 2012-2016",
             "start_date": "2012-03-11",
             "slug": "6",
             "csv": "data/Slovakia/National_Council/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8693c2d2e57307804bc12106a58cc8bb21d428be/data/Slovakia/National_Council/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b392e6814cae542d0aea1c9120bfebe4210bc61f/data/Slovakia/National_Council/term-6.csv"
           },
           {
             "end_date": "2012-03-10",
@@ -8914,7 +8923,7 @@
             "start_date": "2010-06-13",
             "slug": "5",
             "csv": "data/Slovakia/National_Council/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8693c2d2e57307804bc12106a58cc8bb21d428be/data/Slovakia/National_Council/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b392e6814cae542d0aea1c9120bfebe4210bc61f/data/Slovakia/National_Council/term-5.csv"
           },
           {
             "end_date": "2010-06-12",
@@ -8923,7 +8932,7 @@
             "start_date": "2006-06-17",
             "slug": "4",
             "csv": "data/Slovakia/National_Council/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8693c2d2e57307804bc12106a58cc8bb21d428be/data/Slovakia/National_Council/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b392e6814cae542d0aea1c9120bfebe4210bc61f/data/Slovakia/National_Council/term-4.csv"
           },
           {
             "end_date": "2006-06-16",
@@ -8944,7 +8953,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f1e80bcb72ab7454267295b2d771774fb7770b4/data/Slovakia/National_Council/term-2.csv"
           }
         ],
-        "statement_count": 35665,
+        "statement_count": 38238,
         "type": "unicameral legislature"
       }
     ]
