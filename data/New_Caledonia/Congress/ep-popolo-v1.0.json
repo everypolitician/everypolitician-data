@@ -800,6 +800,24 @@
       ]
     },
     {
+      "family_name": "Tein-Taouva",
+      "given_name": "Hervé",
+      "id": "f54d838a-5aef-4c19-a756-11482654e54c",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg"
+        }
+      ],
+      "name": "Hervé Tein-Taouva",
+      "sort_name": "Tein-Taouva, Hervé",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "family_name": "Kaloi-Bearune",
       "gender": "female",
       "given_name": "Isabelle",
@@ -1250,31 +1268,6 @@
         }
       ],
       "sort_name": "Goyetche, Marie-Pierre",
-      "sources": [
-        {
-          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
-        }
-      ]
-    },
-    {
-      "family_name": "Lagneau",
-      "gender": "female",
-      "given_name": "Martine",
-      "id": "be14f7d7-5702-43f9-b530-bbaec72fc2c3",
-      "identifiers": [
-        {
-          "identifier": "9666",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.congres.nc/wp-content/uploads/2015/01/lagneau.jpg",
-      "images": [
-        {
-          "url": "http://www.congres.nc/wp-content/uploads/2015/01/lagneau.jpg"
-        }
-      ],
-      "name": "Martine Lagneau",
-      "sort_name": "Lagneau, Martine",
       "sources": [
         {
           "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
@@ -2228,6 +2221,24 @@
     {
       "family_name": "Muliakaaka",
       "given_name": "Silipéléto dit Fiu",
+      "id": "03628776-d0a0-4553-a127-25e28ca5d1db",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg"
+        }
+      ],
+      "name": "Silipéléto dit Fiu Muliakaaka",
+      "sort_name": "Muliakaaka, Silipéléto dit Fiu",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
+      "family_name": "Muliakaaka",
+      "given_name": "Silipéléto dit Fiu",
       "id": "55af6c3e-5bb5-458d-8da3-54b1364279a7",
       "identifiers": [
         {
@@ -2779,6 +2790,14 @@
     {
       "area_id": "area/province_sud",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "03628776-d0a0-4553-a127-25e28ca5d1db",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/uni",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "04058462-8af3-4e6d-bf71-4ae476a9183d",
@@ -2937,6 +2956,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "6be2088c-652a-49e6-80c0-faae44fe798f",
+      "role": "member"
+    },
+    {
       "area_id": "area/province_des_îles_loyauté",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
@@ -3067,14 +3094,6 @@
     {
       "area_id": "area/province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "party/ce",
-      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
-      "person_id": "be14f7d7-5702-43f9-b530-bbaec72fc2c3",
-      "role": "member"
-    },
-    {
-      "area_id": "area/province_sud",
-      "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "bf4c5ae5-7795-4b3d-a13c-038ae0237e1a",
@@ -3198,6 +3217,14 @@
       "on_behalf_of_id": "party/ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "f496bff3-3479-4dfa-80bc-bf3c4e2b15d9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_nord",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "f54d838a-5aef-4c19-a756-11482654e54c",
       "role": "member"
     },
     {
