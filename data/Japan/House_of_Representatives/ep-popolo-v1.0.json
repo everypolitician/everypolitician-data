@@ -19814,6 +19814,7 @@
     {
       "birth_date": "1950-12-13",
       "gender": "male",
+      "given_name": "Norio",
       "id": "c782d39e-755b-4259-960a-2c2c86e65198",
       "identifiers": [
         {
@@ -19829,12 +19830,23 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/413.jpg/$File/413.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Norio_Mitsuya_croppwd_2_Norio_Mitsuya_Caroline_Kennedy_and_Keiji_Furuya_20140207_1.jpg"
         }
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Norio_Mitsuya"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Norio_Mitsuya"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/三ツ矢憲生"
         }
       ],
       "name": "MITSUYA Norio",
@@ -19859,8 +19871,23 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "三ツ矢憲生",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "みつや のりお",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Norio Mitsuya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мицуя, Норио",
           "note": "multilingual"
         }
       ],
@@ -39029,32 +39056,32 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hant",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hk",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-cn",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-sg",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -39189,7 +39216,7 @@
         },
         {
           "lang": "zh",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -39320,6 +39347,16 @@
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
@@ -45335,6 +45372,12 @@
       "classification": "general election",
       "end_date": "1903",
       "id": "Q3587192",
+      "identifiers": [
+        {
+          "identifier": "Q3587192",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1903",
       "start_date": "1903"
     },
@@ -45342,6 +45385,12 @@
       "classification": "general election",
       "end_date": "1904",
       "id": "Q11601972",
+      "identifiers": [
+        {
+          "identifier": "Q11601972",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1904",
       "start_date": "1904"
     },
@@ -45349,6 +45398,12 @@
       "classification": "general election",
       "end_date": "1908",
       "id": "Q749936",
+      "identifiers": [
+        {
+          "identifier": "Q749936",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1908",
       "start_date": "1908"
     },
@@ -45356,6 +45411,12 @@
       "classification": "general election",
       "end_date": "1912",
       "id": "Q11600105",
+      "identifiers": [
+        {
+          "identifier": "Q11600105",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1912",
       "start_date": "1912"
     },
@@ -45363,6 +45424,12 @@
       "classification": "general election",
       "end_date": "1915",
       "id": "Q11600147",
+      "identifiers": [
+        {
+          "identifier": "Q11600147",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1915",
       "start_date": "1915"
     },
@@ -45370,6 +45437,12 @@
       "classification": "general election",
       "end_date": "1917",
       "id": "Q3793490",
+      "identifiers": [
+        {
+          "identifier": "Q3793490",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1917",
       "start_date": "1917"
     },
@@ -45377,6 +45450,12 @@
       "classification": "general election",
       "end_date": "1920",
       "id": "Q3587193",
+      "identifiers": [
+        {
+          "identifier": "Q3587193",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1920",
       "start_date": "1920"
     },
@@ -45384,6 +45463,12 @@
       "classification": "general election",
       "end_date": "1924",
       "id": "Q2160572",
+      "identifiers": [
+        {
+          "identifier": "Q2160572",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1924",
       "start_date": "1924"
     },
@@ -45391,6 +45476,12 @@
       "classification": "general election",
       "end_date": "1928-02-20",
       "id": "Q1766365",
+      "identifiers": [
+        {
+          "identifier": "Q1766365",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1928-02-20"
     },
@@ -45398,6 +45489,12 @@
       "classification": "general election",
       "end_date": "1930-02-20",
       "id": "Q2502824",
+      "identifiers": [
+        {
+          "identifier": "Q2502824",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1930-02-20"
     },
@@ -45405,6 +45502,12 @@
       "classification": "general election",
       "end_date": "1932-02-20",
       "id": "Q1766378",
+      "identifiers": [
+        {
+          "identifier": "Q1766378",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1932-02-20"
     },
@@ -45412,6 +45515,12 @@
       "classification": "general election",
       "end_date": "1936",
       "id": "Q2655399",
+      "identifiers": [
+        {
+          "identifier": "Q2655399",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1936",
       "start_date": "1936"
     },
@@ -45419,6 +45528,12 @@
       "classification": "general election",
       "end_date": "1937-04-30",
       "id": "Q2655369",
+      "identifiers": [
+        {
+          "identifier": "Q2655369",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1937-04-30"
     },
@@ -45426,6 +45541,12 @@
       "classification": "general election",
       "end_date": "1942-04-30",
       "id": "Q1766351",
+      "identifiers": [
+        {
+          "identifier": "Q1766351",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1942-04-30"
     },
@@ -45433,6 +45554,12 @@
       "classification": "general election",
       "end_date": "1946-04-10",
       "id": "Q745192",
+      "identifiers": [
+        {
+          "identifier": "Q745192",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1946",
       "start_date": "1946-04-10"
     },
@@ -45440,6 +45567,12 @@
       "classification": "general election",
       "end_date": "1947",
       "id": "Q176661",
+      "identifiers": [
+        {
+          "identifier": "Q176661",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "1947 Japanese general election",
       "start_date": "1947"
     },
@@ -45447,6 +45580,12 @@
       "classification": "general election",
       "end_date": "1949-01-23",
       "id": "Q1766371",
+      "identifiers": [
+        {
+          "identifier": "Q1766371",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1949-01-23"
     },
@@ -45454,6 +45593,12 @@
       "classification": "general election",
       "end_date": "1952-10-01",
       "id": "Q11600664",
+      "identifiers": [
+        {
+          "identifier": "Q11600664",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1952",
       "start_date": "1952-10-01"
     },
@@ -45461,6 +45606,12 @@
       "classification": "general election",
       "end_date": "1953-04-19",
       "id": "Q1766357",
+      "identifiers": [
+        {
+          "identifier": "Q1766357",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1953-04-19"
     },
@@ -45468,6 +45619,12 @@
       "classification": "general election",
       "end_date": "1955-02-27",
       "id": "Q6158640",
+      "identifiers": [
+        {
+          "identifier": "Q6158640",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1955",
       "start_date": "1955-02-27"
     },
@@ -45475,6 +45632,12 @@
       "classification": "general election",
       "end_date": "1958-05-22",
       "id": "Q6158643",
+      "identifiers": [
+        {
+          "identifier": "Q6158643",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1958",
       "start_date": "1958-05-22"
     },
@@ -45482,6 +45645,12 @@
       "classification": "general election",
       "end_date": "1960-11-20",
       "id": "Q6158646",
+      "identifiers": [
+        {
+          "identifier": "Q6158646",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1960",
       "start_date": "1960-11-20"
     },
@@ -45489,6 +45658,12 @@
       "classification": "general election",
       "end_date": "1963-11-21",
       "id": "Q6158649",
+      "identifiers": [
+        {
+          "identifier": "Q6158649",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1963",
       "start_date": "1963-11-21"
     },
@@ -45496,6 +45671,12 @@
       "classification": "general election",
       "end_date": "1967-01-29",
       "id": "Q6158653",
+      "identifiers": [
+        {
+          "identifier": "Q6158653",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1967",
       "start_date": "1967-01-29"
     },
@@ -45503,6 +45684,12 @@
       "classification": "general election",
       "end_date": "1969-12-27",
       "id": "Q835628",
+      "identifiers": [
+        {
+          "identifier": "Q835628",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1969-12-27"
     },
@@ -45510,6 +45697,12 @@
       "classification": "general election",
       "end_date": "1972-12-10",
       "id": "Q843180",
+      "identifiers": [
+        {
+          "identifier": "Q843180",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1972-12-10"
     },
@@ -45517,6 +45710,12 @@
       "classification": "general election",
       "end_date": "1976-12-05",
       "id": "Q1513952",
+      "identifiers": [
+        {
+          "identifier": "Q1513952",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1976-12-05"
     },
@@ -45524,6 +45723,12 @@
       "classification": "general election",
       "end_date": "1979-10-07",
       "id": "Q2915619",
+      "identifiers": [
+        {
+          "identifier": "Q2915619",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1979-10-07"
     },
@@ -45531,6 +45736,12 @@
       "classification": "general election",
       "end_date": "1980-06-22",
       "id": "Q1049953",
+      "identifiers": [
+        {
+          "identifier": "Q1049953",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1980-06-22"
     },
@@ -45538,6 +45749,12 @@
       "classification": "general election",
       "end_date": "1983-12-18",
       "id": "Q827412",
+      "identifiers": [
+        {
+          "identifier": "Q827412",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1983-12-18"
     },
@@ -45545,6 +45762,12 @@
       "classification": "general election",
       "end_date": "1986-07-06",
       "id": "Q844459",
+      "identifiers": [
+        {
+          "identifier": "Q844459",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "1986-07-06"
     },
@@ -45552,6 +45775,12 @@
       "classification": "general election",
       "end_date": "1990-02-18",
       "id": "Q658649",
+      "identifiers": [
+        {
+          "identifier": "Q658649",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1990",
       "start_date": "1990-02-18"
     },
@@ -45559,6 +45788,12 @@
       "classification": "general election",
       "end_date": "1993-07-23",
       "id": "Q205108",
+      "identifiers": [
+        {
+          "identifier": "Q205108",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1993",
       "start_date": "1993-07-23"
     },
@@ -45566,6 +45801,12 @@
       "classification": "general election",
       "end_date": "1996-10-20",
       "id": "Q165265",
+      "identifiers": [
+        {
+          "identifier": "Q165265",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 1996",
       "start_date": "1996-10-20"
     },
@@ -45573,6 +45814,12 @@
       "classification": "general election",
       "end_date": "2000-06-25",
       "id": "Q1558418",
+      "identifiers": [
+        {
+          "identifier": "Q1558418",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 2000",
       "start_date": "2000-06-25"
     },
@@ -45580,6 +45827,12 @@
       "classification": "general election",
       "end_date": "2003-11-09",
       "id": "Q1144707",
+      "identifiers": [
+        {
+          "identifier": "Q1144707",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election",
       "start_date": "2003-11-09"
     },
@@ -45587,6 +45840,12 @@
       "classification": "general election",
       "end_date": "2005-09-11",
       "id": "Q672503",
+      "identifiers": [
+        {
+          "identifier": "Q672503",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 2005",
       "start_date": "2005-09-11"
     },
@@ -45594,6 +45853,12 @@
       "classification": "general election",
       "end_date": "2009-08-30",
       "id": "Q721058",
+      "identifiers": [
+        {
+          "identifier": "Q721058",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 2009",
       "start_date": "2009-08-30"
     },
@@ -45601,6 +45866,12 @@
       "classification": "general election",
       "end_date": "2012-12-16",
       "id": "Q866266",
+      "identifiers": [
+        {
+          "identifier": "Q866266",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Japanese general election, 2012",
       "start_date": "2012-12-16"
     },
@@ -45608,6 +45879,12 @@
       "classification": "general election",
       "end_date": "2014-12-14",
       "id": "Q4638550",
+      "identifiers": [
+        {
+          "identifier": "Q4638550",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "47th Japanese general election",
       "start_date": "2014-12-14"
     },
