@@ -77331,6 +77331,11 @@
           "lang": "zh-cn",
           "name": "民众地区",
           "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Area Popolare",
+          "note": "multilingual"
         }
       ]
     },
@@ -77338,6 +77343,11 @@
       "classification": "party",
       "id": "party/civici_e_innovatori",
       "name": "CIVICI E INNOVATORI"
+    },
+    {
+      "classification": "party",
+      "id": "party/civici_e_innovatori_(era_scpi)",
+      "name": "Civici e Innovatori (era SCpI)"
     },
     {
       "classification": "party",
@@ -80254,7 +80264,7 @@
       "role": "member"
     },
     {
-      "area_id": "XIII",
+      "area_id": "area/umbria",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -80536,9 +80546,9 @@
       "role": "member"
     },
     {
-      "area_id": "XIII",
+      "area_id": "area/umbria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/civici_e_innovatori",
+      "on_behalf_of_id": "party/civici_e_innovatori_(era_scpi)",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "142b8305-b109-46cb-88fc-80615b4bbe30",
       "role": "member"
@@ -81147,7 +81157,7 @@
       "role": "member"
     },
     {
-      "area_id": "A",
+      "area_id": "area/europa",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88996,8 +89006,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/europa",
+      "name": "Europa",
+      "type": "constituency"
+    },
+    {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/umbria",
+      "name": "Umbria",
       "type": "constituency"
     },
     {
