@@ -1341,6 +1341,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "109323895X",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "238170",
           "scheme": "gtaa"
         },
@@ -1351,6 +1355,10 @@
         {
           "identifier": "vhyzn0vt5cvu",
           "scheme": "parlement"
+        },
+        {
+          "identifier": "317122973",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q57640",
@@ -5071,6 +5079,7 @@
     },
     {
       "birth_date": "1956-01-28",
+      "gender": "female",
       "id": "cac5bc14-504f-4e37-9ddf-c674c51b74bf",
       "identifiers": [
         {
@@ -9614,6 +9623,10 @@
           "url": "https://da.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jüri_Ratas"
         },
@@ -9632,6 +9645,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
           "note": "Wikipedia (no)",
@@ -9709,6 +9726,11 @@
         },
         {
           "lang": "is",
+          "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Jüri Ratas",
           "note": "multilingual"
         },
@@ -16939,6 +16961,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0nhr1k3",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "nm0712034",
           "scheme": "imdb"
         },
@@ -16984,6 +17010,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/mihkelraud"
+        },
+        {
+          "note": "website",
+          "url": "http://mihkelraud.ee/"
         }
       ],
       "name": "Mihkel Raud",
@@ -25826,6 +25856,11 @@
           "lang": "zh",
           "name": "愛沙尼亞保守人民黨",
           "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "에스토니아 국민보수당",
+          "note": "multilingual"
         }
       ]
     },
@@ -26238,6 +26273,11 @@
         {
           "lang": "ja",
           "name": "自由党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "에스토니아 자유당",
           "note": "multilingual"
         }
       ]
@@ -26988,6 +27028,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ko",
+          "name": "조국과 공화국을 위한 연합",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "祖国・共和国連合",
           "note": "multilingual"
@@ -27172,6 +27217,11 @@
         {
           "lang": "ja",
           "name": "社会民主党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "사회민주당",
           "note": "multilingual"
         },
         {
@@ -29774,6 +29824,12 @@
       "classification": "general election",
       "end_date": "1920-11-29",
       "id": "Q1891860",
+      "identifiers": [
+        {
+          "identifier": "Q1891860",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election 1920",
       "start_date": "1920-11-29"
     },
@@ -29781,6 +29837,12 @@
       "classification": "general election",
       "end_date": "1923-05-07",
       "id": "Q1495145",
+      "identifiers": [
+        {
+          "identifier": "Q1495145",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1923",
       "start_date": "1923-05-07"
     },
@@ -29788,6 +29850,12 @@
       "classification": "general election",
       "end_date": "1926-05-17",
       "id": "Q1628761",
+      "identifiers": [
+        {
+          "identifier": "Q1628761",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election 1926",
       "start_date": "1926-05-17"
     },
@@ -29795,6 +29863,12 @@
       "classification": "general election",
       "end_date": "1929-05-13",
       "id": "Q940950",
+      "identifiers": [
+        {
+          "identifier": "Q940950",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1929",
       "start_date": "1929-05-13"
     },
@@ -29802,6 +29876,12 @@
       "classification": "general election",
       "end_date": "1932-05-23",
       "id": "Q1633897",
+      "identifiers": [
+        {
+          "identifier": "Q1633897",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election 1932",
       "start_date": "1932-05-23"
     },
@@ -29809,20 +29889,38 @@
       "classification": "general election",
       "end_date": "1938-02-25",
       "id": "Q2075093",
+      "identifiers": [
+        {
+          "identifier": "Q2075093",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election 1938",
-      "start_date": "1938-02-24"
+      "start_date": "1938-02"
     },
     {
       "classification": "general election",
       "end_date": "1940-07-15",
       "id": "Q2052936",
+      "identifiers": [
+        {
+          "identifier": "Q2052936",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1940",
-      "start_date": "1940-07-14"
+      "start_date": "1940"
     },
     {
       "classification": "general election",
       "end_date": "1992-09-20",
       "id": "Q372557",
+      "identifiers": [
+        {
+          "identifier": "Q372557",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1992",
       "start_date": "1992-09-20"
     },
@@ -29830,6 +29928,12 @@
       "classification": "general election",
       "end_date": "1995-03-05",
       "id": "Q1570456",
+      "identifiers": [
+        {
+          "identifier": "Q1570456",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1995",
       "start_date": "1995-03-05"
     },
@@ -29837,6 +29941,12 @@
       "classification": "general election",
       "end_date": "1999-03-07",
       "id": "Q254440",
+      "identifiers": [
+        {
+          "identifier": "Q254440",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 1999",
       "start_date": "1999-03-07"
     },
@@ -29844,6 +29954,12 @@
       "classification": "general election",
       "end_date": "2003-03-02",
       "id": "Q1410969",
+      "identifiers": [
+        {
+          "identifier": "Q1410969",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 2003",
       "start_date": "2003-03-02"
     },
@@ -29851,6 +29967,12 @@
       "classification": "general election",
       "end_date": "2007-03-04",
       "id": "Q1499979",
+      "identifiers": [
+        {
+          "identifier": "Q1499979",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election 2007",
       "start_date": "2007-03-04"
     },
@@ -29858,6 +29980,12 @@
       "classification": "general election",
       "end_date": "2011-03-06",
       "id": "Q933830",
+      "identifiers": [
+        {
+          "identifier": "Q933830",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 2011",
       "start_date": "2011-03-06"
     },
@@ -29879,6 +30007,12 @@
       "classification": "general election",
       "end_date": "2015-03-01",
       "id": "Q16412592",
+      "identifiers": [
+        {
+          "identifier": "Q16412592",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Estonian parliamentary election, 2015",
       "start_date": "2015-03-01"
     },
