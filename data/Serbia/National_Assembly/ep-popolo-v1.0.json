@@ -5001,6 +5001,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Ivica Tončev",
+          "note": "multilingual"
+        },
+        {
           "lang": "sr",
           "name": "Ивица Тончев",
           "note": "multilingual"
@@ -9375,10 +9380,6 @@
           "url": "https://fr.wikipedia.org/wiki/Snežana_Malović"
         },
         {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Snežana_Malović"
-        },
-        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Snežana_Malović"
         },
@@ -10825,6 +10826,7 @@
     },
     {
       "birth_date": "1960",
+      "honorific_suffix": "Prim",
       "id": "2837ee78-4f41-4878-92b6-6fe973d17793",
       "identifiers": [
         {
@@ -11852,11 +11854,6 @@
       "classification": "party",
       "id": "party/democratic_party",
       "name": "Democratic Party"
-    },
-    {
-      "classification": "party",
-      "id": "party/democratic_party_of_serbia",
-      "name": "Democratic Party of Serbia"
     },
     {
       "classification": "party",
@@ -13863,7 +13860,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "934f6396-2890-4de3-b8a9-9da7e1a79328",
       "role": "member"
@@ -13912,7 +13909,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "96c4d284-e6e8-492a-bb63-a4ee25f706cf",
       "role": "member"
@@ -15274,7 +15271,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "e7bdd603-4481-4654-a567-15b893d4e7a6",
       "role": "member"
@@ -15507,7 +15504,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f73a4839-c8ee-4343-960a-1fec916cdd6c",
       "role": "member"
@@ -15522,14 +15519,14 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f93fbc26-d539-410d-b069-6e82805bcb9e",
       "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f9f4379d-6dfd-4b51-85a4-768f3dd4d7ec",
       "role": "member"
@@ -15617,6 +15614,12 @@
       "classification": "general election",
       "end_date": "1990",
       "id": "Q2001802",
+      "identifiers": [
+        {
+          "identifier": "Q2001802",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian general election, 1990",
       "start_date": "1990"
     },
@@ -15624,6 +15627,12 @@
       "classification": "general election",
       "end_date": "1992",
       "id": "Q3722396",
+      "identifiers": [
+        {
+          "identifier": "Q3722396",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 1992",
       "start_date": "1992"
     },
@@ -15631,6 +15640,12 @@
       "classification": "general election",
       "end_date": "1992-12-20",
       "id": "Q3722574",
+      "identifiers": [
+        {
+          "identifier": "Q3722574",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian general election, 1992",
       "start_date": "1992-12-20"
     },
@@ -15638,6 +15653,12 @@
       "classification": "general election",
       "end_date": "1993-12-19",
       "id": "Q3722397",
+      "identifiers": [
+        {
+          "identifier": "Q3722397",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 1993",
       "start_date": "1993-12-19"
     },
@@ -15645,6 +15666,12 @@
       "classification": "general election",
       "end_date": "1997",
       "id": "Q3722398",
+      "identifiers": [
+        {
+          "identifier": "Q3722398",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 1997",
       "start_date": "1997"
     },
@@ -15652,6 +15679,12 @@
       "classification": "general election",
       "end_date": "1997-09-21",
       "id": "Q7452950",
+      "identifiers": [
+        {
+          "identifier": "Q7452950",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian general election, September–October 1997",
       "start_date": "1997-09-21"
     },
@@ -15659,6 +15692,12 @@
       "classification": "general election",
       "end_date": "2000-12-23",
       "id": "Q3722401",
+      "identifiers": [
+        {
+          "identifier": "Q3722401",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2000",
       "start_date": "2000-12-23"
     },
@@ -15666,6 +15705,12 @@
       "classification": "general election",
       "end_date": "2003-12-28",
       "id": "Q1773261",
+      "identifiers": [
+        {
+          "identifier": "Q1773261",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2003",
       "start_date": "2003-12-28"
     },
@@ -15673,6 +15718,12 @@
       "classification": "general election",
       "end_date": "2007-01-21",
       "id": "Q370676",
+      "identifiers": [
+        {
+          "identifier": "Q370676",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2007",
       "start_date": "2007-01-21"
     },
@@ -15680,6 +15731,12 @@
       "classification": "general election",
       "end_date": "2008-05-11",
       "id": "Q1088226",
+      "identifiers": [
+        {
+          "identifier": "Q1088226",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2008",
       "start_date": "2008-05-11"
     },
@@ -15687,6 +15744,12 @@
       "classification": "general election",
       "end_date": "2012-05-06",
       "id": "Q762784",
+      "identifiers": [
+        {
+          "identifier": "Q762784",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2012",
       "start_date": "2012-05-06"
     },
@@ -15694,6 +15757,12 @@
       "classification": "general election",
       "end_date": "2014-03-16",
       "id": "Q15683483",
+      "identifiers": [
+        {
+          "identifier": "Q15683483",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2014",
       "start_date": "2014-03-16"
     },
@@ -15709,6 +15778,12 @@
       "classification": "general election",
       "end_date": "2016-04-24",
       "id": "Q23001752",
+      "identifiers": [
+        {
+          "identifier": "Q23001752",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Serbian parliamentary election, 2016",
       "start_date": "2016-04-24"
     },
