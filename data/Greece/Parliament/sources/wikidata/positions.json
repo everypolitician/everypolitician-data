@@ -1188,6 +1188,16 @@
       }
     }
   ],
+  "Q21027732": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021875"
+      }
+    }
+  ],
   "Q7563998": [
     {
       "id": "Q18915989",
@@ -2023,6 +2033,18 @@
       "qualifiers": {
         "P580": "2015-09-22",
         "P1365": "Antonis Makrydimitris",
+        "P642": "Second Cabinet of Alexis Tsipras",
+        "P582": "2016-11-04"
+      }
+    },
+    {
+      "id": "Q3559112",
+      "label": "Minister of State of Greece",
+      "title": "Minister of State of Greece (of Second Cabinet of Alexis Tsipras)",
+      "description": "Greek government minister",
+      "qualifiers": {
+        "P580": "2016-11-04",
+        "P1365": "Nikos Pappas",
         "P642": "Second Cabinet of Alexis Tsipras"
       }
     }
@@ -4537,35 +4559,6 @@
       "description": "Greek government minister"
     }
   ],
-  "Q24034772": [
-    {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
-    },
-    {
-      "id": "Q18915989",
-      "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament",
-      "qualifiers": {
-        "P768": "Athens A"
-      }
-    },
-    {
-      "id": "Q23836175",
-      "label": "Q23836175",
-      "title": "Q23836175"
-    },
-    {
-      "id": "Q18915989",
-      "label": "Member of the Hellenic Parliament",
-      "title": "Member of the Hellenic Parliament",
-      "qualifiers": {
-        "P768": "Thessaloniki A"
-      }
-    }
-  ],
   "Q18572849": [
     {
       "id": "Q18915989",
@@ -6036,14 +6029,16 @@
       }
     },
     {
-      "id": "Q23901442",
-      "label": "Minister of Education of Greece",
-      "title": "Minister of Education of Greece (of Second Cabinet of Alexis Tsipras)",
-      "description": "Greek government minister",
+      "id": "Q23718008",
+      "label": "Minister of Education, Lifelong Learning and Religions of Greece",
+      "title": "Minister of Education, Lifelong Learning and Religions of Greece (of Second Cabinet of Alexis Tsipras)",
+      "description": "former Greek cabinet position",
       "qualifiers": {
         "P580": "2015-09-23",
         "P1365": "Frosso Kiaou",
-        "P642": "Second Cabinet of Alexis Tsipras"
+        "P642": "Second Cabinet of Alexis Tsipras",
+        "P582": "2016-11-04",
+        "P1366": "Kostas Gavroglu"
       }
     }
   ],
@@ -6799,6 +6794,17 @@
       "qualifiers": {
         "P580": "2015-09",
         "P642": "SYRIZA"
+      }
+    },
+    {
+      "id": "Q23718008",
+      "label": "Minister of Education, Lifelong Learning and Religions of Greece",
+      "title": "Minister of Education, Lifelong Learning and Religions of Greece (of Second Cabinet of Alexis Tsipras)",
+      "description": "former Greek cabinet position",
+      "qualifiers": {
+        "P580": "2016-11-04",
+        "P1365": "Nikos Filis",
+        "P642": "Second Cabinet of Alexis Tsipras"
       }
     }
   ],
