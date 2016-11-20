@@ -800,6 +800,24 @@
       ]
     },
     {
+      "family_name": "Tein-Taouva",
+      "given_name": "Hervé",
+      "id": "573730d4-19e5-4ec0-b327-c32ead5eda3d",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg"
+        }
+      ],
+      "name": "Hervé Tein-Taouva",
+      "sort_name": "Tein-Taouva, Hervé",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "family_name": "Kaloi-Bearune",
       "gender": "female",
       "given_name": "Isabelle",
@@ -2275,6 +2293,24 @@
       ]
     },
     {
+      "family_name": "Muliakaaka",
+      "given_name": "Silipéléto dit Fiu",
+      "id": "d371d48d-5e23-498c-8ff4-e4ce47a71e96",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg"
+        }
+      ],
+      "name": "Silipéléto dit Fiu Muliakaaka",
+      "sort_name": "Muliakaaka, Silipéléto dit Fiu",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "birth_date": "1976-05-21",
       "family_name": "Backès",
       "gender": "female",
@@ -2946,6 +2982,14 @@
     {
       "area_id": "area/province_nord",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "573730d4-19e5-4ec0-b327-c32ead5eda3d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_nord",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/uni",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "5a09db2a-592b-49c8-9b6b-10a787bee0c7",
@@ -3124,6 +3168,14 @@
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "d371d48d-5e23-498c-8ff4-e4ce47a71e96",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "d7b342fd-d4b3-4de0-b945-7b00da348eb3",
       "role": "member"
     },
@@ -3259,7 +3311,7 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "2004",
+      "end_date": "2004-05-09",
       "id": "Q3587377",
       "identifiers": [
         {
@@ -3268,7 +3320,7 @@
         }
       ],
       "name": "New Caledonian legislative election, 2004",
-      "start_date": "2004"
+      "start_date": "2004-05-09"
     },
     {
       "classification": "general election",
