@@ -793,7 +793,9 @@
       "title": "Member of the Scottish Parliament",
       "description": "representative of the people who has been elected to serve in the Scottish Parliament",
       "qualifiers": {
-        "P580": "2011"
+        "P580": "2011-05-06",
+        "P582": "2016-05-06",
+        "P768": "Glasgow"
       }
     },
     {
@@ -801,7 +803,18 @@
       "label": "Leader of the Scottish Conservative Party",
       "title": "Leader of the Scottish Conservative Party",
       "qualifiers": {
-        "P580": "2011-11-04"
+        "P580": "2011-11-04",
+        "P1365": "Annabel Goldie"
+      }
+    },
+    {
+      "id": "Q1711695",
+      "label": "Member of the Scottish Parliament",
+      "title": "Member of the Scottish Parliament",
+      "description": "representative of the people who has been elected to serve in the Scottish Parliament",
+      "qualifiers": {
+        "P580": "2016-05-06",
+        "P768": "Edinburgh Central"
       }
     }
   ],
@@ -1498,7 +1511,11 @@
       "id": "Q1711695",
       "label": "Member of the Scottish Parliament",
       "title": "Member of the Scottish Parliament",
-      "description": "representative of the people who has been elected to serve in the Scottish Parliament"
+      "description": "representative of the people who has been elected to serve in the Scottish Parliament",
+      "qualifiers": {
+        "P580": "2003-05-01",
+        "P768": "Glasgow"
+      }
     }
   ],
   "Q1282862": [
