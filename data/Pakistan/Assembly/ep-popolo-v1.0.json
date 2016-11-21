@@ -17325,10 +17325,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.na.gov.pk/uploads/images/129--.jpg",
+      "image": "http://www.na.gov.pk/en/profile.php?uid=1022",
       "images": [
         {
-          "url": "http://www.na.gov.pk/uploads/images/129--.jpg"
+          "url": "http://www.na.gov.pk/en/profile.php?uid=1022"
         }
       ],
       "links": [
@@ -17350,7 +17350,6 @@
           "note": "multilingual"
         }
       ],
-      "patronymic_name": "Mubashar Iqbal",
       "sources": [
         {
           "url": "http://www.na.gov.pk/en/profile.php?uid=1022"
@@ -22394,6 +22393,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -25034,13 +25038,11 @@
       "role": "member"
     },
     {
-      "area_id": "area/na-129_(lahore-xii)",
       "legislative_period_id": "term/14",
-      "on_behalf_of_id": "pmln",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "65caa270-16bc-435c-ac92-e04751e26884",
       "person_id": "f0425136-c2d0-46ca-8c63-c0483f506b50",
-      "role": "member",
-      "start_date": "2013-09-16"
+      "role": "member"
     },
     {
       "area_id": "area/na-216_(khairpur-ii)",
@@ -25480,11 +25482,6 @@
     {
       "id": "area/na-128_(lahore-xi)",
       "name": "NA-128 (Lahore-XI)",
-      "type": "constituency"
-    },
-    {
-      "id": "area/na-129_(lahore-xii)",
-      "name": "NA-129 (Lahore-XII)",
       "type": "constituency"
     },
     {
