@@ -956,8 +956,12 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Courbevoie)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Courbevoie",
+        "P580": "1995-06-25"
+      }
     },
     {
       "id": "Q3044918",
@@ -10696,10 +10700,13 @@
       "title": "member of the French National Assembly"
     },
     {
-      "id": "Q382617",
-      "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "id": "Q27898073",
+      "label": "Mayor of Bordeaux",
+      "title": "Mayor of Bordeaux",
+      "qualifiers": {
+        "P580": "2004-12-13",
+        "P582": "2006-10-08"
+      }
     },
     {
       "id": "Q27169",
@@ -20534,7 +20541,7 @@
       "title": "Prime Minister of France",
       "description": "head of government and of the Council of Ministers of France",
       "qualifiers": {
-        "P1365": "François Fillon",
+        "P1365": "Q101410",
         "P580": "2012-05-15",
         "P582": "2014-03-31",
         "P1366": "Manuel Valls",
@@ -21745,10 +21752,13 @@
       "title": "member of the French National Assembly"
     },
     {
-      "id": "Q382617",
-      "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "id": "Q27898073",
+      "label": "Mayor of Bordeaux",
+      "title": "Mayor of Bordeaux",
+      "qualifiers": {
+        "P580": "1995-06-19",
+        "P582": "2004-12-13"
+      }
     },
     {
       "id": "Q16886136",
@@ -21761,6 +21771,14 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q27898073",
+      "label": "Mayor of Bordeaux",
+      "title": "Mayor of Bordeaux",
+      "qualifiers": {
+        "P580": "2006-10-08"
+      }
     }
   ],
   "Q3015141": [
@@ -26148,7 +26166,7 @@
         "P1366": "Stéphane Le Foll",
         "P580": "2007",
         "P582": "2012",
-        "P1365": "François Fillon"
+        "P1365": "Q101410"
       }
     },
     {
@@ -30487,31 +30505,36 @@
   ],
   "Q101410": [
     {
-      "id": "Q3044918",
-      "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly",
-      "qualifiers": {
-        "P768": "Paris' 2nd constituency",
-        "P580": "2012-06-20"
-      }
-    },
-    {
       "id": "Q382617",
       "label": "maire",
       "title": "maire",
-      "description": "mayor in France"
+      "description": "mayor in France",
+      "qualifiers": {
+        "P768": "Sablé-sur-Sarthe",
+        "P580": "1983",
+        "P582": "2001"
+      }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
       "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P768": "Sarthe",
+        "P580": "1981",
+        "P582": "1998"
+      }
     },
     {
       "id": "Q14828018",
       "label": "member of the Senate of France",
       "title": "member of the Senate of France",
-      "description": "member of the French Senate"
+      "description": "member of the French Senate",
+      "qualifiers": {
+        "P580": "2004-09-26",
+        "P582": "2004-11-01"
+      }
     },
     {
       "id": "Q3780304",
@@ -30619,6 +30642,37 @@
       "qualifiers": {
         "P582": "2005-06-02",
         "P580": "2004-03-31"
+      }
+    },
+    {
+      "id": "Q14828018",
+      "label": "member of the Senate of France",
+      "title": "member of the Senate of France",
+      "description": "member of the French Senate",
+      "qualifiers": {
+        "P580": "2005-09-18",
+        "P582": "2007-06-17"
+      }
+    },
+    {
+      "id": "Q4657217",
+      "label": "municipal executive",
+      "title": "municipal executive",
+      "description": "member of the city executive board",
+      "qualifiers": {
+        "P768": "Solesmes",
+        "P580": "2001"
+      }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president",
+      "description": "leader of a country or part of a country, usually in republics",
+      "qualifiers": {
+        "P768": "Q1117625",
+        "P580": "2001-04-19",
+        "P582": "2012-09-12"
       }
     }
   ],
