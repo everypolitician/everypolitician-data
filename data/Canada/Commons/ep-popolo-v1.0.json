@@ -4523,6 +4523,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/GenereuxBernard"
+        },
+        {
+          "note": "website",
+          "url": "http://www.bernardgenereux.ca/about/biography/"
         }
       ],
       "name": "Bernard Généreux",
@@ -5095,7 +5099,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Bill_Blair_(police_chief)"
+          "url": "https://en.wikipedia.org/wiki/Bill_Blair_(police_officer)"
         },
         {
           "note": "twitter",
@@ -12693,9 +12697,6 @@
         },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/VanKesterenDave_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/VanKesterenDavid_CPC_low.jpg"
         }
       ],
       "links": [
@@ -16087,9 +16088,6 @@
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/RusnakDon_Lib.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Don_Rusnak.jpg"
         }
       ],
       "links": [
@@ -16689,6 +16687,10 @@
       "given_name": "Elizabeth",
       "id": "21f59f22-56cf-4f71-aec4-d2a38bd12882",
       "identifiers": [
+        {
+          "identifier": "12161191h",
+          "scheme": "bnf"
+        },
         {
           "identifier": "elizabethmay",
           "scheme": "cspan"
@@ -20352,6 +20354,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "527669c9-fdae-4e8b-81b3-fef2ecb5bb6d",
+      "name": "Glen Motz"
     },
     {
       "birth_date": "1969-10-23",
@@ -26876,6 +26882,11 @@
         },
         {
           "lang": "fr",
+          "name": "Jody Wilson-Raybould",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Jody Wilson-Raybould",
           "note": "multilingual"
         },
@@ -41000,7 +41011,7 @@
       ]
     },
     {
-      "birth_date": "1980",
+      "birth_date": "1980-02-14",
       "contact_details": [
         {
           "type": "email",
@@ -42318,6 +42329,11 @@
         },
         {
           "lang": "fr",
+          "name": "Nathaniel Erskine-Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Nathaniel Erskine-Smith",
           "note": "multilingual"
         }
@@ -47179,6 +47195,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Phil_McColeman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Phil_McColeman"
         },
         {
           "note": "facebook",
@@ -59041,6 +59061,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Terry_Duguid"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Terry_Duguid"
         },
@@ -62539,6 +62563,11 @@
           "lang": "en",
           "name": "Parti conservateur du Canada",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tories",
+          "note": "multilingual"
         }
       ]
     },
@@ -62683,6 +62712,11 @@
       "name": "House of Commons",
       "seats": 308,
       "type": "lower house"
+    },
+    {
+      "classification": "party",
+      "id": "independent",
+      "name": "Independent"
     },
     {
       "classification": "party",
@@ -63093,7 +63127,7 @@
         },
         {
           "lang": "nl",
-          "name": "New Democratic Party of Canada",
+          "name": "New Democratic Party",
           "note": "multilingual"
         },
         {
@@ -63308,12 +63342,17 @@
         },
         {
           "lang": "nl",
-          "name": "New Democratic Party",
+          "name": "New Democratic Party of Canada",
           "note": "multilingual"
         },
         {
           "lang": "nl",
           "name": "Nieuwe Democratische Partij van Canada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "NDP",
           "note": "multilingual"
         },
         {
@@ -63377,11 +63416,36 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "New Democratic Party of Canada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Canada New Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "federal New Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dippers",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "新民主党",
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "strength_in_democracy",
+      "name": "Strength in Democracy"
     }
   ],
   "meta": {
@@ -63615,7 +63679,7 @@
     {
       "area_id": "area/alberta_(edmonton—st._albert)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "09a66bcf-886d-4ba1-a121-2224db68d1d8",
       "role": "member"
@@ -63889,7 +63953,7 @@
     {
       "area_id": "area/british_columbia_(nanaimo—alberni)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "19766d21-4f4b-4131-ac47-49623230c584",
       "role": "member"
@@ -64195,7 +64259,7 @@
     {
       "area_id": "area/quebec_(saint-maurice—champlain)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "25ea20cd-a3cf-4589-80f9-4a59776ed981",
       "role": "member"
@@ -64331,7 +64395,7 @@
     {
       "area_id": "area/quebec_(saint-léonard—saint-michel)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "2c6331b3-3233-4faa-9995-b6f760538f39",
       "role": "member"
@@ -65166,6 +65230,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/alberta_(medicine_hat—cardston—warner)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "527669c9-fdae-4e8b-81b3-fef2ecb5bb6d",
+      "role": "member"
+    },
+    {
       "area_id": "area/manitoba_(kildonan—st._paul)",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
@@ -65225,7 +65297,7 @@
     {
       "area_id": "area/quebec_(repentigny)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "strength_in_democracy",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "55023916-a4cc-477a-99c5-b4c3cb29d7ae",
       "role": "member"
@@ -65668,7 +65740,7 @@
     {
       "area_id": "area/quebec_(montcalm)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "692164a2-cbe5-4250-8178-a36dfc6371ca",
       "role": "member"
@@ -65676,7 +65748,7 @@
     {
       "area_id": "area/ontario_(thunder_bay—superior_north)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "green_party",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "69292acd-8be9-4a61-b4a6-584f6ed7fc5f",
       "role": "member"
@@ -65933,7 +66005,7 @@
     {
       "area_id": "area/the_north_(nunavut)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "7401da7f-0c23-4295-a6eb-19860d1e1eb9",
       "role": "member"
@@ -66701,7 +66773,7 @@
     {
       "area_id": "area/quebec_(haute-gaspésie—la_mitis—matane—matapédia)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "strength_in_democracy",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "a47c4ff2-541a-42a6-9f56-fd199c298e50",
       "role": "member"
@@ -67110,7 +67182,7 @@
     {
       "area_id": "area/quebec_(richmond—arthabaska)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "b7007740-2b4a-427a-80aa-b34de92ed1b4",
       "role": "member"
@@ -67166,7 +67238,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(avalon)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "liberal",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "bb339676-688e-44cf-89c0-a9bb12ff84db",
       "role": "member"
@@ -67223,7 +67295,7 @@
     {
       "area_id": "area/quebec_(verchères—les_patriotes)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "bc9b8d17-b4e9-4a00-a9b7-19b9f76d49c6",
       "role": "member"
@@ -67394,7 +67466,7 @@
     {
       "area_id": "area/ontario_(mississauga—brampton_south)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "c66ef461-4e32-45c5-8395-d7c8f5ae2616",
       "role": "member"
@@ -68256,7 +68328,7 @@
     {
       "area_id": "area/ontario_(peterborough)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "conservative",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "e539e184-343d-418e-acf6-ecb961ae54dd",
       "role": "member",
@@ -68459,7 +68531,7 @@
     {
       "area_id": "area/quebec_(ahuntsic)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "bloc_québécois",
+      "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "f11e49dc-fab9-4aac-9fea-2cca465280e9",
       "role": "member"
@@ -68603,7 +68675,7 @@
     {
       "area_id": "area/quebec_(jonquière—alma)",
       "legislative_period_id": "term/41",
-      "on_behalf_of_id": "ndp",
+      "on_behalf_of_id": "bloc_québécois",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "f74a3f50-b91f-4e8b-8fd1-5943f1bdbc66",
       "role": "member"
