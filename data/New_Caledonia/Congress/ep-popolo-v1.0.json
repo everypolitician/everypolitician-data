@@ -800,6 +800,24 @@
       ]
     },
     {
+      "family_name": "Tein-Taouva",
+      "given_name": "Hervé",
+      "id": "259a872a-1592-4c59-a76e-c1d0d50bb37f",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg"
+        }
+      ],
+      "name": "Hervé Tein-Taouva",
+      "sort_name": "Tein-Taouva, Hervé",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "family_name": "Kaloi-Bearune",
       "gender": "female",
       "given_name": "Isabelle",
@@ -2259,6 +2277,24 @@
     {
       "family_name": "Muliakaaka",
       "given_name": "Silipéléto dit Fiu",
+      "id": "34c5d4a4-1619-4bf8-ba3a-d0a82a70117e",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg"
+        }
+      ],
+      "name": "Silipéléto dit Fiu Muliakaaka",
+      "sort_name": "Muliakaaka, Silipéléto dit Fiu",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
+      "family_name": "Muliakaaka",
+      "given_name": "Silipéléto dit Fiu",
       "id": "55af6c3e-5bb5-458d-8da3-54b1364279a7",
       "identifiers": [
         {
@@ -2305,27 +2341,23 @@
       "name": "Sonia Backès",
       "other_names": [
         {
-          "name": "Sonia Backes",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         }
       ],
@@ -2450,6 +2482,11 @@
         },
         {
           "lang": "fr",
+          "name": "Thierry Santa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Thierry Santa",
           "note": "multilingual"
         }
@@ -2890,6 +2927,14 @@
     {
       "area_id": "area/province_nord",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "259a872a-1592-4c59-a76e-c1d0d50bb37f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_nord",
+      "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/uni",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "26844d1e-6824-47cc-8b2c-3f22eff979bf",
@@ -2909,6 +2954,14 @@
       "on_behalf_of_id": "party/uni",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "343555eb-d7fb-4c69-a243-e8b4fd4f7b29",
+      "role": "member"
+    },
+    {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "34c5d4a4-1619-4bf8-ba3a-d0a82a70117e",
       "role": "member"
     },
     {
@@ -3259,7 +3312,7 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "2004",
+      "end_date": "2004-05-09",
       "id": "Q3587377",
       "identifiers": [
         {
@@ -3268,7 +3321,7 @@
         }
       ],
       "name": "New Caledonian legislative election, 2004",
-      "start_date": "2004"
+      "start_date": "2004-05-09"
     },
     {
       "classification": "general election",
