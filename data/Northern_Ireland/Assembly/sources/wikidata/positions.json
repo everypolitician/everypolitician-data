@@ -202,13 +202,27 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2004-06-13",
+        "P582": "2012-05-03",
+        "P768": "Northern Ireland",
+        "P1365": "John Hume",
+        "P1366": "Martina Anderson"
+      }
     },
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
-      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P580": "1998-06-25",
+        "P582": "2004-06-13",
+        "P768": "Belfast West",
+        "P1365": "",
+        "P1366": "Sue Ramsey"
+      }
     },
     {
       "id": "Q23773163",
@@ -1085,7 +1099,8 @@
       "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
       "qualifiers": {
         "P580": "2011-05-05",
-        "P768": "North Antrim"
+        "P768": "North Antrim",
+        "P1365": "Declan O'Loan"
       }
     }
   ],
@@ -2237,7 +2252,12 @@
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
-      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P580": "1998-06-25",
+        "P768": "South Antrim",
+        "P1365": "Belfast Agreement"
+      }
     },
     {
       "id": "Q23641308",
