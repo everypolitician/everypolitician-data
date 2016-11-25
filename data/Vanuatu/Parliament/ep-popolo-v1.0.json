@@ -2603,6 +2603,15 @@
       ]
     },
     {
+      "id": "0cd991b2-ca41-4101-afa2-a77447a63b82",
+      "name": "Uri Warawara",
+      "sources": [
+        {
+          "url": "http://parliament.gov.vu/index.php/memebers/members-of-11th-legislatture"
+        }
+      ]
+    },
+    {
       "birth_date": "1955",
       "gender": "male",
       "given_name": "Serge",
@@ -4550,6 +4559,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/malo/aore",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/gjp",
+      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
+      "person_id": "0cd991b2-ca41-4101-afa2-a77447a63b82",
+      "role": "member"
+    },
+    {
       "area_id": "area/santo_rural",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/nagriamel",
@@ -5110,7 +5127,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/shepherds_outer_islands",
+      "area_id": "area/shepherds_island",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/gc",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
@@ -5584,6 +5601,11 @@
     {
       "id": "area/santo_rural",
       "name": "Santo Rural",
+      "type": "constituency"
+    },
+    {
+      "id": "area/shepherds_island",
+      "name": "Shepherds Island",
       "type": "constituency"
     },
     {
