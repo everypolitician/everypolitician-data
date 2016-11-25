@@ -162,6 +162,7 @@
       "qualifiers": {
         "P580": "1974-02-28",
         "P582": "1992-04-09",
+        "P768": "Meirionnydd Nant Conwy",
         "P1365": "William Edwards",
         "P1366": "Elfyn Llwyd"
       }
@@ -177,7 +178,9 @@
       "title": "Member of the National Assembly for Wales",
       "description": "member of the legislature of Wales",
       "qualifiers": {
-        "P580": "1999-05-06"
+        "P580": "1999-05-06",
+        "P768": "Dwyfor Meirionnydd",
+        "P1365": "Government of Wales Act 1998"
       }
     }
   ],
@@ -538,12 +541,27 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "1994-06-09",
+        "P582": "1999-06-10",
+        "P1365": "David Morris",
+        "P1366": ""
+      }
     },
     {
       "id": "Q18952564",
       "label": "Member of the House of Lords",
       "title": "Member of the House of Lords"
+    },
+    {
+      "id": "Q3406079",
+      "label": "Member of the National Assembly for Wales",
+      "title": "Member of the National Assembly for Wales",
+      "description": "member of the legislature of Wales",
+      "qualifiers": {
+        "P580": "2016-05"
+      }
     }
   ],
   "Q3404581": [
