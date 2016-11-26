@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belgium-lachambre",
@@ -22,7 +22,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/data.csv"
+        "reconciliation_file": "reconciliation/official.csv"
       }
     },
     {
