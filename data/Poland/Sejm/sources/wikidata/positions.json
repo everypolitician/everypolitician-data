@@ -431,6 +431,7 @@
       "qualifiers": {
         "P580": "2009-07-14",
         "P582": "2012-01-17",
+        "P1365": "Hans-Gert Pöttering",
         "P1366": "Martin Schulz"
       }
     },
@@ -440,11 +441,11 @@
       "title": "Prime Minister of Poland",
       "description": "Head of Government of Poland",
       "qualifiers": {
+        "P35": "Aleksander Kwaśniewski",
         "P580": "1997-10-31",
         "P582": "2001-10-19",
         "P1365": "Włodzimierz Cimoszewicz",
-        "P1366": "Leszek Miller",
-        "P35": "Aleksander Kwaśniewski"
+        "P1366": "Leszek Miller"
       }
     },
     {
@@ -545,7 +546,13 @@
     {
       "id": "Q1780202",
       "label": "European Commissioner for Financial Programming and the Budget",
-      "title": "European Commissioner for Financial Programming and the Budget"
+      "title": "European Commissioner for Financial Programming and the Budget",
+      "qualifiers": {
+        "P580": "2010-02-09",
+        "P582": "2014-07-01",
+        "P1365": "Algirdas Šemeta",
+        "P1366": "Andris Piebalgs"
+      }
     },
     {
       "id": "Q27169",
@@ -753,7 +760,8 @@
       "qualifiers": {
         "P580": "1989-09-12",
         "P582": "1991-12-23",
-        "P1365": "Andrzej Wróblewski"
+        "P1365": "Andrzej Wróblewski",
+        "P1545": "1"
       }
     },
     {
@@ -765,6 +773,13 @@
         "P582": "2000-06-08",
         "P1365": "Marek Belka"
       }
+    }
+  ],
+  "Q11814123": [
+    {
+      "id": "Q21328636",
+      "label": "Member of the Sejm of the Republic of Poland",
+      "title": "Member of the Sejm of the Republic of Poland"
     }
   ],
   "Q597698": [
@@ -1770,16 +1785,6 @@
       "description": "person who has been elected to the European Parliament"
     }
   ],
-  "Q21809450": [
-    {
-      "id": "Q21328636",
-      "label": "Member of the Sejm of the Republic of Poland",
-      "title": "Member of the Sejm of the Republic of Poland",
-      "qualifiers": {
-        "P580": "2015"
-      }
-    }
-  ],
   "Q328635": [
     {
       "id": "Q21328636",
@@ -1884,6 +1889,21 @@
       "description": "person who has been elected to the European Parliament",
       "qualifiers": {
         "P580": "2014"
+      }
+    }
+  ],
+  "Q55927": [
+    {
+      "id": "Q3259469",
+      "label": "Prime Minister of Poland",
+      "title": "Prime Minister of Poland",
+      "description": "Head of Government of Poland",
+      "qualifiers": {
+        "P580": "1991-12-06",
+        "P582": "1992-06-05",
+        "P1365": "Jan Krzysztof Bielecki",
+        "P1366": "Waldemar Pawlak",
+        "P1545": "3"
       }
     }
   ],
