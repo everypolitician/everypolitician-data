@@ -4,11 +4,16 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/morocco-house-of-representatives",
+        "scraper": "everypolitician-scrapers/morocco-house-of-representatives",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.chambredesrepresentants.ma",
       "type": "membership"
+    },
+    {
+      "file": "manual/term-9-members.csv",
+      "type": "membership",
+      "source": "http://www.chambredesrepresentants.ma"
     },
     {
       "file": "manual/terms.csv",
