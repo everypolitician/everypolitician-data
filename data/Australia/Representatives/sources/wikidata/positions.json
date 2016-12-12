@@ -462,6 +462,30 @@
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
       "description": "elected representative in the Australian federal lower house of parliament"
+    },
+    {
+      "id": "Q6865898",
+      "label": "Minister for Justice",
+      "title": "Minister for Justice",
+      "description": "Australian Minister",
+      "qualifiers": {
+        "P580": "2011-12-14",
+        "P582": "2013-09-18",
+        "P1365": "Brendan O'Connor",
+        "P1366": "Michael Keenan"
+      }
+    },
+    {
+      "id": "Q6865868",
+      "label": "Minister for Home Affairs",
+      "title": "Minister for Home Affairs",
+      "description": "Australian ministerial position"
+    },
+    {
+      "id": "Q6865784",
+      "label": "Minister for Defence Materiel",
+      "title": "Minister for Defence Materiel",
+      "description": "Australian cabinet position"
     }
   ],
   "Q5272614": [
@@ -1136,7 +1160,8 @@
     {
       "id": "Q6865784",
       "label": "Minister for Defence Materiel",
-      "title": "Minister for Defence Materiel"
+      "title": "Minister for Defence Materiel",
+      "description": "Australian cabinet position"
     }
   ],
   "Q982227": [
@@ -2605,6 +2630,7 @@
       "id": "Q6865784",
       "label": "Minister for Defence Materiel",
       "title": "Minister for Defence Materiel",
+      "description": "Australian cabinet position",
       "qualifiers": {
         "P580": "1983-03-11",
         "P582": "1984-12-13",
@@ -3881,7 +3907,11 @@
       "id": "Q6865898",
       "label": "Minister for Justice",
       "title": "Minister for Justice",
-      "description": "Australian Minister"
+      "description": "Australian Minister",
+      "qualifiers": {
+        "P580": "2013-09-18",
+        "P1365": "Jason Clare"
+      }
     },
     {
       "id": "Q18912794",
