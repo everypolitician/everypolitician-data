@@ -6318,12 +6318,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Mongolia/Assembly/sources",
         "popolo": "data/Mongolia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/62a8aa4982d9f1b9e086eaa89583f4d9090c606b/data/Mongolia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f40a58c2af3de1aca1b10ef702f374ac9a5530be/data/Mongolia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Mongolia/Assembly/names.csv",
-        "lastmod": "1478551123",
-        "person_count": 117,
-        "sha": "62a8aa4982d9f1b9e086eaa89583f4d9090c606b",
+        "lastmod": "1481119278",
+        "person_count": 160,
+        "sha": "f40a58c2af3de1aca1b10ef702f374ac9a5530be",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "State Grand Khural 2016-",
+            "start_date": "2016-07-05",
+            "slug": "2016",
+            "csv": "data/Mongolia/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f40a58c2af3de1aca1b10ef702f374ac9a5530be/data/Mongolia/Assembly/term-2016.csv"
+          },
           {
             "end_date": "2016-06-28",
             "id": "term/2012",
@@ -6331,7 +6339,7 @@
             "start_date": "2012-06-28",
             "slug": "2012",
             "csv": "data/Mongolia/Assembly/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/21dc073cee0ee1f61ddc499abad8004e73d879dc/data/Mongolia/Assembly/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f40a58c2af3de1aca1b10ef702f374ac9a5530be/data/Mongolia/Assembly/term-2012.csv"
           },
           {
             "end_date": "2012-06-28",
@@ -6340,10 +6348,10 @@
             "start_date": "2008-07-23",
             "slug": "2008",
             "csv": "data/Mongolia/Assembly/term-2008.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8043a092cb5985d613ededcd3c1a9dbb6528c7d4/data/Mongolia/Assembly/term-2008.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f40a58c2af3de1aca1b10ef702f374ac9a5530be/data/Mongolia/Assembly/term-2008.csv"
           }
         ],
-        "statement_count": 5051,
+        "statement_count": 5902,
         "type": "unicameral legislature"
       }
     ]
