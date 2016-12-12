@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/official-55.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/brasil-deputados-scraper",
@@ -22,7 +22,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/data.csv"
+        "reconciliation_file": "reconciliation/official-55.csv"
       }
     },
     {
