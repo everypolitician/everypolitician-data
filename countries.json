@@ -491,23 +491,32 @@
         "slug": "Senado",
         "sources_directory": "data/Argentina/Senado/sources",
         "popolo": "data/Argentina/Senado/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c323b935f2dce83fcdfcbb5c2f94614a25207d98/data/Argentina/Senado/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d10e6db26622ac2f4ca550a14f22507c8a7181b/data/Argentina/Senado/ep-popolo-v1.0.json",
         "names": "data/Argentina/Senado/names.csv",
-        "lastmod": "1477314249",
+        "lastmod": "1480935641",
         "person_count": 72,
-        "sha": "c323b935f2dce83fcdfcbb5c2f94614a25207d98",
+        "sha": "7d10e6db26622ac2f4ca550a14f22507c8a7181b",
         "legislative_periods": [
           {
-            "end_date": "2017-12-09",
+            "end_date": "2016-11-30",
+            "id": "term/2016",
+            "name": "2016",
+            "start_date": "2016-03-01",
+            "slug": "2016",
+            "csv": "data/Argentina/Senado/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d10e6db26622ac2f4ca550a14f22507c8a7181b/data/Argentina/Senado/term-2016.csv"
+          },
+          {
+            "end_date": "2015-11-30",
             "id": "term/2015",
-            "name": "2015–",
-            "start_date": "2015-12-10",
+            "name": "2015",
+            "start_date": "2015-03-01",
             "slug": "2015",
             "csv": "data/Argentina/Senado/term-2015.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c323b935f2dce83fcdfcbb5c2f94614a25207d98/data/Argentina/Senado/term-2015.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7d10e6db26622ac2f4ca550a14f22507c8a7181b/data/Argentina/Senado/term-2015.csv"
           }
         ],
-        "statement_count": 4024,
+        "statement_count": 4192,
         "type": "upper house"
       }
     ]
