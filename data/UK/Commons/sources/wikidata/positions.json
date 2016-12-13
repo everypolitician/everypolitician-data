@@ -5123,6 +5123,14 @@
       }
     }
   ],
+  "Q27942399": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom"
+    }
+  ],
   "Q258292": [
     {
       "id": "Q16707842",
@@ -15639,7 +15647,12 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P768": "Leeds Central",
+        "P580": "1999-06-10",
+        "P1365": "Derek Fatchett"
+      }
     },
     {
       "id": "Q7460514",
@@ -17217,7 +17230,8 @@
         "P768": "Batley and Spen",
         "P580": "2015-05-08",
         "P1365": "Mike Wood",
-        "P582": "2016-06-16"
+        "P582": "2016-06-16",
+        "P1366": "Tracy Brabin"
       }
     }
   ],
@@ -17601,6 +17615,19 @@
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom"
+    }
+  ],
+  "Q7831699": [
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom (of Batley and Spen)",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "2016-10-20",
+        "P1365": "Jo Cox",
+        "P642": "Batley and Spen"
+      }
     }
   ],
   "Q579661": [
