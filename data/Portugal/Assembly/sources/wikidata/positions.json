@@ -23,6 +23,18 @@
       "description": "person who has been elected to the European Parliament"
     }
   ],
+  "Q2571494": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament",
+      "qualifiers": {
+        "P580": "2015-10-23",
+        "P768": "Azores"
+      }
+    }
+  ],
   "Q722614": [
     {
       "id": "Q27169",
@@ -215,18 +227,6 @@
   ],
   "Q311440": [
     {
-      "id": "Q81066",
-      "label": "United Nations Secretary-General",
-      "title": "United Nations Secretary-General",
-      "description": "head of the United Nations Secretariat",
-      "qualifiers": {
-        "P1545": "9",
-        "P2715": "United Nations Secretary-General selection, 2016",
-        "P580": "2017-01-01",
-        "P1365": "Ban Ki-moon"
-      }
-    },
-    {
       "id": "Q27832358",
       "label": "United Nations High Commissioner for Refugees",
       "title": "United Nations High Commissioner for Refugees",
@@ -299,6 +299,18 @@
         "P1365": "Paavo Lipponen",
         "P582": "2000-06-30",
         "P1366": "Jacques Chirac"
+      }
+    },
+    {
+      "id": "Q81066",
+      "label": "United Nations Secretary-General",
+      "title": "United Nations Secretary-General",
+      "description": "head of the United Nations Secretariat",
+      "qualifiers": {
+        "P1545": "9",
+        "P2715": "United Nations Secretary-General selection, 2016",
+        "P580": "2017-01-01",
+        "P1365": "Ban Ki-moon"
       }
     }
   ],
@@ -685,6 +697,18 @@
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q3062583": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament",
+      "qualifiers": {
+        "P580": "2005-03-10",
+        "P768": "Setúbal District"
+      }
     }
   ],
   "Q611579": [
