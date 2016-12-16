@@ -246,7 +246,10 @@
       "description": "head of the New Zealand government",
       "qualifiers": {
         "P580": "1999-12-05",
-        "P582": "2008-11-19"
+        "P582": "2008-11-19",
+        "P1365": "Jenny Shipley",
+        "P1366": "John Key",
+        "P1545": "37"
       }
     },
     {
@@ -1058,7 +1061,9 @@
       "title": "Deputy Prime Minister of New Zealand",
       "qualifiers": {
         "P580": "2008-11-19",
-        "P1365": "Michael Cullen"
+        "P1365": "Michael Cullen",
+        "P582": "2016-12-12",
+        "P1366": "Paula Bennett"
       }
     },
     {
@@ -1096,6 +1101,17 @@
       "qualifiers": {
         "P580": "2008-11-19",
         "P582": "2011-12-14"
+      }
+    },
+    {
+      "id": "Q1071117",
+      "label": "Prime Minister of New Zealand",
+      "title": "Prime Minister of New Zealand",
+      "description": "head of the New Zealand government",
+      "qualifiers": {
+        "P580": "2016-12-12",
+        "P1365": "John Key",
+        "P1545": "39"
       }
     }
   ],
@@ -1884,7 +1900,10 @@
       "description": "head of the New Zealand government",
       "qualifiers": {
         "P580": "2008-11-19",
-        "P1365": "Helen Clark"
+        "P1365": "Helen Clark",
+        "P582": "2016-12-12",
+        "P1366": "Bill English",
+        "P1545": "38"
       }
     },
     {
@@ -2019,7 +2038,14 @@
       "id": "Q18145518",
       "label": "Member of the New Zealand House of Representatives",
       "title": "Member of the New Zealand House of Representatives",
-      "description": "representative elected by the voters in New Zealand"
+      "description": "representative elected by the voters in New Zealand",
+      "qualifiers": {
+        "P580": "2005",
+        "P582": "2011",
+        "P768": "Epsom",
+        "P1365": "Richard Worth",
+        "P1366": "John Banks"
+      }
     }
   ],
   "Q5231322": [
@@ -2328,6 +2354,7 @@
       "title": "Member of the New Zealand House of Representatives",
       "description": "representative elected by the voters in New Zealand",
       "qualifiers": {
+        "P768": "Christchurch Central",
         "P1365": "Lianne Dalziel",
         "P1366": "Brendon Burns"
       }
