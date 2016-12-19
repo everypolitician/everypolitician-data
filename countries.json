@@ -4450,12 +4450,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Iceland/Assembly/sources",
         "popolo": "data/Iceland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/68142727a8c42b0532c87a557640eed19df8f4bf/data/Iceland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9975dc33b4da225990f5dc9d1141d536a205de8d/data/Iceland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Iceland/Assembly/names.csv",
-        "lastmod": "1481973411",
-        "person_count": 205,
-        "sha": "68142727a8c42b0532c87a557640eed19df8f4bf",
+        "lastmod": "1482066968",
+        "person_count": 249,
+        "sha": "9975dc33b4da225990f5dc9d1141d536a205de8d",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "Alþingi 2016",
+            "start_date": "2016-10-29",
+            "slug": "2016",
+            "csv": "data/Iceland/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9975dc33b4da225990f5dc9d1141d536a205de8d/data/Iceland/Assembly/term-2016.csv"
+          },
           {
             "end_date": "2016-10-29",
             "id": "term/2013",
@@ -4463,7 +4471,7 @@
             "start_date": "2013-04-27",
             "slug": "2013",
             "csv": "data/Iceland/Assembly/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/edd66ea49a5b3a56bdc21e697465c7290a624ad5/data/Iceland/Assembly/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9975dc33b4da225990f5dc9d1141d536a205de8d/data/Iceland/Assembly/term-2013.csv"
           },
           {
             "end_date": "2013-04-27",
@@ -4511,7 +4519,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/edd66ea49a5b3a56bdc21e697465c7290a624ad5/data/Iceland/Assembly/term-1995.csv"
           }
         ],
-        "statement_count": 14085,
+        "statement_count": 14563,
         "type": "unicameral legislature"
       }
     ]
