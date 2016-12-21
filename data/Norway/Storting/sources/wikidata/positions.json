@@ -1121,7 +1121,11 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2009",
+        "P768": "Oslo"
+      }
     }
   ],
   "Q11825290": [
@@ -6857,7 +6861,28 @@
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "1997",
+        "P582": "2001"
+      }
+    },
+    {
+      "id": "Q18713976",
+      "label": "deputy member of the Parliament of Norway",
+      "title": "deputy member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2001",
+        "P582": "2005"
+      }
+    },
+    {
+      "id": "Q9045502",
+      "label": "member of the Parliament of Norway",
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2005"
+      }
     }
   ],
   "Q5649843": [
@@ -9103,17 +9128,41 @@
       "id": "Q16147743",
       "label": "State Secretary",
       "title": "State Secretary",
-      "description": "partisan political position within the executive branch of government of Norway"
+      "description": "partisan political position within the executive branch of government of Norway",
+      "qualifiers": {
+        "P580": "2004-08-20",
+        "P582": "2005-10-17"
+      }
     },
     {
       "id": "Q18713976",
       "label": "deputy member of the Parliament of Norway",
-      "title": "deputy member of the Parliament of Norway"
+      "title": "deputy member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2005",
+        "P582": "2009",
+        "P768": "Akershus"
+      }
     },
     {
       "id": "Q9045502",
       "label": "member of the Parliament of Norway",
-      "title": "member of the Parliament of Norway"
+      "title": "member of the Parliament of Norway",
+      "qualifiers": {
+        "P580": "2009",
+        "P768": "Akershus"
+      }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P768": "Oppegård",
+        "P580": "1995",
+        "P582": "2009"
+      }
     }
   ],
   "Q11977234": [
