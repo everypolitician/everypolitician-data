@@ -334,6 +334,11 @@
           "lang": "hu",
           "name": "Frédéric de Greslan",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Frédéric de Greslan",
+          "note": "multilingual"
         }
       ],
       "sort_name": "De Greslan, Frédéric"
@@ -700,6 +705,19 @@
       ],
       "name": "Henriette Tidjine-Hmae",
       "sort_name": "Tidjine-Hmae, Henriette"
+    },
+    {
+      "family_name": "Tein-Taouva",
+      "given_name": "Hervé",
+      "id": "1dfe3ecd-8fec-4463-b7d7-c240fd915a6d",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/herve-tein-taouva.jpg"
+        }
+      ],
+      "name": "Hervé Tein-Taouva",
+      "sort_name": "Tein-Taouva, Hervé"
     },
     {
       "family_name": "Tein-Taouva",
@@ -1454,6 +1472,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "nr2006014009",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "096987103",
           "scheme": "sudoc"
         },
@@ -2025,6 +2047,19 @@
       "sort_name": "Muliakaaka, Silipéléto dit Fiu"
     },
     {
+      "family_name": "Muliakaaka",
+      "given_name": "Silipéléto dit Fiu",
+      "id": "c325a6d5-a558-4d97-bb0f-7a27b357a252",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg",
+      "images": [
+        {
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/Silipeleto-Muliakaaka-14-237x315.jpg"
+        }
+      ],
+      "name": "Silipéléto dit Fiu Muliakaaka",
+      "sort_name": "Muliakaaka, Silipéléto dit Fiu"
+    },
+    {
       "birth_date": "1976-05-21",
       "family_name": "Backès",
       "gender": "female",
@@ -2055,27 +2090,23 @@
       "name": "Sonia Backès",
       "other_names": [
         {
-          "name": "Sonia Backes",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "fr",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Sonia Backes",
+          "name": "Sonia Backès",
           "note": "multilingual"
         }
       ],
@@ -2185,6 +2216,11 @@
         },
         {
           "lang": "fr",
+          "name": "Thierry Santa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Thierry Santa",
           "note": "multilingual"
         }
@@ -2619,6 +2655,19 @@
       ]
     },
     {
+      "area_id": "area/province_nord",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "1dfe3ecd-8fec-4463-b7d7-c240fd915a6d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "area_id": "area/province_sud",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/ce",
@@ -3022,6 +3071,19 @@
       ]
     },
     {
+      "area_id": "area/province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "party/ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "c325a6d5-a558-4d97-bb0f-7a27b357a252",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
       "area_id": "area/province_des_îles_loyauté",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/uc-flnks_et_nationalistes",
@@ -3259,7 +3321,7 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "2004",
+      "end_date": "2004-05-09",
       "id": "Q3587377",
       "identifiers": [
         {
@@ -3268,7 +3330,7 @@
         }
       ],
       "name": "New Caledonian legislative election, 2004",
-      "start_date": "2004"
+      "start_date": "2004-05-09"
     },
     {
       "classification": "general election",
