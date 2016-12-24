@@ -3770,7 +3770,6 @@
     {
       "birth_date": "1961-04-07",
       "gender": "male",
-      "given_name": "Jacob",
       "id": "f9991478-7040-4b5f-9721-fd932acebfd4",
       "identifiers": [
         {
@@ -4393,8 +4392,27 @@
           "lang": "nb",
           "name": "Jákup Joensen",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jákup Joensen",
+          "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "53c4e38d-959f-44a3-89ce-b44f7fcb623a",
+      "identifiers": [
+        {
+          "identifier": "jákup_mikkelsen",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Jákup Mikkelsen",
+          "scheme": "wikipedia_fo"
+        }
+      ],
+      "name": "Jákup Mikkelsen"
     },
     {
       "birth_date": "1957-08-22",
@@ -6293,6 +6311,11 @@
         },
         {
           "lang": "nb",
+          "name": "Kristin Michelsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Kristin Michelsen",
           "note": "multilingual"
         },
@@ -11304,6 +11327,19 @@
       "sources": [
         {
           "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2011%E2%80%932015"
+        }
+      ]
+    },
+    {
+      "area_id": "area/norðoyar",
+      "legislative_period_id": "term/2008",
+      "on_behalf_of_id": "party/fólkaflokkurin",
+      "organization_id": "6cfc55e3-0ee4-4cf9-9145-c22a0d457feb",
+      "person_id": "53c4e38d-959f-44a3-89ce-b44f7fcb623a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://fo.wikipedia.org/wiki/L%C3%B8gtingslimir_%C3%AD_F%C3%B8royum_2008%E2%80%932011"
         }
       ]
     },
