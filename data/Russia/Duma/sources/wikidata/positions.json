@@ -180,6 +180,15 @@
       "label": "member of the State Duma",
       "title": "member of the State Duma",
       "description": "member of the lower house of the Russian parliament"
+    },
+    {
+      "id": "Q4376663",
+      "label": "Chairman of the State Duma",
+      "title": "Chairman of the State Duma",
+      "description": "presiding officer of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "2016-12-05"
+      }
     }
   ],
   "Q4368820": [
@@ -1481,6 +1490,7 @@
       "id": "Q4488944",
       "label": "Kremlin Chief of Staff",
       "title": "Kremlin Chief of Staff",
+      "description": "Wikimedia list article",
       "qualifiers": {
         "P580": "2008-05-12",
         "P582": "2011-12-20",
@@ -2285,7 +2295,24 @@
       "id": "Q17276321",
       "label": "member of the State Duma",
       "title": "member of the State Duma",
-      "description": "member of the lower house of the Russian parliament"
+      "description": "member of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "1999",
+        "P582": "2007",
+        "P768": "Novosibirsk Oblast",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Emblem_gosduma.svg"
+      }
+    },
+    {
+      "id": "Q17276321",
+      "label": "member of the State Duma",
+      "title": "member of the State Duma",
+      "description": "member of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "2007",
+        "P768": "Stavropol Krai",
+        "P94": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Emblem_gosduma.svg"
+      }
     }
   ],
   "Q822805": [
