@@ -355,7 +355,7 @@
         },
         {
           "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Александар_Вучич"
+          "url": "https://bg.wikipedia.org/wiki/Александър_Вучич"
         },
         {
           "note": "Wikipedia (bs)",
@@ -857,6 +857,10 @@
         }
       ],
       "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/aleksandra.tomicbgd"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/BgdSaska"
@@ -3546,6 +3550,12 @@
     },
     {
       "birth_date": "1965",
+      "id": "4aed7858-9c77-493f-ab49-9d1db4608941",
+      "name": "GORAN PEKARSKI",
+      "sort_name": "GORAN PEKARSKI"
+    },
+    {
+      "birth_date": "1965",
       "id": "11168361-6f15-488e-af57-4572a269eb74",
       "identifiers": [
         {
@@ -3805,6 +3815,12 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "name": "IVANA DINIC",
+      "sort_name": "IVANA DINIC"
+    },
+    {
+      "birth_date": "1985",
+      "id": "dd846e97-33d9-497a-82f4-822d26203719",
       "name": "IVANA DINIC",
       "sort_name": "IVANA DINIC"
     },
@@ -5033,6 +5049,10 @@
       ],
       "links": [
         {
+          "note": "facebook",
+          "url": "https://facebook.com/marija.obradovicbgd"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/marijatvkv"
         }
@@ -5528,6 +5548,7 @@
     },
     {
       "birth_date": "1944",
+      "gender": "female",
       "id": "30c0ed08-5479-491d-8e1b-5a79dc330d75",
       "identifiers": [
         {
@@ -7119,6 +7140,7 @@
     },
     {
       "birth_date": "1951",
+      "gender": "male",
       "id": "b1ba6288-38e3-40d1-9106-09ffd0565d1a",
       "identifiers": [
         {
@@ -9073,6 +9095,7 @@
     },
     {
       "birth_date": "1960",
+      "honorific_suffix": "Prim",
       "id": "2837ee78-4f41-4878-92b6-6fe973d17793",
       "identifiers": [
         {
@@ -9184,6 +9207,10 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Жарко_Кораћ"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Žarko_Korać"
         }
       ],
       "name": "ZARKO KORAC",
@@ -9269,6 +9296,11 @@
         },
         {
           "lang": "sr-el",
+          "name": "Žarko Korać",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
           "name": "Žarko Korać",
           "note": "multilingual"
         }
@@ -9611,6 +9643,7 @@
     },
     {
       "birth_date": "1955",
+      "gender": "male",
       "id": "8029e3ed-158b-4367-a74d-50d96a3e2a12",
       "identifiers": [
         {
@@ -9729,12 +9762,20 @@
           "url": "https://pl.wikipedia.org/wiki/Zoran_Živković_(polityk)"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Живкович,_Зоран"
+        },
+        {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Zoran_Živković_(političar)"
         },
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Зоран_Живковић_(политичар)"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Zoran_Živković_(politikacı)"
         },
         {
           "note": "Wikipedia (uk)",
@@ -9845,6 +9886,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Живкович, Зоран",
+          "note": "multilingual"
+        },
+        {
           "lang": "sh",
           "name": "Zoran Živković",
           "note": "multilingual"
@@ -9866,6 +9912,11 @@
         },
         {
           "lang": "sv",
+          "name": "Zoran Živković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
           "name": "Zoran Živković",
           "note": "multilingual"
         },
@@ -9960,11 +10011,6 @@
       "classification": "party",
       "id": "party/democratic_party",
       "name": "Democratic Party"
-    },
-    {
-      "classification": "party",
-      "id": "party/democratic_party_of_serbia",
-      "name": "Democratic Party of Serbia"
     },
     {
       "classification": "party",
@@ -11772,6 +11818,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/new_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "4aed7858-9c77-493f-ab49-9d1db4608941",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/GORAN_PEKARSKI.998.488.html"
+        }
+      ],
+      "start_date": "2016-12-09"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -12286,7 +12345,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.parlament.gov.rs/IVANA_STOJILjKOVI%C4%86.759.488.html"
+          "url": "http://www.parlament.gov.rs/IVANA_STOJILjKOVIC.759.488.html"
         }
       ]
     },
@@ -13316,7 +13375,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "934f6396-2890-4de3-b8a9-9da7e1a79328",
       "role": "member",
@@ -13400,7 +13459,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "96c4d284-e6e8-492a-bb63-a4ee25f706cf",
       "role": "member",
@@ -15378,6 +15437,19 @@
     },
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "dd846e97-33d9-497a-82f4-822d26203719",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/IVANA_DINIC.632.488.html"
+        }
+      ],
+      "start_date": "2016-12-28"
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians_-_party_of_democratic_action",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "dd9e0fcc-1d9b-4bf9-9330-ddd26f77739f",
@@ -15727,7 +15799,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "e7bdd603-4481-4654-a567-15b893d4e7a6",
       "role": "member",
@@ -16125,7 +16197,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f73a4839-c8ee-4343-960a-1fec916cdd6c",
       "role": "member",
@@ -16150,7 +16222,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f93fbc26-d539-410d-b069-6e82805bcb9e",
       "role": "member",
@@ -16162,7 +16234,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/democratic_party_of_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f9f4379d-6dfd-4b51-85a4-768f3dd4d7ec",
       "role": "member",
