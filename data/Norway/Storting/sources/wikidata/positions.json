@@ -5563,7 +5563,22 @@
     {
       "id": "Q23645115",
       "label": "Mayor of Oslo",
-      "title": "Mayor of Oslo"
+      "title": "Mayor of Oslo",
+      "qualifiers": {
+        "P1366": "Trygve Nilsen",
+        "P1365": "Trygve Nilsen"
+      }
+    },
+    {
+      "id": "Q19157155",
+      "label": "President of Parliament of Norway",
+      "title": "President of Parliament of Norway",
+      "qualifiers": {
+        "P1365": "Einar Gerhardsen",
+        "P1366": "Nils Langhelle",
+        "P580": "1955",
+        "P582": "1958"
+      }
     }
   ],
   "Q7166644": [
@@ -5925,8 +5940,6 @@
       "description": "position",
       "qualifiers": {
         "P580": "2014-10-01",
-        "P582": "",
-        "P1366": "",
         "P1365": "Anders Fogh Rasmussen"
       }
     },
