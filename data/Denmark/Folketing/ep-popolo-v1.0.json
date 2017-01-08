@@ -6266,6 +6266,25 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bruno.jerup@ft.dk"
+        }
+      ],
+      "email": "bruno.jerup@ft.dk",
+      "family_name": "Jerup",
+      "given_name": "Bruno",
+      "id": "f17fcbe2-9a45-4e14-bca9-9248b1d26e3b",
+      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Bruno_Jerup/Bruno_Jerup_133.jpg.ashx",
+      "images": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Bruno_Jerup/Bruno_Jerup_133.jpg.ashx"
+        }
+      ],
+      "name": "Bruno Jerup"
+    },
+    {
       "birth_date": "1935-07-20",
       "gender": "male",
       "given_name": "Børge",
@@ -72715,6 +72734,19 @@
       "role": "member"
     },
     {
+      "area_id": "area/funen_county_constituency",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "f17fcbe2-9a45-4e14-bca9-9248b1d26e3b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/elbrje.aspx"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -74341,6 +74373,11 @@
     {
       "id": "area/funen",
       "name": "Funen",
+      "type": "constituency"
+    },
+    {
+      "id": "area/funen_county_constituency",
+      "name": "Funen County constituency",
       "type": "constituency"
     },
     {
