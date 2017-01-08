@@ -324,8 +324,8 @@
     },
     {
       "id": "Q23090514",
-      "label": "Q23090514",
-      "title": "Q23090514 (of Q23782081)",
+      "label": "President of the Departmental Council",
+      "title": "President of the Departmental Council (of Q23782081)",
       "qualifiers": {
         "P580": "2015-04-02",
         "P1365": "Rachel Mazuir",
@@ -967,8 +967,8 @@
     },
     {
       "id": "Q23090514",
-      "label": "Q23090514",
-      "title": "Q23090514 (of Q23782139)",
+      "label": "President of the Departmental Council",
+      "title": "President of the Departmental Council (of Q23782139)",
       "qualifiers": {
         "P642": "Q23782139",
         "P580": "2015-04-02"
@@ -7067,8 +7067,8 @@
     },
     {
       "id": "Q23090514",
-      "label": "Q23090514",
-      "title": "Q23090514 (of Q23782093)",
+      "label": "President of the Departmental Council",
+      "title": "President of the Departmental Council (of Q23782093)",
       "qualifiers": {
         "P642": "Q23782093",
         "P580": "2015-04-02"
@@ -10095,8 +10095,8 @@
     },
     {
       "id": "Q23090514",
-      "label": "Q23090514",
-      "title": "Q23090514 (of Q23782138)",
+      "label": "President of the Departmental Council",
+      "title": "President of the Departmental Council (of Q23782138)",
       "qualifiers": {
         "P642": "Q23782138",
         "P580": "2015-04-02",
@@ -18153,7 +18153,9 @@
       "qualifiers": {
         "P580": "2014-03-31",
         "P805": "Valls Cabinet I",
-        "P1365": "Jean-Marc Ayrault"
+        "P1365": "Jean-Marc Ayrault",
+        "P582": "2016-12-06",
+        "P1366": "Bernard Cazeneuve"
       }
     },
     {
@@ -18175,7 +18177,8 @@
       "qualifiers": {
         "P580": "2002-06-19",
         "P582": "2007-06-19",
-        "P768": "Essonne's 1st constituency"
+        "P768": "Essonne's 1st constituency",
+        "P1365": "Jacques Guyard"
       }
     },
     {
@@ -18184,14 +18187,21 @@
       "title": "maire (of Évry)",
       "description": "mayor in France",
       "qualifiers": {
-        "P642": "Évry"
+        "P642": "Évry",
+        "P580": "2001-03-18",
+        "P582": "2012-05-24"
       }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
-      "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "title": "conseiller régional (of Île-de-France)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P642": "Île-de-France",
+        "P580": "1986-03-21",
+        "P582": "2002-06-20"
+      }
     },
     {
       "id": "Q3044918",
@@ -18210,7 +18220,18 @@
       "qualifiers": {
         "P768": "Essonne's 1st constituency",
         "P580": "2012-06-20",
-        "P582": "2012-07-21"
+        "P582": "2012-07-21",
+        "P1366": "Carlos Da Silva"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Essonne's 1st constituency",
+        "P580": "2017-01-06",
+        "P1365": "Carlos Da Silva"
       }
     }
   ],
