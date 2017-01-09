@@ -4409,6 +4409,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Arja_Alho"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arja_Alho"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Arja_Alho"
         },
@@ -11517,6 +11521,10 @@
       "sort_name": "Lax Henrik"
     },
     {
+      "id": "ffe3e53e-112b-4dc9-80a7-17fab40268d9",
+      "name": "Hjallis Harkimo"
+    },
+    {
       "birth_date": "1944-07-08",
       "family_name": "Nordman",
       "gender": "male",
@@ -12907,6 +12915,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/JaanaPelkonen"
+        },
+        {
+          "note": "website",
+          "url": "http://www.jaanapelkonen.com"
         },
         {
           "note": "wikipedia",
@@ -27183,6 +27195,10 @@
           "url": "https://fi.wikipedia.org/wiki/Maria_Tolppanen"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Maria_Tolppanen"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MTolppanen"
         },
@@ -38053,6 +38069,10 @@
           "url": "https://cs.wikipedia.org/wiki/Pertti_Salolainen"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pertti_Salolainen"
+        },
+        {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Pertti_Salolainen"
         },
@@ -42611,6 +42631,11 @@
         },
         {
           "lang": "pl",
+          "name": "Sampo Terho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Sampo Terho",
           "note": "multilingual"
         }
@@ -47278,6 +47303,10 @@
           "url": "https://fiwikiquote.wikipedia.org/wiki/Susanna_Koski"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Susanna_Koski"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/koskensusanna"
         },
@@ -47309,6 +47338,11 @@
         },
         {
           "lang": "nl",
+          "name": "Susanna Koski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Susanna Koski",
           "note": "multilingual"
         }
@@ -59838,7 +59872,6 @@
     },
     {
       "area_id": "area/uudenmaan",
-      "end_date": "2015-05-04",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "ps",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
@@ -61341,6 +61374,14 @@
           "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=1116&kieli=su"
         }
       ]
+    },
+    {
+      "area_id": "area/vaasan",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "ps",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "305bd9d5-db26-4c07-b846-a376924c913d",
+      "role": "member"
     },
     {
       "area_id": "area/vaasan",
@@ -62879,7 +62920,6 @@
     },
     {
       "area_id": "area/lapin",
-      "end_date": "2015-04-27",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "kesk",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
@@ -65523,7 +65563,6 @@
     },
     {
       "area_id": "area/uudenmaan",
-      "end_date": "2016-08-01",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "r",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
@@ -67268,8 +67307,7 @@
       "on_behalf_of_id": "ps",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "7d95d049-3aa2-406a-8bde-5fb91bb22f57",
-      "role": "member",
-      "start_date": "2015-05-04"
+      "role": "member"
     },
     {
       "area_id": "area/uudenmaan",
@@ -68737,8 +68775,7 @@
       "on_behalf_of_id": "r",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "990ae7f1-6699-4a33-9b94-81a2fb23f570",
-      "role": "member",
-      "start_date": "2016-08-01"
+      "role": "member"
     },
     {
       "area_id": "area/mikkelin",
@@ -75619,6 +75656,14 @@
       "on_behalf_of_id": "kesk",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "ffaf012f-b41a-4e48-8835-b03f8e9bcd83",
+      "role": "member"
+    },
+    {
+      "area_id": "area/uudenmaan",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "kok",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "ffe3e53e-112b-4dc9-80a7-17fab40268d9",
       "role": "member"
     }
   ],
