@@ -1314,8 +1314,8 @@
     },
     {
       "id": "Q6092845",
-      "label": "Italian Minister of Transports",
-      "title": "Italian Minister of Transports",
+      "label": "Italian Minister of Transports and Infrastructures",
+      "title": "Italian Minister of Transports and Infrastructures",
       "description": "member of the Cabinet of the Italian Republic",
       "qualifiers": {
         "P580": "1999-12-22",
@@ -3782,9 +3782,8 @@
   "Q3741557": [
     {
       "id": "Q1321872",
-      "label": "Minister of Foreign Affairs",
-      "title": "Minister of Foreign Affairs",
-      "description": "Minister of Foreign Affairs in Italy",
+      "label": "List of Ministers of Foreign Affairs",
+      "title": "List of Ministers of Foreign Affairs",
       "qualifiers": {
         "P580": "2014-02-22",
         "P582": "2014-10-31",
@@ -5705,26 +5704,50 @@
   ],
   "Q1071031": [
     {
-      "id": "Q1321872",
+      "id": "Q796897",
+      "label": "Prime Minister of Italy",
+      "title": "Prime Minister of Italy",
+      "description": "head of government of the Italian Republic",
+      "qualifiers": {
+        "P580": "2016-12-12",
+        "P1365": "Matteo Renzi",
+        "P582": "",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q27991492",
       "label": "Minister of Foreign Affairs",
       "title": "Minister of Foreign Affairs",
-      "description": "Minister of Foreign Affairs in Italy",
+      "description": "Italian minister",
       "qualifiers": {
         "P580": "2014-10-31",
-        "P1365": "Federica Mogherini"
+        "P1365": "Federica Mogherini",
+        "P582": "2016-12-12",
+        "P1366": "Angelino Alfano"
+      }
+    },
+    {
+      "id": "Q25514257",
+      "label": "Minister of Communications",
+      "title": "Minister of Communications",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2006-05-17",
+        "P582": "2008-05-08",
+        "P1365": "Mario Landolfi",
+        "P1366": ""
       }
     },
     {
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
-    },
-    {
-      "id": "Q25514257",
-      "label": "Minister of Communications",
-      "title": "Minister of Communications",
-      "description": "Italian minister"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2001-05-30",
+        "P582": ""
+      }
     }
   ],
   "Q3388783": [
