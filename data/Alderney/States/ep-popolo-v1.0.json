@@ -4,6 +4,10 @@
   ],
   "persons": [
     {
+      "id": "85904a23-9d80-49a4-82f9-ca37d818c5a8",
+      "name": "Alex Snowdon"
+    },
+    {
       "gender": "male",
       "id": "6baacce2-655a-493f-883a-29feea8a799d",
       "identifiers": [
@@ -66,6 +70,10 @@
       "name": "Ian Tugby"
     },
     {
+      "id": "031cca09-7f4f-4199-ab55-9b9527e68f7b",
+      "name": "James Dent"
+    },
+    {
       "gender": "male",
       "id": "a3833a8a-61b0-415a-a459-b6726d916f7b",
       "identifiers": [
@@ -98,6 +106,10 @@
         }
       ],
       "name": "Matthew Birmingham"
+    },
+    {
+      "id": "eb783368-b085-497f-a79b-e4def276b702",
+      "name": "Mike Dean"
     },
     {
       "gender": "male",
@@ -160,6 +172,10 @@
         }
       ],
       "name": "Steve Roberts"
+    },
+    {
+      "id": "db05b29d-97e2-4177-b732-c4126379c3c9",
+      "name": "Tony Barnes"
     }
   ],
   "organizations": [
@@ -480,6 +496,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -783,6 +804,11 @@
           "lang": "sr",
           "name": "ванстраначки политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -806,6 +832,19 @@
     ]
   },
   "memberships": [
+    {
+      "area_id": "area/alderney",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "031cca09-7f4f-4199-ab55-9b9527e68f7b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/157568/James-Dent"
+        }
+      ]
+    },
     {
       "area_id": "area/alderney",
       "legislative_period_id": "term/2014",
@@ -902,6 +941,19 @@
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/independent",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "85904a23-9d80-49a4-82f9-ca37d818c5a8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/157567/Alex-Snowdon"
+        }
+      ]
+    },
+    {
+      "area_id": "area/alderney",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
       "person_id": "a11887ce-2c42-4555-bfd9-0843f3a9ced0",
       "role": "member",
       "sources": [
@@ -933,6 +985,32 @@
       "sources": [
         {
           "url": "http://www.alderney.gov.gg/article/4387/Graham-McKinley"
+        }
+      ]
+    },
+    {
+      "area_id": "area/alderney",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "db05b29d-97e2-4177-b732-c4126379c3c9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/157565/Tony-Barnes"
+        }
+      ]
+    },
+    {
+      "area_id": "area/alderney",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "eb783368-b085-497f-a79b-e4def276b702",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/157566/Mike-Dean"
         }
       ]
     }
