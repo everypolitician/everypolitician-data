@@ -169,24 +169,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "gblakeney@parliament.bm"
-        }
-      ],
-      "email": "gblakeney@parliament.bm",
-      "gender": "male",
-      "id": "5bf62486-7511-4137-a4ff-af93a51c9663",
-      "identifiers": [
-        {
-          "identifier": "Glen_Blakeney_Bio",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Glenn Blakeney"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "ggibbons@parliament.bm"
         }
       ],
@@ -403,30 +385,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "mbean@parliament.bm"
-        }
-      ],
-      "email": "mbean@parliament.bm",
-      "gender": "male",
-      "id": "81fd4be1-95c6-4d7c-baba-9d2143d9f040",
-      "identifiers": [
-        {
-          "identifier": "Marc_Bean",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/3151_EPIS_MINISTER_MARC_BEAN_VSR_009_5x7.jpg"
-        }
-      ],
-      "name": "Marc Bean"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "mpettingill@parliament.bm"
         }
       ],
@@ -566,6 +524,10 @@
         }
       ],
       "name": "Nandi Outerbridge"
+    },
+    {
+      "id": "45d86c5f-08ac-44a7-b443-4280a93b714c",
+      "name": "Neville Tyrrell"
     },
     {
       "contact_details": [
@@ -1203,6 +1165,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1506,6 +1473,11 @@
           "lang": "sr",
           "name": "ванстраначки политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
         }
       ]
     },
@@ -1618,6 +1590,11 @@
         {
           "lang": "zh",
           "name": "進步工黨 (百慕達)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste progressiste",
           "note": "multilingual"
         },
         {
@@ -1778,6 +1755,14 @@
       ]
     },
     {
+      "area_id": "26",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "45d86c5f-08ac-44a7-b443-4280a93b714c",
+      "role": "member"
+    },
+    {
       "area_id": "19",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -1843,19 +1828,6 @@
       ]
     },
     {
-      "area_id": "13",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "5bf62486-7511-4137-a4ff-af93a51c9663",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Glen_Blakeney_Bio.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "32",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "Independent",
@@ -1917,19 +1889,6 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Dennis_Lister.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "26",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "PLP",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "81fd4be1-95c6-4d7c-baba-9d2143d9f040",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Marc_Bean.aspx"
         }
       ]
     },
