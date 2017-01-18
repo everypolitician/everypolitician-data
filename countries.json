@@ -4458,12 +4458,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Iceland/Assembly/sources",
         "popolo": "data/Iceland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/68142727a8c42b0532c87a557640eed19df8f4bf/data/Iceland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Iceland/Assembly/names.csv",
-        "lastmod": "1481973411",
-        "person_count": 205,
-        "sha": "68142727a8c42b0532c87a557640eed19df8f4bf",
+        "lastmod": "1484527765",
+        "person_count": 249,
+        "sha": "bc8ed15ae42c283d35ae6714c6d7902fe7591333",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "Alþingi 2016",
+            "start_date": "2016-10-29",
+            "slug": "2016",
+            "csv": "data/Iceland/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-2016.csv"
+          },
           {
             "end_date": "2016-10-29",
             "id": "term/2013",
@@ -4471,7 +4479,7 @@
             "start_date": "2013-04-27",
             "slug": "2013",
             "csv": "data/Iceland/Assembly/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/edd66ea49a5b3a56bdc21e697465c7290a624ad5/data/Iceland/Assembly/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-2013.csv"
           },
           {
             "end_date": "2013-04-27",
@@ -4480,7 +4488,7 @@
             "start_date": "2009",
             "slug": "2009",
             "csv": "data/Iceland/Assembly/term-2009.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a8910976b12306b7925a6772088b42122fea02dd/data/Iceland/Assembly/term-2009.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-2009.csv"
           },
           {
             "end_date": "2009",
@@ -4489,7 +4497,7 @@
             "start_date": "2007",
             "slug": "2007",
             "csv": "data/Iceland/Assembly/term-2007.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e5ce16ecc60f68c59a83fe2c96f3c8d8b4bb558/data/Iceland/Assembly/term-2007.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-2007.csv"
           },
           {
             "end_date": "2007",
@@ -4498,7 +4506,7 @@
             "start_date": "2003",
             "slug": "2003",
             "csv": "data/Iceland/Assembly/term-2003.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e5ce16ecc60f68c59a83fe2c96f3c8d8b4bb558/data/Iceland/Assembly/term-2003.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-2003.csv"
           },
           {
             "end_date": "2003",
@@ -4507,7 +4515,7 @@
             "start_date": "1999",
             "slug": "1999",
             "csv": "data/Iceland/Assembly/term-1999.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2e5ce16ecc60f68c59a83fe2c96f3c8d8b4bb558/data/Iceland/Assembly/term-1999.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-1999.csv"
           },
           {
             "end_date": "1999",
@@ -4516,10 +4524,10 @@
             "start_date": "1995",
             "slug": "1995",
             "csv": "data/Iceland/Assembly/term-1995.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/edd66ea49a5b3a56bdc21e697465c7290a624ad5/data/Iceland/Assembly/term-1995.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc8ed15ae42c283d35ae6714c6d7902fe7591333/data/Iceland/Assembly/term-1995.csv"
           }
         ],
-        "statement_count": 14085,
+        "statement_count": 14616,
         "type": "unicameral legislature"
       }
     ]
