@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-2016.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/turks-and-caicos-assembly",
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, 2016 AS term FROM data ORDER BY name",
+      },
+      "source": "http://www.gov.tc/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2016.csv"
+      }
+    },
+    {
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
