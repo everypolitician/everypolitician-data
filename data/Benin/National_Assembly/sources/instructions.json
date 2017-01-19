@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/benin-assemblee-nationale",
+        "scraper": "everypolitician-scrapers/benin-assemblee-nationale",
         "query": "SELECT * FROM data"
       },
       "source": "http://www.assemblee-nationale.bj",
