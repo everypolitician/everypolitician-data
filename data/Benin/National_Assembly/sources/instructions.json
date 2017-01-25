@@ -5,8 +5,13 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/benin-assemblee-nationale",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(term, '7', '6') AS term FROM data ORDER BY id"
       },
+      "source": "http://www.assemblee-nationale.bj",
+      "type": "membership"
+    },
+    {
+      "file": "archive/official-term-6.csv",
       "source": "http://www.assemblee-nationale.bj",
       "type": "membership"
     },
