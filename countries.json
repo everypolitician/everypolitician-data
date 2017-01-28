@@ -3657,12 +3657,20 @@
         "slug": "Parliament",
         "sources_directory": "data/Gibraltar/Parliament/sources",
         "popolo": "data/Gibraltar/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb0c75908370594433efd2037094e528cb8c4316/data/Gibraltar/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/ep-popolo-v1.0.json",
         "names": "data/Gibraltar/Parliament/names.csv",
-        "lastmod": "1485067900",
-        "person_count": 83,
-        "sha": "fb0c75908370594433efd2037094e528cb8c4316",
+        "lastmod": "1485532219",
+        "person_count": 88,
+        "sha": "1d147f724784042277e91dc0549cf08b66aee438",
         "legislative_periods": [
+          {
+            "id": "term/13",
+            "name": "Thirteenth Gibraltar Parliament",
+            "start_date": "2015-12-09",
+            "slug": "13",
+            "csv": "data/Gibraltar/Parliament/term-13.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-13.csv"
+          },
           {
             "end_date": "2015-10-20",
             "id": "term/12",
@@ -3670,7 +3678,7 @@
             "start_date": "2011-12-21",
             "slug": "12",
             "csv": "data/Gibraltar/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1384e1bdea68b8449a6972687fbeb3e534c98baf/data/Gibraltar/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-12.csv"
           },
           {
             "end_date": "2011-11-03",
@@ -3679,7 +3687,7 @@
             "start_date": "2007-11-08",
             "slug": "11",
             "csv": "data/Gibraltar/Parliament/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1384e1bdea68b8449a6972687fbeb3e534c98baf/data/Gibraltar/Parliament/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-11.csv"
           },
           {
             "end_date": "2007-09-07",
@@ -3688,7 +3696,7 @@
             "start_date": "2003-12-18",
             "slug": "10",
             "csv": "data/Gibraltar/Parliament/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/10fc9ede77d8d8678503d0ce2d9d8b09267719f6/data/Gibraltar/Parliament/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-10.csv"
           },
           {
             "end_date": "2003-10-24",
@@ -3697,7 +3705,7 @@
             "start_date": "2000-02-23",
             "slug": "9",
             "csv": "data/Gibraltar/Parliament/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aa4f4219cf2b965df2452f1220135ccd70351703/data/Gibraltar/Parliament/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-9.csv"
           },
           {
             "end_date": "2000",
@@ -3706,7 +3714,7 @@
             "start_date": "1996",
             "slug": "8",
             "csv": "data/Gibraltar/Parliament/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aa4f4219cf2b965df2452f1220135ccd70351703/data/Gibraltar/Parliament/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-8.csv"
           },
           {
             "end_date": "1996",
@@ -3715,7 +3723,7 @@
             "start_date": "1992",
             "slug": "7",
             "csv": "data/Gibraltar/Parliament/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-7.csv"
           },
           {
             "end_date": "1992",
@@ -3724,7 +3732,7 @@
             "start_date": "1988",
             "slug": "6",
             "csv": "data/Gibraltar/Parliament/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-6.csv"
           },
           {
             "end_date": "1988",
@@ -3733,7 +3741,7 @@
             "start_date": "1984",
             "slug": "5",
             "csv": "data/Gibraltar/Parliament/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-5.csv"
           },
           {
             "end_date": "1984",
@@ -3742,7 +3750,7 @@
             "start_date": "1980",
             "slug": "4",
             "csv": "data/Gibraltar/Parliament/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-4.csv"
           },
           {
             "end_date": "1980",
@@ -3751,7 +3759,7 @@
             "start_date": "1976",
             "slug": "3",
             "csv": "data/Gibraltar/Parliament/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-3.csv"
           },
           {
             "end_date": "1976",
@@ -3760,7 +3768,7 @@
             "start_date": "1972",
             "slug": "2",
             "csv": "data/Gibraltar/Parliament/term-2.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-2.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-2.csv"
           },
           {
             "end_date": "1972",
@@ -3769,10 +3777,10 @@
             "start_date": "1969",
             "slug": "1",
             "csv": "data/Gibraltar/Parliament/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71abace9ffc383a917702572fad5d09f2951556e/data/Gibraltar/Parliament/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d147f724784042277e91dc0549cf08b66aee438/data/Gibraltar/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 2988,
+        "statement_count": 1802,
         "type": "unicameral legislature"
       }
     ]
