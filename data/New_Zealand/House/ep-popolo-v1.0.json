@@ -1337,6 +1337,10 @@
       "id": "1422c590-0e1b-4c23-9856-3d60cc1f2c71",
       "identifiers": [
         {
+          "identifier": "0000 0000 8449 5119",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n80128350",
           "scheme": "lcauth"
         },
@@ -4111,6 +4115,11 @@
       "name": "Nick Smith",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "نيك سميث",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Nick Smith",
           "note": "multilingual"
@@ -4147,6 +4156,38 @@
         }
       ],
       "sort_name": "Smith, Nick"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "barry.coates@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "BarryCoates"
+        }
+      ],
+      "email": "barry.coates@parliament.govt.nz",
+      "id": "30be37a6-788e-4ce4-9cce-aa0d50b06876",
+      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/barrycoatesnz"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BarryCoates"
+        }
+      ],
+      "name": "Barry Coates",
+      "sort_name": "Coates, Barry"
     },
     {
       "birth_date": "1954-06-17",
@@ -4933,6 +4974,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Judith_Collins"
+        },
+        {
+          "note": "Wikipedia (eowikinews)",
+          "url": "https://eowikinews.wikipedia.org/wiki/Kategorio:Judith_COLLINS"
         },
         {
           "note": "Wikipedia (ru)",
@@ -8349,6 +8394,10 @@
           "url": "https://es.wikipedia.org/wiki/Bill_English"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Bill_English"
+        },
+        {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/بیل_اینگلیش"
         },
@@ -11382,6 +11431,10 @@
       "given_name": "Lesley",
       "id": "902ef1bf-1946-4d7e-9871-26b30d105a35",
       "identifiers": [
+        {
+          "identifier": "0000 0003 6171 0594",
+          "scheme": "isni"
+        },
         {
           "identifier": "221001846",
           "scheme": "viaf"
@@ -15760,6 +15813,11 @@
       "name": "Shane Jones",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "شاين جونز",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Shane Jones",
           "note": "multilingual"
@@ -19516,65 +19574,6 @@
         }
       ],
       "sort_name": "Tolley, Anne"
-    },
-    {
-      "birth_date": "1956-10-18",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "barry.coates@parliament.govt.nz"
-        },
-        {
-          "type": "twitter",
-          "value": "BarryCoates"
-        }
-      ],
-      "email": "barry.coates@parliament.govt.nz",
-      "gender": "male",
-      "id": "ec3eda9b-60c0-4c93-81c0-1269eac4467e",
-      "identifiers": [
-        {
-          "identifier": "Q26845632",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
-      "images": [
-        {
-          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Barry_Coates.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Barry_Coates"
-        },
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/barrycoatesnz"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/BarryCoates"
-        }
-      ],
-      "name": "Barry Coates",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Barry Coates",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Barry Coates",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Coates, Barry"
     },
     {
       "contact_details": [
@@ -25890,6 +25889,20 @@
       ]
     },
     {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/green_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "30be37a6-788e-4ce4-9cce-aa0d50b06876",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3711/coates-barry"
+        }
+      ],
+      "start_date": "2016-10-07"
+    },
+    {
       "area_id": "area/hutt_south",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -29394,20 +29407,6 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP1811/tolley-anne"
         }
       ]
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/51",
-      "on_behalf_of_id": "party/green_party",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "ec3eda9b-60c0-4c93-81c0-1269eac4467e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MPbarrycoates1/coates-barry"
-        }
-      ],
-      "start_date": "2016-10-07"
     },
     {
       "area_id": "area/list",
