@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/liechtenstein-landtag",
+        "scraper": "everypolitician-scrapers/liechtenstein-landtag",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.landtag.li",
