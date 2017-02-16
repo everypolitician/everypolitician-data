@@ -8950,12 +8950,20 @@
         "slug": "Estates",
         "sources_directory": "data/Sint_Maarten/Estates/sources",
         "popolo": "data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19ce84ef8c03fd84c691d810a5b2690e6731ae53/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e28de722f7a693eda2594b213416d7b8f875fa0f/data/Sint_Maarten/Estates/ep-popolo-v1.0.json",
         "names": "data/Sint_Maarten/Estates/names.csv",
-        "lastmod": "1487161216",
-        "person_count": 17,
-        "sha": "19ce84ef8c03fd84c691d810a5b2690e6731ae53",
+        "lastmod": "1487244879",
+        "person_count": 32,
+        "sha": "e28de722f7a693eda2594b213416d7b8f875fa0f",
         "legislative_periods": [
+          {
+            "id": "term/3",
+            "name": "3rd Estates",
+            "start_date": "2016-11-01",
+            "slug": "3",
+            "csv": "data/Sint_Maarten/Estates/term-3.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e28de722f7a693eda2594b213416d7b8f875fa0f/data/Sint_Maarten/Estates/term-3.csv"
+          },
           {
             "end_date": "2016-10-31",
             "id": "term/2",
@@ -8966,7 +8974,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b56da29f5f8e1330780869ae0013095adcb413cc/data/Sint_Maarten/Estates/term-2.csv"
           }
         ],
-        "statement_count": 797,
+        "statement_count": 995,
         "type": "unicameral legislature"
       }
     ]
