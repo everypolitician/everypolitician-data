@@ -2722,7 +2722,7 @@
       ]
     },
     {
-      "birth_date": "1962-02-02",
+      "birth_date": "1962-12-02",
       "contact_details": [
         {
           "type": "phone",
@@ -8171,6 +8171,22 @@
       ]
     },
     {
+      "id": "b90ac988-07e8-49d6-980f-d78bb39c530d",
+      "image": "http://www.nass.gov.ng/images/mps/302.jpg",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/302.jpg"
+        }
+      ],
+      "name": "CHINDA OGUNDU",
+      "other_names": [
+        {
+          "name": "CHINDA KINGSLEY OGUNDU",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "birth_date": "1955-04-25",
       "id": "b97f173d-2163-4f8a-9632-c857511ed427",
       "identifiers": [
@@ -9415,6 +9431,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yakubu_Dogara"
+        },
+        {
+          "note": "website",
+          "url": "http://yakubudogara.com.ng/"
         }
       ],
       "name": "DOGARA YAKUBU",
@@ -15483,6 +15503,19 @@
       ]
     },
     {
+      "area_id": "area/obio/akpor,_rivers_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "PDP",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "b90ac988-07e8-49d6-980f-d78bb39c530d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/302"
+        }
+      ]
+    },
+    {
       "area_id": "area/port_harcourt_1,_rivers_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PDP",
@@ -18616,6 +18649,11 @@
     {
       "id": "area/obingwa/osisioma/ugbunagbo,_abia_state",
       "name": "Obingwa/Osisioma/Ugbunagbo, Abia State",
+      "type": "constituency"
+    },
+    {
+      "id": "area/obio/akpor,_rivers_state",
+      "name": "Obio/Akpor, Rivers State",
       "type": "constituency"
     },
     {
