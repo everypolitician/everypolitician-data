@@ -12,13 +12,8 @@
         "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
         "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
       },
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikipedia.csv"
-      },
       "source": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
-      "type": "person"
+      "type": "membership"
     },
     {
       "file": "morph/wikidata.csv",
