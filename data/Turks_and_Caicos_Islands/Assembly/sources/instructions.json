@@ -25,7 +25,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, 2016 AS term FROM data ORDER BY name"
       },
       "merge": {
         "incoming_field": "name",
