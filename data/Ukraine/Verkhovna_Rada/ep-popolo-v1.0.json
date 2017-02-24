@@ -1829,9 +1829,7 @@
       "patronymic_name": "Васильович"
     },
     {
-      "birth_date": "1974-07-05",
       "family_name": "Демчак",
-      "gender": "male",
       "given_name": "Руслан",
       "id": "0d99cd43-430b-42e9-884c-7cdca9edc273",
       "identifiers": [
@@ -1842,10 +1840,6 @@
         {
           "identifier": "18080",
           "scheme": "rada"
-        },
-        {
-          "identifier": "Q12100021",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d18_1.jpg",
@@ -1854,24 +1848,7 @@
           "url": "http://static.rada.gov.ua/dep_img8/d18_1.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Демчак_Руслан_Євгенійович"
-        }
-      ],
       "name": "Демчак Руслан Євгенійович",
-      "other_names": [
-        {
-          "name": "Демчак Руслан Євгенович",
-          "note": "alternate"
-        },
-        {
-          "lang": "uk",
-          "name": "Демчак Руслан Євгенович",
-          "note": "multilingual"
-        }
-      ],
       "patronymic_name": "Євгенійович"
     },
     {
@@ -3153,6 +3130,25 @@
       "patronymic_name": "Зіновійович"
     },
     {
+      "family_name": "Бендюженко",
+      "given_name": "Федір",
+      "id": "18f605e8-2b34-4c70-a8c3-8465f87b0d9b",
+      "identifiers": [
+        {
+          "identifier": "19550",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/nf80.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf80.jpg"
+        }
+      ],
+      "name": "Бендюженко Федір Володимирович",
+      "patronymic_name": "Володимирович"
+    },
+    {
       "birth_date": "1975-03-21",
       "family_name": "Кіраль",
       "gender": "male",
@@ -4238,6 +4234,10 @@
           "url": "https://en.wikipedia.org/wiki/Iryna_Sysoyenko"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сысоенко,_Ирина_Владимировна"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Сисоєнко_Ірина_Володимирівна"
         },
@@ -4266,6 +4266,11 @@
         {
           "lang": "nl",
           "name": "Iryna Sysoyenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сысоенко, Ирина Владимировна",
           "note": "multilingual"
         },
         {
@@ -15282,6 +15287,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Oleksandr_Ponomariov"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Пономарёв,_Александр_Сергеевич_(политик)"
         },
@@ -16328,6 +16337,10 @@
         {
           "identifier": "n2014181974",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "Arseniy-Yatsenyuk",
+          "scheme": "quora"
         },
         {
           "identifier": "11116",
@@ -27895,6 +27908,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "Nadiya-Savchenko",
+          "scheme": "quora"
+        },
+        {
           "identifier": "18166",
           "scheme": "rada"
         },
@@ -29248,9 +29265,7 @@
       "patronymic_name": "Михайлович"
     },
     {
-      "birth_date": "1986-04-23",
       "family_name": "Алексєєв",
-      "gender": "male",
       "given_name": "Ігор",
       "id": "e053c7cd-1c6b-41e7-a66c-b79c07b24208",
       "identifiers": [
@@ -29261,10 +29276,6 @@
         {
           "identifier": "16067",
           "scheme": "rada"
-        },
-        {
-          "identifier": "Q16159908",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf64.jpg",
@@ -29273,20 +29284,7 @@
           "url": "http://static.rada.gov.ua/dep_img8/nf64.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Алексєєв_Ігор_Сергійович"
-        }
-      ],
       "name": "Алексєєв Ігор Сергійович",
-      "other_names": [
-        {
-          "lang": "uk",
-          "name": "Алексєєв Ігор Сергійович",
-          "note": "multilingual"
-        }
-      ],
       "patronymic_name": "Сергійович"
     },
     {
@@ -35201,7 +35199,7 @@
         },
         {
           "lang": "de",
-          "name": "Solidariät (Ukraine)",
+          "name": "Block Petro Poroschenko",
           "note": "multilingual"
         },
         {
@@ -35312,6 +35310,11 @@
         {
           "lang": "de",
           "name": "Partei Solidarność",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Solidariät",
           "note": "multilingual"
         },
         {
@@ -36202,11 +36205,21 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2017-02-21",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2615",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "022c3a2d-6b80-4d76-82ff-a057903c9f04",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "022c3a2d-6b80-4d76-82ff-a057903c9f04",
+      "role": "member",
+      "start_date": "2017-02-22"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -36658,6 +36671,15 @@
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "18bd5ab1-dd53-4341-b7f8-9f7dd1da8beb",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "18f605e8-2b34-4c70-a8c3-8465f87b0d9b",
+      "role": "member",
+      "start_date": "2017-02-21"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
