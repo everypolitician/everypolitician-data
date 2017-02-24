@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data WHERE term=2012 ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
       "type": "membership"
