@@ -514,23 +514,6 @@
       "name": "Francisco Cuellar Rios"
     },
     {
-      "gender": "male",
-      "id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
-      "identifiers": [
-        {
-          "identifier": "monron.oe",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/monron.oe.jpg"
-        }
-      ],
-      "name": "Erik Morón Osinaga"
-    },
-    {
       "gender": "female",
       "id": "53605ee9-68a3-475b-89f1-eb9231c4e91f",
       "identifiers": [
@@ -1308,6 +1291,16 @@
       "name": "Tito Veizaga Cossio"
     },
     {
+      "id": "a1631c5f-5d28-4f3c-bcd2-d9858f6c8cc5",
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg"
+        }
+      ],
+      "name": "Erik Morón Osinaga"
+    },
+    {
       "gender": "male",
       "id": "a1d5910c-f5f7-47b5-93f9-a7937a9a4dc7",
       "identifiers": [
@@ -1835,6 +1828,16 @@
       "name": "Eddy Henrry Cabrera Carlo"
     },
     {
+      "id": "cb97679e-b5e7-4a80-9e15-5137a1c44005",
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/ramirez.mv.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/ramirez.mv.jpg"
+        }
+      ],
+      "name": "Victor Marcian Ramirez Medina"
+    },
+    {
       "gender": "male",
       "id": "cbfdcbfd-81e9-4ef0-9e5f-e2ecf01852bb",
       "identifiers": [
@@ -2207,6 +2210,16 @@
         }
       ],
       "name": "Martiriano Mamani Cari"
+    },
+    {
+      "id": "ff7b89e7-6a4e-4786-b3ab-0e7cfcdbce07",
+      "image": "http://www.diputados.bo/script/imagenes/La%20Paz/flores.cf.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/La%20Paz/flores.cf.jpg"
+        }
+      ],
+      "name": "Franklin Richard Flores Cordova"
     },
     {
       "gender": "female",
@@ -2933,19 +2946,6 @@
       ]
     },
     {
-      "area_id": "area/santa_cruz",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/ud",
-      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
-      "person_id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.diputados.bo/script/dip-index.php"
-        }
-      ]
-    },
-    {
       "area_id": "C - 57",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/mas",
@@ -3505,6 +3505,19 @@
       ]
     },
     {
+      "area_id": "area/santa_cruz",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/ud",
+      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
+      "person_id": "a1631c5f-5d28-4f3c-bcd2-d9858f6c8cc5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.diputados.bo/script/dip-index.php"
+        }
+      ]
+    },
+    {
       "area_id": "area/tarija",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/pdc",
@@ -3908,6 +3921,19 @@
       ]
     },
     {
+      "area_id": "area/la_paz",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/mas",
+      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
+      "person_id": "cb97679e-b5e7-4a80-9e15-5137a1c44005",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.diputados.bo/script/dip-index.php"
+        }
+      ]
+    },
+    {
       "area_id": "C - 12",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "party/mas",
@@ -4186,6 +4212,19 @@
       "on_behalf_of_id": "party/mas",
       "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
       "person_id": "fa611427-195e-4fed-bdc8-dc5ab5550b83",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.diputados.bo/script/dip-index.php"
+        }
+      ]
+    },
+    {
+      "area_id": "C - 18",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/mas",
+      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
+      "person_id": "ff7b89e7-6a4e-4786-b3ab-0e7cfcdbce07",
       "role": "member",
       "sources": [
         {
@@ -4753,6 +4792,11 @@
     },
     {
       "id": "C - 17",
+      "name": "La Paz",
+      "type": "constituency"
+    },
+    {
+      "id": "C - 18",
       "name": "La Paz",
       "type": "constituency"
     },
