@@ -3854,6 +3854,17 @@
       "sort_name": "Gudumac Elena"
     },
     {
+      "id": "7bca7035-89d0-4130-8eed-90dc4b8e660b",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=zbpzGgcGVgQ%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=zbpzGgcGVgQ%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Irina Mîzdrenco",
+      "sort_name": "Mîzdrenco Irina"
+    },
+    {
       "birth_date": "1964-02-23",
       "contact_details": [
         {
@@ -3905,6 +3916,17 @@
         }
       ],
       "sort_name": "Apolschii Raisa"
+    },
+    {
+      "id": "84c4ddf6-43e8-4d0a-8a19-298c1fb3378b",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=7yCSi9vHiSM%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=7yCSi9vHiSM%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Simion Grişciuc",
+      "sort_name": "Grişciuc Simion"
     },
     {
       "birth_date": "1948-08-12",
@@ -3985,16 +4007,17 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Chiril_Lucinschi"
-        },
-        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Chiril_Lucinschi"
         }
       ],
       "name": "Chiril Lucinschi",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Chiril Lucinschi",
+          "note": "multilingual"
+        },
         {
           "lang": "ro",
           "name": "Chiril Lucinschi",
@@ -5864,7 +5887,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Решетников,_Артур"
+          "url": "https://ru.wikipedia.org/wiki/Решетников,_Артур_Валентинович"
         }
       ],
       "name": "Artur Reşetnicov",
@@ -11443,6 +11466,18 @@
     },
     {
       "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "12",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "7bca7035-89d0-4130-8eed-90dc4b8e660b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/699/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "9",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "83f941b1-e15d-410f-8093-6081b6cbafa0",
@@ -11450,6 +11485,18 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/297/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "-1",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "84c4ddf6-43e8-4d0a-8a19-298c1fb3378b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/341/language/en-US/Default.aspx"
         }
       ]
     },
