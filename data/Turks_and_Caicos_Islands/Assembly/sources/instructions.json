@@ -1,6 +1,11 @@
 {
   "sources": [
     {
+      "file": "archive/official-2012-appointed-members.csv",
+      "source": "http://www.gov.tc/",
+      "type": "membership",
+    },
+    {
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
@@ -11,7 +16,7 @@
       "type": "membership"
     },
     {
-      "file": "archive/official-2012.csv",
+      "file": "archive/official-2012-elected-members.csv",
       "source": "http://www.gov.tc/",
       "type": "person",
       "merge": {
