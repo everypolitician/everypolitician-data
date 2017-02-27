@@ -1,11 +1,6 @@
 {
   "sources": [
     {
-      "file": "archive/official-2012.csv",
-      "source": "http://www.gov.tc/",
-      "type": "membership"
-    },
-    {
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
@@ -19,6 +14,11 @@
       },
       "source": "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
       "type": "person"
+    },
+    {
+      "file": "archive/official-2012.csv",
+      "source": "http://www.gov.tc/",
+      "type": "membership"
     },
     {
       "file": "morph/wikidata.csv",
