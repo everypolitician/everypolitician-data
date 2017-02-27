@@ -1132,7 +1132,7 @@
       "email": "emma.fattorini@senato.it",
       "family_name": "Fattorini",
       "gender": "female",
-      "given_name": "Emma",
+      "given_name": "Enma",
       "id": "078ebae7-aa1d-4a61-870a-fd0e9b9cec1a",
       "identifiers": [
         {
@@ -2089,6 +2089,10 @@
         {
           "identifier": "276479",
           "scheme": "ptbnp"
+        },
+        {
+          "identifier": "Mario-Monti-1",
+          "scheme": "quora"
         },
         {
           "identifier": "IT\\ICCU\\RAVV\\080909",
@@ -7950,6 +7954,10 @@
         {
           "identifier": "OL479970A",
           "scheme": "olid"
+        },
+        {
+          "identifier": "Renzo-Piano",
+          "scheme": "quora"
         },
         {
           "identifier": "IT\\ICCU\\CFIV\\036116",
@@ -33260,6 +33268,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sc",
+          "name": "Giulio Tremonti",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Giulio Tremonti",
           "note": "multilingual"
@@ -37795,47 +37808,8 @@
     },
     {
       "classification": "party",
-      "id": "party/area_popolare-ncd-centristi_per_l'italia",
-      "identifiers": [
-        {
-          "identifier": "Q18844195",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
-      "name": "Area Popolare-Ncd-Centristi per l'Italia",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Popular Area",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Area Popolare",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "대중구역",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "民眾地區",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "民众地区",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Area Popolare",
-          "note": "multilingual"
-        }
-      ]
+      "id": "party/area_popolare_(ncd-centristi_per_l'europa)",
+      "name": "Area Popolare (Ncd-Centristi per l'Europa)"
     },
     {
       "classification": "party",
@@ -39300,7 +39274,7 @@
     {
       "area_id": "area/lazio",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "014f80a5-e5e5-4315-b6af-85f093252b55",
       "role": "member",
@@ -39352,7 +39326,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "05986061-8253-4100-868b-65a4f4dc8acb",
       "role": "member",
@@ -39456,7 +39430,7 @@
     {
       "area_id": "area/molise",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "08090c31-af96-4145-b281-aa160d64de08",
       "role": "member",
@@ -39599,7 +39573,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "1034ff46-48c9-41d6-9a24-cdc172eed27f",
       "role": "member",
@@ -39638,7 +39612,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/ala_-_scelta_civica_per_la_costituente_liberale_e_popolare",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "12023326-5861-4cce-9ee9-39d41e926ba5",
       "role": "member",
@@ -39794,7 +39768,7 @@
     {
       "area_id": "area/basilicata",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "1cf49bee-2d3b-4c2a-9077-1992bcefcba2",
       "role": "member",
@@ -39820,7 +39794,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "1f6c05f0-db30-409a-b4d4-62a99f28b6d7",
       "role": "member",
@@ -40184,7 +40158,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "34f891e8-b8d3-40b1-b2dd-250279ac49b9",
       "role": "member",
@@ -40210,7 +40184,7 @@
     {
       "area_id": "area/calabria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "3589d82f-d1ad-44ec-8f69-767fb3807451",
       "role": "member",
@@ -40652,7 +40626,7 @@
     {
       "area_id": "area/veneto",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "4c9867eb-df93-42cb-bee2-19b80d2d7d2e",
       "role": "member",
@@ -40665,7 +40639,7 @@
     {
       "area_id": "area/lombardia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "4d9a9a7b-acef-4f32-995a-f308878d5893",
       "role": "member",
@@ -40691,7 +40665,7 @@
     {
       "area_id": "area/abruzzo",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "4f7301ac-bd91-41a2-9737-5952da13417a",
       "role": "member",
@@ -40925,7 +40899,7 @@
     {
       "area_id": "area/lombardia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "578e0bf7-cb6e-4983-9248-34a0b3669ee4",
       "role": "member",
@@ -40951,7 +40925,7 @@
     {
       "area_id": "area/umbria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "5917fc21-d1f2-48b1-9cfb-efc366624cf5",
       "role": "member",
@@ -41237,7 +41211,7 @@
     {
       "area_id": "area/campania",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "6e1a5621-b03c-47a4-9a34-178555d65b72",
       "role": "member",
@@ -41419,7 +41393,7 @@
     {
       "area_id": "area/europa",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "7a424851-5c91-434c-b466-f5b185b9b2ef",
       "role": "member",
@@ -41562,7 +41536,7 @@
     {
       "area_id": "area/veneto",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "819d33e8-ab64-4480-bc2f-857b0300ba22",
       "role": "member",
@@ -41692,7 +41666,7 @@
     {
       "area_id": "area/calabria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "8adc5c40-9fe0-4ede-8787-6aa56b093dc9",
       "role": "member",
@@ -41744,7 +41718,7 @@
     {
       "area_id": "area/emilia-romagna",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "8ef4a276-2613-45ee-9eac-7c9c8a757100",
       "role": "member",
@@ -41978,7 +41952,7 @@
     {
       "area_id": "area/lombardia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "9c15fc91-59e0-4261-8642-d606de50e9b1",
       "role": "member",
@@ -42108,7 +42082,7 @@
     {
       "area_id": "area/puglia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "a169a83d-6694-4318-8722-0d8e3c86ba49",
       "role": "member",
@@ -42147,7 +42121,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "a4ef68fc-bef5-462c-93e0-c1a2e059cff1",
       "role": "member",
@@ -42173,7 +42147,7 @@
     {
       "area_id": "area/veneto",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "a573c886-510c-4cd7-8ed8-995e27750ede",
       "role": "member",
@@ -42264,7 +42238,7 @@
     {
       "area_id": "area/lombardia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "ad7a4d07-2e00-4b21-b806-51874f4103e7",
       "role": "member",
@@ -42277,7 +42251,7 @@
     {
       "area_id": "area/sicilia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "b1b597f5-69c7-4192-90f6-fba976d38baf",
       "role": "member",
@@ -42459,7 +42433,7 @@
     {
       "area_id": "area/lombardia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/ala_-_scelta_civica_per_la_costituente_liberale_e_popolare",
+      "on_behalf_of_id": "party/gruppo_misto",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "bef75f13-39d2-4b62-b3a2-40c6e839b58c",
       "role": "member",
@@ -42589,7 +42563,7 @@
     {
       "area_id": "area/veneto",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "c5aaefa8-599b-43af-b13f-8937ed876e6a",
       "role": "member",
@@ -42719,7 +42693,7 @@
     {
       "area_id": "area/calabria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "cbad5d5a-cab9-4379-b524-7e07d22ccf27",
       "role": "member",
@@ -43109,7 +43083,7 @@
     {
       "area_id": "area/calabria",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "e59c0b33-6cd4-4784-9ced-3b31435254cf",
       "role": "member",
@@ -43330,7 +43304,7 @@
     {
       "area_id": "area/emilia-romagna",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "fab5d072-029d-4985-b28c-240dcb383e33",
       "role": "member",
@@ -43343,7 +43317,7 @@
     {
       "area_id": "area/campania",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/area_popolare_(ncd-centristi_per_l'europa)",
       "organization_id": "2257aff3-22af-45e6-8002-ff39335c96d6",
       "person_id": "fb102168-ec26-4b31-bc9c-9425230e1450",
       "role": "member",
