@@ -1857,7 +1857,22 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2003-03-19",
+        "P582": "2007-03-20",
+        "P768": "Helsinki electoral district"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2007-03-21",
+        "P582": "2011-04-19",
+        "P768": "Pirkanmaa"
+      }
     }
   ],
   "Q458219": [
@@ -6612,6 +6627,51 @@
       "title": "member of the Parliament of Finland"
     }
   ],
+  "Q5407283": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1987-03-21",
+        "P582": "1991-03-21",
+        "P768": "North Karelia"
+      }
+    },
+    {
+      "id": "Q1048210",
+      "label": "general director",
+      "title": "general director (of National Public Health Institute of Finland)",
+      "description": "profession",
+      "qualifiers": {
+        "P642": "National Public Health Institute of Finland",
+        "P580": "2000-10-01",
+        "P582": "2001-02-28"
+      }
+    },
+    {
+      "id": "Q1048210",
+      "label": "general director",
+      "title": "general director (of National Public Health Institute of Finland)",
+      "description": "profession",
+      "qualifiers": {
+        "P642": "National Public Health Institute of Finland",
+        "P580": "2003-12",
+        "P582": "2008-12-31"
+      }
+    },
+    {
+      "id": "Q1048210",
+      "label": "general director",
+      "title": "general director (of National Institute for Health and Welfare)",
+      "description": "profession",
+      "qualifiers": {
+        "P642": "National Institute for Health and Welfare",
+        "P580": "2009-01-01",
+        "P582": "2013-12-31"
+      }
+    }
+  ],
   "Q11879931": [
     {
       "id": "Q17592486",
@@ -6997,6 +7057,17 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    }
+  ],
+  "Q5413089": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2015-04-22",
+        "P768": "Uusimaa"
+      }
     }
   ],
   "Q11897733": [
@@ -7538,17 +7609,6 @@
       "title": "municipality councillor in Finland",
       "qualifiers": {
         "P2715": "Municipal elections 2012 in Jyväskylä in Finland"
-      }
-    }
-  ],
-  "Q5413089": [
-    {
-      "id": "Q17592486",
-      "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland",
-      "qualifiers": {
-        "P580": "2015-04-22",
-        "P768": "Uusimaa"
       }
     }
   ]
