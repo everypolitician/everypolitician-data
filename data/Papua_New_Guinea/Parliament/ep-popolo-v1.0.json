@@ -707,6 +707,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Theo_Zurenuoc"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Theo_Zurenuoc"
         }
       ],
       "name": "Hon. Theodore Zurenouc, MP",
@@ -2501,14 +2505,19 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "Nil"
+        },
+        {
           "type": "fax",
           "value": "3277480"
         },
         {
           "type": "phone",
-          "value": "3277628"
+          "value": "3277628/73667549"
         }
       ],
+      "email": "Nil",
       "id": "72e34ad7-3547-47c4-ac78-67369a0753ee",
       "identifiers": [
         {
@@ -3722,6 +3731,31 @@
         }
       ],
       "name": "Hon. Francis Awesa, MP"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "johnsontuke@gmail.com"
+        },
+        {
+          "type": "fax",
+          "value": "3277743"
+        },
+        {
+          "type": "phone",
+          "value": "3277671"
+        }
+      ],
+      "email": "johnsontuke@gmail.com",
+      "id": "e3c1f208-e01d-4bca-a45d-5ea4b2db2fb5",
+      "image": "http://www.parliament.gov.pg/uploads/profiles/jtuke.png",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.pg/uploads/profiles/jtuke.png"
+        }
+      ],
+      "name": "Hon. Johnson Ibo Tuke, MP"
     },
     {
       "contact_details": [
@@ -5287,7 +5321,7 @@
     {
       "area_id": "area/eastern_highlands_province",
       "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "THE",
+      "on_behalf_of_id": "PNC",
       "organization_id": "577fcc83-d248-4f1c-bac9-41ddb90293ff",
       "person_id": "0bb48174-8cc2-4216-a8e7-71d4afa3ac83",
       "role": "member"
@@ -5333,7 +5367,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/obura_wonenara_district",
+      "area_id": "area/bougainville",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "SA",
       "organization_id": "577fcc83-d248-4f1c-bac9-41ddb90293ff",
@@ -5445,7 +5479,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/goroka_district",
+      "area_id": "area/henganofi_district",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "NG",
       "organization_id": "577fcc83-d248-4f1c-bac9-41ddb90293ff",
@@ -6013,6 +6047,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/kainantu_district",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "PPP",
+      "organization_id": "577fcc83-d248-4f1c-bac9-41ddb90293ff",
+      "person_id": "e3c1f208-e01d-4bca-a45d-5ea4b2db2fb5",
+      "role": "member"
+    },
+    {
       "area_id": "area/alotau_district",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
@@ -6069,7 +6111,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/central_bougainville_district",
+      "area_id": "area/south_fly_district",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "PNC",
       "organization_id": "577fcc83-d248-4f1c-bac9-41ddb90293ff",
@@ -6290,11 +6332,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/central_bougainville_district",
-      "name": "Central Bougainville District",
-      "type": "constituency"
-    },
-    {
       "id": "area/central_province",
       "name": "Central Province",
       "type": "constituency"
@@ -6357,11 +6394,6 @@
     {
       "id": "area/goilala_district",
       "name": "Goilala District",
-      "type": "constituency"
-    },
-    {
-      "id": "area/goroka_district",
-      "name": "Goroka District",
       "type": "constituency"
     },
     {
@@ -6647,11 +6679,6 @@
     {
       "id": "area/nuku_district",
       "name": "Nuku District",
-      "type": "constituency"
-    },
-    {
-      "id": "area/obura_wonenara_district",
-      "name": "Obura Wonenara District",
       "type": "constituency"
     },
     {
