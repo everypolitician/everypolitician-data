@@ -1,6 +1,11 @@
 {
   "sources": [
     {
+      "file": "archive/official-51-members.csv",
+      "source": "http://www.parliament.nz",
+      "type": "membership"
+    },
+    {
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
