@@ -263,14 +263,6 @@
       "description": "Turkish MP"
     }
   ],
-  "Q3671598": [
-    {
-      "id": "Q21030356",
-      "label": "Member of the Grand National Assembly of Turkey",
-      "title": "Member of the Grand National Assembly of Turkey",
-      "description": "Turkish MP"
-    }
-  ],
   "Q6019968": [
     {
       "id": "Q21030356",
@@ -1936,14 +1928,6 @@
     }
   ],
   "Q6028386": [
-    {
-      "id": "Q21030356",
-      "label": "Member of the Grand National Assembly of Turkey",
-      "title": "Member of the Grand National Assembly of Turkey",
-      "description": "Turkish MP"
-    }
-  ],
-  "Q6023182": [
     {
       "id": "Q21030356",
       "label": "Member of the Grand National Assembly of Turkey",
@@ -8637,6 +8621,14 @@
       "description": "Turkish MP"
     }
   ],
+  "Q6028661": [
+    {
+      "id": "Q21030356",
+      "label": "Member of the Grand National Assembly of Turkey",
+      "title": "Member of the Grand National Assembly of Turkey",
+      "description": "Turkish MP"
+    }
+  ],
   "Q6079087": [
     {
       "id": "Q21030356",
@@ -10008,6 +10000,19 @@
       "label": "Member of the Grand National Assembly of Turkey",
       "title": "Member of the Grand National Assembly of Turkey",
       "description": "Turkish MP"
+    }
+  ],
+  "Q20790440": [
+    {
+      "id": "Q21030356",
+      "label": "Member of the Grand National Assembly of Turkey",
+      "title": "Member of the Grand National Assembly of Turkey",
+      "description": "Turkish MP",
+      "qualifiers": {
+        "P768": "İstanbul",
+        "P2937": "25th Parliament of Turkey",
+        "P102": "Republican People's Party"
+      }
     }
   ],
   "Q17448608": [
@@ -13203,6 +13208,14 @@
     }
   ],
   "Q7161469": [
+    {
+      "id": "Q21030356",
+      "label": "Member of the Grand National Assembly of Turkey",
+      "title": "Member of the Grand National Assembly of Turkey",
+      "description": "Turkish MP"
+    }
+  ],
+  "Q6023182": [
     {
       "id": "Q21030356",
       "label": "Member of the Grand National Assembly of Turkey",
@@ -20754,6 +20767,14 @@
       "description": "Turkish MP"
     }
   ],
+  "Q3671598": [
+    {
+      "id": "Q21030356",
+      "label": "Member of the Grand National Assembly of Turkey",
+      "title": "Member of the Grand National Assembly of Turkey",
+      "description": "Turkish MP"
+    }
+  ],
   "Q20476553": [
     {
       "id": "Q21030356",
@@ -25383,6 +25404,14 @@
         "P580": "2015-06-07",
         "P768": "Şanlıurfa"
       }
+    }
+  ],
+  "Q6030973": [
+    {
+      "id": "Q21030356",
+      "label": "Member of the Grand National Assembly of Turkey",
+      "title": "Member of the Grand National Assembly of Turkey",
+      "description": "Turkish MP"
     }
   ],
   "Q19612136": [
@@ -30661,13 +30690,22 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P768": "Germany",
+        "P580": "1999-06-13",
+        "P582": "2009-06-07"
+      }
     },
     {
       "id": "Q21030356",
       "label": "Member of the Grand National Assembly of Turkey",
       "title": "Member of the Grand National Assembly of Turkey",
-      "description": "Turkish MP"
+      "description": "Turkish MP",
+      "qualifiers": {
+        "P580": "2015-06-07",
+        "P768": "Diyarbakır"
+      }
     }
   ],
   "Q6012128": [
