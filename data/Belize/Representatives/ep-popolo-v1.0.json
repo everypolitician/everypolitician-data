@@ -679,6 +679,16 @@
       "name": "Mark Anthony King"
     },
     {
+      "id": "330d00f5-4686-4948-b3f6-d8ffe4254967",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "name": "Mrs. Laura Tucker-Longsworth"
+    },
+    {
       "id": "3a75b3b6-8952-41ef-92cf-0765bbf3eb71",
       "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Hon.-Beverly-Castillo.jpg",
       "images": [
@@ -1916,6 +1926,11 @@
     },
     {
       "classification": "party",
+      "id": "party/madam_speaker",
+      "name": "Madam Speaker"
+    },
+    {
+      "classification": "party",
       "id": "party/people's_united_party",
       "identifiers": [
         {
@@ -2373,6 +2388,19 @@
       "sources": [
         {
           "url": "http://nationalassembly.gov.bz/index.php/hor-lowerhouse/69-members-of-the-house/213-hon-mark-king"
+        }
+      ]
+    },
+    {
+      "area_id": "area/madam_speaker",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/madam_speaker",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "330d00f5-4686-4948-b3f6-d8ffe4254967",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/house-of-representatives/"
         }
       ]
     },
@@ -3091,6 +3119,11 @@
     {
       "id": "area/lake_independence",
       "name": "Lake Independence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madam_speaker",
+      "name": "Madam Speaker",
       "type": "constituency"
     },
     {
