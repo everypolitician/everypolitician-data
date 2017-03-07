@@ -2326,12 +2326,20 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "1975-01-03",
+        "P582": "1999-01-03"
+      }
     },
     {
       "id": "Q20765963",
       "label": "Governor of Arkansas",
-      "title": "Governor of Arkansas"
+      "title": "Governor of Arkansas",
+      "qualifiers": {
+        "P580": "1971-01-12",
+        "P582": "1975-01-03"
+      }
     }
   ],
   "Q518447": [
@@ -2352,6 +2360,17 @@
       "label": "United States representative",
       "title": "United States representative",
       "description": "elected representative in the US"
+    }
+  ],
+  "Q16192221": [
+    {
+      "id": "Q13217683",
+      "label": "United States Senator",
+      "title": "United States Senator",
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2015-01-03"
+      }
     }
   ],
   "Q1811690": [
@@ -3065,7 +3084,11 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2009-01-03",
+        "P582": "2015-01-03"
+      }
     },
     {
       "id": "Q1029955",
@@ -3343,7 +3366,10 @@
       "id": "Q13217683",
       "label": "United States Senator",
       "title": "United States Senator",
-      "description": "member of the United States Senate"
+      "description": "member of the United States Senate",
+      "qualifiers": {
+        "P580": "2013-01-03"
+      }
     }
   ],
   "Q1240457": [
