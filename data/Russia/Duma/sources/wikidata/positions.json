@@ -1,12 +1,4 @@
 {
-  "Q21104119": [
-    {
-      "id": "Q17276321",
-      "label": "member of the State Duma",
-      "title": "member of the State Duma",
-      "description": "member of the lower house of the Russian parliament"
-    }
-  ],
   "Q19818069": [
     {
       "id": "Q17276321",
@@ -1204,8 +1196,9 @@
     },
     {
       "id": "Q15628644",
-      "label": "Q15628644",
-      "title": "Q15628644"
+      "label": "member of the Supreme Soviet of the Soviet Union",
+      "title": "member of the Supreme Soviet of the Soviet Union",
+      "description": "political representative in the Soviet Unioni"
     }
   ],
   "Q15206940": [
@@ -2193,7 +2186,12 @@
       "id": "Q17276321",
       "label": "member of the State Duma",
       "title": "member of the State Duma",
-      "description": "member of the lower house of the Russian parliament"
+      "description": "member of the lower house of the Russian parliament",
+      "qualifiers": {
+        "P580": "2011",
+        "P582": "2016",
+        "P805": "6th State Duma of the Russian Federation"
+      }
     }
   ],
   "Q983851": [
@@ -2653,8 +2651,9 @@
     },
     {
       "id": "Q15628644",
-      "label": "Q15628644",
-      "title": "Q15628644"
+      "label": "member of the Supreme Soviet of the Soviet Union",
+      "title": "member of the Supreme Soviet of the Soviet Union",
+      "description": "political representative in the Soviet Unioni"
     }
   ]
 }
