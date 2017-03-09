@@ -1687,6 +1687,10 @@
           "url": "https://simple.wikipedia.org/wiki/Helen_Clark"
         },
         {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Helen_Clarková"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Хелен_Кларк"
         },
@@ -7925,6 +7929,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "Jian-Yang-28",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q6191470",
           "scheme": "wikidata"
         }
@@ -10289,7 +10297,7 @@
         },
         {
           "lang": "eo",
-          "name": "Don BRASH",
+          "name": "Don Brash",
           "note": "multilingual"
         },
         {
@@ -11296,6 +11304,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Melissa-Lee-49",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q6812766",
           "scheme": "wikidata"
         }
@@ -12012,7 +12024,7 @@
         },
         {
           "lang": "eo",
-          "name": "Paul GOLDSMITH",
+          "name": "Paul Goldsmith",
           "note": "multilingual"
         },
         {
@@ -16727,6 +16739,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Джон Кей",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "John Key",
           "note": "multilingual"
@@ -18043,14 +18060,14 @@
         },
         {
           "note": "facebook",
-          "url": "https://facebook.com/suawilliamsio"
+          "url": "https://facebook.com/aupitowilliamsio"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/swsio_mp"
         }
       ],
-      "name": "Su’a William Sio",
+      "name": "Aupito William Sio",
       "other_names": [
         {
           "name": "Su'a William Sio",
@@ -18077,7 +18094,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Sio, Su'a William"
+      "sort_name": "Sio, Aupito William"
     },
     {
       "birth_date": "1967",
@@ -19281,6 +19298,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Hone_Harawira"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hone_Harawira"
         },
         {
           "note": "Wikipedia (de)",
@@ -26383,6 +26404,7 @@
     },
     {
       "area_id": "area/list",
+      "end_date": "2017-02-25",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -26393,6 +26415,20 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3011/ardern-jacinda"
         }
       ]
+    },
+    {
+      "area_id": "area/mt_albert",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "424c23ae-6b23-48f5-b1a7-1c40111e42e7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3011/ardern-jacinda"
+        }
+      ],
+      "start_date": "2017-02-25"
     },
     {
       "area_id": "area/list",
@@ -27905,6 +27941,20 @@
       "role": "member"
     },
     {
+      "area_id": "area/list",
+      "end_date": "2015-04-23",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/nz_first",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "995239c2-94c8-40d4-9343-839e60aaebea",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP861/peters-winston"
+        }
+      ]
+    },
+    {
       "area_id": "area/northland",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/nz_first",
@@ -29282,7 +29332,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2661/sio-sua-william"
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2661/sio-aupito-william"
         }
       ]
     },
@@ -31689,6 +31739,11 @@
     {
       "id": "area/mount_roskill",
       "name": "Mount Roskill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mt_albert",
+      "name": "Mt Albert",
       "type": "constituency"
     },
     {
