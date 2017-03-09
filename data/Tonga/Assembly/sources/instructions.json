@@ -4,11 +4,29 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "duncanparkes/tonga",
-        "query": "SELECT id, name, constituency, 'unknown' AS party, term_id AS term, image, email, phone, cell, details_url AS source FROM data"
+        "scraper": "everypolitician-scrapers/tonga-legislative-assembly",
+        "query": "SELECT id, name, constituency, 'unknown' AS party, 2015 AS term, image, email, phone, cell, source FROM data"
       },
       "source": "http://parliament.gov.to/",
       "type": "membership"
+    },
+    {
+      "file": "morph/wikidata-members.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/tonga-wikidata-members",
+        "query": "SELECT item as id, itemlabel as name, itemaltlabel as other_name, date(start) as start_date, date(end) AS end_date, email, 2015 AS term, constituencylabel as constituency FROM data"
+      },
+      "type": "membership"
+    },
+    {
+      "file": "archive/term-2015-missing-details.csv",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/term-2015-missing-details.csv"
+      }
     },
     {
       "file": "manual/terms.csv",
