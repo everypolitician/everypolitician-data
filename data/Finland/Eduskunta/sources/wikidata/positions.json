@@ -209,6 +209,13 @@
       }
     }
   ],
+  "Q20254165": [
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland"
+    }
+  ],
   "Q11871966": [
     {
       "id": "Q17592486",
@@ -5040,7 +5047,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1991-03-22",
+        "P582": "2007-03-20",
+        "P768": "Finland Proper"
+      }
     },
     {
       "id": "Q18694248",
@@ -5048,6 +5060,19 @@
       "title": "municipality councillor in Finland",
       "qualifiers": {
         "P2715": "Municipal elections 2012 in Turku in Finland"
+      }
+    },
+    {
+      "id": "Q18694348",
+      "label": "Minister of Health and Social Services",
+      "title": "Minister of Health and Social Services",
+      "description": "Finnish Cabinet minister",
+      "qualifiers": {
+        "P580": "1999-04-15",
+        "P582": "2003-04-16",
+        "P1365": "Sinikka Mönkäre",
+        "P1366": "Sinikka Mönkäre",
+        "P361": "Paavo Lipponen's second Cabinet"
       }
     }
   ],
@@ -6177,7 +6202,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1987-03-21",
+        "P582": "1991-03-21",
+        "P768": "Kymi"
+      }
     },
     {
       "id": "Q10563305",
@@ -6187,7 +6217,9 @@
       "qualifiers": {
         "P580": "1999-04-15",
         "P582": "2000-02-24",
-        "P1365": "Liisa Jaakonsaari"
+        "P1365": "Liisa Jaakonsaari",
+        "P1366": "Tarja Filatov",
+        "P361": "Paavo Lipponen's second Cabinet"
       }
     },
     {
@@ -6197,7 +6229,10 @@
       "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "2003-04-17",
-        "P582": "2007-04-19"
+        "P582": "2005-09-23",
+        "P1365": "Maija Perho",
+        "P1366": "Tuula Haatainen",
+        "P361": "Anneli Jäätteenmäki's cabinet"
       }
     },
     {
@@ -6207,7 +6242,10 @@
       "description": "government minister of Finland",
       "qualifiers": {
         "P580": "2000-02-25",
-        "P582": "2003-04-16"
+        "P582": "2003-04-16",
+        "P1365": "Erkki Tuomioja",
+        "P1366": "Mauri Pekkarinen",
+        "P361": "Paavo Lipponen's second Cabinet"
       }
     },
     {
@@ -6217,7 +6255,21 @@
       "description": "Finnish Cabinet minister",
       "qualifiers": {
         "P580": "1995-04-13",
-        "P582": "1999-04-14"
+        "P582": "1999-04-14",
+        "P1365": "Jorma Huuhtanen",
+        "P1366": "Maija Perho",
+        "P361": "Paavo Lipponen's first cabinet"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1995-03-24",
+        "P582": "2006-01-31",
+        "P768": "Kymi",
+        "P1366": "Sirpa Paatero"
       }
     }
   ],
@@ -6350,6 +6402,14 @@
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
       "title": "member of the Parliament of Finland"
+    },
+    {
+      "id": "Q18694248",
+      "label": "municipality councillor in Finland",
+      "title": "municipality councillor in Finland",
+      "qualifiers": {
+        "P2715": "Municipal elections 2012 in Helsinki in Finland"
+      }
     }
   ],
   "Q16989818": [
@@ -7425,6 +7485,14 @@
       "qualifiers": {
         "P580": "2007-03-21",
         "P768": "Tavastia"
+      }
+    },
+    {
+      "id": "Q18694248",
+      "label": "municipality councillor in Finland",
+      "title": "municipality councillor in Finland",
+      "qualifiers": {
+        "P2715": "Municipal elections 2012 in Loppi in Finland"
       }
     }
   ],
