@@ -47,11 +47,7 @@
       "2007-04-21"
     ],
     "follows": "Nigerian presidential election, 2003",
-    "followed_by": "Nigerian presidential election",
-    "office": "President of Nigeria",
-    "successful_candidates": [
-      "Umaru Musa Yar'Adua"
-    ]
+    "followed_by": "Nigerian presidential election, 2011"
   },
   "Q1479981": {
     "identifiers": [
@@ -145,8 +141,10 @@
       }
     ],
     "dates": [
-      "2011"
-    ]
+      "2011-04-09"
+    ],
+    "part_of": "Nigerian general election, 2011",
+    "office": "Member of the House of Representatives of Nigeria"
   },
   "Q7033046": {
     "identifiers": [
@@ -173,8 +171,9 @@
       }
     ],
     "dates": [
-      "2003"
-    ]
+      "2003-04-12"
+    ],
+    "followed_by": "Nigerian legislative election, 2007"
   },
   "Q17091809": {
     "identifiers": [
@@ -332,11 +331,7 @@
     "dates": [
       "2015-03-28"
     ],
-    "follows": "Nigerian presidential election",
-    "office": "president",
-    "successful_candidates": [
-      "Muhammadu Buhari"
-    ]
+    "follows": "Nigerian general election, 2011"
   },
   "Q22283777": {
     "identifiers": [
@@ -463,5 +458,46 @@
     "dates": [
       "1923"
     ]
+  },
+  "Q28941223": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28941223"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Nigerian legislative election, 2007",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2007-04-21"
+    ],
+    "follows": "Nigerian parliamentary election, 2003",
+    "followed_by": "Nigerian parliamentary election, 2011",
+    "part_of": "Nigerian general election, 2007"
+  },
+  "Q28941248": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q28941248"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Nigerian legislative election, 2015",
+        "note": "multilingual"
+      }
+    ],
+    "start_date": "2015-03-28",
+    "end_date": "2015-03-29",
+    "follows": "Nigerian parliamentary election, 2011",
+    "part_of": "Nigerian general election, 2015",
+    "office": "Member of the House of Representatives of Nigeria"
   }
 }
