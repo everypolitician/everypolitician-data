@@ -163,6 +163,16 @@
       "name": "Jose Abelardo Mai"
     },
     {
+      "id": "1d651b75-7fc7-4d54-a31d-53e41505fde1",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "name": "Mrs. Laura Tucker-Longsworth"
+    },
+    {
       "gender": "male",
       "id": "22696b1e-b7b5-48a1-8069-e2c0b151e768",
       "identifiers": [
@@ -1916,6 +1926,11 @@
     },
     {
       "classification": "party",
+      "id": "party/madam_speaker",
+      "name": "Madam Speaker"
+    },
+    {
+      "classification": "party",
       "id": "party/people's_united_party",
       "identifiers": [
         {
@@ -2239,6 +2254,19 @@
       "on_behalf_of_id": "party/people's_united_party",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "1a5f0311-6716-4df2-a593-cc2bf08f4aaf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/house-of-representatives/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/madam_speaker",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/madam_speaker",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "1d651b75-7fc7-4d54-a31d-53e41505fde1",
       "role": "member",
       "sources": [
         {
@@ -3091,6 +3119,11 @@
     {
       "id": "area/lake_independence",
       "name": "Lake Independence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madam_speaker",
+      "name": "Madam Speaker",
       "type": "constituency"
     },
     {
