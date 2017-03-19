@@ -692,6 +692,10 @@
           "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Шарль_Мишель"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Charles_Michel"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Charles_Michel"
         },
@@ -919,6 +923,11 @@
         {
           "lang": "ru",
           "name": "Мишель, Шарль",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Charles Michel",
           "note": "multilingual"
         },
         {
@@ -7928,10 +7937,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif",
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/6142.gif",
       "images": [
         {
-          "url": "http://www.lachambre.be/site/wwwroot/images/cv/06142.gif"
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/6142.gif"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/ZUHAL_DEMIR_675.jpg"
@@ -8878,6 +8887,10 @@
           "scheme": "nta"
         },
         {
+          "identifier": "Johan-Vande-Lanotte",
+          "scheme": "quora"
+        },
+        {
           "identifier": "060555661",
           "scheme": "sudoc"
         },
@@ -9652,6 +9665,10 @@
         }
       ],
       "sort_name": "Ben Hamou Nawal"
+    },
+    {
+      "id": "80c906cf-ecf7-42b6-910d-16578e1b5a90",
+      "name": "Wim Van der Donckt"
     },
     {
       "birth_date": "1962-10-22",
@@ -13764,6 +13781,22 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0003 9401 6937",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n98092513",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "217559271",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2016050446",
+          "scheme": "nukat"
+        },
+        {
           "identifier": "261141581",
           "scheme": "viaf"
         },
@@ -16386,7 +16419,7 @@
           "url": "http://www.lachambre.be/site/wwwroot/images/cv/06018.gif"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Prestation_de_serment_le_19_juin_2014_à_la_Chambre_des_représentants_comme_députée_fédérale-_2014-06-20_11-13.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gwenaëlle_Grovonius,_2014.jpg"
         }
       ],
       "links": [
@@ -23564,6 +23597,7 @@
     },
     {
       "area_id": "area/antwerpen",
+      "end_date": "2017-03-09",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "party/n-va",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -23775,6 +23809,20 @@
           "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
         }
       ]
+    },
+    {
+      "area_id": "area/antwerpen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/n-va",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "80c906cf-ecf7-42b6-910d-16578e1b5a90",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
+        }
+      ],
+      "start_date": "2017-03-09"
     },
     {
       "area_id": "area/limburg",
