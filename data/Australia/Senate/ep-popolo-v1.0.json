@@ -6827,6 +6827,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "Ricky-Muir",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q16732967",
           "scheme": "wikidata"
         }
@@ -18093,6 +18097,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "Nick-Xenophon",
+          "scheme": "quora"
+        },
+        {
           "identifier": "120127069",
           "scheme": "viaf"
         },
@@ -19433,6 +19441,10 @@
         {
           "identifier": "10103",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Kim-Carr-2",
+          "scheme": "quora"
         },
         {
           "identifier": "Q1639334",
@@ -21382,6 +21394,11 @@
     }
   ],
   "organizations": [
+    {
+      "classification": "party",
+      "id": "australian_conservatives",
+      "name": "Australian Conservatives"
+    },
     {
       "classification": "party",
       "id": "australian_democrats",
@@ -29186,6 +29203,7 @@
     },
     {
       "area_id": "area/sa",
+      "end_date": "2017-02-07",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -29196,6 +29214,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "area/sa",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_conservatives",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "507def8c-f3fd-4be5-8937-4ceaa26520ae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2017-02-07"
     },
     {
       "area_id": "area/sa",
@@ -35769,7 +35801,7 @@
     {
       "area_id": "area/sa",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "nick_xenophon_team",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
       "person_id": "d954072d-7cc3-4b81-81f7-124cf02695a1",
       "role": "member",
@@ -39098,6 +39130,11 @@
           "lang": "frr",
           "name": "New South Wales",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "新南威尔士州",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -39609,6 +39646,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh_hans",
+          "name": "北领地",
+          "note": "multilingual"
+        },
+        {
           "lang": "li",
           "name": "Nordelik Territorium",
           "note": "multilingual"
@@ -39711,6 +39753,11 @@
         {
           "lang": "bg",
           "name": "Куинсланд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "কুইন্সল্যান্ড",
           "note": "multilingual"
         },
         {
@@ -40239,7 +40286,7 @@
           "scheme": "viaf"
         },
         {
-          "identifier": "14244-X",
+          "identifier": "4078016-8",
           "scheme": "gnd"
         },
         {
@@ -41936,6 +41983,11 @@
         {
           "lang": "my",
           "name": "ဝိတိုရိယ ပြည်နယ်",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "维多利亚州",
           "note": "multilingual"
         },
         {
