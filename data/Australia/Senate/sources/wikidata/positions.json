@@ -691,7 +691,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "2008-07-01"
+      }
     }
   ],
   "Q16193580": [
@@ -2813,7 +2817,8 @@
       "description": "Representative",
       "qualifiers": {
         "P580": "1994-02-22",
-        "P1365": "Brian Archer"
+        "P1365": "Brian Archer",
+        "P768": "Tasmania"
       }
     },
     {
