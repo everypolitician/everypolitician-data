@@ -1541,6 +1541,16 @@
       ]
     },
     {
+      "id": "c3edd30e-a078-403d-a86c-c20bb61e9cfb",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "name": "Mrs. Laura Tucker-Longsworth"
+    },
+    {
       "gender": "male",
       "id": "c7fbeb75-652b-488f-8578-78d3b8fb645e",
       "identifiers": [
@@ -1913,6 +1923,11 @@
       "name": "House of Representatives",
       "seats": 31,
       "type": "lower house"
+    },
+    {
+      "classification": "party",
+      "id": "party/madam_speaker",
+      "name": "Madam Speaker"
     },
     {
       "classification": "party",
@@ -2702,6 +2717,19 @@
       ]
     },
     {
+      "area_id": "area/madam_speaker",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/madam_speaker",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "c3edd30e-a078-403d-a86c-c20bb61e9cfb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/house-of-representatives/"
+        }
+      ]
+    },
+    {
       "area_id": "area/albert",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/united_democratic_party",
@@ -3091,6 +3119,11 @@
     {
       "id": "area/lake_independence",
       "name": "Lake Independence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madam_speaker",
+      "name": "Madam Speaker",
       "type": "constituency"
     },
     {
