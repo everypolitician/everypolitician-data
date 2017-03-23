@@ -4,6 +4,10 @@
   ],
   "persons": [
     {
+      "id": "00458fb1-1ac9-48f2-974b-6dc4a5bf9ff8",
+      "name": "Brynjar Níelsson"
+    },
+    {
       "birth_date": "1955-07-17",
       "gender": "female",
       "given_name": "Valgerður",
@@ -1321,6 +1325,10 @@
       ]
     },
     {
+      "id": "11acc1ba-b1bc-4cf0-a318-15b252a5e4a2",
+      "name": "Lilja Alfreðs­dóttir"
+    },
+    {
       "birth_date": "1949-10-16",
       "gender": "female",
       "given_name": "Ásta",
@@ -1882,6 +1890,10 @@
       ]
     },
     {
+      "id": "1479bee4-21a2-4d99-8ac3-61bbbc5799d9",
+      "name": "Elsa Lara Arnardóttir"
+    },
+    {
       "gender": "male",
       "id": "149c758f-da97-4ea2-9ae8-8a07031806de",
       "identifiers": [
@@ -2175,6 +2187,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Олафур_Рагнар_Грімссон"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Ólafur_Ragnar_Grímsson"
         },
         {
           "note": "Wikipedia (vi)",
@@ -2494,6 +2510,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uz",
+          "name": "Grimsson Olavur Ragnar",
+          "note": "multilingual"
+        },
+        {
           "lang": "vi",
           "name": "Ólafur Ragnar Grímsson",
           "note": "multilingual"
@@ -2524,6 +2545,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "166065c8-cc33-4cb1-b926-8dd336c525a4",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Lilja Rafney Magnúsdóttir"
+        }
+      ],
+      "name": "Lilja Rafney Magnúsdóttir"
     },
     {
       "birth_date": "1972-01-10",
@@ -2667,6 +2698,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "1a1e7109-2282-4b56-9601-ddd71c7564c5",
+      "name": "Gunnar Hrafn Jóns­son"
     },
     {
       "gender": "female",
@@ -3411,76 +3446,8 @@
       "name": "Kristín Halldórsdóttir"
     },
     {
-      "birth_date": "1977-03-13",
-      "gender": "male",
-      "given_name": "Jón",
-      "id": "25d0e949-c0c1-4e3e-9ef4-40983958d04e",
-      "identifiers": [
-        {
-          "identifier": "jón_Þór_Ólafsson",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q13370916",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jón_Þór_Ólafsson_2014-04-02.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Jón_Þór_Ólafsson_2014-04-02.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Jón_Þór_Ólafsson"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jón_Þór_Ólafsson"
-        },
-        {
-          "note": "Wikipedia (is)",
-          "url": "https://is.wikipedia.org/wiki/Jón_Þór_Ólafsson"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Jón_Þór_Ólafsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Jón Þór Ólafsson"
-        }
-      ],
-      "name": "Jón Þór Ólafsson",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Jón Þór Ólafsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Jón Þór Ólafsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Jón Þór Ólafsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "is",
-          "name": "Jón Þór Ólafsson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jón Þór Ólafsson",
-          "note": "multilingual"
-        }
-      ]
+      "id": "2602e7e8-4260-4945-8084-00bd4d85c670",
+      "name": "Björn Leví Gunnarsson"
     },
     {
       "gender": "female",
@@ -4066,6 +4033,14 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "278c7aa7-df5e-4e98-af9e-9887b712670b",
+      "name": "Hanna Katrín Friðriks­son"
+    },
+    {
+      "id": "27dbbaeb-d5a5-44c5-9559-0b0f66f7e4bb",
+      "name": "Ari Trausti Guðmunds­son"
     },
     {
       "birth_date": "1942-10-04",
@@ -4857,12 +4832,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "links": [
-        {
-          "note": "wikipedia",
-          "url": "Guðjón Guðmundsson"
-        }
-      ],
       "name": "Guðjón Guðmundsson"
     },
     {
@@ -5438,6 +5407,16 @@
       ]
     },
     {
+      "id": "2d711eb5-656a-4bb0-8b54-bcae623685b0",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Smári McCarthy"
+        }
+      ],
+      "name": "Smári McCarthy"
+    },
+    {
       "birth_date": "1967-06-09",
       "gender": "male",
       "id": "2f9f5b02-f8c7-4b42-b6e6-df138e689b9c",
@@ -5527,6 +5506,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "2fce8046-a473-4938-b27f-d1431b35d7d7",
+      "name": "Teitur Björn Einarsson"
     },
     {
       "birth_date": "1987-09-24",
@@ -5633,6 +5616,14 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "36605d0e-e07a-4a40-b75f-a47fda230e23",
+      "name": "Birgir Ármanns­son"
+    },
+    {
+      "id": "3666d43c-b77e-4bc7-bd43-751a0adb6411",
+      "name": "Jón Steindór Valdimars­son"
     },
     {
       "gender": "male",
@@ -5854,6 +5845,14 @@
         }
       ],
       "name": "Einar Guðfinnsson"
+    },
+    {
+      "id": "3bc1a45a-e484-4650-b55b-c9465b69a192",
+      "name": "Silja Dögg Gunnars­dóttir"
+    },
+    {
+      "id": "3c4a5013-8a77-4c0d-9158-202eb4a32369",
+      "name": "Páll Magnús­son"
     },
     {
       "birth_date": "1938-08-24",
@@ -6079,6 +6078,10 @@
       ]
     },
     {
+      "id": "3f37c437-d01a-4812-ab21-acfbe350aec0",
+      "name": "Kolbeinn Óttarsson Proppé"
+    },
+    {
       "birth_date": "1968-11-07",
       "gender": "male",
       "given_name": "Óttarr",
@@ -6278,6 +6281,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4073eeaf-6f3f-41d0-bd36-4f8c6d555313",
       "identifiers": [
         {
@@ -6408,6 +6412,10 @@
       ]
     },
     {
+      "id": "40e2c141-1449-4032-938a-e22706d5c17c",
+      "name": "Bryndís Haraldsdóttir"
+    },
+    {
       "birth_date": "1967-08-26",
       "gender": "male",
       "given_name": "Illugi",
@@ -6497,6 +6505,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "43968112-a198-4dee-b41b-1961e9dc7071",
+      "name": "Jóna Sólveig Elínar­dóttir"
     },
     {
       "birth_date": "1932-05-24",
@@ -6663,6 +6675,10 @@
           "url": "https://sv.wikipedia.org/wiki/Bjarni_Benediktsson_(född_1970)"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Б'ярні_Бенедиктссон"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/布亞尼·本尼迪克特松_(1970年生)"
         },
@@ -6803,6 +6819,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Б'ярні Бенедиктссон",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "比亞德尼·本尼迪克特森",
           "note": "multilingual"
@@ -6818,6 +6839,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "494010ac-080c-4524-b933-0b28e6dd4275",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Logi Már Einarsson"
+        }
+      ],
+      "name": "Logi Már Einarsson"
     },
     {
       "gender": "male",
@@ -7397,6 +7428,14 @@
       ]
     },
     {
+      "id": "4db17b18-8862-4fbe-a78f-84d946da16d0",
+      "name": "Arna Sigurbjörnsdóttir"
+    },
+    {
+      "id": "4e56e9bd-de5a-4d01-88df-dae5e625e0dd",
+      "name": "Vilhjálmur Bjarna­son"
+    },
+    {
       "birth_date": "1964-04-29",
       "gender": "male",
       "given_name": "Lúðvík",
@@ -7440,6 +7479,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "5535ed54-05b2-4e2d-9b7d-831013480abf",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Sigmundur David Gunnlaugsson"
+        }
+      ],
+      "name": "Sigmundur David Gunnlaugsson"
     },
     {
       "birth_date": "1945-12-12",
@@ -7876,6 +7925,10 @@
         {
           "identifier": "0000 0003 9414 3768",
           "scheme": "isni"
+        },
+        {
+          "identifier": "Birgitta-Jonsdottir-1",
+          "scheme": "quora"
         },
         {
           "identifier": "288607376",
@@ -8717,6 +8770,10 @@
       ]
     },
     {
+      "id": "602fd4d1-9ff9-4d9c-8595-9dd3f87bdcc7",
+      "name": "Þórhildur Sunna Ævarsdóttir"
+    },
+    {
       "gender": "female",
       "id": "603e1c0f-28a0-40d1-aada-6ec99d0de763",
       "identifiers": [
@@ -8732,6 +8789,10 @@
         }
       ],
       "name": "Oddný Harðardóttir"
+    },
+    {
+      "id": "6245db01-7870-4dea-8e70-4a7b67afaf72",
+      "name": "Vilhjálmur Árna­son"
     },
     {
       "birth_date": "1796-09-29",
@@ -9778,12 +9839,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "links": [
-        {
-          "note": "wikipedia",
-          "url": "Guðjón Jónsson"
-        }
-      ],
       "name": "Guðjón Jónsson"
     },
     {
@@ -9917,6 +9972,10 @@
       ]
     },
     {
+      "id": "74c3ebfa-c603-4b02-81cd-bd789c17d997",
+      "name": "Steinunn Thora Árnadóttir"
+    },
+    {
       "birth_date": "1957-10-27",
       "gender": "female",
       "given_name": "Guðfinna",
@@ -10025,6 +10084,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "791c3506-12fc-4901-9960-f2d2487aa182",
+      "name": "Thorsteinn Víglundsson"
     },
     {
       "birth_date": "1944-11-30",
@@ -11631,6 +11694,10 @@
       ]
     },
     {
+      "id": "91d37f19-7fdf-4406-97c7-8f551f244b15",
+      "name": "Jón Þór Ólafs­son"
+    },
+    {
       "gender": "male",
       "given_name": "Ármann",
       "id": "92202f9b-75fb-4379-b3e7-0f9ea1b0f5df",
@@ -11677,6 +11744,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "932f5406-f9ff-45b9-b5ef-59cef8103620",
+      "name": "Björt Ólafs­dóttir"
     },
     {
       "birth_date": "1969-05-29",
@@ -11834,6 +11905,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "948ff3c5-84f2-423e-8a71-dab2aab895c0",
+      "name": "Einar Brynjolfsson"
     },
     {
       "birth_date": "1944-07-05",
@@ -12707,6 +12782,10 @@
       ]
     },
     {
+      "id": "9bea560b-db29-411f-b1f2-97af4604369f",
+      "name": "Halldóra Mogensen"
+    },
+    {
       "birth_date": "1952-08-12",
       "gender": "male",
       "given_name": "Karl",
@@ -12764,6 +12843,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "a015d546-7969-42de-b64f-bb36562306fe",
+      "name": "Þórdís Kolbrún Gylfa­dóttir"
     },
     {
       "birth_date": "1979-07-24",
@@ -13195,6 +13278,10 @@
       ]
     },
     {
+      "id": "a79139df-0258-4002-8856-3cc3daedd636",
+      "name": "Unnur Brá Kon­ráðs­dóttir"
+    },
+    {
       "birth_date": "1943-12-26",
       "family_name": "Bjarnason",
       "gender": "male",
@@ -13591,6 +13678,10 @@
         }
       ],
       "name": "Lilja Magnúsdóttir"
+    },
+    {
+      "id": "ae296752-00c3-4c35-a021-20d9e93fb72c",
+      "name": "Guðjón S. Brjánsson"
     },
     {
       "birth_date": "1963-01-17",
@@ -14258,6 +14349,16 @@
       ]
     },
     {
+      "id": "b78e160c-a83b-4a3f-a6e4-83515e3d2a70",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Pawel Bartoszek"
+        }
+      ],
+      "name": "Pawel Bartoszek"
+    },
+    {
       "birth_date": "1960-06-09",
       "gender": "male",
       "given_name": "Þór",
@@ -14421,6 +14522,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "bb2141ff-82dc-47bd-b56e-989e1bef49d4",
+      "name": "Njáll Trausti Friðberts­son"
     },
     {
       "birth_date": "1961-12-25",
@@ -15331,6 +15436,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Sigmundur-Davíð-Gunnlaugsson",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q463588",
           "scheme": "wikidata"
         }
@@ -15768,6 +15877,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "ccac8fc8-ace0-404c-baf4-273388764e98",
+      "name": "Eva Pandora Baldurs­dóttir"
     },
     {
       "birth_date": "1976-02-01",
@@ -16270,6 +16383,10 @@
       ]
     },
     {
+      "id": "cf39b1f4-17e0-41a9-9d7a-e6940c6e66ca",
+      "name": "Theodóra S. Þorsteins­dóttir"
+    },
+    {
       "gender": "male",
       "id": "cf6f7c6a-2420-4c32-9bf8-c0b48d48e533",
       "identifiers": [
@@ -16279,6 +16396,10 @@
         }
       ],
       "name": "Ágúst Einarsson"
+    },
+    {
+      "id": "cfdbd944-cf3b-4594-8a4d-306e55aa57fa",
+      "name": "Nichole Leigh Mosty"
     },
     {
       "birth_date": "1983-03-02",
@@ -16913,6 +17034,16 @@
       "name": "Lára Ragnarsdóttir"
     },
     {
+      "id": "e4581784-8a75-41bf-bb3c-b1da7d80acb4",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Þorgerður K. Gunnarsdóttir"
+        }
+      ],
+      "name": "Þorgerður K. Gunnarsdóttir"
+    },
+    {
       "birth_date": "1958-09-08",
       "gender": "female",
       "given_name": "Ólína",
@@ -17021,6 +17152,16 @@
         }
       ],
       "name": "Guðjón Hjörleifsson"
+    },
+    {
+      "id": "e750d5a6-bba0-4a77-a406-0ea4bff73af1",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Benedikt Jóhannesson"
+        }
+      ],
+      "name": "Benedikt Jóhannesson"
     },
     {
       "gender": "male",
@@ -17134,6 +17275,24 @@
       ]
     },
     {
+      "id": "e8e8708a-4011-4a9b-8a5b-45375779df0c",
+      "name": "Andrés Ingi Jóns­son"
+    },
+    {
+      "id": "e91203cd-cbf4-4733-81ed-24e0ef504528",
+      "name": "Sigríður Andersen"
+    },
+    {
+      "id": "eafddcd9-fb4b-4637-986c-bf6a89ae4a7a",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Gudlaugur Thor Thordarson"
+        }
+      ],
+      "name": "Gudlaugur Thor Thordarson"
+    },
+    {
       "gender": "female",
       "id": "eb1d249f-9bc5-4bcc-94b1-5c3634e2858b",
       "identifiers": [
@@ -17143,6 +17302,10 @@
         }
       ],
       "name": "Anna Gunnarsdóttir"
+    },
+    {
+      "id": "ed8f48c2-f3f4-4c42-ae2d-e6ed27bbcaf9",
+      "name": "Óli Björn Kára­son"
     },
     {
       "birth_date": "1950-06-03",
@@ -17383,6 +17546,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "f716e523-b322-4ab2-a9b6-93b7065ad408",
+      "name": "Rósa Björk Brynjólfs­dóttir"
     },
     {
       "birth_date": "1942-12-26",
@@ -17822,6 +17989,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "fd4b18c3-c4d3-4995-80c9-1bd355a108b2",
+      "links": [
+        {
+          "note": "wikipedia",
+          "url": "Sigurður Ingi Jóhannsson"
+        }
+      ],
+      "name": "Sigurður Ingi Jóhannsson"
     },
     {
       "birth_date": "1966-12-03",
@@ -20178,6 +20355,11 @@
     },
     {
       "classification": "party",
+      "id": "reform_party",
+      "name": "Reform Party"
+    },
+    {
+      "classification": "party",
       "id": "social_democratic_alliance",
       "identifiers": [
         {
@@ -20322,6 +20504,11 @@
         {
           "lang": "ko",
           "name": "사회민주동맹",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сацыял-дэмакратычны альянс",
           "note": "multilingual"
         },
         {
@@ -20659,8 +20846,24 @@
   },
   "memberships": [
     {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "00458fb1-1ac9-48f2-974b-6dc4a5bf9ff8",
+      "role": "member"
+    },
+    {
       "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "008ea8e7-b1d6-47d5-8fcb-25ff721c5c5a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "008ea8e7-b1d6-47d5-8fcb-25ff721c5c5a",
@@ -21005,6 +21208,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "11acc1ba-b1bc-4cf0-a318-15b252a5e4a2",
+      "role": "member"
+    },
+    {
       "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "national_awakening",
@@ -21124,6 +21335,14 @@
     },
     {
       "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "1479bee4-21a2-4d99-8ac3-61bbbc5799d9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
@@ -21150,6 +21369,14 @@
       ]
     },
     {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "166065c8-cc33-4cb1-b926-8dd336c525a4",
+      "role": "member"
+    },
+    {
       "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "left-green_movement",
@@ -21168,6 +21395,14 @@
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "1a1e7109-2282-4b56-9601-ddd71c7564c5",
       "role": "member"
     },
     {
@@ -21425,11 +21660,11 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
-      "legislative_period_id": "term/2013",
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "pirate_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "25d0e949-c0c1-4e3e-9ef4-40983958d04e",
+      "person_id": "2602e7e8-4260-4945-8084-00bd4d85c670",
       "role": "member"
     },
     {
@@ -21536,6 +21771,22 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2007%E2%80%9309"
         }
       ]
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "278c7aa7-df5e-4e98-af9e-9887b712670b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "27dbbaeb-d5a5-44c5-9559-0b0f66f7e4bb",
+      "role": "member"
     },
     {
       "area_id": "area/capital_region",
@@ -21689,6 +21940,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "2bb19f43-88a6-4159-898b-b0c30f1491ce",
+      "role": "member"
+    },
+    {
       "area_id": "area/capital_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
@@ -21741,6 +22000,14 @@
       ]
     },
     {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "2d711eb5-656a-4bb0-8b54-bcae623685b0",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -21788,6 +22055,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "2fce8046-a473-4938-b27f-d1431b35d7d7",
+      "role": "member"
+    },
+    {
       "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
@@ -21807,6 +22082,22 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_1999%E2%80%932003"
         }
       ]
+    },
+    {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "36605d0e-e07a-4a40-b75f-a47fda230e23",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3666d43c-b77e-4bc7-bd43-751a0adb6411",
+      "role": "member"
     },
     {
       "area_id": "area/south_constituency",
@@ -21924,6 +22215,22 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3bc1a45a-e484-4650-b55b-c9465b69a192",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3c4a5013-8a77-4c0d-9158-202eb4a32369",
+      "role": "member"
     },
     {
       "area_id": "area/northeastern_region",
@@ -22084,7 +22391,23 @@
     },
     {
       "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3f37c437-d01a-4812-ab21-acfbe350aec0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "bright_future",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3f5debb0-9397-446f-805f-307ed62a5d6d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "bright_future",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "3f5debb0-9397-446f-805f-307ed62a5d6d",
@@ -22183,6 +22506,14 @@
       ]
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "40e2c141-1449-4032-938a-e22706d5c17c",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_south",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
@@ -22214,6 +22545,14 @@
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "41769e70-1b87-45a2-af3c-d89e7edc3dc0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "43968112-a198-4dee-b41b-1961e9dc7071",
       "role": "member"
     },
     {
@@ -22274,6 +22613,22 @@
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "47528816-94cb-4779-aeaf-d30adea9c4a0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "47528816-94cb-4779-aeaf-d30adea9c4a0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "social_democratic_alliance",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "494010ac-080c-4524-b933-0b28e6dd4275",
       "role": "member"
     },
     {
@@ -22421,6 +22776,22 @@
       ]
     },
     {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "4db17b18-8862-4fbe-a78f-84d946da16d0",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "4e56e9bd-de5a-4d01-88df-dae5e625e0dd",
+      "role": "member"
+    },
+    {
       "area_id": "area/southern_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "social_democratic_party",
@@ -22473,6 +22844,14 @@
       ]
     },
     {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "5535ed54-05b2-4e2d-9b7d-831013480abf",
+      "role": "member"
+    },
+    {
       "area_id": "area/western_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "social_democratic_party",
@@ -22509,6 +22888,14 @@
     {
       "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "56e6ee0a-8cdf-417b-870a-e976da975253",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "56e6ee0a-8cdf-417b-870a-e976da975253",
@@ -22587,6 +22974,14 @@
     {
       "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "5c6a6964-fbfb-4bf3-a801-aa34f281824c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "pirate_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "5c6a6964-fbfb-4bf3-a801-aa34f281824c",
@@ -22753,6 +23148,14 @@
       ]
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "602fd4d1-9ff9-4d9c-8595-9dd3f87bdcc7",
+      "role": "member"
+    },
+    {
       "area_id": "area/south_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -22764,6 +23167,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "6245db01-7870-4dea-8e70-4a7b67afaf72",
+      "role": "member"
     },
     {
       "area_id": "area/northwestern_region",
@@ -23026,6 +23437,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "7162705b-03cc-43de-8f8a-25a7c9390d21",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "progressive_party",
@@ -23042,6 +23461,14 @@
     {
       "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "727e4976-d036-4ccc-9a8e-c899cdcfa7c3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "727e4976-d036-4ccc-9a8e-c899cdcfa7c3",
@@ -23074,6 +23501,14 @@
       ]
     },
     {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "74c3ebfa-c603-4b02-81cd-bd789c17d997",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
@@ -23092,6 +23527,14 @@
       "on_behalf_of_id": "bright_future",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "770c605e-dc83-4617-b8bf-961fe2ab2206",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "791c3506-12fc-4901-9960-f2d2487aa182",
       "role": "member"
     },
     {
@@ -23138,6 +23581,14 @@
     {
       "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "7cfe3b70-9f6e-4352-b8fe-cdd793fa7ac4",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "progressive_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "7cfe3b70-9f6e-4352-b8fe-cdd793fa7ac4",
@@ -23513,6 +23964,14 @@
       ]
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "91d37f19-7fdf-4406-97c7-8f551f244b15",
+      "role": "member"
+    },
+    {
       "area_id": "area/southwest",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
@@ -23524,6 +23983,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2007%E2%80%9309"
         }
       ]
+    },
+    {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "bright_future",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "932f5406-f9ff-45b9-b5ef-59cef8103620",
+      "role": "member"
     },
     {
       "area_id": "area/reykjavik_constituency_south",
@@ -23539,6 +24006,14 @@
       "on_behalf_of_id": "left-green_movement",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "93cf4147-0133-486f-bda6-c483c774cdb5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "948ff3c5-84f2-423e-8a71-dab2aab895c0",
       "role": "member"
     },
     {
@@ -23719,6 +24194,14 @@
       ]
     },
     {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "9bea560b-db29-411f-b1f2-97af4604369f",
+      "role": "member"
+    },
+    {
       "area_id": "area/west_fjords",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -23745,6 +24228,14 @@
         }
       ],
       "start_date": "2009"
+    },
+    {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "a015d546-7969-42de-b64f-bb36562306fe",
+      "role": "member"
     },
     {
       "area_id": "area/northeast",
@@ -23840,6 +24331,14 @@
     {
       "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "a25e0a3f-2c5c-495f-9d22-b4bcfc65ff8a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "a25e0a3f-2c5c-495f-9d22-b4bcfc65ff8a",
@@ -23947,6 +24446,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "a6a91b4b-def7-4b1c-8dd7-62bca038cb9e",
+      "role": "member"
+    },
+    {
       "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -23991,6 +24498,22 @@
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "a76d3f31-e1bc-430b-af0f-785813e249d7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "a76d3f31-e1bc-430b-af0f-785813e249d7",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "a79139df-0258-4002-8856-3cc3daedd636",
       "role": "member"
     },
     {
@@ -24055,6 +24578,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "aa0a5cc8-1d79-4fda-a6eb-b2587374f0e0",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_constituency_south",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "independence_party",
@@ -24087,6 +24618,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "social_democratic_alliance",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ae296752-00c3-4c35-a021-20d9e93fb72c",
+      "role": "member"
     },
     {
       "area_id": "area/northeast_constituency",
@@ -24243,6 +24782,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "b1127799-897b-4b66-b53c-c7f40a5ac1fb",
+      "role": "member"
+    },
+    {
       "area_id": "area/northeast_constituency",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "progressive_party",
@@ -24356,6 +24903,14 @@
       ]
     },
     {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "b78e160c-a83b-4a3f-a6e4-83515e3d2a70",
+      "role": "member"
+    },
+    {
       "area_id": "area/southwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "citizens'_movement",
@@ -24407,6 +24962,14 @@
         }
       ],
       "start_date": "2006"
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "bb2141ff-82dc-47bd-b56e-989e1bef49d4",
+      "role": "member"
     },
     {
       "area_id": "area/south",
@@ -24611,6 +25174,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/northwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "pirate_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ccac8fc8-ace0-404c-baf4-273388764e98",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjavik_north",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "left-green_movement",
@@ -24645,6 +25216,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "cdb8c96e-5b70-44a3-b075-7675db572f85",
+      "role": "member"
+    },
+    {
       "area_id": "area/northwest",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "independence_party",
@@ -24672,6 +25251,14 @@
       ]
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "bright_future",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "cf39b1f4-17e0-41a9-9d7a-e6940c6e66ca",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "national_awakening",
@@ -24683,6 +25270,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_1995%E2%80%9399"
         }
       ]
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "bright_future",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "cfdbd944-cf3b-4594-8a4d-306e55aa57fa",
+      "role": "member"
     },
     {
       "area_id": "area/reykjavik_constituency_north",
@@ -24768,6 +25363,14 @@
     {
       "area_id": "area/south_constituency",
       "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "d49dca58-2f96-4b80-80ad-9f9203432da8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "independence_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "d49dca58-2f96-4b80-80ad-9f9203432da8",
@@ -25118,6 +25721,14 @@
       ]
     },
     {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "e4581784-8a75-41bf-bb3c-b1da7d80acb4",
+      "role": "member"
+    },
+    {
       "area_id": "area/northwest_constituency",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -25142,6 +25753,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2003%E2%80%9307"
         }
       ]
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "reform_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "e750d5a6-bba0-4a77-a406-0ea4bff73af1",
+      "role": "member"
     },
     {
       "area_id": "area/southwest",
@@ -25171,6 +25790,30 @@
       ]
     },
     {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "e8e8708a-4011-4a9b-8a5b-45375779df0c",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "e91203cd-cbf4-4733-81ed-24e0ef504528",
+      "role": "member"
+    },
+    {
+      "area_id": "area/reykjavik_constituency_north",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "eafddcd9-fb4b-4637-986c-bf6a89ae4a7a",
+      "role": "member"
+    },
+    {
       "area_id": "area/northwest",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -25182,6 +25825,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2003%E2%80%9307"
         }
       ]
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ed8f48c2-f3f4-4c42-ae2d-e6ed27bbcaf9",
+      "role": "member"
     },
     {
       "area_id": "area/northwest",
@@ -25276,6 +25927,14 @@
       "on_behalf_of_id": "progressive_party",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "f7023bcc-53de-421f-9e15-9eec3005e9c5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/southwest_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "left-green_movement",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "f716e523-b322-4ab2-a9b6-93b7065ad408",
       "role": "member"
     },
     {
@@ -25418,6 +26077,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "social_democratic_alliance",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "fccb522b-cbba-4d00-a371-479d209fd444",
+      "role": "member"
+    },
+    {
       "area_id": "area/reykjanes",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
@@ -25470,6 +26137,14 @@
       ]
     },
     {
+      "area_id": "area/south_constituency",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "fd4b18c3-c4d3-4995-80c9-1bd355a108b2",
+      "role": "member"
+    },
+    {
       "area_id": "area/northeast",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "independence_party",
@@ -25494,6 +26169,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "area/reykjavik_constituency_south",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "independence_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "fd5e460d-23dc-48ed-afa8-8fd0c3572e01",
+      "role": "member"
     },
     {
       "area_id": "area/northwest",
@@ -26091,6 +26774,13 @@
         }
       ],
       "name": "Icelandic parliamentary election, 2016",
+      "start_date": "2016-10-29"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2016",
+      "name": "Alþingi 2016",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "start_date": "2016-10-29"
     }
   ],
