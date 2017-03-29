@@ -23,7 +23,7 @@
       }
     },
     {
-      "file": "morph/term-6.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/kazakhstan-mazhilis",
@@ -33,7 +33,7 @@
       "merge": {
           "incoming_field": "name",
           "existing_field": "name",
-          "reconciliation_file": "reconciliation/term-6.csv"
+          "reconciliation_file": "reconciliation/official.csv"
       },
       "type": "membership"
     },
