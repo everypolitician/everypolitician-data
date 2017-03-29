@@ -4,7 +4,7 @@
       "file": "morph/data.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/guyana-parliament",
+        "scraper": "everypolitician-scrapers/guyana-parliament",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://parliament.gov.gy/",
