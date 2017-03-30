@@ -898,6 +898,47 @@
       "description": "elected member of the local assembly of a French department (before March 2015)"
     }
   ],
+  "Q455040": [
+    {
+      "id": "Q783943",
+      "label": "European Commissioner for Justice, Fundamental Rights and Citizenship",
+      "title": "European Commissioner for Justice, Fundamental Rights and Citizenship",
+      "description": "position"
+    },
+    {
+      "id": "Q1676795",
+      "label": "European Commissioner for Transport",
+      "title": "European Commissioner for Transport"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly"
+    },
+    {
+      "id": "Q382617",
+      "label": "maire",
+      "title": "maire",
+      "description": "mayor in France"
+    },
+    {
+      "id": "Q3780304",
+      "label": "member of the General Council",
+      "title": "member of the General Council",
+      "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q1145918",
+      "label": "European Commissioner for Regional Policy",
+      "title": "European Commissioner for Regional Policy",
+      "description": "position",
+      "qualifiers": {
+        "P585": "2004",
+        "P1365": "Michel Barnier",
+        "P1366": "Danuta Hübner"
+      }
+    }
+  ],
   "Q4556137": [
     {
       "id": "Q3044918",
@@ -1243,6 +1284,19 @@
       "id": "Q3044918",
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly"
+    }
+  ],
+  "Q3292251": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly"
+    },
+    {
+      "id": "Q16886136",
+      "label": "conseiller régional",
+      "title": "conseiller régional",
+      "description": "member of a regional council in France"
     }
   ],
   "Q2830100": [
@@ -5673,6 +5727,19 @@
       "qualifiers": {
         "P768": "Haute-Garonne's 1st constituency",
         "P580": "2012-06-20"
+      }
+    }
+  ],
+  "Q28977139": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "XIVth legislature of the Fifth French Republic",
+        "P580": "2017-03-22",
+        "P768": "Q3540160",
+        "P1365": "Henri Emmanuelli"
       }
     }
   ],
