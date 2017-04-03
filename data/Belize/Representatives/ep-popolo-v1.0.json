@@ -41,6 +41,16 @@
       "name": "Oscar Requena"
     },
     {
+      "id": "04b3fcbe-3356-4557-9231-1a546cfafc50",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "name": "Mrs. Laura Tucker-Longsworth"
+    },
+    {
       "gender": "male",
       "id": "06be9eb9-b70a-4032-ad1a-6a37fd32716d",
       "identifiers": [
@@ -1916,6 +1926,11 @@
     },
     {
       "classification": "party",
+      "id": "party/madam_speaker",
+      "name": "Madam Speaker"
+    },
+    {
+      "classification": "party",
       "id": "party/people's_united_party",
       "identifiers": [
         {
@@ -2135,6 +2150,19 @@
       "on_behalf_of_id": "party/people's_united_party",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "04543184-9ca5-41d9-be39-cba60da30ce8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/house-of-representatives/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/madam_speaker",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/madam_speaker",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "04b3fcbe-3356-4557-9231-1a546cfafc50",
       "role": "member",
       "sources": [
         {
@@ -3091,6 +3119,11 @@
     {
       "id": "area/lake_independence",
       "name": "Lake Independence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madam_speaker",
+      "name": "Madam Speaker",
       "type": "constituency"
     },
     {
