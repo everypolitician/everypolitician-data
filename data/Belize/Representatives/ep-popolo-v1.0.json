@@ -68,6 +68,16 @@
       "name": "Kareem Musa"
     },
     {
+      "id": "14da76c5-42c3-4545-bb0f-a24342c1fba3",
+      "image": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg",
+      "images": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/wp-content/uploads/2016/05/Laura-Tucker-Longsworth.jpg"
+        }
+      ],
+      "name": "Mrs. Laura Tucker-Longsworth"
+    },
+    {
       "gender": "male",
       "given_name": "Edmond",
       "id": "15baf44a-e9cc-48f5-829b-8640b56e892c",
@@ -1916,6 +1926,11 @@
     },
     {
       "classification": "party",
+      "id": "party/madam_speaker",
+      "name": "Madam Speaker"
+    },
+    {
+      "classification": "party",
       "id": "party/people's_united_party",
       "identifiers": [
         {
@@ -2174,6 +2189,19 @@
       "on_behalf_of_id": "party/people's_united_party",
       "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
       "person_id": "08f2644d-6b4d-4b97-9933-11536374ddb0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nationalassembly.gov.bz/house-of-representatives/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/madam_speaker",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/madam_speaker",
+      "organization_id": "60da1355-8aef-4599-9292-5f796f99eb2a",
+      "person_id": "14da76c5-42c3-4545-bb0f-a24342c1fba3",
       "role": "member",
       "sources": [
         {
@@ -3091,6 +3119,11 @@
     {
       "id": "area/lake_independence",
       "name": "Lake Independence",
+      "type": "constituency"
+    },
+    {
+      "id": "area/madam_speaker",
+      "name": "Madam Speaker",
       "type": "constituency"
     },
     {
