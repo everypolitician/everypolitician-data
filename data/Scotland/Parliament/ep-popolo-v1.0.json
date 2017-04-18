@@ -15872,6 +15872,10 @@
       "name": "Elizabeth Smith",
       "other_names": [
         {
+          "name": "Liz Smith",
+          "note": "alternate"
+        },
+        {
           "name": "liz smith",
           "note": "alternate"
         },
@@ -15886,8 +15890,23 @@
           "note": "multilingual"
         },
         {
-          "lang": "en",
+          "lang": "de-ch",
           "name": "Elizabeth Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liz Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Liz Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Liz Smith",
           "note": "multilingual"
         },
         {
@@ -16240,6 +16259,7 @@
       ]
     },
     {
+      "birth_date": "1974-03-08",
       "contact_details": [
         {
           "type": "twitter",
@@ -16275,6 +16295,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/ashtenRD"
+        },
+        {
+          "note": "website",
+          "url": "https://ashdenham.scot"
         }
       ],
       "name": "Ash Denham",
