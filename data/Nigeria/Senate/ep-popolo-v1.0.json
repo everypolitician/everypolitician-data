@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "01a2cfe9-0134-4392-8468-0e1314b5b568",
+      "name": "Benjamin Uwajumogu",
+      "other_names": [
+        {
+          "name": "Benjamin Uwajumogu",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "birth_date": "1957-01-01",
       "contact_details": [
         {
@@ -5015,28 +5025,6 @@
     {
       "contact_details": [
         {
-          "type": "phone",
-          "value": "08033888608"
-        }
-      ],
-      "id": "e344f2dd-a72b-4ca7-a259-59d8b81706fc",
-      "image": "http://www.nass.gov.ng/images/mps/809.jpg",
-      "images": [
-        {
-          "url": "http://www.nass.gov.ng/images/mps/809.jpg"
-        }
-      ],
-      "name": "ATHANASIUS ACHONU",
-      "other_names": [
-        {
-          "name": "ATHANASIUS NNEJI ACHONU",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
           "type": "email",
           "value": "haliyus@yahoo.com"
         },
@@ -6112,6 +6100,19 @@
     ]
   },
   "memberships": [
+    {
+      "area_id": "area/imo_north,_imo_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "10da9af5-426a-4857-9ae5-54c594e5f877",
+      "person_id": "01a2cfe9-0134-4392-8468-0e1314b5b568",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/969"
+        }
+      ]
+    },
     {
       "area_id": "area/ekiti_central,_ekiti_state",
       "legislative_period_id": "term/8",
@@ -7331,19 +7332,6 @@
       "sources": [
         {
           "url": "http://www.nass.gov.ng/mp/profile/511"
-        }
-      ]
-    },
-    {
-      "area_id": "area/imo_north,_imo_state",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
-      "organization_id": "10da9af5-426a-4857-9ae5-54c594e5f877",
-      "person_id": "e344f2dd-a72b-4ca7-a259-59d8b81706fc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.nass.gov.ng/mp/profile/809"
         }
       ]
     },
