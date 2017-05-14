@@ -1006,8 +1006,8 @@
         "note": "multilingual"
       }
     ],
-    "follows": "Q3587159",
-    "followed_by": "Q3587158"
+    "follows": "French legislative election, 1797",
+    "followed_by": "French legislative election, 1799"
   },
   "Q1140879": {
     "identifiers": [
@@ -1068,7 +1068,7 @@
         "note": "multilingual"
       }
     ],
-    "follows": "Q3587164",
+    "follows": "French legislative election, May 1815",
     "followed_by": "French legislative election of 1816"
   },
   "Q1140883": {
@@ -3776,13 +3776,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "en",
+        "name": "French legislative election, 1799",
+        "note": "multilingual"
+      },
+      {
         "lang": "es",
         "name": "Elección legislativa de Francia (1799)",
         "note": "multilingual"
       }
     ],
+    "dates": [
+      "1799"
+    ],
     "follows": "French Directory election",
-    "followed_by": "Q3587164"
+    "followed_by": "French legislative election, May 1815"
   },
   "Q3587159": {
     "identifiers": [
@@ -3808,10 +3816,18 @@
         "note": "multilingual"
       },
       {
+        "lang": "en",
+        "name": "French legislative election, 1797",
+        "note": "multilingual"
+      },
+      {
         "lang": "es",
         "name": "Elección legislativa de Francia (1797)",
         "note": "multilingual"
       }
+    ],
+    "dates": [
+      "1797"
     ],
     "follows": "French Directory election",
     "followed_by": "French Directory election"
@@ -3828,9 +3844,17 @@
         "lang": "fr",
         "name": "Élections législatives françaises de mai 1815",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "French legislative election, May 1815",
+        "note": "multilingual"
       }
     ],
-    "follows": "Q3587158",
+    "dates": [
+      "1815-05"
+    ],
+    "follows": "French legislative election, 1799",
     "followed_by": "French legislative election of 1815"
   },
   "Q20723970": {
@@ -3897,30 +3921,5 @@
       "2017-06-18"
     ],
     "follows": "French legislative election of 2012"
-  },
-  "Q26300683": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q26300683"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "élections législatives de 2013 dans la troisième circonscription de Lot-et-Garonne",
-        "note": "multilingual"
-      }
-    ],
-    "dates": [
-      "2013-06-16",
-      "2013-06-23"
-    ],
-    "follows": "French legislative election of 2012",
-    "followed_by": "French legislative election, 2017",
-    "office": "member of the French National Assembly",
-    "successful_candidates": [
-      "Jean-Louis Costes"
-    ]
   }
 }
