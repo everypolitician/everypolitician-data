@@ -3537,7 +3537,7 @@
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
+        "P768": "Seine-Maritime's 7th constituency",
         "P580": "2012-03-23",
         "P582": "2012-06-19"
       }
@@ -3545,22 +3545,56 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Le Havre)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Le Havre",
+        "P580": "2010-10-24"
+      }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
-      "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "title": "conseiller régional (of Upper Normandy)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P642": "Upper Normandy",
+        "P580": "2004-03-29",
+        "P582": "2008-03-18"
+      }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
-        "P580": "2012-06-20"
+        "P768": "Seine-Maritime's 7th constituency",
+        "P580": "2012-06-20",
+        "P1365": "Jean-Yves Besselat"
+      }
+    },
+    {
+      "id": "Q1587677",
+      "label": "Prime Minister of France",
+      "title": "Prime Minister of France",
+      "description": "head of government and of the Council of Ministers of France",
+      "qualifiers": {
+        "P580": "2017-05-15",
+        "P1365": "Bernard Cazeneuve",
+        "P35": "Emmanuel Macron"
+      }
+    },
+    {
+      "id": "Q3780304",
+      "label": "member of the General Council",
+      "title": "member of the General Council (of Seine-Maritime)",
+      "description": "elected member of the local assembly of a French department (before March 2015)",
+      "qualifiers": {
+        "P642": "Seine-Maritime",
+        "P768": "canton of Havre-5",
+        "P580": "2008-03-17",
+        "P582": "2012-04-22",
+        "P1365": "Jean-Yves Besselat"
       }
     }
   ],
@@ -7337,7 +7371,7 @@
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
+        "P768": "Seine-Maritime's 7th constituency",
         "P580": "1995-09-17",
         "P582": "1997-04-21"
       }
@@ -7347,7 +7381,7 @@
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
+        "P768": "Seine-Maritime's 7th constituency",
         "P580": "1997-06-12",
         "P582": "2002-06-18"
       }
@@ -7357,7 +7391,7 @@
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
+        "P768": "Seine-Maritime's 7th constituency",
         "P580": "2002-06-19",
         "P582": "2007-06-19"
       }
@@ -7367,7 +7401,7 @@
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
       "qualifiers": {
-        "P768": "Q3479041",
+        "P768": "Seine-Maritime's 7th constituency",
         "P580": "2007-06-20",
         "P582": "2012-03-23"
       }
@@ -16702,7 +16736,9 @@
       "qualifiers": {
         "P580": "2012-05-15",
         "P1365": "Nicolas Sarkozy",
-        "P1706": "Joan Enric Vives Sicília"
+        "P1706": "Joan Enric Vives Sicília",
+        "P582": "2017-05-14",
+        "P1366": "Emmanuel Macron"
       }
     },
     {
@@ -18173,33 +18209,59 @@
       "description": "name for legislator in many countries",
       "qualifiers": {
         "P1366": "Lionel Tardy",
-        "P580": "1995",
-        "P582": "2007",
-        "P1365": "Pierre Hérisson"
+        "P580": "1995-09-25",
+        "P582": "2007-06-25",
+        "P1365": "Pierre Hérisson",
+        "P768": "Q3025207"
       }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1988-06-23",
+        "P582": "1993-01-05",
+        "P768": "Q3025207",
+        "P1366": "Pierre Hérisson"
+      }
     },
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Annecy)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Annecy",
+        "P580": "1983-03-14",
+        "P582": "2007-01-05",
+        "P1365": "André Fumex",
+        "P1366": "Jean-Luc Rigaut"
+      }
     },
     {
       "id": "Q16886136",
       "label": "conseiller régional",
-      "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "title": "conseiller régional (of Rhône-Alpes)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P642": "Rhône-Alpes",
+        "P580": "1986-03-17",
+        "P582": "1992-04-06"
+      }
     },
     {
       "id": "Q3780304",
       "label": "member of the General Council",
-      "title": "member of the General Council",
-      "description": "elected member of the local assembly of a French department (before March 2015)"
+      "title": "member of the General Council (of Q2994013)",
+      "description": "elected member of the local assembly of a French department (before March 2015)",
+      "qualifiers": {
+        "P642": "Q2994013",
+        "P768": "Canton of Annecy-Centre",
+        "P580": "1979-03-18",
+        "P582": "1988-10-07",
+        "P1365": "Charles Bosson"
+      }
     }
   ],
   "Q385437": [
