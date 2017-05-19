@@ -1265,13 +1265,6 @@
     },
     {
       "birth_date": "1952-10-11",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nancymuinjo@mha.gov.na"
-        }
-      ],
-      "email": "nancymuinjo@mha.gov.na",
       "gender": "female",
       "id": "1955f96c-f07a-4e19-8277-47a0f834044a",
       "identifiers": [
@@ -2270,6 +2263,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Libertina_Amathila"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Libertine_Amathila"
         },
         {
           "note": "Wikipedia (sv)",
@@ -5542,6 +5539,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ben_Amathila"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ben_Amathila"
         }
@@ -6914,6 +6915,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jennifer@dtaofnamibia.org"
+        }
+      ],
+      "email": "jennifer@dtaofnamibia.org",
+      "id": "933ba1ff-4143-4c5b-962c-7e4ff5653588",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_den_heefer.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_van_den_heefer.jpg"
+        }
+      ],
+      "name": "Van den Heever, Jennifer Muriel"
+    },
+    {
       "id": "95c50d4f-2fb6-48de-abc5-357b762ba475",
       "identifiers": [
         {
@@ -8066,10 +8084,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "d.murorurua@parliament.na"
+          "value": "d.murorua@parliament.na"
         }
       ],
-      "email": "d.murorurua@parliament.na",
+      "email": "d.murorua@parliament.na",
       "id": "a7270a68-a04e-4d61-81f2-367aceeeaa73",
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_murorua.jpg",
       "images": [
@@ -8642,6 +8660,10 @@
         {
           "identifier": "Ya-Otto-John",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "118771574",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0003 8435 8810",
@@ -17649,6 +17671,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1270:hoffman-ida-maria-magdalena-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "DTA",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "933ba1ff-4143-4c5b-962c-7e4ff5653588",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1267:van-den-heever-jenniffer-all&catid=104&Itemid=1479"
         }
       ]
     },
