@@ -158,26 +158,6 @@
       "sort_name": "BAUDRY Frédéric"
     },
     {
-      "family_name": "KANIMOA",
-      "gender": "male",
-      "given_name": "Patalione",
-      "id": "6d2748c9-a149-4a46-a940-dd2edc6cdf47",
-      "identifiers": [
-        {
-          "identifier": "patalione_kanimoa",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Patalione Kanimoa",
-      "other_names": [
-        {
-          "name": "KANIMOA Patalione",
-          "note": "alternate"
-        }
-      ],
-      "sort_name": "KANIMOA Patalione"
-    },
-    {
       "birth_date": "1972-01-10",
       "family_name": "VERGE",
       "gender": "male",
@@ -591,6 +571,10 @@
         }
       ],
       "sort_name": "IKAI Eselone"
+    },
+    {
+      "id": "f52153e5-f2a3-4179-9c22-b2e464ee30e8",
+      "name": "Patalione Kanimoa ;liste UMP-Taofi ke mau pea sio mamao, Hahake, Wallis)"
     }
   ],
   "organizations": [
@@ -680,14 +664,6 @@
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "27da5858-53fe-4e9f-b132-c51af634e3d5",
-      "role": "member"
-    },
-    {
-      "area_id": "area/hahake,_wallis",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "party/groupe_rpwf-ump",
-      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
-      "person_id": "6d2748c9-a149-4a46-a940-dd2edc6cdf47",
       "role": "member"
     },
     {
@@ -800,6 +776,14 @@
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "eef98109-a6a7-4efc-842a-11f5e9a5aa58",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "f52153e5-f2a3-4179-9c22-b2e464ee30e8",
       "role": "member"
     }
   ],
