@@ -69,6 +69,14 @@
       "sort_name": "NAU Vetelino"
     },
     {
+      "id": "093de4bc-619c-47d9-8df9-e0f5f0600fbd",
+      "name": "Sigave"
+    },
+    {
+      "id": "11cc8770-ec9b-4b2b-8db5-e66ebdba6324",
+      "name": "2012"
+    },
+    {
       "family_name": "KULIMOETOKE",
       "gender": "male",
       "given_name": "Mikaele",
@@ -158,6 +166,14 @@
       "sort_name": "BAUDRY Frédéric"
     },
     {
+      "id": "57409ed7-0972-4e8d-84f4-c76956d138f3",
+      "name": "M'ua"
+    },
+    {
+      "id": "5fe4492d-16dc-46fa-bc06-be28bcdada68",
+      "name": "Hahake"
+    },
+    {
       "family_name": "KANIMOA",
       "gender": "male",
       "given_name": "Patalione",
@@ -176,6 +192,10 @@
         }
       ],
       "sort_name": "KANIMOA Patalione"
+    },
+    {
+      "id": "6e8880b0-47c8-45b2-b54a-fa44be62b8dd",
+      "name": "UMP"
     },
     {
       "birth_date": "1972-01-10",
@@ -353,6 +373,10 @@
       "sort_name": "ILOAI Nivaleta"
     },
     {
+      "id": "90683f2d-dcbc-46e5-9439-c91961472c8c",
+      "name": "Alo"
+    },
+    {
       "family_name": "VEA",
       "gender": "female",
       "given_name": "Savelina",
@@ -518,6 +542,10 @@
       "sort_name": "HANISI Petelo"
     },
     {
+      "id": "d2512b49-b2fb-483c-a4c1-2aa83e85b47f",
+      "name": "17"
+    },
+    {
       "family_name": "MULIAKAAKA",
       "gender": "male",
       "given_name": "Munipoese",
@@ -664,6 +692,38 @@
       "role": "member"
     },
     {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_centriste",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "093de4bc-619c-47d9-8df9-e0f5f0600fbd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_uspwf",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "093de4bc-619c-47d9-8df9-e0f5f0600fbd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "093de4bc-619c-47d9-8df9-e0f5f0600fbd",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "11cc8770-ec9b-4b2b-8db5-e66ebdba6324",
+      "role": "member"
+    },
+    {
       "area_id": "area/hahake,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
@@ -688,11 +748,51 @@
       "role": "member"
     },
     {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "57409ed7-0972-4e8d-84f4-c76956d138f3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "57409ed7-0972-4e8d-84f4-c76956d138f3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "57409ed7-0972-4e8d-84f4-c76956d138f3",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "5fe4492d-16dc-46fa-bc06-be28bcdada68",
+      "role": "member"
+    },
+    {
       "area_id": "area/hahake,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/groupe_rpwf-ump",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "6d2748c9-a149-4a46-a940-dd2edc6cdf47",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hihifo,_wallis",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "6e8880b0-47c8-45b2-b54a-fa44be62b8dd",
       "role": "member"
     },
     {
@@ -717,6 +817,14 @@
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "8e96f804-14ba-4e54-8254-3ca5b40fecff",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_centriste",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "90683f2d-dcbc-46e5-9439-c91961472c8c",
       "role": "member"
     },
     {
@@ -773,6 +881,14 @@
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "c74d59f7-1ff8-4ce0-b4a9-c0af07a92a4a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "d2512b49-b2fb-483c-a4c1-2aa83e85b47f",
       "role": "member"
     },
     {
