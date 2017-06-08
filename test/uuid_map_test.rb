@@ -24,6 +24,7 @@ describe 'UUID Mapper' do
     data.must_be_empty
     data['fred'] = 'uuid-1'
     data['barney'] = 'uuid-2'
+
     mapper.rewrite(data)
 
     # read it back in again
@@ -31,5 +32,37 @@ describe 'UUID Mapper' do
     newmap.mapping.keys.count.must_equal 2
     newmap.uuid_for('barney').must_equal 'uuid-2'
     newmap.id_for('uuid-1').must_equal 'fred'
+  end
+
+  describe '#remap' do
+    let(:file)   { new_tempfile }
+    let(:mapper) { UuidMapFile.new(file) }
+    let(:data)   { { 'fred' => 'uuid-1' } }
+
+    it 'remaps existing UUID to a new id' do
+      mapper.rewrite(data)
+      mapper.remap('fred', 'freddy')
+
+      newdata = mapper.mapping
+      newdata['fred'].must_be_nil
+      newdata['freddy'].must_equal 'uuid-1'
+    end
+
+    it 'does not remap if old id does not exist' do
+      mapper.rewrite(data)
+
+      assert_raises SystemExit do
+        mapper.remap('frida', 'freddy')
+      end
+    end
+
+    it 'does not remap if new id exists' do
+      data['barney'] = 'uuid-2'
+      mapper.rewrite(data)
+
+      assert_raises SystemExit do
+        mapper.remap('fred', 'barney')
+      end
+    end
   end
 end
