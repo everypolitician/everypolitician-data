@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "043f4338-d426-49e1-a18c-89c700b54b9b",
+      "image": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУНИЦКИЙ Василий Анатольевич"
+    },
+    {
       "id": "08b1ed88-e8ed-4a2b-9200-f373468a7388",
       "identifiers": [
         {
@@ -18,6 +28,16 @@
         }
       ],
       "name": "ПАСАТ Петр Семенович"
+    },
+    {
+      "id": "0a4c669e-f17d-4c46-8a58-8c08b0815688",
+      "image": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУЧЕРЕНКО Юрий Юрьевич"
     },
     {
       "id": "0e781c8a-d70e-4335-af6c-933645a68a3f",
@@ -394,6 +414,16 @@
         }
       ],
       "name": "ДОНИ Вадим Михайлович"
+    },
+    {
+      "id": "7b26cdaf-5b62-41e3-bd57-82354d7722ac",
+      "image": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "НЕДЕЛКОВ Иван Васильевич"
     },
     {
       "id": "83ddd530-6b10-4e5a-bd72-cac4f7aa4d5a",
@@ -927,6 +957,19 @@
   },
   "memberships": [
     {
+      "area_id": "area/22",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "043f4338-d426-49e1-a18c-89c700b54b9b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kunitskiy-vasiliy-anatoljevich/"
+        }
+      ]
+    },
+    {
       "area_id": "area/13",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/unknown",
@@ -949,6 +992,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/pasat-petr-semenovich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/2",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "0a4c669e-f17d-4c46-8a58-8c08b0815688",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kucherenko-yuriy-yurjevich/"
         }
       ]
     },
@@ -1429,6 +1485,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/doni-vadim-mihaylovich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/31",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "7b26cdaf-5b62-41e3-bd57-82354d7722ac",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/nedelkov-ivan-vasiljevich/"
         }
       ]
     },
