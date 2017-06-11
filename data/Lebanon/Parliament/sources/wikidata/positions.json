@@ -48,7 +48,9 @@
       "label": "Prime Minister of Lebanon",
       "title": "Prime Minister of Lebanon",
       "qualifiers": {
-        "P580": "2014-02-15"
+        "P580": "2014-02-15",
+        "P582": "2016-12-18",
+        "P1545": "34"
       }
     },
     {
@@ -56,14 +58,19 @@
       "label": "President of Lebanon",
       "title": "President of Lebanon",
       "qualifiers": {
-        "P580": "2014-05-25"
+        "P580": "2014-05-25",
+        "P582": "2016-10-31"
       }
     },
     {
       "id": "Q25820215",
       "label": "Minister of Culture",
       "title": "Minister of Culture",
-      "description": "Minister in Lebanon"
+      "description": "Minister in Lebanon",
+      "qualifiers": {
+        "P580": "2008-07-11",
+        "P582": "2009-11-09"
+      }
     }
   ],
   "Q314263": [
@@ -150,6 +157,15 @@
         "P1365": "Fouad Siniora",
         "P582": "2011-06-13",
         "P1366": "Najib Mikati"
+      }
+    },
+    {
+      "id": "Q14915225",
+      "label": "Prime Minister of Lebanon",
+      "title": "Prime Minister of Lebanon",
+      "qualifiers": {
+        "P580": "2016-12-18",
+        "P1365": "Tammam Salam"
       }
     }
   ],
