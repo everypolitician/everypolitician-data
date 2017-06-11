@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "039e5f2d-37a4-4893-a6e3-d43eba516f3c",
+      "image": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "НЕДЕЛКОВ Иван Васильевич"
+    },
+    {
       "id": "08b1ed88-e8ed-4a2b-9200-f373468a7388",
       "identifiers": [
         {
@@ -190,6 +200,16 @@
         }
       ],
       "name": "БЕЛЯКОВ Олег Леонидович"
+    },
+    {
+      "id": "3f119e90-298d-4cdb-9634-7a0a3ba137ea",
+      "image": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУЧЕРЕНКО Юрий Юрьевич"
     },
     {
       "id": "40984009-db40-4166-90ad-908e2b4c5555",
@@ -600,6 +620,16 @@
       "name": "ПАСЮТИН Владимир Евгеньевич"
     },
     {
+      "id": "b393fd5a-aa3c-4cab-bc57-1a65b297ff10",
+      "image": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУНИЦКИЙ Василий Анатольевич"
+    },
+    {
       "id": "b5427ae9-53dd-4d67-a42d-853ccaf2fa1d",
       "image": "http://vspmr.org/im.xp/049055057048049124049048048124049053048124049.jpg",
       "images": [
@@ -927,6 +957,19 @@
   },
   "memberships": [
     {
+      "area_id": "area/31",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "039e5f2d-37a4-4893-a6e3-d43eba516f3c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/nedelkov-ivan-vasiljevich/"
+        }
+      ]
+    },
+    {
       "area_id": "area/13",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/unknown",
@@ -1157,6 +1200,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/belyakov-oleg-leonidovich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/2",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "3f119e90-298d-4cdb-9634-7a0a3ba137ea",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kucherenko-yuriy-yurjevich/"
         }
       ]
     },
@@ -1675,6 +1731,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/pasyutin-vladimir-evgenjevich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/22",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "b393fd5a-aa3c-4cab-bc57-1a65b297ff10",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kunitskiy-vasiliy-anatoljevich/"
         }
       ]
     },
