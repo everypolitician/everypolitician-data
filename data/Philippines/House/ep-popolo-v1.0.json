@@ -698,6 +698,10 @@
       "name": "Alvarez, Franz \"Chicoy\" E."
     },
     {
+      "id": "0af28ca0-17e1-4454-8de8-7ea955dd8e7c",
+      "name": "Magsaysay, Milagros A."
+    },
+    {
       "id": "0b5c5754-a1f5-42a4-a412-620e388eb9a9",
       "image": "http://www.congress.gov.ph/members/images/17th/violago-m.jpg",
       "images": [
@@ -6153,7 +6157,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -16533,6 +16537,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -16912,6 +16921,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=alvarez-f"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "0af28ca0-17e1-4454-8de8-7ea955dd8e7c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
