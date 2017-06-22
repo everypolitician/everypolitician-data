@@ -6153,7 +6153,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -13430,6 +13430,10 @@
       "name": "Cruz-Gonzales, Cinchona"
     },
     {
+      "id": "d71eceb1-d7d5-4f53-ba02-427d12767d21",
+      "name": "Magsaysay, Milagros A."
+    },
+    {
       "gender": "female",
       "given_name": "Mercedes",
       "id": "d779994f-d7f8-4c53-a73a-4d017fa43acb",
@@ -16530,6 +16534,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -22742,6 +22751,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cruzgonzales-c"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "d71eceb1-d7d5-4f53-ba02-427d12767d21",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
