@@ -149,6 +149,7 @@
     {
       "birth_date": "1958-07-26",
       "gender": "female",
+      "given_name": "Elena",
       "id": "01dfd6e5-7346-4a63-b5dc-63cb2718b415",
       "identifiers": [
         {
@@ -1837,7 +1838,7 @@
       "birth_date": "1957-01-17",
       "family_name": "Ivanov",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "0bcd5d6d-e171-4797-bfd7-ff9a4392cd73",
       "identifiers": [
         {
@@ -1878,6 +1879,11 @@
         {
           "name": "Николай Иванов",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nicholas Ivanov",
+          "note": "multilingual"
         },
         {
           "lang": "nl",
@@ -5700,6 +5706,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/89f/89f3c499fc18c0da2f8b10140735430c.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Natalya_Kuvshinova.jpg"
         }
       ],
       "links": [
@@ -6703,7 +6712,7 @@
     {
       "birth_date": "1949-03-11",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "21fbee64-46ad-4d1e-9a14-ed4e1cf8a64b",
       "identifiers": [
         {
@@ -8587,7 +8596,7 @@
     {
       "birth_date": "1945-05-08",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "31867cfc-4d6c-4e3e-9c38-43e9d7e2956b",
       "identifiers": [
         {
@@ -9723,6 +9732,7 @@
     {
       "birth_date": "1971-06-20",
       "gender": "female",
+      "given_name": "Elena",
       "id": "330d7fbd-13bb-44be-b39b-ad85d9df9a85",
       "identifiers": [
         {
@@ -10254,7 +10264,7 @@
     {
       "birth_date": "1958-03-28",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "38d22f53-6441-44d5-b33a-479b9e7b8d08",
       "identifiers": [
         {
@@ -10984,9 +10994,6 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/d97/d976ec3f98afd87d525e0a41b43908ce.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ChizovSV.jpg"
         }
       ],
       "links": [
@@ -11501,23 +11508,11 @@
       ]
     },
     {
-      "birth_date": "1954-08-16",
-      "family_name": "Petrov",
-      "gender": "male",
-      "given_name": "Sergej",
       "id": "408eb74a-9faa-4efb-b6e3-e81a388ccb84",
       "identifiers": [
         {
-          "identifier": "83",
-          "scheme": "declarator"
-        },
-        {
           "identifier": "131265",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q4360860",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/49c/49c91954829fe2097254eb2611c2ef31.jpg",
@@ -11526,63 +11521,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/49c/49c91954829fe2097254eb2611c2ef31.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sergey_Anatolyevich_Petrov"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Петров,_Сергей_Анатольевич"
-        }
-      ],
-      "name": "Петров Сергей Анатольевич",
-      "other_names": [
-        {
-          "name": "Петров, Сергей Анатольевич",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Sergey Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Sergey Anatolyevich Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sergey Anatolyevich Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Sergey Anatolyevich Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Sergej Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sergey Anatolevitsj Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Sergej Petrov",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Петров, Сергей Анатольевич",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Петров Сергей Анатольевич"
     },
     {
       "birth_date": "1956-02-15",
@@ -11734,6 +11673,7 @@
     {
       "birth_date": "1954-12-09",
       "gender": "female",
+      "given_name": "Elena",
       "id": "41f6d2ab-4627-48b4-b7ec-81f9115a87de",
       "identifiers": [
         {
@@ -13359,6 +13299,10 @@
           "scheme": "livejournal"
         },
         {
+          "identifier": "959/000162473",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "Q502224",
           "scheme": "wikidata"
         }
@@ -13568,7 +13512,7 @@
     {
       "birth_date": "1949-08-05",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "49db65af-19ff-4755-9b05-34c559b60e40",
       "identifiers": [
         {
@@ -13887,6 +13831,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бифов,_Анатолий_Жамалович"
+        },
+        {
+          "note": "website",
+          "url": "https://kprf.ru/personal/bifov-anatoliy-zhamalovich"
         }
       ],
       "name": "Бифов Анатолий Жамалович",
@@ -14299,7 +14247,7 @@
     {
       "birth_date": "1946-10-18",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "50c930f4-95db-4edb-b723-e28c53edbfeb",
       "identifiers": [
         {
@@ -15780,7 +15728,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "5a87bb06-b98c-4918-9475-b49cdd8e52dd",
       "identifiers": [
         {
@@ -16092,6 +16040,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Igor Lebedev",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "イーゴリ・レベデフ",
           "note": "multilingual"
@@ -16330,6 +16283,7 @@
     {
       "birth_date": "1966-08-19",
       "gender": "female",
+      "given_name": "Olga",
       "id": "5d932641-5c22-4aba-a3e8-12995296b996",
       "identifiers": [
         {
@@ -17013,7 +16967,7 @@
     {
       "birth_date": "1937-12-15",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "61d169e8-e1d0-485a-9353-97230a005adf",
       "identifiers": [
         {
@@ -18016,6 +17970,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Olga Kazakova",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Olga Kazakova",
           "note": "multilingual"
@@ -18200,7 +18159,7 @@
     {
       "birth_date": "1963-02-08",
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "6edb6fa8-ddbd-481b-a88e-ca8ed969190e",
       "identifiers": [
         {
@@ -19946,7 +19905,7 @@
     {
       "birth_date": "1939-03-21",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "7a17ecb7-3f55-4c61-b1ea-6ec5d6e9943f",
       "identifiers": [
         {
@@ -22899,7 +22858,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "8af09397-3e3e-433d-ad38-afca040677d5",
       "identifiers": [
         {
@@ -23226,7 +23185,7 @@
     {
       "birth_date": "1942-12-19",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "8bba1734-15f6-4928-8d0f-41f6695d7324",
       "identifiers": [
         {
@@ -24603,7 +24562,7 @@
     {
       "birth_date": "1949-09-01",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "985594ab-6519-4eb3-ae9a-311c61fa3bbc",
       "identifiers": [
         {
@@ -24667,6 +24626,7 @@
     {
       "birth_date": "1969-11-22",
       "gender": "female",
+      "given_name": "Elena",
       "id": "98a862ee-7458-4fe0-9d52-5f6b80049a15",
       "identifiers": [
         {
@@ -26095,6 +26055,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/fd0/fd037c6fa47466ff96b1bcdaa413c77e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Чиркова_Ирина_Александровна.jpg"
         }
       ],
       "links": [
@@ -26998,6 +26961,10 @@
         {
           "identifier": "jn20000702020",
           "scheme": "nkc"
+        },
+        {
+          "identifier": "729/000024657",
+          "scheme": "nndb"
         },
         {
           "identifier": "117249033",
@@ -28227,6 +28194,7 @@
     {
       "birth_date": "1976-04-22",
       "gender": "female",
+      "given_name": "Elena",
       "id": "aa2f7fd9-755a-4721-9d5a-c58948714fd2",
       "identifiers": [
         {
@@ -29581,7 +29549,7 @@
     {
       "birth_date": "1956-09-01",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "b2100a73-c7a3-4874-9533-ce831ee736b4",
       "identifiers": [
         {
@@ -30105,7 +30073,7 @@
       "name": "Рахматуллина Зугура Ягануровна",
       "other_names": [
         {
-          "name": "Рахматуллина, Зугура Ягануровна",
+          "name": "Зугура Ягануровна Рахматуллина",
           "note": "alternate"
         },
         {
@@ -30130,7 +30098,7 @@
         },
         {
           "lang": "ru",
-          "name": "Рахматуллина, Зугура Ягануровна",
+          "name": "Зугура Ягануровна Рахматуллина",
           "note": "multilingual"
         }
       ]
@@ -31451,6 +31419,7 @@
     {
       "birth_date": "1948-04-29",
       "gender": "female",
+      "given_name": "Elena",
       "id": "c013cea5-9e40-485f-87f7-c761d03621c3",
       "identifiers": [
         {
@@ -33065,6 +33034,7 @@
     {
       "birth_date": "1948-10-29",
       "gender": "female",
+      "given_name": "Elena",
       "id": "ce5600f9-77e3-4c44-90d1-b037b8f63363",
       "identifiers": [
         {
@@ -33406,7 +33376,7 @@
     {
       "birth_date": "1959-11-29",
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "cf69251a-4bc3-4bc8-929d-4c6db120d25d",
       "identifiers": [
         {
@@ -35439,7 +35409,7 @@
       "name": "Левченко Сергей Георгиевич",
       "other_names": [
         {
-          "name": "Левченко, Сергей Георгиевич",
+          "name": "Сергей Георгиевич Левченко",
           "note": "alternate"
         },
         {
@@ -35454,7 +35424,7 @@
         },
         {
           "lang": "ru",
-          "name": "Левченко, Сергей Георгиевич",
+          "name": "Сергей Георгиевич Левченко",
           "note": "multilingual"
         }
       ]
@@ -35657,6 +35627,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Романов_Михаил_Валентинович"
+        },
+        {
+          "note": "website",
+          "url": "http://www.duma.gov.ru/structure/deputies/1756983/"
         }
       ],
       "name": "Романов Михаил Валентинович",
@@ -35858,7 +35832,7 @@
     {
       "birth_date": "1958-05-21",
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "dc8425a0-4820-49a7-bbe0-bfcb064cb72a",
       "identifiers": [
         {
@@ -36122,7 +36096,7 @@
     {
       "birth_date": "1949-03-20",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "dce4c3e9-d982-4682-9859-c90438f2df5f",
       "identifiers": [
         {
@@ -38170,7 +38144,7 @@
     {
       "birth_date": "1967-09-19",
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "e4f4464b-6d77-4ab5-b44f-f0ff6c98fed3",
       "identifiers": [
         {
@@ -38971,7 +38945,7 @@
     {
       "birth_date": "1950-12-01",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "e90acdca-471a-4d94-905e-acd55e2ff057",
       "identifiers": [
         {
@@ -40929,7 +40903,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Alexander",
+      "given_name": "Aleksandr",
       "id": "f8051491-1e6f-4d25-819b-9bae513fc3bc",
       "identifiers": [
         {
@@ -41989,7 +41963,7 @@
     {
       "birth_date": "1954-04-09",
       "gender": "male",
-      "given_name": "Nicholas",
+      "given_name": "Nikolai",
       "id": "fc716e90-0711-40ba-aec0-8d8776243c58",
       "identifiers": [
         {
@@ -44031,7 +44005,7 @@
         },
         {
           "lang": "ar",
-          "name": "روسيا فقط",
+          "name": "روسيا عادلة",
           "note": "multilingual"
         },
         {
