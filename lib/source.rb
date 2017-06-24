@@ -12,6 +12,7 @@ module Source
       'ocd-ids'            => Source::OCD::IDs,
       'ocd-names'          => Source::OCD::Names,
       'area-wikidata'      => Source::Area,
+      'area-mapit'         => Source::Mapit,
       'gender'             => Source::Gender,
       'wikidata-cabinet'   => Source::Cabinet,
       'wikidata-positions' => Source::Positions::Old,

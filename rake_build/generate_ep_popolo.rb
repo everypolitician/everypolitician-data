@@ -172,7 +172,8 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :area_wikidata
   task area_wikidata: :load do
-    @INSTRUCTIONS.sources_of_type('area-wikidata').each do |src|
+    sources = @INSTRUCTIONS.sources_of_type('area-wikidata') + @INSTRUCTIONS.sources_of_type('area-mapit')
+    sources.each do |src|
       src.to_popolo[:areas].each do |area|
         @json[:areas].select do |a|
           a[:type] == 'constituency' &&
