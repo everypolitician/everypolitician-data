@@ -6153,7 +6153,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -13288,6 +13288,10 @@
       "name": "Enverga, Anna Katrina \"Trina\" M."
     },
     {
+      "id": "d062e4e9-6416-4c1f-a646-ada8949452ca",
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "birth_date": "1942-05-01",
       "gender": "male",
       "id": "d1b50722-4eab-4476-9c05-3203d1bbd899",
@@ -16530,6 +16534,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -22654,6 +22663,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=enverga-a"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "d062e4e9-6416-4c1f-a646-ada8949452ca",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
