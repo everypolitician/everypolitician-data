@@ -1303,6 +1303,10 @@
       "name": "Singson, Eric D."
     },
     {
+      "id": "1d7cd0ec-c8ff-443b-b36a-62081c9d5fb1",
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "id": "1d934d17-1d63-4778-bf1f-7daef8cb9eaa",
       "identifiers": [
         {
@@ -6153,7 +6157,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -16533,6 +16537,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -17475,6 +17484,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=singson-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "1d7cd0ec-c8ff-443b-b36a-62081c9d5fb1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
