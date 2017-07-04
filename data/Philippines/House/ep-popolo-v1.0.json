@@ -1339,6 +1339,10 @@
       "name": "Ong, Edwin C."
     },
     {
+      "id": "20cd1611-b1b9-4f89-a2a4-21b8fcfa7fd4",
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "female",
       "id": "20de2839-181c-4735-97a4-b32d86d1b45a",
       "identifiers": [
@@ -6153,7 +6157,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -16533,6 +16537,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -17514,6 +17523,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=ong-chuan"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "20cd1611-b1b9-4f89-a2a4-21b8fcfa7fd4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
