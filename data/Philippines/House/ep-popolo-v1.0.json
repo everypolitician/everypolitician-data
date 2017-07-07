@@ -2614,6 +2614,10 @@
       "name": "Nava, Ma. Lucille L., M.D."
     },
     {
+      "id": "31d6edfc-8332-498e-b2f1-8178b31d84d5",
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "id": "328aa3d3-e5e2-4767-ba2c-0e3b1bd72ef8",
       "identifiers": [
         {
@@ -6153,7 +6157,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -16533,6 +16537,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -17938,6 +17947,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=nava-l"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "31d6edfc-8332-498e-b2f1-8178b31d84d5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
