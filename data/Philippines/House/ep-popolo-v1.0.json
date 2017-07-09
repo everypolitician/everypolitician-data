@@ -6153,7 +6153,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -14800,6 +14800,10 @@
       "name": "Cosalan, Ronald M."
     },
     {
+      "id": "ecf52b0b-1a1b-4c33-96ac-5572fb9b3f70",
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "birth_date": "1935-04-14",
       "gender": "male",
       "given_name": "Rodolfo",
@@ -16530,6 +16534,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -23535,6 +23544,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cosalan-r"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "ecf52b0b-1a1b-4c33-96ac-5572fb9b3f70",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
