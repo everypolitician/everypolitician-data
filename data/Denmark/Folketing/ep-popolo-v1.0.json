@@ -1602,6 +1602,7 @@
     {
       "birth_date": "1936-01-01",
       "gender": "male",
+      "given_name": "Kai",
       "id": "0d364b71-731d-4bf1-903c-f66d12a57727",
       "identifiers": [
         {
@@ -10031,10 +10032,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "uibm@uibm.dk"
+          "value": "uim@uim.dk"
         }
       ],
-      "email": "uibm@uibm.dk",
+      "email": "uim@uim.dk",
       "family_name": "Støjberg",
       "gender": "female",
       "given_name": "Inger",
@@ -10113,7 +10114,7 @@
         },
         {
           "note": "website",
-          "url": "http://uibm.dk"
+          "url": "http://uim.dk"
         }
       ],
       "name": "Inger Støjberg",
@@ -13751,39 +13752,6 @@
       ]
     },
     {
-      "birth_date": "1975-07-27",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "klaus.markussen@ft.dk"
-        }
-      ],
-      "email": "klaus.markussen@ft.dk",
-      "family_name": "Markussen",
-      "gender": "male",
-      "given_name": "Klaus",
-      "id": "44b547d7-b668-4d11-b4c9-a88bf7b1b76c",
-      "identifiers": [
-        {
-          "identifier": "Q29337399",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Klaus Markussen",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Klaus Markussen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Klaus Markussen",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1952-02-20",
       "contact_details": [
         {
@@ -15230,6 +15198,7 @@
     },
     {
       "birth_date": "1947-07-07",
+      "death_date": "2017-07-04",
       "gender": "male",
       "given_name": "Peter",
       "id": "4a1e5644-ea73-44f9-a523-610031a70615",
@@ -19401,39 +19370,6 @@
       ]
     },
     {
-      "birth_date": "1986-06-23",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "merete.scheelsbeck@ft.dk"
-        }
-      ],
-      "email": "merete.scheelsbeck@ft.dk",
-      "family_name": "Scheelsbeck",
-      "gender": "female",
-      "given_name": "Merete",
-      "id": "5f838ae3-9d3e-42f6-b4bd-fcbbb5652621",
-      "identifiers": [
-        {
-          "identifier": "Q29880936",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Merete Scheelsbeck",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Merete Scheelsbeck",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Merete Scheelsbeck",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1984-07-10",
       "contact_details": [
         {
@@ -19773,6 +19709,10 @@
           "url": "https://it.wikipedia.org/wiki/Anker_Jørgensen"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/앙케르_예르겐센"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Anker_Jørgensen"
         },
@@ -19924,6 +19864,11 @@
         {
           "lang": "kl",
           "name": "Anker Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "앙케르 예르겐센",
           "note": "multilingual"
         },
         {
@@ -32422,12 +32367,67 @@
       "name": "Kristian Hegaard",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Kristian Hegaard",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Kristian Hegaard",
           "note": "multilingual"
         }
@@ -36675,6 +36675,10 @@
           "scheme": "imdb"
         },
         {
+          "identifier": "joachim-broechner-olsen",
+          "scheme": "ioc_athlete"
+        },
+        {
           "identifier": "Q362151",
           "scheme": "wikidata"
         }
@@ -38103,6 +38107,10 @@
           "url": "https://it.wikipedia.org/wiki/Poul_Nyrup_Rasmussen"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/포울_뉘루프_라스무센"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Poul_Nyrup_Rasmussen"
         },
@@ -38283,6 +38291,11 @@
         {
           "lang": "kl",
           "name": "Poul Nyrup Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포울 뉘루프 라스무센",
           "note": "multilingual"
         },
         {
@@ -49445,6 +49458,10 @@
           "url": "https://it.wikipedia.org/wiki/Poul_Schlüter"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/포울_슐뤼테르"
+        },
+        {
           "note": "Wikipedia (nds)",
           "url": "https://nds.wikipedia.org/wiki/Poul_Schlüter"
         },
@@ -49596,6 +49613,11 @@
         {
           "lang": "kl",
           "name": "Poul Schlüter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포울 슐뤼테르",
           "note": "multilingual"
         },
         {
@@ -63007,6 +63029,11 @@
           "lang": "en",
           "name": "Republican Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Republica",
+          "note": "multilingual"
         }
       ]
     },
@@ -63140,6 +63167,11 @@
         {
           "lang": "en",
           "name": "Republican Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Republica",
           "note": "multilingual"
         }
       ]
@@ -63563,6 +63595,31 @@
         {
           "lang": "es",
           "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
           "note": "multilingual"
         },
         {
@@ -67052,19 +67109,6 @@
       ]
     },
     {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "44b547d7-b668-4d11-b4c9-a88bf7b1b76c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/vklma.aspx"
-        }
-      ]
-    },
-    {
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -68244,19 +68288,6 @@
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "5f60506a-72e5-43b5-a5dd-cab2821b73f4",
       "role": "member"
-    },
-    {
-      "area_id": "area/greater_copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "5f838ae3-9d3e-42f6-b4bd-fcbbb5652621",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/kfmesc.aspx"
-        }
-      ]
     },
     {
       "legislative_period_id": "term/2011",
