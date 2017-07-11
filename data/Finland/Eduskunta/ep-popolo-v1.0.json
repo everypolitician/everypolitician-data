@@ -32289,6 +32289,10 @@
       "sort_name": "Nousiainen Pekka"
     },
     {
+      "id": "879a83fe-e785-47df-9daa-cdde27212da0",
+      "name": "Matti Torvinen"
+    },
+    {
       "birth_date": "1945-03-21",
       "family_name": "Kallis",
       "gender": "male",
@@ -59133,11 +59137,6 @@
     },
     {
       "classification": "party",
-      "id": "muu",
-      "name": "unknown"
-    },
-    {
-      "classification": "party",
       "id": "uv",
       "identifiers": [
         {
@@ -61442,7 +61441,7 @@
       "area_id": "area/uudenmaan",
       "end_date": "2015-05-04",
       "legislative_period_id": "term/37",
-      "on_behalf_of_id": "uv",
+      "on_behalf_of_id": "ps",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "1b70368c-ce2f-49a2-a10d-7f72db596a6d",
       "role": "member"
@@ -61649,6 +61648,7 @@
     },
     {
       "area_id": "area/lapin",
+      "end_date": "2017-07-01",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "uv",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
@@ -66975,7 +66975,7 @@
     {
       "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
-      "on_behalf_of_id": "muu",
+      "on_behalf_of_id": "kok",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "63fb60ba-97fc-4ce5-bc3e-b59aaa784f2e",
       "role": "member"
@@ -69582,6 +69582,15 @@
           "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=586&kieli=su"
         }
       ]
+    },
+    {
+      "area_id": "area/lapin",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "uv",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "879a83fe-e785-47df-9daa-cdde27212da0",
+      "role": "member",
+      "start_date": "2017-07-01"
     },
     {
       "area_id": "area/vaasan",
@@ -76339,7 +76348,7 @@
     {
       "area_id": "area/uudenmaan",
       "legislative_period_id": "term/37",
-      "on_behalf_of_id": "muu",
+      "on_behalf_of_id": "ps",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "f36c1c7a-2389-4b5d-ba48-6de06abeb829",
       "role": "member"
@@ -76463,7 +76472,7 @@
     {
       "area_id": "area/varsinais-suomen",
       "legislative_period_id": "term/37",
-      "on_behalf_of_id": "uv",
+      "on_behalf_of_id": "ps",
       "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
       "person_id": "f510a0c5-aeee-4df0-ad14-d536d85fc099",
       "role": "member"
