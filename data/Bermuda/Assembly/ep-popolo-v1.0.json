@@ -76,6 +76,10 @@
       "name": "Suzann Roberts-Holshouser"
     },
     {
+      "id": "1afbbfb1-7e1b-48ba-b76b-b48ab46c52cd",
+      "name": "Vacant"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -122,30 +126,6 @@
         }
       ],
       "name": "Grant Gibbons"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "scrockwell@parliament.bm"
-        }
-      ],
-      "email": "scrockwell@parliament.bm",
-      "gender": "male",
-      "id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
-      "identifiers": [
-        {
-          "identifier": "Shawn_Crockwell",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg"
-        }
-      ],
-      "name": "Shawn Crockwell"
     },
     {
       "contact_details": [
@@ -1226,11 +1206,6 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "IND",
-      "name": "IND"
-    },
-    {
-      "classification": "party",
       "id": "Independent",
       "identifiers": [
         {
@@ -2082,6 +2057,14 @@
       ]
     },
     {
+      "area_id": "31",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "1afbbfb1-7e1b-48ba-b76b-b48ab46c52cd",
+      "role": "member"
+    },
+    {
       "area_id": "11",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -2104,19 +2087,6 @@
       "sources": [
         {
           "url": "http://www.parliament.bm/Dr._Grant_Gibbons.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "31",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "IND",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Shawn_Crockwell.aspx"
         }
       ]
     },
