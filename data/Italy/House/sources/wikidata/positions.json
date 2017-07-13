@@ -268,7 +268,54 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "15th Legislature of Italy",
+        "P768": "Q3677918"
+      }
+    },
+    {
+      "id": "Q25973167",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2014-02-22",
+        "P1365": "Annamaria Cancellieri"
+      }
+    },
+    {
+      "id": "Q32137240",
+      "label": "Q32137240",
+      "title": "Q32137240",
+      "qualifiers": {
+        "P580": "2013-04-28",
+        "P582": "2014-02-22",
+        "P1365": "Corrado Clini",
+        "P1366": "Gian Luca Galletti"
+      }
+    },
+    {
+      "id": "Q3687266",
+      "label": "member of City Council",
+      "title": "member of City Council",
+      "description": "in Italy, one of the members of a City Council",
+      "qualifiers": {
+        "P276": "La Spezia",
+        "P580": "1990",
+        "P582": ""
+      }
+    },
+    {
+      "id": "Q3625593",
+      "label": "Assessor",
+      "title": "Assessor",
+      "description": "member of a Giunta",
+      "qualifiers": {
+        "P580": "1997",
+        "P582": "",
+        "P276": "La Spezia"
+      }
     }
   ],
   "Q16571306": [
@@ -2500,7 +2547,7 @@
         "P580": "1993-07-20",
         "P582": "1997-05-12",
         "P463": "Northern League",
-        "P805": "Q3722168"
+        "P805": "Italian local elections, 1993"
       }
     },
     {
@@ -3356,6 +3403,16 @@
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the lower house of the Parliament of Italy"
+    },
+    {
+      "id": "Q25712839",
+      "label": "party chief representative",
+      "title": "party chief representative (of Sinistra Italiana)",
+      "qualifiers": {
+        "P580": "2017-02-19",
+        "P1365": "",
+        "P642": "Sinistra Italiana"
+      }
     }
   ],
   "Q16573514": [
@@ -3814,8 +3871,8 @@
   "Q3741557": [
     {
       "id": "Q27991492",
-      "label": "Italian Minister of Foreign Affairs",
-      "title": "Italian Minister of Foreign Affairs",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
       "description": "Italian minister",
       "qualifiers": {
         "P580": "2014-02-22",
@@ -4190,7 +4247,12 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2013",
+        "P2937": "17th Legislature of Italy",
+        "P768": "Q16541787"
+      }
     }
   ],
   "Q16528352": [
@@ -5743,8 +5805,8 @@
     },
     {
       "id": "Q27991492",
-      "label": "Italian Minister of Foreign Affairs",
-      "title": "Italian Minister of Foreign Affairs",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
       "description": "Italian minister",
       "qualifiers": {
         "P580": "2014-10-31",
