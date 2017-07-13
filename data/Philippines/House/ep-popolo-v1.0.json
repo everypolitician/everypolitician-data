@@ -6153,7 +6153,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -9911,6 +9911,16 @@
         }
       ],
       "name": "Ortega, Pablo C."
+    },
+    {
+      "id": "9c3d5e9b-ac0a-41c6-91cb-3634ecda9593",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
     },
     {
       "id": "9da79d1d-ead7-4f4c-8c42-0b7a67eced34",
@@ -15542,6 +15552,16 @@
       ]
     },
     {
+      "id": "f579bdc0-001f-4b98-9426-53c494640563",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "gender": "male",
       "id": "f5c825c0-1f11-4f2e-8032-936f6649357b",
       "identifiers": [
@@ -16530,6 +16550,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -21169,6 +21194,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "9c3d5e9b-ac0a-41c6-91cb-3634ecda9593",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
+        }
+      ]
+    },
+    {
       "area_id": "area/isabela,_4th_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -23854,6 +23891,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=colmenares-n"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "f579bdc0-001f-4b98-9426-53c494640563",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
