@@ -27,8 +27,13 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of La Foa)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "La Foa",
+        "P580": "1989-03-17",
+        "P582": "2008-03-09"
+      }
     },
     {
       "id": "Q3044918",
@@ -45,8 +50,12 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Païta)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Païta",
+        "P580": "1995-03-16"
+      }
     }
   ],
   "Q3014101": [
@@ -75,16 +84,25 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Lifou)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Lifou",
+        "P580": "2001-03-23",
+        "P582": "2014-03-28"
+      }
     }
   ],
   "Q3371928": [
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Poindimié)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Poindimié",
+        "P580": "1989-03-24"
+      }
     }
   ]
 }
