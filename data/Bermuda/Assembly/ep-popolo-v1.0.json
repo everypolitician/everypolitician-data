@@ -127,30 +127,6 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "scrockwell@parliament.bm"
-        }
-      ],
-      "email": "scrockwell@parliament.bm",
-      "gender": "male",
-      "id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
-      "identifiers": [
-        {
-          "identifier": "Shawn_Crockwell",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg",
-      "images": [
-        {
-          "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/CROCKWELL,%20SHAWN%5B1%5D.jpeg"
-        }
-      ],
-      "name": "Shawn Crockwell"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "rwscott@parliament.bm"
         }
       ],
@@ -786,6 +762,10 @@
       "name": "Lawrence Scott"
     },
     {
+      "id": "951b6215-6cb1-4000-80c0-4265252603bb",
+      "name": "Vacant"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1224,11 +1204,6 @@
     }
   ],
   "organizations": [
-    {
-      "classification": "party",
-      "id": "IND",
-      "name": "IND"
-    },
     {
       "classification": "party",
       "id": "Independent",
@@ -2108,19 +2083,6 @@
       ]
     },
     {
-      "area_id": "31",
-      "legislative_period_id": "term/2012",
-      "on_behalf_of_id": "IND",
-      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
-      "person_id": "22db93c9-893b-4a2f-b2ad-b31dedfbcce7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.bm/Shawn_Crockwell.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "27",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "OBA",
@@ -2354,6 +2316,14 @@
           "url": "http://www.parliament.bm/Lawrence_Scott.aspx"
         }
       ]
+    },
+    {
+      "area_id": "31",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "Independent",
+      "organization_id": "898e60f2-fb36-4c15-946d-d3c026e6316e",
+      "person_id": "951b6215-6cb1-4000-80c0-4265252603bb",
+      "role": "member"
     },
     {
       "area_id": "01",
