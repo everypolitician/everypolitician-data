@@ -1400,6 +1400,7 @@
     {
       "birth_date": "1945-12-07",
       "gender": "female",
+      "given_name": "Tove",
       "id": "09ee5eb2-9805-4511-af1b-5a11d20d2295",
       "identifiers": [
         {
@@ -1464,10 +1465,19 @@
     },
     {
       "birth_date": "1952-04-07",
+      "family_name": "Baastrup",
       "gender": "female",
       "given_name": "Anne",
       "id": "0c6f3ace-edfd-418a-9cee-e983913e2025",
       "identifiers": [
+        {
+          "identifier": "166035",
+          "scheme": "dnf"
+        },
+        {
+          "identifier": "nm1599760",
+          "scheme": "imdb"
+        },
         {
           "identifier": "3465",
           "scheme": "pace"
@@ -1602,6 +1612,7 @@
     {
       "birth_date": "1936-01-01",
       "gender": "male",
+      "given_name": "Kai",
       "id": "0d364b71-731d-4bf1-903c-f66d12a57727",
       "identifiers": [
         {
@@ -2038,6 +2049,7 @@
           "value": "sfpevb"
         }
       ],
+      "family_name": "Bagge",
       "gender": "female",
       "given_name": "Pernille",
       "id": "11aa3d25-1da5-4441-bd0b-adee02e2593b",
@@ -5046,6 +5058,7 @@
     {
       "birth_date": "1922-07-26",
       "death_date": "2011-11-03",
+      "family_name": "Nørgaard",
       "gender": "male",
       "given_name": "Ivar",
       "id": "1f6c0482-3005-4cdd-a7bc-5e671aeb9a91",
@@ -5694,6 +5707,7 @@
     },
     {
       "birth_date": "1983-09-20",
+      "family_name": "Falkenberg",
       "gender": "female",
       "given_name": "Mia",
       "id": "20e46eb9-431f-49ed-a695-a1901d89337d",
@@ -5881,6 +5895,7 @@
     {
       "birth_date": "1924-10-22",
       "death_date": "2016-09-24",
+      "family_name": "Melchior",
       "gender": "male",
       "given_name": "Arne",
       "id": "2187680d-c103-423a-aa26-a1033fb372f5",
@@ -6900,6 +6915,10 @@
       "id": "255d91c5-698c-48ab-bbe5-9a77844758c0",
       "identifiers": [
         {
+          "identifier": "166027",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "96709",
           "scheme": "europarlmep"
         },
@@ -6910,6 +6929,10 @@
         {
           "identifier": "/m/065_dtm",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1272419",
+          "scheme": "imdb"
         },
         {
           "identifier": "Q546215",
@@ -8055,6 +8078,7 @@
     },
     {
       "birth_date": "1942-12-31",
+      "family_name": "Poulsen",
       "gender": "male",
       "given_name": "Kaj",
       "id": "2cc8b3a9-92b4-40d8-a851-d585706d5da2",
@@ -12713,6 +12737,7 @@
     },
     {
       "birth_date": "1940-08-04",
+      "family_name": "Nørgaard",
       "gender": "male",
       "given_name": "Frederik",
       "id": "3ee9b43b-21b0-42ad-bacf-7c34138579d3",
@@ -13143,6 +13168,7 @@
     },
     {
       "birth_date": "1941-08-12",
+      "family_name": "Høiby",
       "gender": "male",
       "given_name": "Niels",
       "id": "3ffc296a-6c38-4cbb-bec3-5dd88d5f0d71",
@@ -13405,6 +13431,7 @@
     },
     {
       "birth_date": "1943-07-05",
+      "family_name": "Poulsen",
       "gender": "male",
       "given_name": "Jørgen",
       "id": "41b5cb99-ceba-4377-b57e-905d31b3c192",
@@ -14838,6 +14865,7 @@
       "birth_date": "1928",
       "family_name": "Larsen",
       "gender": "female",
+      "given_name": "Tove",
       "id": "4872b825-55b7-4a04-9859-b18455b8d42d",
       "identifiers": [
         {
@@ -15230,6 +15258,7 @@
     },
     {
       "birth_date": "1947-07-07",
+      "death_date": "2017-07-04",
       "gender": "male",
       "given_name": "Peter",
       "id": "4a1e5644-ea73-44f9-a523-610031a70615",
@@ -15843,6 +15872,10 @@
       "given_name": "Christian",
       "id": "4cc5a593-74f1-476c-9dbc-a84d6c2e04bb",
       "identifiers": [
+        {
+          "identifier": "229583",
+          "scheme": "dnf"
+        },
         {
           "identifier": "/m/0zm_5_c",
           "scheme": "freebase"
@@ -19366,6 +19399,7 @@
     {
       "birth_date": "1931-03-01",
       "death_date": "2004-07-19",
+      "family_name": "Erenbjerg",
       "gender": "male",
       "given_name": "Hans",
       "id": "5f60506a-72e5-43b5-a5dd-cab2821b73f4",
@@ -19422,12 +19456,67 @@
       "name": "Merete Scheelsbeck",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Merete Scheelsbeck",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Merete Scheelsbeck",
           "note": "multilingual"
         }
@@ -19773,6 +19862,10 @@
           "url": "https://it.wikipedia.org/wiki/Anker_Jørgensen"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/앙케르_예르겐센"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Anker_Jørgensen"
         },
@@ -19924,6 +20017,11 @@
         {
           "lang": "kl",
           "name": "Anker Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "앙케르 예르겐센",
           "note": "multilingual"
         },
         {
@@ -24413,12 +24511,67 @@
       "name": "Emrah Tuncer",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Emrah Tuncer",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Emrah Tuncer",
           "note": "multilingual"
         }
@@ -25791,6 +25944,9 @@
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Liselott%20Blixt/Liselotte_Blixt_133.jpg.ashx"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/HVB_40_years_-_Liselott_Blixt.jpg"
         }
       ],
       "links": [
@@ -27555,6 +27711,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "166018",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "rvmaje",
           "scheme": "everypolitician_legacy"
         },
@@ -27565,6 +27725,10 @@
         {
           "identifier": "131668846",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1266088",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 7838 3073",
@@ -28016,6 +28180,14 @@
       "given_name": "Helge",
       "id": "806051cb-fae9-41d4-bc40-f8c4a07a971b",
       "identifiers": [
+        {
+          "identifier": "165579",
+          "scheme": "dnf"
+        },
+        {
+          "identifier": "nm1496278",
+          "scheme": "imdb"
+        },
         {
           "identifier": "Q12316008",
           "scheme": "wikidata"
@@ -29762,6 +29934,10 @@
       "id": "8a0e144e-8552-4cd0-b93a-6e888c81537d",
       "identifiers": [
         {
+          "identifier": "165578",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "37676",
           "scheme": "europarlmep"
         },
@@ -30338,8 +30514,16 @@
       "id": "8d6cd1b8-f9a1-49ba-8582-056e7516b78f",
       "identifiers": [
         {
+          "identifier": "195568",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "/m/0tkdwbs",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1320421",
+          "scheme": "imdb"
         },
         {
           "identifier": "9550982",
@@ -32104,8 +32288,16 @@
       "id": "978e405d-c2d9-48a1-865d-2c10f1707269",
       "identifiers": [
         {
+          "identifier": "166024",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "/m/05h2gx",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1594635",
+          "scheme": "imdb"
         },
         {
           "identifier": "Q603028",
@@ -32422,12 +32614,67 @@
       "name": "Kristian Hegaard",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Kristian Hegaard",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kristian Hegaard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Kristian Hegaard",
           "note": "multilingual"
         }
@@ -33280,6 +33527,7 @@
       "birth_date": "1942-05-13",
       "family_name": "Larsson",
       "gender": "male",
+      "given_name": "Uno",
       "id": "9e141d00-5720-416f-97a3-a1784c74fb98",
       "identifiers": [
         {
@@ -33566,12 +33814,67 @@
       "name": "Peder Hvelplund",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Peder Hvelplund",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Peder Hvelplund",
           "note": "multilingual"
         }
@@ -35281,6 +35584,10 @@
       "id": "a5d484c9-3439-42bf-989e-23972ef9951e",
       "identifiers": [
         {
+          "identifier": "165577",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "kfnakh",
           "scheme": "everypolitician_legacy"
         },
@@ -35295,6 +35602,10 @@
         {
           "identifier": "13919312X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1232985",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 7888 0491",
@@ -36465,6 +36776,7 @@
     },
     {
       "birth_date": "1950-03-26",
+      "family_name": "Dohn",
       "gender": "male",
       "given_name": "Lars",
       "id": "b00a5b01-09b6-41e0-82e5-a74478cbefeb",
@@ -36673,6 +36985,10 @@
         {
           "identifier": "nm1813379",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "joachim-broechner-olsen",
+          "scheme": "ioc_athlete"
         },
         {
           "identifier": "Q362151",
@@ -37388,12 +37704,67 @@
       "name": "Brigitte Klintskov Jerkel",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Brigitte Klintskov Jerkel",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Brigitte Klintskov Jerkel",
           "note": "multilingual"
         }
@@ -38103,6 +38474,10 @@
           "url": "https://it.wikipedia.org/wiki/Poul_Nyrup_Rasmussen"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/포울_뉘루프_라스무센"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Poul_Nyrup_Rasmussen"
         },
@@ -38283,6 +38658,11 @@
         {
           "lang": "kl",
           "name": "Poul Nyrup Rasmussen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포울 뉘루프 라스무센",
           "note": "multilingual"
         },
         {
@@ -39068,6 +39448,7 @@
       ]
     },
     {
+      "family_name": "Josefsen",
       "gender": "female",
       "given_name": "Birgitte",
       "id": "b8a9d7f4-102b-4134-a662-b3701d4e6cb1",
@@ -39401,7 +39782,27 @@
       "name": "Carsten Kudsk",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Carsten Kudsk",
           "note": "multilingual"
         },
@@ -39409,11 +39810,47 @@
           "lang": "nl",
           "name": "Carsten Kudsk",
           "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
         }
       ]
     },
     {
       "birth_date": "1938-11-13",
+      "family_name": "Elmquist",
       "gender": "male",
       "given_name": "Bjørn",
       "id": "b9b9f423-7641-4233-87a9-996778d06d0b",
@@ -41847,6 +42284,10 @@
       "id": "ca571861-2834-41f5-9a02-9c445829f695",
       "identifiers": [
         {
+          "identifier": "166012",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "sfhoni",
           "scheme": "everypolitician_legacy"
         },
@@ -41857,6 +42298,10 @@
         {
           "identifier": "/m/05wpd3",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1502423",
+          "scheme": "imdb"
         },
         {
           "identifier": "n80012464",
@@ -42360,6 +42805,10 @@
       "given_name": "Morten",
       "id": "cb3e631d-634b-4552-a4d1-feb02365edd3",
       "identifiers": [
+        {
+          "identifier": "166034",
+          "scheme": "dnf"
+        },
         {
           "identifier": "smorb",
           "scheme": "everypolitician_legacy"
@@ -44060,6 +44509,7 @@
     },
     {
       "birth_date": "1948-01-20",
+      "family_name": "Toft",
       "gender": "male",
       "given_name": "Arne",
       "id": "d1047de5-42e7-4c99-b939-8c43f6ab986a",
@@ -44781,6 +45231,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "אנדרס סמואלסן",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Anders Samuelsen",
           "note": "multilingual"
@@ -44788,6 +45243,11 @@
         {
           "lang": "is",
           "name": "Anders Samuelsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アナス・サムエルセン",
           "note": "multilingual"
         },
         {
@@ -48951,12 +49411,67 @@
       "name": "Nikolaj Amstrup",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Nikolaj Amstrup",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Nikolaj Amstrup",
           "note": "multilingual"
         }
@@ -49091,6 +49606,10 @@
       "given_name": "Ivar",
       "id": "e36c535f-b0e5-45ae-9460-00c384f88024",
       "identifiers": [
+        {
+          "identifier": "166019",
+          "scheme": "dnf"
+        },
         {
           "identifier": "/m/027dk6g",
           "scheme": "freebase"
@@ -49445,6 +49964,10 @@
           "url": "https://it.wikipedia.org/wiki/Poul_Schlüter"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/포울_슐뤼테르"
+        },
+        {
           "note": "Wikipedia (nds)",
           "url": "https://nds.wikipedia.org/wiki/Poul_Schlüter"
         },
@@ -49596,6 +50119,11 @@
         {
           "lang": "kl",
           "name": "Poul Schlüter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포울 슐뤼테르",
           "note": "multilingual"
         },
         {
@@ -49914,6 +50442,7 @@
     },
     {
       "birth_date": "1955-11-02",
+      "family_name": "Poulsen",
       "gender": "male",
       "given_name": "Johannes",
       "id": "e7389235-7abf-46d6-b026-ecec1d6458f2",
@@ -52281,6 +52810,7 @@
           "value": "rohde_jens"
         }
       ],
+      "family_name": "Rohde",
       "gender": "male",
       "given_name": "Jens",
       "id": "f3704f05-4d35-4d19-8862-fa9f957ef8e0",
@@ -63007,6 +63537,11 @@
           "lang": "en",
           "name": "Republican Party",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Republica",
+          "note": "multilingual"
         }
       ]
     },
@@ -63140,6 +63675,11 @@
         {
           "lang": "en",
           "name": "Republican Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Republica",
           "note": "multilingual"
         }
       ]
@@ -63563,6 +64103,31 @@
         {
           "lang": "es",
           "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
           "note": "multilingual"
         },
         {
