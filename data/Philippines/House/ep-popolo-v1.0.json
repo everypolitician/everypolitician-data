@@ -6153,7 +6153,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -12287,6 +12287,16 @@
       "name": "Deloso-Montalla, Cheryl P."
     },
     {
+      "id": "be4eb1ec-897a-4144-acdc-c2ffc58b1594",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "id": "bf1d9cc4-c3ba-4fae-8065-f236f06bb245",
       "identifiers": [
         {
@@ -13428,6 +13438,16 @@
         }
       ],
       "name": "Cruz-Gonzales, Cinchona"
+    },
+    {
+      "id": "d4f8262c-615a-4cc5-8806-5cf479a30f27",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
     },
     {
       "gender": "female",
@@ -16530,6 +16550,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -22082,6 +22107,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "be4eb1ec-897a-4144-acdc-c2ffc58b1594",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
+        }
+      ]
+    },
+    {
       "area_id": "area/palawan,_2nd_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -22742,6 +22779,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=cruzgonzales-c"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "d4f8262c-615a-4cc5-8806-5cf479a30f27",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
