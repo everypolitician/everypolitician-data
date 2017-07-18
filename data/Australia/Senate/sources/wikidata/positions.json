@@ -506,6 +506,7 @@
       "id": "Q7574624",
       "label": "Special Minister of State",
       "title": "Special Minister of State",
+      "description": "Australian ministerial position",
       "qualifiers": {
         "P580": "1987-02-16",
         "P582": "1987-07-24"
@@ -818,7 +819,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "2013-08-21",
+        "P1365": "Matt Thistlethwaite"
+      }
     }
   ],
   "Q5569124": [
@@ -1541,7 +1547,8 @@
     {
       "id": "Q7574624",
       "label": "Special Minister of State",
-      "title": "Special Minister of State"
+      "title": "Special Minister of State",
+      "description": "Australian ministerial position"
     },
     {
       "id": "Q6865874",
@@ -1677,7 +1684,8 @@
       "description": "Representative",
       "qualifiers": {
         "P580": "2012-06-20",
-        "P1365": "Bob Brown"
+        "P1365": "Bob Brown",
+        "P768": "Tasmania"
       }
     }
   ],
@@ -1896,7 +1904,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Western Australia",
+        "P580": "2007-06-19",
+        "P1365": "Ian Campbell"
+      }
     },
     {
       "id": "Q6865833",
@@ -1904,7 +1917,20 @@
       "title": "Minister for Finance",
       "description": "Australian minister",
       "qualifiers": {
-        "P580": "2013-09-18"
+        "P580": "2013-09-18",
+        "P1365": "Penny Wong"
+      }
+    },
+    {
+      "id": "Q7574624",
+      "label": "Special Minister of State",
+      "title": "Special Minister of State",
+      "description": "Australian ministerial position",
+      "qualifiers": {
+        "P580": "2016-02-18",
+        "P582": "2016-07-19",
+        "P1365": "Mal Brough",
+        "P1366": "Scott Ryan"
       }
     }
   ],
@@ -2058,7 +2084,8 @@
     {
       "id": "Q7574624",
       "label": "Special Minister of State",
-      "title": "Special Minister of State"
+      "title": "Special Minister of State",
+      "description": "Australian ministerial position"
     },
     {
       "id": "Q6814428",
@@ -2150,7 +2177,8 @@
       "description": "Representative",
       "qualifiers": {
         "P768": "Western Australia",
-        "P580": "2017-03-10"
+        "P580": "2017-03-10",
+        "P1365": "Rod Culleton"
       }
     }
   ],
@@ -2385,7 +2413,8 @@
     {
       "id": "Q7574624",
       "label": "Special Minister of State",
-      "title": "Special Minister of State"
+      "title": "Special Minister of State",
+      "description": "Australian ministerial position"
     },
     {
       "id": "Q6814428",
@@ -2499,7 +2528,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Northern Territory",
+        "P580": "2001-11-10"
+      }
     },
     {
       "id": "Q17007714",
@@ -2773,7 +2806,8 @@
       "description": "Representative",
       "qualifiers": {
         "P580": "2011-07-01",
-        "P768": "Queensland"
+        "P768": "Queensland",
+        "P582": "2017-07-18"
       }
     }
   ],
@@ -3129,6 +3163,7 @@
       "id": "Q7574624",
       "label": "Special Minister of State",
       "title": "Special Minister of State",
+      "description": "Australian ministerial position",
       "qualifiers": {
         "P580": "2001-01-30",
         "P582": "2006-01-27",
