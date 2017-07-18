@@ -3898,6 +3898,16 @@
       ]
     },
     {
+      "id": "3b027f3a-eff0-4c9d-8c7d-87b70dc3a19a",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "id": "3c08d771-4cb0-4d08-a5df-01f38ebb0a91",
       "identifiers": [
         {
@@ -6198,7 +6208,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -10724,6 +10734,16 @@
         }
       ],
       "name": "Acosta, Gil \"Kabarangay\" P."
+    },
+    {
+      "id": "acdd0fb9-4e39-4232-b2dd-9c939ad2cd9f",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
     },
     {
       "id": "ace80d8b-83dd-4af3-82e3-bde231ac423d",
@@ -16610,6 +16630,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -18390,6 +18415,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=amante-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "3b027f3a-eff0-4c9d-8c7d-87b70dc3a19a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
@@ -21655,6 +21692,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=acosta-g"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "acdd0fb9-4e39-4232-b2dd-9c939ad2cd9f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
