@@ -6045,6 +6045,16 @@
       ]
     },
     {
+      "id": "553189f4-8f12-4ebd-8981-a893f2eb5e8f",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "id": "55d966d0-8b8c-4123-8592-80c6e9bbcd84",
       "image": "http://www.congress.gov.ph/members/images/17th/matugas-fj.jpg",
       "images": [
@@ -6198,7 +6208,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -14747,6 +14757,16 @@
       "name": "Dalog, Maximo B."
     },
     {
+      "id": "eb693240-f201-4cfc-9a0d-26aca49af0b2",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "male",
       "given_name": "Sherwin",
       "id": "ec2a258a-decc-4419-beaf-9c1a1a9be722",
@@ -16607,6 +16627,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -19142,6 +19167,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=fuentebella-f"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "553189f4-8f12-4ebd-8981-a893f2eb5e8f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
@@ -23537,6 +23574,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=dalog-m"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "eb693240-f201-4cfc-9a0d-26aca49af0b2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
