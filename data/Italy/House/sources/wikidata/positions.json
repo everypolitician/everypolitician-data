@@ -360,6 +360,15 @@
       "label": "mayor",
       "title": "mayor",
       "description": "head of municipal government such as a town or city"
+    },
+    {
+      "id": "Q3721646",
+      "label": "Minister of Education, Universities and Research",
+      "title": "Minister of Education, Universities and Research",
+      "description": "Italian minister of education",
+      "qualifiers": {
+        "P1366": "Mariastella Gelmini"
+      }
     }
   ],
   "Q15711788": [
@@ -2111,6 +2120,18 @@
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the lower house of the Parliament of Italy"
+    },
+    {
+      "id": "Q3721646",
+      "label": "Minister of Education, Universities and Research",
+      "title": "Minister of Education, Universities and Research",
+      "description": "Italian minister of education",
+      "qualifiers": {
+        "P1366": "Francesco Profumo",
+        "P580": "2008-05-08",
+        "P582": "2011-11-16",
+        "P1365": "Giuseppe Fioroni"
+      }
     }
   ],
   "Q3847545": [
@@ -2247,6 +2268,18 @@
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the lower house of the Parliament of Italy"
+    },
+    {
+      "id": "Q3721646",
+      "label": "Minister of Education, Universities and Research",
+      "title": "Minister of Education, Universities and Research",
+      "description": "Italian minister of education",
+      "qualifiers": {
+        "P580": "2013-04-28",
+        "P582": "2014-02-22",
+        "P1366": "Stefania Giannini",
+        "P1365": "Francesco Profumo"
+      }
     }
   ],
   "Q3939013": [
@@ -3540,7 +3573,43 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P768": "Q16541803",
+        "P2937": "15th Legislature of Italy"
+      }
+    },
+    {
+      "id": "Q3687266",
+      "label": "member of City Council",
+      "title": "member of City Council",
+      "description": "in Italy, one of the members of a City Council",
+      "qualifiers": {
+        "P276": "Isasca",
+        "P580": "2004",
+        "P582": ""
+      }
+    },
+    {
+      "id": "Q4011107",
+      "label": "Q4011107",
+      "title": "Q4011107 (of Minister of Justice)",
+      "qualifiers": {
+        "P642": "Minister of Justice",
+        "P580": "2014-02-28",
+        "P582": "2016-01-29"
+      }
+    },
+    {
+      "id": "Q33125109",
+      "label": "Italian Minister of Regional Affairs and Autonomies",
+      "title": "Italian Minister of Regional Affairs and Autonomies",
+      "qualifiers": {
+        "P580": "2016-01-29",
+        "P582": "2017-07-19",
+        "P1365": "Maria Carmela Lanzetta",
+        "P1366": "Paolo Gentiloni"
+      }
     }
   ],
   "Q466489": [
