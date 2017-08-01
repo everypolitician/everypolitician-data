@@ -3569,6 +3569,16 @@
       "name": "Alonte, Marlyn B."
     },
     {
+      "id": "37c429b6-bfb3-414b-835d-06e345173e9c",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "birth_date": "1952-04-01",
       "gender": "male",
       "given_name": "Franklin",
@@ -6231,7 +6241,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -10947,6 +10957,16 @@
         }
       ],
       "name": "Bulut-Begtang, Eleanor C."
+    },
+    {
+      "id": "b0f8ecff-206c-4eea-b698-e834f0dbb040",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
     },
     {
       "birth_date": "1945-09",
@@ -16717,6 +16737,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -18315,6 +18340,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=alonte-m"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "37c429b6-bfb3-414b-835d-06e345173e9c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
@@ -21916,6 +21953,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=begtang-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "b0f8ecff-206c-4eea-b698-e834f0dbb040",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
