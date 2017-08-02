@@ -258,15 +258,15 @@
       "description": "elected Representative of the  House of Representatives of Japan"
     },
     {
-      "id": "Q1623534",
-      "label": "governor",
-      "title": "governor (of Hokkaidō Prefecture)",
-      "description": "highest ranking executive of a prefecture in Japan",
+      "id": "Q33134383",
+      "label": "Q33134383",
+      "title": "Q33134383",
       "qualifiers": {
-        "P642": "Hokkaidō Prefecture",
         "P580": "1969-12-27",
         "P582": "1983-04",
-        "P2715": "Q11186000"
+        "P2715": "Q11186000",
+        "P1365": "Naohiro Dōgakinai",
+        "P1366": "Tatsuya Hori"
       }
     }
   ],
@@ -1772,7 +1772,12 @@
       "id": "Q17506823",
       "label": "member of the House of Representatives of Japan",
       "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan"
+      "description": "elected Representative of the  House of Representatives of Japan",
+      "qualifiers": {
+        "P580": "1996",
+        "P582": "2017",
+        "P768": "Q11662289"
+      }
     }
   ],
   "Q5752415": [
