@@ -76,6 +76,16 @@
       "name": "Yap, Melecio Jr. J."
     },
     {
+      "id": "02b21c71-d175-4a40-8a16-1d9442d0cdeb",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "male",
       "id": "03de5918-39f2-43b7-a9c2-829846e5c9b5",
       "identifiers": [
@@ -6231,7 +6241,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -15958,6 +15968,16 @@
       "name": "Sarmiento, Cesar V."
     },
     {
+      "id": "fdabb46e-462c-450e-a89f-63672b9125aa",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "gender": "male",
       "id": "fe3ace89-c25d-44ae-bcd5-69a5a598360c",
       "identifiers": [
@@ -16717,6 +16737,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -16788,6 +16813,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=yap-m"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "02b21c71-d175-4a40-8a16-1d9442d0cdeb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
@@ -24252,6 +24289,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=sarmiento-c"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "fdabb46e-462c-450e-a89f-63672b9125aa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
