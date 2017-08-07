@@ -6231,7 +6231,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -6632,6 +6632,16 @@
         }
       ],
       "name": "Violago, Joseph Gilbert F."
+    },
+    {
+      "id": "60cb35d3-39cf-49eb-b388-770600ad104a",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
     },
     {
       "id": "60dce242-08c5-4b6a-ae52-662d8d9c9cb7",
@@ -12581,6 +12591,16 @@
       ]
     },
     {
+      "id": "c13fd00c-488b-474e-95e3-d8ff1c4318ab",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "gender": "male",
       "id": "c27a238f-6da5-40f5-a4bc-bd8811d38df4",
       "identifiers": [
@@ -16717,6 +16737,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -19626,6 +19651,18 @@
     },
     {
       "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "60cb35d3-39cf-49eb-b388-770600ad104a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/1-ang_edukasyon",
       "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
       "person_id": "60dce242-08c5-4b6a-ae52-662d8d9c9cb7",
@@ -22352,6 +22389,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=eriguel-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "c13fd00c-488b-474e-95e3-d8ff1c4318ab",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
