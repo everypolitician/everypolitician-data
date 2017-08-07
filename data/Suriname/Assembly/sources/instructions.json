@@ -22,6 +22,12 @@
       "type": "membership"
     },
     {
+      "file": "archive/official-vanished.csv",
+      "type": "membership",
+      "source": "http://www.dna.sr",
+      "notes": "People who are no longer on official site"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
