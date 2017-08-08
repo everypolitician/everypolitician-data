@@ -3918,6 +3918,16 @@
       ]
     },
     {
+      "id": "3b050031-a091-40c3-a24a-503fdee2a092",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "female",
       "id": "3c08d771-4cb0-4d08-a5df-01f38ebb0a91",
       "identifiers": [
@@ -6231,7 +6241,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -13901,6 +13911,16 @@
       "name": "Collantes, Ma. Theresa V."
     },
     {
+      "id": "daf2d671-f1ee-462b-bac8-909a189a0c56",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "gender": "male",
       "id": "dccf7f27-eada-4563-85df-7cbf7a77da22",
       "identifiers": [
@@ -16717,6 +16737,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -18497,6 +18522,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=amante-e"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "3b050031-a091-40c3-a24a-503fdee2a092",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
@@ -23092,6 +23129,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=collantes-mt"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "daf2d671-f1ee-462b-bac8-909a189a0c56",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
