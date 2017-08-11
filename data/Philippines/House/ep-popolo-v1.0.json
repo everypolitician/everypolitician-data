@@ -3827,6 +3827,16 @@
       "name": "Dy, Napoleon S."
     },
     {
+      "id": "39dc53e1-5120-4423-8235-6566fb2cc222",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "id": "3a13887f-cbb4-43d0-bc6a-fc642f419ba5",
       "image": "http://www.congress.gov.ph/members/images/17th/suansing-h.jpg",
       "images": [
@@ -6207,6 +6217,16 @@
       "name": "Mendoza, Raymond Democrito C."
     },
     {
+      "id": "5bfcfc8d-cec8-4cb6-8016-f51353584639",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "male",
       "id": "5cc14f4c-42a1-4692-949a-8d7dae8e6b87",
       "identifiers": [
@@ -6231,7 +6251,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -16717,6 +16737,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -18436,6 +18461,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "39dc53e1-5120-4423-8235-6566fb2cc222",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
+        }
+      ]
+    },
+    {
       "area_id": "area/sultan_kudarat,_2nd_district",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/unknown",
@@ -19428,6 +19465,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=mendoza.rd"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "5bfcfc8d-cec8-4cb6-8016-f51353584639",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
