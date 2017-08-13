@@ -6231,7 +6231,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -13451,6 +13451,16 @@
       "name": "Enverga, Anna Katrina \"Trina\" M."
     },
     {
+      "id": "cfcc3cf1-865c-4c7a-8cc6-6c1ac0c7a67d",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "birth_date": "1942-05-01",
       "gender": "male",
       "id": "d1b50722-4eab-4476-9c05-3203d1bbd899",
@@ -14199,6 +14209,16 @@
         }
       ],
       "name": "Nava, Pablo III Roces"
+    },
+    {
+      "id": "e0b023d1-2971-477e-990c-aa1b3a0968e7",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
     },
     {
       "gender": "male",
@@ -16714,6 +16734,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -22842,6 +22867,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "cfcc3cf1-865c-4c7a-8cc6-6c1ac0c7a67d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
+        }
+      ]
+    },
+    {
       "area_id": "area/albay,_1st_district",
       "legislative_period_id": "term/16",
       "on_behalf_of_id": "party/unknown",
@@ -23283,6 +23320,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=nava-p"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "e0b023d1-2971-477e-990c-aa1b3a0968e7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
