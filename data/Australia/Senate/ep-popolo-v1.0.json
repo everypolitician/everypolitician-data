@@ -9404,7 +9404,7 @@
       "sort_name": "McGauran, Julian"
     },
     {
-      "birth_date": "1948",
+      "birth_date": "1948-03-17",
       "family_name": "Dunn",
       "gender": "female",
       "given_name": "Patricia",
@@ -18692,6 +18692,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "92771137",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q964840",
           "scheme": "wikidata"
         }
@@ -19509,6 +19513,12 @@
     },
     {
       "birth_date": "1944-12-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BobBrownFndn"
+        }
+      ],
       "family_name": "Brown",
       "gender": "male",
       "given_name": "Bob",
@@ -19629,6 +19639,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/鮑伯·布朗"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BobBrownFndn"
         }
       ],
       "name": "Bob Brown",
@@ -21643,14 +21657,23 @@
     },
     {
       "birth_date": "1928-11-16",
+      "death_date": "2017-08-09",
       "family_name": "Giles",
       "gender": "female",
       "given_name": "Patricia",
       "id": "f64b3f40-8933-459e-b618-8a37e6661dad",
       "identifiers": [
         {
+          "identifier": "n2010037443",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10256",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "122336576",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q16090810",
