@@ -260,7 +260,43 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P768": "Q16541792"
+      }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president (of NATO Parliamentary Assembly)",
+      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "qualifiers": {
+        "P642": "NATO Parliamentary Assembly",
+        "P580": "2016-11-19",
+        "P1365": "Mike Turner"
+      }
+    },
+    {
+      "id": "Q3687266",
+      "label": "member of City Council",
+      "title": "member of City Council",
+      "description": "in Italy, one of the members of a City Council",
+      "qualifiers": {
+        "P580": "1993",
+        "P582": "2000-06",
+        "P276": "Legnano"
+      }
+    },
+    {
+      "id": "Q42178",
+      "label": "vice president",
+      "title": "vice president (of NATO Parliamentary Assembly)",
+      "description": "officer in government or business",
+      "qualifiers": {
+        "P642": "NATO Parliamentary Assembly",
+        "P580": "2014-11-24",
+        "P582": "2016-11-19"
+      }
     }
   ],
   "Q3615909": [
