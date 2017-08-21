@@ -1,4 +1,4 @@
-id,position,label,description,start_date,replaces,term,constituency,end_date,replaced_by,of
+id,position,label,description,start_date,replaces,constituency,of,end_date,term,replaced_by
 Q10279154,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q10359276,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1051169,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -6,26 +6,26 @@ Q1055165,Q18558478,member of the Chamber of Deputies of the Italian Republic,dep
 Q1055165,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q1055202,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1055202,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2004,,,,2008,,
-Q1055449,Q1553195,party leader,leading official of a political party,2012-06-02,,,,2015-11-21,,Lega Lombarda
+Q1055449,Q1553195,party leader,leading official of a political party,2012-06-02,,,Lega Lombarda,2015-11-21,,
 Q1055449,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2008-04-22,"",,,2009-07-13,,
-Q1055449,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2013-03-06,"",,,2013-03-15,Marco Rondini,
+Q1055449,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2013-03-06,"",,,2013-03-15,,Marco Rondini
 Q1055449,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2004-07-21,,,,2006-04-26,,
-Q1055449,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2009-07-14,,,Northwest Italy,2014-06-30,,
+Q1055449,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2009-07-14,,Northwest Italy,,2014-06-30,,
 Q1055449,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2014-07-01,,,,"",,
-Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1993-07-20,,,,1997-05-12,,Milan
-Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1999-05-10,,,,2001-05-14,,Milan
-Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2001-05-24,,,,2006-05-30,,Milan
-Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2006-06-09,,,,2011-05-15,,Milan
-Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2011-06-10,,,,2012-10-10,,Milan
-Q1055449,Q3954360,federal secretary,"",2013-12-15,Roberto Maroni,,,2017-05-21,,Northern League
+Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1993-07-20,,,Milan,1997-05-12,,
+Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1999-05-10,,,Milan,2001-05-14,,
+Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2001-05-24,,,Milan,2006-05-30,,
+Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2006-06-09,,,Milan,2011-05-15,,
+Q1055449,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2011-06-10,,,Milan,2012-10-10,,
+Q1055449,Q3954360,federal secretary,"",2013-12-15,Roberto Maroni,,Northern League,2017-05-21,,
 Q1060314,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1060314,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q106446,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1071031,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2001-05-30,,,,2006-04-27,,
 Q1071031,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2006-04-28,,,,2008-04-28,,
 Q1071031,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2008-04-29,,,,2013-03-14,,
-Q1071031,Q25514257,Minister of Communications,Italian minister,2006-05-17,Mario Landolfi,,,2008-05-08,"",
-Q1071031,Q27991492,Minister of Foreign Affairs,Italian minister,2014-10-31,Federica Mogherini,,,2016-12-12,Angelino Alfano,
+Q1071031,Q25514257,Minister of Communications,Italian minister,2006-05-17,Mario Landolfi,,,2008-05-08,,""
+Q1071031,Q27991492,Minister of Foreign Affairs,Italian minister,2014-10-31,Federica Mogherini,,,2016-12-12,,Angelino Alfano
 Q1071031,Q796897,Prime Minister of Italy,head of government of the Italian Republic,2016-12-12,Matteo Renzi,,,,,
 Q1071053,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1071082,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -40,6 +40,7 @@ Q11703835,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q12016223,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q12112673,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q12132390,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
+Q12132390,Q3721646,"Minister of Education, Universities and Research",Italian minister of education,2013-04-28,Francesco Profumo,,,2014-02-22,,Stefania Giannini
 Q12467290,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q13400951,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q13405623,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -256,6 +257,9 @@ Q15976352,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q15976360,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16163302,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16164768,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
+Q16164768,Q30461,president,"leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",2016-11-19,Mike Turner,,NATO Parliamentary Assembly,,,
+Q16164768,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1993,,,,2000-06,,
+Q16164768,Q42178,vice president,officer in government or business,2014-11-24,,,NATO Parliamentary Assembly,2016-11-19,,
 Q16165860,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16167433,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16268176,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -329,8 +333,8 @@ Q16551704,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q16552061,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2013-03-05,,,,,,
 Q16552061,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,
 Q16552184,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q16552184,Q25712839,party chief representative,"",2015-02-08,Stefania Giannini,,,2016-07-14,,Civic Choice
-Q16552184,Q388338,treasurer,person responsible for running the treasury of an organization,"",,,,,,Future Italy
+Q16552184,Q25712839,party chief representative,"",2015-02-08,Stefania Giannini,,Civic Choice,2016-07-14,,
+Q16552184,Q388338,treasurer,person responsible for running the treasury of an organization,"",,,Future Italy,,,
 Q16552217,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16554147,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16554327,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -376,7 +380,7 @@ Q16571308,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q16571337,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16571889,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16571993,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q16572359,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2013,,17th Legislature of Italy,,,,
+Q16572359,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2013,,,,,17th Legislature of Italy,
 Q16573508,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16573514,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16573834,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -413,7 +417,7 @@ Q16578742,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q16578823,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16581753,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16582388,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q16582388,Q25712839,party chief representative,"",2017-02-19,"",,,,,Sinistra Italiana
+Q16582388,Q25712839,party chief representative,"",2017-02-19,"",,Sinistra Italiana,,,
 Q16582595,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16586786,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q16586827,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -450,7 +454,7 @@ Q17438822,Q18558478,member of the Chamber of Deputies of the Italian Republic,de
 Q181794,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1876572,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1880844,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q1880844,Q658082,Italian Minister of Agriculture,position,2011-11-16,Francesco Saverio Romano,,,2013-03-16,Nunzia De Girolamo,
+Q1880844,Q658082,Italian Minister of Agriculture,position,2011-11-16,Francesco Saverio Romano,,,2013-03-16,,Nunzia De Girolamo
 Q19279914,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q1930012,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q19361754,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -464,19 +468,19 @@ Q2246893,Q27169,member of the European Parliament,person who has been elected to
 Q229967,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q2573947,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q2573947,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
-Q2573947,Q3708847,Department of Public Administration and Innovation,Italian government department,2008-05-08,Luigi Nicolais,,,2011-11-16,Filippo Patroni Griffi,
+Q2573947,Q3708847,Department of Public Administration and Innovation,Italian government department,2008-05-08,Luigi Nicolais,,,2011-11-16,,Filippo Patroni Griffi
 Q2595856,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q266651,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q28070590,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,17th Legislature of Italy,,,,
+Q28070590,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,17th Legislature of Italy,
 Q3059585,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3081082,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3081082,Q658082,Italian Minister of Agriculture,position,2011-03-23,Giancarlo Galan,,,2011-11-23,Mario Catania,
-Q3119274,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2013-05-11,Pier Luigi Bersani,,,2013-12-15,Matteo Renzi,
-Q3119274,Q15355884,General Secretary of the CGIL,leader of the CGIL trade union of Italy,2002-09-12,Sergio Cofferati,,,2010-11-03,Susanna Camusso,
+Q3081082,Q658082,Italian Minister of Agriculture,position,2011-03-23,Giancarlo Galan,,,2011-11-23,,Mario Catania
+Q3119274,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2013-05-11,Pier Luigi Bersani,,,2013-12-15,,Matteo Renzi
+Q3119274,Q15355884,General Secretary of the CGIL,leader of the CGIL trade union of Italy,2002-09-12,Sergio Cofferati,,,2010-11-03,,Susanna Camusso
 Q3119274,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3119274,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q327946,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q327946,Q24198253,Mayor of Trento,"",1990-06-15,Adriano Goio,,,1998-10-02,Alberto Pacher,
+Q327946,Q24198253,Mayor of Trento,"",1990-06-15,Adriano Goio,,,1998-10-02,,Alberto Pacher
 Q327946,Q3911095,Governor of Trentino,Wikimedia list article,1999,,,,2012,,
 Q3301763,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3301763,Q18683546,president of Sardinia,"","",,,,,,
@@ -497,9 +501,9 @@ Q3610182,Q18558478,member of the Chamber of Deputies of the Italian Republic,dep
 Q3610441,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3610441,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q3615834,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3615909,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,15th Legislature of Italy,,,,
+Q3615909,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,15th Legislature of Italy,
 Q3615909,Q25973167,Minister of Justice,Italian minister,2014-02-22,Annamaria Cancellieri,,,,,
-Q3615909,Q32137240,,"",2013-04-28,Corrado Clini,,,2014-02-22,Gian Luca Galletti,
+Q3615909,Q32137240,,"",2013-04-28,Corrado Clini,,,2014-02-22,,Gian Luca Galletti
 Q3615909,Q3625593,Assessor,member of a Giunta,1997,,,,"",,
 Q3615909,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1990,,,,"",,
 Q3616000,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -534,8 +538,8 @@ Q3701956,Q18558478,member of the Chamber of Deputies of the Italian Republic,dep
 Q3702009,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3702604,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3703513,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3703642,Q1255921,president,non-political office (administrative) of an organization,2004-06-13,,,,2009-06-21,,Province of Venice
-Q3703642,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,17th Legislature of Italy
+Q3703642,Q1255921,president,non-political office (administrative) of an organization,2004-06-13,,,Province of Venice,2009-06-21,,
+Q3703642,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,17th Legislature of Italy,,,
 Q3703642,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,
 Q3713683,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3713696,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -546,10 +550,10 @@ Q3721400,Q18558478,member of the Chamber of Deputies of the Italian Republic,dep
 Q3723060,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3723755,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3723925,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3725703,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,15th Legislature of Italy,,,,
-Q3725703,Q33125109,Italian Minister of Regional Affairs and Autonomies,"",2016-01-29,Maria Carmela Lanzetta,,,2017-07-19,Paolo Gentiloni,
+Q3725703,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,15th Legislature of Italy,
+Q3725703,Q33125109,Italian Minister of Regional Affairs and Autonomies,"",2016-01-29,Maria Carmela Lanzetta,,,2017-07-19,,Paolo Gentiloni
 Q3725703,Q3687266,member of City Council,"in Italy, one of the members of a City Council",2004,,,,"",,
-Q3725703,Q4011107,,"",2014-02-28,,,,2016-01-29,,Minister of Justice
+Q3725703,Q4011107,,"",2014-02-28,,,Minister of Justice,2016-01-29,,
 Q3725786,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3725786,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q3732005,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -560,9 +564,9 @@ Q3737980,Q13653224,member of the Italian Senate,"","",,,,,,
 Q3737980,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3738016,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3740400,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3740400,Q6501749,general secretary,leader or chief officer of an organisation,2008-11-21,"",,,2014-07-20,Andrea Baldini,Young Democrats
+Q3740400,Q6501749,general secretary,leader or chief officer of an organisation,2008-11-21,"",,Young Democrats,2014-07-20,,Andrea Baldini
 Q3741557,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q3741557,Q27991492,Minister of Foreign Affairs,Italian minister,2014-02-22,Emma Bonino,,,2014-10-31,Paolo Gentiloni,
+Q3741557,Q27991492,Minister of Foreign Affairs,Italian minister,2014-02-22,Emma Bonino,,,2014-10-31,,Paolo Gentiloni
 Q3741557,Q634291,High Representative of the Union for Foreign Affairs and Security Policy,Official of the European Union,2014-12-01,Catherine Ashton,,,,,
 Q3742537,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3745295,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -653,13 +657,13 @@ Q3860820,Q30185,mayor,head of municipal government such as a town or city,"",,,,
 Q3876096,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3879474,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3879474,Q782620,"Ministry of Agricultural, Food and Forestry Policies",agriculture ministry of Italy,"",,,,,,
-Q3879474,Q782620,"Ministry of Agricultural, Food and Forestry Policies",agriculture ministry of Italy,2014-03-05,Mario Catania,,,2015-04-05,Enrico Letta,
-Q388442,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2009-02-21,Walter Veltroni,,,2009-11-07,Pier Luigi Bersani,
+Q3879474,Q782620,"Ministry of Agricultural, Food and Forestry Policies",agriculture ministry of Italy,2014-03-05,Mario Catania,,,2015-04-05,,Enrico Letta
+Q388442,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2009-02-21,Walter Veltroni,,,2009-11-07,,Pier Luigi Bersani
 Q388442,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3893547,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3893794,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3894052,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2008,,,,,,
-Q3894052,Q30185,mayor,head of municipal government such as a town or city,1998,Piero Floriani,,,2008,Marco Filippeschi,
+Q3894052,Q30185,mayor,head of municipal government such as a town or city,1998,Piero Floriani,,,2008,,Marco Filippeschi
 Q3894136,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3894431,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q3894445,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -705,20 +709,21 @@ Q459645,Q18558478,member of the Chamber of Deputies of the Italian Republic,depu
 Q459670,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q466489,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q466712,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
+Q466712,Q3721646,"Minister of Education, Universities and Research",Italian minister of education,2008-05-08,Giuseppe Fioroni,,,2011-11-16,,Francesco Profumo
 Q466836,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q466836,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q4755010,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q47556,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2009-11-07,Dario Franceschini,,,2013-04-20,Guglielmo Epifani,
-Q47556,Q15355639,President of Emilia-Romagna,president of the Emilia-Romagna region of Italy,1993-07-06,Enrico Boselli,,,1996-05-17,Antonio La Forgia,
+Q47556,Q15309742,Secretary of the Democratic Party,leader of the Democratic Party of Italy,2009-11-07,Dario Franceschini,,,2013-04-20,,Guglielmo Epifani
+Q47556,Q15355639,President of Emilia-Romagna,president of the Emilia-Romagna region of Italy,1993-07-06,Enrico Boselli,,,1996-05-17,,Antonio La Forgia
 Q47556,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2001-05-30,,,,2004-07-19,,
 Q47556,Q27169,member of the European Parliament,person who has been elected to the European Parliament,2004,,,,2006-05,,
-Q47556,Q27991508,Minister of Economic Development,Italian minister,1996-05-17,Alberto Clò,,,1999-12-22,Enrico Letta,
-Q47556,Q27991508,Minister of Economic Development,Italian minister,2006-05-17,Claudio Scajola,,,2008-05-08,Claudio Scajola,
-Q47556,Q6092845,Italian Minister of Transports and Infrastructures,member of the Cabinet of the Italian Republic,1999-12-22,Tiziano Treu,,,2001-06-11,Pietro Lunardi,
+Q47556,Q27991508,Minister of Economic Development,Italian minister,1996-05-17,Alberto Clò,,,1999-12-22,,Enrico Letta
+Q47556,Q27991508,Minister of Economic Development,Italian minister,2006-05-17,Claudio Scajola,,,2008-05-08,,Claudio Scajola
+Q47556,Q6092845,Italian Minister of Transports and Infrastructures,member of the Cabinet of the Italian Republic,1999-12-22,Tiziano Treu,,,2001-06-11,,Pietro Lunardi
 Q47832,Q13653224,member of the Italian Senate,"","",,,,,,
-Q47832,Q1553195,party leader,leading official of a political party,"",,,,,,Northern League
+Q47832,Q1553195,party leader,leading official of a political party,"",,,Northern League,,,
 Q47832,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q47832,Q23554157,Minister of Federal Reforms,Italian cabinet position,2001-06-11,Antonio Maccanico,,,2004-07-19,Roberto Calderoli,
+Q47832,Q23554157,Minister of Federal Reforms,Italian cabinet position,2001-06-11,Antonio Maccanico,,,2004-07-19,,Roberto Calderoli
 Q47832,Q23554157,Minister of Federal Reforms,Italian cabinet position,2008-05-08,Vannino Chiti,,,2011-11-16,,
 Q47832,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q507595,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -727,7 +732,7 @@ Q517161,Q18558478,member of the Chamber of Deputies of the Italian Republic,depu
 Q517161,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q535055,Q1541071,Italian Minister of the Interior,position,2013-04-28,Annamaria Cancellieri,,,"",,
 Q535055,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,2001-05-30,,,,"",,
-Q535055,Q25973167,Minister of Justice,Italian minister,2008-05-08,Luigi Scotti,,,2011-07-27,Nitto Francesco Palma,
+Q535055,Q25973167,Minister of Justice,Italian minister,2008-05-08,Luigi Scotti,,,2011-07-27,,Nitto Francesco Palma
 Q535055,Q4011164,Vice President of the Council of Ministers of Italy,"",2013-04-28,,,,2014-02-21,,
 Q5384798,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q540403,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
@@ -749,25 +754,26 @@ Q6508991,Q18558478,member of the Chamber of Deputies of the Italian Republic,dep
 Q659163,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q674957,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q674957,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
-Q674957,Q3965289,Undersecretary to the Presidency of the Council,"",2006-05-17,Gianni Letta,,,2008-05-08,Gianni Letta,
-Q674957,Q782620,"Ministry of Agricultural, Food and Forestry Policies",agriculture ministry of Italy,2014-01-27,Nunzia De Girolamo,,,2014-02-22,Maurizio Martina,
-Q674957,Q796897,Prime Minister of Italy,head of government of the Italian Republic,2013-04-28,Mario Monti,,,2014-02-21,Matteo Renzi,
+Q674957,Q3965289,Undersecretary to the Presidency of the Council,"",2006-05-17,Gianni Letta,,,2008-05-08,,Gianni Letta
+Q674957,Q782620,"Ministry of Agricultural, Food and Forestry Policies",agriculture ministry of Italy,2014-01-27,Nunzia De Girolamo,,,2014-02-22,,Maurizio Martina
+Q674957,Q796897,Prime Minister of Italy,head of government of the Italian Republic,2013-04-28,Mario Monti,,,2014-02-21,,Matteo Renzi
 Q7000506,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q7001739,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q7132262,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q7217712,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q730910,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q730910,Q30185,mayor,head of municipal government such as a town or city,"",,,,,,
+Q730910,Q34153264,Minister of Education,Italian education minister,2006-05-17,Letizia Moratti,,,2008-05-08,,Mariastella Gelmini
 Q730966,Q1347047,Ministry of Cultural Heritage and Activities and Tourism,Italian ministry,"",,,,,,
 Q730966,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q730966,Q658082,Italian Minister of Agriculture,position,2010-04-16,Luca Zaia,,,2011-03-16,Francesco Saverio Romano,
-Q730966,Q7241299,President of Veneto,"",1995-04-23,,,,2010-04-21,Luca Zaia,
+Q730966,Q658082,Italian Minister of Agriculture,position,2010-04-16,Luca Zaia,,,2011-03-16,,Francesco Saverio Romano
+Q730966,Q7241299,President of Veneto,"",1995-04-23,,,,2010-04-21,,Luca Zaia
 Q7484547,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q762411,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
-Q762411,Q25711700,President of Piedmont,"",2010-03-30,Mercedes Bresso,,,2014-05-26,Sergio Chiamparino,
-Q762411,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1993-06-23,,,,1997-05-12,,Novara
-Q762411,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1997-05-12,,,,2000-09-05,,Novara
-Q762411,Q766504,undersecretary,executive government official in many countries,2004-12-30,Aniello Palumbo,,,2006-05-17,Alfonso Gianni,Ministry of Economic Development
+Q762411,Q25711700,President of Piedmont,"",2010-03-30,Mercedes Bresso,,,2014-05-26,,Sergio Chiamparino
+Q762411,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1993-06-23,,,Novara,1997-05-12,,
+Q762411,Q3687266,member of City Council,"in Italy, one of the members of a City Council",1997-05-12,,,Novara,2000-09-05,,
+Q762411,Q766504,undersecretary,executive government official in many countries,2004-12-30,Aniello Palumbo,,Ministry of Economic Development,2006-05-17,,Alfonso Gianni
 Q763148,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
 Q763148,Q27169,member of the European Parliament,person who has been elected to the European Parliament,"",,,,,,
 Q784785,Q18558478,member of the Chamber of Deputies of the Italian Republic,deputy in the lower house of the Parliament of Italy,"",,,,,,
