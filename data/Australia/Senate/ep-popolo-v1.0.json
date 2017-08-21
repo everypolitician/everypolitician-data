@@ -9404,7 +9404,7 @@
       "sort_name": "McGauran, Julian"
     },
     {
-      "birth_date": "1948",
+      "birth_date": "1948-03-17",
       "family_name": "Dunn",
       "gender": "female",
       "given_name": "Patricia",
@@ -11463,6 +11463,10 @@
           "url": "https://fr.wikipedia.org/wiki/Pauline_Hanson"
         },
         {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/פאולין_הנסון"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/ポーリン・ハンソン"
         },
@@ -11516,6 +11520,11 @@
         {
           "lang": "fr",
           "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "פאולין הנסון",
           "note": "multilingual"
         },
         {
@@ -16130,6 +16139,10 @@
           "url": "https://he.wikipedia.org/wiki/ברנבי_ג'ויס"
         },
         {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/バーナビー・ジョイス"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/바너비_조이스"
         },
@@ -16185,6 +16198,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ga",
+          "name": "Barnaby Joyce",
+          "note": "multilingual"
+        },
+        {
           "lang": "he",
           "name": "ברנבי ג'ויס",
           "note": "multilingual"
@@ -16202,6 +16220,11 @@
         {
           "lang": "ko",
           "name": "바너비 조이스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mi",
+          "name": "Barnaby Joyce",
           "note": "multilingual"
         },
         {
@@ -18692,6 +18715,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "92771137",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q964840",
           "scheme": "wikidata"
         }
@@ -19509,6 +19536,12 @@
     },
     {
       "birth_date": "1944-12-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BobBrownFndn"
+        }
+      ],
       "family_name": "Brown",
       "gender": "male",
       "given_name": "Bob",
@@ -19629,6 +19662,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/鮑伯·布朗"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BobBrownFndn"
         }
       ],
       "name": "Bob Brown",
@@ -19979,6 +20016,7 @@
     },
     {
       "birth_date": "1936-11-04",
+      "death_date": "2017-08-15",
       "family_name": "Gibson",
       "gender": "male",
       "given_name": "Brian",
@@ -21643,14 +21681,23 @@
     },
     {
       "birth_date": "1928-11-16",
+      "death_date": "2017-08-09",
       "family_name": "Giles",
       "gender": "female",
       "given_name": "Patricia",
       "id": "f64b3f40-8933-459e-b618-8a37e6661dad",
       "identifiers": [
         {
+          "identifier": "n2010037443",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10256",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "122336576",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q16090810",
