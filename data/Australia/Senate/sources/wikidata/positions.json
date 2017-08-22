@@ -1137,7 +1137,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "1996-07-01",
+        "P582": "2008-06-30"
+      }
     }
   ],
   "Q14201517": [
@@ -1940,7 +1945,8 @@
         "P768": "Pearce",
         "P580": "1990-03-24",
         "P582": "1993-02-08",
-        "P1366": "Judi Moylan"
+        "P1366": "Judi Moylan",
+        "P1365": ""
       }
     }
   ],
@@ -3602,7 +3608,14 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Tasmania",
+        "P580": "1993-07-01",
+        "P582": "2002-02-22",
+        "P1366": "Guy Barnett",
+        "P2715": "Australian federal election, 1993"
+      }
     }
   ],
   "Q27450592": [
@@ -3658,7 +3671,8 @@
         "P768": "Western Australia",
         "P580": "2009-03-12",
         "P1365": "Chris Ellison",
-        "P582": "2017-07-31"
+        "P582": "2017-07-31",
+        "P1366": "Slade Brockman"
       }
     }
   ],
