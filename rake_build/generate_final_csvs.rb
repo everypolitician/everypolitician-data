@@ -11,10 +11,18 @@ namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: 'ep-popolo-v1.0.json' do
     @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
-    view = EveryPolitician::Dataview::Terms.new(popolo: @popolo)
-    view.terms.each do |term|
+    terms = EveryPolitician::Dataview::Terms.new(popolo: @popolo).terms
+    terms.each do |term|
       path = Pathname.new('term-%s.csv' % term.id)
       path.write(term.as_csv)
+
+      # TODO: make this a separate task
+      next unless term.id == terms.last.id
+      latest = Pathname.new('unstable/latest.csv')
+      csv = CSV.table(path).delete_if { |r| r[:end_date] }.tap do |t|
+        %i[chamber end_date].each { |col| t.delete(col) }
+      end
+      latest.write(csv.to_s)
     end
   end
 
