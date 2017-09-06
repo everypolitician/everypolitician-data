@@ -4,6 +4,11 @@
   ],
   "persons": [
     {
+      "birth_date": "1957-11-12",
+      "id": "01071a95-46a0-4992-a178-6425fb3be6d4",
+      "name": "Ivan Šuker"
+    },
+    {
       "birth_date": "1958-01-10",
       "gender": "female",
       "id": "03674614-a527-4841-a30c-c6ae73fbaae6",
@@ -269,6 +274,11 @@
       "name": "Damir Tomić"
     },
     {
+      "birth_date": "1980-12-19",
+      "id": "0dc6395d-cb52-4337-8294-a51fae357d91",
+      "name": "Stjepan Čuraj"
+    },
+    {
       "birth_date": "1961-02-01",
       "gender": "male",
       "id": "0de708af-3d0a-4f09-b30c-be14d6281a9f",
@@ -467,18 +477,6 @@
         }
       ],
       "name": "Ivan Radić"
-    },
-    {
-      "birth_date": "1977-11-30",
-      "gender": "male",
-      "id": "1513aec9-b4a9-4b3c-9a51-6907d8e1fa43",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19637",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19637"
-        }
-      ],
-      "name": "Dan Špicer"
     },
     {
       "birth_date": "1959-10-14",
@@ -1456,10 +1454,10 @@
       "birth_date": "1976-04-09",
       "gender": "male",
       "id": "34762a60-4bdd-42bf-b41e-6a519cc89eae",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19820",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44499",
       "images": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19820"
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44499"
         }
       ],
       "name": "Zoran Vasić"
@@ -2080,6 +2078,11 @@
         }
       ],
       "name": "Biljana Borzan"
+    },
+    {
+      "birth_date": "1966-05-26",
+      "id": "419a40e3-84b7-45b4-b8ba-5724a93e8441",
+      "name": "Ante Babić"
     },
     {
       "birth_date": "1971-04-17",
@@ -3779,92 +3782,6 @@
       "name": "Marijan Škvarić"
     },
     {
-      "birth_date": "1956-04-14",
-      "death_date": "2012-09-30",
-      "gender": "male",
-      "given_name": "Boris",
-      "id": "6be28657-a6f3-4dae-b0cf-1758a8220cdc",
-      "identifiers": [
-        {
-          "identifier": "/m/0hrh0y6",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q893812",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19640",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19640"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Boris_Sprem_Zagreb_15012012_2.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Шпрем,_Борис"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Boris_Šprem"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Борис_Шпрем"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Борис_Шпрем"
-        }
-      ],
-      "name": "Boris Šprem",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Шпрем, Борис",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Борис Шпрем",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Борис Шпрем",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1961-06-20",
       "contact_details": [
         {
@@ -4627,76 +4544,6 @@
         }
       ],
       "name": "Ante Babić"
-    },
-    {
-      "birth_date": "1958-05-10",
-      "gender": "female",
-      "id": "834c2f77-f730-4ef8-82c3-12f1ae43953a",
-      "identifiers": [
-        {
-          "identifier": "119431",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "/m/0gmcml3",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q1260118",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19647",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19647"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Croatian_part-_Citizens’_Corner_debate_on_EU_policies_for_asylum_seekers_and_immigrants_(18432278524)_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Ruža_Tomašić"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Ружа_Томашич"
-        }
-      ],
-      "name": "Ruža Tomašić",
-      "other_names": [
-        {
-          "lang": "uk",
-          "name": "Ружа Томашич",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1972-03-11",
@@ -5716,18 +5563,6 @@
       "name": "Ines Strenja-Linić"
     },
     {
-      "birth_date": "1975-06-19",
-      "gender": "female",
-      "id": "99d435eb-8baf-4e02-a807-f1e750a8747b",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=24987",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=24987"
-        }
-      ],
-      "name": "Marijana Živko"
-    },
-    {
       "birth_date": "1979-11-17",
       "gender": "male",
       "id": "9a8d2c32-492a-4fcc-98d3-73beb9a9357e",
@@ -5756,18 +5591,6 @@
         }
       ],
       "name": "Milorad Batinić"
-    },
-    {
-      "birth_date": "1966-01-30",
-      "gender": "male",
-      "id": "9aa54cc6-119c-4db6-bf75-8d6db1446522",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19653",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19653"
-        }
-      ],
-      "name": "Zoran Vinković"
     },
     {
       "birth_date": "1969-04-26",
@@ -5828,6 +5651,17 @@
         }
       ],
       "name": "Martina Dalić"
+    },
+    {
+      "birth_date": "1975-02-10",
+      "id": "9d7d36f5-2c61-49b4-aaaa-3c6cb8627455",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44557",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44557"
+        }
+      ],
+      "name": "Marijan Kustić"
     },
     {
       "birth_date": "1966-02-22",
@@ -6005,129 +5839,6 @@
       "name": "Ermina Lekaj Prljaskaj"
     },
     {
-      "birth_date": "1943-01-01",
-      "gender": "male",
-      "given_name": "Vladimir",
-      "id": "a401d214-8599-41ec-8c18-6a917582d457",
-      "identifiers": [
-        {
-          "identifier": "270725",
-          "scheme": "fast"
-        },
-        {
-          "identifier": "/m/0h7yy_",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "130652733",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "0000 0000 5526 4485",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "nr90009959",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "110019792",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "33111292",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q1274758",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19633",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19633"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Vladimir_Šeks_2009.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (bswikiquote)",
-          "url": "https://bswikiquote.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (ca)",
-          "url": "https://ca.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (fa)",
-          "url": "https://fa.wikipedia.org/wiki/ولادیمیر_شکس"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Шекс,_Владимир"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Vladimir_Šeks"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Владимир_Шекс"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Владимир_Шекс"
-        }
-      ],
-      "name": "Vladimir Šeks",
-      "other_names": [
-        {
-          "lang": "fa",
-          "name": "ولادیمیر شکس",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Шекс, Владимир",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Владимир Шекс",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr-ec",
-          "name": "Владимир Шекс",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Владимир Шекс",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1979-04-06",
       "gender": "male",
       "id": "a47bf4ac-1f8b-4668-a70c-c100f131b9a1",
@@ -6224,6 +5935,11 @@
         }
       ],
       "name": "Marko Šimić"
+    },
+    {
+      "birth_date": "1984-01-16",
+      "id": "a6fa63b2-ff68-4933-af2a-cea6855d0ea1",
+      "name": "Ante Bačić"
     },
     {
       "birth_date": "1972-03-13",
@@ -6358,18 +6074,6 @@
       "name": "Ivan Klarin"
     },
     {
-      "birth_date": "1958-09-18",
-      "gender": "female",
-      "id": "afdc852e-ed32-4486-8fca-6b3fd834d317",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19822",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19822"
-        }
-      ],
-      "name": "Marija Vukobratović"
-    },
-    {
       "birth_date": "1950-01-15",
       "gender": "female",
       "id": "b096cd51-e9a0-4815-83cb-4a7b4a3af0ce",
@@ -6386,6 +6090,11 @@
         }
       ],
       "name": "Ljiljana Cvjetović"
+    },
+    {
+      "birth_date": "1972-01-06",
+      "id": "b12ce928-262f-4ea0-b51b-bdcb4de35d74",
+      "name": "Davor Ivo Stier"
     },
     {
       "birth_date": "1958-05-09",
@@ -6760,15 +6469,9 @@
       "name": "Svjetlana Lazić"
     },
     {
-      "birth_date": "1967-05-22",
-      "id": "b98fd603-cf71-4b9b-8a98-42f4bff11c0c",
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47057&sp=170x219",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47057&sp=170x219"
-        }
-      ],
-      "name": "Andro Krstulović Opara"
+      "birth_date": "1976-07-08",
+      "id": "bb6e9084-b569-4a5d-829a-8e2d19a6cec7",
+      "name": "Dragana Jeckov"
     },
     {
       "birth_date": "1961-12-27",
@@ -7043,6 +6746,11 @@
       "name": "Tomislav Saucha"
     },
     {
+      "birth_date": "1988-02-03",
+      "id": "c3c628ad-599c-47ae-912c-f927ac492c54",
+      "name": "Domagoj Mikulić"
+    },
+    {
       "birth_date": "1955-10-15",
       "gender": "male",
       "id": "c7005bf9-06ad-4ebf-8e21-73abcdb1af07",
@@ -7077,121 +6785,6 @@
         }
       ],
       "name": "Ivan Račan"
-    },
-    {
-      "birth_date": "1972-01-06",
-      "gender": "male",
-      "given_name": "Davor",
-      "id": "c84d1b28-e9f0-4071-b25d-8a22d3f0c729",
-      "identifiers": [
-        {
-          "identifier": "119435",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "Q12956737",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19643",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19643"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Davor_Ivo_Stier_February_2017_(32903349825).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Davor_Stier"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (enwikiquote)",
-          "url": "https://enwikiquote.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (hrwikiquote)",
-          "url": "https://hrwikiquote.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (ie)",
-          "url": "https://ie.wikipedia.org/wiki/Davor_Stier"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Davor_Ivo_Stier"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Давор_Іво_Штір"
-        }
-      ],
-      "name": "Davor Ivo Stier",
-      "other_names": [
-        {
-          "name": "Davor Stier",
-          "note": "alternate"
-        },
-        {
-          "lang": "de",
-          "name": "Davor Stier",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Davor Stier",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ie",
-          "name": "Davor Stier",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Davor Stier",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Давор Іво Штір",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1953-05-28",
@@ -8001,6 +7594,17 @@
         }
       ],
       "name": "Jaroslav Pecnik"
+    },
+    {
+      "birth_date": "1979-01-22",
+      "id": "d6b6d06e-65f3-49f7-a09b-50d2a14df634",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44566",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44566"
+        }
+      ],
+      "name": "Sanja Putica"
     },
     {
       "birth_date": "1978-01-19",
@@ -8865,110 +8469,6 @@
         }
       ],
       "name": "Ivica Mišić"
-    },
-    {
-      "birth_date": "1958-03-09",
-      "death_date": "2013-05-03",
-      "gender": "male",
-      "given_name": "Branko",
-      "id": "e3464c50-52c6-49e7-b219-aaae1104de52",
-      "identifiers": [
-        {
-          "identifier": "/m/04f1fp_",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q898723",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.sabor.hr/lgs.axd?t=16&id=19821",
-      "images": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=16&id=19821"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Svecanost_podizanja_NATOve_zastave_Zagreb_63.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (fa)",
-          "url": "https://fa.wikipedia.org/wiki/برانکو_ووکلیچ"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Branko_Vukelić_(ministar)"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Вукелич,_Бранко"
-        },
-        {
-          "note": "Wikipedia (sh)",
-          "url": "https://sh.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (sl)",
-          "url": "https://sl.wikipedia.org/wiki/Branko_Vukelić"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Бранко_Вукелич"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/布兰科·武凯利奇"
-        }
-      ],
-      "name": "Branko Vukelić",
-      "other_names": [
-        {
-          "lang": "fa",
-          "name": "برانکو ووکلیچ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Бранко Вукелич",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sr",
-          "name": "Бранко Вукелић",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Бранко Вукелич",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "布兰科·武凯利奇",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "birth_date": "1957-11-12",
@@ -10329,6 +9829,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/glas",
+      "name": "GLAS"
     },
     {
       "classification": "party",
@@ -14174,6 +13679,20 @@
   },
   "memberships": [
     {
+      "area_id": "area/6th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "01071a95-46a0-4992-a178-6425fb3be6d4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7593"
+        }
+      ],
+      "start_date": "2017-06-19"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sdp",
@@ -14441,6 +13960,20 @@
     },
     {
       "area_id": "area/4th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hns",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "0dc6395d-cb52-4337-8294-a51fae357d91",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7584"
+        }
+      ],
+      "start_date": "2017-06-09"
+    },
+    {
+      "area_id": "area/4th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -14613,21 +14146,6 @@
     },
     {
       "area_id": "area/6th",
-      "end_date": "2012-06-19",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "1513aec9-b4a9-4b3c-9a51-6907d8e1fa43",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=5065"
-        }
-      ],
-      "start_date": "2011-12-23"
-    },
-    {
-      "area_id": "area/6th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -14695,7 +14213,7 @@
     {
       "area_id": "area/9th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/most",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "187edb3d-90b4-489b-8873-b10b268a74ba",
       "role": "member",
@@ -15177,7 +14695,7 @@
     {
       "area_id": "area/2nd",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/independent",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "316d8368-73d1-4c92-88d4-f19c32b06d91",
       "role": "member",
@@ -15210,20 +14728,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=5092"
-        }
-      ]
-    },
-    {
-      "area_id": "area/6th",
-      "end_date": "2014-09-11",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "34762a60-4bdd-42bf-b41e-6a519cc89eae",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4861"
         }
       ]
     },
@@ -15525,6 +15029,20 @@
       ]
     },
     {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "419a40e3-84b7-45b4-b8ba-5724a93e8441",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7597"
+        }
+      ],
+      "start_date": "2017-06-19"
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/independent",
@@ -15566,7 +15084,7 @@
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "430ce6bf-ce00-4b42-8d93-338447ce2fb7",
       "role": "member",
@@ -16316,7 +15834,7 @@
     {
       "area_id": "area/6th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "5d57d36c-35f0-4c70-b271-24a4e84af7f0",
       "role": "member",
@@ -16726,20 +16244,6 @@
       "start_date": "2012-03-08"
     },
     {
-      "area_id": "area/2nd",
-      "end_date": "2012-09-30",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "6be28657-a6f3-4dae-b0cf-1758a8220cdc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4953"
-        }
-      ]
-    },
-    {
       "area_id": "area/6th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/dc",
@@ -16912,6 +16416,7 @@
     },
     {
       "area_id": "area/7th",
+      "end_date": "2017-06-29",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -17176,19 +16681,6 @@
       ]
     },
     {
-      "area_id": "area/6th",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "7ba49f4e-7825-42a7-9bf4-1438128341bf",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7136"
-        }
-      ]
-    },
-    {
       "area_id": "area/4th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -17263,19 +16755,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6182"
-        }
-      ]
-    },
-    {
-      "area_id": "area/4th",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "7e6ffb86-4fce-4228-9191-b4cf19d0858c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7191"
         }
       ]
     },
@@ -17396,20 +16875,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=4859"
-        }
-      ]
-    },
-    {
-      "area_id": "area/10th",
-      "end_date": "2014-07-01",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hsp_dr._ante_starčević",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "834c2f77-f730-4ef8-82c3-12f1ae43953a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4959"
         }
       ]
     },
@@ -18104,21 +17569,6 @@
       ]
     },
     {
-      "area_id": "area/4th",
-      "end_date": "2014-05-16",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "99d435eb-8baf-4e02-a807-f1e750a8747b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=5652"
-        }
-      ],
-      "start_date": "2013-07-05"
-    },
-    {
       "area_id": "area/1st",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/unknown",
@@ -18168,20 +17618,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=7106"
-        }
-      ]
-    },
-    {
-      "area_id": "area/4th",
-      "end_date": "2013-09-11",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hdssb",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "9aa54cc6-119c-4db6-bf75-8d6db1446522",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4846"
         }
       ]
     },
@@ -18265,6 +17701,20 @@
         }
       ],
       "start_date": "2011-12-23"
+    },
+    {
+      "area_id": "area/9th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "9d7d36f5-2c61-49b4-aaaa-3c6cb8627455",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7577"
+        }
+      ],
+      "start_date": "2017-06-09"
     },
     {
       "area_id": "area/4th",
@@ -18372,20 +17822,6 @@
       ]
     },
     {
-      "area_id": "area/4th",
-      "end_date": "2015-05-08",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "a401d214-8599-41ec-8c18-6a917582d457",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4945"
-        }
-      ]
-    },
-    {
       "area_id": "area/10th",
       "end_date": "2016-01-30",
       "legislative_period_id": "term/8",
@@ -18440,19 +17876,6 @@
       ]
     },
     {
-      "area_id": "area/9th",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "a607d2ac-7473-4c86-b738-b607e7e1fc9e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7193"
-        }
-      ]
-    },
-    {
       "area_id": "area/5th",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
@@ -18464,6 +17887,20 @@
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=7157"
         }
       ]
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "a6fa63b2-ff68-4933-af2a-cea6855d0ea1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7595"
+        }
+      ],
+      "start_date": "2017-06-19"
     },
     {
       "area_id": "area/7th",
@@ -18589,21 +18026,6 @@
       ]
     },
     {
-      "area_id": "area/2nd",
-      "end_date": "2013-07-19",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/sdp",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "afdc852e-ed32-4486-8fca-6b3fd834d317",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=5359"
-        }
-      ],
-      "start_date": "2012-01-18"
-    },
-    {
       "area_id": "area/7th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hsu",
@@ -18616,6 +18038,19 @@
         }
       ],
       "start_date": "2012-06-15"
+    },
+    {
+      "area_id": "area/7th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "b12ce928-262f-4ea0-b51b-bdcb4de35d74",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7600"
+        }
+      ]
     },
     {
       "area_id": "area/9th",
@@ -18753,6 +18188,7 @@
     },
     {
       "area_id": "area/10th",
+      "end_date": "2017-06-09",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -18819,17 +18255,18 @@
       ]
     },
     {
-      "area_id": "area/10th",
+      "area_id": "area/12th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hdz",
+      "on_behalf_of_id": "party/sdss",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "b98fd603-cf71-4b9b-8a98-42f4bff11c0c",
+      "person_id": "bb6e9084-b569-4a5d-829a-8e2d19a6cec7",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7004"
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7607"
         }
-      ]
+      ],
+      "start_date": "2017-06-30"
     },
     {
       "area_id": "area/8th",
@@ -19018,6 +18455,20 @@
       ]
     },
     {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "c3c628ad-599c-47ae-912c-f927ac492c54",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7581"
+        }
+      ],
+      "start_date": "2017-06-09"
+    },
+    {
       "area_id": "area/10th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/new_wave",
@@ -19043,20 +18494,6 @@
         }
       ],
       "start_date": "2011-12-23"
-    },
-    {
-      "area_id": "area/7th",
-      "end_date": "2014-07-01",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "c84d1b28-e9f0-4071-b25d-8a22d3f0c729",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=4939"
-        }
-      ]
     },
     {
       "area_id": "area/1st",
@@ -19244,6 +18681,7 @@
     },
     {
       "area_id": "area/10th",
+      "end_date": "2017-06-19",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdz",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19593,6 +19031,20 @@
       ]
     },
     {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdz",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "d6b6d06e-65f3-49f7-a09b-50d2a14df634",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7589"
+        }
+      ],
+      "start_date": "2017-06-09"
+    },
+    {
       "area_id": "area/7th",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/sdp",
@@ -19833,6 +19285,7 @@
     },
     {
       "area_id": "area/4th",
+      "end_date": "2017-06-19",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hns",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19887,7 +19340,7 @@
     {
       "area_id": "area/1st",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "dd247e28-04d0-45a6-82c8-b43dcaeae93c",
       "role": "member",
@@ -19979,7 +19432,7 @@
     {
       "area_id": "area/8th",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/sdp",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "e09352ec-d388-43bd-a136-37f63e8b7072",
       "role": "member",
@@ -20042,20 +19495,6 @@
       ]
     },
     {
-      "area_id": "area/7th",
-      "end_date": "2013-05-03",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "party/hdz",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "e3464c50-52c6-49e7-b219-aaae1104de52",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=5116"
-        }
-      ]
-    },
-    {
       "area_id": "area/6th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -20097,7 +19536,7 @@
     {
       "area_id": "area/2nd",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/hns",
+      "on_behalf_of_id": "party/glas",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "person_id": "e5b9eaef-069b-48b5-8e91-8c4b92acdb3d",
       "role": "member",
@@ -20843,19 +20282,6 @@
       "sources": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=24&id=6272"
-        }
-      ]
-    },
-    {
-      "area_id": "area/12th",
-      "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/sdss",
-      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "person_id": "ff1c3b38-8684-4c7a-ab79-8a59a5c2decb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7022"
         }
       ]
     },
