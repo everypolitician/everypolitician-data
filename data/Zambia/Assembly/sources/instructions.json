@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-2016.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/zambia-na-scraper",
+        "query": "SELECT *, 2016 AS term FROM data ORDER BY id"
+      },
+      "source": "http://www.parliament.gov.zm",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2016.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
