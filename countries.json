@@ -11558,12 +11558,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Zambia/Assembly/sources",
         "popolo": "data/Zambia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/978250b8810496107ac98596414204e5bca839be/data/Zambia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/857ceaeb205b1950438517403e1f41d5ee394f31/data/Zambia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zambia/Assembly/names.csv",
-        "lastmod": "1504041576",
-        "person_count": 148,
-        "sha": "978250b8810496107ac98596414204e5bca839be",
+        "lastmod": "1504698099",
+        "person_count": 257,
+        "sha": "857ceaeb205b1950438517403e1f41d5ee394f31",
         "legislative_periods": [
+          {
+            "id": "term/2016",
+            "name": "12th Assembly",
+            "start_date": "2016-09-23",
+            "slug": "2016",
+            "csv": "data/Zambia/Assembly/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/857ceaeb205b1950438517403e1f41d5ee394f31/data/Zambia/Assembly/term-2016.csv"
+          },
           {
             "end_date": "2016-05-11",
             "id": "term/2011",
@@ -11574,7 +11582,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Zambia/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 3988,
+        "statement_count": 5794,
         "type": "unicameral legislature"
       }
     ]
