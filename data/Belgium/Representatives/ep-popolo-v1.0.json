@@ -625,10 +625,15 @@
       "birth_date": "1976-01-15",
       "contact_details": [
         {
+          "type": "email",
+          "value": "zakia.khattabi@ecolo.be"
+        },
+        {
           "type": "twitter",
           "value": "zakiakhattabi"
         }
       ],
+      "email": "zakia.khattabi@ecolo.be",
       "gender": "female",
       "id": "09b5ec9a-b3ee-4c10-a13a-d488a0b122f2",
       "identifiers": [
@@ -1498,6 +1503,14 @@
         {
           "type": "email",
           "value": "benoit.hellings@lachambre.be"
+        },
+        {
+          "type": "email",
+          "value": "benoit.hellings@ecolo.be"
+        },
+        {
+          "type": "twitter",
+          "value": "benoithellings"
         }
       ],
       "email": "benoit.hellings@lachambre.be",
@@ -1516,6 +1529,10 @@
         {
           "identifier": "Q2896384",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCrO_o5T0--gg6Ms94GW0dTg",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.lachambre.be/site/wwwroot/images/cv/01303.gif",
@@ -1535,6 +1552,14 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Benoit_Hellings"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/benoithellings"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/benoithellings"
         },
         {
           "note": "website",
@@ -2514,6 +2539,10 @@
         {
           "type": "email",
           "value": "muriel.gerkens@lachambre.be"
+        },
+        {
+          "type": "email",
+          "value": "muriel.gerkens@ecolo.be"
         }
       ],
       "email": "muriel.gerkens@lachambre.be",
@@ -2867,6 +2896,10 @@
         {
           "type": "email",
           "value": "marcel.cheron@lachambre.be"
+        },
+        {
+          "type": "email",
+          "value": "marcel.cheron@ecolo.be"
         }
       ],
       "email": "marcel.cheron@lachambre.be",
@@ -4533,6 +4566,10 @@
           "url": "https://en.wikipedia.org/wiki/Zuhal_Demir"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/زحل_دمیر"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Zuhal_Demir"
         },
@@ -4611,7 +4648,14 @@
           "url": "https://nl.wikipedia.org/wiki/Céline_Fremault"
         }
       ],
-      "name": "Céline Fremault"
+      "name": "Céline Fremault",
+      "other_names": [
+        {
+          "lang": "zh-hant",
+          "name": "席琳·弗勒莫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-06-05",
@@ -7051,6 +7095,14 @@
         {
           "type": "email",
           "value": "jean-marc.nollet@lachambre.be"
+        },
+        {
+          "type": "email",
+          "value": "jean-marc.nollet@ecolo.be"
+        },
+        {
+          "type": "twitter",
+          "value": "jmnollet"
         }
       ],
       "email": "jean-marc.nollet@lachambre.be",
@@ -7088,6 +7140,14 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Jean-Marc_Nollet"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jeanmarc.nollet.5"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jmnollet"
         },
         {
           "note": "website",
@@ -8044,6 +8104,13 @@
         }
       ],
       "name": "Christoph D'Haese",
+      "other_names": [
+        {
+          "lang": "be-tarask",
+          "name": "Крыстоф Д’Гэзэ",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "D'Haese Christoph"
     },
     {
@@ -8939,6 +9006,10 @@
         {
           "type": "email",
           "value": "georges.gilkinet@lachambre.be"
+        },
+        {
+          "type": "twitter",
+          "value": "GeorgesGilkinet"
         }
       ],
       "email": "georges.gilkinet@lachambre.be",
@@ -8969,6 +9040,18 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Georges_Gilkinet"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/georges.gilkinet"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GeorgesGilkinet"
+        },
+        {
+          "note": "website",
+          "url": "http://georgesgilkinet.be"
         }
       ],
       "name": "Georges Gilkinet",
@@ -9306,6 +9389,9 @@
       "images": [
         {
           "url": "http://www.lachambre.be/site/wwwroot/images/cv/6619.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sophie_Wilmès.jpg"
         }
       ],
       "links": [
