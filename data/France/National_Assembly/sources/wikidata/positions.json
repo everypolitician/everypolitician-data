@@ -1763,7 +1763,8 @@
         "P768": "Ille-et-Vilaine's 6th constituency",
         "P580": "1993-04-02",
         "P582": "1997-04-21",
-        "P2937": "10th legislature of the Fifth French Republic"
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P1365": "Michel Cointat"
       }
     },
     {
@@ -1785,7 +1786,8 @@
         "P768": "Ille-et-Vilaine's 6th constituency",
         "P580": "2002-06-19",
         "P582": "2002-07-18",
-        "P2937": "12th legislature of the Fifth French Republic"
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P1366": "Daniel Prévost"
       }
     }
   ],
@@ -3978,7 +3980,13 @@
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": null,
+        "P580": "1986-09-20",
+        "P582": "1988-05-14",
+        "P2937": "8th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q382617",
@@ -3991,6 +3999,50 @@
       "label": "Regional council member",
       "title": "Regional council member",
       "description": "member of a regional council"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Ain's 2nd constituency",
+        "P580": "1988-06-23",
+        "P582": "1993-04-01",
+        "P2937": "9th legislature of the Fifth French Republic"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Ain's 2nd constituency",
+        "P580": "1993-04-02",
+        "P582": "1997-04-21",
+        "P2937": "10th legislature of the Fifth French Republic"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Ain's 2nd constituency",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18",
+        "P2937": "11th legislature of the Fifth French Republic"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Ain's 2nd constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P2937": "12th legislature of the Fifth French Republic"
+      }
     }
   ],
   "Q3171740": [
@@ -9248,6 +9300,80 @@
       }
     }
   ],
+  "Q3382825": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P580": "2002-06-19",
+        "P582": "2002-07-18",
+        "P768": "Essonne's 4th constituency"
+      }
+    },
+    {
+      "id": "Q382617",
+      "label": "maire",
+      "title": "maire (of Longjumeau)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Longjumeau",
+        "P580": "2001-03-21",
+        "P582": "2002-06-17"
+      }
+    },
+    {
+      "id": "Q16886136",
+      "label": "Regional council member",
+      "title": "Regional council member",
+      "description": "member of a regional council"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "11th legislature of the Fifth French Republic",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18",
+        "P768": "Essonne's 4th constituency"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P768": "Essonne's 4th constituency",
+        "P580": "1993-04-02",
+        "P582": "1997-04-21"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "9th legislature of the Fifth French Republic",
+        "P768": "Essonne's 4th constituency",
+        "P580": "1988-06-23",
+        "P582": "1993-04-01"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "8th legislature of the Fifth French Republic",
+        "P768": null,
+        "P580": "1986-04-02",
+        "P582": "1988-05-14"
+      }
+    }
+  ],
   "Q1027406": [
     {
       "id": "Q3044918",
@@ -11619,7 +11745,9 @@
         "P768": "Ille-et-Vilaine's 3rd constituency",
         "P580": "1973-04-02",
         "P582": "1976-02-12",
-        "P2937": "5th legislature of the Fifth French Republic"
+        "P2937": "5th legislature of the Fifth French Republic",
+        "P1365": "Henri Lassourd",
+        "P1366": "Maurice Drouet"
       }
     },
     {
@@ -11635,10 +11763,10 @@
     {
       "id": "Q16886136",
       "label": "Regional council member",
-      "title": "Regional council member (of Brittany)",
+      "title": "Regional council member (of Regional Council of Brittany)",
       "description": "member of a regional council",
       "qualifiers": {
-        "P642": "Brittany",
+        "P642": "Regional Council of Brittany",
         "P580": "1986-03-17",
         "P582": "1988-06-09"
       }
@@ -11672,7 +11800,8 @@
         "P768": "Ille-et-Vilaine's 3rd constituency",
         "P580": "1978-04-03",
         "P582": "1978-05-05",
-        "P2937": "6th legislature of the Fifth French Republic"
+        "P2937": "6th legislature of the Fifth French Republic",
+        "P1366": "Maurice Drouet"
       }
     },
     {
@@ -11716,7 +11845,8 @@
         "P768": "Ille-et-Vilaine's 5th constituency",
         "P580": "1993-04-02",
         "P582": "1993-05-01",
-        "P2937": "10th legislature of the Fifth French Republic"
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P1366": "Danielle Dufeu"
       }
     },
     {
@@ -17221,15 +17351,26 @@
   ],
   "Q2829945": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries"
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Haute-Saône's 1st constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P2937": "12th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Haute-Saône's 1st constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-19",
+        "P2937": "13th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q382617",
@@ -26973,7 +27114,13 @@
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Haute-Saône's 2nd constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P2937": "12th legislature of the Fifth French Republic"
+      }
     }
   ],
   "Q2966462": [
@@ -33074,21 +33221,27 @@
   ],
   "Q3310658": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
-        "P1366": "2010 Redistricting of French Legislative Constituencies",
-        "P580": "2002",
-        "P582": "2012",
-        "P1365": "Jean-Paul Mariot"
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P1365": "Jean-Paul Mariot",
+        "P768": null,
+        "P2937": "12th legislature of the Fifth French Republic"
       }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": null,
+        "P580": "2007-06-20",
+        "P582": "2012-06-19",
+        "P2937": "13th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q382617",
@@ -36169,6 +36322,75 @@
       }
     }
   ],
+  "Q366016": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1993-04-02",
+        "P582": "1993-05-01",
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P768": null
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": null,
+        "P580": "1997-06-12",
+        "P582": "2001-04-01",
+        "P2937": "11th legislature of the Fifth French Republic"
+      }
+    },
+    {
+      "id": "Q382617",
+      "label": "maire",
+      "title": "maire (of Toulouse)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Toulouse",
+        "P580": "2001-03-23",
+        "P582": "2004-04-29"
+      }
+    },
+    {
+      "id": "Q3780304",
+      "label": "member of the general council",
+      "title": "member of the general council",
+      "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Haute-Garonne's 1st constituency",
+        "P580": "2001-04-02",
+        "P582": "2002-06-18",
+        "P2937": "11th legislature of the Fifth French Republic"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Haute-Garonne's 1st constituency",
+        "P580": "2002-06-19",
+        "P582": "2004-04-30",
+        "P2937": "12th legislature of the Fifth French Republic"
+      }
+    }
+  ],
   "Q20882460": [
     {
       "id": "Q3044918",
@@ -37089,6 +37311,68 @@
         "P1365": "Pierrick Massiot",
         "P582": "2017-06-22",
         "P1366": "Loïg Chesnais-Girard"
+      }
+    }
+  ],
+  "Q3270740": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "9th legislature of the Fifth French Republic",
+        "P580": "1988-06-23",
+        "P582": "1993-04-01",
+        "P768": "French Guiana's 2nd constituency"
+      }
+    },
+    {
+      "id": "Q382617",
+      "label": "maire",
+      "title": "maire (of Saint-Laurent-du-Maroni)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Saint-Laurent-du-Maroni",
+        "P580": "1983-03"
+      }
+    },
+    {
+      "id": "Q16886136",
+      "label": "Regional council member",
+      "title": "Regional council member",
+      "description": "member of a regional council"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P580": "2002-06-19",
+        "P582": "2002-07-18",
+        "P768": "French Guiana's 2nd constituency"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "11th legislature of the Fifth French Republic",
+        "P580": "1997-06-12",
+        "P582": "2002-06-18",
+        "P768": "French Guiana's 2nd constituency"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P580": "1993-04-02",
+        "P582": "1997-04-21",
+        "P768": "French Guiana's 2nd constituency"
       }
     }
   ],
