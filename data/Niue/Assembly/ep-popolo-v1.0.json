@@ -4,6 +4,14 @@
   ],
   "persons": [
     {
+      "id": "0ef5cfde-e463-44e8-9178-f04858eb0392",
+      "name": "Esa Mona Ainu'u"
+    },
+    {
+      "id": "103d5afa-d700-4178-807e-a2b98b146230",
+      "name": "Maureen Melekitama"
+    },
+    {
       "gender": "male",
       "id": "17d1c196-37b4-4772-81da-e81339e32493",
       "identifiers": [
@@ -98,6 +106,10 @@
       "name": "Kupa Magatogia"
     },
     {
+      "id": "3ca56daa-1ce8-4bc1-b054-8cb1383f1d45",
+      "name": "Stanley Kalauni"
+    },
+    {
       "id": "45b1d413-c111-4e9d-90a4-35cb8943c1a9",
       "identifiers": [
         {
@@ -136,6 +148,10 @@
         }
       ],
       "name": "Fisa Igilisi Pihigia"
+    },
+    {
+      "id": "5c814cbb-26b5-4467-ab10-fc66cf332260",
+      "name": "Terry Coe"
     },
     {
       "id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
@@ -185,6 +201,10 @@
         }
       ],
       "name": "Opili Talafasi"
+    },
+    {
+      "id": "7a5504a4-0d90-455e-be9f-ececa0b50f30",
+      "name": "Sir Toke Talagi"
     },
     {
       "gender": "male",
@@ -271,6 +291,10 @@
       "name": "Stanley Atuvaha Kalauni"
     },
     {
+      "id": "9ddb5489-8b4d-4e33-8795-0690255d04d9",
+      "name": "Naea Michael Jackson"
+    },
+    {
       "gender": "female",
       "id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
       "identifiers": [
@@ -297,6 +321,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "b00cfb09-53dd-461a-9c30-2740985eb6fa",
+      "name": "O'love Jacobsen"
     },
     {
       "birth_date": "1960-12-06",
@@ -1353,6 +1381,32 @@
   },
   "memberships": [
     {
+      "area_id": "area/tuapa",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "0ef5cfde-e463-44e8-9178-f04858eb0392",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/mutalau",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "103d5afa-d700-4178-807e-a2b98b146230",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
       "area_id": "area/common_roll",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
@@ -1397,6 +1451,19 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
       "person_id": "3a98d3d6-42a2-4d3c-ba87-e831cf2986ae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "3ca56daa-1ce8-4bc1-b054-8cb1383f1d45",
       "role": "member",
       "sources": [
         {
@@ -1461,6 +1528,19 @@
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "5c814cbb-26b5-4467-ab10-fc66cf332260",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
       "person_id": "635aa6ac-82a7-40ef-b373-b5c53f3666da",
       "role": "member",
       "sources": [
@@ -1488,6 +1568,19 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
       "person_id": "68f60167-934b-41d7-89b7-23c8cd22dbbf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "7a5504a4-0d90-455e-be9f-ececa0b50f30",
       "role": "member",
       "sources": [
         {
@@ -1561,11 +1654,37 @@
       ]
     },
     {
+      "area_id": "area/hakupu",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "9ddb5489-8b4d-4e33-8795-0690255d04d9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
       "area_id": "area/alofi_north",
       "legislative_period_id": "term/15",
       "on_behalf_of_id": "party/independent",
       "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
       "person_id": "ad03c9ec-fc45-4581-85b1-2e7dabd37cc0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.gov.nu/wb/pages/parliament/assembly.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/common_roll",
+      "legislative_period_id": "term/15",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "93dd3ef7-1c31-4baf-a273-340214ddd651",
+      "person_id": "b00cfb09-53dd-461a-9c30-2740985eb6fa",
       "role": "member",
       "sources": [
         {
