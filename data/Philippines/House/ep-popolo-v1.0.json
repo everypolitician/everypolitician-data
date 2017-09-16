@@ -1373,6 +1373,16 @@
       ]
     },
     {
+      "id": "25ddb9eb-e574-488b-9a7f-030618670585",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
+    },
+    {
       "birth_date": "1974-04-06",
       "gender": "male",
       "given_name": "Sherwin",
@@ -4526,7 +4536,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -7763,6 +7773,16 @@
       ]
     },
     {
+      "id": "acba3037-8c79-45d3-9509-697c74dcb8a8",
+      "image": "http://www.congress.gov.ph/members/images/17th/sy-alvarado.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/sy-alvarado.jpg"
+        }
+      ],
+      "name": "Sy-Alvarado, \"Kuya\" Jose Antonio R."
+    },
+    {
       "id": "acc2853f-7e76-49fb-8184-5e7282bcc7dc",
       "image": "http://www.congress.gov.ph/members/images/17th/acosta-g.jpg",
       "images": [
@@ -9151,16 +9171,6 @@
         }
       ],
       "name": "Umali, Reynaldo V."
-    },
-    {
-      "id": "c45a526d-1034-4e4b-bcc2-161d7830f9d9",
-      "image": "http://www.congress.gov.ph/members/images/17th/syalvarado-j.jpg",
-      "images": [
-        {
-          "url": "http://www.congress.gov.ph/members/images/17th/syalvarado-j.jpg"
-        }
-      ],
-      "name": "Sy-Alvarado, Jose Antonio \"Kuya Jonathan\" R."
     },
     {
       "birth_date": "1948-06-20",
@@ -11490,6 +11500,16 @@
       "name": "Briones, Nicanor M."
     },
     {
+      "id": "f8f3f465-b784-414d-8fdc-fd0a4c33ea52",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "male",
       "id": "f995fa5b-0e2f-44c3-983d-9c6891a2db5d",
       "identifiers": [
@@ -12389,6 +12409,11 @@
       "classification": "party",
       "id": "party/sbp",
       "name": "SBP"
+    },
+    {
+      "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
     },
     {
       "classification": "party",
@@ -13529,6 +13554,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=delmar-r"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "25ddb9eb-e574-488b-9a7f-030618670585",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
@@ -17429,6 +17466,19 @@
       ]
     },
     {
+      "area_id": "area/bulacan,_1st_district",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "acba3037-8c79-45d3-9509-697c74dcb8a8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=sy-alvarado"
+        }
+      ]
+    },
+    {
       "area_id": "area/palawan,_3rd_district",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/unknown",
@@ -18128,19 +18178,6 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=umali-r"
-        }
-      ]
-    },
-    {
-      "area_id": "area/bulacan,_1st_district",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
-      "person_id": "c45a526d-1034-4e4b-bcc2-161d7830f9d9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.congress.gov.ph/members/search.php?id=syalvarado-j"
         }
       ]
     },
@@ -19763,6 +19800,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=briones-n"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "f8f3f465-b784-414d-8fdc-fd0a4c33ea52",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
