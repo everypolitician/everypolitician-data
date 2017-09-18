@@ -7326,6 +7326,21 @@
       "sort_name": "Nidegger, Yves"
     },
     {
+      "birth_date": "1966-11-23",
+      "family_name": "Brunner",
+      "gender": "male",
+      "given_name": "Hansjörg",
+      "id": "29865368-8303-45c9-be7b-32b4927f1143",
+      "identifiers": [
+        {
+          "identifier": "4215",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Hansjörg Brunner",
+      "sort_name": "Brunner, Hansjörg"
+    },
+    {
       "birth_date": "1898-06-29",
       "family_name": "Klingler",
       "gender": "male",
@@ -28088,6 +28103,21 @@
       ],
       "name": "Rudolf Strahm",
       "sort_name": "Strahm, Rudolf"
+    },
+    {
+      "birth_date": "1925-09-29",
+      "family_name": "Jelmini",
+      "gender": "male",
+      "given_name": "Camillo",
+      "id": "9f3b2854-4b88-4e18-976e-1cdb8ce20c35",
+      "identifiers": [
+        {
+          "identifier": "785",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Camillo Jelmini",
+      "sort_name": "Jelmini, Camillo"
     },
     {
       "birth_date": "1913-07-15",
@@ -50593,7 +50623,7 @@
     {
       "area_id": "BE",
       "legislative_period_id": "term/50",
-      "on_behalf_of_id": "0",
+      "on_behalf_of_id": "136",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
       "person_id": "1eba1da4-157c-498e-8505-b079d8fbc20c",
       "role": "member",
@@ -51996,6 +52026,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=3898"
         }
       ]
+    },
+    {
+      "area_id": "TG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "1",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "29865368-8303-45c9-be7b-32b4927f1143",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4215"
+        }
+      ],
+      "start_date": "2017-11-27"
     },
     {
       "area_id": "SG",
@@ -70448,6 +70492,45 @@
       ]
     },
     {
+      "area_id": "TI",
+      "legislative_period_id": "term/39",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "9f3b2854-4b88-4e18-976e-1cdb8ce20c35",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=785"
+        }
+      ]
+    },
+    {
+      "area_id": "TI",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "9f3b2854-4b88-4e18-976e-1cdb8ce20c35",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=785"
+        }
+      ]
+    },
+    {
+      "area_id": "TI",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "9f3b2854-4b88-4e18-976e-1cdb8ce20c35",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=785"
+        }
+      ]
+    },
+    {
       "area_id": "GE",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "7",
@@ -76838,6 +76921,7 @@
     },
     {
       "area_id": "TG",
+      "end_date": "2017-11-26",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "1",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
