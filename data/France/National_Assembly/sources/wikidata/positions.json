@@ -1443,7 +1443,8 @@
       "title": "president of the departmental council (of departmental council of Alpes-Maritimes)",
       "qualifiers": {
         "P642": "departmental council of Alpes-Maritimes",
-        "P580": "2015-04-02"
+        "P580": "2015-04-02",
+        "P582": "2017-09-15"
       }
     },
     {
@@ -3653,6 +3654,15 @@
       "id": "Q3044918",
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly"
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Tarare)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Tarare"
+      }
     }
   ],
   "Q3172381": [
@@ -8201,7 +8211,7 @@
       "qualifiers": {
         "P580": "1981-07-02",
         "P582": "1986-04-01",
-        "P768": "Aisne's 3rd constituency",
+        "P768": null,
         "P2937": "7th legislature of the Fifth French Republic"
       }
     },
@@ -10400,27 +10410,45 @@
       "description": "person who has been elected to the European Parliament"
     },
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
         "P1366": "Xavier Bertrand",
-        "P580": "2004",
-        "P582": "2007",
-        "P1365": "Xavier Bertrand"
+        "P580": "2004-05-01",
+        "P582": "2007-06-19",
+        "P1365": "Xavier Bertrand",
+        "P768": "Aisne's 2nd constituency",
+        "P2937": "12th legislature of the Fifth French Republic"
       }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 2nd constituency",
+        "P580": "2007-07-20",
+        "P582": "2009-02-15",
+        "P2937": "13th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q14828018",
       "label": "member of the Senate of France",
       "title": "member of the Senate of France",
       "description": "member of the French Senate"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 2nd constituency",
+        "P580": "2010-12-15",
+        "P582": "2012-06-16",
+        "P2937": "13th legislature of the Fifth French Republic"
+      }
     }
   ],
   "Q3320916": [
@@ -13404,21 +13432,27 @@
   ],
   "Q951678": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
-        "P1366": "Marie-Françoise Bechtel",
-        "P580": "1997",
-        "P582": "2012",
-        "P1365": "Emmanuelle Bouquillon"
+        "P580": "1997-06-12",
+        "P582": "2002-06-18",
+        "P1365": "Emmanuelle Bouquillon",
+        "P2937": "11th legislature of the Fifth French Republic",
+        "P768": "Aisne's 4th constituency"
       }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 4th constituency",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P2937": "12th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q382617",
@@ -13442,6 +13476,17 @@
       "label": "member of the general council",
       "title": "member of the general council",
       "description": "elected member of the local assembly of a French department (before March 2015)"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 4th constituency",
+        "P580": "2007-06-20",
+        "P582": "2012-06-19",
+        "P2937": "13th legislature of the Fifth French Republic"
+      }
     }
   ],
   "Q2829803": [
@@ -16132,7 +16177,13 @@
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 5th constituency",
+        "P580": "2002-06-08",
+        "P582": "2002-06-18",
+        "P2937": "11th legislature of the Fifth French Republic"
+      }
     },
     {
       "id": "Q382617",
@@ -16142,6 +16193,17 @@
       "qualifiers": {
         "P642": "Chavignon",
         "P580": "1989-06-20"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Aisne's 5th constituency",
+        "P580": "2002-07-19",
+        "P582": "2007-06-19",
+        "P2937": "12th legislature of the Fifth French Republic"
       }
     }
   ],
