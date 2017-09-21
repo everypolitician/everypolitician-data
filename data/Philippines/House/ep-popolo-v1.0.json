@@ -62,6 +62,16 @@
       "name": "Yap, Melecio Jr. J."
     },
     {
+      "id": "02c6635d-26dd-4ee9-a50f-4d5cf080cec3",
+      "image": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/magsaysay-m.jpg"
+        }
+      ],
+      "name": "Aquino-Magsaysay, Milagros"
+    },
+    {
       "gender": "male",
       "id": "03de5918-39f2-43b7-a9c2-829846e5c9b5",
       "identifiers": [
@@ -1813,6 +1823,16 @@
         }
       ],
       "name": "Uybarreta, Carlos Roman"
+    },
+    {
+      "id": "2d5f451a-33a8-4be1-859e-7d16be4fc14f",
+      "image": "http://www.congress.gov.ph/members/images/17th/sy-alvarado.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/sy-alvarado.jpg"
+        }
+      ],
+      "name": "Sy-Alvarado, \"Kuya\" Jose Antonio R."
     },
     {
       "id": "2f34986a-40b0-403c-89a2-fa9a0fd80c12",
@@ -4526,7 +4546,7 @@
           "url": "http://www.congress.gov.ph/members/images/17th/devenecia-c.jpg"
         }
       ],
-      "name": "De Venecia, Christopher \"Toff\" Vera Perez"
+      "name": "De Venecia, Christopher V.P."
     },
     {
       "birth_date": "1964-02-23",
@@ -5673,6 +5693,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "76c2b76c-d55b-45ca-b97e-6c5dfb4a4716",
+      "image": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/datol-f.jpg"
+        }
+      ],
+      "name": "Datol, Francisco Jr. G."
     },
     {
       "id": "76e5d070-6dfb-4f91-b459-b81a5960d618",
@@ -9153,16 +9183,6 @@
       "name": "Umali, Reynaldo V."
     },
     {
-      "id": "c45a526d-1034-4e4b-bcc2-161d7830f9d9",
-      "image": "http://www.congress.gov.ph/members/images/17th/syalvarado-j.jpg",
-      "images": [
-        {
-          "url": "http://www.congress.gov.ph/members/images/17th/syalvarado-j.jpg"
-        }
-      ],
-      "name": "Sy-Alvarado, Jose Antonio \"Kuya Jonathan\" R."
-    },
-    {
       "birth_date": "1948-06-20",
       "gender": "male",
       "given_name": "Amado",
@@ -12392,6 +12412,11 @@
     },
     {
       "classification": "party",
+      "id": "party/senior_citizen",
+      "name": "Senior Citizen"
+    },
+    {
+      "classification": "party",
       "id": "party/tucp",
       "identifiers": [
         {
@@ -12464,6 +12489,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=yap-m"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "02c6635d-26dd-4ee9-a50f-4d5cf080cec3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=magsaysay-m"
         }
       ]
     },
@@ -13746,6 +13783,19 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=uybarreta"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bulacan,_1st_district",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "2d5f451a-33a8-4be1-859e-7d16be4fc14f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=sy-alvarado"
         }
       ]
     },
@@ -15906,6 +15956,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=angara-castillo"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/senior_citizen",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "76c2b76c-d55b-45ca-b97e-6c5dfb4a4716",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=datol-f"
         }
       ]
     },
@@ -18128,19 +18190,6 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=umali-r"
-        }
-      ]
-    },
-    {
-      "area_id": "area/bulacan,_1st_district",
-      "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
-      "person_id": "c45a526d-1034-4e4b-bcc2-161d7830f9d9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.congress.gov.ph/members/search.php?id=syalvarado-j"
         }
       ]
     },
