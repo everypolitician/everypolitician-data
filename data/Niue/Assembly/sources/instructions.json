@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/niue-assembly",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
-      },
+      "file": "archive/official-15.csv",
       "source": "http://www.gov.nu/wb/pages/parliament/assembly.php",
       "type": "membership"
     },
