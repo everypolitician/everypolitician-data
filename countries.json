@@ -7123,13 +7123,22 @@
         "slug": "Assembly",
         "sources_directory": "data/Niue/Assembly/sources",
         "popolo": "data/Niue/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/05c64f9a9927ed3f89378c431f08c652379c15ae/data/Niue/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6d0e06490f9a183292b780ec8158c77ab78ec6fa/data/Niue/Assembly/ep-popolo-v1.0.json",
         "names": "data/Niue/Assembly/names.csv",
-        "lastmod": "1505133674",
-        "person_count": 20,
-        "sha": "05c64f9a9927ed3f89378c431f08c652379c15ae",
+        "lastmod": "1506064908",
+        "person_count": 25,
+        "sha": "6d0e06490f9a183292b780ec8158c77ab78ec6fa",
         "legislative_periods": [
           {
+            "id": "term/16",
+            "name": "16th Assembly",
+            "start_date": "2017-05-06",
+            "slug": "16",
+            "csv": "data/Niue/Assembly/term-16.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6d0e06490f9a183292b780ec8158c77ab78ec6fa/data/Niue/Assembly/term-16.csv"
+          },
+          {
+            "end_date": "2017-05-06",
             "id": "term/15",
             "name": "15th Assembly",
             "start_date": "2014-04-23",
@@ -7138,7 +7147,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/554a6cb306153130ac5558e4c015471d63e57cb7/data/Niue/Assembly/term-15.csv"
           }
         ],
-        "statement_count": 1039,
+        "statement_count": 1218,
         "type": "unicameral legislature"
       }
     ]
