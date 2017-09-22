@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-16.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/niue-assembly",
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id, 16 AS term FROM data ORDER BY name"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-16.csv"
+      },
+      "source": "http://www.gov.nu/wb/pages/parliament/assembly.php",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
