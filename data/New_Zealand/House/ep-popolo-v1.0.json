@@ -1571,6 +1571,10 @@
       "sort_name": "Hutchison, Paul"
     },
     {
+      "id": "1bd6af54-8c81-4a55-85a8-08d39df83bc8",
+      "name": "Mana"
+    },
+    {
       "birth_date": "1953-02-03",
       "gender": "male",
       "given_name": "Steve",
@@ -4842,6 +4846,10 @@
       ]
     },
     {
+      "id": "6719bf09-5104-456a-9fb2-78ace3a125f8",
+      "name": "121"
+    },
+    {
       "birth_date": "1976",
       "contact_details": [
         {
@@ -7339,6 +7347,10 @@
       "sort_name": "Davis, Kelvin"
     },
     {
+      "id": "8a2e89f0-4419-4324-be17-d1872c23482b",
+      "name": "57"
+    },
+    {
       "birth_date": "1954",
       "gender": "female",
       "given_name": "Lesley",
@@ -7464,6 +7476,18 @@
       ],
       "name": "Simon Bridges",
       "sort_name": "Bridges, Simon"
+    },
+    {
+      "id": "9193f6c2-26e4-4929-9016-0389c7fcc9e9",
+      "name": "National"
+    },
+    {
+      "id": "91989d36-fe88-47f6-a544-0df2339f1582",
+      "name": "ACT CS"
+    },
+    {
+      "id": "9219fca1-7a7c-4032-a9fe-bb41d89d24b3",
+      "name": "Independent Coalition"
     },
     {
       "birth_date": "1945-03-07",
@@ -7642,6 +7666,10 @@
         }
       ],
       "sort_name": "Goldsmith, Paul"
+    },
+    {
+      "id": "95efb092-1a54-44e3-b3b9-c70ccc8733c6",
+      "name": "Green"
     },
     {
       "birth_date": "1958",
@@ -8045,6 +8073,10 @@
       "sort_name": "Doocey, Matt"
     },
     {
+      "id": "a26c1db0-f4ee-44fc-96ee-4fe1a38b340f",
+      "name": "Māori CS"
+    },
+    {
       "birth_date": "1976-02-25",
       "gender": "female",
       "id": "a3406df1-1e71-4161-b739-2d52e7935680",
@@ -8301,6 +8333,10 @@
       ],
       "name": "Clayton Cosgrove",
       "sort_name": "Cosgrove, Clayton"
+    },
+    {
+      "id": "a8493bdb-a451-4f0b-836e-5c2192ae9a1a",
+      "name": "7"
     },
     {
       "birth_date": "1969-05-12",
@@ -8837,6 +8873,10 @@
       "sort_name": "Curran, Clare"
     },
     {
+      "id": "b207425e-9c53-46a8-aecf-cdbf5a8d6d09",
+      "name": "United Future CS"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -8950,6 +8990,10 @@
       ],
       "name": "Tracey Martin",
       "sort_name": "Martin, Tracey"
+    },
+    {
+      "id": "b46ef615-ac36-4ee7-9374-f8af878efa40",
+      "name": "NZ First"
     },
     {
       "birth_date": "1952-07-01",
@@ -9247,6 +9291,10 @@
       ],
       "name": "Fletcher Tabuteau",
       "sort_name": "Tabuteau, Fletcher"
+    },
+    {
+      "id": "bb268736-b95c-44c6-874f-3c4caed07186",
+      "name": "64"
     },
     {
       "birth_date": "1973-01-05",
@@ -12651,6 +12699,10 @@
       ],
       "name": "Clem Simich",
       "sort_name": "Simich, Clem"
+    },
+    {
+      "id": "f263e18e-9774-4180-907e-8815556d1ebc",
+      "name": "Labour"
     },
     {
       "birth_date": "1964",
@@ -16798,6 +16850,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -17573,6 +17630,14 @@
       "on_behalf_of_id": "party/new_zealand_national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "1b1d8e8c-d5ae-4a28-97ef-d7f373fa51e2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "1bd6af54-8c81-4a55-85a8-08d39df83bc8",
       "role": "member"
     },
     {
@@ -18864,6 +18929,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "6719bf09-5104-456a-9fb2-78ace3a125f8",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/nz_first",
@@ -19608,6 +19681,14 @@
       ]
     },
     {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "8a2e89f0-4419-4324-be17-d1872c23482b",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -19668,6 +19749,30 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/bridges-simon/"
         }
       ]
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9193f6c2-26e4-4929-9016-0389c7fcc9e9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "91989d36-fe88-47f6-a544-0df2339f1582",
+      "role": "member"
+    },
+    {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9219fca1-7a7c-4032-a9fe-bb41d89d24b3",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -19734,6 +19839,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/goldsmith-paul/"
         }
       ]
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "95efb092-1a54-44e3-b3b9-c70ccc8733c6",
+      "role": "member"
     },
     {
       "area_id": "area/new_plymouth",
@@ -19868,6 +19981,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/doocey-matt/"
         }
       ]
+    },
+    {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "a26c1db0-f4ee-44fc-96ee-4fe1a38b340f",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20019,6 +20140,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/cosgrove-clayton/"
         }
       ]
+    },
+    {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "a8493bdb-a451-4f0b-836e-5c2192ae9a1a",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20273,6 +20402,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "b207425e-9c53-46a8-aecf-cdbf5a8d6d09",
+      "role": "member"
+    },
+    {
       "area_id": "area/wairarapa",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
@@ -20305,6 +20442,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/martin-tracey/"
         }
       ]
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "b46ef615-ac36-4ee7-9374-f8af878efa40",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20437,6 +20582,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/tabuteau-fletcher/"
         }
       ]
+    },
+    {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "bb268736-b95c-44c6-874f-3c4caed07186",
+      "role": "member"
     },
     {
       "area_id": "area/dunedin_north",
@@ -21654,6 +21807,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "f263e18e-9774-4180-907e-8815556d1ebc",
+      "role": "member"
+    },
+    {
       "area_id": "area/bay_of_plenty",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -22577,6 +22738,56 @@
   ],
   "areas": [
     {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
+    {
       "id": "area/aoraki",
       "identifiers": [
         {
@@ -23366,6 +23577,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
