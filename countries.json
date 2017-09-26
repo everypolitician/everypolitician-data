@@ -3327,13 +3327,22 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b1b855c9537e222d3df5d163af8635303a400714/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf3eccd8c71ff50e7017b71a6a382443451e446a/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1505963031",
-        "person_count": 1127,
-        "sha": "b1b855c9537e222d3df5d163af8635303a400714",
+        "lastmod": "1506422714",
+        "person_count": 1560,
+        "sha": "bf3eccd8c71ff50e7017b71a6a382443451e446a",
         "legislative_periods": [
           {
+            "id": "term/15",
+            "name": "XVe législature de la Ve République",
+            "start_date": "2017-06-21",
+            "slug": "15",
+            "csv": "data/France/National_Assembly/term-15.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf3eccd8c71ff50e7017b71a6a382443451e446a/data/France/National_Assembly/term-15.csv"
+          },
+          {
+            "end_date": "2017-06-20",
             "id": "term/14",
             "name": "XIVe législature de la Ve République",
             "start_date": "2012-06-20",
@@ -3360,7 +3369,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09129a5c10e6b540e4d1b8a5844df46bb2d4f56a/data/France/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 69583,
+        "statement_count": 80486,
         "type": "lower house"
       }
     ]
