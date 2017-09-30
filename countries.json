@@ -3537,13 +3537,22 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74681e94de43049d33b0f4933eb7b81b5ccc8cf2/data/Germany/Bundestag/ep-popolo-v1.0.json",
         "names": "data/Germany/Bundestag/names.csv",
-        "lastmod": "1506355247",
-        "person_count": 3810,
-        "sha": "f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0",
+        "lastmod": "1506753448",
+        "person_count": 4073,
+        "sha": "74681e94de43049d33b0f4933eb7b81b5ccc8cf2",
         "legislative_periods": [
           {
+            "id": "term/19",
+            "name": "19th Bundestag",
+            "start_date": "2017-10-24",
+            "slug": "19",
+            "csv": "data/Germany/Bundestag/term-19.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/74681e94de43049d33b0f4933eb7b81b5ccc8cf2/data/Germany/Bundestag/term-19.csv"
+          },
+          {
+            "end_date": "2017-10-24",
             "id": "term/18",
             "name": "18th Bundestag",
             "start_date": "2013-10-22",
@@ -3705,7 +3714,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f3feeca49220ebe11a80ccbcb68d758fc9fcd1b0/data/Germany/Bundestag/term-1.csv"
           }
         ],
-        "statement_count": 186806,
+        "statement_count": 195054,
         "type": "unicameral legislature"
       }
     ]
