@@ -436,6 +436,12 @@
     },
     {
       "birth_date": "1974-06-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lulzimbasha_al"
+        }
+      ],
       "gender": "male",
       "id": "18eac032-5a65-4609-878e-d34ce8eaa481",
       "identifiers": [
@@ -530,6 +536,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/Tirana2011"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/lulzimbasha_al"
         }
       ],
       "name": "Lulzim Basha",
@@ -4586,6 +4596,10 @@
           "url": "https://fr.wikipedia.org/wiki/Valentina_Leskaj"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/발렌티나_레스카이"
+        },
+        {
           "note": "Wikipedia (sq)",
           "url": "https://sq.wikipedia.org/wiki/Valentina_Leskaj"
         },
@@ -4594,7 +4608,14 @@
           "url": "https://www.parlament.al/deputet/valentina-leskaj/"
         }
       ],
-      "name": "Valentina Leskaj"
+      "name": "Valentina Leskaj",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "발렌티나 레스카이",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-04-09",
@@ -10817,12 +10838,6 @@
         {
           "lang": "es",
           "name": "independiente",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "candidato independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
