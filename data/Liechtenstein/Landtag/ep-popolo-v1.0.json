@@ -600,6 +600,7 @@
         }
       ],
       "email": "albert.frick@landtag.li",
+      "family_name": "Frick",
       "gender": "male",
       "given_name": "Albert",
       "id": "2434f36c-1ea1-454d-806c-0490b508adf8",
@@ -1654,6 +1655,7 @@
     },
     {
       "birth_date": "1952-01-23",
+      "family_name": "Brunhart",
       "gender": "male",
       "given_name": "Arthur",
       "id": "a976a03e-b624-4b59-9b29-0b442de07f1c",
@@ -1667,8 +1669,16 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0000 3450 8954",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n91011961",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "76950739",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q708779",
@@ -2074,6 +2084,7 @@
     },
     {
       "birth_date": "1941-02-24",
+      "family_name": "Wanger",
       "gender": "male",
       "given_name": "Klaus",
       "id": "cdd3d8a8-0dfd-40d1-be5b-73c1ff7551b6",
@@ -3116,6 +3127,12 @@
         },
         {
           "lang": "fr",
+          "name": "VU",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
           "name": "VU",
           "note": "multilingual",
           "source": "wikidata-alias"
