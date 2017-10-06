@@ -10,7 +10,8 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tanzania-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id,photo,name,area,party,member_type,source,phone,email,birth_date,term FROM data ORDER BY id",
+        "notes": "TODO: Upstream also has honorific_prefix"
       },
       "merge": {
         "incoming_field": "name",
