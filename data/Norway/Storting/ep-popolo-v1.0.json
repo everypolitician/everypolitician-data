@@ -109,10 +109,33 @@
       "gender": "male",
       "given_name": "Sveinung",
       "id": "0028a23a-fb5d-44dc-b6e1-ab4bc58bc33f",
+      "identifiers": [
+        {
+          "identifier": "SVES",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q15613939",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SVES&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SVES&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sveinung_stensland.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sveinung_Stensland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sveinung_Stensland"
         }
       ],
       "name": "Sveinung Stensland",
@@ -299,13 +322,47 @@
       "gender": "male",
       "given_name": "Erlend",
       "id": "0106d9de-a9db-44a2-9200-da8f52af7a51",
+      "identifiers": [
+        {
+          "identifier": "90763336",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "225007344",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11967800",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ERLL&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ERLL&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Erlend_Larsen_(2017-03-11_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Erlend_Larsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Erlend_Larsen"
         }
       ],
       "name": "Erlend Larsen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Эрленд Ларсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Larsen, Erlend"
     },
     {
@@ -556,10 +613,33 @@
       "gender": "male",
       "given_name": "Sigbjørn",
       "id": "01df714c-f009-4dea-b36a-95fce5677c89",
+      "identifiers": [
+        {
+          "identifier": "Q14437803",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SIGJE&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SIGJE&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sigbjørn_Gjelsvik_(2017-03-23_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
         }
       ],
       "name": "Sigbjørn Gjelsvik",
@@ -1248,10 +1328,29 @@
       "gender": "male",
       "given_name": "Freddy André",
       "id": "04753ff7-9da3-42fc-aaa5-c671c6c8d962",
+      "identifiers": [
+        {
+          "identifier": "Q39778020",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=FAØ&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=FAØ&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Freddy_Øvstegård_02.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Freddy_André_Øvstegård"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Freddy_André_Øvstegård"
         }
       ],
       "name": "Freddy André Øvstegård",
@@ -2586,13 +2685,36 @@
       "gender": "male",
       "given_name": "Jon",
       "id": "095de572-9e21-40a8-b479-1ad6d560d3ad",
+      "identifiers": [
+        {
+          "identifier": "Q38623754",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=JOEH&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JOEH&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jon_Engen-Helgheim"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jon_Helgheim"
+        }
+      ],
       "name": "Jon Engen-Helgheim",
+      "other_names": [
+        {
+          "lang": "nb",
+          "name": "Jon Helgheim",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Engen-Helgheim, Jon"
     },
     {
@@ -9596,10 +9718,29 @@
       "gender": "female",
       "given_name": "Åslaug",
       "id": "2a514b03-d9ad-4f51-8030-8b61db585ab9",
+      "identifiers": [
+        {
+          "identifier": "Q29043380",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ÅSJ&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ÅSJ&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Åslaug_Sem-Jacobsen_(2017-03-23_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Åslaug_Sem-Jacobsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Åslaug_Sem-Jacobsen"
         }
       ],
       "name": "Åslaug Sem-Jacobsen",
@@ -12391,13 +12532,56 @@
       "gender": "female",
       "given_name": "Nina",
       "id": "39d96d85-a121-43ec-a4e7-14954f6c366b",
+      "identifiers": [
+        {
+          "identifier": "98003446",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "63261867",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11991552",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=NISA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=NISA&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nina_Sandberg.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nina_Sandberg"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Nina_Sandberg"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Nina_Sandberg"
         }
       ],
       "name": "Nina Sandberg",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "نينا ساندبرغ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нина Сандберг",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sandberg, Nina"
     },
     {
@@ -12740,10 +12924,57 @@
       "gender": "male",
       "given_name": "Carl-Erik",
       "id": "3a37aa97-8c68-4141-bf3d-d0900e0ebca0",
+      "identifiers": [
+        {
+          "identifier": "90795126",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "142339091",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8451 341X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n95057186",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "266882153",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11963117",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=CES&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=CES&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Carl-Erik_Grimstad_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carl-Erik_Grimstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Carl-Erik_Grimstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Carl-Erik_Grimstad"
+        },
+        {
+          "note": "Wikipedia (nowikiquote)",
+          "url": "https://nowikiquote.wikipedia.org/wiki/Carl-Erik_Grimstad"
         }
       ],
       "name": "Carl-Erik Grimstad",
@@ -16530,13 +16761,47 @@
       "gender": "female",
       "given_name": "Frida",
       "id": "466ba621-1a2b-4e3b-bf80-ff865c032b03",
+      "identifiers": [
+        {
+          "identifier": "428149066397365601005",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q17104731",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=FRME&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=FRME&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Frida_Melvær_(2017-03-12_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Frida_Melvær"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Frida_Melvær"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Frida_Melvær"
         }
       ],
       "name": "Frida Melvær",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Фрида Мелвэр",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Melvær, Frida"
     },
     {
@@ -18732,10 +18997,26 @@
       "gender": "female",
       "given_name": "Turid",
       "id": "500d14a9-04a3-488c-bb90-feb8f7e1d79d",
+      "identifiers": [
+        {
+          "identifier": "Q29057491",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TUK&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TUK&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Turid_Kristensen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Turid_Kristensen"
         }
       ],
       "name": "Turid Kristensen",
@@ -18747,10 +19028,26 @@
       "gender": "female",
       "given_name": "Margret",
       "id": "50285212-e953-4c27-bdc3-ade2acd1a515",
+      "identifiers": [
+        {
+          "identifier": "Q38190381",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MAHAG&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MAHAG&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Margret_Hagerup"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Margret_Hagerup"
         }
       ],
       "name": "Margret Hagerup",
@@ -19581,10 +19878,26 @@
       "gender": "male",
       "given_name": "Terje",
       "id": "5447e754-9db8-408b-89ec-9284c508a2e8",
+      "identifiers": [
+        {
+          "identifier": "Q17094184",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TERH&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TERH&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terje_Halleland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Terje_Halleland"
         }
       ],
       "name": "Terje Halleland",
@@ -20856,10 +21169,29 @@
       "gender": "female",
       "given_name": "Tuva",
       "id": "5a06976e-cb56-43f6-9190-7458c2b049a6",
+      "identifiers": [
+        {
+          "identifier": "Q25427910",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TUMO&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TUMO&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tuva_Moflag.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tuva_Moflag"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tuva_Moflag"
         }
       ],
       "name": "Tuva Moflag",
@@ -21844,10 +22176,26 @@
       "gender": "male",
       "given_name": "Tellef Inge",
       "id": "5df030f9-0225-44a8-b6b0-249770aa84a7",
+      "identifiers": [
+        {
+          "identifier": "Q25427239",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TIM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TIM&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tellef_Inge_Mørland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tellef_Inge_Mørland"
         }
       ],
       "name": "Tellef Inge Mørland",
@@ -25451,10 +25799,33 @@
       "gender": "female",
       "given_name": "Kari Elisabeth",
       "id": "7059b5be-d490-4193-8cf0-16d2ae02e05d",
+      "identifiers": [
+        {
+          "identifier": "9013022",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "Q19715025",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KEKA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KEKA&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kari_Elisabeth_Kaski_03.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kari_Elisabeth_Kaski"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kari_Elisabeth_Kaski"
         }
       ],
       "name": "Kari Elisabeth Kaski",
@@ -27320,14 +27691,43 @@
     },
     {
       "birth_date": "1993-08-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "emiliemehl"
+        }
+      ],
       "family_name": "Mehl",
       "gender": "female",
       "given_name": "Emilie Enger",
       "id": "775772b9-f5ac-4c1a-bd2e-f1abd340343e",
+      "identifiers": [
+        {
+          "identifier": "Q19974554",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=EEM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=EEM&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Emilie_Enger_Mehl.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emilie_Enger_Mehl"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Emilie_Enger_Mehl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/emiliemehl"
         }
       ],
       "name": "Emilie Enger Mehl",
@@ -29095,13 +29495,43 @@
       "gender": "male",
       "given_name": "Ole André",
       "id": "7ef76b5e-1539-49df-9089-1c8c570a7962",
+      "identifiers": [
+        {
+          "identifier": "Q11993562",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=OAM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=OAM&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ole_Andre_Myhrvold.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ole_André_Myhrvold"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ole_André_Myhrvold"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ole_André_Myhrvold"
         }
       ],
       "name": "Ole André Myhrvold",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Оле Андре Мирвольд",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Myhrvold, Ole André"
     },
     {
@@ -30380,13 +30810,36 @@
       "gender": "female",
       "given_name": "Torhild",
       "id": "8659849d-026c-4750-b78e-3f9ed1a119f3",
+      "identifiers": [
+        {
+          "identifier": "Q16178952",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=BRA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=BRA&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Torhild_Bransdal"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Torhild_Bransdal"
+        }
+      ],
       "name": "Torhild Bransdal",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Торхильд Брансдал",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bransdal, Torhild"
     },
     {
@@ -31810,10 +32263,29 @@
       "gender": "female",
       "given_name": "Åshild",
       "id": "8bd4c3f0-646d-4cae-8248-0dd5156ba410",
+      "identifiers": [
+        {
+          "identifier": "Q39768730",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ASKH&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ASKH&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Åshild_Bruun_Gundersen_(FrP)_(23499362031).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Åshild_Bruun-Gundersen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Åshild_Bruun-Gundersen"
         }
       ],
       "name": "Åshild Bruun-Gundersen",
@@ -33408,10 +33880,37 @@
       "gender": "male",
       "given_name": "Arne",
       "id": "92ac4165-cb59-4cff-adea-c4bb84d4d8ee",
+      "identifiers": [
+        {
+          "identifier": "90909512",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "57478735",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11959066",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ARNEV&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ARNEV&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Arne_Nævra_01.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arne_Nævra"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arne_Nævra"
         }
       ],
       "name": "Arne Nævra",
@@ -34708,10 +35207,26 @@
       "gender": "female",
       "given_name": "Marit Knutsdatter",
       "id": "99715c15-9417-445a-b68e-90b3d9d2ccef",
+      "identifiers": [
+        {
+          "identifier": "Q38192956",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MKS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MKS&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marit_Knutsdatter_Strand"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Marit_Knutsdatter_Strand"
         }
       ],
       "name": "Marit Knutsdatter Strand",
@@ -35245,10 +35760,26 @@
       "gender": "female",
       "given_name": "Kirsti",
       "id": "9ca36be0-7e2a-4f1c-a490-0a7428046ea8",
+      "identifiers": [
+        {
+          "identifier": "Q39497946",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KILE&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KILE&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kirsti_Leirtrø"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kirsti_Leirtrø"
         }
       ],
       "name": "Kirsti Leirtrø",
@@ -37820,10 +38351,37 @@
       "gender": "female",
       "given_name": "Heidi Nordby",
       "id": "a5a71805-28c9-403b-9241-dee291e53ec4",
+      "identifiers": [
+        {
+          "identifier": "HENL",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11974693",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=HENL&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=HENL&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/WA09,Bergen_027.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Heidi_Nordby_Lunde"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Heidi_Nordby_Lunde"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Heidi_Nordby_Lunde"
         }
       ],
       "name": "Heidi Nordby Lunde",
@@ -37974,10 +38532,33 @@
       "gender": "female",
       "given_name": "Solveig Sundbø",
       "id": "a6695e9e-e4c3-49c5-b267-70dd6773d556",
+      "identifiers": [
+        {
+          "identifier": "Q12001908",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SSA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SSA&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Solveig_Sundbø_Abrahamsen_(2017-03-11_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Solveig_Sundbø_Abrahamsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Solveig_Sundbø_Abrahamsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Solveig_Sundbø_Abrahamsen"
         }
       ],
       "name": "Solveig Sundbø Abrahamsen",
@@ -40166,10 +40747,29 @@
       "gender": "male",
       "given_name": "Tore",
       "id": "ae9d0ab7-9321-43ab-ab2a-05ce5a86281d",
+      "identifiers": [
+        {
+          "identifier": "Q28718179",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TOSTO&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TOSTO&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tore_Storehaug_YEPP_council_of_Presidents_Vienna_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tore_Storehaug"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tore_Storehaug"
         }
       ],
       "name": "Tore Storehaug",
@@ -40672,10 +41272,37 @@
       "gender": "male",
       "given_name": "Hårek",
       "id": "b14bfa21-6c09-4e59-a86d-6d5596e81248",
+      "identifiers": [
+        {
+          "identifier": "ELV",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5963582",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ELV&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ELV&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hårek_Elvenes_(2017-03-12_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hårek_Elvenes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Hårek_Elvenes"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hårek_Elvenes"
         }
       ],
       "name": "Hårek Elvenes",
@@ -41007,10 +41634,26 @@
       "gender": "female",
       "given_name": "Cecilie",
       "id": "b24a9d98-e3ab-490b-89c8-5f1228b9fce0",
+      "identifiers": [
+        {
+          "identifier": "Q21197631",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=CTM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=CTM&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cecilie_Myrseth"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Cecilie_Myrseth"
         }
       ],
       "name": "Cecilie Myrseth",
@@ -43521,14 +44164,43 @@
     },
     {
       "birth_date": "1990-11-29",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "solfridlerbrekk"
+        }
+      ],
       "family_name": "Lerbrekk",
       "gender": "female",
       "given_name": "Solfrid",
       "id": "be1076a2-958a-46e4-9a89-f675751e2c01",
+      "identifiers": [
+        {
+          "identifier": "Q39500336",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SL&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SL&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Solfrid_Lerbekk_01.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Solfrid_Lerbrekk"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Solfrid_Lerbrekk"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/solfridlerbrekk"
         }
       ],
       "name": "Solfrid Lerbrekk",
@@ -46773,10 +47445,26 @@
       "gender": "female",
       "given_name": "Elise",
       "id": "c90aedd2-9dcc-4248-9205-917d724bbf1e",
+      "identifiers": [
+        {
+          "identifier": "Q29057520",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ELW&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ELW&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elise_Bjørnebekk-Waagen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Elise_Bjørnebekk-Waagen"
         }
       ],
       "name": "Elise Bjørnebekk-Waagen",
@@ -47391,13 +48079,63 @@
       "gender": "male",
       "given_name": "Tage",
       "id": "cb06ee73-e674-4d80-b4b9-e33861aa66b1",
+      "identifiers": [
+        {
+          "identifier": "13025871",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "TAGP",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "197149066345865600146",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4998157",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TAGP&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TAGP&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tage_Pettersen_Forsvaret_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tage_Pettersen"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tage_Pettersen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tage_Pettersen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tage_Pettersen"
+        },
+        {
+          "note": "website",
+          "url": "http://tagepettersen.com/"
         }
       ],
       "name": "Tage Pettersen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Таге Петтерсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pettersen, Tage"
     },
     {
@@ -52313,10 +53051,26 @@
       "gender": "male",
       "given_name": "Gisle Meininger",
       "id": "dc8e1e33-15c6-4d4e-a862-7e965777fdc2",
+      "identifiers": [
+        {
+          "identifier": "Q38191598",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=GMS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=GMS&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gisle_Meininger_Saudland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Gisle_Meininger_Saudland"
         }
       ],
       "name": "Gisle Meininger Saudland",
@@ -54232,10 +54986,29 @@
       "gender": "male",
       "given_name": "Nicholas",
       "id": "e4e0640f-38cd-45c1-8ec7-6e17816f0ef8",
+      "identifiers": [
+        {
+          "identifier": "Q19382942",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=NIW&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=NIW&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nicholas_Wilkonson_01.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicholas_Wilkinson"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Nicholas_Wilkinson"
         }
       ],
       "name": "Nicholas Wilkinson",
@@ -57165,10 +57938,37 @@
       "gender": "female",
       "given_name": "Sandra",
       "id": "f05c86c1-c04b-4ba3-be07-de70b8744f7a",
+      "identifiers": [
+        {
+          "identifier": "SNB",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q13408025",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SNB&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SNB&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Borch,_Sandra_(23892297490).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sandra_Borch"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sandra_Borch"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sandra_Borch"
         }
       ],
       "name": "Sandra Borch",
@@ -59412,10 +60212,26 @@
       "gender": "female",
       "given_name": "Mari Holm",
       "id": "fa588f1d-e314-4dde-8d63-c0183f751f04",
+      "identifiers": [
+        {
+          "identifier": "Q39041072",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MHL&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MHL&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mari_Holm_Lønseth"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Mari_Holm_Lønseth"
         }
       ],
       "name": "Mari Holm Lønseth",
