@@ -260,6 +260,7 @@
     },
     {
       "birth_date": "1930-07-04",
+      "death_date": "2017-10-01",
       "gender": "male",
       "given_name": "John",
       "id": "033305b9-df75-486f-86d8-7c5317e15b8a",
@@ -271,6 +272,10 @@
         {
           "identifier": "/m/01j9tk",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nb2014007223",
+          "scheme": "lcauth"
         },
         {
           "identifier": "uk.org.publicwhip/person/14106",
@@ -1221,6 +1226,7 @@
     },
     {
       "gender": "female",
+      "given_name": "Lesley",
       "id": "109664e1-add7-4de6-878e-1cfe0af753ad",
       "identifiers": [
         {
@@ -2611,6 +2617,11 @@
         {
           "name": "Emma Harper, MSP",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "إيما هاربر",
+          "note": "multilingual"
         }
       ]
     },
@@ -3663,6 +3674,7 @@
           "value": "fincarson"
         }
       ],
+      "family_name": "Carson",
       "gender": "male",
       "id": "3285071d-0bba-420d-8173-a521386a60f9",
       "identifiers": [
@@ -4029,6 +4041,7 @@
       ]
     },
     {
+      "birth_date": "1980-01-12",
       "gender": "male",
       "given_name": "Maurice",
       "id": "37e3bcfd-4659-4220-9ec4-6b40433aa5e7",
@@ -6917,6 +6930,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Jamie",
       "id": "6c23b571-3c7f-47d3-a8ad-a4efd37cabec",
       "identifiers": [
         {
@@ -7950,6 +7964,7 @@
           "value": "MareeToddSNP"
         }
       ],
+      "family_name": "Todd",
       "gender": "female",
       "id": "7c980635-6489-4ec5-87ff-d953c9cc3b6f",
       "identifiers": [
@@ -8379,8 +8394,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/845565272635322368/Zwu194XM.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MarkRuskellMSP-May2016.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MarkRuskellMSP-May2016.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/845565272635322368/Zwu194XM.png"
         }
@@ -8992,6 +9010,7 @@
           "value": "AnnieWellsMSP"
         }
       ],
+      "family_name": "Wells",
       "gender": "female",
       "id": "88be7c68-18b0-4a55-b6fb-8f7aae9242f0",
       "identifiers": [
@@ -9622,6 +9641,7 @@
       "name": "Jeremy Balfour"
     },
     {
+      "birth_date": "1962",
       "gender": "male",
       "given_name": "Richard",
       "id": "9236de2f-301a-46c8-856d-56fccef1b78a",
@@ -9633,6 +9653,12 @@
         {
           "identifier": "Q24039896",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RichardLeonardMSP.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/RichardLeonardMSP.jpg"
         }
       ],
       "links": [
@@ -11574,6 +11600,7 @@
           "value": "MairiGougeon"
         }
       ],
+      "family_name": "Evans",
       "gender": "female",
       "id": "ae4372c0-e866-4291-a3e6-90954facc361",
       "identifiers": [
@@ -11794,6 +11821,12 @@
         {
           "identifier": "Q1507362",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/George_Foulkes,_Baron_Foulkes_of_Cumnock_-_20060624.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/George_Foulkes,_Baron_Foulkes_of_Cumnock_-_20060624.jpg"
         }
       ],
       "links": [
@@ -12914,6 +12947,7 @@
           "value": "JeaneF1MSP"
         }
       ],
+      "family_name": "Freeman",
       "gender": "female",
       "id": "c03f5e1d-3b77-4358-b595-eceb462f96f9",
       "identifiers": [
@@ -15379,7 +15413,9 @@
     },
     {
       "birth_date": "1929-07-10",
+      "family_name": "Ewing",
       "gender": "female",
+      "given_name": "Winnie",
       "id": "d17451a8-ab8d-4523-a071-d9d929102390",
       "identifiers": [
         {
@@ -16104,7 +16140,9 @@
           "value": "MonicaLennon7"
         }
       ],
+      "family_name": "Lennon",
       "gender": "female",
+      "given_name": "Monica",
       "id": "d9c6dde7-f2be-4dca-a645-0f4f1d02d526",
       "identifiers": [
         {
@@ -18919,12 +18957,6 @@
         },
         {
           "lang": "es",
-          "name": "candidato independiente",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
           "name": "candidatura independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -19716,12 +19748,6 @@
         {
           "lang": "sco",
           "name": "Scots Socialist Pairtie",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ar",
-          "name": "الحزب الاشتراكي الاسكتلندي",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
