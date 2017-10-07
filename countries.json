@@ -8673,22 +8673,31 @@
         "slug": "Council",
         "sources_directory": "data/San_Marino/Council/sources",
         "popolo": "data/San_Marino/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4bbfbb92ae1b28fdb221785aa95ec535b4585ea9/data/San_Marino/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2a51c6c67567a5e247e8be35581d3de907195d05/data/San_Marino/Council/ep-popolo-v1.0.json",
         "names": "data/San_Marino/Council/names.csv",
-        "lastmod": "1507091180",
-        "person_count": 63,
-        "sha": "4bbfbb92ae1b28fdb221785aa95ec535b4585ea9",
+        "lastmod": "1507358694",
+        "person_count": 101,
+        "sha": "2a51c6c67567a5e247e8be35581d3de907195d05",
         "legislative_periods": [
           {
+            "id": "term/2016",
+            "name": "Council 2016–",
+            "start_date": "2016-11-20",
+            "slug": "2016",
+            "csv": "data/San_Marino/Council/term-2016.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2a51c6c67567a5e247e8be35581d3de907195d05/data/San_Marino/Council/term-2016.csv"
+          },
+          {
+            "end_date": "2016-11-20",
             "id": "term/2012",
-            "name": "Council 2012–",
+            "name": "Council 2012–2016",
             "start_date": "2012-12-26",
             "slug": "2012",
             "csv": "data/San_Marino/Council/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/56ba1464dc64c66d789d8d37ae969f38b8f3847c/data/San_Marino/Council/term-2012.csv"
           }
         ],
-        "statement_count": 3118,
+        "statement_count": 4127,
         "type": "unicameral legislature"
       }
     ]
