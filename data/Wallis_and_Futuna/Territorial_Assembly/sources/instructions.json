@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikipedia-2017.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/wallis-and-futuna-territorial-assembly",
+        "query": "SELECT * FROM data ORDER BY name"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia-2017.csv"
+      },
+      "source": "https://fr.wikipedia.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
