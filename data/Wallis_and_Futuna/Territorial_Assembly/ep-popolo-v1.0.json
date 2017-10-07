@@ -128,6 +128,10 @@
       "sort_name": "BAUDRY Frédéric"
     },
     {
+      "id": "34a8c2a6-e63d-482e-bed7-0da66731a6bf",
+      "name": "Tuliano Talomafaia"
+    },
+    {
       "family_name": "KANIMOA",
       "gender": "male",
       "given_name": "Patalione",
@@ -146,6 +150,10 @@
         }
       ],
       "sort_name": "KANIMOA Patalione"
+    },
+    {
+      "id": "6d8ad8c1-d67e-4240-96fc-904ca1cab83a",
+      "name": "Lafaele Tukumuli"
     },
     {
       "birth_date": "1972-01-10",
@@ -195,6 +203,10 @@
         }
       ],
       "sort_name": "VERGE David"
+    },
+    {
+      "id": "86c74bea-912f-4e56-a5f3-e645815e41df",
+      "name": "Napole Polutélé"
     },
     {
       "family_name": "SUVE",
@@ -263,6 +275,10 @@
         }
       ],
       "sort_name": "ILOAI Nivaleta"
+    },
+    {
+      "id": "97c85a95-6943-45f1-8f4b-24805277b78b",
+      "name": "Sylvain Brial"
     },
     {
       "family_name": "VEA",
@@ -365,6 +381,10 @@
       "sort_name": "SELUI Emile"
     },
     {
+      "id": "c3cc8f26-5368-4c76-8675-188392a301d9",
+      "name": "Tui Mata Utu André Vaitotai"
+    },
+    {
       "family_name": "LAUFILITOGA",
       "gender": "female",
       "given_name": "Mireille",
@@ -415,6 +435,10 @@
       "sort_name": "HANISI Petelo"
     },
     {
+      "id": "d2830e95-a6c9-498a-b6f0-c7cb60959be9",
+      "name": "Marie-Louise Selui"
+    },
+    {
       "family_name": "MULIAKAAKA",
       "gender": "male",
       "given_name": "Munipoese",
@@ -455,6 +479,14 @@
       "sort_name": "FELEU Yannick"
     },
     {
+      "id": "dbd51c64-67dc-4586-886b-30a5e62bbe88",
+      "name": "Lavinia Tagane"
+    },
+    {
+      "id": "dc346725-bd83-4650-ab51-d203e2122459",
+      "name": "Mikaele Seo"
+    },
+    {
       "family_name": "NIUTOUA",
       "gender": "male",
       "given_name": "Pasikale « MOETOTO »",
@@ -473,6 +505,10 @@
         }
       ],
       "sort_name": "NIUTOUA Pasikale « MOETOTO »"
+    },
+    {
+      "id": "e2a3e14b-cea6-439f-8c0b-1797a66ae4f2",
+      "name": "Soane-Paulo Mailagi"
     },
     {
       "family_name": "IKAI",
@@ -498,6 +534,11 @@
   "organizations": [
     {
       "classification": "party",
+      "id": "party/groupe_rpwf-les_républicains",
+      "name": "Groupe RPWF-Les Républicains"
+    },
+    {
+      "classification": "party",
       "id": "party/groupe_rpwf-ump",
       "name": "Groupe RPWF-UMP"
     },
@@ -510,6 +551,11 @@
       "classification": "party",
       "id": "party/groupe_centriste",
       "name": "Groupe centriste"
+    },
+    {
+      "classification": "party",
+      "id": "party/groupe_«_ensemble_pour_un_avenir_meilleur_»_divers_centre_ou_centre-gauche",
+      "name": "Groupe « Ensemble pour un avenir meilleur » divers centre ou centre-gauche"
     },
     {
       "classification": "party",
@@ -569,9 +615,25 @@
       "role": "member"
     },
     {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "226a2eee-70a5-4c46-8fcb-51dc7c429d59",
+      "role": "member"
+    },
+    {
       "area_id": "area/hihifo,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/groupe_rpwf-ump",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "27a7925a-8a28-48f6-bd70-e2f5ec326beb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hihifo,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_rpwf-les_républicains",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "27a7925a-8a28-48f6-bd70-e2f5ec326beb",
       "role": "member"
@@ -585,6 +647,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "27da5858-53fe-4e9f-b132-c51af634e3d5",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "34a8c2a6-e63d-482e-bed7-0da66731a6bf",
+      "role": "member"
+    },
+    {
       "area_id": "area/hahake,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/groupe_rpwf-ump",
@@ -593,11 +671,35 @@
       "role": "member"
     },
     {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "6d8ad8c1-d67e-4240-96fc-904ca1cab83a",
+      "role": "member"
+    },
+    {
       "area_id": "area/hahake,_wallis",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "8277e5e2-5983-4f6f-8553-97af9a89aebb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "8277e5e2-5983-4f6f-8553-97af9a89aebb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_«_ensemble_pour_un_avenir_meilleur_»_divers_centre_ou_centre-gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "86c74bea-912f-4e56-a5f3-e645815e41df",
       "role": "member"
     },
     {
@@ -617,8 +719,32 @@
       "role": "member"
     },
     {
+      "area_id": "area/hihifo,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_uspwf",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "8e96f804-14ba-4e54-8254-3ca5b40fecff",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "97c85a95-6943-45f1-8f4b-24805277b78b",
+      "role": "member"
+    },
+    {
       "area_id": "area/sigave,_futuna",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_uspwf",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "9b72848f-83e1-44df-9552-52ca9f1c5352",
+      "role": "member"
+    },
+    {
+      "area_id": "area/sigave,_futuna",
+      "legislative_period_id": "term/2017",
       "on_behalf_of_id": "party/groupe_uspwf",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "9b72848f-83e1-44df-9552-52ca9f1c5352",
@@ -642,7 +768,23 @@
     },
     {
       "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_rpwf-les_républicains",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "a6274631-0ee9-4446-bb00-30db59151434",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alo,_futuna",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/groupe_centriste",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "a73fc470-8769-41ac-893d-b07798cfbf11",
+      "role": "member"
+    },
+    {
+      "area_id": "area/alo,_futuna",
+      "legislative_period_id": "term/2017",
       "on_behalf_of_id": "party/groupe_centriste",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "a73fc470-8769-41ac-893d-b07798cfbf11",
@@ -657,8 +799,24 @@
       "role": "member"
     },
     {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_rpwf-les_républicains",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "c3cc8f26-5368-4c76-8675-188392a301d9",
+      "role": "member"
+    },
+    {
       "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "c4409077-d6dc-459a-a04d-fa64166d4cc8",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
       "on_behalf_of_id": "party/non-inscrits_divers_droite",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "c4409077-d6dc-459a-a04d-fa64166d4cc8",
@@ -674,7 +832,23 @@
     },
     {
       "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_«_ensemble_pour_un_avenir_meilleur_»_divers_centre_ou_centre-gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "d2830e95-a6c9-498a-b6f0-c7cb60959be9",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "d3004f1c-3337-40ee-9df2-724d66a18060",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
       "on_behalf_of_id": "party/non-inscrits_divers_gauche",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "d3004f1c-3337-40ee-9df2-724d66a18060",
@@ -689,11 +863,43 @@
       "role": "member"
     },
     {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_rpwf-les_républicains",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "d674f7fb-51e8-4228-94aa-a7c7700038cf",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hahake,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_droite",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "dbd51c64-67dc-4586-886b-30a5e62bbe88",
+      "role": "member"
+    },
+    {
+      "area_id": "area/m'ua,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/non-inscrits_divers_gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "dc346725-bd83-4650-ab51-d203e2122459",
+      "role": "member"
+    },
+    {
       "area_id": "area/sigave,_futuna",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/groupe_centriste",
       "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "person_id": "df04c47d-defa-4cea-8b77-0b9c117cdd25",
+      "role": "member"
+    },
+    {
+      "area_id": "area/hihifo,_wallis",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "party/groupe_«_ensemble_pour_un_avenir_meilleur_»_divers_centre_ou_centre-gauche",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
+      "person_id": "e2a3e14b-cea6-439f-8c0b-1797a66ae4f2",
       "role": "member"
     },
     {
@@ -764,6 +970,13 @@
         }
       ],
       "name": "Wallis and Futuna Territorial Assembly election, 2017",
+      "start_date": "2017-03-26"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2017",
+      "name": "2017–",
+      "organization_id": "8a5d6b93-2bd5-4ac6-a385-ceae0ce11b87",
       "start_date": "2017-03-26"
     }
   ],
