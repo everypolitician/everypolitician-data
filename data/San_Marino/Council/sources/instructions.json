@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-2016.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/san_marino_council",
+        "query": "SELECT *, 2016 AS term FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2016.csv"
+      },
+      "source": "http://www.consigliograndeegenerale.sm",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
