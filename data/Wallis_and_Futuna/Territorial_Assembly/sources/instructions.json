@@ -1,13 +1,8 @@
 {
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/wallis-and-futuna-territorial-assembly",
-        "query": "SELECT * FROM data ORDER BY name"
-      },
-      "source": "https://fr.wikipedia.org/wiki/Assembl%C3%A9e_territoriale_des_%C3%AEles_Wallis_et_Futuna",
+      "file": "archive/wikipedia-2012.csv",
+      "source": "https://fr.wikipedia.org/",
       "type": "membership"
     },
     {
