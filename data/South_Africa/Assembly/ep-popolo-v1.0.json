@@ -2379,13 +2379,20 @@
       "name": "Shahid Esau"
     },
     {
+      "birth_date": "1995",
       "contact_details": [
         {
           "type": "email",
           "value": "tarniabaker@gmail.com"
+        },
+        {
+          "type": "twitter",
+          "value": "TarniaBaker"
         }
       ],
+      "death_date": "2017-10-06",
       "email": "tarniabaker@gmail.com",
+      "family_name": "Baker",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "2d5454af-78de-494d-8f7e-197879db24f0",
@@ -2393,6 +2400,10 @@
         {
           "identifier": "tarnia-elena-baker",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41705189",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/c7/bb/c7bbcbcf678266fcf1313730f8bace3c.jpg",
@@ -2401,7 +2412,24 @@
           "url": "http://www.pa.org.za/media_root/cache/c7/bb/c7bbcbcf678266fcf1313730f8bace3c.jpg"
         }
       ],
-      "name": "Tarnia Elena Baker"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tarnia_Baker"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TarniaBaker"
+        }
+      ],
+      "name": "Tarnia Elena Baker",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tarnia Baker",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-06-06",
