@@ -2660,7 +2660,14 @@
         }
       ],
       "email": "matt.king@parliament.govt.nz",
+      "gender": "male",
       "id": "313364d9-f8e3-476a-a6ed-da9b86ad8114",
+      "identifiers": [
+        {
+          "identifier": "Q41699562",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/4401/matt-king.Do-Jqg.jpg",
       "images": [
         {
@@ -2671,6 +2678,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Matt_King_(politician)"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/MattKingupnorth"
@@ -7506,6 +7517,12 @@
       ],
       "email": "nicola.willis@parliament.govt.nz",
       "id": "808f5f6c-fca9-4ed7-81a8-a32dbebad304",
+      "identifiers": [
+        {
+          "identifier": "Q41424038",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/1319/national-simplified.DmxK8A.jpg",
       "images": [
         {
@@ -7516,6 +7533,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_New_Zealand/politics/New_MPs/Nicola_Willis_(politician)"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/NVWillis"
@@ -13243,11 +13264,24 @@
         }
       ],
       "email": "mark.patterson@parliament.govt.nz",
+      "gender": "male",
       "id": "e66b8cc5-1f2f-4cbe-87ff-a626a003ab6c",
+      "identifiers": [
+        {
+          "identifier": "Q41699512",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/4437/patterson-mark-2.DpjFqQ.jpg",
       "images": [
         {
           "url": "https://www.parliament.nz/media/4437/patterson-mark-2.DpjFqQ.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mark_Patterson_(New_Zealand_politician)"
         }
       ],
       "name": "Mark Patterson",
@@ -13509,6 +13543,7 @@
       "sort_name": "Burton, Mark"
     },
     {
+      "birth_date": "1970-12-04",
       "contact_details": [
         {
           "type": "email",
@@ -13520,7 +13555,15 @@
         }
       ],
       "email": "denise.lee@parliament.govt.nz",
+      "gender": "female",
+      "given_name": "Denise",
       "id": "ea7ebe20-4dda-45d8-8e79-6093a5c422c1",
+      "identifiers": [
+        {
+          "identifier": "Q16731071",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/4433/denise-lee.DpUaBQ.jpg",
       "images": [
         {
@@ -13532,6 +13575,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Denise_Lee"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/DeniseLeeMP"
         }
@@ -13541,6 +13588,11 @@
         {
           "name": "Denise Lee MP",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Denise Krum",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Lee, Denise"
