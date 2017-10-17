@@ -4,12 +4,21 @@
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/malawi-parliament",
-        "query": "SELECT id,name,constituency,party,party_id,gender,tel,term,source FROM data ORDER BY id"
+        "scraper": "everypolitician-scrapers/malawi-parliament",
+        "query": "SELECT *, 2014 AS term FROM data ORDER BY id"
       },
       "source": "http://www.parliament.gov.mw",
       "type": "membership",
       "sourcetype": "official"
+    },
+    {
+      "file": "archive/gender.csv",
+      "source": "http://www.parliament.gov.mw",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
     },
     {
       "file": "morph/wikidata.csv",
