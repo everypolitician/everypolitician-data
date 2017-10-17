@@ -20759,7 +20759,9 @@
       "patronymic_name": "Миколайович"
     },
     {
+      "birth_date": "1969-10-26",
       "family_name": "Недава",
+      "gender": "male",
       "given_name": "Олег",
       "id": "b50f0334-15fd-4171-9074-1fa390bce4ce",
       "identifiers": [
@@ -20770,6 +20772,14 @@
         {
           "identifier": "18122",
           "scheme": "rada"
+        },
+        {
+          "identifier": "18122",
+          "scheme": "verkhovna_rada"
+        },
+        {
+          "identifier": "Q22919632",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d53_1.jpg",
@@ -20778,7 +20788,29 @@
           "url": "http://static.rada.gov.ua/dep_img8/d53_1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Недава,_Олег_Анатольевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Недава_Олег_Анатолійович"
+        }
+      ],
       "name": "Недава Олег Анатолійович",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Oleh Nedava",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Недава, Олег Анатольевич",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Анатолійович"
     },
     {
