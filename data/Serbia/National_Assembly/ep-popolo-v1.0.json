@@ -4,6 +4,28 @@
   ],
   "persons": [
     {
+      "birth_date": "1993",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AlekSeselj"
+        }
+      ],
+      "id": "005c593c-3a02-4a07-bee4-886610e1e388",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/alexandar.seselj"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AlekSeselj"
+        }
+      ],
+      "name": "ALEKSANDAR SESELj",
+      "sort_name": "ALEKSANDAR SESELj"
+    },
+    {
       "birth_date": "1977",
       "id": "0121ed9c-e4e3-4461-9ebc-85c84cad1ce3",
       "name": "MAJA MACUZIC",
@@ -180,9 +202,11 @@
     },
     {
       "birth_date": "1949",
+      "honorific_prefix": "Dr",
+      "honorific_suffix": "Prim",
       "id": "050eac06-fa05-4954-bbe4-29885612c8c7",
       "name": "MILOVAN KRIVOKAPIC",
-      "sort_name": "MILOVAN KRIVOKAPIC"
+      "sort_name": "MILOVAN Prim. Dr KRIVOKAPIC"
     },
     {
       "birth_date": "1941",
@@ -319,6 +343,29 @@
       "sort_name": "MILORAD Dr MIJATOVIC"
     },
     {
+      "birth_date": "1968",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DusanORLDusan"
+        }
+      ],
+      "honorific_prefix": "Prof Dr",
+      "id": "0b35bbfb-2c5b-4437-9fea-54aa1a362dbf",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Проф-др-Душан-Милисављевић-199463133596935"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DusanORLDusan"
+        }
+      ],
+      "name": "DUSAN MILISAVLJEVIC",
+      "sort_name": "DUSAN Prof. Dr MILISAVLJEVIC"
+    },
+    {
       "birth_date": "1981-12-04",
       "gender": "male",
       "id": "0c0ee673-9484-4983-ac38-cf50df851aa4",
@@ -351,6 +398,12 @@
         }
       ],
       "sort_name": "ÁRPÁD FREMOND"
+    },
+    {
+      "birth_date": "1950",
+      "id": "0c24221b-75ee-4088-9cc0-0c7a9187a015",
+      "name": "MIRJANA DRAGAS",
+      "sort_name": "MIRJANA DRAGAS"
     },
     {
       "birth_date": "1949",
@@ -1286,11 +1339,21 @@
     },
     {
       "birth_date": "1974",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarinikaTepic"
+        }
+      ],
       "id": "1ec6dd6e-0d9e-4cd1-bcb0-46c070302ee5",
       "links": [
         {
           "note": "facebook",
           "url": "https://facebook.com/marinika.tepic"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarinikaTepic"
         }
       ],
       "name": "MARINIKA TEPIC",
@@ -1511,7 +1574,19 @@
     },
     {
       "birth_date": "1974",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NemanjaSarovic"
+        }
+      ],
       "id": "26699ba3-5c19-44bc-afbd-e028b59f0307",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NemanjaSarovic"
+        }
+      ],
       "name": "NEMANJA SAROVIC",
       "sort_name": "NEMANJA SAROVIC"
     },
@@ -1697,6 +1772,24 @@
       ],
       "name": "MOMIR STOJANOVIC",
       "sort_name": "MOMIR STOJANOVIC"
+    },
+    {
+      "birth_date": "1971",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RadenkovicDejan"
+        }
+      ],
+      "id": "2fdd5362-0cc0-4248-bb0b-fe0505207ac6",
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RadenkovicDejan"
+        }
+      ],
+      "name": "DEJAN MA RADENKOVIC",
+      "sort_name": "DEJAN MA RADENKOVIC"
     },
     {
       "birth_date": "1972",
@@ -2119,6 +2212,12 @@
       "sort_name": "ZDRAVKO STANKOVIC"
     },
     {
+      "birth_date": "1976",
+      "id": "3ae1709d-13e5-4b1b-a44b-6dd9b66c5aec",
+      "name": "RUZICA NIKOLIC",
+      "sort_name": "RUZICA NIKOLIC"
+    },
+    {
       "birth_date": "1967",
       "id": "3b845d44-e623-4052-b51f-3fd8522a8350",
       "identifiers": [
@@ -2225,6 +2324,12 @@
       ],
       "name": "MILOSAV MILOJEVIC",
       "sort_name": "MILOSAV MILOJEVIC"
+    },
+    {
+      "birth_date": "1947",
+      "id": "42f29fec-834a-4480-a7b5-92a37013d65b",
+      "name": "VERA JOVANOVIC",
+      "sort_name": "VERA JOVANOVIC"
     },
     {
       "birth_date": "1976",
@@ -2376,6 +2481,12 @@
       ],
       "name": "BILJANA ILIC STOSIC",
       "sort_name": "BILJANA ILIC STOSIC"
+    },
+    {
+      "birth_date": "1985",
+      "id": "46a83ce4-dd27-4bff-9c2c-23ef58bd8c42",
+      "name": "ANA CARAPIC",
+      "sort_name": "ANA CARAPIC"
     },
     {
       "birth_date": "1974-02-05",
@@ -2597,8 +2708,8 @@
     {
       "birth_date": "1988",
       "id": "4babbe41-4308-4acc-b6ca-996df2465ad4",
-      "name": "ANA CIRIC",
-      "sort_name": "ANA CIRIC"
+      "name": "ANA KARADzIC",
+      "sort_name": "ANA KARADzIC"
     },
     {
       "birth_date": "1970",
@@ -3065,9 +3176,10 @@
     },
     {
       "birth_date": "1982",
+      "honorific_prefix": "Prof Dr",
       "id": "5f3f4c2e-7b5b-43af-bec8-7d1241882ce9",
       "name": "JAHJA FEHRATOVIC",
-      "sort_name": "JAHJA FEHRATOVIC"
+      "sort_name": "JAHJA Prof. Dr FEHRATOVIC"
     },
     {
       "birth_date": "1985",
@@ -3149,6 +3261,12 @@
         }
       ],
       "sort_name": "NENAD MILOSAVLjEVIC"
+    },
+    {
+      "birth_date": "1951",
+      "id": "617a135c-9199-4626-b521-a1a974246458",
+      "name": "GROZDANA BANAC",
+      "sort_name": "GROZDANA BANAC"
     },
     {
       "birth_date": "1960",
@@ -4248,6 +4366,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dragan_Jovanović_(politician)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dragan.jovanovic.7792052"
         }
       ],
       "name": "DRAGAN JOVANOVIC",
@@ -6863,10 +6985,6 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/MilijaMiletic"
-        },
-        {
-          "note": "website",
-          "url": "http://milijamiletic.rs"
         }
       ],
       "name": "MILIJA MILETIC",
@@ -7446,6 +7564,12 @@
       "sort_name": "SLAVISA BULATOVIC"
     },
     {
+      "birth_date": "1944",
+      "id": "cbd86167-3a48-48d6-97bf-f7711423e534",
+      "name": "FILIP STOJANOVIC",
+      "sort_name": "FILIP STOJANOVIC"
+    },
+    {
       "birth_date": "1956-02-20",
       "gender": "male",
       "given_name": "Božidar",
@@ -7512,6 +7636,12 @@
     {
       "birth_date": "1986",
       "id": "cc212a84-d478-4d11-8372-31a5e8dd5838",
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/stanislava.janosevic"
+        }
+      ],
       "name": "STANISLAVA JANOSEVIC",
       "sort_name": "STANISLAVA JANOSEVIC"
     },
@@ -7915,6 +8045,13 @@
       ],
       "name": "MIRJANA DRAGAS",
       "sort_name": "MIRJANA DRAGAS"
+    },
+    {
+      "birth_date": "1969",
+      "honorific_prefix": "Dr",
+      "id": "d99414ff-ffc9-4777-8193-f7a7c079fed9",
+      "name": "BOBAN BIRMANCEVIC",
+      "sort_name": "BOBAN Dr BIRMANCEVIC"
     },
     {
       "birth_date": "1968",
@@ -8413,24 +8550,8 @@
     },
     {
       "birth_date": "1956",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "sandadss"
-        }
-      ],
       "honorific_prefix": "Dr",
       "id": "e7bdd603-4481-4654-a567-15b893d4e7a6",
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/sanda.raskovic.ivic"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/sandadss"
-        }
-      ],
       "name": "SANDA RASKOVIC IVIC",
       "sort_name": "SANDA Dr RASKOVIC IVIC"
     },
@@ -9026,6 +9147,12 @@
       "sort_name": "SLAVISA RISTIC"
     },
     {
+      "birth_date": "1975",
+      "id": "fa4473e7-0d9d-4579-a688-d7bee2f8a61a",
+      "name": "BRANKO POPOVIC",
+      "sort_name": "BRANKO POPOVIC"
+    },
+    {
       "birth_date": "1975-12-14",
       "contact_details": [
         {
@@ -9350,6 +9477,12 @@
       "id": "ff9cfdae-28f5-478a-9809-cf6c3cbec306",
       "name": "BILjANA RUBAKOVIC",
       "sort_name": "BILjANA RUBAKOVIC"
+    },
+    {
+      "birth_date": "1951",
+      "id": "ffc53894-9c89-457e-94e1-39e3c3d6d317",
+      "name": "JELISAVETA VELjKOVIC",
+      "sort_name": "JELISAVETA VELjKOVIC"
     }
   ],
   "organizations": [
@@ -9390,13 +9523,18 @@
     },
     {
       "classification": "party",
+      "id": "party/independent_mps_club",
+      "name": "Independent MPs Club"
+    },
+    {
+      "classification": "party",
       "id": "party/league_of_social_democrats_of_vojvodina",
       "name": "League of Social Democrats of Vojvodina"
     },
     {
       "classification": "party",
-      "id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
-      "name": "League of Social Democrats of Vojvodina – Green Party"
+      "id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
+      "name": "Liberal Democratic Party - League of Social Democrats of Vojvodina - SDA Sandzak"
     },
     {
       "classification": "party",
@@ -9420,6 +9558,11 @@
       "classification": "party",
       "id": "party/new_serbia",
       "name": "New Serbia"
+    },
+    {
+      "classification": "party",
+      "id": "party/new_serbia_–_movement_for_serbia’s_salvation",
+      "name": "New Serbia – Movement For Serbia’s Salvation"
     },
     {
       "classification": "party",
@@ -9485,6 +9628,19 @@
     ]
   },
   "memberships": [
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_radical_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "005c593c-3a02-4a07-bee4-886610e1e388",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/ALEKSANDAR_SESELj+.1002.488.html"
+        }
+      ],
+      "start_date": "2017-09-21"
+    },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/serbian_progressive_party",
@@ -9619,7 +9775,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_serbia",
+      "on_behalf_of_id": "party/new_serbia_–_movement_for_serbia’s_salvation",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "03d42442-249c-40d4-a463-0ad4e414d65c",
       "role": "member",
@@ -9738,6 +9894,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/democratic_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "0b35bbfb-2c5b-4437-9fea-54aa1a362dbf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/DUSAN_MILISAVLJEVIC.512.488.html"
+        }
+      ],
+      "start_date": "2017-04-21"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/alliance_of_vojvodina_hungarians",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -9760,6 +9929,19 @@
           "url": "http://www.parlament.gov.rs/%C3%81RP%C3%81D_FREMOND.490.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "0c24221b-75ee-4088-9cc0-0c7a9187a015",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/MIRJANA+_DRAGAS.635.488.html"
+        }
+      ],
+      "start_date": "2017-10-12"
     },
     {
       "legislative_period_id": "term/10",
@@ -10028,7 +10210,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/independent_mps_club",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "19eccb50-63dc-4044-9270-a54d4f3141ec",
       "role": "member",
@@ -10101,7 +10283,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "1d4c0590-f561-4576-8b87-bb9a69114907",
       "role": "member",
@@ -10161,7 +10343,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
+      "on_behalf_of_id": "party/independent_mps_club",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "1ec6dd6e-0d9e-4cd1-bcb0-46c070302ee5",
       "role": "member",
@@ -10461,6 +10643,19 @@
           "url": "http://www.parlament.gov.rs/MOMIR_STOJANOVIC.620.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/socialist_party_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "2fdd5362-0cc0-4248-bb0b-fe0505207ac6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/DEJAN_RADENKOVIC.507.488.html"
+        }
+      ],
+      "start_date": "2017-07-20"
     },
     {
       "legislative_period_id": "term/10",
@@ -10800,6 +10995,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_radical_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "3ae1709d-13e5-4b1b-a44b-6dd9b66c5aec",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/RUZICA_NIKOLIC.1000.488.html"
+        }
+      ],
+      "start_date": "2017-07-20"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/united_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -10825,7 +11033,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/enough_is_enough",
+      "on_behalf_of_id": "party/independent_mps_club",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "3cbb5727-d727-4522-b77a-e147767138dc",
       "role": "member",
@@ -10957,6 +11165,19 @@
     },
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "42f29fec-834a-4480-a7b5-92a37013d65b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/VERA_JOVANOVIC.999.488.html"
+        }
+      ],
+      "start_date": "2017-04-21"
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "party/enough_is_enough",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "43476a31-ddcd-4f70-a6aa-d44c75480676",
@@ -11054,7 +11275,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "462a8c40-37e0-49e2-8318-eda4a4c8a143",
       "role": "member",
@@ -11087,6 +11308,19 @@
           "url": "http://www.parlament.gov.rs/BILJANA_ILIC++STOSIC.621.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "46a83ce4-dd27-4bff-9c2c-23ef58bd8c42",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/ANA_CARAPIC.1003.488.html"
+        }
+      ],
+      "start_date": "2017-09-21"
     },
     {
       "legislative_period_id": "term/10",
@@ -11217,7 +11451,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.parlament.gov.rs/ANA_CIRIC.921.488.html"
+          "url": "http://www.parlament.gov.rs/ANA_KARADzIC.921.488.html"
         }
       ]
     },
@@ -11487,6 +11721,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "617a135c-9199-4626-b521-a1a974246458",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/GROZDANA_BANAC.1001.488.html"
+        }
+      ],
+      "start_date": "2017-08-28"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -11608,7 +11855,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "66b74202-a8c2-46fd-8dd3-70a2c9c836dc",
       "role": "member",
@@ -11765,7 +12012,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "6ae9e24c-6a08-4840-aa2b-15935705b989",
       "role": "member",
@@ -11875,7 +12122,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "6ec81776-75f7-465a-8548-c68593386cd9",
       "role": "member",
@@ -12428,7 +12675,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "878bafef-3b05-4985-9b4e-2287396e3385",
       "role": "member",
@@ -12548,7 +12795,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "8c4c94d2-5079-4b82-840a-b390e9e18ecd",
       "role": "member",
@@ -12813,7 +13060,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia_–_movement_for_serbia’s_salvation",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "96c4d284-e6e8-492a-bb63-a4ee25f706cf",
       "role": "member",
@@ -12972,7 +13219,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "9dd1049c-63fb-443b-872b-3fe00e15221f",
       "role": "member",
@@ -13044,7 +13291,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/league_of_social_democrats_of_vojvodina_–_green_party",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "9f7f48d2-03af-4cf8-8b40-75a2fea63bd5",
       "role": "member",
@@ -13332,7 +13579,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "aac65523-b57d-4d2f-b8c5-00c647507a29",
       "role": "member",
@@ -13428,7 +13675,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "ac8c820b-6b63-4137-9bc7-adeb80190e31",
       "role": "member",
@@ -14007,7 +14254,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/enough_is_enough",
+      "on_behalf_of_id": "party/independent_mps_club",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "bea5a5ab-e1ed-4751-8d25-052721433187",
       "role": "member",
@@ -14129,7 +14376,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_serbia",
+      "on_behalf_of_id": "party/serbian_progressive_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "c54bb724-60a1-4473-8e3c-f8095bfdf2c9",
       "role": "member",
@@ -14154,7 +14401,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/enough_is_enough",
+      "on_behalf_of_id": "party/independent_mps_club",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "c5581c7d-7ecd-45da-a60d-5882ea4828e5",
       "role": "member",
@@ -14344,6 +14591,19 @@
           "url": "http://www.parlament.gov.rs/SLAVISA_BULATOVIC.901.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_radical_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "cbd86167-3a48-48d6-97bf-f7711423e534",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/FILIP_STOJANOVIC.484.488.html"
+        }
+      ],
+      "start_date": "2017-04-21"
     },
     {
       "legislative_period_id": "term/11",
@@ -14601,7 +14861,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia_–_movement_for_serbia’s_salvation",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "d6bbb8ed-0a06-40ea-b07b-df30916b4d8e",
       "role": "member",
@@ -14658,6 +14918,19 @@
           "url": "http://www.parlament.gov.rs/MIRJANA+_DRAGAS.635.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "d99414ff-ffc9-4777-8193-f7a7c079fed9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/BOBAN_BIRMANCEVIC.795.488.html"
+        }
+      ],
+      "start_date": "2017-10-12"
     },
     {
       "legislative_period_id": "term/11",
@@ -15058,7 +15331,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/new_serbia",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "e53c976a-cc45-4400-bf05-e4b8cce1c220",
       "role": "member",
@@ -15166,7 +15439,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia_–_movement_for_serbia’s_salvation",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "e7bdd603-4481-4654-a567-15b893d4e7a6",
       "role": "member",
@@ -15601,7 +15874,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "party/new_serbia_–_movement_for_serbia’s_salvation",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "f9f4379d-6dfd-4b51-85a4-768f3dd4d7ec",
       "role": "member",
@@ -15612,6 +15885,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "fa4473e7-0d9d-4579-a688-d7bee2f8a61a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/BRANKO_POPOVIC.1004.488.html"
+        }
+      ],
+      "start_date": "2017-10-12"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/socialist_party_of_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -15661,7 +15947,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "party/liberal_democratic_party_-_sda_sandzak",
+      "on_behalf_of_id": "party/liberal_democratic_party_-_league_of_social_democrats_of_vojvodina_-_sda_sandzak",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "fbe4976d-f29f-48b4-9641-cf10a8e478a0",
       "role": "member",
@@ -15742,6 +16028,19 @@
           "url": "http://www.parlament.gov.rs/BILjANA_RUBAKOVIC.977.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/party_of_united_pensioners_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "ffc53894-9c89-457e-94e1-39e3c3d6d317",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/JELISAVETA_VELjKOVIC.842.488.html"
+        }
+      ],
+      "start_date": "2017-04-21"
     }
   ],
   "events": [
