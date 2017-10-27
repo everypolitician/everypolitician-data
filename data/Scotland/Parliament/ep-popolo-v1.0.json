@@ -300,7 +300,14 @@
           "url": "https://en.wikipedia.org/wiki/John_Swinburne_(Scottish_politician)"
         }
       ],
-      "name": "John Swinburne"
+      "name": "John Swinburne",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "約翰·斯溫伯恩",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-11-05",
@@ -1751,6 +1758,14 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "13724262X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2017044893",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25078",
           "scheme": "parlparse"
         },
@@ -2469,7 +2484,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/MarkMcDonaldMSP20110507.JPG"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/802183025262002178/t263nVuJ.jpg"
+          "url": "https://pbs.twimg.com/profile_images/921476317962481664/VnfvYZAM.jpg"
         }
       ],
       "links": [
@@ -3707,7 +3722,14 @@
           "url": "https://gd.wikipedia.org/wiki/Annabel_Goldie"
         }
       ],
-      "name": "Annabel Goldie"
+      "name": "Annabel Goldie",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "安娜貝爾·戈爾迪",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3756,7 +3778,7 @@
       "name": "Finlay Carson",
       "other_names": [
         {
-          "name": "Fin Carson MSP",
+          "name": "Finlay Carson MSP",
           "note": "alternate"
         }
       ]
@@ -6661,7 +6683,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/KateForbesMSP-May2016.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/891974363368566785/dLXNcsQc.jpg"
+          "url": "https://pbs.twimg.com/profile_images/921868161380704256/N8svKP6e.jpg"
         }
       ],
       "links": [
@@ -6726,7 +6748,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/JohnFinnie261012.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/913152099340488704/45hhxoZJ.jpg"
+          "url": "https://pbs.twimg.com/profile_images/920951762160365568/Ya19FT7t.jpg"
         }
       ],
       "links": [
@@ -10627,6 +10649,7 @@
       ]
     },
     {
+      "birth_date": "1989-12-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -14194,8 +14217,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bowman_MSP.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bowman_MSP.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg"
         }
@@ -14938,13 +14964,13 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/David_Johnson_MSP.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/714016144382930946/H7M2VJy0.jpg"
+          "url": "https://pbs.twimg.com/profile_images/921738090292457472/Glbz6-fY.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Daniel_Johnson_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Daniel_Johnson_(Scottish_politician)"
         },
         {
           "note": "Wikipedia (gd)",
@@ -15690,6 +15716,14 @@
         {
           "identifier": "/m/0blg6f",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1049809297",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb2006018691",
+          "scheme": "lcauth"
         },
         {
           "identifier": "uk.org.publicwhip/person/13965",
@@ -17608,6 +17642,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "nb2014020314",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13976",
           "scheme": "parlparse"
         },
@@ -17883,6 +17921,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Tom",
       "id": "f807078e-87d3-4ce4-8c3e-c296d653021e",
       "identifiers": [
         {
@@ -19669,6 +19708,12 @@
         {
           "lang": "en",
           "name": "Scottish Senior Citizens Unity Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "蘇格蘭老年公民團結黨",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -27593,6 +27638,11 @@
         {
           "lang": "gd",
           "name": "Glaschu - Baile a' Ghobhainn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "格拉斯哥加文",
           "note": "multilingual"
         },
         {
