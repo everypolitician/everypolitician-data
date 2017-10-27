@@ -777,9 +777,20 @@
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/T_jakovina.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tihomir_Jakovina"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Tihomir_Jakovina"
+        },
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Tihomir_Jakovina"
@@ -6083,6 +6094,10 @@
       "given_name": "Vladimir",
       "id": "a401d214-8599-41ec-8c18-6a917582d457",
       "identifiers": [
+        {
+          "identifier": "10004395",
+          "scheme": "bibsys"
+        },
         {
           "identifier": "270725",
           "scheme": "fast"
@@ -13525,6 +13540,12 @@
         {
           "lang": "bg",
           "name": "Мост на независимите листи",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "独立候補者名簿の橋",
           "note": "multilingual",
           "source": "wikidata-label"
         },
