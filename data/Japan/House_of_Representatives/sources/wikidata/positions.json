@@ -426,7 +426,7 @@
         "P580": "1997-09-11",
         "P582": "1998-07-30",
         "P1365": "Riichirō Chikaoka",
-        "P1366": null
+        "P1366": "Yutaka Takeyama"
       }
     },
     {
@@ -461,6 +461,16 @@
         "P2937": "Term for House of Representatives 47th general election",
         "P4100": "Liberal Democratic Party",
         "P768": null
+      }
+    },
+    {
+      "id": "Q11420648"
+    },
+    {
+      "id": "Q11505877",
+      "title": " (of Tomisato)",
+      "qualifiers": {
+        "P642": "Tomisato"
       }
     }
   ],
@@ -526,6 +536,12 @@
   ],
   "Q4701145": [
     {
+      "id": "Q14552828",
+      "label": "member of the House of Councillors",
+      "title": "member of the House of Councillors",
+      "description": "Japanese legislator"
+    },
+    {
       "id": "Q17506823",
       "label": "member of the House of Representatives of Japan",
       "title": "member of the House of Representatives of Japan",
@@ -535,12 +551,6 @@
         "P4100": "Japanese Communist Party",
         "P768": "Tokyo proportional representation block"
       }
-    },
-    {
-      "id": "Q14552828",
-      "label": "member of the House of Councillors",
-      "title": "member of the House of Councillors",
-      "description": "Japanese legislator"
     }
   ],
   "Q8056243": [
@@ -1118,19 +1128,6 @@
       }
     }
   ],
-  "Q20816107": [
-    {
-      "id": "Q17506823",
-      "label": "member of the House of Representatives of Japan",
-      "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan",
-      "qualifiers": {
-        "P2937": "Term for House of Representatives 47th general election",
-        "P4100": "Liberal Democratic Party",
-        "P768": "Hyogo 7th District"
-      }
-    }
-  ],
   "Q11646016": [
     {
       "id": "Q17506823",
@@ -1398,13 +1395,25 @@
       "id": "Q1197264",
       "label": "Ministry of Economy, Trade and Industry",
       "title": "Ministry of Economy, Trade and Industry",
-      "description": "Japanese government ministry"
+      "description": "Japanese government ministry",
+      "qualifiers": {
+        "P580": "2011-09-12",
+        "P582": "2012-12-26",
+        "P1365": "Yoshio Hachiro",
+        "P1366": "Toshimitsu Motegi"
+      }
     },
     {
       "id": "Q1355043",
       "label": "Minister for Foreign Affairs",
       "title": "Minister for Foreign Affairs",
-      "description": "chief executive of the Ministry of Foreign Affairs in Japan"
+      "description": "chief executive of the Ministry of Foreign Affairs in Japan",
+      "qualifiers": {
+        "P580": "2011-03-07",
+        "P582": "2011-03-09",
+        "P1365": "Seiji Maehara",
+        "P1366": "Takeaki Matsumoto"
+      }
     }
   ],
   "Q7051265": [
@@ -2093,6 +2102,9 @@
         "P4100": "Liberal Democratic Party",
         "P768": null
       }
+    },
+    {
+      "id": "Q11500124"
     }
   ],
   "Q360395": [
@@ -2221,7 +2233,10 @@
       }
     },
     {
-      "id": "Q28919543",
+      "id": "Q1104488",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "description": "in Japan",
       "qualifiers": {
         "P1366": "Yuriko Koike",
         "P1365": "Hiroshi Ōki",
@@ -2278,19 +2293,6 @@
         "P2937": "Term for House of Representatives 47th general election",
         "P4100": "Liberal Democratic Party",
         "P768": null
-      }
-    }
-  ],
-  "Q347428": [
-    {
-      "id": "Q17506823",
-      "label": "member of the House of Representatives of Japan",
-      "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan",
-      "qualifiers": {
-        "P2937": "Term for House of Representatives 47th general election",
-        "P4100": "Liberal Democratic Party",
-        "P768": "Kanagawa 1st district"
       }
     }
   ],
@@ -2814,12 +2816,6 @@
       "description": "Japanese legislator"
     },
     {
-      "id": "Q1104488",
-      "label": "Minister of the Environment",
-      "title": "Minister of the Environment",
-      "description": "in Japan"
-    },
-    {
       "id": "Q11525354",
       "label": "Governor of Tokyo",
       "title": "Governor of Tokyo",
@@ -2830,7 +2826,10 @@
       }
     },
     {
-      "id": "Q28919543",
+      "id": "Q1104488",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "description": "in Japan",
       "qualifiers": {
         "P1366": "Masatoshi Wakabayashi",
         "P582": "2006-09-26",
@@ -2986,18 +2985,6 @@
         "P2937": "Term for House of Representatives 47th general election",
         "P4100": "Liberal Democratic Party",
         "P768": null
-      }
-    }
-  ],
-  "Q8056064": [
-    {
-      "id": "Q17506823",
-      "label": "member of the House of Representatives of Japan",
-      "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan",
-      "qualifiers": {
-        "P2937": "Term for House of Representatives 47th general election",
-        "P4100": "Democratic Party (Japan)"
       }
     }
   ],
@@ -3333,6 +3320,16 @@
         "P4100": "Liberal Democratic Party",
         "P768": "Hokkaido 2nd district"
       }
+    },
+    {
+      "id": "Q17506823",
+      "label": "member of the House of Representatives of Japan",
+      "title": "member of the House of Representatives of Japan",
+      "description": "elected Representative of the  House of Representatives of Japan",
+      "qualifiers": {
+        "P2715": "Japanese general election, 2017",
+        "P2937": "Term for House of Representatives 48th general election"
+      }
     }
   ],
   "Q1704924": [
@@ -3541,7 +3538,10 @@
       }
     },
     {
-      "id": "Q28919543",
+      "id": "Q1104488",
+      "label": "Minister of the Environment",
+      "title": "Minister of the Environment",
+      "description": "in Japan",
       "qualifiers": {
         "P580": "1995-08-08",
         "P582": "1996-01-11",
@@ -4044,6 +4044,17 @@
         "P2937": "Term for House of Representatives 47th general election",
         "P4100": "Democratic Party (Japan)"
       }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Sendai)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Sendai",
+        "P580": "2017-08-22",
+        "P1365": "Emiko Okuyama"
+      }
     }
   ],
   "Q11466249": [
@@ -4415,19 +4426,6 @@
       }
     }
   ],
-  "Q2440809": [
-    {
-      "id": "Q17506823",
-      "label": "member of the House of Representatives of Japan",
-      "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan",
-      "qualifiers": {
-        "P2937": "Term for House of Representatives 47th general election",
-        "P4100": "Liberal Democratic Party",
-        "P768": "Kyoto 4th district"
-      }
-    }
-  ],
   "Q1478311": [
     {
       "id": "Q17506823",
@@ -4676,18 +4674,6 @@
         "P2937": "Term for House of Representatives 47th general election",
         "P4100": "Liberal Democratic Party",
         "P768": "Tokyo 2nd district"
-      }
-    }
-  ],
-  "Q665485": [
-    {
-      "id": "Q17506823",
-      "label": "member of the House of Representatives of Japan",
-      "title": "member of the House of Representatives of Japan",
-      "description": "elected Representative of the  House of Representatives of Japan",
-      "qualifiers": {
-        "P2937": "Term for House of Representatives 47th general election",
-        "P4100": "Liberal Democratic Party"
       }
     }
   ],
