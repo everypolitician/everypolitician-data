@@ -2143,6 +2143,10 @@
           "scheme": "europarlmep"
         },
         {
+          "identifier": "n81130085",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "1674",
           "scheme": "parlamento"
         },
@@ -2622,8 +2626,16 @@
       "id": "1579d07d-b0a2-44bb-93c4-733e45af78ab",
       "identifiers": [
         {
+          "identifier": "1074949110",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "1607",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "99754969",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q10334505",
@@ -10249,6 +10261,10 @@
           "url": "https://plwikiquote.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (pms)",
+          "url": "https://pms.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/António_Guterres"
         },
@@ -15349,6 +15365,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Honório_Novo"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Honório_Novo"
         },
@@ -18753,8 +18773,16 @@
       "id": "80ab1a63-1e82-41b6-ac02-075c9012450f",
       "identifiers": [
         {
+          "identifier": "130498386",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 7874 2689",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n2001102954",
+          "scheme": "lcauth"
         },
         {
           "identifier": "494",
@@ -20566,7 +20594,7 @@
       "links": [
         {
           "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Pedro_Quartin_Graça_Simão_José"
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Quartin_Graça"
         },
         {
           "note": "website",
@@ -20928,8 +20956,20 @@
       "id": "8f7e7a31-40c5-4f61-9a6a-68540556e7a5",
       "identifiers": [
         {
+          "identifier": "nb2017009970",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "2433",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "180731068",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "306453622",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q10310170",
@@ -23522,6 +23562,9 @@
         },
         {
           "url": "http://demo.cratica.org/media/img/deputados/2263.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ana_Paula_Vitorino_2017-08-31.png"
         }
       ],
       "links": [
@@ -25527,7 +25570,14 @@
           "url": "https://ro.wikipedia.org/wiki/Carlos_Coelho"
         }
       ],
-      "name": "Carlos Coelho"
+      "name": "Carlos Coelho",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "卡洛斯·科埃略",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-06-27",
@@ -25572,6 +25622,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:José_Manuel_Pureza"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/José_Manuel_Pureza"
@@ -26869,6 +26923,9 @@
         },
         {
           "url": "http://demo.cratica.org/media/img/deputados/1987.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eduardo_Cabrita,_Feira_do_Fumeiro_2017.png"
         }
       ],
       "links": [
@@ -32409,6 +32466,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n85218065",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "280",
           "scheme": "parlamento"
         },
@@ -33088,6 +33149,16 @@
         {
           "lang": "ru",
           "name": "Мануэл Алегри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "曼努埃尔·阿莱格雷",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "曼努埃爾·阿萊格雷",
           "note": "multilingual"
         }
       ]
@@ -33824,6 +33895,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Regina_Bastos_2016-03-08.png"
         }
       ],
       "links": [
@@ -36519,7 +36593,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/1915blocodeesquerdas.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo_Bloco_de_Esquerda.png",
       "links": [
         {
           "note": "website",
@@ -38228,6 +38302,12 @@
         {
           "lang": "pl",
           "name": "PEV",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Ecologista \"Os Verdes\"",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
