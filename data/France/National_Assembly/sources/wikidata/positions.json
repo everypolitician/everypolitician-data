@@ -234,7 +234,17 @@
         "P580": "2017-06-21",
         "P768": "Essonne's 5th constituency",
         "P102": "La République En Marche!",
-        "P2937": "15th legislature of the Fifth French Republic"
+        "P2937": "15th legislature of the Fifth French Republic",
+        "P1365": "Maud Olivier"
+      }
+    },
+    {
+      "id": "Q42178",
+      "label": "vice president",
+      "title": "vice president",
+      "description": "officer in government or business",
+      "qualifiers": {
+        "P642": null
       }
     }
   ],
@@ -2925,10 +2935,9 @@
   ],
   "Q3106559": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
         "P1366": "Sébastien Denaja",
         "P580": "2007",
@@ -7826,7 +7835,9 @@
         "P768": null,
         "P580": "2012-06-20",
         "P582": "2017-06-20",
-        "P2937": "14th legislature of the Fifth French Republic"
+        "P2937": "14th legislature of the Fifth French Republic",
+        "P1365": "Jean-Pierre Nicolas",
+        "P1366": "Jean-Louis Destans"
       }
     },
     {
@@ -8929,7 +8940,8 @@
         "P768": null,
         "P580": "2009-01-13",
         "P582": "2012-06-16",
-        "P2937": "13th legislature of the Fifth French Republic"
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1365": "Bruno Le Maire"
       }
     },
     {
@@ -8950,7 +8962,8 @@
         "P768": null,
         "P2937": "14th legislature of the Fifth French Republic",
         "P580": "2017-06-18",
-        "P582": "2017-06-20"
+        "P582": "2017-06-20",
+        "P1365": "Bruno Le Maire"
       }
     }
   ],
@@ -15309,7 +15322,8 @@
         "P768": null,
         "P580": "1993-04-02",
         "P582": "1995-06-18",
-        "P2937": "10th legislature of the Fifth French Republic"
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P1366": "Françoise Charpentier"
       }
     },
     {
@@ -15331,7 +15345,29 @@
         "P768": null,
         "P580": "2002-06-19",
         "P582": "2007-03-05",
-        "P2937": "12th legislature of the Fifth French Republic"
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P1366": "Françoise Charpentier"
+      }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president (of Constitutional Council of France)",
+      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "qualifiers": {
+        "P642": "Constitutional Council of France",
+        "P580": "2007-03-05",
+        "P582": "2016-03-05"
+      }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president",
+      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "qualifiers": {
+        "P642": null,
+        "P580": "2016-03-05"
       }
     }
   ],
@@ -19771,7 +19807,8 @@
       "qualifiers": {
         "P768": null,
         "P2937": "15th legislature of the Fifth French Republic",
-        "P580": "2017-06-21"
+        "P580": "2017-06-21",
+        "P1365": "Hervé Morin"
       }
     }
   ],
@@ -19898,16 +19935,24 @@
       "title": "deputy",
       "description": "name for legislator in many countries",
       "qualifiers": {
-        "P1366": "Jean-Louis Destans",
-        "P580": "2002",
-        "P582": "2012",
-        "P1365": "Alfred Recours"
+        "P580": "2002-06-19",
+        "P582": "2007-06-19",
+        "P1365": "Alfred Recours",
+        "P768": null,
+        "P2937": "12th legislature of the Fifth French Republic"
       }
     },
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "2007-06-20",
+        "P582": "2012-06-19",
+        "P768": null,
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1366": "Jean-Louis Destans"
+      }
     },
     {
       "id": "Q382617",
@@ -20000,17 +20045,6 @@
         "P582": "1986-04-01",
         "P768": "Morbihan's 4th constituency",
         "P2937": "7th legislature of the Fifth French Republic"
-      }
-    },
-    {
-      "id": "Q3044918",
-      "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly",
-      "qualifiers": {
-        "P580": "1986-04-02",
-        "P582": "1988-05-14",
-        "P768": "Morbihan's 4th constituency",
-        "P2937": "8th legislature of the Fifth French Republic"
       }
     },
     {
@@ -24800,18 +24834,10 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P580": "2017-06-21",
-        "P1365": "Pierre Aylagas",
         "P2937": "15th legislature of the Fifth French Republic",
-        "P768": null
-      }
-    },
-    {
-      "id": "Q30461",
-      "label": "president",
-      "title": "president",
-      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
-      "qualifiers": {
-        "P642": null
+        "P768": null,
+        "P4100": "La République En Marche group",
+        "P1365": "Pierre Aylagas"
       }
     }
   ],
@@ -26734,7 +26760,9 @@
         "P2937": "13th legislature of the Fifth French Republic",
         "P580": "2007-07-20",
         "P582": "2010-12-14",
-        "P768": null
+        "P768": null,
+        "P1365": "Hervé Morin",
+        "P1366": "Hervé Morin"
       }
     },
     {
@@ -31994,10 +32022,9 @@
   ],
   "Q3438379": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
         "P580": "2002-06-19",
         "P582": "2007-06-19",
@@ -34919,7 +34946,8 @@
       "description": "mayor in France",
       "qualifiers": {
         "P642": "Le Soler",
-        "P580": "1995-06-18"
+        "P580": "1995-06-18",
+        "P582": "2017-10-16"
       }
     },
     {
@@ -36319,7 +36347,8 @@
         "P768": null,
         "P580": "1998-11-30",
         "P582": "2002-06-18",
-        "P2937": "11th legislature of the Fifth French Republic"
+        "P2937": "11th legislature of the Fifth French Republic",
+        "P1365": "Ladislas Poniatowski"
       }
     },
     {
@@ -36364,7 +36393,8 @@
         "P768": null,
         "P580": "2007-06-20",
         "P582": "2007-07-19",
-        "P2937": "13th legislature of the Fifth French Republic"
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1366": "Marc Vampa"
       }
     },
     {
@@ -36375,7 +36405,8 @@
         "P768": null,
         "P580": "2010-12-14",
         "P582": "2012-06-19",
-        "P2937": "13th legislature of the Fifth French Republic"
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1365": "Marc Vampa"
       }
     },
     {
@@ -36387,7 +36418,8 @@
         "P580": "2012-06-20",
         "P582": "2016-07-20",
         "P2937": "14th legislature of the Fifth French Republic",
-        "P1534": "resignation"
+        "P1534": "resignation",
+        "P1366": "Marie Tamarelle-Verhaeghe"
       }
     }
   ],
@@ -36847,21 +36879,15 @@
   ],
   "Q3309485": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
         "P1366": "Matthias Fekl",
         "P580": "2002",
         "P582": "2012",
         "P1365": "Gérard Gouzes"
       }
-    },
-    {
-      "id": "Q3044918",
-      "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
     },
     {
       "id": "Q16886136",
@@ -37312,7 +37338,8 @@
         "P768": null,
         "P580": "2002-06-19",
         "P582": "2007-06-19",
-        "P2937": "12th legislature of the Fifth French Republic"
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P1365": "Catherine Picard"
       }
     },
     {
@@ -37351,7 +37378,8 @@
         "P768": null,
         "P580": "2012-06-20",
         "P582": "2017-06-20",
-        "P2937": "14th legislature of the Fifth French Republic"
+        "P2937": "14th legislature of the Fifth French Republic",
+        "P1366": "Claire O'Petit"
       }
     }
   ],
@@ -40157,7 +40185,8 @@
         "P768": null,
         "P580": "1981-07-02",
         "P582": "1986-04-01",
-        "P2937": "7th legislature of the Fifth French Republic"
+        "P2937": "7th legislature of the Fifth French Republic",
+        "P1365": "Rémy Montagne"
       }
     },
     {
@@ -40190,7 +40219,8 @@
         "P768": null,
         "P580": "1988-06-23",
         "P582": "1992-07-03",
-        "P2937": "9th legislature of the Fifth French Republic"
+        "P2937": "9th legislature of the Fifth French Republic",
+        "P1366": "Alain Bureau"
       }
     },
     {
@@ -40234,7 +40264,8 @@
         "P768": null,
         "P580": "2012-06-20",
         "P582": "2017-06-20",
-        "P2937": "14th legislature of the Fifth French Republic"
+        "P2937": "14th legislature of the Fifth French Republic",
+        "P1366": "Bruno Questel"
       }
     }
   ],
@@ -40285,7 +40316,8 @@
         "P768": null,
         "P580": "1995-06-19",
         "P582": "1997-04-21",
-        "P2937": "10th legislature of the Fifth French Republic"
+        "P2937": "10th legislature of the Fifth French Republic",
+        "P1365": "Jean-Louis Debré"
       }
     },
     {
@@ -40302,7 +40334,8 @@
         "P768": null,
         "P580": "2007-03-06",
         "P582": "2007-06-19",
-        "P2937": "12th legislature of the Fifth French Republic"
+        "P2937": "12th legislature of the Fifth French Republic",
+        "P1365": "Jean-Louis Debré"
       }
     }
   ],
@@ -41176,7 +41209,7 @@
       "qualifiers": {
         "P580": "2017-05-17",
         "P582": "2017-06-21",
-        "P1366": "Nicole Belloubet-Frier",
+        "P1366": "Nicole Belloubet",
         "P1365": "Jean-Jacques Urvoas"
       }
     }
@@ -43381,7 +43414,8 @@
       "label": "Minister of Europe and Foreign Affairs",
       "title": "Minister of Europe and Foreign Affairs",
       "qualifiers": {
-        "P580": "2017-05-17"
+        "P580": "2017-05-17",
+        "P1365": "Jean-Marc Ayrault"
       }
     },
     {
@@ -43413,7 +43447,9 @@
       "description": "minister in charge of defence affairs of a state",
       "qualifiers": {
         "P580": "2012-05-16",
-        "P582": "2017-05-15"
+        "P582": "2017-05-15",
+        "P1365": "Gérard Longuet",
+        "P1366": "Sylvie Goulard"
       }
     },
     {
@@ -44639,7 +44675,9 @@
       "qualifiers": {
         "P1001": "Brandérion",
         "P580": "2014-03-28",
-        "P1365": "Hubert de Lageneste"
+        "P1365": "Hubert de Lageneste",
+        "P582": "2017-07-11",
+        "P1366": null
       }
     }
   ],
@@ -46217,7 +46255,8 @@
         "P768": null,
         "P580": "2007-06-20",
         "P582": "2009-01-13",
-        "P2937": "13th legislature of the Fifth French Republic"
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1365": "Jean-Louis Debré"
       }
     },
     {
@@ -46234,7 +46273,8 @@
         "P768": null,
         "P580": "2012-06-17",
         "P582": "2012-06-19",
-        "P2937": "13th legislature of the Fifth French Republic"
+        "P2937": "13th legislature of the Fifth French Republic",
+        "P1366": "Guy Lefrand"
       }
     },
     {
@@ -46245,7 +46285,8 @@
         "P768": null,
         "P580": "2012-06-20",
         "P582": "2017-06-17",
-        "P2937": "14th legislature of the Fifth French Republic"
+        "P2937": "14th legislature of the Fifth French Republic",
+        "P1366": "Guy Lefrand"
       }
     },
     {
@@ -46265,7 +46306,8 @@
         "P768": null,
         "P2937": "15th legislature of the Fifth French Republic",
         "P580": "2017-06-21",
-        "P582": "2017-07-21"
+        "P582": "2017-07-21",
+        "P1366": "Séverine Gipson"
       }
     }
   ],
@@ -51520,7 +51562,8 @@
       "qualifiers": {
         "P768": null,
         "P2937": "15th legislature of the Fifth French Republic",
-        "P580": "2017-07-22"
+        "P580": "2017-07-22",
+        "P1365": "Bruno Le Maire"
       }
     }
   ],
