@@ -3621,7 +3621,19 @@
           "url": "Illugi Gunnarsson"
         }
       ],
-      "name": "Illugi Gunnarsson"
+      "name": "Illugi Gunnarsson",
+      "other_names": [
+        {
+          "lang": "zh-cn",
+          "name": "伊鲁吉·贡纳尔松",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "伊魯吉·貢納爾鬆",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1932-05-24",
@@ -4750,6 +4762,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "102334047X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2012093700",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "259228314",
           "scheme": "viaf"
         },
@@ -4889,7 +4909,14 @@
           "url": "Katrín Júlíusdóttir"
         }
       ],
-      "name": "Katrín Júlíusdóttir"
+      "name": "Katrín Júlíusdóttir",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "凱瑟琳·朱麗多蒂",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-03-06",
@@ -7567,12 +7594,28 @@
       "id": "a2d03dac-035f-4ac5-8fd7-0bbef9b1e314",
       "identifiers": [
         {
+          "identifier": "90367389",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "mörður_Árnason",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "143805983",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 1587 3435",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n86836878",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "195177",
+          "scheme": "selibr"
         },
         {
           "identifier": "056953615",
@@ -8983,6 +9026,16 @@
         {
           "lang": "en",
           "name": "Þorgerður Katrín Gunnarsdóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "索尔吉尔杜尔·卡特琳·贡纳尔斯多蒂尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "索爾吉爾杜爾·卡特琳·貢納爾斯多蒂爾",
           "note": "multilingual"
         }
       ]
@@ -10732,6 +10785,12 @@
         {
           "lang": "nb",
           "name": "Borgarahreyfingin",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "公民運動",
           "note": "multilingual",
           "source": "wikidata-label"
         }
