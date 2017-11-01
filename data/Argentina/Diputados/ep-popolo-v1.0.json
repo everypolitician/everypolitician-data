@@ -424,6 +424,7 @@
     },
     {
       "birth_date": "1960",
+      "death_date": "1960",
       "gender": "female",
       "given_name": "Liliana",
       "id": "0dacc979-742f-4454-9653-c96d703a5fe3",
@@ -4108,6 +4109,7 @@
           "value": "OscarAguadCBA"
         }
       ],
+      "death_date": "1950",
       "email": "oaguad@diputados.gob.ar",
       "gender": "male",
       "given_name": "Oscar",
@@ -6742,6 +6744,7 @@
     },
     {
       "birth_date": "1956-12-26",
+      "death_date": "1956",
       "gender": "female",
       "given_name": "Elisa",
       "id": "7c2e4c68-ef42-4097-bfa9-066bb2706bc4",
@@ -7370,6 +7373,18 @@
         }
       ],
       "name": "Axel Kicillof",
+      "other_names": [
+        {
+          "lang": "zh-cn",
+          "name": "阿克塞尔·基西洛夫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿克塞爾·基西洛夫",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kicillof, Axel"
     },
     {
@@ -7871,6 +7886,14 @@
         {
           "identifier": "aargumedo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170519090",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "218236457",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q4713147",
@@ -10455,6 +10478,7 @@
     },
     {
       "birth_date": "1938-05-28",
+      "death_date": "1938",
       "gender": "male",
       "given_name": "Héctor",
       "id": "beb6fd87-2d0b-40f9-b7c2-6fb302afab82",
@@ -11559,6 +11583,11 @@
         {
           "lang": "en",
           "name": "Carlos Castagneto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "Карлос Кастагнето",
           "note": "multilingual"
         }
       ],
@@ -13940,7 +13969,7 @@
       "name": "BLOQUE SOCIAL CRISTIANO",
       "other_names": [
         {
-          "lang": "es",
+          "lang": "en",
           "name": "Bloque Social Cristiano",
           "note": "multilingual",
           "source": "wikidata-label"
@@ -14877,7 +14906,7 @@
       "name": "JUNTOS POR ARGENTINA",
       "other_names": [
         {
-          "lang": "es",
+          "lang": "en",
           "name": "Juntos por Argentina",
           "note": "multilingual",
           "source": "wikidata-label"
