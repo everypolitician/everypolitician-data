@@ -709,45 +709,6 @@
       "name": "ชุมนุม อาจวงษ์"
     },
     {
-      "gender": "male",
-      "honorific_prefix": "พลเอก",
-      "id": "1ea252f3-a51e-4ce9-92e5-b207db09a4ab",
-      "identifiers": [
-        {
-          "identifier": "217",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q13023665",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://library.senate.go.th/document/Picture_HR//7281.JPG",
-      "images": [
-        {
-          "url": "http://library.senate.go.th/document/Picture_HR//7281.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Apirat_Kongsompong"
-        },
-        {
-          "note": "Wikipedia (th)",
-          "url": "https://th.wikipedia.org/wiki/อภิรัชต์_คงสมพงษ์"
-        }
-      ],
-      "name": "อภิรัชต์ คงสมพงษ์",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Apirat Kongsompong",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "honorific_prefix": "นาย",
       "id": "1ef0e928-e311-4798-809f-b634360ea5bc",
       "identifiers": [
@@ -5586,6 +5547,17 @@
       ]
     },
     {
+      "honorific_prefix": "พลเอก",
+      "id": "fb6c32bc-d364-4b1a-8c7e-a81f00960027",
+      "image": "http://library.senate.go.th/document/Picture_HR//9305.JPG",
+      "images": [
+        {
+          "url": "http://library.senate.go.th/document/Picture_HR//9305.JPG"
+        }
+      ],
+      "name": "อภิรัชต์ คงสมพงษ์"
+    },
+    {
       "honorific_prefix": "พลเรือเอก",
       "id": "fc552d87-748f-4322-90cf-503b2f623442",
       "image": "http://library.senate.go.th/document/Picture_HR//9033.JPG",
@@ -6328,18 +6300,6 @@
       "sources": [
         {
           "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=1&orby=&orrg=ASC"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2557",
-      "on_behalf_of_id": "party/ncpo",
-      "organization_id": "e441ca10-6c4b-4991-8f1d-4a4ea0dae3d0",
-      "person_id": "1ea252f3-a51e-4ce9-92e5-b207db09a4ab",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=5&orby=&orrg=ASC"
         }
       ]
     },
@@ -9100,6 +9060,18 @@
       "sources": [
         {
           "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=3&orby=&orrg=ASC"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2557",
+      "on_behalf_of_id": "party/ncpo",
+      "organization_id": "e441ca10-6c4b-4991-8f1d-4a4ea0dae3d0",
+      "person_id": "fb6c32bc-d364-4b1a-8c7e-a81f00960027",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=5&orby=&orrg=ASC"
         }
       ]
     },
