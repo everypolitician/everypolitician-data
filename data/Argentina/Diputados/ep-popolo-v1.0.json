@@ -3692,6 +3692,7 @@
           "value": "mariodasneves"
         }
       ],
+      "death_date": "2017-10-31",
       "email": "mdasneves@diputados.gob.ar",
       "gender": "male",
       "given_name": "Mario",
@@ -3700,6 +3701,10 @@
         {
           "identifier": "mdasneves",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "no2011082200",
+          "scheme": "lcauth"
         },
         {
           "identifier": "170620363",
@@ -3724,12 +3729,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mario_Das_Neves"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mario_das_Neves"
         },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Mario_Das_Neves"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Mario_das_Neves"
         },
         {
           "note": "Wikipedia (sw)",
@@ -6260,6 +6273,7 @@
         }
       ],
       "email": "jcobos@diputados.gob.ar",
+      "family_name": "Cobos",
       "gender": "male",
       "given_name": "Julio",
       "id": "76d9bed6-883b-4a32-9f1b-9d44b8c085cb",
@@ -7370,6 +7384,18 @@
         }
       ],
       "name": "Axel Kicillof",
+      "other_names": [
+        {
+          "lang": "zh-cn",
+          "name": "阿克塞尔·基西洛夫",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿克塞爾·基西洛夫",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kicillof, Axel"
     },
     {
@@ -7738,6 +7764,10 @@
           "url": "https://it.wikipedia.org/wiki/Federico_Pinedo"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/federicopinedo"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/PinedoFederico"
         }
@@ -7865,12 +7895,21 @@
           "value": "AlciraArgumedo"
         }
       ],
+      "family_name": "Argumedo",
       "gender": "female",
       "id": "8bfac277-a4c1-4445-be96-05f6edc7ee0c",
       "identifiers": [
         {
           "identifier": "aargumedo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170519090",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "218236457",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q4713147",
@@ -8740,6 +8779,7 @@
       "sort_name": "Torello, Pablo"
     },
     {
+      "family_name": "Carlotto",
       "gender": "male",
       "id": "985bb329-6f88-497b-8525-d40d449a7fa7",
       "identifiers": [
@@ -11245,7 +11285,7 @@
       ],
       "email": "ndelcano@diputados.gob.ar",
       "gender": "male",
-      "given_name": "Nicolás",
+      "given_name": "Nicolás Galindo Ayala",
       "id": "cad8d9f3-5eb5-4a88-a25b-ee3aa3cba8af",
       "identifiers": [
         {
@@ -11399,6 +11439,7 @@
       "sort_name": "Frana, Silvina Patricia"
     },
     {
+      "family_name": "Britez",
       "gender": "female",
       "given_name": "María",
       "id": "cdfc2ea3-a001-40f3-8a39-81cf9a711a5e",
@@ -11559,6 +11600,11 @@
         {
           "lang": "en",
           "name": "Carlos Castagneto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "Карлос Кастагнето",
           "note": "multilingual"
         }
       ],
@@ -13940,7 +13986,7 @@
       "name": "BLOQUE SOCIAL CRISTIANO",
       "other_names": [
         {
-          "lang": "es",
+          "lang": "en",
           "name": "Bloque Social Cristiano",
           "note": "multilingual",
           "source": "wikidata-label"
@@ -14877,7 +14923,7 @@
       "name": "JUNTOS POR ARGENTINA",
       "other_names": [
         {
-          "lang": "es",
+          "lang": "en",
           "name": "Juntos por Argentina",
           "note": "multilingual",
           "source": "wikidata-label"
