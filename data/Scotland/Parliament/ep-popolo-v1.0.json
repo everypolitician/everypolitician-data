@@ -300,7 +300,14 @@
           "url": "https://en.wikipedia.org/wiki/John_Swinburne_(Scottish_politician)"
         }
       ],
-      "name": "John Swinburne"
+      "name": "John Swinburne",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "約翰·斯溫伯恩",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-11-05",
@@ -1749,6 +1756,14 @@
         {
           "identifier": "/m/0gty3fn",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "13724262X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2017044893",
+          "scheme": "lcauth"
         },
         {
           "identifier": "uk.org.publicwhip/person/25078",
@@ -3476,6 +3491,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "no2008076508",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/14040",
           "scheme": "parlparse"
         },
@@ -3707,7 +3726,14 @@
           "url": "https://gd.wikipedia.org/wiki/Annabel_Goldie"
         }
       ],
-      "name": "Annabel Goldie"
+      "name": "Annabel Goldie",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "安娜貝爾·戈爾迪",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -10627,6 +10653,7 @@
       ]
     },
     {
+      "birth_date": "1989-12-01",
       "contact_details": [
         {
           "type": "twitter",
@@ -14194,8 +14221,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bowman_MSP.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bowman_MSP.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/883387067870400514/Ra56PBbj.jpg"
         }
@@ -14944,7 +14974,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Daniel_Johnson_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Daniel_Johnson_(Scottish_politician)"
         },
         {
           "note": "Wikipedia (gd)",
@@ -15690,6 +15720,14 @@
         {
           "identifier": "/m/0blg6f",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1049809297",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb2006018691",
+          "scheme": "lcauth"
         },
         {
           "identifier": "uk.org.publicwhip/person/13965",
@@ -17608,6 +17646,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "nb2014020314",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13976",
           "scheme": "parlparse"
         },
@@ -17883,6 +17925,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Tom",
       "id": "f807078e-87d3-4ce4-8c3e-c296d653021e",
       "identifiers": [
         {
@@ -19669,6 +19712,12 @@
         {
           "lang": "en",
           "name": "Scottish Senior Citizens Unity Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "蘇格蘭老年公民團結黨",
           "note": "multilingual",
           "source": "wikidata-label"
         },
