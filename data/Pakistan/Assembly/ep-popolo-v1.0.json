@@ -15486,6 +15486,23 @@
       "patronymic_name": "Syed Ali Ahmad Shah"
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "0300-8580888"
+        }
+      ],
+      "gender": "male",
+      "id": "f5544e0d-7e4a-45cc-ae71-a2233c937e1b",
+      "image": "http://www.na.gov.pk/uploads/images/d-.jpg",
+      "images": [
+        {
+          "url": "http://www.na.gov.pk/uploads/images/d-.jpg"
+        }
+      ],
+      "name": "Arbab Amir Ayub"
+    },
+    {
       "birth_date": "1966-06-07",
       "gender": "female",
       "id": "f59fc1f7-a894-4a29-84d1-030558eccbbc",
@@ -21043,7 +21060,7 @@
       ]
     },
     {
-      "area_id": "area/na-180_(muzaffargarh-v)",
+      "area_id": "area/na-180_()",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "pmln",
       "organization_id": "65caa270-16bc-435c-ac92-e04751e26884",
@@ -23266,6 +23283,20 @@
           "url": "http://www.na.gov.pk/en/profile.php?uid=828"
         }
       ]
+    },
+    {
+      "area_id": "area/na-4_(peshawar-iv)",
+      "legislative_period_id": "term/14",
+      "on_behalf_of_id": "pti",
+      "organization_id": "65caa270-16bc-435c-ac92-e04751e26884",
+      "person_id": "f5544e0d-7e4a-45cc-ae71-a2233c937e1b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.na.gov.pk/en/profile.php?uid=1059"
+        }
+      ],
+      "start_date": "2017-11-02"
     },
     {
       "area_id": "area/na-102_(hafizabad-i)",
@@ -25608,26 +25639,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/na-180_(muzaffargarh-v)",
-      "identifiers": [
-        {
-          "identifier": "Q12857329",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "NA-180 (Muzaffargarh-V)",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Constituency NA-180",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ur",
-          "name": "حلقہ این اے۔180",
-          "note": "multilingual"
-        }
-      ],
+      "id": "area/na-180_()",
+      "name": "NA-180 ()",
       "type": "constituency"
     },
     {
