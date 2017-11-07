@@ -11106,6 +11106,23 @@
       "sort_name": "Rice, Janet"
     },
     {
+      "family_name": "Brockman",
+      "given_name": "Slade",
+      "id": "bfe21272-6b33-4680-94dc-0ed8e27ad02b",
+      "identifiers": [
+        {
+          "identifier": "30484",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10900",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Slade Brockman",
+      "sort_name": "Brockman, Slade"
+    },
+    {
       "birth_date": "1947-09-03",
       "family_name": "Gibbs",
       "gender": "female",
@@ -26877,7 +26894,7 @@
     },
     {
       "area_id": "area/wa",
-      "end_date": "2005-05-30",
+      "end_date": "2005-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "australian_democrats",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -28131,6 +28148,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "bfe21272-6b33-4680-94dc-0ed8e27ad02b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2017-08-16"
     },
     {
       "area_id": "area/queensland",
@@ -30087,6 +30118,7 @@
     },
     {
       "area_id": "area/wa",
+      "end_date": "2017-07-31",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
