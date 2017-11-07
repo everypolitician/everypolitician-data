@@ -9470,6 +9470,10 @@
       "birth_date": "1958-01-21",
       "contact_details": [
         {
+          "type": "email",
+          "value": "kimbookyum@naver.com"
+        },
+        {
           "type": "phone",
           "value": "02-784-4367"
         },
@@ -9478,6 +9482,7 @@
           "value": "hopekbk"
         }
       ],
+      "email": "kimbookyum@naver.com",
       "gender": "male",
       "id": "4897ae11-77fc-4d14-84b6-d99eb4f6ad1b",
       "identifiers": [
@@ -9511,6 +9516,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/hopekbk"
+        },
+        {
+          "note": "website",
+          "url": "http://blog.naver.com/kimbookyum"
         }
       ],
       "name": "KIM BOOKYUM",
@@ -22796,10 +22805,15 @@
       "birth_date": "1960-07-26",
       "contact_details": [
         {
+          "type": "email",
+          "value": "south826@naver.com"
+        },
+        {
           "type": "phone",
           "value": "02-784-2855"
         }
       ],
+      "email": "south826@naver.com",
       "gender": "male",
       "id": "a421e5ba-d7f6-43c3-8dfb-cd5b5928bab7",
       "identifiers": [
@@ -37846,6 +37860,11 @@
     },
     {
       "classification": "party",
+      "id": "party/민중당",
+      "name": "민중당"
+    },
+    {
+      "classification": "party",
       "id": "party/바른정당",
       "identifiers": [
         {
@@ -38198,31 +38217,6 @@
           "name": "Партия новых рубежей",
           "note": "multilingual",
           "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/새민중정당",
-      "identifiers": [
-        {
-          "identifier": "Q38254010",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "새민중정당",
-      "other_names": [
-        {
-          "lang": "ko",
-          "name": "새민중정당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "People's New Political Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
         }
       ]
     },
@@ -41943,7 +41937,7 @@
     {
       "area_id": "area/울산_북구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/새민중정당",
+      "on_behalf_of_id": "party/민중당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "684eaa28-2800-4eef-be6c-2f806d7d3555",
       "role": "member",
@@ -46417,7 +46411,7 @@
     {
       "area_id": "area/울산_동구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/새민중정당",
+      "on_behalf_of_id": "party/민중당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "f7cd4006-4e71-4b43-84b1-11070ed75941",
       "role": "member",
