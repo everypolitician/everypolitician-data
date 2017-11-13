@@ -2238,6 +2238,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1025486749",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2006056233",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "38805430",
           "scheme": "viaf"
         },
@@ -2298,6 +2306,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rasim_Musabayov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rasim_Musabayov"
         },
         {
           "note": "Wikipedia (ru)",
@@ -2553,8 +2565,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "130077909",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0003 8282 6414",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n94009558",
+          "scheme": "lcauth"
         },
         {
           "identifier": "122147294",
@@ -2901,8 +2921,28 @@
       "id": "a52329a1-3b7a-4c0e-ae6f-fb43903a6588",
       "identifiers": [
         {
+          "identifier": "16714307m",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "hüseynbala_mirələmov",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n2005037221",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "283909",
+          "scheme": "selibr"
+        },
+        {
+          "identifier": "117604437",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "58485152",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q12840465",
@@ -3261,7 +3301,7 @@
         },
         {
           "lang": "ru",
-          "name": "Пашаева, Ганира Алескер кызы",
+          "name": "Ганира Алескер кызы Пашаева",
           "note": "multilingual"
         },
         {
@@ -4995,6 +5035,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Nariman",
       "id": "ff7309ea-d3a5-4c2e-b779-80c9f394ee2d",
       "identifiers": [
         {
@@ -5012,7 +5053,14 @@
           "url": "https://az.wikipedia.org/wiki/Nəriman_Əliyev_(siyasətçi)"
         }
       ],
-      "name": "Nəriman Əliyev"
+      "name": "Nəriman Əliyev",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nariman Aliyev",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -6500,6 +6548,12 @@
         {
           "lang": "tg",
           "name": "Ҳизби Озарбойҷони Навин",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ba",
+          "name": "Яңы Әзербайжан",
           "note": "multilingual",
           "source": "wikidata-label"
         },
