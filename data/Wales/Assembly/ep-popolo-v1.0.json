@@ -91,6 +91,7 @@
         }
       ],
       "email": "Vikki.Howells@assembly.wales",
+      "family_name": "Howells",
       "gender": "female",
       "id": "04bc51aa-6851-4636-8706-d3b7090c4643",
       "identifiers": [
@@ -520,6 +521,7 @@
         }
       ],
       "email": "Steffan.Lewis@assembly.wales",
+      "family_name": "Lewis",
       "gender": "male",
       "id": "123c8000-7bab-4592-ba9c-d931f508bbe4",
       "identifiers": [
@@ -569,6 +571,7 @@
         }
       ],
       "email": "Gareth.Bennett@assembly.wales",
+      "family_name": "Bennett",
       "gender": "male",
       "id": "127306dd-d8a1-4c39-97b6-c5bf5c7dd28e",
       "identifiers": [
@@ -1427,6 +1430,7 @@
         }
       ],
       "email": "Lee.Waters@assembly.wales",
+      "family_name": "Waters",
       "gender": "male",
       "id": "34594394-8bb7-47b9-9679-f4c984e76ec9",
       "identifiers": [
@@ -1626,6 +1630,7 @@
       ],
       "email": "Caroline.Jones@assembly.wales",
       "gender": "female",
+      "given_name": "Caroline",
       "id": "3d912847-69b6-4f42-821c-0ef2edc78aed",
       "identifiers": [
         {
@@ -1728,6 +1733,16 @@
         {
           "name": "Darren Millar AM",
           "note": "alternate"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "达伦·米拉尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "達倫·米拉爾",
+          "note": "multilingual"
         }
       ]
     },
@@ -2077,6 +2092,11 @@
           "lang": "en",
           "name": "Andrew R. T. Davies",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安德魯·R·T·戴維斯",
+          "note": "multilingual"
         }
       ]
     },
@@ -2105,6 +2125,10 @@
         {
           "identifier": "/m/073h3y",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "no2009085299",
+          "scheme": "lcauth"
         },
         {
           "identifier": "90505796",
@@ -2416,6 +2440,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no2017011532",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "532148632926830630009",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q7150146",
           "scheme": "wikidata"
         }
@@ -2602,6 +2634,7 @@
           "value": "Carl4AandD"
         }
       ],
+      "death_date": "2017-11-07",
       "email": "Carl.Sargeant@assembly.wales",
       "gender": "male",
       "given_name": "Carl",
@@ -2610,6 +2643,10 @@
         {
           "identifier": "178",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "114405981X",
+          "scheme": "gnd"
         },
         {
           "identifier": "Q5040766",
@@ -2638,8 +2675,20 @@
           "url": "https://cy.wikipedia.org/wiki/Carl_Sargeant"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Carl_Sargeant"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Carl_Sargeant"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Carl_Sargeant"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Carl_Sargeant"
         },
         {
           "note": "twitter",
@@ -2651,6 +2700,11 @@
         {
           "name": "Carl Sargeant AM",
           "note": "alternate"
+        },
+        {
+          "lang": "ja",
+          "name": "カール・サーガーント",
+          "note": "multilingual"
         }
       ]
     },
@@ -2724,6 +2778,16 @@
         {
           "lang": "ru",
           "name": "Алан Дейвис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "艾伦·戴维斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "艾倫·戴維斯",
           "note": "multilingual"
         }
       ]
@@ -2865,6 +2929,7 @@
       ],
       "email": "Eluned.Morgan@assembly.wales",
       "gender": "female",
+      "given_name": "Eluned",
       "id": "704a4db1-134c-4aa1-aab4-6b54338b5d66",
       "identifiers": [
         {
@@ -3094,6 +3159,10 @@
       "id": "77cd0ece-0e26-4498-9a60-c6d2ea3973a3",
       "identifiers": [
         {
+          "identifier": "10012697",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "131841010",
           "scheme": "bnf"
         },
@@ -3102,12 +3171,24 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "140716254",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 1440 6093",
           "scheme": "isni"
         },
         {
+          "identifier": "n91118989",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "291414435",
           "scheme": "nta"
+        },
+        {
+          "identifier": "n95001965",
+          "scheme": "nukat"
         },
         {
           "identifier": "035358904",
@@ -3699,6 +3780,7 @@
         }
       ],
       "email": "Rhianon.Passmore@assembly.wales",
+      "family_name": "Passmore",
       "gender": "female",
       "id": "9ae99e20-a86b-491b-9221-605b75823ea3",
       "identifiers": [
@@ -4694,7 +4776,9 @@
         }
       ],
       "email": "Dawn.Bowden@assembly.wales",
+      "family_name": "Bowden",
       "gender": "female",
+      "given_name": "Dawn",
       "id": "d3aa08cd-c7c8-4b36-87c9-07765620ac93",
       "identifiers": [
         {
@@ -4821,6 +4905,7 @@
         }
       ],
       "email": "Jayne.Bryant@assembly.wales",
+      "family_name": "Bryant",
       "gender": "female",
       "id": "d6560d36-c525-4e52-a85b-1035b7eab92b",
       "identifiers": [
@@ -5146,6 +5231,10 @@
         {
           "identifier": "mr-adam-price",
           "scheme": "hansard"
+        },
+        {
+          "identifier": "no2004089195",
+          "scheme": "lcauth"
         },
         {
           "identifier": "11494363X",
@@ -5741,7 +5830,9 @@
         }
       ],
       "email": "Michelle.Brown@assembly.wales",
+      "family_name": "Brown",
       "gender": "female",
+      "given_name": "Michelle",
       "id": "fd91a991-b76f-4094-bf57-b49c60b797fb",
       "identifiers": [
         {
@@ -6986,6 +7077,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ie",
+          "name": "Partise por li índependentie del Reyatu Unit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -7084,6 +7181,12 @@
         {
           "lang": "he",
           "name": "המפלגה השמרנית הוולשית",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Y Ceidwadwyr",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -8983,7 +9086,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "National Assembly for Wales election 2011",
+      "name": "National Assembly for Wales election, 2011",
       "start_date": "2011-05-05"
     },
     {
