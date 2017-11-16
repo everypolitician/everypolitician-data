@@ -63101,10 +63101,9 @@
       "start_date": "2013-04-03"
     },
     {
-      "area_id": "III",
-      "end_date": "2015-02-18",
+      "area_id": "area/lombardia_1",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/scelta_civica_per_l'italia",
+      "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7e719dea-3ece-4fa8-a938-90910c61e0cc",
       "role": "member",
@@ -64254,6 +64253,7 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2017-10-25",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)_-_indipendenti",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -64265,6 +64265,20 @@
         }
       ],
       "start_date": "2015-12-02"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=301477&idpersona=301477&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-10-25"
     },
     {
       "area_id": "III",
@@ -71901,6 +71915,11 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/lombardia_1",
+      "name": "Lombardia 1",
       "type": "constituency"
     },
     {
