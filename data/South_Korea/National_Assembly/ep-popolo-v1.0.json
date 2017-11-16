@@ -9470,6 +9470,10 @@
       "birth_date": "1958-01-21",
       "contact_details": [
         {
+          "type": "email",
+          "value": "kimbookyum@naver.com"
+        },
+        {
           "type": "phone",
           "value": "02-784-4367"
         },
@@ -9478,6 +9482,7 @@
           "value": "hopekbk"
         }
       ],
+      "email": "kimbookyum@naver.com",
       "gender": "male",
       "id": "4897ae11-77fc-4d14-84b6-d99eb4f6ad1b",
       "identifiers": [
@@ -9511,6 +9516,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/hopekbk"
+        },
+        {
+          "note": "website",
+          "url": "http://blog.naver.com/kimbookyum"
         }
       ],
       "name": "KIM BOOKYUM",
@@ -22796,10 +22805,15 @@
       "birth_date": "1960-07-26",
       "contact_details": [
         {
+          "type": "email",
+          "value": "south826@naver.com"
+        },
+        {
           "type": "phone",
           "value": "02-784-2855"
         }
       ],
+      "email": "south826@naver.com",
       "gender": "male",
       "id": "a421e5ba-d7f6-43c3-8dfb-cd5b5928bab7",
       "identifiers": [
@@ -37846,6 +37860,11 @@
     },
     {
       "classification": "party",
+      "id": "party/민중당",
+      "name": "민중당"
+    },
+    {
+      "classification": "party",
       "id": "party/바른정당",
       "identifiers": [
         {
@@ -38198,31 +38217,6 @@
           "name": "Партия новых рубежей",
           "note": "multilingual",
           "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/새민중정당",
-      "identifiers": [
-        {
-          "identifier": "Q38254010",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "새민중정당",
-      "other_names": [
-        {
-          "lang": "ko",
-          "name": "새민중정당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "People's New Political Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
         }
       ]
     },
@@ -40928,7 +40922,7 @@
     {
       "area_id": "area/서울_강남구갑",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "4b0ac817-3919-4309-aa30-3315c888f044",
       "role": "member",
@@ -41019,7 +41013,7 @@
     {
       "area_id": "area/경기_포천시가평군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "4e05d3c4-48ef-49d9-a021-ddccc489a5ba",
       "role": "member",
@@ -41683,7 +41677,7 @@
     {
       "area_id": "area/서울_강북구갑",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "60be3f54-bcf1-4ccc-a74c-77c469bd0996",
       "role": "member",
@@ -41930,7 +41924,7 @@
     {
       "area_id": "area/부산_중구영도구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "6643a514-7417-441c-98a7-820061bbd8c2",
       "role": "member",
@@ -41943,7 +41937,7 @@
     {
       "area_id": "area/울산_북구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/새민중정당",
+      "on_behalf_of_id": "party/민중당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "684eaa28-2800-4eef-be6c-2f806d7d3555",
       "role": "member",
@@ -43206,7 +43200,7 @@
     {
       "area_id": "area/울산_울주군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "8c987415-81ed-4c0b-b568-d2ed948c87a6",
       "role": "member",
@@ -43687,7 +43681,7 @@
     {
       "area_id": "area/강원_홍천군철원군화천군양구군인제군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "9f2a9ed5-2c31-4e8c-bf5b-a3ee7cf7b5f7",
       "role": "member",
@@ -45026,7 +45020,7 @@
     {
       "area_id": "area/서울_양천구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "c7305b0e-0c3f-4d7b-86c8-5c7a21f5f72c",
       "role": "member",
@@ -45689,7 +45683,7 @@
     {
       "area_id": "area/경기_김포시을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "e287fd9e-2d5e-4383-b18f-ef2180990636",
       "role": "member",
@@ -46417,7 +46411,7 @@
     {
       "area_id": "area/울산_동구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/새민중정당",
+      "on_behalf_of_id": "party/민중당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "f7cd4006-4e71-4b43-84b1-11070ed75941",
       "role": "member",
