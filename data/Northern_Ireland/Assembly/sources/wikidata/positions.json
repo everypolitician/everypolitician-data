@@ -5458,19 +5458,6 @@
   ],
   "Q333235": [
     {
-      "id": "Q16707842",
-      "label": "Member of Parliament in the United Kingdom",
-      "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom",
-      "qualifiers": {
-        "P582": "2010-01-13",
-        "P1365": "John Taylor, Baron Kilclooney",
-        "P1366": "Jim Shannon",
-        "P580": "1998-06-25",
-        "P768": "Strangford"
-      }
-    },
-    {
       "id": "Q35647955",
       "label": "Member of the 54th Parliament of the United Kingdom",
       "title": "Member of the 54th Parliament of the United Kingdom",
@@ -12495,7 +12482,10 @@
       "description": "member of the Irish Parliament",
       "qualifiers": {
         "P768": "Louth",
-        "P1365": "Arthur Morgan"
+        "P580": "2016-03-10",
+        "P2715": "Irish general election, 2016",
+        "P4100": "Sinn Féin",
+        "P2937": "32nd Dáil"
       }
     },
     {
@@ -12638,6 +12628,20 @@
         "P582": "1987-05-18",
         "P2715": "United Kingdom general election, 1983",
         "P1534": "dissolution of parliament"
+      }
+    },
+    {
+      "id": "Q654291",
+      "label": "Deputy to the Dáil",
+      "title": "Deputy to the Dáil",
+      "description": "member of the Irish Parliament",
+      "qualifiers": {
+        "P580": "2011-03-09",
+        "P582": "2016-02-03",
+        "P2937": "31st Dáil",
+        "P2715": "Irish general election, 2011",
+        "P768": "Louth",
+        "P4100": "Sinn Féin"
       }
     }
   ],
