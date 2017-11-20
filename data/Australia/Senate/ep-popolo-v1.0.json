@@ -554,6 +554,23 @@
       "sort_name": "Bishop, Mark"
     },
     {
+      "family_name": "Brockman",
+      "given_name": "Slade",
+      "id": "09a10df6-dec8-4a08-ae34-eb0559c01995",
+      "identifiers": [
+        {
+          "identifier": "30484",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10900",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Slade Brockman",
+      "sort_name": "Brockman, Slade"
+    },
+    {
       "birth_date": "1944-03-23",
       "family_name": "Coates",
       "gender": "male",
@@ -6600,37 +6617,6 @@
       "sort_name": "Stephens, Ursula"
     },
     {
-      "birth_date": "1964-08-04",
-      "family_name": "Bartlett",
-      "gender": "male",
-      "given_name": "Andrew",
-      "id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "identifiers": [
-        {
-          "identifier": "10029",
-          "scheme": "openaustralia"
-        },
-        {
-          "identifier": "Q16152123",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Andrew_Bartlett.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Andrew_Bartlett.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Andrew_Bartlett"
-        }
-      ],
-      "name": "Andrew Bartlett",
-      "sort_name": "Bartlett, Andrew"
-    },
-    {
       "birth_date": "1962-09-04",
       "family_name": "Collins",
       "gender": "female",
@@ -11971,6 +11957,29 @@
       ],
       "name": "Susan Ryan",
       "sort_name": "Ryan, Susan"
+    },
+    {
+      "family_name": "Bartlett",
+      "given_name": "Andrew",
+      "id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "identifiers": [
+        {
+          "identifier": "DT6",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10029",
+          "scheme": "openaustralia"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.democrats.org.au/people/index.htm?person_id=76&display=1&level=1"
+        }
+      ],
+      "name": "Andrew Bartlett",
+      "sort_name": "Bartlett, Andrew"
     },
     {
       "birth_date": "1941-12-19",
@@ -18504,6 +18513,20 @@
       ]
     },
     {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "09a10df6-dec8-4a08-ae34-eb0559c01995",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2017-08-16"
+    },
+    {
       "area_id": "area/tasmania",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "australian_labor_party",
@@ -23907,73 +23930,6 @@
       ]
     },
     {
-      "area_id": "area/queensland",
-      "legislative_period_id": "term/38",
-      "on_behalf_of_id": "australian_democrats",
-      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
-      "person_id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://data.openaustralia.org/members/senators.xml"
-        }
-      ],
-      "start_date": "1997-10-30"
-    },
-    {
-      "area_id": "area/queensland",
-      "legislative_period_id": "term/39",
-      "on_behalf_of_id": "australian_democrats",
-      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
-      "person_id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://data.openaustralia.org/members/senators.xml"
-        }
-      ]
-    },
-    {
-      "area_id": "area/queensland",
-      "legislative_period_id": "term/40",
-      "on_behalf_of_id": "australian_democrats",
-      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
-      "person_id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://data.openaustralia.org/members/senators.xml"
-        }
-      ]
-    },
-    {
-      "area_id": "area/queensland",
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "australian_democrats",
-      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
-      "person_id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://data.openaustralia.org/members/senators.xml"
-        }
-      ]
-    },
-    {
-      "area_id": "area/queensland",
-      "end_date": "2008-06-30",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "australian_democrats",
-      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
-      "person_id": "7972765e-ec2d-4593-a8d9-4b9761e61464",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://data.openaustralia.org/members/senators.xml"
-        }
-      ]
-    },
-    {
       "area_id": "area/victoria",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "australian_labor_party",
@@ -26877,7 +26833,7 @@
     },
     {
       "area_id": "area/wa",
-      "end_date": "2005-05-30",
+      "end_date": "2005-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "australian_democrats",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -28964,6 +28920,73 @@
       ]
     },
     {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/38",
+      "on_behalf_of_id": "australian_democrats",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "1997-10-30"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/39",
+      "on_behalf_of_id": "australian_democrats",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "australian_democrats",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "australian_democrats",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/queensland",
+      "end_date": "2008-06-30",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "australian_democrats",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d25b1f83-aeb7-4dff-a216-1ebbe467bf04",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
       "area_id": "area/victoria",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "liberal_party",
@@ -30087,6 +30110,7 @@
     },
     {
       "area_id": "area/wa",
+      "end_date": "2017-07-31",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
