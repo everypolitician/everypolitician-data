@@ -777,9 +777,20 @@
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44770"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/T_jakovina.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tihomir_Jakovina"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Tihomir_Jakovina"
+        },
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Tihomir_Jakovina"
@@ -1578,6 +1589,10 @@
       "given_name": "Zoran",
       "id": "3724e2df-3461-40dc-91bc-b1d7eaedad9d",
       "identifiers": [
+        {
+          "identifier": "biography/Zoran-Milanovic",
+          "scheme": "britannica"
+        },
         {
           "identifier": "/m/02rj3p1",
           "scheme": "freebase"
@@ -6084,6 +6099,10 @@
       "id": "a401d214-8599-41ec-8c18-6a917582d457",
       "identifiers": [
         {
+          "identifier": "10004395",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "270725",
           "scheme": "fast"
         },
@@ -7604,7 +7623,7 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=19617"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Andrej_Plenković_2015_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/PM_Andrej_Plenković_(cropped).jpg"
         }
       ],
       "links": [
@@ -7705,12 +7724,20 @@
           "url": "https://sh.wikipedia.org/wiki/Andrej_Plenković"
         },
         {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Andrej_Plenković"
         },
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Andrej_Plenković"
         },
         {
           "note": "Wikipedia (tr)",
@@ -9147,6 +9174,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Ivan_Šuker"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шукер,_Иван"
         },
         {
           "note": "Wikipedia (sh)",
@@ -10951,6 +10982,12 @@
         {
           "lang": "ko",
           "name": "크로아티아 민주연합",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד הדמוקרטי הקרואטי",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -13525,6 +13562,12 @@
         {
           "lang": "bg",
           "name": "Мост на независимите листи",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "独立候補者名簿の橋",
           "note": "multilingual",
           "source": "wikidata-label"
         },
