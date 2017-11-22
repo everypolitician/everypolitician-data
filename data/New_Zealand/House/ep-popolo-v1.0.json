@@ -245,6 +245,10 @@
       "sort_name": "Henare, Tau"
     },
     {
+      "id": "06d7702e-3444-46f8-a8ad-d09266972d27",
+      "name": "Māori CS"
+    },
+    {
       "birth_date": "1955-09-11",
       "contact_details": [
         {
@@ -2048,6 +2052,10 @@
         }
       ],
       "sort_name": "Lotu-Iiga, Peseta Sam"
+    },
+    {
+      "id": "250d9016-6b37-41ff-aaa1-1d16f1c31b9c",
+      "name": "Labour"
     },
     {
       "birth_date": "1969",
@@ -4523,6 +4531,10 @@
       "sort_name": "Dunne, Peter"
     },
     {
+      "id": "4f279009-81d2-4674-92b1-179b89a0eb7f",
+      "name": "ACT CS"
+    },
+    {
       "birth_date": "1974-02-28",
       "gender": "female",
       "given_name": "Moana",
@@ -4551,6 +4563,10 @@
       ],
       "name": "Moana Mackey",
       "sort_name": "Mackey, Moana"
+    },
+    {
+      "id": "516f306e-3e83-444b-830b-1f1cb337b425",
+      "name": "57"
     },
     {
       "contact_details": [
@@ -4789,6 +4805,10 @@
       ],
       "name": "Maryan Street",
       "sort_name": "Street, Maryan"
+    },
+    {
+      "id": "57e96ec2-6e27-4764-8224-b429f2737f2d",
+      "name": "121"
     },
     {
       "contact_details": [
@@ -7179,6 +7199,10 @@
       "sort_name": "Little, Andrew"
     },
     {
+      "id": "77616c74-9797-4156-ab32-61c16bef29e8",
+      "name": "64"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -8495,6 +8519,10 @@
       "sort_name": "Davis, Kelvin"
     },
     {
+      "id": "8f1e91ec-7480-408c-85f3-d329ae42def1",
+      "name": "United Future CS"
+    },
+    {
       "birth_date": "1954",
       "gender": "female",
       "given_name": "Lesley",
@@ -9237,6 +9265,10 @@
       ]
     },
     {
+      "id": "9a56d2bf-b04f-4b7a-a335-e45d45c12b22",
+      "name": "Green"
+    },
+    {
       "birth_date": "1948-11-13",
       "family_name": "Smith",
       "gender": "male",
@@ -9604,6 +9636,14 @@
         }
       ],
       "name": "Katrina Shanks"
+    },
+    {
+      "id": "a8ca85c6-40bd-4405-80df-3527ed7bc722",
+      "name": "Independent Coalition"
+    },
+    {
+      "id": "abadf371-1b41-4f21-a8bf-7ab8ad50709f",
+      "name": "7"
     },
     {
       "birth_date": "1964-05-08",
@@ -12830,6 +12870,14 @@
       "sort_name": "Kaye, Nikki"
     },
     {
+      "id": "dacc00f6-1fee-4aca-947a-cdb45bfef71b",
+      "name": "National"
+    },
+    {
+      "id": "dccf4853-9686-4825-b7dd-f1831bd41361",
+      "name": "NZ First"
+    },
+    {
       "birth_date": "1955-09-11",
       "contact_details": [
         {
@@ -15136,6 +15184,10 @@
         }
       ],
       "sort_name": "Kedgley, Sue"
+    },
+    {
+      "id": "fe6d68c4-1f97-4997-9a09-c04342659fb5",
+      "name": "Mana"
     }
   ],
   "organizations": [
@@ -18759,6 +18811,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -19188,6 +19245,14 @@
       "on_behalf_of_id": "party/new_zealand_national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "04facc0f-92c4-4dcf-823e-2c4588952c02",
+      "role": "member"
+    },
+    {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "06d7702e-3444-46f8-a8ad-d09266972d27",
       "role": "member"
     },
     {
@@ -19854,6 +19919,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/lotu-iiga-peseta-sam/"
         }
       ]
+    },
+    {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "250d9016-6b37-41ff-aaa1-1d16f1c31b9c",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20942,6 +21015,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "4f279009-81d2-4674-92b1-179b89a0eb7f",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -20963,6 +21044,14 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "514be4cf-7338-4699-88b5-3799126f2be2",
+      "role": "member"
+    },
+    {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "516f306e-3e83-444b-830b-1f1cb337b425",
       "role": "member"
     },
     {
@@ -21084,6 +21173,14 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "57245b14-3de1-4d24-9c60-c77873293b30",
+      "role": "member"
+    },
+    {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "57e96ec2-6e27-4764-8224-b429f2737f2d",
       "role": "member"
     },
     {
@@ -21917,6 +22014,14 @@
       ]
     },
     {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "77616c74-9797-4156-ab32-61c16bef29e8",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
@@ -22426,6 +22531,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "8f1e91ec-7480-408c-85f3-d329ae42def1",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -22742,6 +22855,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9a56d2bf-b04f-4b7a-a335-e45d45c12b22",
+      "role": "member"
+    },
+    {
       "area_id": "area/rodney",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -22991,6 +23112,22 @@
       "on_behalf_of_id": "party/new_zealand_national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "a8777d35-16ff-430b-a825-ecd892f92c09",
+      "role": "member"
+    },
+    {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "a8ca85c6-40bd-4405-80df-3527ed7bc722",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "abadf371-1b41-4f21-a8bf-7ab8ad50709f",
       "role": "member"
     },
     {
@@ -24414,6 +24551,22 @@
       ]
     },
     {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "dacc00f6-1fee-4aca-947a-cdb45bfef71b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "dccf4853-9686-4825-b7dd-f1831bd41361",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "party/green_party_of_aotearoa_new_zealand",
@@ -25373,6 +25526,14 @@
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "fe4aae7d-ffd6-4dc5-b05a-709992f485fe",
       "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "fe6d68c4-1f97-4997-9a09-c04342659fb5",
+      "role": "member"
     }
   ],
   "events": [
@@ -26123,6 +26284,56 @@
     }
   ],
   "areas": [
+    {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
     {
       "id": "area/aoraki",
       "identifiers": [
@@ -26913,6 +27124,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
