@@ -269,7 +269,7 @@
       "id": "Q30461",
       "label": "president",
       "title": "president (of NATO Parliamentary Assembly)",
-      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "description": "leader of a country or part of a country, usually in republics",
       "qualifiers": {
         "P642": "NATO Parliamentary Assembly",
         "P580": "2016-11-19",
@@ -603,7 +603,7 @@
       "id": "Q1255921",
       "label": "president",
       "title": "president (of Province of Venice)",
-      "description": "non-political office (administrative) of an organization",
+      "description": "non-political leader of an organization, company, community, club, trade union, university or other group",
       "qualifiers": {
         "P580": "2004-06-13",
         "P582": "2009-06-21",
@@ -2620,9 +2620,9 @@
     {
       "id": "Q3954360",
       "label": "federal secretary",
-      "title": "federal secretary (of Northern League)",
+      "title": "federal secretary (of Lega Nord)",
       "qualifiers": {
-        "P642": "Northern League",
+        "P642": "Lega Nord",
         "P580": "2013-12-15",
         "P1365": "Roberto Maroni",
         "P582": "2017-05-21"
@@ -2637,7 +2637,7 @@
         "P642": "Milan",
         "P580": "1993-07-20",
         "P582": "1997-05-12",
-        "P463": "Northern League",
+        "P463": "Lega Nord",
         "P805": "Italian local elections, 1993"
       }
     },
@@ -2650,7 +2650,7 @@
         "P642": "Milan",
         "P580": "2011-06-10",
         "P582": "2012-10-10",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -2662,7 +2662,7 @@
         "P642": "Milan",
         "P580": "2006-06-09",
         "P582": "2011-05-15",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -2674,7 +2674,7 @@
         "P642": "Milan",
         "P580": "2001-05-24",
         "P582": "2006-05-30",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -2686,7 +2686,7 @@
         "P642": "Milan",
         "P580": "1999-05-10",
         "P582": "2001-05-14",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -2700,7 +2700,7 @@
         "P1366": "Marco Rondini",
         "P1365": "",
         "P1629": "Italian general election, 2013",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -2713,7 +2713,7 @@
         "P582": "2009-07-13",
         "P1365": "",
         "P1629": "Italian general election, 2008",
-        "P463": "Northern League"
+        "P463": "Lega Nord"
       }
     },
     {
@@ -5284,8 +5284,8 @@
         "P1365": "Nunzia De Girolamo",
         "P582": "2014-02-22",
         "P1366": "Maurizio Martina",
-        "P794": "ad interim",
-        "P488": "Enrico Letta"
+        "P488": "Enrico Letta",
+        "P2868": "ad interim"
       }
     }
   ],
@@ -6095,10 +6095,10 @@
     {
       "id": "Q1553195",
       "label": "party leader",
-      "title": "party leader (of Northern League)",
+      "title": "party leader (of Lega Nord)",
       "description": "leading official of a political party",
       "qualifiers": {
-        "P642": "Northern League"
+        "P642": "Lega Nord"
       }
     },
     {
