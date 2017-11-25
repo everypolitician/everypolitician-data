@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "05608f2f-eeae-4324-80fd-f42cc97db7c0",
+      "image": "http://vspmr.org/im.xp/053056048050055124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/053056048050055124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КРАВЧУК Юрий Владимирович"
+    },
+    {
       "id": "08b1ed88-e8ed-4a2b-9200-f373468a7388",
       "identifiers": [
         {
@@ -174,6 +184,16 @@
         }
       ],
       "name": "ЛЕОНТЬЕВ Олег Сергеевич"
+    },
+    {
+      "id": "292e8b0e-3a78-4f27-8988-f5a613020dba",
+      "image": "http://vspmr.org/im.xp/053055052055049124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/053055052055049124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "ГАРЕЕВ Руслан Ханифович"
     },
     {
       "id": "36ecbf9b-bd89-4c33-986f-d70e5439d5f2",
@@ -967,6 +987,19 @@
   },
   "memberships": [
     {
+      "area_id": "area/4",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "05608f2f-eeae-4324-80fd-f42cc97db7c0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kravchuk-yuriy-vladimirovich/"
+        }
+      ]
+    },
+    {
       "area_id": "area/13",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/unknown",
@@ -1171,6 +1204,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/leontjev-oleg-sergeevich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/7",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "292e8b0e-3a78-4f27-8988-f5a613020dba",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/gareev-ruslan-hanifovich/"
         }
       ]
     },
