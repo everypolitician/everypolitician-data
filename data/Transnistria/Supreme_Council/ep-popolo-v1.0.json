@@ -4,6 +4,16 @@
   ],
   "persons": [
     {
+      "id": "01198bb4-a2b4-4b21-8ad0-adc7c34468ee",
+      "image": "http://vspmr.org/im.xp/053055052055049124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/053055052055049124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "ГАРЕЕВ Руслан Ханифович"
+    },
+    {
       "id": "08b1ed88-e8ed-4a2b-9200-f373468a7388",
       "identifiers": [
         {
@@ -200,6 +210,16 @@
         }
       ],
       "name": "БЕЛЯКОВ Олег Леонидович"
+    },
+    {
+      "id": "38fe1e35-cf0c-4108-9f3d-3cf8662076b5",
+      "image": "http://vspmr.org/im.xp/053056048050055124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/053056048050055124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КРАВЧУК Юрий Владимирович"
     },
     {
       "id": "40984009-db40-4166-90ad-908e2b4c5555",
@@ -967,6 +987,19 @@
   },
   "memberships": [
     {
+      "area_id": "area/7",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "01198bb4-a2b4-4b21-8ad0-adc7c34468ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/gareev-ruslan-hanifovich/"
+        }
+      ]
+    },
+    {
       "area_id": "area/13",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/unknown",
@@ -1210,6 +1243,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/belyakov-oleg-leonidovich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/4",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "38fe1e35-cf0c-4108-9f3d-3cf8662076b5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kravchuk-yuriy-vladimirovich/"
         }
       ]
     },
