@@ -52,6 +52,7 @@
     },
     {
       "birth_date": "1925-06-15",
+      "death_date": "2017-11-28",
       "family_name": "Millar",
       "gender": "male",
       "given_name": "Percival",
@@ -4734,6 +4735,10 @@
         {
           "identifier": "10607",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "602685",
+          "scheme": "nlatrove"
         },
         {
           "identifier": "10607",
@@ -9882,6 +9887,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0001 1063 8698",
+          "scheme": "isni"
+        },
+        {
           "identifier": "nr88004595",
           "scheme": "lcauth"
         },
@@ -10802,6 +10811,11 @@
         {
           "lang": "mk",
           "name": "Малколм Тарнбул",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Малкольм Төрнбулл",
           "note": "multilingual"
         },
         {
@@ -18326,6 +18340,11 @@
       "name": "Peter Dutton",
       "other_names": [
         {
+          "lang": "fa",
+          "name": "پیتر داتن",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "ピーター・ダットン",
           "note": "multilingual"
@@ -21498,6 +21517,10 @@
       "id": "b60d9dc8-1e12-4439-b2c0-b2c70271b1be",
       "identifiers": [
         {
+          "identifier": "biography/Kevin-Rudd",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "10552",
           "scheme": "everypolitician_legacy"
         },
@@ -24225,6 +24248,10 @@
         {
           "identifier": "10626",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n80111721",
+          "scheme": "lcauth"
         },
         {
           "identifier": "10626",
@@ -28897,6 +28924,10 @@
       "id": "e65961ae-3861-4e51-84f4-dba556be6e41",
       "identifiers": [
         {
+          "identifier": "90668121",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "12340129s",
           "scheme": "bnf"
         },
@@ -28915,6 +28946,14 @@
         {
           "identifier": "0000 0001 1478 5855",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n2003031251",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "n2010144484",
+          "scheme": "nukat"
         },
         {
           "identifier": "10420",
@@ -33146,7 +33185,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -33771,6 +33810,24 @@
         {
           "lang": "tt",
           "name": "фиркасез",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -35047,6 +35104,12 @@
         {
           "lang": "fr",
           "name": "président d'assemblée parlementaire",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "יושבת ראש פרלמנט",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
