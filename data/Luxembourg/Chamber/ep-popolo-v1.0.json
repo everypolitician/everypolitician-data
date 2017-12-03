@@ -495,6 +495,7 @@
         }
       ],
       "email": "lpolfer@chd.lu",
+      "family_name": "Polfer",
       "gender": "male",
       "given_name": "Lydie",
       "id": "3ba3888a-d2d4-4997-958c-3594ac55a4ae",
@@ -1106,6 +1107,7 @@
         }
       ],
       "email": "rnegri@chd.lu",
+      "family_name": "Negri",
       "gender": "male",
       "given_name": "Roger",
       "id": "68c06037-8c7b-4bb0-9a3d-d5f2ac95fc9f",
@@ -1172,7 +1174,7 @@
           "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1591"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marc_Angel,_Bridges_not_Walls-101.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Journée_de_la_commémoration_nationale_2016,_Marc_Angel-102.jpg"
         }
       ],
       "links": [
@@ -1204,6 +1206,7 @@
         }
       ],
       "email": "eberger@chd.lu",
+      "family_name": "Berger",
       "gender": "male",
       "given_name": "Eugène",
       "id": "6c2ffcae-791f-4a58-9c7e-eb037beea515",
@@ -1248,7 +1251,14 @@
           "url": "https://lb.wikipedia.org/wiki/Eugène_Berger"
         }
       ],
-      "name": "Eugène Berger"
+      "name": "Eugène Berger",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أوجين بيرغر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-06-10",
@@ -1497,6 +1507,7 @@
       ],
       "email": "emertens@chd.lu",
       "gender": "male",
+      "given_name": "Edy",
       "id": "734affd8-8d31-44fd-b969-9df2c04433a3",
       "identifiers": [
         {
@@ -1915,6 +1926,7 @@
         }
       ],
       "email": "ycruchten@chd.lu",
+      "family_name": "Cruchten",
       "gender": "male",
       "given_name": "Yves",
       "id": "9199e052-9260-4aa8-a99d-923722b1f676",
@@ -2514,9 +2526,14 @@
         {
           "type": "email",
           "value": "abrasseur@chd.lu"
+        },
+        {
+          "type": "twitter",
+          "value": "Anne_Brasseur"
         }
       ],
       "email": "abrasseur@chd.lu",
+      "family_name": "Brasseur",
       "gender": "male",
       "given_name": "Anne",
       "id": "c10f9191-2c89-4fec-9ce3-8708774fd0ab",
@@ -2575,6 +2592,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Анн_Брассер"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Anne_Brasseur"
         }
       ],
       "name": "Anne Brasseur",
@@ -2627,7 +2648,7 @@
           "url": "http://www.chd.lu/wps/PA_TbinoscopePersonne/FTSImageRetriever?ref=1585"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Claude-Adam--w.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Claude_Adam,_Inauguration_plaque_commémorative,_«Villa_Pauly»-101.jpg"
         }
       ],
       "links": [
@@ -3557,6 +3578,12 @@
         {
           "lang": "lb",
           "name": "Alternativ Demokratesch Reformpartei",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lb",
+          "name": "Aktiounskomitee fir Demokratie a Rentegerechtegkeet",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
