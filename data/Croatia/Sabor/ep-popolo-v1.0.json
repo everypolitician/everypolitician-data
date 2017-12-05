@@ -125,6 +125,7 @@
     {
       "birth_date": "1985-11-14",
       "gender": "male",
+      "given_name": "Ivan",
       "id": "0a42fc71-537d-4157-a570-0c1f0945aa2d",
       "identifiers": [
         {
@@ -366,6 +367,7 @@
     {
       "birth_date": "1968-11-16",
       "gender": "male",
+      "given_name": "Vlaho",
       "id": "110987e5-bc92-4fb6-907f-364acc43d3f5",
       "identifiers": [
         {
@@ -2384,6 +2386,7 @@
     {
       "birth_date": "1979-05-24",
       "gender": "male",
+      "given_name": "Peđa",
       "id": "4ca1a50c-84d0-4535-8f67-90ec6206c919",
       "identifiers": [
         {
@@ -2484,6 +2487,7 @@
     {
       "birth_date": "1974-04-25",
       "gender": "male",
+      "given_name": "Ivan",
       "id": "528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
       "identifiers": [
         {
@@ -2523,11 +2527,16 @@
     {
       "birth_date": "1968-09-20",
       "gender": "male",
+      "given_name": "Miro",
       "id": "52a26069-c0ee-4ad9-bfae-785ef7dc4e8b",
       "identifiers": [
         {
           "identifier": "14506261s",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0001 1591 7186",
+          "scheme": "isni"
         },
         {
           "identifier": "n2001153021",
@@ -3146,6 +3155,7 @@
     {
       "birth_date": "1962-10-03",
       "gender": "male",
+      "given_name": "Ranko",
       "id": "6463cb7a-b05f-42b1-bdad-353b184aefec",
       "identifiers": [
         {
@@ -3641,6 +3651,10 @@
         {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Таніна_Піцула"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tonino_Picula"
         },
         {
           "note": "Wikipedia (de)",
@@ -4536,6 +4550,7 @@
     {
       "birth_date": "1968-09-15",
       "gender": "male",
+      "given_name": "Orsat",
       "id": "7f5ec87f-a9f6-49e0-baba-82253e606538",
       "identifiers": [
         {
@@ -4592,6 +4607,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Drago",
       "id": "7f60210c-de57-435c-9807-ed39f367e051",
       "identifiers": [
         {
@@ -6511,6 +6527,7 @@
     {
       "birth_date": "1976-11-16",
       "gender": "male",
+      "given_name": "Boris",
       "id": "b2ded576-98fb-4d91-a305-0ebcf09ca652",
       "identifiers": [
         {
@@ -7205,6 +7222,10 @@
         {
           "identifier": "119435",
           "scheme": "europarlmep"
+        },
+        {
+          "identifier": "179145003297161301512",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q12956737",
@@ -7985,6 +8006,7 @@
     {
       "birth_date": "1968-04-17",
       "gender": "female",
+      "given_name": "Milanka",
       "id": "d38b673c-8864-4a63-a78f-c0ac80f271fa",
       "identifiers": [
         {
@@ -8212,6 +8234,7 @@
       ],
       "family_name": "Milošević",
       "gender": "male",
+      "given_name": "Domagoj",
       "id": "d8c1783a-8411-4ae5-aa79-06cfe26b8abf",
       "identifiers": [
         {
@@ -10210,11 +10233,23 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.buz.hr/"
+        }
+      ],
       "name": "BUZ",
       "other_names": [
         {
           "lang": "hr",
           "name": "Blok umirovljenici zajedno",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Bloc Pensioners Together",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12713,7 +12748,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12942,6 +12977,12 @@
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Bebas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -13338,6 +13379,24 @@
         {
           "lang": "tt",
           "name": "фиркасез",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
