@@ -77,11 +77,25 @@
       "name": "Michael Scott"
     },
     {
+      "birth_date": "1957-10-04",
+      "gender": "male",
       "id": "0e7e87ce-4744-4f7e-a19a-4c47f028c140",
+      "identifiers": [
+        {
+          "identifier": "Q6409462",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg",
       "images": [
         {
           "url": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Swan"
         }
       ],
       "name": "Kim Swan"
