@@ -127,7 +127,8 @@
         "url": "http://www.welshlabour.org.uk/",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "R:146 G:0 B:13"
   },
   "welsh_conservative_party": {
     "identifiers": [
@@ -197,7 +198,8 @@
         "url": "http://www.welshconservatives.com/",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "R:0 G:135 B:220"
   },
   "plaid_cymru": {
     "identifiers": [
@@ -315,7 +317,8 @@
         "url": "https://www.plaid.cymru",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "R:63 G:132 B:40"
   },
   "welsh_liberal_democrats": {
     "identifiers": [
@@ -348,6 +351,12 @@
         "name": "웨일스 자유민주당",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Democratiaid Rhyddfrodol Cymreig",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -355,7 +364,8 @@
         "url": "http://www.welshlibdems.org.uk",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "R:253 G:187 B:48"
   },
   "united_kingdom_independence_party_(ukip)": {
     "identifiers": [
@@ -654,7 +664,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
+    "srgb": "R:239 G:230 B:0"
   },
   "independent": {
     "identifiers": [
@@ -1051,6 +1062,12 @@
       {
         "lang": "gd",
         "name": "neach-poileataigs neo-eisimeileach",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Bebas",
         "note": "multilingual",
         "source": "wikidata-label"
       },
