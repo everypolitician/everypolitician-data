@@ -3856,6 +3856,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0001 0758 5388",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n00013228",
           "scheme": "lcauth"
         },
@@ -3906,6 +3910,7 @@
       "name": "Michel Picard"
     },
     {
+      "birth_date": "1969",
       "contact_details": [
         {
           "type": "email",
@@ -7134,6 +7139,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "nb2011004790",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "35724",
           "scheme": "represent"
         },
@@ -7195,6 +7204,10 @@
         {
           "identifier": "guy-lauzon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n2007059453",
+          "scheme": "lcauth"
         },
         {
           "identifier": "25516",
@@ -7495,8 +7508,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no2007055780",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "1826",
           "scheme": "represent"
+        },
+        {
+          "identifier": "190378999",
+          "scheme": "sudoc"
         },
         {
           "identifier": "9622700",
@@ -7889,7 +7910,14 @@
           "url": "http://shaunchen.com"
         }
       ],
-      "name": "Shaun Chen"
+      "name": "Shaun Chen",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "陳聖源",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-03-24",
@@ -11284,6 +11312,10 @@
         {
           "identifier": "garry-breitkreuz",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "nb2008005733",
+          "scheme": "lcauth"
         },
         {
           "identifier": "1268",
@@ -15746,7 +15778,7 @@
       ],
       "email": "Helene.Laverdiere@parl.gc.ca",
       "gender": "female",
-      "given_name": "Hélène",
+      "given_name": "Fredérique Pichon",
       "id": "61ad920f-65fd-4a04-84d3-62e9f377175f",
       "identifiers": [
         {
@@ -16255,6 +16287,10 @@
         {
           "identifier": "71482",
           "scheme": "represent"
+        },
+        {
+          "identifier": "2203148149512096930006",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q3441197",
@@ -33087,6 +33123,10 @@
           "url": "https://bg.wikipedia.org/wiki/Марк_Гарно"
         },
         {
+          "note": "Wikipedia (ckb)",
+          "url": "https://ckb.wikipedia.org/wiki/مارک_گارنۆ"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Marc_Garneau"
         },
@@ -36020,6 +36060,10 @@
         {
           "identifier": "0000 0000 7369 1456",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n2007026693",
+          "scheme": "lcauth"
         },
         {
           "identifier": "1832",
@@ -41099,6 +41143,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "he",
+          "name": "המפלגה הירוקה של קנדה",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Partido Verde de Canada",
           "note": "multilingual",
@@ -41288,7 +41338,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -41517,6 +41567,12 @@
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Bebas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -41913,6 +41969,24 @@
         {
           "lang": "tt",
           "name": "фиркасез",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
