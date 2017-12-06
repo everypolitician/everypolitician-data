@@ -1953,6 +1953,11 @@
       "name": "Paul Berry",
       "other_names": [
         {
+          "lang": "ru",
+          "name": "Пол Берри",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "பவுல் பெர்ரி",
           "note": "multilingual"
@@ -2497,7 +2502,7 @@
           "scheme": "historichansard"
         },
         {
-          "identifier": "101107659",
+          "identifier": "107659",
           "scheme": "oxforddnb"
         },
         {
@@ -2640,8 +2645,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 8181 3564",
+          "scheme": "isni"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13860",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "323909",
+          "scheme": "selibr"
         },
         {
           "identifier": "059523824",
@@ -3675,7 +3688,7 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "101098537",
+          "identifier": "98537",
           "scheme": "oxforddnb"
         },
         {
@@ -4357,6 +4370,10 @@
         {
           "identifier": "462",
           "scheme": "historichansard"
+        },
+        {
+          "identifier": "F74291",
+          "scheme": "national_archives"
         },
         {
           "identifier": "uk.org.publicwhip/person/10411",
@@ -5396,8 +5413,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "153039795",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13785",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "170861272",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q7440987",
@@ -9737,6 +9762,7 @@
       ]
     },
     {
+      "birth_date": "1953",
       "death_date": "2006-09-24",
       "gender": "male",
       "given_name": "Michael",
@@ -10953,6 +10979,12 @@
     },
     {
       "birth_date": "1980-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "little_pengelly"
+        }
+      ],
       "gender": "female",
       "given_name": "Emma",
       "id": "d75803ce-1eff-4152-94ef-64f49f767451",
@@ -10984,6 +11016,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Emma_Little-Pengelly"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/little_pengelly"
         }
       ],
       "name": "Emma Pengelly"
@@ -11932,6 +11968,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "193246",
+          "scheme": "selibr"
+        },
+        {
           "identifier": "70215",
           "scheme": "viaf"
         },
@@ -12673,7 +12713,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/盖瑞·亚当斯"
+          "url": "https://zh.wikipedia.org/wiki/格里·亚当斯"
         }
       ],
       "name": "Gerry Adams",
@@ -14067,7 +14107,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14296,6 +14336,12 @@
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Bebas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14692,6 +14738,24 @@
         {
           "lang": "tt",
           "name": "фиркасез",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -15820,6 +15884,12 @@
           "name": "président d'assemblée parlementaire",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "יושבת ראש פרלמנט",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -16196,7 +16266,8 @@
           "note": "multilingual",
           "source": "wikidata-alias"
         }
-      ]
+      ],
+      "srgb": "R:239 G:230 B:0"
     },
     {
       "classification": "party",
