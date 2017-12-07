@@ -907,6 +907,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Baron_Waqa"
         },
         {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Baron_Waqa"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Baron_Waqa"
         },
@@ -1056,6 +1060,11 @@
         {
           "lang": "uk",
           "name": "Барон Вака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "巴倫·瓦卡",
           "note": "multilingual"
         }
       ]
@@ -1275,6 +1284,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "a4c07214-5571-4879-afb0-81e685f12c9b",
+      "name": "Gabrissa Hartman"
     },
     {
       "family_name": "Scotty",
@@ -2001,7 +2014,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2230,6 +2243,12 @@
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Bebas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2628,6 +2647,24 @@
           "name": "фиркасез",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2749,14 +2786,6 @@
     {
       "area_id": "area/ubenide",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/non-partisan",
-      "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
-      "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ubenide",
-      "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
       "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
@@ -3104,6 +3133,14 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
       "person_id": "92077ffa-2ff9-4d36-ac28-cf39a74f1c76",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/21",
+      "on_behalf_of_id": "party/non-partisan",
+      "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
+      "person_id": "a4c07214-5571-4879-afb0-81e685f12c9b",
       "role": "member"
     },
     {
