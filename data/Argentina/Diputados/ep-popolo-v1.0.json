@@ -14318,6 +14318,11 @@
     },
     {
       "classification": "party",
+      "id": "party/cordoba_federal",
+      "name": "CORDOBA FEDERAL"
+    },
+    {
+      "classification": "party",
       "id": "party/cultura,_educacion_y_trabajo",
       "identifiers": [
         {
@@ -15299,6 +15304,11 @@
     },
     {
       "classification": "party",
+      "id": "party/justicialista_por_tucuman",
+      "name": "JUSTICIALISTA POR TUCUMAN"
+    },
+    {
+      "classification": "party",
       "id": "party/libertad_valores_y_cambio",
       "identifiers": [
         {
@@ -15634,6 +15644,11 @@
     },
     {
       "classification": "party",
+      "id": "party/primero_argentina",
+      "name": "PRIMERO ARGENTINA"
+    },
+    {
+      "classification": "party",
       "id": "party/primero_tucuman",
       "identifiers": [
         {
@@ -15784,6 +15799,11 @@
       "classification": "party",
       "id": "party/suma_+_unen",
       "name": "SUMA + UNEN"
+    },
+    {
+      "classification": "party",
+      "id": "party/todos_juntos_por_san_juan",
+      "name": "TODOS JUNTOS POR SAN JUAN"
     },
     {
       "classification": "party",
@@ -16903,7 +16923,7 @@
     {
       "area_id": "area/san_juan",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/partido_bloquista_de_san_juan",
+      "on_behalf_of_id": "party/todos_juntos_por_san_juan",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "0f932734-59be-446c-b68c-7223fbd4c607",
       "role": "member",
@@ -18602,7 +18622,7 @@
     {
       "area_id": "area/san_juan",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/compromiso_con_san_juan",
+      "on_behalf_of_id": "party/todos_juntos_por_san_juan",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "35798dde-ed7c-4161-97d3-714accf9105f",
       "role": "member",
@@ -19506,6 +19526,19 @@
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/134",
       "on_behalf_of_id": "party/frente_de_izquierda_y_de_los_trabajadores",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "485024e6-70b8-4031-b346-88643279f6c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/santiago_del_estero",
+      "legislative_period_id": "term/135",
+      "on_behalf_of_id": "party/frente_civico_por_santiago",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "485024e6-70b8-4031-b346-88643279f6c6",
       "role": "member",
@@ -20481,7 +20514,7 @@
     {
       "area_id": "area/santa_fe",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/primero_argentina",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "585de58f-154f-4e62-a7b4-242d75d44fee",
       "role": "member",
@@ -20651,7 +20684,7 @@
     {
       "area_id": "area/tucuman",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/frente_para_la_victoria_-_pj",
+      "on_behalf_of_id": "party/justicialista_por_tucuman",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "5bf5d374-8cd8-401d-b971-cd2fc5fd7c5b",
       "role": "member",
@@ -20992,7 +21025,7 @@
     {
       "area_id": "area/tucuman",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/primero_tucuman",
+      "on_behalf_of_id": "party/justicialista_por_tucuman",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "66a963ef-7c42-4821-92b1-0f27af71ed0e",
       "role": "member",
@@ -22081,19 +22114,6 @@
     {
       "area_id": "area/santa_fe",
       "legislative_period_id": "term/134",
-      "on_behalf_of_id": "party/union_pro",
-      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
-      "person_id": "7c8e0b93-d047-4639-b6b5-f59ef803cb7b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.hcdn.gob.ar/diputados/amartinez/"
-        }
-      ]
-    },
-    {
-      "area_id": "area/santa_fe",
-      "legislative_period_id": "term/135",
       "on_behalf_of_id": "party/union_pro",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "7c8e0b93-d047-4639-b6b5-f59ef803cb7b",
@@ -24694,19 +24714,6 @@
     {
       "area_id": "area/santiago_del_estero",
       "legislative_period_id": "term/134",
-      "on_behalf_of_id": "party/frente_civico_por_santiago",
-      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
-      "person_id": "aec7d34d-ddf6-4894-92c7-1394c19bdef4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.hcdn.gob.ar/diputados/jherrera/"
-        }
-      ]
-    },
-    {
-      "area_id": "area/santiago_del_estero",
-      "legislative_period_id": "term/135",
       "on_behalf_of_id": "party/frente_civico_por_santiago",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "aec7d34d-ddf6-4894-92c7-1394c19bdef4",
@@ -27875,7 +27882,7 @@
     {
       "area_id": "area/cordoba",
       "legislative_period_id": "term/135",
-      "on_behalf_of_id": "party/unidos_por_una_nueva_argentina",
+      "on_behalf_of_id": "party/cordoba_federal",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "eef206e3-f397-41b6-b785-f72d4955dae3",
       "role": "member",
