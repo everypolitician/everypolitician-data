@@ -36281,6 +36281,18 @@
       ]
     },
     {
+      "birth_date": "1976-05-30",
+      "gender": "female",
+      "id": "b744752a-a72f-4ac4-b88d-b71e14f6aac4",
+      "image": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/307/061/original_d307061.jpg",
+      "images": [
+        {
+          "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/307/061/original_d307061.jpg"
+        }
+      ],
+      "name": "ZANETTI Veronica"
+    },
+    {
       "birth_date": "1973-05-02",
       "contact_details": [
         {
@@ -53811,6 +53823,11 @@
     },
     {
       "classification": "party",
+      "id": "party/fratelli_d'italia",
+      "name": "FRATELLI D'ITALIA"
+    },
+    {
+      "classification": "party",
       "id": "party/fratelli_d'italia-alleanza_nazionale",
       "identifiers": [
         {
@@ -54754,11 +54771,6 @@
     },
     {
       "classification": "party",
-      "id": "party/misto_-_alternativa_libera-tutti_insieme_per_l'italia",
-      "name": "MISTO - ALTERNATIVA LIBERA-TUTTI INSIEME PER L'ITALIA"
-    },
-    {
-      "classification": "party",
       "id": "party/misto_-_centro_democratico",
       "identifiers": [
         {
@@ -54839,8 +54851,13 @@
     },
     {
       "classification": "party",
-      "id": "party/misto_-_civici_e_innovatori_per_l'italia",
-      "name": "MISTO - CIVICI E INNOVATORI PER L'ITALIA"
+      "id": "party/misto_-_civici_e_innovatori",
+      "name": "MISTO - CIVICI E INNOVATORI"
+    },
+    {
+      "classification": "party",
+      "id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
+      "name": "MISTO - CIVICI E INNOVATORI-ENERGIE PER L'ITALIA"
     },
     {
       "classification": "party",
@@ -57005,9 +57022,8 @@
     },
     {
       "area_id": "I",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "05c87595-7cfd-4d97-8ed4-fe32a40f9762",
       "role": "member",
@@ -57595,9 +57611,8 @@
     },
     {
       "area_id": "XIII",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "142b8305-b109-46cb-88fc-80615b4bbe30",
       "role": "member",
@@ -57637,9 +57652,9 @@
     },
     {
       "area_id": "III",
-      "end_date": "2017-07-10",
+      "end_date": "2017-07-28",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "168e264a-1baa-44b3-ada5-0eb8efbf30db",
       "role": "member",
@@ -58508,9 +58523,8 @@
     },
     {
       "area_id": "X",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "2982c4ae-d7e3-4b11-8f06-69821da29dbe",
       "role": "member",
@@ -58761,7 +58775,7 @@
     {
       "area_id": "XXVI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "3044cad7-8db2-4451-bd60-f020e9afc437",
       "role": "member",
@@ -58887,8 +58901,9 @@
     },
     {
       "area_id": "B",
+      "end_date": "2017-11-30",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_civici_e_innovatori_per_l'italia",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "30f5b86d-c111-42e4-82de-4e54be66f56b",
       "role": "member",
@@ -58898,6 +58913,20 @@
         }
       ],
       "start_date": "2017-08-01"
+    },
+    {
+      "area_id": "B",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_direzione_italia",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "30f5b86d-c111-42e4-82de-4e54be66f56b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306247&idpersona=306247&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-30"
     },
     {
       "area_id": "IX",
@@ -59038,9 +59067,8 @@
     },
     {
       "area_id": "XV",
-      "end_date": "2016-12-07",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_udc-idea",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "32fdd9f3-b998-466e-89ec-158fa3f013a2",
       "role": "member",
@@ -59178,9 +59206,8 @@
     },
     {
       "area_id": "VII",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "37623b88-0330-4aa3-bee9-d5ee954c01f4",
       "role": "member",
@@ -59847,6 +59874,7 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2017-12-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_direzione_italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -59858,6 +59886,20 @@
         }
       ],
       "start_date": "2015-11-19"
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "40e58249-bb50-4434-abc6-9cdaa6d1fe6b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305968&idpersona=305968&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-12-01"
     },
     {
       "area_id": "XI",
@@ -59916,7 +59958,7 @@
     {
       "area_id": "II",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "41c8547a-c3b6-49c7-931e-f43fd04823f7",
       "role": "member",
@@ -60310,7 +60352,7 @@
     {
       "area_id": "XXI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "49f55577-6578-468e-a606-0faa7e263fea",
       "role": "member",
@@ -60498,7 +60540,7 @@
     {
       "area_id": "XX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "4e325a0c-f506-49d4-b9fa-ee29f7e514a1",
       "role": "member",
@@ -60539,7 +60581,7 @@
     {
       "area_id": "V",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "4f5ac273-3a87-427c-b41e-207c7bf1ce11",
       "role": "member",
@@ -60609,9 +60651,8 @@
     },
     {
       "area_id": "XIX",
-      "end_date": "2016-12-07",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_udc-idea",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "4f834f42-dcd2-430e-a2b8-a94817c8fcfb",
       "role": "member",
@@ -61008,9 +61049,8 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "5522ac14-06bc-493a-8a42-ea88edb04a07",
       "role": "member",
@@ -61860,9 +61900,8 @@
     },
     {
       "area_id": "IV",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "67e1309c-f041-48d1-aa07-75e7dc13c734",
       "role": "member",
@@ -61918,6 +61957,7 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2017-11-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -61929,6 +61969,20 @@
         }
       ],
       "start_date": "2017-10-17"
+    },
+    {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "67f46d6a-a072-4f07-a3f2-7e0435f1dad1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306961&idpersona=306961&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-17"
     },
     {
       "area_id": "XXIV",
@@ -61989,9 +62043,8 @@
     },
     {
       "area_id": "XXI",
-      "end_date": "2016-12-07",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_udc-idea",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "68dc2bb6-5c33-4300-b1b9-21c018233f23",
       "role": "member",
@@ -63189,9 +63242,8 @@
     },
     {
       "area_id": "XX",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7a58fa21-2851-456f-9682-65337cda45d2",
       "role": "member",
@@ -63370,7 +63422,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7e4abbc5-58eb-4cb4-9146-eb020f6499e4",
       "role": "member",
@@ -63642,6 +63694,7 @@
     },
     {
       "area_id": "V",
+      "end_date": "2017-12-11",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/forza_italia_-_il_popolo_della_liberta'_-_berlusconi_presidente",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -63652,6 +63705,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=300639&idpersona=300639&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "V",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/fratelli_d'italia",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "84ee9a01-cb24-4dea-9b06-f5f2b9a8a576",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=300639&idpersona=300639&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-12-11"
     },
     {
       "area_id": "XXIII",
@@ -64100,7 +64167,7 @@
     {
       "area_id": "XII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "8d78e1d2-fe0b-4ae1-b8ca-c0f29a3fa489",
       "role": "member",
@@ -64183,9 +64250,8 @@
     },
     {
       "area_id": "XX",
-      "end_date": "2016-12-07",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_udc-idea",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "8dfa9c0c-c200-4cb7-b862-dd51c630b912",
       "role": "member",
@@ -64369,6 +64435,7 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2017-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica-ala_per_la_costituente_liberale_e_popolare-maie",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -64380,6 +64447,20 @@
         }
       ],
       "start_date": "2016-10-13"
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "8f31ab86-c2ff-4939-b266-d070cef80394",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305927&idpersona=305927&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-30"
     },
     {
       "area_id": "XV",
@@ -64535,6 +64616,7 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2017-10-25",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_partito_socialista_italiano_(psi)_-_liberali_per_l'italia_(pli)_-_indipendenti",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -64546,6 +64628,20 @@
         }
       ],
       "start_date": "2015-12-02"
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "919e92c7-6e47-4b02-9500-c7423ba1ac6a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=301477&idpersona=301477&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-10-25"
     },
     {
       "area_id": "III",
@@ -66306,7 +66402,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_civici_e_innovatori_per_l'italia",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ae62856d-da5c-408c-ab2a-e3951a42756f",
       "role": "member",
@@ -66348,9 +66444,9 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2015-11-16",
+      "end_date": "2015-11-17",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera-tutti_insieme_per_l'italia",
+      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ae8c76a7-7c20-48ae-b0c5-b665afdccf5d",
       "role": "member",
@@ -66363,9 +66459,9 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2015-11-17",
+      "end_date": "2016-10-28",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ae8c76a7-7c20-48ae-b0c5-b665afdccf5d",
       "role": "member",
@@ -66393,9 +66489,8 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ae8c76a7-7c20-48ae-b0c5-b665afdccf5d",
       "role": "member",
@@ -66510,9 +66605,8 @@
     },
     {
       "area_id": "VII",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "afae6e2e-75b8-4e41-a2c8-e6f8d86d837f",
       "role": "member",
@@ -66596,6 +66690,7 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2017-11-24",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_direzione_italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -66607,6 +66702,20 @@
         }
       ],
       "start_date": "2015-11-19"
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/lega_nord_e_autonomie_-_lega_dei_popoli_-_noi_con_salvini",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b01eaf9a-a334-4e5d-9d5e-50b4ea92f920",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306743&idpersona=306743&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-24"
     },
     {
       "area_id": "XX",
@@ -66625,7 +66734,7 @@
     {
       "area_id": "XX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "b0eb473a-6e1f-482b-a8d7-b01fba18e845",
       "role": "member",
@@ -66822,6 +66931,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306189&idpersona=306189&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/partito_democratico",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b744752a-a72f-4ac4-b88d-b71e14f6aac4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=307061&idpersona=307061&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-23"
     },
     {
       "area_id": "IX",
@@ -67525,9 +67648,8 @@
     },
     {
       "area_id": "III",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c1bbf804-b205-4b4a-b852-10a774bfdd10",
       "role": "member",
@@ -67689,7 +67811,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c515c939-06cb-488d-8e59-e4033df4ffe2",
       "role": "member",
@@ -68460,7 +68582,7 @@
     {
       "area_id": "IX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "d06f571e-24a3-4533-82d9-f3343ac5496a",
       "role": "member",
@@ -69112,9 +69234,8 @@
     },
     {
       "area_id": "XI",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "dcd54fe4-8062-485e-8df2-66ca10ea62d2",
       "role": "member",
@@ -69223,9 +69344,8 @@
     },
     {
       "area_id": "V",
-      "end_date": "2017-07-10",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "on_behalf_of_id": "party/misto_-_civici_e_innovatori-energie_per_l'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "dfafda27-63c6-4dda-948e-7221820bf7ce",
       "role": "member",
@@ -69432,6 +69552,7 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2017-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica-ala_per_la_costituente_liberale_e_popolare-maie",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -69443,6 +69564,20 @@
         }
       ],
       "start_date": "2016-10-13"
+    },
+    {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e1a1de93-95d7-4529-afeb-8e0d88765ab5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305755&idpersona=305755&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-30"
     },
     {
       "area_id": "XXIV",
@@ -69627,7 +69762,7 @@
     {
       "area_id": "XVI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/fratelli_d'italia-alleanza_nazionale",
+      "on_behalf_of_id": "party/fratelli_d'italia",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "e5adc486-871f-4ab6-a82f-48fc0d706719",
       "role": "member",
@@ -70131,6 +70266,7 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2017-11-22",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -71282,6 +71418,7 @@
     },
     {
       "area_id": "I",
+      "end_date": "2017-11-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica-ala_per_la_costituente_liberale_e_popolare-maie",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -71293,6 +71430,20 @@
         }
       ],
       "start_date": "2017-05-11"
+    },
+    {
+      "area_id": "I",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "fd7bfa68-37a9-46dc-a969-41a869e2c7b6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=307021&idpersona=307021&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-11-30"
     },
     {
       "area_id": "XXI",
