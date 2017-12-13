@@ -818,7 +818,7 @@
       "birth_date": "1959-09-28",
       "family_name": "Tsitsi",
       "gender": "male",
-      "given_name": "Dantes",
+      "given_name": "Dante",
       "id": "7ae56b52-0e4c-49cb-82b9-e9e3fd857123",
       "identifiers": [
         {
@@ -905,6 +905,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Baron_Waqa"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Baron_Waqa"
         },
         {
           "note": "Wikipedia (de)",
@@ -1056,6 +1060,11 @@
         {
           "lang": "uk",
           "name": "Барон Вака",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "巴倫·瓦卡",
           "note": "multilingual"
         }
       ]
@@ -1320,6 +1329,10 @@
         }
       ],
       "name": "Charmaine Scotty"
+    },
+    {
+      "id": "b822bf45-e46d-44e2-bbc0-ea76c31bfa83",
+      "name": "Gabrissa Hartman"
     },
     {
       "id": "ba262a16-ed37-49d2-a550-4cc1c9092972",
@@ -2001,7 +2014,7 @@
         },
         {
           "lang": "ca",
-          "name": "polític independent",
+          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2230,6 +2243,12 @@
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Bebas",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2628,6 +2647,24 @@
           "name": "фиркасез",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "he",
+          "name": "פוליטיקאית עצמאית",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "cantidat independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2749,14 +2786,6 @@
     {
       "area_id": "area/ubenide",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/non-partisan",
-      "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
-      "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
-      "role": "member"
-    },
-    {
-      "area_id": "area/ubenide",
-      "legislative_period_id": "term/21",
       "on_behalf_of_id": "party/non-partisan",
       "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
       "person_id": "17405a38-3a25-4c51-ad86-3794742f9540",
@@ -3120,6 +3149,14 @@
       "on_behalf_of_id": "party/unknown",
       "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
       "person_id": "aa16b078-a0f9-49ec-8239-c4c076f70d8b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/ubenide",
+      "legislative_period_id": "term/21",
+      "on_behalf_of_id": "party/non-partisan",
+      "organization_id": "ac665e38-1444-4a44-93d1-744914968c5f",
+      "person_id": "b822bf45-e46d-44e2-bbc0-ea76c31bfa83",
       "role": "member"
     },
     {
