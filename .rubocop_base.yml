@@ -35,6 +35,9 @@ Style/Documentation:
 Style/FormatString:
   EnforcedStyle: percent
 
+Style/FormatStringToken:
+  Enabled: false
+
 Style/HashSyntax:
   EnforcedStyle: ruby19_no_mixed_keys
 
