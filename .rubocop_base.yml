@@ -11,7 +11,7 @@ Lint/AssignmentInCondition:
 Lint/Debugger:
   Enabled: false
 
-Lint/RescueWithoutErrorClass:
+Style/RescueStandardError:
   Enabled: false
 
 Metrics/LineLength:
