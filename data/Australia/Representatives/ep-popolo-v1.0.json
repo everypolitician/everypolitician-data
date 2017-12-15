@@ -15230,10 +15230,15 @@
       "birth_date": "1980-03-12",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Tim.Wilson.MP@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "timwilsoncomau"
         }
       ],
+      "email": "Tim.Wilson.MP@aph.gov.au",
       "family_name": "Wilson",
       "gender": "male",
       "given_name": "Tim",
@@ -15276,8 +15281,16 @@
           "url": "https://en.wikipedia.org/wiki/Tim_Wilson_(Australian_politician)"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/TimWilsonForGoldstein"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/timwilsoncomau"
+        },
+        {
+          "note": "website",
+          "url": "https://www.timwilsonmp.com.au"
         }
       ],
       "name": "Tim Wilson",
@@ -29533,6 +29546,10 @@
         },
         {
           "note": "facebook",
+          "url": "https://facebook.com/MichaelMcCormackMP"
+        },
+        {
+          "note": "facebook",
           "url": "https://facebook.com/Michael-McCormack"
         },
         {
@@ -35219,6 +35236,7 @@
     },
     {
       "area_id": "ocd-division/country:au/state:nsw/federal_electorate:bennelong",
+      "end_date": "2017-11-11",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "party/liberal_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -41390,6 +41408,7 @@
     },
     {
       "area_id": "ocd-division/country:au/state:nsw/federal_electorate:new_england",
+      "end_date": "2017-10-27",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "party/national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
