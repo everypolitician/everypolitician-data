@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/openpolis-scraper",
-        "query": "SELECT * FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
+        "query": "SELECT *, id AS identifier__openpolis FROM data WHERE house = 'Chamber of Deputies' ORDER BY id"
       },
       "source": "http://politici.openpolis.it",
       "type": "person",
