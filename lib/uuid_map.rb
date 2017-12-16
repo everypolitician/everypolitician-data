@@ -32,6 +32,13 @@ class UuidMapFile
     end
   end
 
+  def remap(from, to)
+    if uuid_for(from) && !uuid_for(to)
+      mapping[to] = mapping.delete(from)
+      rewrite(mapping)
+    end
+  end
+
   private
 
   attr_reader :pathname
