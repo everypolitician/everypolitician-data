@@ -21,6 +21,12 @@
       "type": "membership"
     },
     {
+      "file": "archive/official-2016-vanished.csv",
+      "source": "http://www.consigliograndeegenerale.sm",
+      "type": "membership",
+      "reuse_ids": false
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -37,7 +43,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term",
+      "type": "term"
     },
     {
       "file": "morph/genderbalance.csv",
