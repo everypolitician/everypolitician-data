@@ -633,6 +633,7 @@
           "value": "kezdugdale"
         }
       ],
+      "family_name": "Dugdale",
       "gender": "female",
       "id": "0671d650-c438-4488-bbca-43626d7e21ce",
       "identifiers": [
@@ -1151,6 +1152,7 @@
     },
     {
       "birth_date": "1964",
+      "family_name": "MacKay",
       "gender": "male",
       "given_name": "Angus",
       "id": "0ea9ac56-d67c-4688-84f3-317d359470bc",
@@ -5716,6 +5718,7 @@
     },
     {
       "birth_date": "1946-09-14",
+      "family_name": "Baird",
       "gender": "female",
       "id": "552ac614-1a43-4585-be1b-51ec2b0916d4",
       "identifiers": [
@@ -7278,6 +7281,7 @@
       ],
       "family_name": "Mason",
       "gender": "male",
+      "given_name": "Tom",
       "id": "6ea30834-1455-41a7-9871-c608b55dffe5",
       "identifiers": [
         {
@@ -8921,6 +8925,10 @@
       "name": "Lewis Macdonald",
       "other_names": [
         {
+          "name": "Lewis Macdonald MSP",
+          "note": "alternate"
+        },
+        {
           "lang": "gd",
           "name": "Lewis Dòmhnallach",
           "note": "multilingual"
@@ -10182,12 +10190,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/ChristianAllard.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/ChristianAllard.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -10269,6 +10271,7 @@
           "value": "ashtenRD"
         }
       ],
+      "family_name": "Denham",
       "gender": "female",
       "id": "9af503f6-1850-4f3d-99b0-2cb955e431ac",
       "identifiers": [
@@ -13255,6 +13258,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Margo_MacDonald"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Margo_MacDonald"
         },
         {
           "note": "Wikipedia (simple)",
@@ -17564,6 +17571,7 @@
           "value": "S_A_Somerville"
         }
       ],
+      "family_name": "Somervile",
       "gender": "female",
       "id": "ee9e653d-71ab-4440-9a54-a57b940cf3de",
       "identifiers": [
@@ -17678,10 +17686,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/744994413835780096/ZKeSYjH0.jpg",
+      "image": "https://pbs.twimg.com/profile_images/944704017774661633/h7X_k-he.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/744994413835780096/ZKeSYjH0.jpg"
+          "url": "https://pbs.twimg.com/profile_images/944704017774661633/h7X_k-he.jpg"
         }
       ],
       "links": [
@@ -18238,7 +18246,9 @@
           "value": "RonaMackayMSP"
         }
       ],
+      "family_name": "MacKay",
       "gender": "female",
+      "given_name": "Rona",
       "id": "fde159e6-c4b1-442c-b2fc-5d35a188104c",
       "identifiers": [
         {
@@ -19571,6 +19581,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -26587,13 +26603,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Écosse du centre",
+          "lang": "gd",
+          "name": "Meadhan na h-Alba",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "Meadhan na h-Alba",
+          "lang": "fr",
+          "name": "Écosse du centre",
           "note": "multilingual"
         }
       ],
@@ -26648,13 +26664,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Highlands et les Îles",
+          "lang": "gd",
+          "name": "A' Ghàidhealtachd agus na h-Eileanan",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "A' Ghàidhealtachd agus na h-Eileanan",
+          "lang": "fr",
+          "name": "Highlands et les Îles",
           "note": "multilingual"
         },
         {
@@ -26704,23 +26720,23 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Moyenne Écosse et Fife",
-          "note": "multilingual"
-        },
-        {
           "lang": "gd",
           "name": "Alba Mheadhanach agus Fìobh",
           "note": "multilingual"
         },
         {
-          "lang": "zh",
-          "name": "中蘇格蘭及法夫 (蘇格蘭議會選區)",
+          "lang": "fr",
+          "name": "Moyenne Écosse et Fife",
           "note": "multilingual"
         },
         {
           "lang": "ja",
           "name": "ミッド・スコットランド・アンド・ファイフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "中蘇格蘭及法夫 (蘇格蘭議會選區)",
           "note": "multilingual"
         }
       ],
@@ -26742,13 +26758,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Écosse du nord-est",
+          "lang": "gd",
+          "name": "Ear-thuath na h-Alba",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "Ear-thuath na h-Alba",
+          "lang": "fr",
+          "name": "Écosse du nord-est",
           "note": "multilingual"
         },
         {
@@ -26780,13 +26796,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Écosse du sud",
+          "lang": "gd",
+          "name": "Taobh a Deas na h-Alba",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "Taobh a Deas na h-Alba",
+          "lang": "fr",
+          "name": "Écosse du sud",
           "note": "multilingual"
         },
         {
@@ -27282,13 +27298,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "zh",
-          "name": "敦巴頓 (蘇格蘭議會選區)",
+          "lang": "ja",
+          "name": "ダンバートン",
           "note": "multilingual"
         },
         {
-          "lang": "ja",
-          "name": "ダンバートン",
+          "lang": "zh",
+          "name": "敦巴頓 (蘇格蘭議會選區)",
           "note": "multilingual"
         }
       ],
@@ -28554,13 +28570,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "ja",
-          "name": "シェトランド",
+          "lang": "ru",
+          "name": "Шетланд",
           "note": "multilingual"
         },
         {
-          "lang": "ru",
-          "name": "Шетланд",
+          "lang": "ja",
+          "name": "シェトランド",
           "note": "multilingual"
         }
       ],
@@ -29672,13 +29688,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Écosse du sud",
+          "lang": "gd",
+          "name": "Alba a Deas",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "Alba a Deas",
+          "lang": "fr",
+          "name": "Écosse du sud",
           "note": "multilingual"
         }
       ],
@@ -29700,13 +29716,13 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Écosse de l'ouest",
+          "lang": "gd",
+          "name": "Alba an Iar",
           "note": "multilingual"
         },
         {
-          "lang": "gd",
-          "name": "Alba an Iar",
+          "lang": "fr",
+          "name": "Écosse de l'ouest",
           "note": "multilingual"
         }
       ],
