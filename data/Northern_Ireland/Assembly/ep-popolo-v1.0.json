@@ -756,6 +756,7 @@
     {
       "birth_date": "1954-01-10",
       "gender": "female",
+      "given_name": "Bairbre",
       "id": "0f870089-70b2-47fb-8e14-cfc6b21a8976",
       "identifiers": [
         {
@@ -3072,6 +3073,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "commons/barry-mcelduff/4646",
+          "scheme": "parliamentdotuk"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13825",
           "scheme": "parlparse"
         },
@@ -3381,6 +3386,10 @@
         {
           "identifier": "4624",
           "scheme": "datadotparl"
+        },
+        {
+          "identifier": "commons/elisha-mccallion/4624",
+          "scheme": "parliamentdotuk"
         },
         {
           "identifier": "uk.org.publicwhip/person/25604",
@@ -8422,6 +8431,10 @@
         {
           "identifier": "25154",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "commons/chris-hazzard/4636",
+          "scheme": "parliamentdotuk"
         },
         {
           "identifier": "uk.org.publicwhip/person/25154",
@@ -14770,6 +14783,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
