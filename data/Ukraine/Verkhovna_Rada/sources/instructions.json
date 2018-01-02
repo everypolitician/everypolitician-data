@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "openaustralia/ukraine_verkhovna_rada_deputies",
-        "query": "SELECT *, COALESCE(faction, 'Позафракційні') AS faction, id AS identifier__rada FROM data ORDER BY id"
+        "query": "SELECT *, COALESCE(faction, 'Позафракційні') AS faction, id AS identifier__verkhovna_rada FROM data ORDER BY id"
       },
       "source": "http://rada.gov.ua/",
       "type": "membership"
