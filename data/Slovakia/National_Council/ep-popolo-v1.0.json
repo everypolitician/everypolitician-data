@@ -15407,6 +15407,26 @@
       "sort_name": "Bobík, Jozef"
     },
     {
+      "birth_date": "1958-07-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lubos_martinak@nrsr.sk"
+        }
+      ],
+      "email": "lubos_martinak@nrsr.sk",
+      "family_name": "Martinák",
+      "given_name": "Ľuboš",
+      "id": "7afafe20-5a25-4e4b-88b5-ffc187e4191f",
+      "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=675&ImageWidth=140",
+      "images": [
+        {
+          "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=675&ImageWidth=140"
+        }
+      ],
+      "name": "Ľuboš Martinák"
+    },
+    {
       "birth_date": "1973-02-25",
       "contact_details": [
         {
@@ -44794,6 +44814,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -54444,6 +54469,19 @@
       "start_date": "2014-07-01"
     },
     {
+      "area_id": "area/prešovský",
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "31622b07-7f1b-4639-8cb7-adc8dc6faa49",
+      "person_id": "7afafe20-5a25-4e4b-88b5-ffc187e4191f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=675&CisObdobia=7"
+        }
+      ]
+    },
+    {
       "end_date": "2002-04-18",
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "5",
@@ -60881,7 +60919,7 @@
       "start_date": "2006-07-04"
     },
     {
-      "area_id": "area/bratislavský",
+      "area_id": "area/prešovský",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/sloboda_a_solidarita",
       "organization_id": "31622b07-7f1b-4639-8cb7-adc8dc6faa49",
