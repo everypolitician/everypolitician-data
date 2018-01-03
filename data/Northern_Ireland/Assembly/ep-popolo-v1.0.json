@@ -756,6 +756,7 @@
     {
       "birth_date": "1954-01-10",
       "gender": "female",
+      "given_name": "Bairbre",
       "id": "0f870089-70b2-47fb-8e14-cfc6b21a8976",
       "identifiers": [
         {
@@ -1133,6 +1134,11 @@
         {
           "lang": "la",
           "name": "Ioannes Paisley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Ијан Пејсли",
           "note": "multilingual"
         },
         {
@@ -3072,6 +3078,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "commons/barry-mcelduff/4646",
+          "scheme": "parliamentdotuk"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13825",
           "scheme": "parlparse"
         },
@@ -3381,6 +3391,10 @@
         {
           "identifier": "4624",
           "scheme": "datadotparl"
+        },
+        {
+          "identifier": "commons/elisha-mccallion/4624",
+          "scheme": "parliamentdotuk"
         },
         {
           "identifier": "uk.org.publicwhip/person/25604",
@@ -8209,6 +8223,10 @@
       "id": "95c228ae-4850-4392-a73b-048ca6953d33",
       "identifiers": [
         {
+          "identifier": "biography/Reg-Empey",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "13782",
           "scheme": "everypolitician_legacy"
         },
@@ -8422,6 +8440,10 @@
         {
           "identifier": "25154",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "commons/chris-hazzard/4636",
+          "scheme": "parliamentdotuk"
         },
         {
           "identifier": "uk.org.publicwhip/person/25154",
@@ -14772,6 +14794,12 @@
           "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -15010,7 +15038,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sf_logo.png",
       "links": [
         {
           "note": "website",
@@ -16287,7 +16314,7 @@
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "R:239 G:230 B:0"
+      "srgb": "EFE600"
     },
     {
       "classification": "party",
