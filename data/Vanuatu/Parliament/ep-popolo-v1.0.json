@@ -100,6 +100,10 @@
           "url": "https://hr.wikipedia.org/wiki/Sato_Kilman"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Sato_Kilman"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Sato_Kilman"
         },
@@ -679,9 +683,20 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ralph_Regenvanu"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Radulphus_Regenvanu"
         }
       ],
-      "name": "Ralph Regenvanu"
+      "name": "Ralph Regenvanu",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Radulphus Regenvanu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "6c8ec45e-8b03-45d4-98cf-5bd6f3218fc6",
@@ -2893,6 +2908,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
