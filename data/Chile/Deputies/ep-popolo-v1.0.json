@@ -48,6 +48,7 @@
           "value": "masferre"
         }
       ],
+      "death_date": "2017-12-28",
       "email": "masferre",
       "gender": "male",
       "given_name": "Juan",
@@ -62,7 +63,17 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Juan_Masferrer.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Juan_Masferrer.jpg"
+        }
+      ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Masferrer"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Juan_Masferrer"
@@ -1827,6 +1838,10 @@
         {
           "identifier": "/m/063yms9",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1057600644",
+          "scheme": "gnd"
         },
         {
           "identifier": "nm0258084",
@@ -16093,6 +16108,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
