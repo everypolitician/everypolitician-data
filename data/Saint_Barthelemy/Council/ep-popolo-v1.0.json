@@ -5,6 +5,12 @@
   "persons": [
     {
       "birth_date": "1954-01-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MichelMagras"
+        }
+      ],
       "gender": "male",
       "given_name": "Michel",
       "id": "14b40efb-bacb-495b-8f03-6f4a9872b1b9",
@@ -58,6 +64,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Michel_Magras"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MichelMagras"
         }
       ],
       "name": "Michel Magras"
