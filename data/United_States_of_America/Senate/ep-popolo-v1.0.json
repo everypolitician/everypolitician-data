@@ -77947,6 +77947,69 @@
       "sort_name": "Pell, Claiborne"
     },
     {
+      "birth_date": "1958-03-04",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "202-224-5641"
+        }
+      ],
+      "family_name": "Smith",
+      "gender": "female",
+      "given_name": "Tina",
+      "id": "e5d6e7c6-0c95-4f11-b8ed-df6c2a88b1e0",
+      "identifiers": [
+        {
+          "identifier": "Tina Smith",
+          "scheme": "ballotpedia"
+        },
+        {
+          "identifier": "S001203",
+          "scheme": "bioguide"
+        },
+        {
+          "identifier": "111313",
+          "scheme": "cspan"
+        },
+        {
+          "identifier": "S8MN00578",
+          "scheme": "fec"
+        },
+        {
+          "identifier": "kg:/m/0127xvy3",
+          "scheme": "google_entity_id"
+        },
+        {
+          "identifier": "412742",
+          "scheme": "govtrack"
+        },
+        {
+          "identifier": "S394",
+          "scheme": "lis"
+        },
+        {
+          "identifier": "152968",
+          "scheme": "votesmart"
+        },
+        {
+          "identifier": "Q18631509",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Tina Smith",
+          "scheme": "wikipedia"
+        }
+      ],
+      "image": "https://theunitedstates.io/images/congress/original/S001203.jpg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001203.jpg"
+        }
+      ],
+      "name": "Tina Smith",
+      "sort_name": "Smith, Tina"
+    },
+    {
       "birth_date": "1940-10-09",
       "family_name": "Humphrey",
       "gender": "male",
@@ -80209,6 +80272,69 @@
         }
       ],
       "sort_name": "Perdue, David"
+    },
+    {
+      "birth_date": "1954-05-04",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "202-224-4121"
+        }
+      ],
+      "family_name": "Jones",
+      "gender": "male",
+      "given_name": "Doug",
+      "id": "ebc44693-3fb9-47fe-a760-6acaeab6d52d",
+      "identifiers": [
+        {
+          "identifier": "Doug Jones (Alabama)",
+          "scheme": "ballotpedia"
+        },
+        {
+          "identifier": "J000300",
+          "scheme": "bioguide"
+        },
+        {
+          "identifier": "1024592",
+          "scheme": "cspan"
+        },
+        {
+          "identifier": "S0AL00156",
+          "scheme": "fec"
+        },
+        {
+          "identifier": "kg:/g/11dyzdzg1j",
+          "scheme": "google_entity_id"
+        },
+        {
+          "identifier": "412741",
+          "scheme": "govtrack"
+        },
+        {
+          "identifier": "S393",
+          "scheme": "lis"
+        },
+        {
+          "identifier": "176464",
+          "scheme": "votesmart"
+        },
+        {
+          "identifier": "Q30122825",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Doug Jones (politician)",
+          "scheme": "wikipedia"
+        }
+      ],
+      "image": "https://theunitedstates.io/images/congress/original/J000300.jpg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/J000300.jpg"
+        }
+      ],
+      "name": "Doug Jones",
+      "sort_name": "Jones, Doug"
     },
     {
       "birth_date": "1946-07-11",
@@ -97089,6 +97215,7 @@
     },
     {
       "area_id": "ocd-division/country:us/state:mn",
+      "end_date": "2018-01-02",
       "legislative_period_id": "term/115",
       "on_behalf_of_id": "party/democrat",
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
@@ -99352,6 +99479,7 @@
     },
     {
       "area_id": "ocd-division/country:us/state:al",
+      "end_date": "2018-01-03",
       "legislative_period_id": "term/115",
       "on_behalf_of_id": "party/republican",
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
@@ -103514,6 +103642,15 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:us/state:mn",
+      "legislative_period_id": "term/115",
+      "on_behalf_of_id": "party/democrat",
+      "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
+      "person_id": "e5d6e7c6-0c95-4f11-b8ed-df6c2a88b1e0",
+      "role": "member",
+      "start_date": "2018-01-03"
+    },
+    {
       "area_id": "ocd-division/country:us/state:nh",
       "legislative_period_id": "term/100",
       "on_behalf_of_id": "party/republican",
@@ -103916,6 +104053,15 @@
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
       "person_id": "eb75e927-3ca4-4eaa-a5c5-0acb2199ccda",
       "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:us/state:al",
+      "legislative_period_id": "term/115",
+      "on_behalf_of_id": "party/democrat",
+      "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
+      "person_id": "ebc44693-3fb9-47fe-a760-6acaeab6d52d",
+      "role": "member",
+      "start_date": "2018-01-03"
     },
     {
       "area_id": "ocd-division/country:us/state:ma",
