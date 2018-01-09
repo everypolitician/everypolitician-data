@@ -2884,6 +2884,16 @@
       ]
     },
     {
+      "id": "6c4e4fa2-97ad-4f84-a0b1-a3bf2472f328",
+      "image": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg"
+        }
+      ],
+      "name": "Vacant"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3492,6 +3502,23 @@
         }
       ],
       "name": "Janet Haworth"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mandy.jones@assembly.wales"
+        }
+      ],
+      "email": "mandy.jones@assembly.wales",
+      "id": "8bf2b0c8-e861-4055-b5c3-c2190478af0d",
+      "image": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/3/0/1/Info00005103/bigpic.jpg"
+        }
+      ],
+      "name": "Mandy Jones"
     },
     {
       "birth_date": "1964-01-17",
@@ -7592,6 +7619,11 @@
         }
       ],
       "srgb": "R:253 G:187 B:48"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -8439,6 +8471,32 @@
     {
       "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/welsh_labour",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
@@ -8472,6 +8530,19 @@
       "sources": [
         {
           "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=225"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "6c4e4fa2-97ad-4f84-a0b1-a3bf2472f328",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6376"
         }
       ]
     },
@@ -8645,6 +8716,20 @@
         }
       ],
       "start_date": "2015-05-27"
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/united_kingdom_independence_party_(ukip)",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "8bf2b0c8-e861-4055-b5c3-c2190478af0d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5103"
+        }
+      ],
+      "start_date": "2017-12-28"
     },
     {
       "area_id": "ocd-division/country:gb-wls/region:south_wales_east/constituency:merthyr_tydfil_and_rhymney",
@@ -9356,6 +9441,11 @@
     }
   ],
   "areas": [
+    {
+      "id": "ocd-division/country:gb-wls/region:",
+      "name": "",
+      "type": "constituency"
+    },
     {
       "id": "ocd-division/country:gb-wls/region:mid_and_west_wales",
       "name": "Mid and West Wales",
