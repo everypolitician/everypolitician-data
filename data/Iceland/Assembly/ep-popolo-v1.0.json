@@ -2831,12 +2831,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Asta_Helgadottir_2015.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Asta_Helgadottir_2015.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -3763,6 +3757,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Bjarni_Benediktsson_(politikus,_1970)"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Bjarni_Benediktsson_(kelahiran_1970)"
         },
         {
           "note": "Wikipedia (is)",
@@ -5453,7 +5451,7 @@
         },
         {
           "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Geir_H._Haarde"
+          "url": "https://sv.wikipedia.org/wiki/Geir_Hilmar_Haarde"
         },
         {
           "note": "Wikipedia (tr)",
@@ -9425,6 +9423,10 @@
           "scheme": "imdb"
         },
         {
+          "identifier": "katrin-jakobsdottir",
+          "scheme": "ne_se"
+        },
+        {
           "identifier": "309561613",
           "scheme": "viaf"
         },
@@ -9440,6 +9442,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bar)",
+          "url": "https://bar.wikipedia.org/wiki/Katrín_Jakobsdóttir"
+        },
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Katrín_Jakobsdóttir"
@@ -9493,8 +9499,20 @@
           "url": "https://is.wikipedia.org/wiki/Katrín_Jakobsdóttir"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Katrín_Jakobsdóttir"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/カトリーン・ヤコブスドッティル"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/카트린_야콥스도티르"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Catharina_Iacobi_filia"
         },
         {
           "note": "Wikipedia (lb)",
@@ -9560,6 +9578,16 @@
         {
           "lang": "ja",
           "name": "カトリーン・ヤコブスドッティル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "카트린 야콥스도티르",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Catharina Iacobi filia",
           "note": "multilingual"
         },
         {
@@ -12048,6 +12076,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
