@@ -714,8 +714,16 @@
           "url": "https://en.wikipedia.org/wiki/Tanya_Plibersek"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tanya_Plibersek"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Tanya_Plibersek"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Плиберсек,_Таня"
         },
         {
           "note": "twitter",
@@ -3403,6 +3411,10 @@
       "given_name": "Mark",
       "id": "210671e4-c2ad-47c3-9765-79682f94a61c",
       "identifiers": [
+        {
+          "identifier": "biography/Mark-Latham",
+          "scheme": "britannica"
+        },
         {
           "identifier": "10379",
           "scheme": "everypolitician_legacy"
@@ -7791,6 +7803,7 @@
     },
     {
       "birth_date": "1935-04-03",
+      "death_date": "2017-12-18",
       "family_name": "Cohen",
       "gender": "male",
       "given_name": "Barry",
@@ -7845,6 +7858,11 @@
       ],
       "name": "Barry Cohen",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "باري كوهن",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Бэрри Коэн",
@@ -12022,6 +12040,13 @@
         }
       ],
       "name": "John McVeigh",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "ジョン・マクベイ",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "McVeigh, John"
     },
     {
@@ -14914,6 +14939,10 @@
       "id": "80f25bcb-ae3a-4efa-ab93-03ae61c21328",
       "identifiers": [
         {
+          "identifier": "biography/Brendan-Nelson",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "10483",
           "scheme": "everypolitician_legacy"
         },
@@ -15434,8 +15463,16 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bob_Katter"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bob_Katter"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bob_Katter"
         },
         {
           "note": "facebook",
@@ -15683,6 +15720,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Alexander_Downer"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Alexander_Downer"
         },
         {
           "note": "Wikipedia (pl)",
@@ -24688,6 +24729,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bob_Katter_Sr."
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bob_Katter_Sr."
         }
@@ -28313,6 +28358,10 @@
           "url": "https://hu.wikipedia.org/wiki/Bob_Hawke"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ռոբերտ_Հոուք"
+        },
+        {
           "note": "Wikipedia (io)",
           "url": "https://io.wikipedia.org/wiki/Bob_Hawke"
         },
@@ -28422,6 +28471,11 @@
         {
           "lang": "hi",
           "name": "बाब हाक",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ռոբերտ Հոուք",
           "note": "multilingual"
         },
         {
@@ -29984,6 +30038,13 @@
         }
       ],
       "name": "David Littleproud",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "デービッド・リトルプラウド",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Littleproud, David"
     },
     {
@@ -33904,6 +33965,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
