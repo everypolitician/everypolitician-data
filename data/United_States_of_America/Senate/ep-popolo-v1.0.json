@@ -37023,6 +37023,69 @@
       "sort_name": "Risch, James"
     },
     {
+      "birth_date": "1958-03-04",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "202-224-5641"
+        }
+      ],
+      "family_name": "Smith",
+      "gender": "female",
+      "given_name": "Tina",
+      "id": "7cd602d6-2486-4971-abda-ae5516b7b6fc",
+      "identifiers": [
+        {
+          "identifier": "Tina Smith",
+          "scheme": "ballotpedia"
+        },
+        {
+          "identifier": "S001203",
+          "scheme": "bioguide"
+        },
+        {
+          "identifier": "111313",
+          "scheme": "cspan"
+        },
+        {
+          "identifier": "S8MN00578",
+          "scheme": "fec"
+        },
+        {
+          "identifier": "kg:/m/0127xvy3",
+          "scheme": "google_entity_id"
+        },
+        {
+          "identifier": "412742",
+          "scheme": "govtrack"
+        },
+        {
+          "identifier": "S394",
+          "scheme": "lis"
+        },
+        {
+          "identifier": "152968",
+          "scheme": "votesmart"
+        },
+        {
+          "identifier": "Q18631509",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Tina Smith",
+          "scheme": "wikipedia"
+        }
+      ],
+      "image": "https://theunitedstates.io/images/congress/original/S001203.jpg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/S001203.jpg"
+        }
+      ],
+      "name": "Tina Smith",
+      "sort_name": "Smith, Tina"
+    },
+    {
       "birth_date": "1921-02-11",
       "death_date": "2006-05-23",
       "family_name": "Bentsen",
@@ -71125,6 +71188,69 @@
       "sort_name": "Smith, Gordon"
     },
     {
+      "birth_date": "1954-05-04",
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "202-224-4121"
+        }
+      ],
+      "family_name": "Jones",
+      "gender": "male",
+      "given_name": "Doug",
+      "id": "d8f52bb5-31ab-437d-92a8-62abda14dbc8",
+      "identifiers": [
+        {
+          "identifier": "Doug Jones (Alabama)",
+          "scheme": "ballotpedia"
+        },
+        {
+          "identifier": "J000300",
+          "scheme": "bioguide"
+        },
+        {
+          "identifier": "1024592",
+          "scheme": "cspan"
+        },
+        {
+          "identifier": "S0AL00156",
+          "scheme": "fec"
+        },
+        {
+          "identifier": "kg:/g/11dyzdzg1j",
+          "scheme": "google_entity_id"
+        },
+        {
+          "identifier": "412741",
+          "scheme": "govtrack"
+        },
+        {
+          "identifier": "S393",
+          "scheme": "lis"
+        },
+        {
+          "identifier": "176464",
+          "scheme": "votesmart"
+        },
+        {
+          "identifier": "Q30122825",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Doug Jones (politician)",
+          "scheme": "wikipedia"
+        }
+      ],
+      "image": "https://theunitedstates.io/images/congress/original/J000300.jpg",
+      "images": [
+        {
+          "url": "https://theunitedstates.io/images/congress/original/J000300.jpg"
+        }
+      ],
+      "name": "Doug Jones",
+      "sort_name": "Jones, Doug"
+    },
+    {
       "birth_date": "1948-05-18",
       "contact_details": [
         {
@@ -96634,6 +96760,15 @@
       "role": "member"
     },
     {
+      "area_id": "ocd-division/country:us/state:mn",
+      "legislative_period_id": "term/115",
+      "on_behalf_of_id": "party/democrat",
+      "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
+      "person_id": "7cd602d6-2486-4971-abda-ae5516b7b6fc",
+      "role": "member",
+      "start_date": "2018-01-03"
+    },
+    {
       "area_id": "ocd-division/country:us/state:tx",
       "legislative_period_id": "term/100",
       "on_behalf_of_id": "party/democrat",
@@ -97282,6 +97417,7 @@
     },
     {
       "area_id": "ocd-division/country:us/state:mn",
+      "end_date": "2018-01-02",
       "legislative_period_id": "term/115",
       "on_behalf_of_id": "party/democrat",
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
@@ -99545,6 +99681,7 @@
     },
     {
       "area_id": "ocd-division/country:us/state:al",
+      "end_date": "2018-01-03",
       "legislative_period_id": "term/115",
       "on_behalf_of_id": "party/republican",
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
@@ -102672,6 +102809,15 @@
       "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
       "person_id": "d821d229-3948-4172-bf84-d5cd3766405b",
       "role": "member"
+    },
+    {
+      "area_id": "ocd-division/country:us/state:al",
+      "legislative_period_id": "term/115",
+      "on_behalf_of_id": "party/democrat",
+      "organization_id": "8fa6c3d2-71dc-4788-b9f8-4ca70d5a7d85",
+      "person_id": "d8f52bb5-31ab-437d-92a8-62abda14dbc8",
+      "role": "member",
+      "start_date": "2018-01-03"
     },
     {
       "area_id": "ocd-division/country:us/state:nm",
