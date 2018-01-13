@@ -474,6 +474,14 @@
       "sort_name": "Robertson, Grant"
     },
     {
+      "id": "0a69fddf-d9b2-4b8a-a47f-367c8e95ba88",
+      "name": "Māori CS"
+    },
+    {
+      "id": "0b441822-eff3-45ad-8dbb-64bd81d61d34",
+      "name": "64"
+    },
+    {
       "birth_date": "1957-08-03",
       "gender": "female",
       "given_name": "Kate",
@@ -3983,6 +3991,10 @@
       "sort_name": "Mahuta, Nanaia"
     },
     {
+      "id": "47f3c736-ddf7-4463-a785-dcbb7e827737",
+      "name": "Labour"
+    },
+    {
       "gender": "male",
       "given_name": "John",
       "id": "49a5d06a-2be8-41f9-8401-48fe114bbdc3",
@@ -4836,6 +4848,10 @@
       ],
       "name": "Maryan Street",
       "sort_name": "Street, Maryan"
+    },
+    {
+      "id": "57486e85-5400-473d-b731-dd58e7b184f9",
+      "name": "NZ First"
     },
     {
       "contact_details": [
@@ -7432,6 +7448,10 @@
       "sort_name": "Ball, Darroch"
     },
     {
+      "id": "7a804f36-e7d1-4910-803c-dea0a33535bf",
+      "name": "ACT CS"
+    },
+    {
       "birth_date": "1947-05-20",
       "family_name": "Wilson",
       "gender": "female",
@@ -8981,6 +9001,10 @@
       "sort_name": "Goldsmith, Paul"
     },
     {
+      "id": "95964ca3-9cf1-4d09-bd50-473b2ca1fe82",
+      "name": "7"
+    },
+    {
       "birth_date": "1958",
       "contact_details": [
         {
@@ -9034,6 +9058,10 @@
       ],
       "name": "Jonathan Young",
       "sort_name": "Young, Jonathan"
+    },
+    {
+      "id": "9707e367-6166-48a7-87bf-2b8c5aabe25a",
+      "name": "Mana"
     },
     {
       "birth_date": "1945-04-11",
@@ -9673,6 +9701,10 @@
       "sort_name": "Cosgrove, Clayton"
     },
     {
+      "id": "a761a036-5788-4d0a-8aed-f827d258dd68",
+      "name": "United Future CS"
+    },
+    {
       "birth_date": "1969-05-12",
       "gender": "female",
       "given_name": "Katrina",
@@ -9956,6 +9988,10 @@
       "sort_name": "Gosche, Mark"
     },
     {
+      "id": "ae8653eb-9b15-4d8a-a5b9-26f9652a0767",
+      "name": "121"
+    },
+    {
       "birth_date": "1945-11-30",
       "contact_details": [
         {
@@ -10134,6 +10170,10 @@
       ],
       "name": "Judith Tizard",
       "sort_name": "Tizard, Judith"
+    },
+    {
+      "id": "b1636ef0-a0eb-4f47-b523-d3cf29eff7bd",
+      "name": "57"
     },
     {
       "birth_date": "1963-07-04",
@@ -10845,6 +10885,10 @@
       ],
       "name": "David Clark",
       "sort_name": "Clark, David"
+    },
+    {
+      "id": "bcc63b4a-6f48-48e7-ad1b-aafc212ef3a7",
+      "name": "Green"
     },
     {
       "birth_date": "1943-11-29",
@@ -14339,6 +14383,10 @@
       "sort_name": "Davidson, Marama"
     },
     {
+      "id": "edb86d77-15a5-4b5b-baad-fa387f7d66ea",
+      "name": "Independent Coalition"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -14395,6 +14443,10 @@
         }
       ],
       "sort_name": "Hudson, Brett"
+    },
+    {
+      "id": "eedfeef7-6af3-467d-9e97-023e45538312",
+      "name": "National"
     },
     {
       "contact_details": [
@@ -18902,6 +18954,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -19437,6 +19494,22 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/robertson-grant/"
         }
       ]
+    },
+    {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "0a69fddf-d9b2-4b8a-a47f-367c8e95ba88",
+      "role": "member"
+    },
+    {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "0b441822-eff3-45ad-8dbb-64bd81d61d34",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20869,6 +20942,14 @@
       ]
     },
     {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "47f3c736-ddf7-4463-a785-dcbb7e827737",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "party/act_new_zealand",
@@ -21227,6 +21308,14 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "57245b14-3de1-4d24-9c60-c77873293b30",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "57486e85-5400-473d-b731-dd58e7b184f9",
       "role": "member"
     },
     {
@@ -22133,6 +22222,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "7a804f36-e7d1-4910-803c-dea0a33535bf",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -22762,6 +22859,14 @@
       ]
     },
     {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "95964ca3-9cf1-4d09-bd50-473b2ca1fe82",
+      "role": "member"
+    },
+    {
       "area_id": "area/new_plymouth",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "party/new_zealand_national_party",
@@ -22802,6 +22907,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/young-jonathan/"
         }
       ]
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9707e367-6166-48a7-87bf-2b8c5aabe25a",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -23112,6 +23225,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "a761a036-5788-4d0a-8aed-f827d258dd68",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -23250,6 +23371,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "ae8653eb-9b15-4d8a-a5b9-26f9652a0767",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/nz_first",
@@ -23334,6 +23463,14 @@
       "on_behalf_of_id": "party/labour",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "b10ae725-4966-4ee7-862c-5587eadaf3c6",
+      "role": "member"
+    },
+    {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "b1636ef0-a0eb-4f47-b523-d3cf29eff7bd",
       "role": "member"
     },
     {
@@ -23718,6 +23855,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/clark-david/"
         }
       ]
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "bcc63b4a-6f48-48e7-ad1b-aafc212ef3a7",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -25179,6 +25324,14 @@
       ]
     },
     {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "edb86d77-15a5-4b5b-baad-fa387f7d66ea",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
@@ -25203,6 +25356,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/hudson-brett/"
         }
       ]
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "eedfeef7-6af3-467d-9e97-023e45538312",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -26267,6 +26428,56 @@
   ],
   "areas": [
     {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
+    {
       "id": "area/aoraki",
       "identifiers": [
         {
@@ -27086,6 +27297,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
