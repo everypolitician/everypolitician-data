@@ -1644,6 +1644,7 @@
       "sort_name": "LEVERBERG, STELLA MARIS"
     },
     {
+      "family_name": "Tomassi",
       "gender": "male",
       "given_name": "Néstor",
       "id": "20cc4fa7-c723-4362-8e93-54d4757d90ce",
@@ -2177,6 +2178,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Diego_Matías_Mestre.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Diego_Matías_Mestre.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (es)",
@@ -2434,6 +2441,7 @@
           "value": "mgwechsler"
         }
       ],
+      "family_name": "Wechsler",
       "gender": "male",
       "given_name": "Marcelo",
       "id": "322cb8d6-695a-4f0a-85e5-36a6f5abd244",
@@ -4427,11 +4435,7 @@
       "name": "Jose Luis Patiño",
       "other_names": [
         {
-          "name": "José Luis Patiño",
-          "note": "alternate"
-        },
-        {
-          "lang": "es",
+          "lang": "en",
           "name": "José Luis Patiño",
           "note": "multilingual"
         }
@@ -4616,6 +4620,7 @@
       "sort_name": "GARCIA, ANDREA FABIANA"
     },
     {
+      "gender": "female",
       "id": "584170bd-be5c-4484-bb7f-c963c9dcc43b",
       "identifiers": [
         {
@@ -5069,8 +5074,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/613026683919142912/Lmom-LoY.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pablo_Gabriel_Tonelli.png",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pablo_Gabriel_Tonelli.png"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/613026683919142912/Lmom-LoY.jpg"
         }
@@ -6566,6 +6574,8 @@
       "sort_name": "Giordano, Juan Carlos"
     },
     {
+      "birth_date": "1971-06-03",
+      "family_name": "Burgos",
       "gender": "female",
       "given_name": "María",
       "id": "793c75b7-54c3-48d0-96f4-94b8b5e822a2",
@@ -6577,6 +6587,12 @@
         {
           "identifier": "Q21856062",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gabriela_Burgos.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Gabriela_Burgos.JPG"
         }
       ],
       "name": "Maria Gabriela Burgos",
@@ -7777,7 +7793,7 @@
           "url": "http://www4.hcdn.gob.ar/fotos/fpinedo.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Fpinedo.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Federico_Pinedo_(born_1955).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/710562193050361856/4h29rhIW.jpg"
@@ -8042,6 +8058,7 @@
       "sort_name": "Ferreyra, Araceli"
     },
     {
+      "gender": "male",
       "id": "8c699082-2995-407b-b100-cf40660a3d22",
       "identifiers": [
         {
@@ -9445,10 +9462,6 @@
         {
           "identifier": "jmartinez",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q41587430",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/jmartinez.jpg",
@@ -13370,6 +13383,7 @@
           "value": "teresita_ok"
         }
       ],
+      "family_name": "Villavicencio",
       "gender": "female",
       "given_name": "Maria",
       "id": "f1cac6db-f241-403d-8687-adb1eddf43cb",
@@ -14634,6 +14648,12 @@
         {
           "lang": "es",
           "name": "Frente de Izquierda",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Frente de Izquierda y de Los Trabajadores",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -16024,27 +16044,7 @@
     {
       "classification": "party",
       "id": "party/union_por_cordoba",
-      "identifiers": [
-        {
-          "identifier": "Q6157188",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "UNION POR CORDOBA",
-      "other_names": [
-        {
-          "lang": "es",
-          "name": "Unión por Córdoba",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Union por Cordoba",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
+      "name": "UNION POR CORDOBA"
     },
     {
       "classification": "party",
