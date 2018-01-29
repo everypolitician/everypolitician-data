@@ -32,7 +32,14 @@
           "url": "https://en.wikipedia.org/wiki/Annie_Courtney"
         }
       ],
-      "name": "Annie Courtney"
+      "name": "Annie Courtney",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Анни Кортни",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-10-29",
@@ -1602,7 +1609,14 @@
           "url": "https://en.wikipedia.org/wiki/Robbie_Butler"
         }
       ],
-      "name": "Robbie Butler"
+      "name": "Robbie Butler",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Робби Батлер",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-05-11",
@@ -3846,6 +3860,11 @@
       "name": "Sammy Wilson",
       "other_names": [
         {
+          "lang": "ru",
+          "name": "Сэмми Уилсон",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "薩米·威爾遜",
           "note": "multilingual"
@@ -4841,6 +4860,7 @@
     },
     {
       "birth_date": "1943-08-15",
+      "family_name": "Bell",
       "gender": "female",
       "given_name": "Eileen",
       "id": "5b7e7096-92ea-4e73-9404-af99d421c4ee",
@@ -6531,7 +6551,14 @@
           "url": "https://en.wikipedia.org/wiki/Cedric_Wilson"
         }
       ],
-      "name": "Cedric Wilson"
+      "name": "Cedric Wilson",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Седрик Уилсон",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-04-04",
@@ -8422,7 +8449,7 @@
       ]
     },
     {
-      "birth_date": "1985-01-01",
+      "birth_date": "1984-08-20",
       "contact_details": [
         {
           "type": "twitter",
@@ -8466,12 +8493,20 @@
           "url": "https://en.wikipedia.org/wiki/Chris_Hazzard"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chris_Hazzard"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/chris.hazzard.77"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/ChrisHazzardSF"
+        },
+        {
+          "note": "website",
+          "url": "http://sinnfeinsouthdown.com/tag/chris-hazzard-mla"
         }
       ],
       "name": "Christopher Hazzard",
@@ -8712,6 +8747,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Justin_McNulty"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Justin_McNulty"
         }
       ],
       "name": "Justin McNulty"
@@ -11718,6 +11757,11 @@
           "lang": "it",
           "name": "Gerard Kelly",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джерард Келли",
+          "note": "multilingual"
         }
       ]
     },
@@ -11861,6 +11905,7 @@
       ]
     },
     {
+      "birth_date": "1959",
       "family_name": "McGlone",
       "gender": "male",
       "given_name": "Patsy",
@@ -12301,6 +12346,11 @@
         {
           "lang": "ar",
           "name": "داني كينيدي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дэнни Кеннеди",
           "note": "multilingual"
         }
       ]
@@ -15760,7 +15810,7 @@
         },
         {
           "lang": "ca",
-          "name": "president del parlament",
+          "name": "president de parlament",
           "note": "multilingual",
           "source": "wikidata-label"
         },
