@@ -1350,6 +1350,7 @@
     },
     {
       "birth_date": "1979-10-16",
+      "family_name": "Petrov",
       "gender": "male",
       "given_name": "Božo",
       "id": "2cbde03a-2e35-4fa1-a866-023e41b2d14c",
@@ -1693,6 +1694,10 @@
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Darinko_Kosor"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Даринко_Косор"
         }
       ],
       "name": "Darinko Kosor"
@@ -1781,6 +1786,10 @@
         {
           "identifier": "00000028994",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "A34401064",
+          "scheme": "nlp"
         },
         {
           "identifier": "vjd5kwyig7ww",
@@ -2759,6 +2768,7 @@
     },
     {
       "birth_date": "1974-04-25",
+      "family_name": "Kovačič",
       "gender": "male",
       "given_name": "Ivan",
       "id": "528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
@@ -3178,6 +3188,7 @@
     },
     {
       "birth_date": "1949-05-11",
+      "family_name": "Čačić",
       "gender": "male",
       "id": "56cd4a19-05c2-4e75-8f22-fc22664a2f0b",
       "identifiers": [
@@ -3629,6 +3640,7 @@
           "value": "perkovicsandra"
         }
       ],
+      "family_name": "Perković",
       "gender": "female",
       "given_name": "Sandra",
       "id": "64ec110d-3922-43ac-857b-b388ceef2038",
@@ -4819,6 +4831,7 @@
     },
     {
       "birth_date": "1961-01-06",
+      "family_name": "Bošnjaković",
       "gender": "male",
       "given_name": "Dražen",
       "id": "7ba49f4e-7825-42a7-9bf4-1438128341bf",
@@ -7262,7 +7275,7 @@
     {
       "birth_date": "1949-06-25",
       "gender": "male",
-      "given_name": "Micola",
+      "given_name": "Nikola",
       "id": "b41d5647-8d29-4444-95d4-41029475d7b0",
       "identifiers": [
         {
@@ -8442,6 +8455,10 @@
           "url": "https://nl.wikipedia.org/wiki/Andrej_Plenković"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Andrej_Plenković"
         },
@@ -8696,7 +8713,7 @@
     {
       "birth_date": "1981-07-28",
       "gender": "male",
-      "given_name": "Micola",
+      "given_name": "Nikola",
       "id": "d131a17f-2452-4670-bf04-8e2f6427b65f",
       "identifiers": [
         {
@@ -9468,7 +9485,14 @@
           "url": "https://twitter.com/ivanvrdoljak"
         }
       ],
-      "name": "Ivan Vrdoljak"
+      "name": "Ivan Vrdoljak",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Іван Врдоляк",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-01-05",
@@ -9842,6 +9866,10 @@
       "id": "e3464c50-52c6-49e7-b219-aaae1104de52",
       "identifiers": [
         {
+          "identifier": "182515043",
+          "scheme": "conor"
+        },
+        {
           "identifier": "/m/04f1fp_",
           "scheme": "freebase"
         },
@@ -10057,6 +10085,10 @@
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Anka_Mrak_Taritaš"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Анка_Мрак-Таріташ"
         }
       ],
       "name": "Anka Mrak-Taritaš",
@@ -10887,6 +10919,10 @@
         {
           "note": "Wikipedia (sl)",
           "url": "https://sl.wikipedia.org/wiki/Jozo_Radoš"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Йозо_Радош"
         }
       ],
       "name": "Jozo Radoš"
@@ -12310,6 +12346,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Kroata Popola Partio — Liberalaj Demokratoj",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pt",
           "name": "Partido Popular Croata",
           "note": "multilingual",
@@ -13119,6 +13161,12 @@
         {
           "lang": "pt",
           "name": "Partido Camponês Croata",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Kroata Kamparana Partio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14981,6 +15029,12 @@
         {
           "lang": "ko",
           "name": "크로아티아 사회민주당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialdemokratia Partio de Kroatio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
