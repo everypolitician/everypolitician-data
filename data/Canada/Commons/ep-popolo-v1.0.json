@@ -369,7 +369,7 @@
           "scheme": "politifact"
         },
         {
-          "identifier": "Justin-Trudeau",
+          "identifier": "Justin-Trudeau-politician-1",
           "scheme": "quora"
         },
         {
@@ -509,6 +509,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
           "note": "Wikipedia (fa)",
@@ -741,6 +745,10 @@
         {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
+          "note": "Wikipedia (war)",
+          "url": "https://war.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
           "note": "Wikipedia (xmf)",
@@ -1546,9 +1554,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BeaulieuMario_BQ.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Mario_Beaulieu_au_parc_St-Jean-Baptiste.jpg"
         }
       ],
       "links": [
@@ -2014,15 +2019,16 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/WaughKevin_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/WaughMP.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kevin_Waugh"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kevin_Waugh"
         },
         {
           "note": "twitter",
@@ -2457,6 +2463,10 @@
           "url": "https://en.wikipedia.org/wiki/Darshan_Kang"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Darshan_Kang"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/darshankang"
         }
@@ -2681,6 +2691,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Боб_Рей"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bob_Rae"
         },
         {
           "note": "Wikipedia (de)",
@@ -2946,9 +2960,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/StubbsShannon_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stubbsmp.jpg"
         }
       ],
       "links": [
@@ -3311,6 +3322,10 @@
         {
           "type": "email",
           "value": "Cathay.Wagantall@parl.gc.ca"
+        },
+        {
+          "type": "twitter",
+          "value": "cathayw"
         }
       ],
       "email": "Cathay.Wagantall@parl.gc.ca",
@@ -3335,15 +3350,28 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/WagantallCathay_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Wagantallmp.png"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Cathay_Wagantall"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cathay_Wagantall"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/CathayWagantallMP"
+        },
+        {
+          "note": "instagram",
+          "url": "cathaywagantall"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cathayw"
         },
         {
           "note": "website",
@@ -5242,7 +5270,14 @@
       "sort_name": "HARRIS, Richard M."
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JeanYip3"
+        }
+      ],
       "gender": "female",
+      "given_name": "Jean",
       "id": "1d2a2d2f-fefc-44a3-ba0c-8b5b6a497b3f",
       "identifiers": [
         {
@@ -5254,6 +5289,22 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jean_Yip"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean_Yip"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JeanYip.Scarborough"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JeanYip3"
+        },
+        {
+          "note": "website",
+          "url": "http://jeanyip.liberal.ca"
         }
       ],
       "name": "Jean Yip"
@@ -5337,7 +5388,6 @@
       ],
       "email": "Bal.Gosal@parl.gc.ca",
       "family_name": "GOSAL",
-      "gender": "male",
       "given_name": "The Hon. Bal, P.C., B.Sc.",
       "id": "1db7d58f-a05c-41b4-baca-da659ed50487",
       "identifiers": [
@@ -5348,10 +5398,6 @@
         {
           "identifier": "35535",
           "scheme": "represent"
-        },
-        {
-          "identifier": "Q2880373",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=9b62f757-7262-4e14-be53-1875474c90b5",
@@ -5361,20 +5407,9 @@
         },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/GosalBal_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/BalGosal.jpg"
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Bal_Gosal"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Bal_Gosal"
-        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Bal-Gosal-155006724554020"
@@ -5401,16 +5436,6 @@
         {
           "name": "The Hon. Bal, P.C., B.Sc. GOSAL",
           "note": "alternate"
-        },
-        {
-          "lang": "bn",
-          "name": "বল ঘোষাল",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pa",
-          "name": "ਬਲਜੀਤ ਗੋਸਲ",
-          "note": "multilingual"
         }
       ],
       "sort_name": "GOSAL, The Hon. Bal, P.C., B.Sc."
@@ -6280,6 +6305,11 @@
         {
           "name": "Dany, D.C. MORIN",
           "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Дани Морен",
+          "note": "multilingual"
         }
       ],
       "sort_name": "MORIN, Dany, D.C."
@@ -6478,7 +6508,6 @@
       ]
     },
     {
-      "birth_date": "1942-10-09",
       "contact_details": [
         {
           "type": "email",
@@ -6490,50 +6519,15 @@
         }
       ],
       "email": "Karen.Ludwig@parl.gc.ca",
-      "family_name": "Ludwig",
-      "gender": "female",
-      "given_name": "Karen",
       "id": "23e0bc51-218e-4ad9-955b-638d0c53a069",
       "identifiers": [
-        {
-          "identifier": "p43668",
-          "scheme": "allmovie"
-        },
-        {
-          "identifier": "115353",
-          "scheme": "allocine"
-        },
         {
           "identifier": "karen-ludwig",
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "663400d2151a4cb88c6207bf2dd3240a",
-          "scheme": "filmportal_de"
-        },
-        {
-          "identifier": "nm0525023",
-          "scheme": "imdb"
-        },
-        {
-          "identifier": "55094",
-          "scheme": "kinopoisk"
-        },
-        {
-          "identifier": "173299",
-          "scheme": "port"
-        },
-        {
           "identifier": "88365",
           "scheme": "represent"
-        },
-        {
-          "identifier": "66565",
-          "scheme": "scope"
-        },
-        {
-          "identifier": "Q21714340",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/LudwigKaren_Lib.jpg",
@@ -6544,18 +6538,6 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Karen_Ludwig"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Karen_Ludwig"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Karen_Ludwig"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/KarenLudwigNB"
         },
@@ -6564,14 +6546,7 @@
           "url": "http://karenludwigmp.ca"
         }
       ],
-      "name": "Karen Ludwig",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "كارين لودفيغ",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Karen Ludwig"
     },
     {
       "birth_date": "1967",
@@ -6792,10 +6767,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/JolyMélanie_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mélanie_Joly_-_Montreal_-_2014.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mélanie_Joly,_2014_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mélanie_Joly"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mélanie_Joly"
@@ -6991,7 +6970,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/WilsonRaybouldJody_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Jody_Wilson-Raybould.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Jody_Wilson-Raybould_(cropped).jpg"
         }
       ],
       "links": [
@@ -7064,6 +7043,7 @@
         }
       ],
       "email": "joyce.murray@parl.gc.ca",
+      "family_name": "Murray",
       "gender": "female",
       "given_name": "Joyce",
       "id": "27919489-2407-4874-9649-f3611131b52e",
@@ -7094,6 +7074,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Joyce_Murray"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Joyce_Murray"
@@ -7382,6 +7366,7 @@
       "name": "Vance Badawey"
     },
     {
+      "birth_date": "1986",
       "contact_details": [
         {
           "type": "email",
@@ -7432,6 +7417,7 @@
       "name": "Alupa Clarke"
     },
     {
+      "birth_date": "1966-11-03",
       "contact_details": [
         {
           "type": "email",
@@ -7466,10 +7452,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/HajduPatty_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Patty_Hajdu.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Patty_Hajdu,_2016_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Patty_Hajdu"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patty_Hajdu"
@@ -7784,9 +7774,16 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/GenuisGarnett_CPC.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Garnett_Genuis.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Garnett_Genuis"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Garnett_Genuis"
@@ -8839,6 +8836,10 @@
         },
         {
           "note": "facebook",
+          "url": "https://facebook.com/PierrePoilievreMP"
+        },
+        {
+          "note": "facebook",
           "url": "https://facebook.com/p.poilievre"
         },
         {
@@ -8886,9 +8887,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BoucherSylvie_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Boucher2015remembranceday.jpg"
         }
       ],
       "links": [
@@ -8958,7 +8956,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BrownGordon_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/BrownMP.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gord_Brown_in_Brockville_-_2018_(38943055435)_(cropped).jpg"
         }
       ],
       "links": [
@@ -9206,6 +9204,13 @@
         }
       ],
       "name": "Marie-Claude Morin",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Мари-Клод Морен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MORIN, Marie-Claude"
     },
     {
@@ -10362,6 +10367,10 @@
           "url": "https://en.wikipedia.org/wiki/Bobby_Morrissey"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bobby_Morrissey"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/MorrisseyEgmont"
         }
@@ -11119,6 +11128,7 @@
         }
       ],
       "email": "Jean.Rioux@parl.gc.ca",
+      "family_name": "Rioux",
       "gender": "male",
       "given_name": "Jean",
       "id": "41ec6d03-054b-49a8-9381-0e0c214dbcc1",
@@ -11441,6 +11451,13 @@
         }
       ],
       "name": "Roxanne James",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Роксана Джеймс",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "JAMES, Roxanne"
     },
     {
@@ -13000,6 +13017,9 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/HussenAhmed_Lib.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ahmed_Hussen.jpg"
         }
       ],
       "links": [
@@ -13049,6 +13069,16 @@
         {
           "lang": "ar",
           "name": "أحمد حسين",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "আহমেদ হুসেন",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Axmed Xuseen",
           "note": "multilingual"
         },
         {
@@ -13489,9 +13519,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/VecchioKaren_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Vecchiocampaign.jpg"
         }
       ],
       "links": [
@@ -13838,6 +13865,11 @@
         {
           "name": "Joy, B.Ed., M.Ed.(Hons.) SMITH",
           "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Джой Смит",
+          "note": "multilingual"
         }
       ],
       "sort_name": "SMITH, Joy, B.Ed., M.Ed.(Hons.)"
@@ -14030,13 +14062,17 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BlockKelly_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kellyblockremembrance.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/MPBlock.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kelly_Block"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kelly_Block"
         },
         {
           "note": "facebook",
@@ -14693,9 +14729,6 @@
         },
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/WongAlice_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alicewongmp.jpg"
         }
       ],
       "links": [
@@ -14730,6 +14763,11 @@
         {
           "lang": "it",
           "name": "Alice Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элис Чэнь",
           "note": "multilingual"
         },
         {
@@ -15429,6 +15467,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Дон Дэвис",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "戴偉思",
           "note": "multilingual"
@@ -15813,7 +15856,7 @@
       ],
       "email": "Helene.Laverdiere@parl.gc.ca",
       "gender": "female",
-      "given_name": "Fredérique Pichon",
+      "given_name": "Hélène",
       "id": "61ad920f-65fd-4a04-84d3-62e9f377175f",
       "identifiers": [
         {
@@ -16081,6 +16124,11 @@
         {
           "lang": "fr",
           "name": "Pablo Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Пабло Родригес",
           "note": "multilingual"
         }
       ]
@@ -16506,6 +16554,7 @@
         }
       ],
       "email": "Sheri.Benson@parl.gc.ca",
+      "family_name": "Benson",
       "gender": "female",
       "given_name": "Sheri",
       "id": "65a6db66-ba8a-4e22-b9df-ddac94542b44",
@@ -16541,6 +16590,14 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Sheri_Benson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sheri_Benson"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sheribensonndp"
         },
         {
           "note": "twitter",
@@ -16836,7 +16893,7 @@
           "scheme": "represent"
         },
         {
-          "identifier": "43484747",
+          "identifier": "6067150325541910090004",
           "scheme": "viaf"
         },
         {
@@ -17771,7 +17828,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/DuclosJeanYves_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Jean-Yves_Duclos.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Jean-Yves_Duclos_(cropped).jpg"
         }
       ],
       "links": [
@@ -18233,7 +18290,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/AllisonDean_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/M.P._Dean_Allison_and_Phil_McColeman_as_2013_Canadian_delegation_attended_the_OSCE_Parliamentary_Assembly’s_Annual_Session.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Dean_Allison_in_USA_-_2018_(25896188228)_(cropped).jpg"
         }
       ],
       "links": [
@@ -18387,6 +18444,11 @@
         {
           "name": "Isabelle, B.Ed. MORIN",
           "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Изабелла Морен",
+          "note": "multilingual"
         }
       ],
       "sort_name": "MORIN, Isabelle, B.Ed."
@@ -18808,6 +18870,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sheila_Malcolmson"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/SheilaMalcolmsonNDP"
         },
         {
           "note": "twitter",
@@ -19869,6 +19935,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Chrystia_Freeland"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Chrystia_Freeland"
         },
         {
           "note": "Wikipedia (la)",
@@ -21708,6 +21778,7 @@
     },
     {
       "birth_date": "1946-08-24",
+      "family_name": "Hogg",
       "gender": "male",
       "given_name": "Gordon",
       "id": "835a9052-d52b-44c2-aaea-8523425aaedb",
@@ -21727,6 +21798,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gordon_Hogg"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gordon_Hogg"
         }
       ],
       "name": "Gordon Hogg",
@@ -22267,10 +22342,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/PhilpottJane_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Dr_Jane_Philpott.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jane_Philpott_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jane_Philpott"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jane_Philpott"
@@ -22495,6 +22574,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ginette_Petitpas_Taylor"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/ginetteptaylor"
         },
         {
           "note": "twitter",
@@ -22972,6 +23055,10 @@
           "url": "https://en.wikipedia.org/wiki/Seamus_O'Regan"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Seamus_O'Regan"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SeamusORegan"
         },
@@ -23200,6 +23287,13 @@
         }
       ],
       "name": "Pat Martin",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Пэт Мартин",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MARTIN, Pat"
     },
     {
@@ -23360,6 +23454,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ken_McDonald_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ken_McDonald"
         },
         {
           "note": "twitter",
@@ -25593,7 +25691,7 @@
       ],
       "email": "Serge.Cormier@parl.gc.ca",
       "gender": "male",
-      "given_name": "Sergė",
+      "given_name": "Serge",
       "id": "a0fb0527-1b06-43f7-9dae-26bf00ef2705",
       "identifiers": [
         {
@@ -26522,6 +26620,10 @@
           "url": "https://en.wikipedia.org/wiki/Erin_Weir"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Erin_Weir"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Erin_Weir"
         },
@@ -26633,10 +26735,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ChampagneFrançoisPhilippe_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/François-Philippe_Champagne.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/François-Philippe_Champagne,_2017_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:François-Philippe_Champagne"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/François-Philippe_Champagne"
@@ -26739,6 +26845,10 @@
         {
           "identifier": "12382032q",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Stephane-Dion",
+          "scheme": "britannica"
         },
         {
           "identifier": "stéphane-dion",
@@ -27823,10 +27933,14 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BibeauMarieClaude_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Marie-Claude_Bibeau_and_Justin_Trudeau.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Marie-Claude_Bibeau,_2017_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marie-Claude_Bibeau"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Marie-Claude_Bibeau"
@@ -28067,6 +28181,7 @@
         }
       ],
       "email": "Georgina.Jolibois@parl.gc.ca",
+      "family_name": "Jolibois",
       "gender": "female",
       "given_name": "Georgina",
       "id": "b1607641-7723-4bbf-a47f-1f19f4f30fde",
@@ -28094,6 +28209,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Georgina_Jolibois"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Georgina_Jolibois"
         },
         {
           "note": "twitter",
@@ -28568,6 +28687,11 @@
       "name": "Libby Davies",
       "other_names": [
         {
+          "lang": "ru",
+          "name": "Либби Дэвис",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "戴慧思",
           "note": "multilingual"
@@ -28717,6 +28841,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Dane_Lloyd"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dane.lloyd.58"
         }
       ],
       "name": "Dane Lloyd"
@@ -29290,6 +29418,7 @@
           "value": "GalipeauOrleans"
         }
       ],
+      "death_date": "2018-01-27",
       "email": "royal.galipeau@parl.gc.ca",
       "family_name": "GALIPEAU",
       "gender": "male",
@@ -29305,8 +29434,16 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1025B5212",
+          "scheme": "lac"
+        },
+        {
           "identifier": "35668",
           "scheme": "represent"
+        },
+        {
+          "identifier": "317283862",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q3445944",
@@ -29327,6 +29464,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Royal_Galipeau"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Royal_Galipeau"
         },
@@ -29337,6 +29478,18 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Royal_Galipeau"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Royal_Galipeau"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Royal_Galipeau"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Royal_Galipeau"
         },
         {
           "note": "facebook",
@@ -29469,12 +29622,19 @@
         },
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/HobackRandy_CPC.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/MPRandyHoback.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Randy_Hoback"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Randy_Hoback"
         },
         {
           "note": "facebook",
@@ -29832,7 +29992,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ScheerAndrew_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Andrew_Scheer.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Andrew_Scheer_celebrating_Unity_Day_-_2018_(25968701058)_(cropped).jpg"
         }
       ],
       "links": [
@@ -30432,6 +30592,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nick_Whalen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nick_Whalen"
         },
         {
           "note": "twitter",
@@ -32240,6 +32404,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Larry_Miller"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Larry_Miller_(Canadian_politician)"
         },
@@ -32429,9 +32597,6 @@
         },
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ReidScott_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mpscottreidcanada.jpg"
         }
       ],
       "links": [
@@ -34137,6 +34302,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Stephanie_Kusie"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/stephaniekusiepolitician"
         }
       ],
       "name": "Stephanie Kusie"
@@ -34903,6 +35072,10 @@
         {
           "note": "Wikipedia (pa)",
           "url": "https://pa.wikipedia.org/wiki/ਅਮਰਜੀਤ_ਸੋਹੀ"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AmarjeetSohiYEG"
         },
         {
           "note": "twitter",
@@ -36101,6 +36274,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Bob_Benzen"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/BobBenzen"
         }
       ],
       "name": "Bob Benzen"
@@ -36503,9 +36680,6 @@
         },
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/ObhraiDeepak_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Obhraistampede.jpg"
         }
       ],
       "links": [
@@ -36796,9 +36970,6 @@
         },
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/AlbasDan_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/AlbasMP.jpg"
         }
       ],
       "links": [
@@ -36928,7 +37099,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BeechTerry_Lib.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/MP-Terry-Beach.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Terry_Beech_-_2014.jpg"
         }
       ],
       "links": [
@@ -37151,6 +37322,11 @@
       ],
       "name": "Lois Brown",
       "other_names": [
+        {
+          "lang": "ru",
+          "name": "Лоис Браун",
+          "note": "multilingual"
+        },
         {
           "lang": "zh-tw",
           "name": "布 朗",
@@ -37468,7 +37644,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/CarrieColin_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/DrCarrie.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Colin_Carrie_-_2018_(25896188228)_(cropped).jpg"
         }
       ],
       "links": [
@@ -37594,9 +37770,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/PaulHusPierre_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/PaulHusMP.jpg"
         }
       ],
       "links": [
@@ -37910,6 +38083,10 @@
           "url": "https://en.wikipedia.org/wiki/Gudie_Hutchings"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gudie_Hutchings"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Gudie"
         },
@@ -38181,7 +38358,7 @@
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BarlowJohn_CPC.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BarlowMP.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/John_Barlow_in_USA_-_2018_(25896188228)_(cropped).jpg"
         }
       ],
       "links": [
@@ -38486,9 +38663,6 @@
       "images": [
         {
           "url": "http://www.ourcommons.ca/Parliamentarians/Images/OfficialMPPhotos/42/BertholdLuc_CPC.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/BertholdMP.jpg"
         }
       ],
       "links": [
@@ -38820,6 +38994,7 @@
       "name": "Wayne Easter"
     },
     {
+      "family_name": "Rogers",
       "gender": "male",
       "id": "f27b422d-e604-4b69-bd39-ba3677ac1676",
       "identifiers": [
@@ -39040,6 +39215,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Kirsty_Duncan"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kirsty_Duncan"
@@ -40031,6 +40210,10 @@
           "url": "https://en.wikipedia.org/wiki/Robert_Kitchen"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Robert_Kitchen"
+        },
+        {
           "note": "website",
           "url": "http://drrobertkitchen.ca"
         }
@@ -40706,6 +40889,18 @@
           "name": "Bloc quebecois",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "الكتلة الكبيكية",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "كتلة الكيبيك",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -41324,6 +41519,12 @@
         {
           "lang": "he",
           "name": "המפלגה הירוקה של קנדה",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Verda Partio de Kanado",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42168,6 +42369,12 @@
           "name": "polític independent",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -42822,6 +43029,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "fr",
+          "name": "NPD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "ko",
           "name": "캐나다 신민당",
           "note": "multilingual",
@@ -42969,6 +43182,12 @@
         {
           "lang": "zh",
           "name": "加拿大民主与力量党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Forto en Demokratio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
