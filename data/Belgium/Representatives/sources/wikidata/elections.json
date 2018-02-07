@@ -39,7 +39,7 @@
       }
     ],
     "dates": [
-      "1977"
+      "1977-04-17"
     ],
     "follows": "Belgian general election, 1974",
     "followed_by": "Belgian general election, 1978"
@@ -202,7 +202,7 @@
       }
     ],
     "dates": [
-      "1978"
+      "1978-12-17"
     ],
     "follows": "Belgian general election, 1977",
     "followed_by": "Belgian general election, 1981"
@@ -389,7 +389,7 @@
       }
     ],
     "dates": [
-      "1974"
+      "1974-03-10"
     ],
     "follows": "Belgian general election, 1971",
     "followed_by": "Belgian general election, 1977"
@@ -497,6 +497,7 @@
       "2014-05-25"
     ],
     "follows": "Belgian federal election, 2010",
+    "followed_by": "Next Belgian federal election",
     "part_of": "Belgian elections, 2014",
     "successful_candidates": [
       "Michel Government"
@@ -941,11 +942,10 @@
       }
     ],
     "dates": [
-      "1946"
+      "1946-02-17"
     ],
     "follows": "Belgian general election, 1939",
     "followed_by": "Belgian general election, 1949",
-    "office": "Prime Minister of Belgium",
     "successful_candidates": [
       "Paul-Henri Spaak"
     ]
@@ -990,7 +990,7 @@
       }
     ],
     "dates": [
-      "1936"
+      "1936-05-24"
     ],
     "follows": "Belgian general election, 1932",
     "followed_by": "Belgian general election, 1939"
@@ -1041,7 +1041,7 @@
       }
     ],
     "dates": [
-      "1954"
+      "1954-04-11"
     ],
     "follows": "Belgian general election, 1950",
     "followed_by": "Belgian general election, 1958"
@@ -1086,7 +1086,7 @@
       }
     ],
     "dates": [
-      "1939"
+      "1939-04-02"
     ],
     "follows": "Belgian general election, 1936",
     "followed_by": "Belgian general election, 1946"
@@ -1137,7 +1137,7 @@
       }
     ],
     "dates": [
-      "1958"
+      "1958-06-01"
     ],
     "follows": "Belgian general election, 1954",
     "followed_by": "Belgian general election, 1961"
@@ -1236,7 +1236,7 @@
       }
     ],
     "dates": [
-      "1929"
+      "1929-05-26"
     ],
     "follows": "Belgian general election, 1925",
     "followed_by": "Belgian general election, 1932"
@@ -1281,7 +1281,7 @@
       }
     ],
     "dates": [
-      "1971"
+      "1971-11-07"
     ],
     "follows": "Belgian general election, 1968"
   },
@@ -1331,7 +1331,7 @@
       }
     ],
     "dates": [
-      "1950"
+      "1950-06-04"
     ],
     "follows": "Belgian general election, 1949",
     "followed_by": "Belgian general election, 1954"
@@ -1472,7 +1472,7 @@
       }
     ],
     "dates": [
-      "1968"
+      "1968-03-31"
     ],
     "follows": "Belgian general election, 1965",
     "followed_by": "Belgian general election, 1971"
@@ -1523,14 +1523,10 @@
       }
     ],
     "dates": [
-      "1949"
+      "1949-06-26"
     ],
     "follows": "Belgian general election, 1946",
-    "followed_by": "Belgian general election, 1950",
-    "office": "Prime Minister of Belgium",
-    "successful_candidates": [
-      "Gaston Eyskens"
-    ]
+    "followed_by": "Belgian general election, 1950"
   },
   "Q2567898": {
     "identifiers": [
@@ -1578,7 +1574,7 @@
       }
     ],
     "dates": [
-      "1965"
+      "1965-05-23"
     ],
     "follows": "Belgian general election, 1961",
     "followed_by": "Belgian general election, 1968"
@@ -1623,7 +1619,7 @@
       }
     ],
     "dates": [
-      "1932"
+      "1932-11-27"
     ],
     "follows": "Belgian general election, 1929",
     "followed_by": "Belgian general election, 1936"
@@ -1824,6 +1820,89 @@
     "follows": "Belgian general election, 1921",
     "followed_by": "Belgian general election, 1929"
   },
+  "Q3586979": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3586979"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Élections législatives de 1896",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1896",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1896",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élections législatives belges de 1896",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1896",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1896-07-05"
+    ],
+    "follows": "Belgian general election, 1894",
+    "followed_by": "Belgian general election, 1898"
+  },
+  "Q3586980": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3586980"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "élections législatives de 1894",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1894",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1894",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élections législatives belges de 1894",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1894-10-14"
+    ],
+    "followed_by": "Belgian general election, 1896"
+  },
   "Q3586981": {
     "identifiers": [
       {
@@ -1868,6 +1947,51 @@
     ],
     "follows": "Belgian general election, 1898",
     "followed_by": "Belgian general election, 1902"
+  },
+  "Q3586982": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3586982"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Élections législatives de 1898",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1898",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1898",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élections législatives belges de 1898",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1898",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1898-05-22"
+    ],
+    "follows": "Belgian general election, 1896",
+    "followed_by": "Belgian general election, 1900"
   },
   "Q3586983": {
     "identifiers": [
@@ -1960,7 +2084,7 @@
       }
     ],
     "dates": [
-      "1904"
+      "1904-05-29"
     ],
     "follows": "Belgian general election, 1902",
     "followed_by": "Belgian general election, 1906"
@@ -2230,7 +2354,7 @@
       }
     ],
     "dates": [
-      "1831"
+      "1831-08-29"
     ]
   },
   "Q4882510": {
@@ -2252,6 +2376,678 @@
       "1830-11-03"
     ]
   },
+  "Q4882511": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882511"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1833",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1833",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1833",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1833",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1833-05-23"
+    ]
+  },
+  "Q4882512": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882512"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1835",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1835-06-09"
+    ]
+  },
+  "Q4882513": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882513"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1837",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1837",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen van 1837",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen van 1837",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1837-06-13"
+    ]
+  },
+  "Q4882515": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882515"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1839",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1839",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1839",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1839",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1839-06-11"
+    ]
+  },
+  "Q4882517": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882517"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1841",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1841",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1841",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1841",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1841-06-08"
+    ]
+  },
+  "Q4882518": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882518"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1843",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1843",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1843",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1843",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1843-06-12"
+    ]
+  },
+  "Q4882519": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882519"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1845",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1845",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1845",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1845",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1845-06-10"
+    ]
+  },
+  "Q4882520": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882520"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1847",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1847",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1847",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1847",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1847",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1847-06-08"
+    ]
+  },
+  "Q4882521": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882521"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1848",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1848",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1848",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1848",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1848",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1848-06-13"
+    ]
+  },
+  "Q4882522": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882522"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1850",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1850",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1950",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1850",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1850",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1850-06-11"
+    ]
+  },
+  "Q4882523": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882523"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1851",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1851",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1851",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1851",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1851-09-27"
+    ]
+  },
+  "Q4882524": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882524"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1852",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1852-06-08"
+    ]
+  },
+  "Q4882525": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882525"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1855",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1855",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1855",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1855",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1855-06-12"
+    ]
+  },
+  "Q4882526": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882526"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1854",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1854",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1854",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1854",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1854-06-13"
+    ]
+  },
+  "Q4882527": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882527"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1856",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1856",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1856",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1856",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1856-06-10"
+    ]
+  },
+  "Q4882528": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882528"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1859",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1859",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1859",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1859",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1859",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1859-06-14"
+    ]
+  },
+  "Q4882529": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882529"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1861",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1861",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1861",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1861",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1861-06-11"
+    ]
+  },
+  "Q4882530": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882530"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1863",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1963",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1863",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1863",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1863-06-09"
+    ]
+  },
   "Q4882531": {
     "identifiers": [
       {
@@ -2271,10 +3067,682 @@
         "name": "Parlamentsvalget i Belgia 1857",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1857",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1857",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1857",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
-      "1857"
+      "1857-12-10"
+    ]
+  },
+  "Q4882532": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882532"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1864",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1864",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen van 1864",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1864-08-11"
+    ]
+  },
+  "Q4882533": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882533"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1867",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1867",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1867",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1867",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1867-06-11"
+    ]
+  },
+  "Q4882535": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882535"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1872",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1872",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1872",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1872",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1872-06-11"
+    ]
+  },
+  "Q4882536": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882536"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1868",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1868",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1868",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1868",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1868-06-09"
+    ]
+  },
+  "Q4882537": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882537"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1874",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1874",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1874",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1874",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1874",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1874-06-09"
+    ]
+  },
+  "Q4882538": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882538"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1876",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1876",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1876",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1876",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1876",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1876-06-13"
+    ]
+  },
+  "Q4882539": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882539"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1878",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1878",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1878",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1878",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1878",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1878-06-11"
+    ],
+    "follows": "Belgian general election, 1876"
+  },
+  "Q4882540": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882540"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1880",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1880",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges 1880",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1880",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1880",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1880-06-08"
+    ]
+  },
+  "Q4882541": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882541"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1882",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1882",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1882",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1882",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1882",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1882-06-13"
+    ]
+  },
+  "Q4882542": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882542"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1884",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections legislatives belges de 1884",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1884",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1884",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1884",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1884-06-10",
+      "1884-07-08"
+    ]
+  },
+  "Q4882544": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882544"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1886",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1886",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1886",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1886",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1886",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1886-06-08"
+    ]
+  },
+  "Q4882545": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882545"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1888",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1888",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1888",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1888",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1888",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1888-06-12"
+    ]
+  },
+  "Q4882546": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882546"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1890",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1890",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1890",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1890",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1890",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1890-06-10"
+    ]
+  },
+  "Q4882547": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882547"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, 1892",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1892",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1982",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische verkiezingen 1892",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1892",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1892-06-14"
+    ]
+  },
+  "Q4882548": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882548"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, June 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "1870年6月ベルギー総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives belges de 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1870",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1870-06-11"
+    ]
+  },
+  "Q4882549": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4882549"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Belgian general election, August 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives de 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische wetgevende verkiezingen 1870",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Belgische parlementsverkiezingen 1870",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1870-08-02"
     ]
   }
 }
