@@ -835,7 +835,7 @@
       "birth_date": "1959-09-28",
       "family_name": "Tsitsi",
       "gender": "male",
-      "given_name": "Dante",
+      "given_name": "Dantes",
       "id": "7ae56b52-0e4c-49cb-82b9-e9e3fd857123",
       "identifiers": [
         {
@@ -958,6 +958,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/בארון_ואקה"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Baron_Waqa"
         },
         {
           "note": "Wikipedia (io)",
@@ -1565,7 +1569,14 @@
           "url": "https://en.wikipedia.org/wiki/Sean_Oppenheimer"
         }
       ],
-      "name": "Sean Oppenheimer"
+      "name": "Sean Oppenheimer",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Шон Оппенгеймер",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-05-06",
@@ -2392,6 +2403,24 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "de",
+          "name": "Parteilose",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "freie Abgeordnete",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "id",
           "name": "Politikus independen",
           "note": "multilingual",
@@ -2676,6 +2705,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
