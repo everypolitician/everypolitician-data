@@ -682,23 +682,6 @@
       "name": "Kgosi Lotlaamoreng Montshioa"
     },
     {
-      "gender": "male",
-      "id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
-      "identifiers": [
-        {
-          "identifier": "christiaan_de_graaff",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Christiaan De Graaff",
-      "other_names": [
-        {
-          "name": "Hon. Christian De Graaf",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
       "id": "80a451bb-2820-4756-85f4-556ef4994df3",
       "identifiers": [
         {
@@ -1490,6 +1473,10 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "d6631c78-69d0-4d51-bf7b-aacf6db209fb",
+      "name": "Christian de Graaff"
     },
     {
       "birth_date": "1965",
@@ -2357,19 +2344,6 @@
       ]
     },
     {
-      "area_id": "area/ghanzi_south",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/bdp",
-      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
-      "person_id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
-        }
-      ]
-    },
-    {
       "area_id": "area/chobe",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/bdp",
@@ -2632,6 +2606,19 @@
       "on_behalf_of_id": "party/udc",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "d384124c-0c87-4ad1-951d-90685e991d99",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ghanzi_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
+      "person_id": "d6631c78-69d0-4d51-bf7b-aacf6db209fb",
       "role": "member",
       "sources": [
         {
