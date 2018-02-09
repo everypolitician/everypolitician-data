@@ -479,6 +479,7 @@
         }
       ],
       "email": "Dumitru.Diacov@parlament.md",
+      "family_name": "Dyakov",
       "gender": "male",
       "given_name": "Dumitru",
       "id": "1376613a-7f76-4de2-b6e3-cf535123f4b8",
@@ -1201,6 +1202,7 @@
     },
     {
       "birth_date": "1954-10-14",
+      "family_name": "Turcan",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "38743e20-06ad-4edf-98a6-feeeb921fbcd",
@@ -1975,6 +1977,10 @@
           "url": "https://en.wikipedia.org/wiki/Andrian_Candu"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Andrian_Candu"
+        },
+        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Andrian_Candu"
         },
@@ -2070,6 +2076,7 @@
         }
       ],
       "email": "Nicolae.Juravschi@parlament.md",
+      "family_name": "Żurawski",
       "gender": "male",
       "given_name": "Nicolae",
       "id": "5a3ff1b2-17e5-471b-99f4-028438beb843",
@@ -2850,6 +2857,7 @@
         }
       ],
       "email": "Eugen.Carpov@parlament.md",
+      "family_name": "Karpov",
       "gender": "male",
       "given_name": "Eugen",
       "id": "76e1f835-afc5-4426-ac21-7abf05c263be",
@@ -3345,6 +3353,7 @@
         }
       ],
       "email": "Vladimir.Voronin@parlament.md",
+      "family_name": "Voronin",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "9ef05dbb-0f4b-479e-a4d2-dcbe3676c421",
@@ -3531,10 +3540,6 @@
         {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Vladimirs_Voroņins"
-        },
-        {
-          "note": "Wikipedia (mo)",
-          "url": "https://mo.wikipedia.org/wiki/Владимир_Воронин"
         },
         {
           "note": "Wikipedia (nl)",
@@ -4721,6 +4726,7 @@
     },
     {
       "birth_date": "1939-09-17",
+      "family_name": "Smirnov",
       "gender": "male",
       "id": "c15c14ae-a987-40fe-9041-12900e52a07b",
       "identifiers": [
@@ -8073,6 +8079,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Partio Socialista de Respubliko Moldavio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ru",
           "name": "Партия социалистов Молдовы «Patria-Родина»",
           "note": "multilingual",
@@ -8646,6 +8658,24 @@
         {
           "lang": "de",
           "name": "freier Abgeordneter",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Parteilose",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "freie Abgeordnete",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -10615,6 +10645,19 @@
       "name": "Legislatura XX",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "start_date": "2014-12-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2018-11",
+      "id": "Q20987557",
+      "identifiers": [
+        {
+          "identifier": "Q20987557",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Moldovan parliamentary election, 2018",
+      "start_date": "2018-11"
     }
   ],
   "areas": [
