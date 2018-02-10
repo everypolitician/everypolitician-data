@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "gender": "male",
       "id": "06634e78-2310-4f90-9e6f-a00fec42e92f",
       "identifiers": [
         {
@@ -166,6 +167,11 @@
         {
           "lang": "ja",
           "name": "オーランド・スミス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Орландо Смит",
           "note": "multilingual"
         },
         {
@@ -439,6 +445,8 @@
       "name": "Austin Henley"
     },
     {
+      "birth_date": "1942-02-02",
+      "death_date": "2017-12-20",
       "gender": "male",
       "given_name": "Omar",
       "id": "ad1d5fea-0bb3-4694-899a-cf4f688979b1",
@@ -472,6 +480,7 @@
       "name": "Delores CHRISTOPHER"
     },
     {
+      "gender": "male",
       "id": "b70df381-37de-4d9e-be3f-0d7fb6df94aa",
       "identifiers": [
         {
@@ -1357,6 +1366,24 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "de",
+          "name": "Parteilose",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "freie Abgeordnete",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "id",
           "name": "Politikus independen",
           "note": "multilingual",
@@ -1641,6 +1668,12 @@
         {
           "lang": "ca",
           "name": "polític independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mr",
+          "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
