@@ -896,7 +896,14 @@
           "url": "https://fr.wikipedia.org/wiki/Helena_Dalli"
         }
       ],
-      "name": "Helena Dalli"
+      "name": "Helena Dalli",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Елена Абела",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2461,6 +2468,10 @@
           "url": "https://br.wikipedia.org/wiki/Joseph_Muscat"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Joseph_Muscat"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Joseph_Muscat"
         },
@@ -3515,6 +3526,12 @@
         {
           "lang": "ko",
           "name": "국민당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Naciista",
           "note": "multilingual",
           "source": "wikidata-label"
         },
