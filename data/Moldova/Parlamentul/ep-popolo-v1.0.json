@@ -346,10 +346,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=u7uad9l37aM%3d&tabid=87&mid=476&language=en-US",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=fUpymiCpIfw%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=u7uad9l37aM%3d&tabid=87&mid=476&language=en-US"
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=fUpymiCpIfw%3d&tabid=87&mid=476&language=en-US"
         }
       ],
       "name": "Elena Bacalu",
@@ -697,8 +697,15 @@
           "url": "https://ro.wikipedia.org/wiki/Alina_Zotea"
         }
       ],
-      "name": "Alina Zotea",
-      "sort_name": "Zotea Alina"
+      "name": "Alina Zotea-Durnea",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alina Zotea",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Zotea-Durnea Alina"
     },
     {
       "birth_date": "1983-02-06",
@@ -1428,6 +1435,17 @@
       ],
       "name": "Nicolae Olaru",
       "sort_name": "Olaru Nicolae"
+    },
+    {
+      "id": "3f92c150-d0ef-4026-94ea-2d46274a398a",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Aliona Babiuc",
+      "sort_name": "Babiuc Aliona"
     },
     {
       "id": "40066402-9562-4a3a-b69f-57d20dce95cd",
@@ -4267,10 +4285,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=n5txEeRxaNQ%3d&tabid=87&mid=476&language=en-US",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=n2BurR1BaqA%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=n5txEeRxaNQ%3d&tabid=87&mid=476&language=en-US"
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=n2BurR1BaqA%3d&tabid=87&mid=476&language=en-US"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ghiletchi.jpg"
@@ -9334,6 +9352,18 @@
     },
     {
       "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "-1",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "3f92c150-d0ef-4026-94ea-2d46274a398a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/3/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "12",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "40066402-9562-4a3a-b69f-57d20dce95cd",
@@ -9466,7 +9496,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "10",
+      "on_behalf_of_id": "-1",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "572707cb-0242-4cfb-bd91-c5384d0ab7df",
       "role": "member",
@@ -10018,7 +10048,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "14",
+      "on_behalf_of_id": "-1",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "ac9cd756-de43-4368-a489-826b23ad9736",
       "role": "member",
