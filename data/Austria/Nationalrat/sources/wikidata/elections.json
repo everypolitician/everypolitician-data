@@ -2391,13 +2391,28 @@
         "name": "2013年奧地利國民議會選舉",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "NRW13",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "Nationalratswahl 2013",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2013-09-29"
     ],
     "follows": "Austrian legislative election, 2008",
-    "followed_by": "Austrian legislative election, 2017"
+    "followed_by": "Austrian legislative election, 2017",
+    "office": "member of the National Council of Austria",
+    "eligible_voters": "6384308",
+    "ballots_cast": "4782410"
   },
   "Q19311231": {
     "identifiers": [
@@ -2478,11 +2493,56 @@
         "name": "2017년 오스트리아 국민의회 선거",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions legislatives d'Àustria de 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "NRW17",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "Nationalratswahl 2017",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2017-10-15"
     ],
-    "follows": "Austrian legislative election, 2013"
+    "follows": "Austrian legislative election, 2013",
+    "followed_by": "Next Austrian legislative election",
+    "office": "member of the National Council of Austria",
+    "eligible_voters": "6400993",
+    "ballots_cast": "5120881"
+  },
+  "Q47522716": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q47522716"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "27. Nationalratswahl in Österreich",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Next Austrian legislative election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "follows": "Austrian legislative election, 2017"
   }
 }
