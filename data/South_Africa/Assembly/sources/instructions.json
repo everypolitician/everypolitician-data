@@ -14,7 +14,7 @@
       "file": "morph/peoplesassembly.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/south-africa-national-assembly",
+        "scraper": "everypolitician-scrapers/south-africa-national-assembly",
         "query": "SELECT id,honorific_prefix,name,email,image,identifier__peoples_assembly FROM data ORDER BY id"
       },
       "source": "http://www.pa.org.za",
