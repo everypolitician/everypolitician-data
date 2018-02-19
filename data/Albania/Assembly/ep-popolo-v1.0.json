@@ -458,6 +458,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "225405",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "0000 0001 4067 6556",
           "scheme": "isni"
         },
@@ -6554,6 +6558,9 @@
       "images": [
         {
           "url": "https://www.parlament.al/wp-content/uploads/sites/4/2015/12/Olta-Xhacka-PS.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Olta_Xhaçka_(2017).jpg"
         }
       ],
       "links": [
@@ -6586,7 +6593,14 @@
           "url": "https://www.parlament.al/deputet/olta-xhacka/"
         }
       ],
-      "name": "Olta Xhaçka"
+      "name": "Olta Xhaçka",
+      "other_names": [
+        {
+          "lang": "fa",
+          "name": "اولتا ژاچکا",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-02-24",
@@ -7336,6 +7350,12 @@
         {
           "identifier": "Q5212255",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Damian_Gjiknuri.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Damian_Gjiknuri.jpg"
         }
       ],
       "links": [
@@ -8306,6 +8326,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Ilir_Meta"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ilir_Meta"
         },
         {
           "note": "Wikipedia (oc)",
@@ -9325,6 +9349,7 @@
         }
       ],
       "email": "ridvan.bode@parlament.al",
+      "family_name": "Bode",
       "gender": "male",
       "given_name": "Ridvan",
       "id": "f8067c66-afb5-4da3-9464-164a5d531358",
@@ -9448,6 +9473,10 @@
       "given_name": "Edi",
       "id": "f90a4f55-8667-44c9-81d7-d40c6c2c78e0",
       "identifiers": [
+        {
+          "identifier": "biography/Edi-Rama",
+          "scheme": "britannica"
+        },
         {
           "identifier": "Q316901",
           "scheme": "everypolitician_legacy"
@@ -9637,7 +9666,7 @@
         },
         {
           "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Edi_Rama"
+          "url": "https://la.wikipedia.org/wiki/Edvinus_Rama"
         },
         {
           "note": "Wikipedia (lv)",
@@ -9666,10 +9695,6 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Edi_Rama"
-        },
-        {
-          "note": "Wikipedia (nn)",
-          "url": "https://nn.wikipedia.org/wiki/Edi_Rama"
         },
         {
           "note": "Wikipedia (no)",
@@ -9833,6 +9858,11 @@
         {
           "lang": "sr-ec",
           "name": "Еди Рама",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg",
+          "name": "Эди Рама",
           "note": "multilingual"
         },
         {
@@ -10033,6 +10063,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Mesila_Doda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mesila_Doda"
         },
         {
           "note": "Wikipedia (hy)",
@@ -10363,6 +10397,12 @@
         {
           "lang": "he",
           "name": "המפלגה הדמוקרטית של אלבניה",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Demokratia de Albanio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11052,6 +11092,24 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "de",
+          "name": "Parteilose",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "freie Abgeordnete",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "id",
           "name": "Politikus independen",
           "note": "multilingual",
@@ -11517,6 +11575,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Movado Socialisma por Integrado",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "de",
           "name": "Lëvizja Socialiste për Integrim",
           "note": "multilingual",
@@ -11953,6 +12017,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Partio Demokratia de Albanio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Parti démocratique d'albanie",
           "note": "multilingual",
@@ -12320,6 +12390,12 @@
           "name": "阿爾巴尼亞共和黨",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Respublika de Albanio",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -12606,6 +12682,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Socialista Partio de Albanio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "PSSH",
           "note": "multilingual",
@@ -12869,6 +12951,12 @@
           "name": "阿爾巴尼亞共和黨",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Respublika de Albanio",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -13025,6 +13113,12 @@
         {
           "lang": "cs",
           "name": "Socialistické hnutí pro integraci (LSI)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Movado Socialisma por Integrado",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -13339,6 +13433,12 @@
         {
           "lang": "tg",
           "name": "Ҳизби сотсиалистии Албания",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Socialista Partio de Albanio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
