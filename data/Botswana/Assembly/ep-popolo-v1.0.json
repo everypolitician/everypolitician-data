@@ -692,11 +692,22 @@
     },
     {
       "gender": "male",
+      "given_name": "Christian",
       "id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
       "identifiers": [
         {
           "identifier": "christiaan_de_graaff",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28434823",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christian_de_Graaff"
         }
       ],
       "name": "Christiaan De Graaff",
@@ -704,6 +715,11 @@
         {
           "name": "Hon. Christian De Graaf",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Christian de Graaff",
+          "note": "multilingual"
         }
       ]
     },
