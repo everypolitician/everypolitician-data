@@ -894,6 +894,16 @@
       ]
     },
     {
+      "id": "568380d3-40df-4d33-8c9a-61120e94444b",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg"
+        }
+      ],
+      "name": "RAMPARANY Anthelme"
+    },
+    {
       "gender": "male",
       "id": "579f2627-8c78-496e-8ed1-c12ae02844fb",
       "identifiers": [
@@ -1283,23 +1293,6 @@
         }
       ],
       "name": "LYLYETTE René de Roland"
-    },
-    {
-      "gender": "male",
-      "id": "80f6fb30-6ee5-4141-95e4-3aae3f535502",
-      "identifiers": [
-        {
-          "identifier": "levao_nitadiavina",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg"
-        }
-      ],
-      "name": "LEVAO Nitadiavina"
     },
     {
       "gender": "male",
@@ -2067,23 +2060,6 @@
       "name": "RAHASIMANANA Paul Bert"
     },
     {
-      "gender": "female",
-      "id": "bc081910-e080-4ed1-acc3-27c519073932",
-      "identifiers": [
-        {
-          "identifier": "mananjara_ruffine_aurelie",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg",
-      "images": [
-        {
-          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg"
-        }
-      ],
-      "name": "MANANJARA Ruffine Aurelie"
-    },
-    {
       "id": "c03074e1-4051-45fa-8603-b5b8725a3b51",
       "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/54.jpg",
       "images": [
@@ -2161,6 +2137,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "c4aabcaf-fc01-4215-9ef0-aeec82110506",
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg"
+        }
+      ],
+      "name": "LEZOMA Ferdinand"
     },
     {
       "gender": "male",
@@ -4273,6 +4259,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/mananjary",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/indépendant",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "568380d3-40df-4d33-8c9a-61120e94444b",
+      "role": "member"
+    },
+    {
       "area_id": "area/toamasina_i",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/mapar",
@@ -4430,14 +4424,6 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "80427e93-a135-4b84-9def-69d4d59c3ce5",
-      "role": "member"
-    },
-    {
-      "area_id": "area/marolambo",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/indépendant",
-      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
-      "person_id": "80f6fb30-6ee5-4141-95e4-3aae3f535502",
       "role": "member"
     },
     {
@@ -4785,14 +4771,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/manajary",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "party/indépendant",
-      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
-      "person_id": "bc081910-e080-4ed1-acc3-27c519073932",
-      "role": "member"
-    },
-    {
       "area_id": "area/betioky_atsimo",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/vp-mmm",
@@ -4822,6 +4800,14 @@
       "on_behalf_of_id": "party/indépendant",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "c44e3e6f-5a0c-4d61-865d-b68912fb7e0a",
+      "role": "member"
+    },
+    {
+      "area_id": "area/marolambo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/indépendant",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "c4aabcaf-fc01-4215-9ef0-aeec82110506",
       "role": "member"
     },
     {
@@ -5681,6 +5667,11 @@
     {
       "id": "area/manandriana",
       "name": "Manandriana",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mananjary",
+      "name": "Mananjary",
       "type": "constituency"
     },
     {
