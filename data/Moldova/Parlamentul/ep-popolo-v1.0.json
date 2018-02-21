@@ -346,10 +346,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=u7uad9l37aM%3d&tabid=87&mid=476&language=en-US",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=fUpymiCpIfw%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=u7uad9l37aM%3d&tabid=87&mid=476&language=en-US"
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=fUpymiCpIfw%3d&tabid=87&mid=476&language=en-US"
         }
       ],
       "name": "Elena Bacalu",
@@ -697,8 +697,15 @@
           "url": "https://ro.wikipedia.org/wiki/Alina_Zotea"
         }
       ],
-      "name": "Alina Zotea",
-      "sort_name": "Zotea Alina"
+      "name": "Alina Zotea-Durnea",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alina Zotea",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Zotea-Durnea Alina"
     },
     {
       "birth_date": "1983-02-06",
@@ -2522,6 +2529,17 @@
       ]
     },
     {
+      "id": "6b39dfbb-3ea0-43c3-a63a-5a4263d918c8",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Sergiu Ceauș",
+      "sort_name": "Ceauș Sergiu"
+    },
+    {
       "id": "6b3d355a-6e9c-460a-909d-3f66c869f748",
       "identifiers": [
         {
@@ -4267,10 +4285,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=n5txEeRxaNQ%3d&tabid=87&mid=476&language=en-US",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=n2BurR1BaqA%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
-          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=n5txEeRxaNQ%3d&tabid=87&mid=476&language=en-US"
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=n2BurR1BaqA%3d&tabid=87&mid=476&language=en-US"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ghiletchi.jpg"
@@ -6296,6 +6314,17 @@
       ],
       "name": "Petru Cosoi",
       "sort_name": "Cosoi Petru"
+    },
+    {
+      "id": "e2118610-dba3-4d76-8f2c-9e3022eae63e",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Aliona Babiuc",
+      "sort_name": "Babiuc Aliona"
     },
     {
       "birth_date": "1980-06-30",
@@ -9466,7 +9495,7 @@
     },
     {
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "10",
+      "on_behalf_of_id": "-1",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "572707cb-0242-4cfb-bd91-c5384d0ab7df",
       "role": "member",
@@ -9665,6 +9694,18 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/542/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "-1",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "6b39dfbb-3ea0-43c3-a63a-5a4263d918c8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/773/language/en-US/Default.aspx"
         }
       ]
     },
@@ -10337,6 +10378,18 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/649/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "9",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "e2118610-dba3-4d76-8f2c-9e3022eae63e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/3/language/en-US/Default.aspx"
         }
       ]
     },
