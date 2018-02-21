@@ -326,6 +326,10 @@
       "id": "099bca64-e639-422f-91c6-ba845f05ec3f",
       "identifiers": [
         {
+          "identifier": "4419259",
+          "scheme": "bigenc_ru"
+        },
+        {
           "identifier": "14567697c",
           "scheme": "bnf"
         },
@@ -2187,7 +2191,7 @@
         },
         {
           "note": "linkedin",
-          "url": "https://www.linkedin.com/in/peter-luykx-7315719"
+          "url": "https://www.linkedin.com/in/peter-luykx-7315719/"
         },
         {
           "note": "twitter",
@@ -4649,6 +4653,10 @@
           "url": "https://fr.wikipedia.org/wiki/Maggie_De_Block"
         },
         {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/מגי_דה_בלוק"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Maggie_De_Block"
         },
@@ -4674,6 +4682,11 @@
         {
           "lang": "bg",
           "name": "Маги Де Блок",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מגי דה בלוק",
           "note": "multilingual"
         },
         {
@@ -5027,6 +5040,11 @@
         {
           "lang": "en",
           "name": "Melchior Wathelet, Jr.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Melchior Wathelet, ml.",
           "note": "multilingual"
         },
         {
@@ -6986,6 +7004,10 @@
       "given_name": "Elio",
       "id": "a161bb1a-c1d6-4d3b-8b82-21f6469037b5",
       "identifiers": [
+        {
+          "identifier": "4419177",
+          "scheme": "bigenc_ru"
+        },
         {
           "identifier": "biography/Elio-Di-Rupo",
           "scheme": "britannica"
@@ -9487,6 +9509,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "230439",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "53146708109300840611",
           "scheme": "viaf"
         },
@@ -10102,6 +10128,13 @@
         }
       ],
       "name": "Werner Janssen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Вернер Янсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Janssen Werner"
     },
     {
@@ -13098,6 +13131,12 @@
         {
           "lang": "he",
           "name": "המפלגה העממית",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Popola",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -16496,7 +16535,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1831",
+      "end_date": "1831-08-29",
       "id": "Q4882509",
       "identifiers": [
         {
@@ -16505,11 +16544,206 @@
         }
       ],
       "name": "Belgian general election, 1831",
-      "start_date": "1831"
+      "start_date": "1831-08-29"
     },
     {
       "classification": "general election",
-      "end_date": "1857",
+      "end_date": "1833-05-23",
+      "id": "Q4882511",
+      "identifiers": [
+        {
+          "identifier": "Q4882511",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1833",
+      "start_date": "1833-05-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1835-06-09",
+      "id": "Q4882512",
+      "identifiers": [
+        {
+          "identifier": "Q4882512",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1835",
+      "start_date": "1835-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1837-06-13",
+      "id": "Q4882513",
+      "identifiers": [
+        {
+          "identifier": "Q4882513",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1837",
+      "start_date": "1837-06-13"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1839-06-11",
+      "id": "Q4882515",
+      "identifiers": [
+        {
+          "identifier": "Q4882515",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1839",
+      "start_date": "1839-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1841-06-08",
+      "id": "Q4882517",
+      "identifiers": [
+        {
+          "identifier": "Q4882517",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1841",
+      "start_date": "1841-06-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1843-06-12",
+      "id": "Q4882518",
+      "identifiers": [
+        {
+          "identifier": "Q4882518",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1843",
+      "start_date": "1843-06-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1845-06-10",
+      "id": "Q4882519",
+      "identifiers": [
+        {
+          "identifier": "Q4882519",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1845",
+      "start_date": "1845-06-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1847-06-08",
+      "id": "Q4882520",
+      "identifiers": [
+        {
+          "identifier": "Q4882520",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1847",
+      "start_date": "1847-06-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1848-06-13",
+      "id": "Q4882521",
+      "identifiers": [
+        {
+          "identifier": "Q4882521",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1848",
+      "start_date": "1848-06-13"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1850-06-11",
+      "id": "Q4882522",
+      "identifiers": [
+        {
+          "identifier": "Q4882522",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1850",
+      "start_date": "1850-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1851-09-27",
+      "id": "Q4882523",
+      "identifiers": [
+        {
+          "identifier": "Q4882523",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1851",
+      "start_date": "1851-09-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1852-06-08",
+      "id": "Q4882524",
+      "identifiers": [
+        {
+          "identifier": "Q4882524",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1852",
+      "start_date": "1852-06-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1854-06-13",
+      "id": "Q4882526",
+      "identifiers": [
+        {
+          "identifier": "Q4882526",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1854",
+      "start_date": "1854-06-13"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1855-06-12",
+      "id": "Q4882525",
+      "identifiers": [
+        {
+          "identifier": "Q4882525",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1855",
+      "start_date": "1855-06-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1856-06-10",
+      "id": "Q4882527",
+      "identifiers": [
+        {
+          "identifier": "Q4882527",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1856",
+      "start_date": "1856-06-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1857-12-10",
       "id": "Q4882531",
       "identifiers": [
         {
@@ -16518,7 +16752,293 @@
         }
       ],
       "name": "Belgian general election, 1857",
-      "start_date": "1857"
+      "start_date": "1857-12-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1859-06-14",
+      "id": "Q4882528",
+      "identifiers": [
+        {
+          "identifier": "Q4882528",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1859",
+      "start_date": "1859-06-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1861-06-11",
+      "id": "Q4882529",
+      "identifiers": [
+        {
+          "identifier": "Q4882529",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1861",
+      "start_date": "1861-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1863-06-09",
+      "id": "Q4882530",
+      "identifiers": [
+        {
+          "identifier": "Q4882530",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1863",
+      "start_date": "1863-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1864-08-11",
+      "id": "Q4882532",
+      "identifiers": [
+        {
+          "identifier": "Q4882532",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1864",
+      "start_date": "1864-08-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1867-06-11",
+      "id": "Q4882533",
+      "identifiers": [
+        {
+          "identifier": "Q4882533",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1867",
+      "start_date": "1867-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1868-06-09",
+      "id": "Q4882536",
+      "identifiers": [
+        {
+          "identifier": "Q4882536",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1868",
+      "start_date": "1868-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1870-06-11",
+      "id": "Q4882548",
+      "identifiers": [
+        {
+          "identifier": "Q4882548",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, June 1870",
+      "start_date": "1870-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1870-08-02",
+      "id": "Q4882549",
+      "identifiers": [
+        {
+          "identifier": "Q4882549",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, August 1870",
+      "start_date": "1870-08-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1872-06-11",
+      "id": "Q4882535",
+      "identifiers": [
+        {
+          "identifier": "Q4882535",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1872",
+      "start_date": "1872-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1874-06-09",
+      "id": "Q4882537",
+      "identifiers": [
+        {
+          "identifier": "Q4882537",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1874",
+      "start_date": "1874-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1876-06-13",
+      "id": "Q4882538",
+      "identifiers": [
+        {
+          "identifier": "Q4882538",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1876",
+      "start_date": "1876-06-13"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1878-06-11",
+      "id": "Q4882539",
+      "identifiers": [
+        {
+          "identifier": "Q4882539",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1878",
+      "start_date": "1878-06-11"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1880-06-08",
+      "id": "Q4882540",
+      "identifiers": [
+        {
+          "identifier": "Q4882540",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1880",
+      "start_date": "1880-06-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1882-06-13",
+      "id": "Q4882541",
+      "identifiers": [
+        {
+          "identifier": "Q4882541",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1882",
+      "start_date": "1882-06-13"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1884-07-08",
+      "id": "Q4882542",
+      "identifiers": [
+        {
+          "identifier": "Q4882542",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1884",
+      "start_date": "1884-06-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1886-06-08",
+      "id": "Q4882544",
+      "identifiers": [
+        {
+          "identifier": "Q4882544",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1886",
+      "start_date": "1886-06-08"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1888-06-12",
+      "id": "Q4882545",
+      "identifiers": [
+        {
+          "identifier": "Q4882545",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1888",
+      "start_date": "1888-06-12"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1890-06-10",
+      "id": "Q4882546",
+      "identifiers": [
+        {
+          "identifier": "Q4882546",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1890",
+      "start_date": "1890-06-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1892-06-14",
+      "id": "Q4882547",
+      "identifiers": [
+        {
+          "identifier": "Q4882547",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1892",
+      "start_date": "1892-06-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1894-10-14",
+      "id": "Q3586980",
+      "identifiers": [
+        {
+          "identifier": "Q3586980",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1894",
+      "start_date": "1894-10-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1896-07-05",
+      "id": "Q3586979",
+      "identifiers": [
+        {
+          "identifier": "Q3586979",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1896",
+      "start_date": "1896-07-05"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1898-05-22",
+      "id": "Q3586982",
+      "identifiers": [
+        {
+          "identifier": "Q3586982",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Belgian general election, 1898",
+      "start_date": "1898-05-22"
     },
     {
       "classification": "general election",
@@ -16548,7 +17068,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1904",
+      "end_date": "1904-05-29",
       "id": "Q3586984",
       "identifiers": [
         {
@@ -16557,7 +17077,7 @@
         }
       ],
       "name": "Belgian general election, 1904",
-      "start_date": "1904"
+      "start_date": "1904-05-29"
     },
     {
       "classification": "general election",
@@ -16665,7 +17185,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1929",
+      "end_date": "1929-05-26",
       "id": "Q2127826",
       "identifiers": [
         {
@@ -16674,11 +17194,11 @@
         }
       ],
       "name": "Belgian general election, 1929",
-      "start_date": "1929"
+      "start_date": "1929-05-26"
     },
     {
       "classification": "general election",
-      "end_date": "1932",
+      "end_date": "1932-11-27",
       "id": "Q2580534",
       "identifiers": [
         {
@@ -16687,11 +17207,11 @@
         }
       ],
       "name": "Belgian general election, 1932",
-      "start_date": "1932"
+      "start_date": "1932-11-27"
     },
     {
       "classification": "general election",
-      "end_date": "1936",
+      "end_date": "1936-05-24",
       "id": "Q2014872",
       "identifiers": [
         {
@@ -16700,11 +17220,11 @@
         }
       ],
       "name": "Belgian general election, 1936",
-      "start_date": "1936"
+      "start_date": "1936-05-24"
     },
     {
       "classification": "general election",
-      "end_date": "1939",
+      "end_date": "1939-04-02",
       "id": "Q2051481",
       "identifiers": [
         {
@@ -16713,11 +17233,11 @@
         }
       ],
       "name": "Belgian general election, 1939",
-      "start_date": "1939"
+      "start_date": "1939-04-02"
     },
     {
       "classification": "general election",
-      "end_date": "1946",
+      "end_date": "1946-02-17",
       "id": "Q1923062",
       "identifiers": [
         {
@@ -16726,11 +17246,11 @@
         }
       ],
       "name": "Belgian general election, 1946",
-      "start_date": "1946"
+      "start_date": "1946-02-17"
     },
     {
       "classification": "general election",
-      "end_date": "1949",
+      "end_date": "1949-06-26",
       "id": "Q2521172",
       "identifiers": [
         {
@@ -16739,11 +17259,11 @@
         }
       ],
       "name": "Belgian general election, 1949",
-      "start_date": "1949"
+      "start_date": "1949-06-26"
     },
     {
       "classification": "general election",
-      "end_date": "1950",
+      "end_date": "1950-06-04",
       "id": "Q2181757",
       "identifiers": [
         {
@@ -16752,11 +17272,11 @@
         }
       ],
       "name": "Belgian general election, 1950",
-      "start_date": "1950"
+      "start_date": "1950-06-04"
     },
     {
       "classification": "general election",
-      "end_date": "1954",
+      "end_date": "1954-04-11",
       "id": "Q2035981",
       "identifiers": [
         {
@@ -16765,11 +17285,11 @@
         }
       ],
       "name": "Belgian general election, 1954",
-      "start_date": "1954"
+      "start_date": "1954-04-11"
     },
     {
       "classification": "general election",
-      "end_date": "1958",
+      "end_date": "1958-06-01",
       "id": "Q2051896",
       "identifiers": [
         {
@@ -16778,7 +17298,7 @@
         }
       ],
       "name": "Belgian general election, 1958",
-      "start_date": "1958"
+      "start_date": "1958-06-01"
     },
     {
       "classification": "general election",
@@ -16795,7 +17315,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1965",
+      "end_date": "1965-05-23",
       "id": "Q2567898",
       "identifiers": [
         {
@@ -16804,11 +17324,11 @@
         }
       ],
       "name": "Belgian general election, 1965",
-      "start_date": "1965"
+      "start_date": "1965-05-23"
     },
     {
       "classification": "general election",
-      "end_date": "1968",
+      "end_date": "1968-03-31",
       "id": "Q2485371",
       "identifiers": [
         {
@@ -16817,11 +17337,11 @@
         }
       ],
       "name": "Belgian general election, 1968",
-      "start_date": "1968"
+      "start_date": "1968-03-31"
     },
     {
       "classification": "general election",
-      "end_date": "1971",
+      "end_date": "1971-11-07",
       "id": "Q2132723",
       "identifiers": [
         {
@@ -16830,11 +17350,11 @@
         }
       ],
       "name": "Belgian general election, 1971",
-      "start_date": "1971"
+      "start_date": "1971-11-07"
     },
     {
       "classification": "general election",
-      "end_date": "1974",
+      "end_date": "1974-03-10",
       "id": "Q523006",
       "identifiers": [
         {
@@ -16843,11 +17363,11 @@
         }
       ],
       "name": "Belgian general election, 1974",
-      "start_date": "1974"
+      "start_date": "1974-03-10"
     },
     {
       "classification": "general election",
-      "end_date": "1977",
+      "end_date": "1977-04-17",
       "id": "Q211540",
       "identifiers": [
         {
@@ -16856,11 +17376,11 @@
         }
       ],
       "name": "Belgian general election, 1977",
-      "start_date": "1977"
+      "start_date": "1977-04-17"
     },
     {
       "classification": "general election",
-      "end_date": "1978",
+      "end_date": "1978-12-17",
       "id": "Q211561",
       "identifiers": [
         {
@@ -16869,7 +17389,7 @@
         }
       ],
       "name": "Belgian general election, 1978",
-      "start_date": "1978"
+      "start_date": "1978-12-17"
     },
     {
       "classification": "general election",
