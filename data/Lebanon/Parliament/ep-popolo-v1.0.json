@@ -2437,7 +2437,7 @@
     {
       "birth_date": "1965",
       "gender": "male",
-      "given_name": "Sergė",
+      "given_name": "Serge",
       "id": "77d78288-0b7a-4a15-b760-b241c38eee61",
       "identifiers": [
         {
@@ -2892,6 +2892,10 @@
       "given_name": "Fouad",
       "id": "8f8e69f1-20f6-494b-a56d-b4a757b6aa16",
       "identifiers": [
+        {
+          "identifier": "biography/Fouad-Siniora",
+          "scheme": "britannica"
+        },
         {
           "identifier": "Q314263",
           "scheme": "everypolitician_legacy"
@@ -4039,7 +4043,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Anwar_Khalil"
+          "url": "https://en.wikipedia.org/wiki/Anwar_M._El-Khalil"
         },
         {
           "note": "Wikipedia (fr)",
@@ -4054,7 +4058,12 @@
       "other_names": [
         {
           "lang": "ar",
-          "name": "أنور الخليل",
+          "name": "أنور محمد الخليل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anwar Mohamad El-Khalil",
           "note": "multilingual"
         },
         {
@@ -4220,6 +4229,10 @@
           "url": "https://en.wikipedia.org/wiki/Wael_Abou_Faour"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/وائل_ابوفاعور"
+        },
+        {
           "note": "Wikipedia (fawikiquote)",
           "url": "https://fawikiquote.wikipedia.org/wiki/وائل_ابوفاعور"
         },
@@ -4237,6 +4250,11 @@
         {
           "lang": "ar",
           "name": "وائل أبو فاعور",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "وائل ابوفاعور",
           "note": "multilingual"
         },
         {
@@ -5617,6 +5635,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ur",
+          "name": "سعد حریری",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "萨阿德·哈里里",
           "note": "multilingual"
@@ -5757,6 +5780,7 @@
     },
     {
       "birth_date": "1965-10-18",
+      "family_name": "Frangieh family",
       "gender": "male",
       "id": "ed00b520-4d08-4071-93f0-3fba0b94867f",
       "identifiers": [
@@ -5809,6 +5833,10 @@
           "url": "https://pl.wikipedia.org/wiki/Sulajman_Tony_Farandżijja"
         },
         {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Suleiman_Tony_Frangieh"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Франжье,_Сулейман_(младший)"
         },
@@ -5847,6 +5875,11 @@
         {
           "lang": "pl",
           "name": "Sulajman Tony Farandżijja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Sleiman Tony Frangieh",
           "note": "multilingual"
         },
         {
@@ -6331,6 +6364,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hu",
+          "name": "Arab Szocialista Újjászületés Pártja – libanoni régió",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ar",
           "name": "حزب البعث اللبناني",
           "note": "multilingual",
@@ -6751,6 +6790,12 @@
         {
           "lang": "nb",
           "name": "Framtidsbevegelsen",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ur",
+          "name": "تحریک مستقبل",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -8918,6 +8963,24 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "de",
+          "name": "Parteilose",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Unabhängige",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "freie Abgeordnete",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "id",
           "name": "Politikus independen",
           "note": "multilingual",
@@ -9707,12 +9770,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "ru",
-          "name": "Kataeb",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "tr",
           "name": "Falanjist",
           "note": "multilingual",
@@ -10285,12 +10342,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "ru",
-          "name": "Kataeb",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "tr",
           "name": "Falanjist",
           "note": "multilingual",
@@ -10461,6 +10512,12 @@
         {
           "lang": "zh",
           "name": "黎巴嫩民主黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Δημοκρατικό Κόμμα Λιβάνου",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -10929,6 +10986,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Partio Nacia Liberala",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Partido Liberal Nacional",
           "note": "multilingual",
@@ -10937,6 +11000,12 @@
         {
           "lang": "uk",
           "name": "Національно-ліберальна партія Лівану",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "PNL",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -11096,6 +11165,12 @@
         {
           "lang": "zh-cn",
           "name": "黎巴嫩社会进步党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Progresisma Socialista Partio",
           "note": "multilingual",
           "source": "wikidata-label"
         },
