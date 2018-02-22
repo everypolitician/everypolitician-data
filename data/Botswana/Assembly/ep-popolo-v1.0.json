@@ -691,39 +691,6 @@
       "name": "Kgosi Lotlaamoreng Montshioa"
     },
     {
-      "gender": "male",
-      "given_name": "Christian",
-      "id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
-      "identifiers": [
-        {
-          "identifier": "christiaan_de_graaff",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q28434823",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Christian_de_Graaff"
-        }
-      ],
-      "name": "Christiaan De Graaff",
-      "other_names": [
-        {
-          "name": "Hon. Christian De Graaf",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Christian de Graaff",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "id": "80a451bb-2820-4756-85f4-556ef4994df3",
       "identifiers": [
         {
@@ -1512,6 +1479,10 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "d1cd5f44-d26d-41ae-b9a7-8e5d2aa3a2b5",
+      "name": "Christian de Graaff"
     },
     {
       "id": "d384124c-0c87-4ad1-951d-90685e991d99",
@@ -2413,19 +2384,6 @@
       ]
     },
     {
-      "area_id": "area/ghanzi_south",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/bdp",
-      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
-      "person_id": "7e15645a-f5a6-4139-9f5c-b69ad74ba682",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
-        }
-      ]
-    },
-    {
       "area_id": "area/chobe",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/bdp",
@@ -2675,6 +2633,19 @@
       "on_behalf_of_id": "party/bdp",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "d191ce05-57b3-4587-8225-20e6c1a515ab",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ghanzi_south",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/bdp",
+      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
+      "person_id": "d1cd5f44-d26d-41ae-b9a7-8e5d2aa3a2b5",
       "role": "member",
       "sources": [
         {
