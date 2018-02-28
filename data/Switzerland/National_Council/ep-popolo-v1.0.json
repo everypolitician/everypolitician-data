@@ -13776,7 +13776,7 @@
       "sort_name": "Bill, Max"
     },
     {
-      "birth_date": "1987-10-06",
+      "birth_date": "1957-10-06",
       "family_name": "Crottaz",
       "gender": "female",
       "given_name": "Brigitte",
@@ -37511,6 +37511,21 @@
       "sort_name": "Cevey, Jean-Jacques"
     },
     {
+      "birth_date": "1990-07-08",
+      "family_name": "Molina",
+      "gender": "male",
+      "given_name": "Fabian",
+      "id": "cc50b481-c1b5-4e7e-914e-798691f83a3e",
+      "identifiers": [
+        {
+          "identifier": "4223",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Fabian Molina",
+      "sort_name": "Molina, Fabian"
+    },
+    {
       "birth_date": "1929-11-03",
       "family_name": "Cotti",
       "gender": "male",
@@ -37617,6 +37632,21 @@
       ],
       "name": "Alexis Gobet",
       "sort_name": "Gobet, Alexis"
+    },
+    {
+      "birth_date": "1967-03-16",
+      "family_name": "Töngi",
+      "gender": "male",
+      "given_name": "Michael",
+      "id": "cd802af6-6781-406b-8311-f56610b1be7b",
+      "identifiers": [
+        {
+          "identifier": "4221",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Michael Töngi",
+      "sort_name": "Töngi, Michael"
     },
     {
       "birth_date": "1956-09-16",
@@ -38308,6 +38338,21 @@
       ],
       "name": "Theodor Gut",
       "sort_name": "Gut, Theodor"
+    },
+    {
+      "birth_date": "1962-11-22",
+      "family_name": "Roduit",
+      "gender": "male",
+      "given_name": "Benjamin",
+      "id": "d29649b0-ddca-40d4-8067-2521065395d3",
+      "identifiers": [
+        {
+          "identifier": "4220",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Benjamin Roduit",
+      "sort_name": "Roduit, Benjamin"
     },
     {
       "birth_date": "1954-12-14",
@@ -39593,6 +39638,21 @@
       ],
       "name": "Hugo Fasel",
       "sort_name": "Fasel, Hugo"
+    },
+    {
+      "birth_date": "1966-06-08",
+      "family_name": "Paganini",
+      "gender": "male",
+      "given_name": "Nicolo",
+      "id": "db7eb511-6df6-4560-8fdc-6ca16e600568",
+      "identifiers": [
+        {
+          "identifier": "4222",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Nicolo Paganini",
+      "sort_name": "Paganini, Nicolo"
     },
     {
       "birth_date": "1948-05-07",
@@ -50637,6 +50697,7 @@
     },
     {
       "area_id": "ZH",
+      "end_date": "2018-03-14",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "2",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -51961,6 +52022,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2018-01-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -70860,7 +70922,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4142"
         }
-      ]
+      ],
+      "start_date": "2017-09-21"
     },
     {
       "area_id": "SG",
@@ -70903,6 +70966,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-03-08",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -74379,7 +74443,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=1135"
         }
-      ]
+      ],
+      "start_date": "2017-11-17"
     },
     {
       "area_id": "BL",
@@ -79274,6 +79339,20 @@
       ]
     },
     {
+      "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "cc50b481-c1b5-4e7e-914e-798691f83a3e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4223"
+        }
+      ],
+      "start_date": "2018-03-15"
+    },
+    {
       "area_id": "TI",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "3",
@@ -79377,6 +79456,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=93"
         }
       ]
+    },
+    {
+      "area_id": "LU",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "6",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "cd802af6-6781-406b-8311-f56610b1be7b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4221"
+        }
+      ],
+      "start_date": "2018-03-12"
     },
     {
       "area_id": "SO",
@@ -79565,7 +79658,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4053"
         }
-      ]
+      ],
+      "start_date": "2017-11-17"
     },
     {
       "area_id": "ZH",
@@ -79955,6 +80049,20 @@
         }
       ],
       "start_date": "1976-01-01"
+    },
+    {
+      "area_id": "VS",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "d29649b0-ddca-40d4-8067-2521065395d3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4220"
+        }
+      ],
+      "start_date": "2018-02-26"
     },
     {
       "area_id": "SO",
@@ -81187,6 +81295,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=76"
         }
       ]
+    },
+    {
+      "area_id": "SG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "db7eb511-6df6-4560-8fdc-6ca16e600568",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4222"
+        }
+      ],
+      "start_date": "2018-03-12"
     },
     {
       "area_id": "BE",
