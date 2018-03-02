@@ -13776,7 +13776,7 @@
       "sort_name": "Bill, Max"
     },
     {
-      "birth_date": "1987-10-06",
+      "birth_date": "1957-10-06",
       "family_name": "Crottaz",
       "gender": "female",
       "given_name": "Brigitte",
@@ -18888,6 +18888,21 @@
       "sort_name": "Bircher, Ernst"
     },
     {
+      "birth_date": "1967-03-16",
+      "family_name": "Töngi",
+      "gender": "male",
+      "given_name": "Michael",
+      "id": "6b66d0c2-c2f1-43d6-a3cc-9a9a99c053a9",
+      "identifiers": [
+        {
+          "identifier": "4221",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Michael Töngi",
+      "sort_name": "Töngi, Michael"
+    },
+    {
       "birth_date": "1923-11-19",
       "death_date": "2015-03-26",
       "family_name": "Weber",
@@ -22835,6 +22850,21 @@
       "sort_name": "Studer, Heiner"
     },
     {
+      "birth_date": "1962-11-22",
+      "family_name": "Roduit",
+      "gender": "male",
+      "given_name": "Benjamin",
+      "id": "81943ed5-3a0f-4752-92d5-a04c50681e45",
+      "identifiers": [
+        {
+          "identifier": "4220",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Benjamin Roduit",
+      "sort_name": "Roduit, Benjamin"
+    },
+    {
       "birth_date": "1951-06-22",
       "family_name": "Fässler-Osterwalder",
       "gender": "female",
@@ -24281,6 +24311,21 @@
       ],
       "name": "Andreas Aebi",
       "sort_name": "Aebi, Andreas"
+    },
+    {
+      "birth_date": "1990-07-08",
+      "family_name": "Molina",
+      "gender": "male",
+      "given_name": "Fabian",
+      "id": "885d942d-5903-448e-98cd-f2663dc2f601",
+      "identifiers": [
+        {
+          "identifier": "4223",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Fabian Molina",
+      "sort_name": "Molina, Fabian"
     },
     {
       "birth_date": "1941-02-05",
@@ -29005,6 +29050,21 @@
       ],
       "name": "Silvia Schenker",
       "sort_name": "Schenker, Silvia"
+    },
+    {
+      "birth_date": "1966-06-08",
+      "family_name": "Paganini",
+      "gender": "male",
+      "given_name": "Nicolo",
+      "id": "a1412f8f-23a1-423c-b53f-1280c4b6fd5e",
+      "identifiers": [
+        {
+          "identifier": "4222",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Nicolo Paganini",
+      "sort_name": "Paganini, Nicolo"
     },
     {
       "birth_date": "1949-05-31",
@@ -50637,6 +50697,7 @@
     },
     {
       "area_id": "ZH",
+      "end_date": "2018-03-14",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "2",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -51961,6 +52022,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2018-01-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -63078,6 +63140,20 @@
       ]
     },
     {
+      "area_id": "LU",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "6",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "6b66d0c2-c2f1-43d6-a3cc-9a9a99c053a9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4221"
+        }
+      ],
+      "start_date": "2018-03-12"
+    },
+    {
       "area_id": "UR",
       "legislative_period_id": "term/37",
       "on_behalf_of_id": "1",
@@ -66327,6 +66403,20 @@
       "start_date": "2006-03-28"
     },
     {
+      "area_id": "VS",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "81943ed5-3a0f-4752-92d5-a04c50681e45",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4220"
+        }
+      ],
+      "start_date": "2018-02-26"
+    },
+    {
       "area_id": "SG",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "2",
@@ -67646,6 +67736,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=3867"
         }
       ]
+    },
+    {
+      "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "885d942d-5903-448e-98cd-f2663dc2f601",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4223"
+        }
+      ],
+      "start_date": "2018-03-15"
     },
     {
       "area_id": "LU",
@@ -70860,7 +70964,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4142"
         }
-      ]
+      ],
+      "start_date": "2017-09-21"
     },
     {
       "area_id": "SG",
@@ -70903,6 +71008,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-03-08",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -71707,6 +71813,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=1129"
         }
       ]
+    },
+    {
+      "area_id": "SG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "a1412f8f-23a1-423c-b53f-1280c4b6fd5e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4222"
+        }
+      ],
+      "start_date": "2018-03-12"
     },
     {
       "area_id": "AG",
@@ -74379,7 +74499,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=1135"
         }
-      ]
+      ],
+      "start_date": "2017-11-17"
     },
     {
       "area_id": "BL",
@@ -79565,7 +79686,8 @@
         {
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4053"
         }
-      ]
+      ],
+      "start_date": "2017-11-17"
     },
     {
       "area_id": "ZH",
