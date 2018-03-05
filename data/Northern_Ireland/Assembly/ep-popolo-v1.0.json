@@ -4719,6 +4719,7 @@
     },
     {
       "birth_date": "1949-01-14",
+      "death_date": "2018-02-23",
       "gender": "male",
       "given_name": "Donovan",
       "id": "582c1731-4ab7-48fd-ab18-507aba35c648",
@@ -4728,8 +4729,24 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 3366 738X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84046042",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "vtls000079958",
+          "scheme": "n6i"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13824",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "48159507",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q5296845",
@@ -9670,6 +9687,10 @@
           "url": "https://it.wikipedia.org/wiki/Martin_McGuinness"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/마틴_맥기네스"
+        },
+        {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Martinus_McGuinness"
         },
@@ -14467,6 +14488,12 @@
         {
           "lang": "ms",
           "name": "Bebas",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bs",
+          "name": "nezavisni političar",
           "note": "multilingual",
           "source": "wikidata-label"
         },
