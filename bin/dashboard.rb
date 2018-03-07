@@ -22,9 +22,9 @@ def percentage(numerator, denominator)
 end
 
 data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
-  statsfile = File.join(File.dirname(l.raw_data[:popolo]), 'unstable/stats.json')
-  raise "No statsfile for #{l.country.name}/#{l.name}" unless File.exist? statsfile
-  stats = JSON.parse(open(statsfile).read, symbolize_names: true)
+  statsfile = Pathname.new(l.raw_data[:popolo]).dirname + 'unstable/stats.json'
+  raise "No statsfile for #{l.country.name}/#{l.name}" unless statsfile.exist?
+  stats = JSON.parse(statsfile.read, symbolize_names: true)
 
   now = Time.now.to_date
   last_build = Time.at(l.lastmod.to_i).to_date
