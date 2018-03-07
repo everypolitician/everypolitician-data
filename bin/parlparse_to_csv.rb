@@ -12,7 +12,7 @@ require 'set'
 require 'yajl/json_gem'
 
 def json_load(file)
-  JSON.parse(open(file).read, symbolize_names: true)
+  JSON.parse(File.open(file).read, symbolize_names: true)
 end
 
 @terms = CSV.table('../manual/terms.csv')
