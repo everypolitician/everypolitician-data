@@ -50,7 +50,10 @@ Style/SignalException:
 Style/SymbolArray:
   Enabled: true
 
-Style/TrailingCommaInLiteral:
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: consistent_comma
+
+Style/TrailingCommaInArrayLiteral:
   EnforcedStyleForMultiline: consistent_comma
 
 # Minitest::Spec uses long blocks to contains the specs, so disable this check
