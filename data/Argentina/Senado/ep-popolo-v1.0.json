@@ -366,6 +366,16 @@
       "gender": "male",
       "given_name": "Carlos Alberto",
       "id": "18e3f210-0650-4eb2-8176-56fd7ca38297",
+      "identifiers": [
+        {
+          "identifier": "460",
+          "scheme": "argentine_senate"
+        },
+        {
+          "identifier": "Q41587390",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/460.png",
       "images": [
         {
@@ -1370,6 +1380,7 @@
       "sort_name": "Crexell Carmen Lucila"
     },
     {
+      "birth_date": "1974-02-16",
       "contact_details": [
         {
           "type": "email",
@@ -1385,23 +1396,55 @@
       "gender": "female",
       "given_name": "María Cristina del Valle",
       "id": "56e4cd5e-94f2-4568-8e74-6edb33344326",
+      "identifiers": [
+        {
+          "identifier": "444",
+          "scheme": "argentine_senate"
+        },
+        {
+          "identifier": "Q18711917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png",
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Fiore_Viñuales.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cristina_Fiore"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Cristina-Fiore-Vi%C3%B1uales-380477738689513"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Cristina-Fiore-Viñuales-380477738689513"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/fiore_cristina"
+        },
+        {
+          "note": "website",
+          "url": "http://www.fioresenadora.com/"
         }
       ],
       "name": "María Cristina del Valle Fiore Viñuales",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maria Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fiore Viñuales María Cristina del Valle"
     },
     {
