@@ -14,9 +14,9 @@ module Reconciliation
       csv.map { |r| [r[:id], r[:uuid]] }.to_h
     end
 
-    def write!(h)
+    def write!(hash)
       headers = %w[id uuid].to_csv
-      rows    = h.sort_by { |_, v| v }.map(&:to_csv).join
+      rows    = hash.sort_by { |_, v| v }.map(&:to_csv).join
       pathname.write(headers + rows)
     end
 

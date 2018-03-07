@@ -6,8 +6,8 @@ module Source
     class Row
       include FieldSerializer
 
-      def initialize(r, reconciliation_data)
-        @area = r
+      def initialize(area, reconciliation_data)
+        @area = area
         @reconciliation_data = reconciliation_data
       end
 

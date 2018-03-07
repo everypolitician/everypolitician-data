@@ -25,7 +25,7 @@ module Source
       []
     end
 
-    def converter(_)
+    def converter(_column_name)
       :string
     end
   end

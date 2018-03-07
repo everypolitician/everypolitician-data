@@ -7,9 +7,9 @@ def json_from(json_file)
   JSON.parse(File.read(json_file), symbolize_names: true)
 end
 
-def percentage(x, y)
-  return 0 if y.zero?
-  x * 100.to_f / y
+def percentage(numerator, denominator)
+  return 0 if denominator.zero?
+  numerator * 100.to_f / denominator
 end
 
 EveryPolitician.countries_json = 'countries.json'

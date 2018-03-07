@@ -20,19 +20,19 @@ module Source
       'corrections'        => Source::Corrections,
     }.freeze
 
-    def self.instantiate(i)
-      raise "Missing `type` in #{i}" unless i.key? :type
-      raise "Unknown file type: #{i[:type]}" unless klass = MAP[i[:type]]
-      klass.new(i)
+    def self.instantiate(instructions)
+      raise "Missing `type` in #{instructions}" unless instructions.key? :type
+      raise "Unknown file type: #{instructions[:type]}" unless klass = MAP[instructions[:type]]
+      klass.new(instructions)
     end
 
-    def initialize(i)
-      @instructions = i
+    def initialize(instructions)
+      @instructions = instructions
       @warnings = Set.new
     end
 
-    def i(k)
-      @instructions[k.to_sym]
+    def i(key)
+      @instructions[key.to_sym]
     end
 
     def type

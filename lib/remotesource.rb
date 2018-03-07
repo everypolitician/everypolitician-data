@@ -4,29 +4,29 @@ require 'csv'
 
 class RemoteSource
   # Instantiate correct subclass based on instructions
-  def self.instantiate(i)
-    c = i.i(:create)
-    return RemoteSource::URL.new(i)                if c.key? :url
-    return RemoteSource::Morph.new(i)              if c[:from] == 'morph'
-    return RemoteSource::Parlparse.new(i)          if c[:from] == 'parlparse'
-    return RemoteSource::OCD.new(i)                if c[:from] == 'ocd'
-    return RemoteSource::Wikidata::Election.new(i) if c[:from] == 'election-wikidata'
-    return RemoteSource::Wikidata::Group.new(i)    if c[:from] == 'group-wikidata'
-    return RemoteSource::Wikidata::Raw.new(i)      if c[:from] == 'wikidata-raw'
-    return RemoteSource::GenderBalance.new(i)      if c[:from] == 'gender-balance'
-    raise "Don't know how to fetch #{i[:file]}"
+  def self.instantiate(instructions)
+    c = instructions.i(:create)
+    return RemoteSource::URL.new(instructions)                if c.key? :url
+    return RemoteSource::Morph.new(instructions)              if c[:from] == 'morph'
+    return RemoteSource::Parlparse.new(instructions)          if c[:from] == 'parlparse'
+    return RemoteSource::OCD.new(instructions)                if c[:from] == 'ocd'
+    return RemoteSource::Wikidata::Election.new(instructions) if c[:from] == 'election-wikidata'
+    return RemoteSource::Wikidata::Group.new(instructions)    if c[:from] == 'group-wikidata'
+    return RemoteSource::Wikidata::Raw.new(instructions)      if c[:from] == 'wikidata-raw'
+    return RemoteSource::GenderBalance.new(instructions)      if c[:from] == 'gender-balance'
+    raise "Don't know how to fetch #{instructions[:file]}"
   end
 
-  def initialize(i)
-    @instructions = i
+  def initialize(instructions)
+    @instructions = instructions
   end
 
-  def i(k)
-    @instructions.i(k.to_sym)
+  def i(key)
+    @instructions.i(key.to_sym)
   end
 
-  def c(k)
-    i(:create)[k.to_sym]
+  def c(key)
+    i(:create)[key.to_sym]
   end
 
   def source
@@ -53,16 +53,16 @@ class RemoteSource::GenderBalance < RemoteSource
 end
 
 class RemoteSource::Morph < RemoteSource
-  def morph_select(src, qs)
+  def morph_select(src, query)
     (morph_api_key = ENV['MORPH_API_KEY']) || fail('Need a Morph API key')
     key = ERB::Util.url_encode(morph_api_key)
-    query = ERB::Util.url_encode(qs.gsub(/\s+/, ' ').strip)
+    query = ERB::Util.url_encode(query.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
-    warn "⤈ No ORDER BY for #{i(:file)}" unless qs.downcase.include? 'order by'
+    warn "⤈ No ORDER BY for #{i(:file)}" unless query.downcase.include? 'order by'
     begin
       open(url).read
     rescue => e
-      abort "Failed to perform morph query #{qs.inspect}: #{e.message}"
+      abort "Failed to perform morph query #{query.inspect}: #{e.message}"
     end
   end
 

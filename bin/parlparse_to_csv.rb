@@ -37,18 +37,18 @@ def display_name(name)
   name[:given_name] + ' ' + name[:family_name]
 end
 
-def name_at(p, date)
+def name_at(person, date)
   date = Time.now.to_date.to_s if date.to_s.empty?
-  at_date = p[:other_names].select do |n|
+  at_date = person[:other_names].select do |n|
     n[:note].to_s == 'Main' && (n[:end_date] || '9999-99-99') >= date && (n[:start_date] || '0000-00-00') <= date
   end
   raise "Too many names at #{date}: #{at_date}" if at_date.count > 1
   display_name(at_date.first)
 end
 
-def term_id(m)
-  s_date = m[:start_date]
-  e_date = m[:end_date] || '2100-01-01'
+def term_id(membership)
+  s_date = membership[:start_date]
+  e_date = membership[:end_date] || '2100-01-01'
   matched = @terms.select { |t| (s_date >= t[:start_date]) && (e_date <= (t[:end_date] || '2100-01-01')) }
   return matched.first[:id] if matched.count == 1
   puts 'Too many terms'.green if matched.count > 1

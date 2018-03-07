@@ -17,8 +17,8 @@ ordering = drilldown.reject { |r| r.count < 5 }
 
 EveryPolitician.countries_json = 'countries.json'
 
-def percentage(x, y)
-  '%0.3f' % (x.to_f / y.to_f)
+def percentage(numerator, denominator)
+  '%0.3f' % (numerator.to_f / denominator.to_f)
 end
 
 data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|

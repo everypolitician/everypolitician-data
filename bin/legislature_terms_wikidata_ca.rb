@@ -3,15 +3,15 @@ require 'csv'
 require 'pry'
 require 'wikisnakker'
 
-def fetch_term(q)
-  (t = Wikisnakker::Item.find(q)) || raise('No such item')
+def fetch_term(qid)
+  (t = Wikisnakker::Item.find(qid)) || raise('No such item')
   name = t.label('en')
   data = {
     id:         name[/^(\d+)/, 1],
     name:       name.sub(' Canadian', ''),
     start_date: t.P580.to_s,
     end_date:   t.P582.to_s,
-    wikidata:   q,
+    wikidata:   qid,
   }
   puts data.values.to_csv
 

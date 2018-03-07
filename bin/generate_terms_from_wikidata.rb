@@ -6,15 +6,15 @@ require 'wikisnakker'
 # generate a terms.csv file starting from a given Wikidata page for a
 # 'legislative term' and iterating backwards
 
-def fetch_term(q)
-  (t = Wikisnakker::Item.find(q)) || raise('No such item')
+def fetch_term(qid)
+  (t = Wikisnakker::Item.find(qid)) || raise('No such item')
   name = t.label('en')
   data = {
     id:         name[/^(\d+)/, 1],
     name:       name,
     start_date: %w[P580 P571].map { |p| t.send(p).to_s }.reject(&:empty?).first,
     end_date:   %w[P582 P576].map { |p| t.send(p).to_s }.reject(&:empty?).first,
-    wikidata:   q,
+    wikidata:   qid,
   }
   puts data.values.to_csv
 

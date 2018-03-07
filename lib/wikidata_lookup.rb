@@ -68,7 +68,7 @@ class WikidataLookup
   end
 
   # to override in subclasses
-  def other_fields_for(_)
+  def other_fields_for(_dummy)
     {}
   end
 end

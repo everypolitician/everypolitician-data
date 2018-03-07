@@ -7,8 +7,8 @@ require 'csv'
 class Reconciler
   attr_reader :merged_rows, :incoming_data
 
-  def initialize(i, trigger, merged_rows, incoming_data)
-    @instructions = i
+  def initialize(instructions, trigger, merged_rows, incoming_data)
+    @instructions = instructions
     @trigger = trigger
     @merged_rows = merged_rows
     @incoming_data = incoming_data.uniq { |r| r[:id] }

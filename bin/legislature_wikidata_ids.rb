@@ -15,9 +15,9 @@ end
 (file = ARGV.first) || abort("Usage: #{$PROGRAM_NAME} <popolo file>")
 @popolo = json_from(file)
 
-def wikidata_id(p)
-  return if p[:identifiers].empty?
-  (wd = p[:identifiers].find { |i| i[:scheme] == 'wikidata' }) || return
+def wikidata_id(person)
+  return if person[:identifiers].empty?
+  (wd = person[:identifiers].find { |i| i[:scheme] == 'wikidata' }) || return
   wd[:identifier]
 end
 
