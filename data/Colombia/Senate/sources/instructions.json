@@ -15,12 +15,12 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-colombia-senate-list",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, twitter, image, name AS tempname FROM data ORDER BY id"
       },
       "source": "https://twitter.com/SenadoGovCo/lists/senadores-colombia/",
       "type": "person",
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "tempname",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/twitter.csv"
       }
