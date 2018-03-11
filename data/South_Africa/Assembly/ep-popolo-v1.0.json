@@ -550,6 +550,7 @@
       "name": "Alan Ross Mcloughlin"
     },
     {
+      "gender": "male",
       "id": "09ea0ca1-8d09-46c1-9628-9dae4de812c7",
       "identifiers": [
         {
@@ -858,6 +859,7 @@
       ]
     },
     {
+      "birth_date": "1954-02-03",
       "contact_details": [
         {
           "type": "email",
@@ -886,6 +888,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/f3/b9/f3b9953be98784a11e35ea70c5f8ce57.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Barbara_Thomson"
         }
       ],
       "name": "Barbara Thomson"
@@ -960,6 +968,7 @@
         }
       ],
       "email": "lmathys@parliament.gov.za",
+      "gender": "female",
       "honorific_prefix": "Ms",
       "id": "0f219b7b-7b9e-4168-86fd-1a264e3ca1f1",
       "identifiers": [
@@ -1437,6 +1446,7 @@
         }
       ],
       "email": "mbabamatm@gmail.com",
+      "gender": "female",
       "honorific_prefix": "Ms",
       "id": "1533cebd-f42c-42b6-9fe7-3bda0b201293",
       "identifiers": [
@@ -1715,6 +1725,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Maite_Nkoana-Mashabane"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Maite_Nkoana-Mashabane"
         },
         {
           "note": "Wikipedia (pl)",
@@ -2729,8 +2743,16 @@
           "url": "https://la.wikipedia.org/wiki/Cyrillus_Ramaphosa"
         },
         {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Cyril_Ramaphosa"
+        },
+        {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/सिरिल_रामाफोसा"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
           "note": "Wikipedia (nl)",
@@ -2762,11 +2784,15 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Рамапоса,_Сирил"
+          "url": "https://ru.wikipedia.org/wiki/Рамафоса,_Сирил"
         },
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Cyril_Ramaphosa"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
           "note": "Wikipedia (simple)",
@@ -2853,6 +2879,11 @@
         {
           "lang": "la",
           "name": "Cyrillus Ramaphosa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сирил Рамафоса",
           "note": "multilingual"
         },
         {
@@ -3409,6 +3440,7 @@
       "name": "Karen Jooste"
     },
     {
+      "birth_date": "1957-02-01",
       "contact_details": [
         {
           "type": "email",
@@ -3432,6 +3464,12 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/18/0e/180e06b8b008afc282a3258b1c128288.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mondli_Gungubele"
         }
       ],
       "name": "Mondli Gungubele"
@@ -3651,6 +3689,7 @@
       "name": "Nthibane Rebecca Mokoto"
     },
     {
+      "gender": "female",
       "id": "2a8fcde8-4b49-48c3-8441-642a044128a0",
       "identifiers": [
         {
@@ -5325,6 +5364,34 @@
       "name": "Fatima Chohan"
     },
     {
+      "gender": "male",
+      "id": "3d6af4f8-79df-4753-9889-fec3cc41122c",
+      "identifiers": [
+        {
+          "identifier": "Q16746707",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Xitlhangoma Mabasa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Xitlhangoma Mabaso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Xitlhangoma Mabaso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Xitlhangoma Mabaso",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5655,6 +5722,10 @@
           "url": "https://fr.wikipedia.org/wiki/Lindiwe_Sisulu"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Lindiwe_Sisulu"
+        },
+        {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Lindiwe_Sisulu"
         },
@@ -5975,6 +6046,7 @@
       "name": "Sibongile Judith Nkomo"
     },
     {
+      "gender": "male",
       "id": "48c5c62c-232a-4812-9a61-bb75615f38bf",
       "identifiers": [
         {
@@ -5983,6 +6055,25 @@
         }
       ],
       "name": "Bernard Daniel Joseph"
+    },
+    {
+      "gender": "female",
+      "given_name": "Theresia",
+      "id": "4a1d9268-e30c-4848-8ad5-c9fb894bf46d",
+      "identifiers": [
+        {
+          "identifier": "Q16765290",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Nomathemba Theresia November",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nomathemba November",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-05-09",
@@ -6076,6 +6167,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4b843766-a5bc-46b2-be61-3fa943fd6af8",
       "identifiers": [
         {
@@ -6159,6 +6251,7 @@
         }
       ],
       "email": "wmaphanga@parliament.gov.za",
+      "gender": "male",
       "id": "4c1837ff-fe6f-4429-8928-de31a0932a6c",
       "identifiers": [
         {
@@ -6553,7 +6646,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Thembelani_Nxesi"
+          "url": "https://en.wikipedia.org/wiki/Thulas_Nxesi"
         }
       ],
       "name": "Thulas Nxesi"
@@ -7028,6 +7121,7 @@
         }
       ],
       "email": "pmaloyi@parliament.gov.za",
+      "gender": "male",
       "id": "55a9d143-48ca-4696-85be-1e09695ae61e",
       "identifiers": [
         {
@@ -7209,6 +7303,7 @@
         }
       ],
       "email": "awilliams@parliament.gov.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "59c7f970-f31d-413f-a488-93d7e82ed094",
       "identifiers": [
@@ -7442,6 +7537,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
       "identifiers": [
         {
@@ -7459,6 +7555,7 @@
         }
       ],
       "email": "tnkonzo@parliament.gov.za",
+      "gender": "male",
       "id": "5c78d0fd-49ba-47d0-9620-f9511d368516",
       "identifiers": [
         {
@@ -7545,6 +7642,7 @@
       "name": "Mcebisi Skwatsha"
     },
     {
+      "gender": "male",
       "id": "5e0b1fcc-a28f-4e98-9d0f-b0543983ed86",
       "identifiers": [
         {
@@ -7899,6 +7997,7 @@
       "name": "Sahlulele Luzipo"
     },
     {
+      "gender": "male",
       "id": "621350a8-89c6-4a71-8943-efad7db1d826",
       "identifiers": [
         {
@@ -8950,6 +9049,7 @@
         }
       ],
       "email": "nkoornhof@parliament.gov.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "756a7737-959f-4af7-9a19-007ef9fc1f2b",
       "identifiers": [
@@ -9334,6 +9434,7 @@
         }
       ],
       "email": "radams@parliament.gov.za",
+      "gender": "female",
       "id": "79ced5ce-5577-444a-8dee-c305cf8c427d",
       "identifiers": [
         {
@@ -9890,6 +9991,7 @@
       "name": "Zukile Luyenge"
     },
     {
+      "birth_date": "1963-05-22",
       "contact_details": [
         {
           "type": "email",
@@ -10969,6 +11071,24 @@
       "name": "Dennis Dumisani Gamede"
     },
     {
+      "gender": "female",
+      "id": "93a85fa8-3f0f-4537-a64f-95a4c081504b",
+      "identifiers": [
+        {
+          "identifier": "Q16746646",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Zephroma Sizani Dlamini-Dubazana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zephroma Dubazana",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1968-10-28",
       "contact_details": [
         {
@@ -11020,43 +11140,11 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "xmabasa@parliament.gov.za"
-        }
-      ],
-      "email": "xmabasa@parliament.gov.za",
-      "gender": "male",
-      "honorific_prefix": "Mr",
-      "id": "9567ca74-36b8-4d5c-a480-7dca896bf6db",
-      "identifiers": [
-        {
-          "identifier": "xitlhangoma-mabasa",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "707",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47530027",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/e8/22/e8220e0b3a31bdd1507f25d3b413027a.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/e8/22/e8220e0b3a31bdd1507f25d3b413027a.jpg"
-        }
-      ],
-      "name": "Xitlhangoma Mabasa"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "DM@ssa.gov.za"
         }
       ],
       "email": "DM@ssa.gov.za",
+      "gender": "female",
       "id": "95cec38e-1746-4e0b-b47d-55304c2ed4ea",
       "identifiers": [
         {
@@ -11474,6 +11562,9 @@
       "images": [
         {
           "url": "https://www.pa.org.za/media_root/cache/87/9e/879ed32caee19904ea7627720d4e0645.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ms._Nomvula_Mokonyane,_Minister_of_Water_and_Sanitation,_South_Africa_(33142724886)_(cropped).jpg"
         }
       ],
       "links": [
@@ -11703,6 +11794,7 @@
         }
       ],
       "email": "dennisryderza@gmail.com",
+      "gender": "male",
       "id": "a18f5a7b-6276-42ec-ac40-61c8b1c08bfe",
       "identifiers": [
         {
@@ -12423,6 +12515,10 @@
       "id": "aaf41f1e-d6ef-4758-8518-aaef7445e78e",
       "identifiers": [
         {
+          "identifier": "biography/Julius-Malema",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "julius-sello-malema",
           "scheme": "everypolitician_legacy"
         },
@@ -12480,6 +12576,10 @@
         {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Julius_Malema"
+        },
+        {
+          "note": "Wikipedia (afwikiquote)",
+          "url": "https://afwikiquote.wikipedia.org/wiki/Julius_Malema"
         },
         {
           "note": "Wikipedia (ar)",
@@ -12850,6 +12950,7 @@
         }
       ],
       "email": "rpurdon@parliament.gov.za",
+      "gender": "male",
       "id": "acf1e9bd-a523-4805-85da-8092edeaea94",
       "identifiers": [
         {
@@ -13888,7 +13989,7 @@
         }
       ],
       "email": "jfubbs@parliament.gov.za",
-      "gender": "female",
+      "gender": "male",
       "honorific_prefix": "Ms",
       "id": "bff9c1ae-dab0-4852-9ad5-f217d49ffb2d",
       "identifiers": [
@@ -13954,6 +14055,7 @@
         }
       ],
       "email": "hgroenewald@parliament.gov.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "c0a269a4-a45e-4325-9d53-b76d9c5bb646",
       "identifiers": [
@@ -14190,6 +14292,7 @@
       ]
     },
     {
+      "gender": "male",
       "honorific_prefix": "professor",
       "id": "c4e3374e-12ba-477b-b654-abd17a9b343c",
       "identifiers": [
@@ -14493,6 +14596,7 @@
       ],
       "email": "hbogopane@icloud.com",
       "gender": "female",
+      "given_name": "Hendrietta",
       "honorific_prefix": "Ms",
       "id": "c893c543-733b-4581-af3b-88858f40d135",
       "identifiers": [
@@ -15277,6 +15381,7 @@
       "name": "Moses Sipho Mbatha"
     },
     {
+      "birth_date": "1968-11-20",
       "contact_details": [
         {
           "type": "email",
@@ -15968,34 +16073,6 @@
       "name": "Mogamad Nazier Paulsen"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "nnovember@parliament.gov.za"
-        }
-      ],
-      "email": "nnovember@parliament.gov.za",
-      "honorific_prefix": "Mrs",
-      "id": "dc0f96d9-e067-414c-9bd9-939fe39b86a7",
-      "identifiers": [
-        {
-          "identifier": "864",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47529965",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/d6/3a/d63a6118390b9cb64bdb968b51c4c9c1.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/d6/3a/d63a6118390b9cb64bdb968b51c4c9c1.jpg"
-        }
-      ],
-      "name": "Nomathemba Theresia November"
-    },
-    {
       "birth_date": "1949-04-02",
       "contact_details": [
         {
@@ -16242,43 +16319,11 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "zdubazana@parliament.gov.za"
-        }
-      ],
-      "email": "zdubazana@parliament.gov.za",
-      "gender": "female",
-      "honorific_prefix": "Ms",
-      "id": "e0116c8c-de37-4b98-a255-9f9dda75a051",
-      "identifiers": [
-        {
-          "identifier": "zephroma-sizani-dlamini-dubazana",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "4293",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q47530015",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/39/c7/39c7c342fb980251a2595cac9365a00a.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/39/c7/39c7c342fb980251a2595cac9365a00a.jpg"
-        }
-      ],
-      "name": "Zephroma Sizani Dlamini-Dubazana"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
           "value": "ntolashe@parliament.gov.za"
         }
       ],
       "email": "ntolashe@parliament.gov.za",
+      "gender": "female",
       "id": "e0331040-3fd0-4a22-a0c1-bb48ce010e86",
       "identifiers": [
         {
@@ -16422,6 +16467,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "e15b4675-2e1d-462c-b969-2b061f60b246",
       "identifiers": [
         {
@@ -16454,6 +16500,7 @@
         }
       ],
       "email": "mfulo.Thandiwe@gmail.com",
+      "gender": "female",
       "honorific_prefix": "Ms",
       "id": "e1a18016-c588-455f-bbcf-57007faa1da9",
       "identifiers": [
@@ -16937,6 +16984,7 @@
         }
       ],
       "email": "democraticken@gmail.com",
+      "gender": "male",
       "id": "ec94ba1b-0053-49d3-87d4-8a26d98049f6",
       "identifiers": [
         {
@@ -17008,6 +17056,10 @@
         {
           "type": "email",
           "value": "behlem@mweb.co.za"
+        },
+        {
+          "type": "twitter",
+          "value": "ProfMkhize"
         }
       ],
       "email": "behlem@mweb.co.za",
@@ -17048,6 +17100,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Hlengiwe_Mkhize"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ProfMkhize"
         }
       ],
       "name": "Hlengiwe Mkhize",
@@ -17364,6 +17420,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Malusi_Gigaba"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Malusi_Gigaba"
         }
       ],
       "name": "Malusi Gigaba"
@@ -19374,6 +19434,18 @@
         {
           "lang": "ru",
           "name": "АНК",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "المجلس الإفريقي القومي",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "المؤتمر الوطني الافريقي",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -21459,6 +21531,14 @@
       "role": "member"
     },
     {
+      "area_id": "Q133083",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "3d6af4f8-79df-4753-9889-fec3cc41122c",
+      "role": "member"
+    },
+    {
       "area_id": "Q134907",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
@@ -21603,6 +21683,14 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "48c5c62c-232a-4812-9a61-bb75615f38bf",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "4a1d9268-e30c-4848-8ad5-c9fb894bf46d",
+      "role": "member",
+      "start_date": "2014-07-21"
     },
     {
       "legislative_period_id": "term/26",
@@ -22629,19 +22717,19 @@
       "role": "member"
     },
     {
-      "area_id": "Q133083",
+      "area_id": "Q81725",
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q761877",
+      "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9492ecef-e5cd-4f4c-985c-045bd4c8b8ea",
+      "person_id": "93a85fa8-3f0f-4537-a64f-95a4c081504b",
       "role": "member"
     },
     {
       "area_id": "Q133083",
       "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
+      "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "9567ca74-36b8-4d5c-a480-7dca896bf6db",
+      "person_id": "9492ecef-e5cd-4f4c-985c-045bd4c8b8ea",
       "role": "member"
     },
     {
@@ -23653,14 +23741,6 @@
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "dc0f96d9-e067-414c-9bd9-939fe39b86a7",
-      "role": "member",
-      "start_date": "2014-07-21"
-    },
-    {
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "dd7e2ed5-0547-4d1c-b1eb-2ae4aa8c85df",
       "role": "member"
     },
@@ -23702,14 +23782,6 @@
       "person_id": "e00f814b-db36-4f68-8f62-86449f0221cb",
       "role": "member",
       "start_date": "2017-11-01"
-    },
-    {
-      "area_id": "Q81725",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "e0116c8c-de37-4b98-a255-9f9dda75a051",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/26",
