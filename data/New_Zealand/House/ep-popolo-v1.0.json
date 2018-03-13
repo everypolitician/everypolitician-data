@@ -29,6 +29,10 @@
       "sort_name": "Fairbrother, Russell"
     },
     {
+      "id": "00e4100c-049f-48d2-8b6c-1e04c2f48862",
+      "name": "United Future CS"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -111,6 +115,10 @@
       ],
       "name": "Jeanette Fitzsimons",
       "sort_name": "Fitzsimons, Jeanette"
+    },
+    {
+      "id": "043ccb5a-6254-4a07-baea-036b0743f87b",
+      "name": "Mana"
     },
     {
       "birth_date": "1957-06-20",
@@ -367,6 +375,10 @@
       ],
       "name": "Paul Foster-Bell",
       "sort_name": "Foster-Bell, Paul"
+    },
+    {
+      "id": "099e9ab4-90d7-4515-b404-e3d2508cb6d1",
+      "name": "Labour"
     },
     {
       "birth_date": "1956-04-23",
@@ -2903,6 +2915,10 @@
       "sort_name": "O'Connor, Simon"
     },
     {
+      "id": "338f10bc-bbd2-4638-9557-6cc5aaa1f182",
+      "name": "7"
+    },
+    {
       "birth_date": "1953-07-23",
       "contact_details": [
         {
@@ -3169,6 +3185,10 @@
       "sort_name": "McClay, Todd"
     },
     {
+      "id": "3a84ea28-69ef-41a7-8389-3b81afd7ddb4",
+      "name": "Green"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3382,6 +3402,10 @@
         }
       ],
       "sort_name": "Collins, Judith"
+    },
+    {
+      "id": "3e8b5f40-9337-49d6-8b88-649a63d2dc7d",
+      "name": "National"
     },
     {
       "birth_date": "1955-09-11",
@@ -4960,6 +4984,10 @@
       ],
       "name": "Maryan Street",
       "sort_name": "Street, Maryan"
+    },
+    {
+      "id": "57fae57f-51e6-4c8d-804b-e515d790092d",
+      "name": "Independent Coalition"
     },
     {
       "contact_details": [
@@ -8154,6 +8182,10 @@
       "sort_name": "Hayes, John"
     },
     {
+      "id": "811e1ed9-6f0e-4228-b07a-0fb81280bcbd",
+      "name": "64"
+    },
+    {
       "birth_date": "1956",
       "contact_details": [
         {
@@ -9166,6 +9198,10 @@
         }
       ],
       "sort_name": "Goldsmith, Paul"
+    },
+    {
+      "id": "94a68efb-7c67-44f9-ba40-800f8b7990fb",
+      "name": "Māori CS"
     },
     {
       "birth_date": "1958",
@@ -11712,6 +11748,10 @@
       "sort_name": "Goodhew, Jo"
     },
     {
+      "id": "c788ffcc-cf83-4dfc-b40f-a927f9d992e6",
+      "name": "57"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -12941,6 +12981,10 @@
       "sort_name": "Dean, Jacqui"
     },
     {
+      "id": "d45dc496-5df0-4104-9697-52d97506ef42",
+      "name": "121"
+    },
+    {
       "birth_date": "1949-11-05",
       "death_date": "2008-09-25",
       "gender": "male",
@@ -13040,6 +13084,10 @@
       ],
       "name": "Jackie Blue",
       "sort_name": "Blue, Jackie"
+    },
+    {
+      "id": "d6786f35-5cfb-41bb-bd5a-a65debeef5b1",
+      "name": "ACT CS"
     },
     {
       "birth_date": "1941-07-20",
@@ -15585,6 +15633,10 @@
         }
       ],
       "sort_name": "Kedgley, Sue"
+    },
+    {
+      "id": "fef5c6e1-4beb-4207-9a6d-d2165d74fe6b",
+      "name": "NZ First"
     }
   ],
   "organizations": [
@@ -19340,6 +19392,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -19678,6 +19735,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "00e4100c-049f-48d2-8b6c-1e04c2f48862",
+      "role": "member"
+    },
+    {
       "area_id": "area/helensville",
       "legislative_period_id": "term/52",
       "on_behalf_of_id": "party/national_party",
@@ -19704,6 +19769,14 @@
       "on_behalf_of_id": "party/green_party_of_aotearoa_new_zealand",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "03f9b8c8-3362-46e7-bf58-17e332abc1d1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "043ccb5a-6254-4a07-baea-036b0743f87b",
       "role": "member"
     },
     {
@@ -19837,6 +19910,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/foster-bell-paul/"
         }
       ]
+    },
+    {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "099e9ab4-90d7-4515-b404-e3d2508cb6d1",
+      "role": "member"
     },
     {
       "area_id": "area/rakaia",
@@ -20873,6 +20954,14 @@
       ]
     },
     {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "338f10bc-bbd2-4638-9557-6cc5aaa1f182",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -21015,6 +21104,14 @@
       ]
     },
     {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "3a84ea28-69ef-41a7-8389-3b81afd7ddb4",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/māori_party",
@@ -21092,6 +21189,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/collins-judith/"
         }
       ]
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "3e8b5f40-9337-49d6-8b88-649a63d2dc7d",
+      "role": "member"
     },
     {
       "area_id": "area/northland",
@@ -21690,6 +21795,14 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "57245b14-3de1-4d24-9c60-c77873293b30",
+      "role": "member"
+    },
+    {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "57fae57f-51e6-4c8d-804b-e515d790092d",
       "role": "member"
     },
     {
@@ -22742,6 +22855,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "811e1ed9-6f0e-4228-b07a-0fb81280bcbd",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -23223,6 +23344,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/goldsmith-paul/"
         }
       ]
+    },
+    {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "94a68efb-7c67-44f9-ba40-800f8b7990fb",
+      "role": "member"
     },
     {
       "area_id": "area/new_plymouth",
@@ -24463,6 +24592,14 @@
       ]
     },
     {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "c788ffcc-cf83-4dfc-b40f-a927f9d992e6",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/52",
       "on_behalf_of_id": "party/labour_party",
@@ -24882,6 +25019,14 @@
       ]
     },
     {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "d45dc496-5df0-4104-9697-52d97506ef42",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/nz_first",
@@ -24927,6 +25072,14 @@
       "on_behalf_of_id": "party/new_zealand_national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "d5fb32e3-2dda-4492-a09e-4b7560629035",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "d6786f35-5cfb-41bb-bd5a-a65debeef5b1",
       "role": "member"
     },
     {
@@ -25992,6 +26145,14 @@
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "fe4aae7d-ffd6-4dc5-b05a-709992f485fe",
       "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "fef5c6e1-4beb-4207-9a6d-d2165d74fe6b",
+      "role": "member"
     }
   ],
   "events": [
@@ -26742,6 +26903,56 @@
     }
   ],
   "areas": [
+    {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
     {
       "id": "area/aoraki",
       "identifiers": [
@@ -27562,6 +27773,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
