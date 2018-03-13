@@ -5800,6 +5800,7 @@
     {
       "birth_date": "1929-04-15",
       "death_date": "2012-12-03",
+      "family_name": "Strange",
       "gender": "female",
       "given_name": "Ebba",
       "id": "36143913-f2fc-4b58-b4dc-0d019ca70e7b",
@@ -7310,6 +7311,7 @@
     },
     {
       "birth_date": "1940-06-24",
+      "family_name": "Gjellerod",
       "gender": "male",
       "given_name": "Henning",
       "id": "40ad44f6-14a7-42eb-ae75-6848cdb56824",
@@ -7974,6 +7976,7 @@
           "value": "Vestager"
         }
       ],
+      "family_name": "Vestager",
       "gender": "female",
       "given_name": "Margrethe",
       "id": "48632cc4-f705-4b51-8f6e-51d829858b09",
@@ -10255,6 +10258,7 @@
     },
     {
       "birth_date": "1951-07-26",
+      "family_name": "Moos",
       "gender": "female",
       "given_name": "Helga",
       "id": "5a7ff9cf-126b-4137-ab38-024b77ffb439",
@@ -11159,6 +11163,10 @@
         {
           "identifier": "122404",
           "scheme": "europarlmep"
+        },
+        {
+          "identifier": "1153827328",
+          "scheme": "gnd"
         },
         {
           "identifier": "307252851",
@@ -14007,6 +14015,7 @@
     },
     {
       "birth_date": "1942-05-23",
+      "family_name": "Kongsted",
       "gender": "female",
       "id": "751f48e1-33f8-4c67-a900-7ad8f69731dc",
       "identifiers": [
@@ -14444,7 +14453,7 @@
         },
         {
           "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Κάρλ_Χόλστ"
+          "url": "https://el.wikipedia.org/wiki/Καρλ_Χολστ"
         },
         {
           "note": "Wikipedia (en)",
@@ -14475,7 +14484,7 @@
       "other_names": [
         {
           "lang": "el",
-          "name": "Κάρλ Χόλστ",
+          "name": "Καρλ Χολστ",
           "note": "multilingual"
         }
       ]
@@ -18098,6 +18107,7 @@
     },
     {
       "birth_date": "1937-11-27",
+      "family_name": "Baadsgaard",
       "gender": "male",
       "given_name": "Hans",
       "id": "9897f804-9949-4274-80b0-190f2ef1a389",
@@ -18224,6 +18234,7 @@
     },
     {
       "birth_date": "1971-03-03",
+      "family_name": "Sjelle",
       "gender": "female",
       "given_name": "Helle",
       "id": "9a594745-0031-42bf-882d-ce7cf262c7f4",
@@ -18248,6 +18259,7 @@
     {
       "birth_date": "1932-04-07",
       "death_date": "2014-05-09",
+      "family_name": "Grove",
       "gender": "male",
       "given_name": "Henning",
       "id": "9b60b755-28f3-4942-977b-63bd8aa930cc",
@@ -22985,6 +22997,7 @@
     },
     {
       "birth_date": "1945-12-11",
+      "family_name": "Schødts",
       "gender": "female",
       "given_name": "Grete",
       "id": "c677fcbf-737e-48e0-b0d8-0a6ed3872e47",
@@ -25278,6 +25291,7 @@
     },
     {
       "birth_date": "1977-10-09",
+      "family_name": "Dyremose",
       "gender": "female",
       "given_name": "Charlotte",
       "id": "d5dd0664-5741-4ed8-805a-a3922e102763",
@@ -25844,10 +25858,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mipim_Kobenhavn_overborgmester_Frank_Jensen_20120307_1F_(8184293842).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mipim_København_overborgmester_Frank_Jensen_20120307_1F_(8184293842).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mipim_Kobenhavn_overborgmester_Frank_Jensen_20120307_1F_(8184293842).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mipim_København_overborgmester_Frank_Jensen_20120307_1F_(8184293842).jpg"
         }
       ],
       "links": [
@@ -28149,6 +28163,7 @@
     },
     {
       "birth_date": "1945-12-22",
+      "family_name": "Dyremose",
       "gender": "male",
       "given_name": "Henning",
       "id": "e95b0abc-73e3-4d30-8b85-edd3f83de8e0",
@@ -28579,6 +28594,7 @@
           "value": "HanneAgersnap"
         }
       ],
+      "family_name": "Agersnap",
       "gender": "female",
       "given_name": "Hanne",
       "id": "ed232c14-8fef-4fb1-9264-81b5921d2169",
@@ -37954,6 +37970,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "cy",
+          "name": "Gweriniaeth",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Tjóðveldi",
           "note": "multilingual",
@@ -38059,6 +38081,12 @@
         {
           "lang": "ru",
           "name": "Республика",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Gweriniaeth",
           "note": "multilingual",
           "source": "wikidata-label"
         },
