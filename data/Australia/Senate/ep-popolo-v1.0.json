@@ -1038,6 +1038,23 @@
       "sort_name": "Loosley, Stephen"
     },
     {
+      "family_name": "Martin",
+      "given_name": "Steve",
+      "id": "168a8e68-f1ff-4392-8c5b-b1bf597cd7f6",
+      "identifiers": [
+        {
+          "identifier": "275266",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10905",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Steve Martin",
+      "sort_name": "Martin, Steve"
+    },
+    {
       "birth_date": "1934-05-13",
       "family_name": "Macgibbon",
       "gender": "male",
@@ -5767,6 +5784,30 @@
       "sort_name": "Canavan, Matthew"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "senator.molan@aph.gov.au"
+        }
+      ],
+      "email": "senator.molan@aph.gov.au",
+      "family_name": "Molan",
+      "given_name": "Jim",
+      "id": "5a4a61fc-565a-4385-a48c-4cce34b67845",
+      "identifiers": [
+        {
+          "identifier": "FAB",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10904",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Jim Molan",
+      "sort_name": "Molan, Jim"
+    },
+    {
       "birth_date": "1984-03-26",
       "contact_details": [
         {
@@ -6441,6 +6482,23 @@
         }
       ],
       "sort_name": "Wheelwright, Thomas"
+    },
+    {
+      "family_name": "Keneally",
+      "given_name": "Kristina",
+      "id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "identifiers": [
+        {
+          "identifier": "LNW",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10906",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Kristina Keneally",
+      "sort_name": "Keneally, Kristina"
     },
     {
       "birth_date": "1968-02-24",
@@ -19515,6 +19573,20 @@
       ]
     },
     {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "independent",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "168a8e68-f1ff-4392-8c5b-b1bf597cd7f6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-02-09"
+    },
+    {
       "area_id": "area/queensland",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "liberal_party",
@@ -21067,6 +21139,7 @@
     },
     {
       "area_id": "area/nsw",
+      "end_date": "2018-01-25",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -23717,6 +23790,20 @@
       ]
     },
     {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "5a4a61fc-565a-4385-a48c-4cce34b67845",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2017-12-22"
+    },
+    {
       "area_id": "area/sa",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "australian_greens",
@@ -24310,6 +24397,149 @@
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
       "person_id": "6e29dda8-2a68-4c9c-b6e6-82bc54a47cb8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/35",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/36",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/38",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/39",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/40",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/44",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nsw",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6f07268e-f546-4890-93aa-458e8fcf636d",
       "role": "member",
       "sources": [
         {
@@ -25126,6 +25356,7 @@
     },
     {
       "area_id": "area/queensland",
+      "end_date": "2018-01-15",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "pauline_hanson's_one_nation_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -25137,6 +25368,20 @@
         }
       ],
       "start_date": "2017-11-10"
+    },
+    {
+      "area_id": "area/queensland",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "independent",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "83ed1e9b-de0b-4be1-a711-01405db6b00b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-01-15"
     },
     {
       "area_id": "area/tasmania",
@@ -27474,6 +27719,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "area/tasmania",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "a411ea63-c0a8-4df7-b88b-872390ceff4d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-02-09"
     },
     {
       "area_id": "area/wa",
