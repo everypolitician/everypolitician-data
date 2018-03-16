@@ -1802,6 +1802,34 @@
       "contact_details": [
         {
           "type": "phone",
+          "value": "08069837716, 0803762"
+        }
+      ],
+      "id": "2c83eb76-563a-423d-ae96-7dca8f580854",
+      "identifiers": [
+        {
+          "identifier": "974",
+          "scheme": "nass"
+        }
+      ],
+      "image": "http://www.nass.gov.ng/images/mps/974.jpg",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/974.jpg"
+        }
+      ],
+      "name": "Bauchi Tongo",
+      "other_names": [
+        {
+          "name": "Bauchi Yaya Tongo",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "phone",
           "value": "08033407851"
         }
       ],
@@ -3751,6 +3779,22 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "521e0682-42a7-4396-8d40-0c78298db21f",
+      "identifiers": [
+        {
+          "identifier": "304",
+          "scheme": "nass"
+        }
+      ],
+      "image": "http://www.nass.gov.ng/images/mps/304.jpg",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/304.jpg"
+        }
+      ],
+      "name": "MPIGI BARINADA"
     },
     {
       "id": "52cec1d0-75a5-44c0-acfb-038a7f4cd5a0",
@@ -9180,10 +9224,10 @@
           "url": "http://www.nass.gov.ng/images/mps/85.jpg"
         }
       ],
-      "name": "AZUBAGO IFEANYI",
+      "name": "AZUBOGU IFEANYI",
       "other_names": [
         {
-          "name": "AZUBAGO CHRIS EMEKA IFEANYI",
+          "name": "AZUBOGU CHRIS EMEKA IFEANYI",
           "note": "alternate"
         }
       ]
@@ -14039,6 +14083,19 @@
       ]
     },
     {
+      "area_id": "area/gombe,kwami_&funakaye,_gombe_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "2c83eb76-563a-423d-ae96-7dca8f580854",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/974"
+        }
+      ]
+    },
+    {
       "area_id": "area/aba_north/south,_abia_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "APGA",
@@ -14724,6 +14781,19 @@
       "sources": [
         {
           "url": "http://www.nass.gov.ng/mp/profile/770"
+        }
+      ]
+    },
+    {
+      "area_id": "area/tai/eleme/oyigbo,_rivers_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "521e0682-42a7-4396-8d40-0c78298db21f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/304"
         }
       ]
     },
@@ -16613,9 +16683,9 @@
       ]
     },
     {
-      "area_id": "area/eti-osa,_lagos_state",
+      "area_id": "area/ado/obadigbo/opkokwu,_benue_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "b77bf509-47ad-4a86-9188-401e18312e42",
       "role": "member",
