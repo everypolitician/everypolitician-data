@@ -109,6 +109,10 @@ def popolo_write(file, json)
   end
   json[:events] &&= json[:events].portable_sort_by { |e| [e[:start_date].to_s || '', e[:id].to_s] }
   json[:areas]  &&= json[:areas].portable_sort_by  { |a| [a[:id]] }
+  json[:areas].each do |area|
+    area[:other_names] &&= area[:other_names].portable_sort_by { |name| [name[:lang].to_s, name[:name]] }
+  end
+
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
   File.write(file, JSON.pretty_generate(final))
 end
