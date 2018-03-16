@@ -2548,6 +2548,16 @@
       ]
     },
     {
+      "id": "5d6a89b4-8f4d-4379-8769-6edb2171a492",
+      "image": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg"
+        }
+      ],
+      "name": "Vacant"
+    },
+    {
       "birth_date": "1969",
       "contact_details": [
         {
@@ -5058,6 +5068,23 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jack.Sargeant@assembly.wales"
+        }
+      ],
+      "email": "Jack.Sargeant@assembly.wales",
+      "id": "cf308f57-d385-4fac-9d5c-b82fddef5600",
+      "image": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg"
+        }
+      ],
+      "name": "Jack Sargeant"
     },
     {
       "birth_date": "1942-01-22",
@@ -7864,6 +7891,11 @@
         }
       ],
       "srgb": "FDBB30"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -8618,6 +8650,19 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "5d6a89b4-8f4d-4379-8769-6edb2171a492",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6376"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:gb-wls/region:mid_and_west_wales/constituency:preseli_pembrokeshire",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/welsh_conservative_party",
@@ -8705,6 +8750,32 @@
       "sources": [
         {
           "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
         }
       ]
     },
@@ -9247,6 +9318,20 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/welsh_labour",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "cf308f57-d385-4fac-9d5c-b82fddef5600",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6571"
+        }
+      ],
+      "start_date": "2018-02-07"
+    },
+    {
       "area_id": "ocd-division/country:gb-wls/region:south_wales_west/constituency:neath",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/welsh_labour",
@@ -9642,6 +9727,11 @@
     }
   ],
   "areas": [
+    {
+      "id": "ocd-division/country:gb-wls/region:",
+      "name": "",
+      "type": "constituency"
+    },
     {
       "id": "ocd-division/country:gb-wls/region:mid_and_west_wales",
       "name": "Mid and West Wales",
