@@ -2008,6 +2008,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0421824",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "13936367X",
           "scheme": "gnd"
         },
@@ -2605,6 +2609,10 @@
         {
           "identifier": "157837560",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Cyril-Ramaphosa",
+          "scheme": "britannica"
         },
         {
           "identifier": "matamela-cyril-ramaphosa",
@@ -4340,6 +4348,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "304975a5-02ac-4cae-88b7-f1c433d771d6",
       "identifiers": [
         {
@@ -9283,6 +9292,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Susan_Shabangu"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Susan_Shabangu"
         }
       ],
       "name": "Susan Shabangu"
@@ -16402,8 +16415,12 @@
           "url": "https://www.pa.org.za/media_root/cache/39/c7/39c7c342fb980251a2595cac9365a00a.jpg"
         }
       ],
-      "name": "Zephroma Sizani Dlamini-Dubazana",
+      "name": "Zephroma Sizani Dubazana",
       "other_names": [
+        {
+          "name": "Zephroma Sizani Dlamini-Dubazana",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Zephroma Dubazana",
@@ -19546,6 +19563,18 @@
           "name": "АНК",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "المجلس الإفريقي القومي",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ar",
+          "name": "المؤتمر الوطني الافريقي",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -22041,6 +22070,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-03-01",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
