@@ -33,6 +33,7 @@ group :test do
   gem 'flog'
   gem 'minitest'
   gem 'minitest-around'
+  gem 'reek'
   gem 'rubocop'
   gem 'vcr'
   gem 'webmock'
