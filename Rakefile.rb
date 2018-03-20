@@ -46,7 +46,14 @@ end
 require 'everypolitician/pull_request/rake_task'
 Everypolitician::PullRequest::RakeTask.new.install_tasks
 
+require 'reek/rake/task'
+Reek::Rake::Task.new do |t|
+  t.source_files = FileList['**/*.rb'] - FileList['bin/**/*.rb'] - FileList['data/**/Rakefile.rb']
+  t.verbose = false
+  t.fail_on_error = true
+end
+
 require 'rubocop/rake_task'
 RuboCop::RakeTask.new
 
-task default: %w[test rubocop]
+task default: %w[test rubocop reek]
