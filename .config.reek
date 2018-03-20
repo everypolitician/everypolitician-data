@@ -1,0 +1,267 @@
+---
+IrresponsibleModule:
+  enabled: false
+UtilityFunction:
+  exclude:
+  - csv_load
+  - json_from
+  - json_write
+  - percentage
+  - wikidata_id
+  - display_name
+  - json_load
+  - file_to_commit_metadata
+  - StatsFile#now
+  - Position::Filter::HTML#scripts
+  - PositionMap#json5_parse
+  - Reconciliation::Fuzzer#comparable
+  - Reconciler#write_file!
+  - Source::Gender#converter
+  - Source::Base#remap
+  - Task::RebuildCountriesJSON#all_countries
+  - Task::RebuildCountriesJSON#countries_file
+  - ElectionLookup#other_fields_for
+  - GroupLookup#colour
+  - GroupLookup#links
+  - GroupLookup#logo
+  - P39sLookup#p39s
+  - WikidataLookup#names_from
+  - _should_refetch
+  - SourceHistory#repo_root
+  - tmp_countries_json_filename
+DuplicateMethodCall:
+  exclude:
+  - fetch_term
+  - wikidata_id
+  - display_name
+  - term_id
+  - Everypolitician::Legislature::Metadata#stanza
+  - Everypolitician::Legislature::Metadata#terms
+  - StatsFile#area_stats
+  - StatsFile#term_stats
+  - Matcher#initialize
+  - Matcher::Exact#find_all
+  - Matcher::Reconciled#find_all
+  - OCD::Lookup::Plain#area_id_from_name
+  - Patcher#patched
+  - Reconciliation::Fuzzer#comparable
+  - Reconciliation::Fuzzer#score_all
+  - Reconciliation::Interface#need_reconciling
+  - Reconciliation::Interface#to_reconcile
+  - RemoteSource#self.instantiate
+  - Source::Area::Row#other_identifiers
+  - Source::Corrections#merged_with
+  - Source::CSV#raw_table
+  - Source::Elections#events
+  - Source::Gender#merged_with
+  - Source::Membership#as_table
+  - Source::Membership#merged_with
+  - Source::Membership#raw_table
+  - Source::OCD#overrides
+  - Source::OCD::IDs#merged_with
+  - Source::OCD::Names#merged_with
+  - Source::Term#events
+  - Source::Base#self.instantiate
+  - P39sLookup#p39s
+  - WikidataLookup#other_names_for
+  - _should_refetch
+  - unknown_party
+  - combine_sources
+  - popolo_write
+FeatureEnvy:
+  exclude:
+  - fetch_term
+  - name_at
+  - Everypolitician::Legislature::Metadata#terms
+  - GenderBalancer#results
+  - StatsFile#people_stats
+  - OCD::Lookup::Plain#area_id_from_name
+  - Position::Filter::HTML#body
+  - Reconciliation::File#to_h
+  - RemoteSource::Parlparse#write
+  - RemoteSource::Wikidata::Raw#map_data
+  - RemoteSource::Wikidata::Raw#processed_wikidata
+  - Source::Area::Row#other_identifiers
+  - Source::Cabinet#filtered
+  - Source::Corrections#merged_with
+  - Source::CSV#raw_table
+  - Source::Elections#events
+  - Source::Gender#merged_with
+  - Source::Membership#raw_table
+  - Source::OCD::Names#merged_with
+  - Source::Term#events
+  - WikidataLookup#initialize
+  - WikidataLookup#other_names_for
+  - deep_sort
+  - popolo_write
+TooManyStatements:
+  exclude:
+  - initialize
+  - fetch_term
+  - term_id
+  - Everypolitician::Legislature::Metadata#terms
+  - file_to_commit_metadata
+  - Patcher#patched
+  - Reconciliation::Fuzzer#score_all
+  - RemoteSource#self.instantiate
+  - RemoteSource::Morph#morph_select
+  - RemoteSource::Parlparse#write
+  - Source::Cabinet#filtered
+  - Source::Corrections#merged_with
+  - Source::CSV#raw_table
+  - Source::Elections#events
+  - Source::Gender#merged_with
+  - Source::Membership#as_table
+  - Source::Membership#merged_with
+  - Source::OCD::IDs#merged_with
+  - Source::OCD::Names#merged_with
+  - Source::Person#merged_with
+  - Task::RebuildCountriesJSON#updated_data
+  - UuidMapFile#rewrite
+  - ElectionLookup#wikidata_sparql
+  - P39sLookup#p39s
+  - WikidataLookup#other_names_for
+  - WikidataLookup#to_hash
+  - unknown_party
+  - combine_sources
+  - popolo_write
+UncommunicativeVariableName:
+  exclude:
+  - fetch_term
+  - wikidata_id
+  - name_at
+  - term_id
+  - Everypolitician::Country::Metadata#stanza
+  - Everypolitician::Legislature::Metadata#json_with_count
+  - Everypolitician::Legislature::Metadata#legislature
+  - Everypolitician::Legislature::Metadata#stanza
+  - Everypolitician::Legislature::Metadata#terms
+  - GenderBalancer#enough_votes
+  - GenderBalancer#results
+  - GenderBalancer::Result#winner
+  - file_to_commit_metadata
+  - Instructions#raw_sources
+  - Instructions#sources
+  - StatsFile#cabinet_positions
+  - StatsFile#known_parties
+  - StatsFile#latest_election_date
+  - Matcher#existing
+  - Matcher#existing_by_uuid
+  - Matcher#initialize
+  - OCD::Lookup::Plain#find
+  - Patcher#fields
+  - Patcher#patched
+  - Position::Filter::HTML#body
+  - PositionMap#cabinet_ids
+  - PositionMap#exclude_ids
+  - PositionMap#include_ids
+  - PositionMap#raw_json
+  - PositionMap#type_lookup
+  - Reconciliation::File#to_h
+  - Reconciliation::File#write!
+  - Reconciliation::Fuzzer#comparable
+  - Reconciliation::Fuzzer#display
+  - Reconciliation::Fuzzer#existing_people
+  - Reconciliation::Fuzzer#score_all
+  - Reconciliation::Interface#need_reconciling
+  - Reconciler#initialize
+  - RemoteSource#copy_url
+  - RemoteSource#self.instantiate
+  - RemoteSource::Morph#morph_select
+  - RemoteSource::Wikidata::Raw#map_data
+  - RemoteSource::Wikidata::Raw#processed_wikidata
+  - Source::Area#area_data
+  - Source::Area#reconciliation_data
+  - Source::Area::Row
+  - Source::Area::Row#other_identifiers
+  - Source::Cabinet#filtered
+  - Source::Corrections#merged_with
+  - Source::CSV#fields
+  - Source::CSV#raw_table
+  - Source::Elections#events
+  - Source::Gender#merged_with
+  - Source::Group#to_popolo
+  - Source::Membership#as_table
+  - Source::Membership#merged_with
+  - Source::Membership#raw_table
+  - Source::OCD::IDs#merged_with
+  - Source::OCD::Names#merged_with
+  - Source::Person#merged_with
+  - Source::PlainCSV#rcsv_column_options
+  - Source::Term#events
+  - Source::Term#overlapping_events
+  - Source::Term#sorted_events
+  - Source::Base
+  - Task::RebuildCountriesJSON#commit_path
+  - Task::RebuildCountriesJSON#execute
+  - Task::RebuildCountriesJSON#existing_data_as_hash
+  - Task::RebuildCountriesJSON#matching
+  - Task::RebuildCountriesJSON#updated_data
+  - UuidMapFile#mapping
+  - ElectionLookup#initialize
+  - ElectionLookup#other_fields_for
+  - ElectionLookup#wikidata_sparql
+  - GroupLookup#other_fields_for
+  - P39sLookup#fields_for
+  - P39sLookup#p39s
+  - WikidataLookup#other_names_for
+  - WikidataLookup#wikidata_results
+  - unknown_party
+  - combine_sources
+  - SourceCSV#grouped
+  - SourceCSV#rows
+  - history
+  - deep_sort
+  - popolo_write
+NestedIterators:
+  exclude:
+  - Everypolitician::Legislature::Metadata#json_with_count
+  - file_to_commit_metadata
+  - PositionMap#raw_json
+  - PositionMap#type_lookup
+  - Reconciliation::Fuzzer#score_all
+  - Source::Corrections#merged_with
+  - Source::CSV#raw_table
+  - Source::Elections#events
+  - Source::Membership#as_table
+  - Source::Person#merged_with
+  - Source::Term#events
+  - Task::RebuildCountriesJSON#updated_data
+  - UuidMapFile#rewrite
+  - P39sLookup#p39s
+  - combine_sources
+  - popolo_write
+InstanceVariableAssumption:
+  exclude:
+  - Matcher::Exact
+  - Matcher::Reconciled
+TooManyInstanceVariables:
+  exclude:
+  - Matcher
+  - Patcher
+NilCheck:
+  exclude:
+  - OCD::Lookup::Plain#area_id_from_name
+  - OCD::Lookup::Plain#override
+  - RemoteSource::Wikidata::Raw#processed_wikidata
+  - Source::Area#area_data
+  - Source::CSV#raw_table
+  - Source::OCD::IDs#merged_with
+  - ElectionLookup#other_fields_for
+  - P39sLookup#fields_for
+  - history
+ControlParameter:
+  exclude:
+  - Patcher#initialize
+  - Reconciliation::Fuzzer#comparable
+  - Source::Gender#converter
+PrimaDonnaMethod:
+  exclude:
+  - Reconciliation::File
+  - Reconciler
+  - Source::Membership
+UncommunicativeMethodName:
+  exclude:
+  - RemoteSource#c
+  - RemoteSource#i
+  - Source::Base#i
