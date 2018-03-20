@@ -38,6 +38,12 @@
         "P580": "2010-01-27",
         "P582": "2012-10-13"
       }
+    },
+    {
+      "id": "Q121998",
+      "label": "ambassador",
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     }
   ],
   "Q25147299": [
@@ -60,6 +66,25 @@
       "label": "member of the National Assembly of Venezuela",
       "title": "member of the National Assembly of Venezuela",
       "description": "member of the unicameral legislature of Venezuela"
+    }
+  ],
+  "Q22074514": [
+    {
+      "id": "Q28057104",
+      "label": "General Secretary of the Communist Party of Venezuela",
+      "title": "General Secretary of the Communist Party of Venezuela",
+      "qualifiers": {
+        "P580": "1996"
+      }
+    },
+    {
+      "id": "Q20011182",
+      "label": "member of the National Assembly of Venezuela",
+      "title": "member of the National Assembly of Venezuela",
+      "description": "member of the unicameral legislature of Venezuela",
+      "qualifiers": {
+        "P580": "2006-01-05"
+      }
     }
   ],
   "Q16300780": [
@@ -177,7 +202,11 @@
       "id": "Q18180916",
       "label": "member of the Chamber of Deputies of Venezuela",
       "title": "member of the Chamber of Deputies of Venezuela",
-      "description": "member of the lower house of the Venezuelan legislature (until 2000)"
+      "description": "member of the lower house of the Venezuelan legislature (until 2000)",
+      "qualifiers": {
+        "P580": "2011-02-05",
+        "P582": "2015-02-08"
+      }
     }
   ],
   "Q6015821": [
@@ -273,20 +302,32 @@
   ],
   "Q1227076": [
     {
-      "id": "Q35321598",
-      "label": "Soldado",
-      "title": "Soldado"
-    },
-    {
-      "id": "Q35321598",
-      "label": "Soldado",
-      "title": "Soldado",
+      "id": "Q3556895",
+      "label": "Vice President of Venezuela",
+      "title": "Vice President of Venezuela",
       "qualifiers": {
         "P580": "2002-01-13",
         "P582": "2002-04-28",
         "P1365": "Adina Bastidas",
         "P1366": "José Vicente Rangel"
       }
+    },
+    {
+      "id": "Q132050",
+      "label": "governor",
+      "title": "governor (of Miranda)",
+      "description": "governing official",
+      "qualifiers": {
+        "P642": "Miranda",
+        "P580": "2004",
+        "P582": "2008"
+      }
+    },
+    {
+      "id": "Q20011182",
+      "label": "member of the National Assembly of Venezuela",
+      "title": "member of the National Assembly of Venezuela",
+      "description": "member of the unicameral legislature of Venezuela"
     }
   ],
   "Q5727584": [
