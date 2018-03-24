@@ -58,7 +58,8 @@
         "P768": "Queensland",
         "P580": "2000-05-16",
         "P1365": "Warwick Parer",
-        "P582": "2018-02-08"
+        "P582": "2018-02-08",
+        "P1366": "Amanda Stoker"
       }
     },
     {
@@ -1268,7 +1269,10 @@
       "qualifiers": {
         "P768": "Torrens",
         "P580": "2014-03-15",
-        "P1365": "Robyn Geraghty"
+        "P1365": "Robyn Geraghty",
+        "P2715": "South Australian state election, 2014",
+        "P2937": "",
+        "P4100": "Australian Labor Party"
       }
     }
   ],
@@ -2297,8 +2301,9 @@
     },
     {
       "id": "Q50390946",
-      "label": "Minister of Fisheries of South Australia",
-      "title": "Minister of Fisheries of South Australia",
+      "label": "Minister of Fisheries",
+      "title": "Minister of Fisheries",
+      "description": "South Australian cabinet minister",
       "qualifiers": {
         "P580": "1982-03-05",
         "P582": "1982-11-10",
@@ -2310,7 +2315,7 @@
       "id": "Q6508561",
       "label": "Leader of the Opposition of South Australia",
       "title": "Leader of the Opposition of South Australia",
-      "description": "South Australian parliamentary position",
+      "description": "South Australian parliamentary position and alternative head of government",
       "qualifiers": {
         "P580": "1982-11-15",
         "P582": "1990-01-12",
@@ -2320,8 +2325,9 @@
     },
     {
       "id": "Q50390777",
-      "label": "Minister for Tourism of South Australia",
-      "title": "Minister for Tourism of South Australia",
+      "label": "Minister for Tourism",
+      "title": "Minister for Tourism",
+      "description": "South Australian cabinet minister (1993-)",
       "qualifiers": {
         "P580": "2001-10-08",
         "P582": "2001-10-22",
@@ -2331,8 +2337,9 @@
     },
     {
       "id": "Q50390757",
-      "label": "Minister for State Development of South Australia",
-      "title": "Minister for State Development of South Australia",
+      "label": "Minister for State Development",
+      "title": "Minister for State Development",
+      "description": "South Australian cabinet minister",
       "qualifiers": {
         "P580": "1998-08-08",
         "P582": "2001-10-22",
@@ -3792,6 +3799,12 @@
         "P582": "2003-10-07",
         "P580": "2001-01-30"
       }
+    },
+    {
+      "id": "Q121998",
+      "label": "ambassador",
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     }
   ],
   "Q6154549": [
@@ -4323,6 +4336,12 @@
         "P1365": "Peter Reith",
         "P1366": "Brendan Nelson"
       }
+    },
+    {
+      "id": "Q121998",
+      "label": "ambassador",
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     }
   ],
   "Q7648344": [
