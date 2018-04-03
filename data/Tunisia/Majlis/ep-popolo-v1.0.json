@@ -436,6 +436,7 @@
       "name": "Mohamed Fadhel Ben Omrane"
     },
     {
+      "birth_date": "1980",
       "gender": "female",
       "id": "2082603e-4f9f-4253-a22a-851b05ca1a6f",
       "identifiers": [
@@ -460,7 +461,14 @@
           "url": "https://fr.wikipedia.org/wiki/Nawel_Tayech"
         }
       ],
-      "name": "Nawel Tayech"
+      "name": "Nawel Tayech",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "نوال طياش",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1987-02-03",
@@ -1962,6 +1970,7 @@
       "name": "Mongi Harbaoui"
     },
     {
+      "birth_date": "1983",
       "gender": "female",
       "id": "65a149c9-be94-4cfc-9560-ed3c436d2e93",
       "identifiers": [
@@ -1986,11 +1995,19 @@
           "url": "https://fr.wikipedia.org/wiki/Jihen_Aouichi"
         }
       ],
-      "name": "Jihen Aouichi"
+      "name": "Jihen Aouichi",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جيهان العويشي",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1988-05-19",
       "gender": "female",
+      "given_name": "Khawla",
       "id": "65f1f345-6170-407d-a577-56f3cc200642",
       "identifiers": [
         {
@@ -2881,6 +2898,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Jamila_Debbech"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jamila.debbechksiksi"
         }
       ],
       "name": "Jamila Debbech",
@@ -6022,12 +6043,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "fr",
-          "name": "Ennahda",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "en",
           "name": "Ennahda Movement",
           "note": "multilingual",
@@ -6204,6 +6219,12 @@
         {
           "lang": "fr",
           "name": "Mouvement de la tendance islamiste",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Ennahda",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
