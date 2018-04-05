@@ -58,7 +58,8 @@
         "P768": "Queensland",
         "P580": "2000-05-16",
         "P1365": "Warwick Parer",
-        "P582": "2018-02-08"
+        "P582": "2018-02-08",
+        "P1366": "Amanda Stoker"
       }
     },
     {
@@ -1268,7 +1269,10 @@
       "qualifiers": {
         "P768": "Torrens",
         "P580": "2014-03-15",
-        "P1365": "Robyn Geraghty"
+        "P1365": "Robyn Geraghty",
+        "P2715": "South Australian state election, 2014",
+        "P2937": "Members of the South Australian House of Assembly, 2018–2022",
+        "P4100": "Australian Labor Party"
       }
     }
   ],
@@ -2228,7 +2232,9 @@
         "P580": "1990-05-07",
         "P582": "1992-05-04",
         "P1365": "Tony Messner",
-        "P1366": "Alan Ferguson"
+        "P1366": "Alan Ferguson",
+        "P2937": "",
+        "P4100": "Liberal Party of Australia"
       }
     },
     {
@@ -2241,7 +2247,9 @@
         "P582": "1985-12-06",
         "P1365": "Howard Venning",
         "P1366": "",
-        "P768": "Rocky River"
+        "P768": "Rocky River",
+        "P2937": "",
+        "P4100": "Liberal Party of Australia"
       }
     },
     {
@@ -2297,8 +2305,9 @@
     },
     {
       "id": "Q50390946",
-      "label": "Minister of Fisheries of South Australia",
-      "title": "Minister of Fisheries of South Australia",
+      "label": "Minister of Fisheries",
+      "title": "Minister of Fisheries",
+      "description": "South Australian cabinet minister",
       "qualifiers": {
         "P580": "1982-03-05",
         "P582": "1982-11-10",
@@ -2310,7 +2319,7 @@
       "id": "Q6508561",
       "label": "Leader of the Opposition of South Australia",
       "title": "Leader of the Opposition of South Australia",
-      "description": "South Australian parliamentary position",
+      "description": "South Australian parliamentary position and alternative head of government",
       "qualifiers": {
         "P580": "1982-11-15",
         "P582": "1990-01-12",
@@ -2320,8 +2329,9 @@
     },
     {
       "id": "Q50390777",
-      "label": "Minister for Tourism of South Australia",
-      "title": "Minister for Tourism of South Australia",
+      "label": "Minister for Tourism",
+      "title": "Minister for Tourism",
+      "description": "South Australian cabinet minister (1993-2018)",
       "qualifiers": {
         "P580": "2001-10-08",
         "P582": "2001-10-22",
@@ -2331,8 +2341,9 @@
     },
     {
       "id": "Q50390757",
-      "label": "Minister for State Development of South Australia",
-      "title": "Minister for State Development of South Australia",
+      "label": "Minister for State Development",
+      "title": "Minister for State Development",
+      "description": "South Australian cabinet minister",
       "qualifiers": {
         "P580": "1998-08-08",
         "P582": "2001-10-22",
@@ -2901,13 +2912,25 @@
     {
       "id": "Q6865874",
       "label": "Minister for Human Services",
-      "title": "Minister for Human Services"
+      "title": "Minister for Human Services",
+      "qualifiers": {
+        "P580": "1996-03-11",
+        "P582": "1998-10-21",
+        "P1365": "Peter Baldwin",
+        "P1366": "Joe Hockey"
+      }
     },
     {
       "id": "Q6865821",
       "label": "Minister for Social Services",
       "title": "Minister for Social Services",
-      "description": "Australian government minister"
+      "description": "Australian government minister",
+      "qualifiers": {
+        "P580": "1998-10-21",
+        "P582": "2001-11-26",
+        "P1365": "Michael Wooldridge",
+        "P1366": "Amanda Vanstone"
+      }
     },
     {
       "id": "Q6814428",
@@ -3792,6 +3815,12 @@
         "P582": "2003-10-07",
         "P580": "2001-01-30"
       }
+    },
+    {
+      "id": "Q121998",
+      "label": "ambassador",
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     }
   ],
   "Q6154549": [
@@ -4323,6 +4352,12 @@
         "P1365": "Peter Reith",
         "P1366": "Brendan Nelson"
       }
+    },
+    {
+      "id": "Q121998",
+      "label": "ambassador",
+      "title": "ambassador",
+      "description": "diplomatic envoy"
     }
   ],
   "Q7648344": [
@@ -4541,7 +4576,8 @@
         "P582": "2017-10-31",
         "P1366": "Rex Patrick",
         "P1534": "resignation",
-        "P1365": ""
+        "P2937": "",
+        "P4100": "Nick Xenophon Team"
       }
     },
     {
@@ -4552,9 +4588,12 @@
       "qualifiers": {
         "P580": "1997-10-11",
         "P582": "2007-10-15",
-        "P1365": "",
         "P1366": "John Darley",
-        "P1534": "resignation"
+        "P1534": "resignation",
+        "P768": "",
+        "P4100": "No Pokies",
+        "P2937": "Members of the South Australian Legislative Council, 1997–2002",
+        "P2715": "South Australian state election, 1997"
       }
     }
   ],
