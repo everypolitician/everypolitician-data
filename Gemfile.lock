@@ -65,9 +65,9 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: 9550768212330ab209989a75d8479e341df6d796
+  revision: 0711094f7e62ea2c4c67d0017fdb112572c0ced6
   specs:
-    csv_to_popolo (0.28.1)
+    csv_to_popolo (0.29.0)
       facebook_username_extractor
       json
       rcsv
@@ -233,4 +233,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
