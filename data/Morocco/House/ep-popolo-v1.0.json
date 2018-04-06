@@ -3866,11 +3866,17 @@
       "sort_name": "Azzaoui Ibtissam"
     },
     {
+      "gender": "male",
+      "given_name": "Mohamed",
       "id": "40b2da5f-a9b7-41c1-8ef8-b7cf8bf33497",
       "identifiers": [
         {
           "identifier": "mbouzidi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28146571",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_235.jpg?itok=I1tICq9H",
@@ -3879,11 +3885,22 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_235.jpg?itok=I1tICq9H"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mohamed_Jamal_Bouzidi_Tiali"
+        }
+      ],
       "name": "Mohammed Jamal BOUZIDI TIALI",
       "other_names": [
         {
           "lang": "ar",
           "name": "محمد جمال بوزيدي تيالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohamed Jamal Bouzidi Tiali",
           "note": "multilingual"
         }
       ]
@@ -3915,17 +3932,29 @@
       "sort_name": "Tamek Rachid"
     },
     {
+      "birth_date": "1963",
+      "gender": "female",
       "id": "419a8360-155f-498e-8c4f-3209c0a229af",
       "identifiers": [
         {
           "identifier": "krouissi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50364865",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_49.jpg?itok=SROq7zPG",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_49.jpg?itok=SROq7zPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khadija_Rouissi"
         }
       ],
       "name": "Khadija ROUISSI",
@@ -11105,18 +11134,29 @@
     },
     {
       "family_name": "El Boukarai",
+      "gender": "male",
       "given_name": "Khalid",
       "id": "bde1438d-4afd-4ae7-bf8b-606522cba432",
       "identifiers": [
         {
           "identifier": "kelboukarai",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41671395",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_15.jpg?itok=vlncARjY",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_15.jpg?itok=vlncARjY"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khalid_El_Boukarai"
         }
       ],
       "name": "Khalid EL BOUKARAI",
@@ -14142,12 +14182,17 @@
     },
     {
       "family_name": "Idrissi Bouzidi",
+      "gender": "male",
       "given_name": "Abdellah",
       "id": "f93ed4a4-0323-4623-b676-bf99d5d6477e",
       "identifiers": [
         {
           "identifier": "aelbouzidi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27514767",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_234.jpg?itok=5RLu_6nH",
@@ -14156,8 +14201,18 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture_234.jpg?itok=5RLu_6nH"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Abdellah_Drissi_El_Bouzidi"
+        }
+      ],
       "name": "Abdellah DRISSI ELBOUZIDI",
       "other_names": [
+        {
+          "name": "Abdellah Drissi El Bouzidi",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "عبد الله الادريسي البوزيدي",
@@ -14165,7 +14220,12 @@
         },
         {
           "lang": "fr",
-          "name": "Abdellah Idrissi Bouzidi",
+          "name": "Abdellah Drissi El Bouzidi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdellah Drissi El Bouzidi",
           "note": "multilingual"
         }
       ],
