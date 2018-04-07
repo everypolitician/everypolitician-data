@@ -9681,6 +9681,7 @@
       ]
     },
     {
+      "birth_date": "1979-03-18",
       "contact_details": [
         {
           "type": "email",
@@ -17106,6 +17107,10 @@
         {
           "identifier": "n93051449",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "134008227",
+          "scheme": "nta"
         },
         {
           "identifier": "083715185",
@@ -31880,6 +31885,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "173681549",
+          "scheme": "nta"
+        },
+        {
           "identifier": "034232532",
           "scheme": "sudoc"
         },
@@ -41214,6 +41223,12 @@
         {
           "lang": "bs",
           "name": "nezavisni političar",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ps",
+          "name": "آزاد کاندید",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -58511,6 +58526,19 @@
     },
     {
       "classification": "general election",
+      "end_date": "2002-10-27",
+      "id": "Q3722534",
+      "identifiers": [
+        {
+          "identifier": "Q3722534",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Brazilian general election, 2002",
+      "start_date": "2002-10-27"
+    },
+    {
+      "classification": "general election",
       "end_date": "2006",
       "id": "Q2164948",
       "identifiers": [
@@ -58521,19 +58549,6 @@
       ],
       "name": "Brazilian general election, 2006",
       "start_date": "2006"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2006-10-27",
-      "id": "Q3722534",
-      "identifiers": [
-        {
-          "identifier": "Q3722534",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Brazilian general election, 2002",
-      "start_date": "2006-10-27"
     },
     {
       "classification": "general election",
