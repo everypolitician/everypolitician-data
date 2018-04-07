@@ -2,7 +2,7 @@ AllCops:
   Exclude:
     - 'data/**/*'
     - 'vendor/**/*'
-  TargetRubyVersion: 2.1
+  TargetRubyVersion: 2.3
 
 inherit_from:
   - .rubocop_base.yml
