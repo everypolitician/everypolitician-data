@@ -1296,6 +1296,23 @@
     },
     {
       "gender": "male",
+      "id": "80f6fb30-6ee5-4141-95e4-3aae3f535502",
+      "identifiers": [
+        {
+          "identifier": "levao_nitadiavina",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/31.jpg"
+        }
+      ],
+      "name": "LEVAO Nitadiavina"
+    },
+    {
+      "gender": "male",
       "id": "8159e945-aab3-4c4c-9ed9-ce15c9961807",
       "identifiers": [
         {
@@ -2058,6 +2075,23 @@
         }
       ],
       "name": "RAHASIMANANA Paul Bert"
+    },
+    {
+      "gender": "female",
+      "id": "bc081910-e080-4ed1-acc3-27c519073932",
+      "identifiers": [
+        {
+          "identifier": "mananjara_ruffine_aurelie",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg",
+      "images": [
+        {
+          "url": "http://www.assemblee-nationale.mg/wp-content/plugins/internet/2014/89.jpg"
+        }
+      ],
+      "name": "MANANJARA Ruffine Aurelie"
     },
     {
       "id": "c03074e1-4051-45fa-8603-b5b8725a3b51",
@@ -4427,6 +4461,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/marolambo",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/indépendant",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "80f6fb30-6ee5-4141-95e4-3aae3f535502",
+      "role": "member"
+    },
+    {
       "area_id": "area/ambalavao",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "party/indépendant",
@@ -4768,6 +4810,14 @@
       "on_behalf_of_id": "party/mapar",
       "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
       "person_id": "bae8ba28-4dc2-416d-a307-378c410aa61b",
+      "role": "member"
+    },
+    {
+      "area_id": "area/manajary",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/indépendant",
+      "organization_id": "c760e66c-88d9-42e1-a750-7b559882d49a",
+      "person_id": "bc081910-e080-4ed1-acc3-27c519073932",
       "role": "member"
     },
     {
