@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rcsv'
 
 # After generating merged.csv, ensure that it contains what we need

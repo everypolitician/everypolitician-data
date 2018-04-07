@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 require 'wikisnakker'
 
 desc 'Refresh the information in the country meta.json'

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
 abort 'Ruby should be >= 2.3' unless RUBY_VERSION.to_f >= 2.3

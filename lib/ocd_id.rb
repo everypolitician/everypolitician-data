@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module OCD
   class Lookup
     class Plain

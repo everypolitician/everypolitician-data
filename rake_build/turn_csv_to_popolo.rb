@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 desc 'Generate merged.json'
 task whittle: [:clobber, MERGED_JSON]
 

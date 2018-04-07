@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # A helpful monkey-patch to MatchData to return named matches as a
 # hash that maps from symbolized match names to the matched text.
 class MatchData

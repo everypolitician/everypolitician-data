@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Reconciliation
   # Produce an HTML interface for reconciling incoming data
   class Interface

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Source
   class JSON < Base
     def fields

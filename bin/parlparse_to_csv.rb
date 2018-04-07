@@ -1,4 +1,6 @@
 #!/bin/env ruby
+# frozen_string_literal: true
+
 #---------------------------------------------------------------------
 # This should really be a scraper on morph but it blows its memory
 # limits, so for now will just run locally

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :report do
   task :missing_wikidata do
     popolo = Everypolitician::Popolo.read('ep-popolo-v1.0.json')

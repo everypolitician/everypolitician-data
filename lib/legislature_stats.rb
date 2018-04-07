@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 class StatsFile
   # Generates stats on the data we hold for a Legislature
   #

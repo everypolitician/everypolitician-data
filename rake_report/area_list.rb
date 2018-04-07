@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 namespace :report do
   task :area_list do
     areas = EveryPolitician::Popolo.read('ep-popolo-v1.0.json').memberships.select(&:area_id).group_by(&:area_id)

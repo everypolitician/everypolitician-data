@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'wikisnakker'
 require 'json'
 require 'rest-client'
@@ -159,7 +161,7 @@ class ElectionLookup < WikidataLookup
 
   private
 
-  WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql'.freeze
+  WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql'
 
   def wikidata_sparql(query)
     result = RestClient.get WIKIDATA_SPARQL_URL, params: { query: query, format: 'json' }

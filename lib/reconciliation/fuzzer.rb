@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'fuzzy_match'
 require 'twitter_username_extractor'
 require 'unicode_utils'

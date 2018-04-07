@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative './reconciliation/interface'
 require_relative './reconciliation/fuzzer'
 require_relative './reconciliation/template'

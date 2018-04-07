@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Reconciliation
   class Template
     attr_reader :to_reconcile

@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 # We take various steps to convert all the incoming data into the output
 # formats. Each of these steps uses a different rake_helper:
 #

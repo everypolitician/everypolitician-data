@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Matcher
   def initialize(existing_rows, instructions, reconciled_csv = nil)
     @_existing_rows = existing_rows

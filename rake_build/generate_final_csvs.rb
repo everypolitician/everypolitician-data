@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'everypolitician/popolo'
 require 'json5'
 require 'everypolitician/dataview/terms'

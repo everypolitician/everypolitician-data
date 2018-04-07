@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class WikidataPosition
   attr_reader :person
   def initialize(raw:, person:)

@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 desc 'Handle moved Wikidata'
 namespace :wikidata do
   task :handle_move, %i[from to] do |_, args|

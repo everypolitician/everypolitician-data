@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Calculate results from a Gender-Balance API data file
 class GenderBalancer
   # a single result from the CSV file

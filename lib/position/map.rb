@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PositionMap
   # old JSON version of file listing the Wikidata Positions we're interested in
   # This has been superseded by a CSV version. To convert to that use:

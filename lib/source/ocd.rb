@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'csv'
 require_relative '../ocd_id'
 

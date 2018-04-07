@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'plain_csv'
 require 'field_serializer'
 

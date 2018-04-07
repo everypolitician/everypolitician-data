@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Patch an existing row, with data from an incoming row
 # according to a set of instructions
 class Patcher

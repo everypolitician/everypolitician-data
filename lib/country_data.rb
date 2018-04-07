@@ -1,4 +1,6 @@
 
+# frozen_string_literal: true
+
 module Everypolitician
   class Country
     # The metadata for a country, included in countries.json
