@@ -1127,11 +1127,22 @@
     },
     {
       "birth_date": "1956-03-27",
+      "gender": "male",
       "id": "2fab2cba-f911-4dc6-a74f-d68bb4cebbcc",
       "identifiers": [
         {
           "identifier": "3379",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50615316",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eddie_Musonda"
         }
       ],
       "name": "Eddie Musonda"
@@ -6000,6 +6011,10 @@
         {
           "identifier": "189",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50530899",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Col.%20Gerry%20Chanda.jpg?itok=MUIfzsgO",
@@ -6008,7 +6023,20 @@
           "url": "http://www.parliament.gov.zm/sites/default/files/styles/naz-mp-teaser/public/images/mp/Col.%20Gerry%20Chanda.jpg?itok=MUIfzsgO"
         }
       ],
-      "name": "Col. Gerry Chanda (Rtd)"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gerry_Chanda"
+        }
+      ],
+      "name": "Col. Gerry Chanda (Rtd)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gerry Chanda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-24",
