@@ -11064,13 +11064,36 @@
       "birth_date": "1962-01-25",
       "gender": "male",
       "id": "3af3a379-d669-4ea9-bf2a-7a5d167c8052",
+      "identifiers": [
+        {
+          "identifier": "Q51667982",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/07b/07bbb3ba1370be538059bff475343009.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/07b/07bbb3ba1370be538059bff475343009.jpg"
         }
       ],
-      "name": "Шолохов Александр Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шолохов,_Александр_Михайлович"
+        }
+      ],
+      "name": "Шолохов Александр Михайлович",
+      "other_names": [
+        {
+          "name": "Александр Михайлович Шолохов",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Михайлович Шолохов",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-07-26",
@@ -12105,10 +12128,22 @@
       "birth_date": "1968-12-26",
       "gender": "male",
       "id": "3f0db1ea-7132-4306-b374-3d547e5f97dc",
+      "identifiers": [
+        {
+          "identifier": "Q51667705",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/2cd/2cd3a88d4fd07c7022b42026fec976ed.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/2cd/2cd3a88d4fd07c7022b42026fec976ed.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Натаров_Сергей_Васильевич"
         }
       ],
       "name": "Натаров Сергей Васильевич"
@@ -12477,6 +12512,10 @@
         {
           "identifier": "131181",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50932640",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/522/522f55bc48e70129ec204d5746478089.jpg",
@@ -12485,7 +12524,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/522/522f55bc48e70129ec204d5746478089.jpg"
         }
       ],
-      "name": "Сибагатуллин Фатих Саубанович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сибагатуллин,_Фатих_Саубанович"
+        }
+      ],
+      "name": "Сибагатуллин Фатих Саубанович",
+      "other_names": [
+        {
+          "name": "Сибагатуллин, Фатих Саубанович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Сибагатуллин, Фатих Саубанович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-03-14",
