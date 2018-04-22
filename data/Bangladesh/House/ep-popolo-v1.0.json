@@ -147,7 +147,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=1245"
         }
       ],
-      "name": "Shahida Tarekh Dipti"
+      "name": "Shahida Tarekh Dipti",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শহীদা তারেখ দীপ্তি",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -407,7 +414,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=948"
         }
       ],
-      "name": "Mohammad Fazlul Azim"
+      "name": "Mohammad Fazlul Azim",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মোহম্মদ ফজলুল আজিম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2145,7 +2159,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2628"
         }
       ],
-      "name": "Salma Islam"
+      "name": "Salma Islam",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সালমা ইসলাম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -10304,7 +10325,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2402"
         }
       ],
-      "name": "Golam Mostofa Ahmed"
+      "name": "Golam Mostofa Ahmed",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "গোলাম মোস্তাফা আহমেদ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -12117,6 +12145,11 @@
       "name": "Hafiz Uddin Ahmed",
       "other_names": [
         {
+          "lang": "bn",
+          "name": "হাফিজউদ্দিন আহমেদ",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Hafizuddin Ahmed",
           "note": "multilingual"
@@ -13258,6 +13291,11 @@
       "name": "Sagufta Yasmin",
       "other_names": [
         {
+          "lang": "bn",
+          "name": "শগুফতা ইয়াসমিন এমিলি",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Sagufta Yasmin Emily",
           "note": "multilingual"
@@ -14330,6 +14368,11 @@
       ],
       "name": "Abdullah AL Kaisar",
       "other_names": [
+        {
+          "lang": "bn",
+          "name": "আবদুল্লাহ আল কাফি",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Abdullah Al Kafi",
@@ -16072,7 +16115,7 @@
         },
         {
           "lang": "pt",
-          "name": "Partido Nacionalista Awami",
+          "name": "Liga Popular de Bangladesh",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16812,7 +16855,7 @@
         },
         {
           "lang": "eo",
-          "name": "Sendependa",
+          "name": "sendependa politikisto",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16927,6 +16970,12 @@
         {
           "lang": "bs",
           "name": "nezavisni političar",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ps",
+          "name": "آزاد کاندید",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -17365,6 +17414,18 @@
         {
           "lang": "mr",
           "name": "स्वतंत्र (नेता)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "senpartia politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "sendependa",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -27128,6 +27189,19 @@
       "name": "10th Parliament",
       "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
       "start_date": "2014-01-29"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2018-12-31",
+      "id": "Q24906000",
+      "identifiers": [
+        {
+          "identifier": "Q24906000",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Bangladeshi general election, 2018",
+      "start_date": "2018-12-31"
     }
   ],
   "areas": [
