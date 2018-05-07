@@ -1477,6 +1477,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/方榮發"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/方榮發"
         }
       ],
       "name": "Png Eng Huat",
@@ -2017,6 +2021,10 @@
         {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Trần_Khánh_Viêm"
+        },
+        {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/陈庆炎"
         },
         {
           "note": "Wikipedia (yo)",
@@ -5697,6 +5705,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lim_Boon_Heng"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lim_Boon_Heng"
@@ -9448,6 +9460,10 @@
         {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Ngô_Tác_Đống"
+        },
+        {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/吴作栋"
         },
         {
           "note": "Wikipedia (zh)",
@@ -13661,6 +13677,10 @@
           "url": "https://vi.wikipedia.org/wiki/Lý_Hiển_Long"
         },
         {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/李显龙"
+        },
+        {
           "note": "Wikipedia (yo)",
           "url": "https://yo.wikipedia.org/wiki/Lee_Hsien_Loong"
         },
@@ -13821,6 +13841,11 @@
         {
           "lang": "vi",
           "name": "Lý Hiển Long",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "李显龙",
           "note": "multilingual"
         },
         {
@@ -14347,6 +14372,10 @@
           "url": "https://lb.wikipedia.org/wiki/Lee_Kuan_Yew"
         },
         {
+          "note": "Wikipedia (lfn)",
+          "url": "https://lfn.wikipedia.org/wiki/Lee_Kuan_Yew"
+        },
+        {
           "note": "Wikipedia (li)",
           "url": "https://li.wikipedia.org/wiki/Lee_Kuan_Yew"
         },
@@ -14842,11 +14871,6 @@
         },
         {
           "lang": "zh",
-          "name": "李光耀",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-classical",
           "name": "李光耀",
           "note": "multilingual"
         },
@@ -16492,6 +16516,11 @@
       "name": "Lily Neo",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "ليلي تيرتاسانا نيو",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "梁莉莉",
           "note": "multilingual"
@@ -17316,6 +17345,12 @@
         {
           "lang": "ko",
           "name": "노동당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Laborista Partio de Singapuro",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -31105,6 +31140,19 @@
       "name": "13th Parliament",
       "organization_id": "5f27a768-1cb5-410b-8f3e-abf76b7ee07e",
       "start_date": "2016-01-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2021-01-15",
+      "id": "Q20983901",
+      "identifiers": [
+        {
+          "identifier": "Q20983901",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Next Singaporean general election",
+      "start_date": "2021-01-15"
     }
   ],
   "areas": [
