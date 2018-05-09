@@ -447,7 +447,7 @@
         },
         {
           "note": "Wikipedia (cy)",
-          "url": "https://cy.wikipedia.org/wiki/Bethan_Jenkins"
+          "url": "https://cy.wikipedia.org/wiki/Bethan_Sayed"
         },
         {
           "note": "Wikipedia (en)",
@@ -3668,7 +3668,14 @@
           "url": "https://en.wikipedia.org/wiki/Altaf_Hussain_(Welsh_politician)"
         }
       ],
-      "name": "Altaf Hussain"
+      "name": "Altaf Hussain",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আলতাফ হুসেন",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4830,12 +4837,20 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rosemary_Butler"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Rosemary_Butler"
         },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rosemary_Butler_(politician)"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Rosemary_Butler"
         },
         {
           "note": "facebook",
@@ -4972,6 +4987,10 @@
         {
           "identifier": "mr-simon-thomas",
           "scheme": "hansard"
+        },
+        {
+          "identifier": "F246789",
+          "scheme": "national_archives"
         },
         {
           "identifier": "Q3405148",
@@ -6014,6 +6033,14 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Eluned_Parrott"
+        },
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Eluned_Parrott"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Eluned_Parrott"
         },
@@ -6683,7 +6710,7 @@
         },
         {
           "lang": "eo",
-          "name": "Sendependa",
+          "name": "sendependa politikisto",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6803,7 +6830,7 @@
         },
         {
           "lang": "ps",
-          "name": "آزاد کاندید",
+          "name": "خپلواک کاندید",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7242,6 +7269,18 @@
         {
           "lang": "mr",
           "name": "स्वतंत्र (नेता)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "senpartia politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "sendependa",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
