@@ -1570,6 +1570,12 @@
     },
     {
       "birth_date": "1962-07-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "OfficialMasisi"
+        }
+      ],
       "gender": "male",
       "id": "e7dc8874-a76a-46db-bbd6-9eb2a6b78a4e",
       "identifiers": [
@@ -1586,6 +1592,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mokgweetsi_Masisi.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mokgweetsi_Masisi.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (af)",
@@ -1594,6 +1606,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Mokgweetsi_Masisi"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μογκουέτσι_Μασίσι"
         },
         {
           "note": "Wikipedia (en)",
@@ -1629,7 +1645,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Мокветси_Масиси"
+          "url": "https://ru.wikipedia.org/wiki/Масиси,_Мокветси"
         },
         {
           "note": "Wikipedia (sv)",
@@ -1642,6 +1658,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Мокгвітсі_Масісі"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/OfficialMasisi"
         }
       ],
       "name": "Mokgweetsi Masisi",
@@ -1655,8 +1675,23 @@
           "note": "alternate"
         },
         {
+          "lang": "el",
+          "name": "Μογκουέτσι Μασίσι",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "モクウィツィ・マシシ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Масиси, Мокветси",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Мокгвітсі Масісі",
           "note": "multilingual"
         },
         {
@@ -2007,6 +2042,12 @@
         {
           "lang": "eo",
           "name": "Bocvana Demokratia Partio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "δημοκρατικό κόμμα της Μποτσουάνα",
           "note": "multilingual",
           "source": "wikidata-label"
         },
