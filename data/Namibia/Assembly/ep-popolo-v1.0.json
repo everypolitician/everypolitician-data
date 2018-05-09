@@ -473,6 +473,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no90023123",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "36477979",
           "scheme": "viaf"
         },
@@ -1266,6 +1270,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "207d36b3-535a-4194-85a1-0aa0dc964ef4",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "name": "Martin Andjaba"
     },
     {
       "id": "2094ed6e-e6cb-4aee-b476-86fcf948e738",
@@ -2427,6 +2441,10 @@
           "url": "https://af.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ثيو_بن_غوريراب"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
@@ -2473,6 +2491,11 @@
       ],
       "name": "Gurirab Theo Ben",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ثيو بن غوريراب",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Theo-Ben Gurirab",
@@ -5767,6 +5790,16 @@
         }
       ],
       "name": "Themistokles Dudu Murorua"
+    },
+    {
+      "id": "a7edbcf2-295c-4966-86a2-e4f1642b3bc6",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "name": "Paula Kooper"
     },
     {
       "id": "a9df27c3-3efd-46b8-8db9-db038effd079",
@@ -10936,6 +10969,18 @@
     },
     {
       "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "207d36b3-535a-4194-85a1-0aa0dc964ef4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1497:martin-andjaba-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
       "person_id": "2094ed6e-e6cb-4aee-b476-86fcf948e738",
@@ -14723,6 +14768,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1355:themistokles-dudu-murorua&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "a7edbcf2-295c-4966-86a2-e4f1642b3bc6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1494:paula-kooper-all&catid=104&Itemid=1479"
         }
       ]
     },
