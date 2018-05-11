@@ -8512,6 +8512,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Augusto_Santos_Silva"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أوقستو_سانتوس_سيلفا"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Augusto_Santos_Silva"
         },
@@ -8558,6 +8562,11 @@
       ],
       "name": "Augusto Santos Silva",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "أوقستو سانتوس سيلفا",
+          "note": "multilingual"
+        },
         {
           "lang": "fa",
           "name": "آوگوستو سانتوس سیلوا",
@@ -9722,6 +9731,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0063829",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "210",
           "scheme": "parlamento"
         },
@@ -10585,6 +10598,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:António_Guterres"
+        },
+        {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:António_Guterres"
         },
         {
           "note": "Wikinews (ru)",
@@ -11549,6 +11566,10 @@
           "url": "https://an.wikipedia.org/wiki/Diogo_Freitas_do_Amaral"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ديوغو_دي_فريتاس_دو_امارال"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Diogo_Freitas_do_Amaral"
         },
@@ -11634,6 +11655,11 @@
         {
           "lang": "an",
           "name": "Diogo Freitas do Amaral",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "ديوغو دي فريتاس دو امارال",
           "note": "multilingual"
         },
         {
@@ -13867,6 +13893,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Miguel_Frasquilho"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Miguel_Frasquilho"
@@ -16448,6 +16478,10 @@
           "url": "https://fr.wikipedia.org/wiki/António_Serrano"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/António_Serrano"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/António_Serrano"
         }
@@ -17408,6 +17442,18 @@
         {
           "identifier": "/m/0552dr",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1074948645",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nb2004312636",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "n2008075570",
+          "scheme": "nukat"
         },
         {
           "identifier": "1264",
@@ -25038,7 +25084,14 @@
           "url": "https://pt.wikipedia.org/wiki/Carlos_Pereira"
         }
       ],
-      "name": "Carlos Pereira"
+      "name": "Carlos Pereira",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Carlos João Pereira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1940-09-30",
@@ -31958,7 +32011,7 @@
     {
       "birth_date": "1946-04-18",
       "gender": "male",
-      "given_name": "Fernando",
+      "given_name": "Fernando José",
       "id": "d81ad630-fb59-4c88-b2ba-9890497fe016",
       "identifiers": [
         {
@@ -34127,6 +34180,7 @@
     },
     {
       "birth_date": "1949-05-18",
+      "family_name": "Santos",
       "gender": "male",
       "given_name": "António",
       "id": "e670367b-7d5b-4a24-b50e-b06f8e74c78a",
@@ -41007,7 +41061,7 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "de",
+          "lang": "en",
           "name": "PSD",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -41041,12 +41095,6 @@
           "name": "PPD/PSD",
           "note": "multilingual",
           "source": "wikidata-alias"
-        },
-        {
-          "lang": "pt",
-          "name": "PSD",
-          "note": "multilingual",
-          "source": "wikidata-alias"
         }
       ]
     },
@@ -41070,6 +41118,12 @@
         {
           "lang": "en",
           "name": "National Solidarity Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Solidaridad Nacional",
           "note": "multilingual",
           "source": "wikidata-label"
         },
