@@ -473,6 +473,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no90023123",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "36477979",
           "scheme": "viaf"
         },
@@ -2427,6 +2431,10 @@
           "url": "https://af.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ثيو_بن_غوريراب"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
@@ -2473,6 +2481,11 @@
       ],
       "name": "Gurirab Theo Ben",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ثيو بن غوريراب",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Theo-Ben Gurirab",
@@ -5361,6 +5374,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "9d9e2cf4-d4e5-47b6-aa76-7d38f74c3bf5",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "name": "Martin Andjaba"
     },
     {
       "birth_date": "1960-08-02",
@@ -8901,6 +8924,16 @@
         }
       ],
       "name": "Nekundi, Veikko"
+    },
+    {
+      "id": "f91f974e-3806-4336-99e7-f003698cf2d4",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "name": "Paula Kooper"
     },
     {
       "id": "f984e9b8-b1df-4fb7-8801-42020af6fd81",
@@ -14523,6 +14556,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "9d9e2cf4-d4e5-47b6-aa76-7d38f74c3bf5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1497:martin-andjaba-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
@@ -16919,6 +16964,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1241:nekundi-veikko-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "f91f974e-3806-4336-99e7-f003698cf2d4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1494:paula-kooper-all&catid=104&Itemid=1479"
         }
       ]
     },
