@@ -1238,17 +1238,12 @@
       ]
     },
     {
-      "birth_date": "1971-01-09",
       "gender": "male",
       "id": "167cb300-304c-4abb-b070-08bfc92013fc",
       "identifiers": [
         {
           "identifier": "1413",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20426350",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://dpr.go.id/doksigota/photo/1413.jpg",
@@ -1257,14 +1252,7 @@
           "url": "http://dpr.go.id/doksigota/photo/1413.jpg"
         }
       ],
-      "name": "ADIAN YUNUS YUSAK NAPITUPULU, SH",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Adian Yunus Yusak Napitupulu",
-          "note": "multilingual"
-        }
-      ]
+      "name": "ADIAN YUNUS YUSAK NAPITUPULU, SH"
     },
     {
       "gender": "male",
@@ -3059,6 +3047,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Fadel_Muhammad"
+        },
+        {
+          "note": "Wikipedia (gor)",
+          "url": "https://gor.wikipedia.org/wiki/Fadel_Muhammad"
         },
         {
           "note": "Wikipedia (id)",
@@ -6063,6 +6055,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olly_Dondokambey"
+        },
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Olly_Dondokambey"
@@ -9866,6 +9862,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "n2008219977",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "343558130",
           "scheme": "nta"
         },
@@ -13161,7 +13161,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Moreno_Suprapto"
+          "url": "https://en.wikipedia.org/wiki/Moreno_Soeprapto"
         },
         {
           "note": "Wikipedia (id)",
@@ -15362,12 +15362,6 @@
         },
         {
           "lang": "id",
-          "name": "Partai Gerindra",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "id",
           "name": "Gerakan Indonesia Raya",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -15381,6 +15375,24 @@
         {
           "lang": "en",
           "name": "Gerindra",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Partai Gerindra",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Gerindra Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Great Indonesia Movement",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -15735,24 +15747,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "id",
-          "name": "Partai Kebangkitan Bangsa",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "jv",
-          "name": "Partai Kebangkitan Bangsa",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ms",
-          "name": "Partai Kebangkitan Bangsa",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "ru",
           "name": "Партия национального пробуждения",
           "note": "multilingual",
@@ -15773,12 +15767,6 @@
         {
           "lang": "th",
           "name": "พรรคการตื่นตัวแห่งชาติ",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cs",
-          "name": "Partai Kebangkitan Bangsa",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15829,6 +15817,18 @@
           "name": "国民覚醒党",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Partai Kebangkitan Bangsa",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "PKB",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -15850,18 +15850,6 @@
       "name": "National Democrat Party Faction",
       "other_names": [
         {
-          "lang": "id",
-          "name": "Partai NasDem",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "jv",
-          "name": "Partai Nasional Demokrat",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "en",
           "name": "Nasdem Party",
           "note": "multilingual",
@@ -15874,7 +15862,19 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "id",
+          "lang": "en",
+          "name": "National Democrat Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Partai NasDem",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
           "name": "Partai Nasional Demokrat",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -15899,12 +15899,6 @@
       "name": "National Mandate Party Faction",
       "other_names": [
         {
-          "lang": "nl",
-          "name": "Partai Amanat Nasional",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "en",
           "name": "National Mandate Party",
           "note": "multilingual",
@@ -15913,24 +15907,6 @@
         {
           "lang": "fr",
           "name": "Parti du mandat national",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "id",
-          "name": "Partai Amanat Nasional",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "jv",
-          "name": "Partai Amanat Nasional",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ms",
-          "name": "Partai Amanat Nasional",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15991,6 +15967,18 @@
         {
           "lang": "ja",
           "name": "国民信託党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Partai Amanat Nasional",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "PAN",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
