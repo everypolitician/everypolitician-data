@@ -250,6 +250,10 @@
       "sort_name": "Henare, Tau"
     },
     {
+      "id": "06fe838d-f7ce-4744-88aa-f74488779add",
+      "name": "64"
+    },
+    {
       "birth_date": "1955-09-11",
       "contact_details": [
         {
@@ -1593,6 +1597,10 @@
       "sort_name": "Mitchell, Mark"
     },
     {
+      "id": "16ef3ac6-0aeb-4ab3-a4cf-2ea2807eb4d2",
+      "name": "Labour"
+    },
+    {
       "birth_date": "1956-08-02",
       "gender": "female",
       "given_name": "Judy",
@@ -1611,6 +1619,10 @@
       ],
       "name": "Judy Turner",
       "sort_name": "Turner, Judy"
+    },
+    {
+      "id": "18424f64-20b5-416c-8119-b1ff42d80935",
+      "name": "121"
     },
     {
       "birth_date": "1963-04-30",
@@ -1974,6 +1986,10 @@
       ],
       "name": "Louise Upston",
       "sort_name": "Upston, Louise"
+    },
+    {
+      "id": "2122ebfb-90ba-463c-892f-8694eeccf699",
+      "name": "National"
     },
     {
       "birth_date": "1972-02-17",
@@ -5456,6 +5472,10 @@
       "sort_name": "Hawkins, George"
     },
     {
+      "id": "5b608a82-50d5-45b5-b3dd-82010b0c8765",
+      "name": "57"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -7939,6 +7959,10 @@
         }
       ],
       "sort_name": "Beyer, Georgina"
+    },
+    {
+      "id": "7d99c771-b41b-4119-91e6-cff4e0d1d555",
+      "name": "Mana"
     },
     {
       "birth_date": "1940-09-24",
@@ -11034,6 +11058,10 @@
       "name": "Claudette Hauiti"
     },
     {
+      "id": "b83ad3b5-53f2-4e14-92f1-011aa0d4241b",
+      "name": "NZ First"
+    },
+    {
       "birth_date": "1985-12-10",
       "contact_details": [
         {
@@ -12410,6 +12438,10 @@
       "sort_name": "Dyson, Ruth"
     },
     {
+      "id": "cc4c4b81-7ce0-4663-b4e7-a6085e3aade3",
+      "name": "Māori CS"
+    },
+    {
       "birth_date": "1946",
       "gender": "male",
       "id": "cec99c28-79c0-4b98-a516-4ce4eae413d5",
@@ -13011,6 +13043,10 @@
       "sort_name": "Faafoi, Kris"
     },
     {
+      "id": "d08641ab-84db-4ba5-9a4f-6a5aaddd8631",
+      "name": "Green"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -13417,6 +13453,10 @@
         }
       ],
       "sort_name": "Flavell, Te Ururoa"
+    },
+    {
+      "id": "d9ad61d6-fb18-4a12-9074-4a24f5f78c86",
+      "name": "ACT CS"
     },
     {
       "birth_date": "1980-02-11",
@@ -14433,6 +14473,10 @@
         }
       ],
       "sort_name": "Muller, Todd"
+    },
+    {
+      "id": "e735c4ce-9b98-4efd-9129-876dd43add00",
+      "name": "7"
     },
     {
       "birth_date": "1949-05-22",
@@ -15488,6 +15532,10 @@
       "sort_name": "Barnett, Tim"
     },
     {
+      "id": "f67cbdf4-8026-425b-a231-a111c602d523",
+      "name": "Independent Coalition"
+    },
+    {
       "gender": "male",
       "id": "f881d626-6174-4b1d-a381-3ddc43f61656",
       "identifiers": [
@@ -15588,6 +15636,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "fbaeb9ad-9cd2-4e07-8263-182ad917cb76",
+      "name": "United Future CS"
     },
     {
       "birth_date": "1946-07-26",
@@ -19654,6 +19706,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -20098,6 +20155,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "06fe838d-f7ce-4744-88aa-f74488779add",
+      "role": "member"
+    },
+    {
       "area_id": "area/rangitīkei",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "party/new_zealand_national_party",
@@ -20490,11 +20555,27 @@
       ]
     },
     {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "16ef3ac6-0aeb-4ab3-a4cf-2ea2807eb4d2",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/united_future",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "176db1a3-0488-4dc1-bf52-d95dc3547fcb",
+      "role": "member"
+    },
+    {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "18424f64-20b5-416c-8119-b1ff42d80935",
       "role": "member"
     },
     {
@@ -20681,6 +20762,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/upston-louise/"
         }
       ]
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "2122ebfb-90ba-463c-892f-8694eeccf699",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -22157,6 +22246,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "5b608a82-50d5-45b5-b3dd-82010b0c8765",
+      "role": "member"
+    },
+    {
       "area_id": "area/tāmaki_makaurau",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
@@ -22923,6 +23020,14 @@
       "on_behalf_of_id": "party/labour",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "7bf5229d-ce0c-4878-a170-98a826d94526",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "7d99c771-b41b-4119-91e6-cff4e0d1d555",
       "role": "member"
     },
     {
@@ -24347,6 +24452,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "b83ad3b5-53f2-4e14-92f1-011aa0d4241b",
+      "role": "member"
+    },
+    {
       "area_id": "area/botany",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "party/new_zealand_national_party",
@@ -25001,6 +25114,14 @@
       ]
     },
     {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "cc4c4b81-7ce0-4663-b4e7-a6085e3aade3",
+      "role": "member"
+    },
+    {
       "area_id": "area/x-06_te_tai_tonga",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -25111,6 +25232,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/faafoi-kris/"
         }
       ]
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "d08641ab-84db-4ba5-9a4f-6a5aaddd8631",
+      "role": "member"
     },
     {
       "area_id": "area/east_coast_bays",
@@ -25305,6 +25434,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/flavell-te-ururoa/"
         }
       ]
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "d9ad61d6-fb18-4a12-9074-4a24f5f78c86",
+      "role": "member"
     },
     {
       "area_id": "area/auckland_central",
@@ -25735,6 +25872,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/muller-todd/"
         }
       ]
+    },
+    {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "e735c4ce-9b98-4efd-9129-876dd43add00",
+      "role": "member"
     },
     {
       "area_id": "area/manukau_east",
@@ -26191,6 +26336,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "f67cbdf4-8026-425b-a231-a111c602d523",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -26212,6 +26365,14 @@
       "on_behalf_of_id": "party/green",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "fa834001-d80c-413f-a54f-5f75c520f286",
+      "role": "member"
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "fbaeb9ad-9cd2-4e07-8263-182ad917cb76",
       "role": "member"
     },
     {
@@ -27059,6 +27220,56 @@
   ],
   "areas": [
     {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
+    {
       "id": "area/aoraki",
       "identifiers": [
         {
@@ -27878,6 +28089,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
