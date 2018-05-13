@@ -473,6 +473,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no90023123",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "36477979",
           "scheme": "viaf"
         },
@@ -2427,6 +2431,10 @@
           "url": "https://af.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ثيو_بن_غوريراب"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
@@ -2473,6 +2481,11 @@
       ],
       "name": "Gurirab Theo Ben",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ثيو بن غوريراب",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Theo-Ben Gurirab",
@@ -5846,6 +5859,16 @@
       "name": "Sibungo, Heather Mwiza"
     },
     {
+      "id": "aafc862f-f5e7-47c3-ae99-1714b3bedc93",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "name": "Martin Andjaba"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -6830,6 +6853,16 @@
       "name": "Kandumbu, Marina"
     },
     {
+      "id": "cb4bd102-3390-4a51-87c8-94da30dae3d5",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "name": "Paula Kooper"
+    },
+    {
       "birth_date": "1954-09-11",
       "gender": "female",
       "given_name": "Marlene",
@@ -7311,7 +7344,7 @@
     {
       "birth_date": "1956-03-18",
       "gender": "female",
-      "given_name": "Rebecca",
+      "given_name": "Pitufina",
       "id": "da444f23-ef9a-46f7-bf2f-fdd84520c9a7",
       "identifiers": [
         {
@@ -14812,6 +14845,18 @@
     },
     {
       "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "aafc862f-f5e7-47c3-ae99-1714b3bedc93",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1497:martin-andjaba-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
       "person_id": "ab2ea378-8650-4704-88fb-f6affa0957ec",
@@ -15443,6 +15488,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1239:kandumbu-marina-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "cb4bd102-3390-4a51-87c8-94da30dae3d5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1494:paula-kooper-all&catid=104&Itemid=1479"
         }
       ]
     },
