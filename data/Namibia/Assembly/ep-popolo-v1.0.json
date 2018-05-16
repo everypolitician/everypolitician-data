@@ -473,6 +473,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no90023123",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "36477979",
           "scheme": "viaf"
         },
@@ -2084,6 +2088,16 @@
       ]
     },
     {
+      "id": "3b083d57-26db-442a-b1c1-6cb2821d701d",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "name": "Martin Andjaba"
+    },
+    {
       "id": "3d04bc54-3abb-4cb1-adad-441e66f47cf6",
       "identifiers": [
         {
@@ -2427,6 +2441,10 @@
           "url": "https://af.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ثيو_بن_غوريراب"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
@@ -2473,6 +2491,11 @@
       ],
       "name": "Gurirab Theo Ben",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ثيو بن غوريراب",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Theo-Ben Gurirab",
@@ -6812,6 +6835,16 @@
         }
       ],
       "name": "Barnes \"Barney\" Leonard"
+    },
+    {
+      "id": "c92dbb70-c4f8-4b99-9926-06f351fc0505",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "name": "Paula Kooper"
     },
     {
       "id": "caec7f5a-f677-47ca-a0c6-7fde23ee6dc3",
@@ -11691,6 +11724,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "3b083d57-26db-442a-b1c1-6cb2821d701d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1497:martin-andjaba-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "NUDO",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
@@ -15431,6 +15476,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=835:barnes-barney-l-1st&catid=120&Itemid=1374"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "c92dbb70-c4f8-4b99-9926-06f351fc0505",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1494:paula-kooper-all&catid=104&Itemid=1479"
         }
       ]
     },
