@@ -1121,6 +1121,7 @@
           "value": "AnnelyAkkerman"
         }
       ],
+      "family_name": "Akkermann",
       "gender": "female",
       "id": "0aeb54ce-94ae-4c60-94bf-221862ffceef",
       "identifiers": [
@@ -3386,7 +3387,7 @@
       "birth_date": "1952-09-02",
       "family_name": "Lotman",
       "gender": "male",
-      "given_name": "Mihhail",
+      "given_name": "Mikhail",
       "id": "27d0adba-ae78-49f3-9348-24df60add19e",
       "identifiers": [
         {
@@ -5853,6 +5854,10 @@
         {
           "identifier": "/m/0fx21d",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "n2016022535",
+          "scheme": "lcauth"
         },
         {
           "identifier": "302871986",
@@ -9680,6 +9685,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Yoko_Alender"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/يوكو_أليندر"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yoko_Alender"
         },
@@ -9696,7 +9705,14 @@
           "url": "https://twitter.com/YokoAlender"
         }
       ],
-      "name": "Yoko Alender"
+      "name": "Yoko Alender",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "يوكو أليندر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-03-19",
@@ -13854,68 +13870,8 @@
           "note": "alternate"
         },
         {
-          "lang": "ca",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lt",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
           "lang": "ru",
           "name": "Пентус-Розиманнус, Кейт",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sk",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sl",
-          "name": "Keit Pentus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Keit Pentus",
           "note": "multilingual"
         },
         {
@@ -15013,6 +14969,10 @@
         {
           "identifier": "74be76ab-c833-4ae8-89bc-6e4c7bc3f7fd",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "74be76ab-c833-4ae8-89bc-6e4c7bc3f7fd",
+          "scheme": "riigikogu"
         },
         {
           "identifier": "Q12365130",
@@ -16349,6 +16309,12 @@
           "name": "המפלגה החופשית",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Свободная партия Эстонии",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -16617,7 +16583,7 @@
         },
         {
           "lang": "be-tarask",
-          "name": "Беспартыйны",
+          "name": "незалежны палітык",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16647,7 +16613,7 @@
         },
         {
           "lang": "eo",
-          "name": "Sendependa",
+          "name": "sendependa politikisto",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16767,7 +16733,7 @@
         },
         {
           "lang": "ps",
-          "name": "آزاد کاندید",
+          "name": "خپلواک کاندید",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16792,6 +16758,18 @@
         {
           "lang": "zh",
           "name": "獨立候選人",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -17126,12 +17104,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "be-tarask",
-          "name": "Беспартыйны палітык",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "nb",
           "name": "uavhengig",
           "note": "multilingual",
@@ -17206,6 +17178,18 @@
         {
           "lang": "mr",
           "name": "स्वतंत्र (नेता)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "senpartia politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "sendependa",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
