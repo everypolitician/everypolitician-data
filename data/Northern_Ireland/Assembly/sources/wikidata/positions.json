@@ -911,8 +911,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -1017,6 +1017,18 @@
         "P2715": "United Kingdom general election, 1970",
         "P1534": "dissolution of parliament"
       }
+    },
+    {
+      "id": "Q28872303",
+      "label": "member of the 1973-74 Northern Ireland Assembly",
+      "title": "member of the 1973-74 Northern Ireland Assembly",
+      "description": "members of the 1973-4 Assembly"
+    },
+    {
+      "id": "Q19462434",
+      "label": "Member of the Parliament of Northern Ireland",
+      "title": "Member of the Parliament of Northern Ireland",
+      "description": "Elected member of the 1921-72 Northern Irish Parliament"
     }
   ],
   "Q4685214": [
@@ -2161,8 +2173,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -2561,8 +2573,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -2590,6 +2602,12 @@
         "P1534": "dissolution of parliament",
         "P2937": "50th United Kingdom Parliament"
       }
+    },
+    {
+      "id": "Q28872303",
+      "label": "member of the 1973-74 Northern Ireland Assembly",
+      "title": "member of the 1973-74 Northern Ireland Assembly",
+      "description": "members of the 1973-4 Assembly"
     }
   ],
   "Q21130106": [
@@ -3157,7 +3175,8 @@
         "P2715": "United Kingdom general election, 2017",
         "P2937": "57th United Kingdom Parliament",
         "P582": "2018-01-15",
-        "P1534": "resignation"
+        "P1534": "resignation",
+        "P1366": "Órfhlaith Begley"
       }
     },
     {
@@ -4197,8 +4216,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -4535,17 +4554,6 @@
   ],
   "Q3476695": [
     {
-      "id": "Q18043391",
-      "label": "senator of Ireland",
-      "title": "senator of Ireland",
-      "description": "Irish senator",
-      "qualifiers": {
-        "P768": "Nominated members of Seanad Éireann",
-        "P580": "1982-02-18",
-        "P582": "1982-11-24"
-      }
-    },
-    {
       "id": "Q23729452",
       "label": "deputy First Minister",
       "title": "deputy First Minister",
@@ -4599,8 +4607,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -4640,6 +4648,25 @@
         "P2715": "UK Parliamentary by-election",
         "P1534": "dissolution of parliament",
         "P2937": "49th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q28872303",
+      "label": "member of the 1973-74 Northern Ireland Assembly",
+      "title": "member of the 1973-74 Northern Ireland Assembly",
+      "description": "members of the 1973-4 Assembly"
+    },
+    {
+      "id": "Q18043391",
+      "label": "senator of Ireland",
+      "title": "senator of Ireland",
+      "description": "Irish senator",
+      "qualifiers": {
+        "P582": "1982-12-21",
+        "P580": "1982-05-13",
+        "P768": "Nominated members of Seanad Éireann",
+        "P4100": "independent politician",
+        "P2937": "16th Seanad"
       }
     }
   ],
@@ -5657,8 +5684,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -5715,16 +5742,6 @@
       }
     },
     {
-      "id": "Q18043391",
-      "label": "senator of Ireland",
-      "title": "senator of Ireland",
-      "description": "Irish senator",
-      "qualifiers": {
-        "P580": "1983-02",
-        "P582": "1987-04"
-      }
-    },
-    {
       "id": "Q24321898",
       "label": "Minister for Agriculture and Rural Development",
       "title": "Minister for Agriculture and Rural Development",
@@ -5746,6 +5763,19 @@
         "P582": "2003-04-28",
         "P1534": "dissolution of parliament",
         "P2937": "1st Northern Ireland Assembly"
+      }
+    },
+    {
+      "id": "Q18043391",
+      "label": "senator of Ireland",
+      "title": "senator of Ireland",
+      "description": "Irish senator",
+      "qualifiers": {
+        "P582": "1987-04-03",
+        "P580": "1983-02-23",
+        "P768": "Nominated members of Seanad Éireann",
+        "P4100": "independent politician",
+        "P2937": "17th Seanad"
       }
     }
   ],
@@ -5829,8 +5859,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -5851,8 +5881,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -6218,7 +6248,11 @@
     {
       "id": "Q28841847",
       "label": "Member of the Privy Council of the United Kingdom",
-      "title": "Member of the Privy Council of the United Kingdom"
+      "title": "Member of the Privy Council of the United Kingdom",
+      "qualifiers": {
+        "P580": "1998",
+        "P2715": "1998 New Year Honours"
+      }
     },
     {
       "id": "Q35921591",
@@ -6821,7 +6855,7 @@
       "id": "Q19462434",
       "label": "Member of the Parliament of Northern Ireland",
       "title": "Member of the Parliament of Northern Ireland",
-      "description": "formerly elected Representative in Northern Ireland",
+      "description": "Elected member of the 1921-72 Northern Irish Parliament",
       "qualifiers": {
         "P580": "1969-02-24",
         "P582": "1972-03-30",
@@ -6874,8 +6908,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -6968,6 +7002,12 @@
         "P582": "2004-07-19",
         "P4100": "Group of the Party of European Socialists"
       }
+    },
+    {
+      "id": "Q28872303",
+      "label": "member of the 1973-74 Northern Ireland Assembly",
+      "title": "member of the 1973-74 Northern Ireland Assembly",
+      "description": "members of the 1973-4 Assembly"
     }
   ],
   "Q28867994": [
@@ -7315,8 +7355,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -8658,8 +8698,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -9058,8 +9098,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -9492,8 +9532,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -9520,7 +9560,7 @@
       "id": "Q19462434",
       "label": "Member of the Parliament of Northern Ireland",
       "title": "Member of the Parliament of Northern Ireland",
-      "description": "formerly elected Representative in Northern Ireland",
+      "description": "Elected member of the 1921-72 Northern Irish Parliament",
       "qualifiers": {
         "P580": "1965-11-25",
         "P582": "1972-03-30",
@@ -9573,8 +9613,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -9628,6 +9668,12 @@
         "P2715": "Strangford by-election, 1986",
         "P2937": "49th United Kingdom Parliament"
       }
+    },
+    {
+      "id": "Q28872303",
+      "label": "member of the 1973-74 Northern Ireland Assembly",
+      "title": "member of the 1973-74 Northern Ireland Assembly",
+      "description": "members of the 1973-4 Assembly"
     }
   ],
   "Q6830268": [
@@ -9857,8 +9903,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -10201,8 +10247,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -10382,8 +10428,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -11363,8 +11409,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -12030,8 +12076,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
@@ -12312,7 +12358,8 @@
         "P768": "Lagan Valley",
         "P580": "2003-06-23",
         "P582": "2004-01-04",
-        "P2937": "53rd United Kingdom Parliament"
+        "P2937": "53rd United Kingdom Parliament",
+        "P1534": "joining party"
       }
     },
     {
@@ -12370,8 +12417,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -12890,8 +12937,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -13123,8 +13170,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     },
     {
@@ -13463,8 +13510,8 @@
     },
     {
       "id": "Q37845660",
-      "label": "Member of the Northern Ireland Assembly",
-      "title": "Member of the Northern Ireland Assembly",
+      "label": "Member of the 1982-1986 Northern Ireland Assembly",
+      "title": "Member of the 1982-1986 Northern Ireland Assembly",
       "description": "member of the 1982 Northern Ireland Assembly"
     }
   ],
