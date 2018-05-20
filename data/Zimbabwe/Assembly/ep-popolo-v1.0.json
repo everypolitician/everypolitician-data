@@ -2206,6 +2206,9 @@
       "images": [
         {
           "url": "http://www.kuvakazim.com/media_root/images/chamisa_nelson_copy-150x175.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Nelson_Chamisa_2.jpg"
         }
       ],
       "links": [
@@ -2214,11 +2217,22 @@
           "url": "https://en.wikipedia.org/wiki/Nelson_Chamisa"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nelson_Chamisa"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Нельсон_Чамиза"
         }
       ],
       "name": "Nelson Chamisa",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Нельсон Чамиза",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Chamisa, Nelson",
       "summary": "Kuwadzana East Member of the National Assembly & Former Minister of Information, Communication & Technology (2009-2013)."
     },
@@ -6059,7 +6073,7 @@
         },
         {
           "lang": "be-tarask",
-          "name": "Беспартыйны",
+          "name": "незалежны палітык",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6089,7 +6103,7 @@
         },
         {
           "lang": "eo",
-          "name": "Sendependa",
+          "name": "sendependa politikisto",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6209,7 +6223,7 @@
         },
         {
           "lang": "ps",
-          "name": "آزاد کاندید",
+          "name": "خپلواک کاندید",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6234,6 +6248,18 @@
         {
           "lang": "zh",
           "name": "獨立候選人",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -6568,12 +6594,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "be-tarask",
-          "name": "Беспартыйны палітык",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "nb",
           "name": "uavhengig",
           "note": "multilingual",
@@ -6650,6 +6670,18 @@
           "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "senpartia politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "sendependa",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -6685,6 +6717,12 @@
         {
           "lang": "ja",
           "name": "民主変革運動",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement pour le changement démocratique – Ncube",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -9383,6 +9421,19 @@
       "name": "8th Parliament",
       "organization_id": "ef03883e-e4c9-490a-bd50-d3b05bcb9562",
       "start_date": "2013-09-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2018-07",
+      "id": "Q23058296",
+      "identifiers": [
+        {
+          "identifier": "Q23058296",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Zimbabwean general election, 2018",
+      "start_date": "2018-07"
     }
   ],
   "areas": [
