@@ -4,6 +4,10 @@
   ],
   "persons": [
     {
+      "id": "00317b66-2364-427b-9ad7-71e67ef09d01",
+      "name": "57"
+    },
+    {
       "gender": "male",
       "given_name": "Russell",
       "id": "00929fa2-b819-4ea8-be36-f7a800455ab8",
@@ -69,6 +73,10 @@
       ],
       "name": "Chris Penk",
       "sort_name": "Penk, Chris"
+    },
+    {
+      "id": "0110f299-34a5-4309-9349-48e20605e6d4",
+      "name": "64"
     },
     {
       "birth_date": "1945-01-17",
@@ -697,6 +705,10 @@
       ],
       "name": "Parmjeet Parmar",
       "sort_name": "Parmar, Parmjeet"
+    },
+    {
+      "id": "0d948cb5-dfbc-483c-bf0a-2267682b3d4b",
+      "name": "United Future CS"
     },
     {
       "birth_date": "1953-06-22",
@@ -2195,6 +2207,10 @@
         }
       ],
       "sort_name": "Bennett, Paula"
+    },
+    {
+      "id": "2a59409e-03b4-4920-b860-afe4493cbd4f",
+      "name": "121"
     },
     {
       "birth_date": "1944-05-17",
@@ -5543,6 +5559,10 @@
       "sort_name": "Pillay, Lynne"
     },
     {
+      "id": "5e338b51-9710-4748-9e78-5bab00dafc5f",
+      "name": "Mana"
+    },
+    {
       "birth_date": "1967-01-15",
       "contact_details": [
         {
@@ -5891,6 +5911,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "6559e5e9-ea11-4632-a2ce-b90753b00f63",
+      "name": "NZ First"
     },
     {
       "birth_date": "1976",
@@ -7109,6 +7133,10 @@
       "sort_name": "Prime, Willow-Jean"
     },
     {
+      "id": "73cd8386-3075-4425-97c0-343e858dc952",
+      "name": "Māori CS"
+    },
+    {
       "birth_date": "1950",
       "gender": "male",
       "given_name": "Tim",
@@ -7229,6 +7257,10 @@
       ],
       "name": "Michael Wood",
       "sort_name": "Wood, Michael"
+    },
+    {
+      "id": "74728031-28ec-4a13-8fe8-b723155b7cc6",
+      "name": "National"
     },
     {
       "birth_date": "1939-07-09",
@@ -9697,6 +9729,14 @@
       ]
     },
     {
+      "id": "9c802d36-ee09-4240-8e48-3446b30c818d",
+      "name": "Independent Coalition"
+    },
+    {
+      "id": "9eed18b7-dd7a-496c-ab56-c21e0f633fa9",
+      "name": "Green"
+    },
+    {
       "birth_date": "1948-11-13",
       "family_name": "Smith",
       "gender": "male",
@@ -10084,6 +10124,10 @@
         }
       ],
       "name": "Katrina Shanks"
+    },
+    {
+      "id": "aafd3084-f94e-4cc5-b684-8421ae26d70d",
+      "name": "7"
     },
     {
       "birth_date": "1964-05-08",
@@ -14181,6 +14225,10 @@
       "sort_name": "Joyce, Steven"
     },
     {
+      "id": "e5d9dad5-2b58-49b5-9a42-0c5dd6a993fe",
+      "name": "ACT CS"
+    },
+    {
       "birth_date": "1960-06-07",
       "gender": "female",
       "id": "e61b4631-5b29-42e7-97b6-dfd1315f3566",
@@ -14433,6 +14481,10 @@
         }
       ],
       "sort_name": "Muller, Todd"
+    },
+    {
+      "id": "e6fc2470-36d4-401b-8e3e-039492a934ac",
+      "name": "Labour"
     },
     {
       "birth_date": "1949-05-22",
@@ -19654,6 +19706,11 @@
     },
     {
       "classification": "party",
+      "id": "party/overview",
+      "name": "Overview"
+    },
+    {
+      "classification": "party",
       "id": "party/progressive",
       "identifiers": [
         {
@@ -19984,6 +20041,14 @@
   },
   "memberships": [
     {
+      "area_id": "area/57",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "00317b66-2364-427b-9ad7-71e67ef09d01",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -20003,6 +20068,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/penk-chris/"
         }
       ]
+    },
+    {
+      "area_id": "area/64",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "0110f299-34a5-4309-9349-48e20605e6d4",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -20306,6 +20379,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/parmar-parmjeet/"
         }
       ]
+    },
+    {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "0d948cb5-dfbc-483c-bf0a-2267682b3d4b",
+      "role": "member"
     },
     {
       "area_id": "area/mount_roskill",
@@ -20811,6 +20892,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/bennett-paula/"
         }
       ]
+    },
+    {
+      "area_id": "area/121",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "2a59409e-03b4-4920-b860-afe4493cbd4f",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -22199,6 +22288,14 @@
       "role": "member"
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "5e338b51-9710-4748-9e78-5bab00dafc5f",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "party/new_zealand_first",
@@ -22326,6 +22423,14 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "635a72a6-684d-4782-8d31-5f330df67b5f",
+      "role": "member"
+    },
+    {
+      "area_id": "area/8",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "6559e5e9-ea11-4632-a2ce-b90753b00f63",
       "role": "member"
     },
     {
@@ -22678,6 +22783,14 @@
       ]
     },
     {
+      "area_id": "area/3",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "73cd8386-3075-4425-97c0-343e858dc952",
+      "role": "member"
+    },
+    {
       "area_id": "area/list",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -22727,6 +22840,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/wood-michael/"
         }
       ]
+    },
+    {
+      "area_id": "area/59",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "74728031-28ec-4a13-8fe8-b723155b7cc6",
+      "role": "member"
     },
     {
       "area_id": "area/list",
@@ -23664,6 +23785,22 @@
       "role": "member"
     },
     {
+      "area_id": "area/not_yet_founded",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9c802d36-ee09-4240-8e48-3446b30c818d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/14",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "9eed18b7-dd7a-496c-ab56-c21e0f633fa9",
+      "role": "member"
+    },
+    {
       "area_id": "area/rodney",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/national",
@@ -23913,6 +24050,14 @@
       "on_behalf_of_id": "party/new_zealand_national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "a8777d35-16ff-430b-a825-ecd892f92c09",
+      "role": "member"
+    },
+    {
+      "area_id": "area/7",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "aafd3084-f94e-4cc5-b684-8421ae26d70d",
       "role": "member"
     },
     {
@@ -25637,6 +25782,14 @@
       ]
     },
     {
+      "area_id": "area/1",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "e5d9dad5-2b58-49b5-9a42-0c5dd6a993fe",
+      "role": "member"
+    },
+    {
       "area_id": "area/christchurch_east",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -25735,6 +25888,14 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/muller-todd/"
         }
       ]
+    },
+    {
+      "area_id": "area/34",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/overview",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "e6fc2470-36d4-401b-8e3e-039492a934ac",
+      "role": "member"
     },
     {
       "area_id": "area/manukau_east",
@@ -27059,6 +27220,56 @@
   ],
   "areas": [
     {
+      "id": "area/1",
+      "name": "1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/121",
+      "name": "121",
+      "type": "constituency"
+    },
+    {
+      "id": "area/14",
+      "name": "14",
+      "type": "constituency"
+    },
+    {
+      "id": "area/3",
+      "name": "3",
+      "type": "constituency"
+    },
+    {
+      "id": "area/34",
+      "name": "34",
+      "type": "constituency"
+    },
+    {
+      "id": "area/57",
+      "name": "57",
+      "type": "constituency"
+    },
+    {
+      "id": "area/59",
+      "name": "59",
+      "type": "constituency"
+    },
+    {
+      "id": "area/64",
+      "name": "64",
+      "type": "constituency"
+    },
+    {
+      "id": "area/7",
+      "name": "7",
+      "type": "constituency"
+    },
+    {
+      "id": "area/8",
+      "name": "8",
+      "type": "constituency"
+    },
+    {
       "id": "area/aoraki",
       "identifiers": [
         {
@@ -27878,6 +28089,11 @@
           "note": "multilingual"
         }
       ],
+      "type": "constituency"
+    },
+    {
+      "id": "area/not_yet_founded",
+      "name": "Not yet founded",
       "type": "constituency"
     },
     {
