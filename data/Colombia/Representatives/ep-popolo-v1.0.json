@@ -977,8 +977,28 @@
       "id": "3277d538-c20d-4e47-9f7e-c86d05afe912",
       "identifiers": [
         {
+          "identifier": "16091618t",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "137235534",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 6316 2948",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2009049850",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "86316103",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6173648",
@@ -2750,7 +2770,6 @@
       "name": "DIELA LILIANA BENAVIDES SOLARTE"
     },
     {
-      "birth_date": "1970-10-16",
       "contact_details": [
         {
           "type": "email",
@@ -2762,17 +2781,11 @@
         }
       ],
       "email": "wilson.cordoba@camara.gov.co",
-      "gender": "male",
-      "given_name": "Wilson",
       "id": "6d78aa1c-4360-4024-9b3a-113c531f1c7f",
       "identifiers": [
         {
           "identifier": "294",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20022294",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/CORDOBA%20MENA%20WILSON.jpg",
@@ -2781,25 +2794,7 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/CORDOBA%20MENA%20WILSON.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Wilson_Córdoba"
-        }
-      ],
-      "name": "WILSON CORDOBA MENA",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Wilson Córdoba Mena",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Wilson Córdoba",
-          "note": "multilingual"
-        }
-      ]
+      "name": "WILSON CORDOBA MENA"
     },
     {
       "birth_date": "1976",
@@ -4234,6 +4229,14 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/María_Fernanda_Cabal"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/MariaFdaCabal"
+        },
+        {
+          "note": "website",
+          "url": "https://mariafernandacabal.co/"
         }
       ],
       "name": "MARÍA FERNANDA CABAL MOLINA",
@@ -4679,6 +4682,10 @@
         {
           "identifier": "138092516",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "211273",
+          "scheme": "gtaa"
         },
         {
           "identifier": "0000 0001 0922 7429",
@@ -6281,6 +6288,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Rodrigo_Lara_Restrepo"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/RodrigoLaraR"
         }
       ],
       "name": "RODRIGO LARA RESTREPO"
@@ -6349,21 +6360,16 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Jaime_Buenahora"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jaimebuenahora"
         }
       ],
       "name": "JAIME BUENAHORA FEBRES",
       "other_names": [
         {
-          "name": "Jaime Buenahora",
-          "note": "alternate"
-        },
-        {
-          "lang": "es",
-          "name": "Jaime Buenahora",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
+          "lang": "en",
           "name": "Jaime Buenahora",
           "note": "multilingual"
         }
@@ -6542,6 +6548,12 @@
         {
           "lang": "ca",
           "name": "Centre Democràtic",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Demokratikus Központ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6867,6 +6879,12 @@
         {
           "lang": "es",
           "name": "Verda Partio",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza Verde",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -7572,12 +7590,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "en",
-          "name": "Alternative Democratic Pole",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "it",
           "name": "Polo Democratico Alternativo",
           "note": "multilingual",
@@ -7592,6 +7604,18 @@
         {
           "lang": "ko",
           "name": "대안 민주주의 극점",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Alternative Democratic Pole",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Pol Democràtic Alternatiu",
           "note": "multilingual",
           "source": "wikidata-label"
         },
