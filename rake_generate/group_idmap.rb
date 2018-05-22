@@ -10,6 +10,14 @@ require 'pathname'
 # will be given a new UUID.
 #-----------------------------------------------------------------------
 
+class String
+  # from csv-to-popolo
+  def idify
+    return if to_s.empty?
+    downcase.gsub(/\s+/, '_')
+  end
+end
+
 namespace :generate do
   desc 'Generate idmap/group files from Wikidata mapping'
   task :groupidmaps do
@@ -19,7 +27,8 @@ namespace :generate do
     mapping = CSV.parse(wikidata.read, headers: true, header_converters: :symbol).map { |r| [r[:id], r.to_h] }.to_h
 
     @INSTRUCTIONS.sources_of_type('membership').each do |src|
-      gids = src.as_table.map { |r| r[:group_id] }.uniq
+      gids = src.as_table.map { |r| r[:group_id] || r[:group].to_s.idify }.uniq
+
       known_groups_in_source = gids & mapping.keys
       data = known_groups_in_source.map do |id|
         [id, mapping[id][:uuid] ||= SecureRandom.uuid]
