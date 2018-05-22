@@ -8,6 +8,7 @@ module Source
       super.each do |r|
         # if the source has no ID, generate one
         r[:id] = r[:name].downcase.gsub(/\s+/, '_') if r[:id].to_s.empty?
+        r[:group_id] = r[:group].downcase.gsub(/\s+/, '_') if r[:group_id].to_s.empty? && !r[:group].to_s.empty?
 
         # remap any group_id fields to our local UUID for them
         # For now we silently ignore any that are not mapped.
