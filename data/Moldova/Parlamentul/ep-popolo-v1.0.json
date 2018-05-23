@@ -80,7 +80,14 @@
       "sort_name": "Goța Aliona"
     },
     {
+      "gender": "male",
       "id": "0742e286-a513-496d-af9e-aa592820113c",
+      "identifiers": [
+        {
+          "identifier": "Q51570024",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
@@ -378,20 +385,42 @@
       "sort_name": "Dudnic Corneliu"
     },
     {
+      "birth_date": "1982",
+      "gender": "male",
       "id": "0d68ffd3-dc6a-4c20-b2e4-2c25228ebfd8",
       "identifiers": [
         {
           "identifier": "537",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20821033",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=9dUNU6fkzNM%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
           "url": "http://www.parlament.md/LinkClick.aspx?fileticket=9dUNU6fkzNM%3d&tabid=87&mid=476&language=en-US"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vasile_Bolea_(2015-01-24).png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Vasile_Bolea"
         }
       ],
       "name": "Vasile Bolea",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Stelian Stoica",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bolea Vasile"
     },
     {
