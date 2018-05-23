@@ -1873,11 +1873,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "64b0cc58-175d-406d-b2ce-5c76fe12bfa6",
       "identifiers": [
         {
           "identifier": "riad_rahal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q51546345",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Riad_Rahal"
         }
       ],
       "name": "Riad Rahal"
@@ -3776,14 +3787,37 @@
       ]
     },
     {
+      "death_date": "2010-04",
+      "gender": "male",
       "id": "acad7d71-4105-4c6c-a78a-aa500ec41b64",
       "identifiers": [
         {
           "identifier": "hachem_alameddine",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3125434",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Hachem Alameddine"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هاشم_علم_الدين"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hachem_Alameddine"
+        }
+      ],
+      "name": "Hachem Alameddine",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هاشم علم الدين",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1931-11-08",
