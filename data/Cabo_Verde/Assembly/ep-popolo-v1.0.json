@@ -49,6 +49,10 @@
         {
           "identifier": "208",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43389063",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=208",
@@ -57,7 +61,20 @@
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=208"
         }
       ],
-      "name": "Nilda Maria Gonçalves de Pina Fernandes"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nilda_Maria_(politician)"
+        }
+      ],
+      "name": "Nilda Maria Gonçalves de Pina Fernandes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nilda Maria",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -274,12 +291,17 @@
       "name": "Dúnia Alice Monteiro Moreira de Almeida Pereira"
     },
     {
+      "birth_date": "1956-08",
       "gender": "female",
       "id": "35c54e4b-6e2d-4b8c-9540-1becf9d4536b",
       "identifiers": [
         {
           "identifier": "236",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q45965970",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=236",
@@ -288,7 +310,20 @@
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=236"
         }
       ],
-      "name": "Eunice Andrade da Silva Spencer Lopes"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eunice_Silva"
+        }
+      ],
+      "name": "Eunice Andrade da Silva Spencer Lopes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eunice Silva",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1352,12 +1387,26 @@
       "name": "Lívio Fernandes Lopes"
     },
     {
+      "birth_date": "1956",
       "gender": "male",
+      "given_name": "Rui",
       "id": "c67d8dae-22bc-4c0a-921a-ba1377ae1393",
+      "identifiers": [
+        {
+          "identifier": "Q7378692",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=324",
       "images": [
         {
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=324"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rui_Alberto_de_Figueiredo_Soares"
         }
       ],
       "name": "Rui Alberto de Figueiredo Soares"
@@ -1580,12 +1629,18 @@
       "name": "Dália de Anunciação Delgado Vieira de Andrade Benholiel"
     },
     {
+      "birth_date": "1955-08-31",
       "gender": "male",
+      "given_name": "Aristides",
       "id": "df43d355-a62d-4614-a9c7-608f4a65195d",
       "identifiers": [
         {
           "identifier": "256",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2861382",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=256",
@@ -1594,7 +1649,37 @@
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=256"
         }
       ],
-      "name": "Aristides Raimundo Lima"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aristides_Lima"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aristides_Raimundo_Lima"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Aristides_Lima"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Лима,_Аристидеш_Раймунду"
+        }
+      ],
+      "name": "Aristides Raimundo Lima",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Aristides Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Аристидеш Раймунду Лима",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
