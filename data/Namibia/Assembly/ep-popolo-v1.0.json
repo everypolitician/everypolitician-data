@@ -473,6 +473,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no90023123",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "36477979",
           "scheme": "viaf"
         },
@@ -1095,6 +1099,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "1ad9916c-f45f-49df-a5a5-e272fc941500",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_andjaba.JPG"
+        }
+      ],
+      "name": "Martin Andjaba"
     },
     {
       "birth_date": "1960-03-21",
@@ -2427,6 +2441,10 @@
           "url": "https://af.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ثيو_بن_غوريراب"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Theo-Ben_Gurirab"
         },
@@ -2473,6 +2491,11 @@
       ],
       "name": "Gurirab Theo Ben",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ثيو بن غوريراب",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Theo-Ben Gurirab",
@@ -2865,6 +2888,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Frans_Kapofi"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Frans_Kapofi"
@@ -5189,6 +5216,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Albert_Kawana"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Albert_Kawana"
         }
@@ -6152,6 +6183,16 @@
         }
       ],
       "name": "Mouton J. Andreas"
+    },
+    {
+      "id": "b6add0cb-2dff-407b-bce7-c8009356706d",
+      "image": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.na/images/nationalassemblymembers/6thparliament/hon_kooper.jpg"
+        }
+      ],
+      "name": "Paula Kooper"
     },
     {
       "birth_date": "1959-07-27",
@@ -10767,6 +10808,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "1ad9916c-f45f-49df-a5a5-e272fc941500",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1497:martin-andjaba-all&catid=104&Itemid=1479"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "SWAPO",
       "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
@@ -15011,6 +15064,18 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=817:mouton-j-andreas&catid=121&Itemid=1373"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/_unknown",
+      "organization_id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "person_id": "b6add0cb-2dff-407b-bce7-c8009356706d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.na/index.php?option=com_contact&view=contact&id=1494:paula-kooper-all&catid=104&Itemid=1479"
         }
       ]
     },
