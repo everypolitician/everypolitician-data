@@ -1,11 +1,12 @@
 {
   "sources": [
     {
-      "file": "google/sheet-13.csv",
+      "file": "morph/p39s.csv",
       "create": {
-        "url": "https://docs.google.com/spreadsheets/d/1TMDfyfw8Olem6QolgCAG-sotyDdye7nkCb0kUhuKHNc/export?gid=2119213388&format=csv"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/estonia-riigikogu-members-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "http://riigikogu.ee/",
       "type": "membership"
     },
     {
