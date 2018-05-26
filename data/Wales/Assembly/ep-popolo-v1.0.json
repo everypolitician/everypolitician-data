@@ -1408,6 +1408,16 @@
       ]
     },
     {
+      "id": "2f96ebaa-2e17-4853-b4a6-dc9c8f38ba54",
+      "image": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/6/7/3/Info00006376/bigpic.jpg"
+        }
+      ],
+      "name": "Vacant"
+    },
+    {
       "birth_date": "1959-06-18",
       "contact_details": [
         {
@@ -5960,6 +5970,23 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "Jack.Sargeant@assembly.wales"
+        }
+      ],
+      "email": "Jack.Sargeant@assembly.wales",
+      "id": "ed95ef90-1483-4554-aef2-b69a43c002be",
+      "image": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg",
+      "images": [
+        {
+          "url": "http://senedd.assembly.wales/UserData/1/7/5/Info00006571/bigpic.jpg"
+        }
+      ],
+      "name": "Jack Sargeant"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "Keith.Davies@assembly.wales"
         },
         {
@@ -8103,6 +8130,11 @@
         }
       ],
       "srgb": "FDBB30"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -8514,6 +8546,19 @@
       "sources": [
         {
           "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=185"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "2f96ebaa-2e17-4853-b4a6-dc9c8f38ba54",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6376"
         }
       ]
     },
@@ -8950,6 +8995,32 @@
     {
       "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
       "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/welsh_labour",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
@@ -8983,6 +9054,19 @@
       "sources": [
         {
           "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=225"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:south_wales_central",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "6ea66d0e-77e6-42b0-9e22-f71d00ea9f44",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=255"
         }
       ]
     },
@@ -9668,6 +9752,20 @@
       ]
     },
     {
+      "area_id": "ocd-division/country:gb-wls/region:north_wales/constituency:alyn_and_deeside",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/welsh_labour",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "ed95ef90-1483-4554-aef2-b69a43c002be",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6571"
+        }
+      ],
+      "start_date": "2018-02-07"
+    },
+    {
       "area_id": "ocd-division/country:gb-wls/region:mid_and_west_wales/constituency:llanelli",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "party/welsh_labour",
@@ -9881,6 +9979,11 @@
     }
   ],
   "areas": [
+    {
+      "id": "ocd-division/country:gb-wls/region:",
+      "name": "",
+      "type": "constituency"
+    },
     {
       "id": "ocd-division/country:gb-wls/region:mid_and_west_wales",
       "name": "Mid and West Wales",
