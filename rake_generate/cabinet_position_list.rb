@@ -23,6 +23,7 @@ namespace :generate do
       SELECT ?item ?itemLabel WHERE {
         ?item wdt:P279* wd:Q83307 ; wdt:P361 wd:#{c_json[:cabinet]}.
         SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+        # date = #{Time.now}
       }
     SPARQL
 
