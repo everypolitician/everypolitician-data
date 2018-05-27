@@ -24,8 +24,8 @@ namespace :generate do
         ?item wdt:P279* wd:Q83307 ; wdt:P361 wd:#{c_json[:cabinet]}.
         SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
       }
+      ORDER BY ?item
     SPARQL
-
     data = sparql(position_query).map(&:to_h)
 
     csv_head = [%w[id label type]]
