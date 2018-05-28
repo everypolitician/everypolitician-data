@@ -6382,21 +6382,75 @@
       ]
     },
     {
+      "birth_date": "1959-09-03",
       "contact_details": [
         {
           "type": "email",
           "value": "shane.jones@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "mangonui08"
         }
       ],
       "email": "shane.jones@parliament.govt.nz",
+      "family_name": "Jones",
+      "gender": "male",
+      "given_name": "Shane",
       "id": "69cb44a5-0dc2-4d6c-bec8-256520f94156",
+      "identifiers": [
+        {
+          "identifier": "Q7488117",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/3811/jones-shane.DmxNWg.jpg",
       "images": [
         {
           "url": "https://www.parliament.nz/media/3811/jones-shane.DmxNWg.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Shane_Jones.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/476088244484833280/lwQvHIjr.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Shane_Jones_(politician)"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/شاين_جونز"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shane_Jones"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Shane_Jones"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mangonui08"
         }
       ],
       "name": "Shane Jones",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "شاين جونز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Шейн Джонс",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Jones, Shane"
     },
     {
@@ -12298,70 +12352,6 @@
         }
       ],
       "sort_name": "Laban, Winnie"
-    },
-    {
-      "birth_date": "1959-09-03",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "mangonui08"
-        }
-      ],
-      "family_name": "Jones",
-      "gender": "male",
-      "given_name": "Shane",
-      "id": "cb057388-df96-4bbe-b09f-40e6c48809b7",
-      "identifiers": [
-        {
-          "identifier": "Q7488117",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Shane_Jones.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Shane_Jones.jpg"
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/476088244484833280/lwQvHIjr.jpeg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Shane_Jones_(politician)"
-        },
-        {
-          "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/شاين_جونز"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Shane_Jones"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Shane_Jones"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/mangonui08"
-        }
-      ],
-      "name": "Shane Jones",
-      "other_names": [
-        {
-          "lang": "ar",
-          "name": "شاين جونز",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Шейн Джонс",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Jones, Shane"
     },
     {
       "birth_date": "1943",
@@ -22641,6 +22631,22 @@
     },
     {
       "area_id": "area/list",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/labour",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "69cb44a5-0dc2-4d6c-bec8-256520f94156",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/49",
+      "on_behalf_of_id": "party/new_zealand_labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "69cb44a5-0dc2-4d6c-bec8-256520f94156",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
       "legislative_period_id": "term/52",
       "on_behalf_of_id": "party/nz_first",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -25067,22 +25073,6 @@
       "on_behalf_of_id": "party/new_zealand_labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
       "person_id": "cad05a97-badc-4118-b6c7-e6aa24bd3ed2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/48",
-      "on_behalf_of_id": "party/labour",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "cb057388-df96-4bbe-b09f-40e6c48809b7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/49",
-      "on_behalf_of_id": "party/new_zealand_labour_party",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "cb057388-df96-4bbe-b09f-40e6c48809b7",
       "role": "member"
     },
     {
