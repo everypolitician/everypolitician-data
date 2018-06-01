@@ -910,7 +910,7 @@
       ],
       "email": "charles.cooper@parlamento.cw",
       "gender": "male",
-      "given_name": "Charles",
+      "given_name": "pico",
       "id": "e2f4924f-cc39-4ae9-a04e-d50e76042c11",
       "identifiers": [
         {
@@ -1396,6 +1396,18 @@
         {
           "lang": "ps",
           "name": "خپلواک کاندید",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lmo",
+          "name": "Independent",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vi",
+          "name": "Chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2449,19 +2461,6 @@
     }
   ],
   "events": [
-    {
-      "classification": "general election",
-      "end_date": "1985-11-22",
-      "id": "Q41054305",
-      "identifiers": [
-        {
-          "identifier": "Q41054305",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Statenverkiezingen Aruba 1985",
-      "start_date": "1985-11-22"
-    },
     {
       "classification": "general election",
       "end_date": "1995",
