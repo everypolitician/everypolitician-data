@@ -136,6 +136,12 @@
         "P768": null,
         "P2715": "Italian general election, 2013"
       }
+    },
+    {
+      "id": "Q83307",
+      "label": "minister",
+      "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government"
     }
   ],
   "Q16566836": [
@@ -4657,6 +4663,15 @@
         "P4100": "Five Star Movement",
         "P768": null
       }
+    },
+    {
+      "id": "Q4011164",
+      "label": "Vice President of the Council of Ministers of Italy",
+      "title": "Vice President of the Council of Ministers of Italy",
+      "description": "position in Italian Government",
+      "qualifiers": {
+        "P580": "2018-06-01"
+      }
     }
   ],
   "Q16560407": [
@@ -4889,6 +4904,19 @@
         "P2937": "17th Legislature of Italy",
         "P4100": "Forza Italia",
         "P768": null
+      }
+    },
+    {
+      "id": "Q27991492",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "1994-05-11",
+        "P582": "1995-01-17",
+        "P1365": "Leopoldo Elia",
+        "P1366": "Susanna Agnelli",
+        "P5054": "Berlusconi I Cabinet"
       }
     }
   ],
@@ -5437,7 +5465,13 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-19",
+        "P768": null,
+        "P2937": "18th Legislature of Italy",
+        "P4100": "Lega Nord"
+      }
     },
     {
       "id": "Q18558478",
@@ -5447,7 +5481,30 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Lega Nord",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-05",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P2937": "16th Legislature of Italy",
+        "P4100": "Lega Nord",
+        "P580": "2008-04-22",
+        "P582": "2013-03-14",
+        "P768": "Lombardie 1"
+      }
+    },
+    {
+      "id": "Q3965289",
+      "label": "Undersecretary to the Presidency of the Council",
+      "title": "Undersecretary to the Presidency of the Council",
+      "qualifiers": {
+        "P580": "2018-06-01"
       }
     }
   ],
@@ -5721,6 +5778,25 @@
         "P2715": "Italian general election, 2013",
         "P768": "Lombardie 1"
       }
+    },
+    {
+      "id": "Q4011164",
+      "label": "Vice President of the Council of Ministers of Italy",
+      "title": "Vice President of the Council of Ministers of Italy",
+      "description": "position in Italian Government",
+      "qualifiers": {
+        "P580": "2018-06-01"
+      }
+    },
+    {
+      "id": "Q1541071",
+      "label": "Italian Minister of the Interior",
+      "title": "Italian Minister of the Interior",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2018-06-01",
+        "P1365": "Marco Minniti"
+      }
     }
   ],
   "Q16577172": [
@@ -5766,7 +5842,14 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008-04-29",
+        "P582": "2013-03-14",
+        "P2937": "16th Legislature of Italy",
+        "P4100": "Democratic Party",
+        "P768": null
+      }
     },
     {
       "id": "Q18558478",
@@ -5776,7 +5859,9 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
-        "P768": null
+        "P768": null,
+        "P580": "2013-03-15",
+        "P582": "2018-03-22"
       }
     }
   ],
@@ -7727,9 +7812,10 @@
       "title": "Italian Minister of Regional Affairs and Autonomies",
       "qualifiers": {
         "P580": "2016-01-29",
-        "P582": "2017-07-19",
+        "P582": "2016-12-12",
         "P1365": "Maria Carmela Lanzetta",
-        "P1366": "Paolo Gentiloni"
+        "P1366": "Enrico Costa",
+        "P5054": "Renzi Cabinet"
       }
     },
     {
@@ -7751,6 +7837,18 @@
       "qualifiers": {
         "P2937": "16th Legislature of Italy",
         "P768": "Piemonte 2"
+      }
+    },
+    {
+      "id": "Q33125109",
+      "label": "Italian Minister of Regional Affairs and Autonomies",
+      "title": "Italian Minister of Regional Affairs and Autonomies",
+      "qualifiers": {
+        "P580": "2016-12-12",
+        "P582": "2017-07-19",
+        "P1365": "Enrico Costa",
+        "P1366": "Erika Stefani",
+        "P5054": "Gentiloni Cabinet"
       }
     }
   ],
@@ -8196,7 +8294,8 @@
       "title": "Undersecretary to the Presidency of the Council",
       "qualifiers": {
         "P580": "2016-12-12",
-        "P1365": "Claudio De Vincenti"
+        "P1365": "Claudio De Vincenti",
+        "P582": "2018-06-01"
       }
     },
     {
@@ -8208,7 +8307,30 @@
         "P2937": "17th Legislature of Italy",
         "P4100": "Democratic Party",
         "P768": null,
-        "P580": "2013-03-15"
+        "P580": "2013-03-15",
+        "P582": "2018-03-22"
+      }
+    },
+    {
+      "id": "Q18558478",
+      "label": "member of the Chamber of Deputies of the Italian Republic",
+      "title": "member of the Chamber of Deputies of the Italian Republic",
+      "description": "deputy in the house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2018-03-09",
+        "P4100": "Democratic Party",
+        "P768": null,
+        "P2937": "18th Legislature of Italy"
+      }
+    },
+    {
+      "id": "Q27999166",
+      "label": "Italian Minister for Parliamentary Relations",
+      "title": "Italian Minister for Parliamentary Relations",
+      "description": "member of the Cabinet of the Italian Republic",
+      "qualifiers": {
+        "P580": "2014-02-22",
+        "P582": "2016-12-12"
       }
     }
   ],
@@ -8531,7 +8653,8 @@
         "P580": "2014-02-22",
         "P582": "2014-10-31",
         "P1365": "Emma Bonino",
-        "P1366": "Paolo Gentiloni"
+        "P1366": "Paolo Gentiloni",
+        "P5054": "Renzi Cabinet"
       }
     },
     {
@@ -9980,8 +10103,9 @@
       "description": "position",
       "qualifiers": {
         "P580": "2013-04-28",
-        "P582": "",
-        "P1365": "Annamaria Cancellieri"
+        "P582": "2016-12-12",
+        "P1365": "Annamaria Cancellieri",
+        "P1366": "Marco Minniti"
       }
     },
     {
@@ -10010,9 +10134,10 @@
       "id": "Q4011164",
       "label": "Vice President of the Council of Ministers of Italy",
       "title": "Vice President of the Council of Ministers of Italy",
+      "description": "position in Italian Government",
       "qualifiers": {
         "P580": "2013-04-28",
-        "P582": "2014-02-21"
+        "P582": "2014-02-22"
       }
     },
     {
@@ -10024,6 +10149,18 @@
         "P2937": "17th Legislature of Italy",
         "P4100": "Popular Area",
         "P768": "Piémont 1"
+      }
+    },
+    {
+      "id": "Q27991492",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2016-12-12",
+        "P582": "2018-06-01",
+        "P1365": "Paolo Gentiloni",
+        "P1366": "Enzo Moavero Milanesi"
       }
     }
   ],
@@ -12639,7 +12776,7 @@
         "P1365": "Matteo Renzi",
         "P1545": "57",
         "P1366": "Giuseppe Conte",
-        "P582": "2018-05-23",
+        "P582": "2018-06-01",
         "P748": "Sergio Mattarella"
       }
     },
@@ -12652,7 +12789,8 @@
         "P580": "2014-10-31",
         "P1365": "Federica Mogherini",
         "P582": "2016-12-12",
-        "P1366": "Angelino Alfano"
+        "P1366": "Angelino Alfano",
+        "P5054": "Renzi Cabinet"
       }
     },
     {
@@ -12674,38 +12812,7 @@
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P580": "2001-05-30",
-        "P582": "2006-04-27"
-      }
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy",
-      "qualifiers": {
-        "P580": "2006-04-28",
-        "P582": "2008-04-28"
-      }
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy",
-      "qualifiers": {
-        "P580": "2008-04-29",
-        "P582": "2013-03-14"
-      }
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy",
-      "qualifiers": {
-        "P2937": "17th Legislature of Italy",
-        "P4100": "Democratic Party",
-        "P768": null
+        "P2937": "14th Legislature of Italy"
       }
     }
   ],
