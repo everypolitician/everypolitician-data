@@ -1731,7 +1731,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/adema",
+      "id": "adema",
       "identifiers": [
         {
           "identifier": "Q2838240",
@@ -1853,7 +1853,7 @@
     },
     {
       "classification": "party",
-      "id": "party/adp-maliba",
+      "id": "adp-maliba",
       "identifiers": [
         {
           "identifier": "Q17108709",
@@ -1872,12 +1872,12 @@
     },
     {
       "classification": "party",
-      "id": "party/arp",
+      "id": "arp",
       "name": "ARP"
     },
     {
       "classification": "party",
-      "id": "party/asma",
+      "id": "asma",
       "identifiers": [
         {
           "identifier": "Q16965545",
@@ -1896,7 +1896,7 @@
     },
     {
       "classification": "party",
-      "id": "party/cds",
+      "id": "cds",
       "identifiers": [
         {
           "identifier": "Q2996342",
@@ -1921,12 +1921,12 @@
     },
     {
       "classification": "party",
-      "id": "party/cfp",
+      "id": "cfp",
       "name": "CFP"
     },
     {
       "classification": "party",
-      "id": "party/cnid",
+      "id": "cnid",
       "identifiers": [
         {
           "identifier": "Q2993172",
@@ -1981,7 +1981,7 @@
     },
     {
       "classification": "party",
-      "id": "party/codem",
+      "id": "codem",
       "identifiers": [
         {
           "identifier": "Q2996380",
@@ -2018,7 +2018,7 @@
     },
     {
       "classification": "party",
-      "id": "party/fare",
+      "id": "fare",
       "identifiers": [
         {
           "identifier": "Q17012038",
@@ -2037,7 +2037,7 @@
     },
     {
       "classification": "party",
-      "id": "party/ind",
+      "id": "ind",
       "identifiers": [
         {
           "identifier": "Q327591",
@@ -2914,7 +2914,7 @@
     },
     {
       "classification": "party",
-      "id": "party/miria",
+      "id": "miria",
       "identifiers": [
         {
           "identifier": "Q3326779",
@@ -2939,7 +2939,7 @@
     },
     {
       "classification": "party",
-      "id": "party/mpr",
+      "id": "mpr",
       "identifiers": [
         {
           "identifier": "Q958794",
@@ -2977,7 +2977,7 @@
     },
     {
       "classification": "party",
-      "id": "party/parena",
+      "id": "parena",
       "identifiers": [
         {
           "identifier": "Q3366626",
@@ -3008,7 +3008,7 @@
     },
     {
       "classification": "party",
-      "id": "party/pdes",
+      "id": "pdes",
       "identifiers": [
         {
           "identifier": "Q16976628",
@@ -3027,7 +3027,7 @@
     },
     {
       "classification": "party",
-      "id": "party/prvm",
+      "id": "prvm",
       "identifiers": [
         {
           "identifier": "Q16920494",
@@ -3046,12 +3046,12 @@
     },
     {
       "classification": "party",
-      "id": "party/rpdm",
+      "id": "rpdm",
       "name": "RPDM"
     },
     {
       "classification": "party",
-      "id": "party/rpm",
+      "id": "rpm",
       "identifiers": [
         {
           "identifier": "Q3419939",
@@ -3148,7 +3148,7 @@
     },
     {
       "classification": "party",
-      "id": "party/sadi",
+      "id": "sadi",
       "identifiers": [
         {
           "identifier": "Q3489436",
@@ -3209,7 +3209,7 @@
     },
     {
       "classification": "party",
-      "id": "party/udd",
+      "id": "udd",
       "identifiers": [
         {
           "identifier": "Q3550430",
@@ -3240,7 +3240,7 @@
     },
     {
       "classification": "party",
-      "id": "party/um-rda",
+      "id": "um-rda",
       "identifiers": [
         {
           "identifier": "Q16948373",
@@ -3259,7 +3259,7 @@
     },
     {
       "classification": "party",
-      "id": "party/urd",
+      "id": "urd",
       "identifiers": [
         {
           "identifier": "Q3550438",
@@ -3296,12 +3296,12 @@
     },
     {
       "classification": "party",
-      "id": "party/unknown",
+      "id": "unknown",
       "name": "Unknown"
     },
     {
       "classification": "party",
-      "id": "party/yelema",
+      "id": "yelema",
       "identifiers": [
         {
           "identifier": "Q16938382",
@@ -3327,9 +3327,9 @@
   },
   "memberships": [
     {
-      "area_id": "area/commune_iv",
+      "area_id": "commune_iv",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "000eb554-b96f-4c1d-b428-72a78d7c973d",
       "role": "member",
@@ -3340,9 +3340,9 @@
       ]
     },
     {
-      "area_id": "area/commune_i",
+      "area_id": "commune_i",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/codem",
+      "on_behalf_of_id": "codem",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "00976e1e-6eca-42d9-a00b-43cf95f13e02",
       "role": "member",
@@ -3353,9 +3353,9 @@
       ]
     },
     {
-      "area_id": "area/bla",
+      "area_id": "bla",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "018f1aa6-c64c-42b1-aa8a-d90b3edabacd",
       "role": "member",
@@ -3366,9 +3366,9 @@
       ]
     },
     {
-      "area_id": "area/bankass",
+      "area_id": "bankass",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/asma",
+      "on_behalf_of_id": "asma",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0588d931-d677-484c-bd73-2a1d91a02b54",
       "role": "member",
@@ -3379,9 +3379,9 @@
       ]
     },
     {
-      "area_id": "area/kolokani",
+      "area_id": "kolokani",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "06241a16-4fa3-453f-8e3b-28aadfdcb445",
       "role": "member",
@@ -3392,9 +3392,9 @@
       ]
     },
     {
-      "area_id": "area/kita",
+      "area_id": "kita",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "062aa957-25b9-48e9-ba1b-b91bcc0617aa",
       "role": "member",
@@ -3405,9 +3405,9 @@
       ]
     },
     {
-      "area_id": "area/diola",
+      "area_id": "diola",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "069548aa-b66d-42fe-8a02-e48ea41d828c",
       "role": "member",
@@ -3418,9 +3418,9 @@
       ]
     },
     {
-      "area_id": "area/commune_ii",
+      "area_id": "commune_ii",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/codem",
+      "on_behalf_of_id": "codem",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "06eef71d-e586-410f-80e1-862158fc0d38",
       "role": "member",
@@ -3431,9 +3431,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "08c159c8-c86a-4aad-b46b-0a1a5f392a47",
       "role": "member",
@@ -3444,9 +3444,9 @@
       ]
     },
     {
-      "area_id": "area/tominian",
+      "area_id": "tominian",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0a922ce3-360f-42a5-89ff-06ca8e285f0b",
       "role": "member",
@@ -3457,9 +3457,9 @@
       ]
     },
     {
-      "area_id": "area/kolondieba",
+      "area_id": "kolondieba",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sadi",
+      "on_behalf_of_id": "sadi",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0b3753e6-dd4a-4435-a656-f694ae4ea26a",
       "role": "member",
@@ -3470,9 +3470,9 @@
       ]
     },
     {
-      "area_id": "area/koro",
+      "area_id": "koro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/codem",
+      "on_behalf_of_id": "codem",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0bef4a6a-0106-4cfa-af22-fe7aeb2c8cde",
       "role": "member",
@@ -3483,9 +3483,9 @@
       ]
     },
     {
-      "area_id": "area/nioro",
+      "area_id": "nioro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0e0f00e8-401d-4e59-80fe-c03cafc1de19",
       "role": "member",
@@ -3496,9 +3496,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0e18f30e-f220-4ec9-80ee-d47da93782f8",
       "role": "member",
@@ -3509,9 +3509,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sadi",
+      "on_behalf_of_id": "sadi",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "0fd0786c-0cda-4b4a-8177-da2cfe899bdb",
       "role": "member",
@@ -3522,9 +3522,9 @@
       ]
     },
     {
-      "area_id": "area/yanfolila",
+      "area_id": "yanfolila",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "11d804fb-044b-417a-ae90-d7014720ce78",
       "role": "member",
@@ -3535,9 +3535,9 @@
       ]
     },
     {
-      "area_id": "area/nara",
+      "area_id": "nara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adp-maliba",
+      "on_behalf_of_id": "adp-maliba",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "128d1fcf-eba6-4881-93c8-e37f5937e0ef",
       "role": "member",
@@ -3548,9 +3548,9 @@
       ]
     },
     {
-      "area_id": "area/bourem",
+      "area_id": "bourem",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "12fa5838-71b1-46f2-8f1b-2c99bbcee74f",
       "role": "member",
@@ -3561,9 +3561,9 @@
       ]
     },
     {
-      "area_id": "area/tominian",
+      "area_id": "tominian",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/miria",
+      "on_behalf_of_id": "miria",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "14ad0e7f-a1f5-4b5e-90e0-4f33b7391fdb",
       "role": "member",
@@ -3574,9 +3574,9 @@
       ]
     },
     {
-      "area_id": "area/djenne",
+      "area_id": "djenne",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "16364561-b44d-49b2-a8e5-1a2b650bba8a",
       "role": "member",
@@ -3587,9 +3587,9 @@
       ]
     },
     {
-      "area_id": "area/diola",
+      "area_id": "diola",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "16a041ef-be38-413a-a212-ae4348e37ff9",
       "role": "member",
@@ -3600,9 +3600,9 @@
       ]
     },
     {
-      "area_id": "area/san",
+      "area_id": "san",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1a0b8374-a692-4965-8275-062a1be0a630",
       "role": "member",
@@ -3613,9 +3613,9 @@
       ]
     },
     {
-      "area_id": "area/commune_v",
+      "area_id": "commune_v",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adp-maliba",
+      "on_behalf_of_id": "adp-maliba",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1a6051af-d896-4925-bddd-935e62d48ae5",
       "role": "member",
@@ -3626,9 +3626,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/miria",
+      "on_behalf_of_id": "miria",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1b6f53e7-4af1-4dcb-bd92-ae5c9455b56a",
       "role": "member",
@@ -3639,9 +3639,9 @@
       ]
     },
     {
-      "area_id": "area/macina",
+      "area_id": "macina",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/asma",
+      "on_behalf_of_id": "asma",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1bfcc406-5e44-429a-b041-c95d6bb8819c",
       "role": "member",
@@ -3652,9 +3652,9 @@
       ]
     },
     {
-      "area_id": "area/diema",
+      "area_id": "diema",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cnid",
+      "on_behalf_of_id": "cnid",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1cd1bfc4-9d7f-409a-a4a7-85d936ebb1ba",
       "role": "member",
@@ -3665,9 +3665,9 @@
       ]
     },
     {
-      "area_id": "area/diola",
+      "area_id": "diola",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "1cdafd58-130a-4dda-81a5-9585d462780a",
       "role": "member",
@@ -3678,9 +3678,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "2136a4b6-e272-44a6-98d2-da60bfce1d9d",
       "role": "member",
@@ -3691,9 +3691,9 @@
       ]
     },
     {
-      "area_id": "area/koulikoro",
+      "area_id": "koulikoro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "249498bd-dc67-46e4-87cf-990c9fcc8755",
       "role": "member",
@@ -3704,9 +3704,9 @@
       ]
     },
     {
-      "area_id": "area/commune_vi",
+      "area_id": "commune_vi",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "255df79e-7911-4028-b2bd-9bcdd444ee47",
       "role": "member",
@@ -3717,9 +3717,9 @@
       ]
     },
     {
-      "area_id": "area/goundam",
+      "area_id": "goundam",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ind",
+      "on_behalf_of_id": "ind",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "25f70d35-e9d7-46d3-90f7-11a578bbae7a",
       "role": "member",
@@ -3730,9 +3730,9 @@
       ]
     },
     {
-      "area_id": "area/bourem",
+      "area_id": "bourem",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/um-rda",
+      "on_behalf_of_id": "um-rda",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "269fad89-70c0-4d76-824a-5df6203105fb",
       "role": "member",
@@ -3743,9 +3743,9 @@
       ]
     },
     {
-      "area_id": "area/diema",
+      "area_id": "diema",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "27c1eaf9-034f-4d98-8bb4-7e920ebd91c7",
       "role": "member",
@@ -3756,9 +3756,9 @@
       ]
     },
     {
-      "area_id": "area/bankass",
+      "area_id": "bankass",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "27ca8dc2-8f6a-4d76-a303-d064636b504e",
       "role": "member",
@@ -3769,9 +3769,9 @@
       ]
     },
     {
-      "area_id": "area/bla",
+      "area_id": "bla",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "28701688-8e0c-4739-8f31-eb68b0046980",
       "role": "member",
@@ -3782,9 +3782,9 @@
       ]
     },
     {
-      "area_id": "area/bandiagara",
+      "area_id": "bandiagara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "2d4c607a-9798-440a-8bd3-628a9748de40",
       "role": "member",
@@ -3795,9 +3795,9 @@
       ]
     },
     {
-      "area_id": "area/baroueli",
+      "area_id": "baroueli",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "2e9584fa-7b3d-4ba2-bd91-465fb7624db4",
       "role": "member",
@@ -3808,9 +3808,9 @@
       ]
     },
     {
-      "area_id": "area/niono",
+      "area_id": "niono",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adp-maliba",
+      "on_behalf_of_id": "adp-maliba",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "30b6b98c-712b-486f-9f64-593fc786756c",
       "role": "member",
@@ -3821,9 +3821,9 @@
       ]
     },
     {
-      "area_id": "area/niafunke",
+      "area_id": "niafunke",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "30e76cac-5a88-4da4-8033-21e24ab87fbf",
       "role": "member",
@@ -3834,9 +3834,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "31bc95fe-7a89-4d1f-ac84-38269ac6c9cf",
       "role": "member",
@@ -3847,9 +3847,9 @@
       ]
     },
     {
-      "area_id": "area/tombouctou",
+      "area_id": "tombouctou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "32aae390-386c-4ea2-b7da-3c3a5942d151",
       "role": "member",
@@ -3860,9 +3860,9 @@
       ]
     },
     {
-      "area_id": "area/kidal",
+      "area_id": "kidal",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ind",
+      "on_behalf_of_id": "ind",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "3a2ea6e1-5f8e-4088-b330-3819a929746a",
       "role": "member",
@@ -3873,9 +3873,9 @@
       ]
     },
     {
-      "area_id": "area/mopti",
+      "area_id": "mopti",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/arp",
+      "on_behalf_of_id": "arp",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "3b296190-71a1-49dc-abe8-3838faa5a17b",
       "role": "member",
@@ -3886,9 +3886,9 @@
       ]
     },
     {
-      "area_id": "area/menaka",
+      "area_id": "menaka",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ind",
+      "on_behalf_of_id": "ind",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "3eb4d845-9192-4afa-a915-1481c9a80455",
       "role": "member",
@@ -3899,9 +3899,9 @@
       ]
     },
     {
-      "area_id": "area/nioro",
+      "area_id": "nioro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mpr",
+      "on_behalf_of_id": "mpr",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "3f2987a2-d67a-459f-9201-617d7aa54a78",
       "role": "member",
@@ -3912,9 +3912,9 @@
       ]
     },
     {
-      "area_id": "area/bafoulabe",
+      "area_id": "bafoulabe",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "412f2f77-9c2e-48e1-b0bf-2a28592ba167",
       "role": "member",
@@ -3925,9 +3925,9 @@
       ]
     },
     {
-      "area_id": "area/kita",
+      "area_id": "kita",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "41e2824f-64d0-430f-8354-12c02131d58c",
       "role": "member",
@@ -3938,9 +3938,9 @@
       ]
     },
     {
-      "area_id": "area/commune_ii",
+      "area_id": "commune_ii",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "492320e2-5034-4bf0-87e5-5482495b7212",
       "role": "member",
@@ -3951,9 +3951,9 @@
       ]
     },
     {
-      "area_id": "area/niono",
+      "area_id": "niono",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpdm",
+      "on_behalf_of_id": "rpdm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "4a800d1b-4897-45b9-b324-ac1d9a9cc0d1",
       "role": "member",
@@ -3964,9 +3964,9 @@
       ]
     },
     {
-      "area_id": "area/bla",
+      "area_id": "bla",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "4c0bc185-d223-4b88-9f41-6068ec3204de",
       "role": "member",
@@ -3977,9 +3977,9 @@
       ]
     },
     {
-      "area_id": "area/kita",
+      "area_id": "kita",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "4ccfa00a-d255-45f8-a22f-c5899f9ab28b",
       "role": "member",
@@ -3990,9 +3990,9 @@
       ]
     },
     {
-      "area_id": "area/bafoulabe",
+      "area_id": "bafoulabe",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "50ed6174-a779-4d34-9c2c-e01727197f1f",
       "role": "member",
@@ -4003,9 +4003,9 @@
       ]
     },
     {
-      "area_id": "area/san",
+      "area_id": "san",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "55744aca-31d8-47a5-95e3-28884f9c3fd7",
       "role": "member",
@@ -4016,9 +4016,9 @@
       ]
     },
     {
-      "area_id": "area/abeibara",
+      "area_id": "abeibara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "564f49d6-408c-41cc-abd2-4ab0ba9df374",
       "role": "member",
@@ -4029,9 +4029,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "584b5262-c8d9-46c3-8e3a-f358ea734ce6",
       "role": "member",
@@ -4042,9 +4042,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "593b688d-bd5a-4765-b3fd-8d70097d95e5",
       "role": "member",
@@ -4055,9 +4055,9 @@
       ]
     },
     {
-      "area_id": "area/yanfolila",
+      "area_id": "yanfolila",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "597da53c-b585-4514-a1bb-459e22aec336",
       "role": "member",
@@ -4068,9 +4068,9 @@
       ]
     },
     {
-      "area_id": "area/ansongo",
+      "area_id": "ansongo",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "5ca469fb-9db2-4a22-a0c0-629d4788f041",
       "role": "member",
@@ -4081,9 +4081,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "5dbdf6a3-524d-41db-a8de-6918c4ae2120",
       "role": "member",
@@ -4094,9 +4094,9 @@
       ]
     },
     {
-      "area_id": "area/tominian",
+      "area_id": "tominian",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "5dbdf6a3-524d-41db-a8de-6918c4ae2120",
       "role": "member",
@@ -4107,9 +4107,9 @@
       ]
     },
     {
-      "area_id": "area/san",
+      "area_id": "san",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "6039c013-5b0d-4666-9dd3-fa40c11153b9",
       "role": "member",
@@ -4120,9 +4120,9 @@
       ]
     },
     {
-      "area_id": "area/commune_vi",
+      "area_id": "commune_vi",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "6159908b-8107-4ab1-8ce6-ae25d9267420",
       "role": "member",
@@ -4133,9 +4133,9 @@
       ]
     },
     {
-      "area_id": "area/tessalit",
+      "area_id": "tessalit",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "622673bc-d328-4dc0-bc46-7bc1a9270245",
       "role": "member",
@@ -4146,9 +4146,9 @@
       ]
     },
     {
-      "area_id": "area/koro",
+      "area_id": "koro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "6227091f-cde9-4a1f-8c4a-da38666ec07b",
       "role": "member",
@@ -4159,9 +4159,9 @@
       ]
     },
     {
-      "area_id": "area/ansongo",
+      "area_id": "ansongo",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/pdes",
+      "on_behalf_of_id": "pdes",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "627c17e5-fc77-4a09-a1aa-1564360c1782",
       "role": "member",
@@ -4172,9 +4172,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "673ee18c-1ed8-4932-af60-e2cc39d8b7f7",
       "role": "member",
@@ -4185,9 +4185,9 @@
       ]
     },
     {
-      "area_id": "area/tin-essako",
+      "area_id": "tin-essako",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "6cf210b9-1034-4277-958f-8137ddf05b7b",
       "role": "member",
@@ -4198,9 +4198,9 @@
       ]
     },
     {
-      "area_id": "area/baroueli",
+      "area_id": "baroueli",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/yelema",
+      "on_behalf_of_id": "yelema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "719b53cc-5e33-4228-b073-c643d2cb56d6",
       "role": "member",
@@ -4211,9 +4211,9 @@
       ]
     },
     {
-      "area_id": "area/kayes",
+      "area_id": "kayes",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/parena",
+      "on_behalf_of_id": "parena",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "72a9f739-ebc3-4bf7-a1d0-1483a7bc6924",
       "role": "member",
@@ -4224,9 +4224,9 @@
       ]
     },
     {
-      "area_id": "area/kayes",
+      "area_id": "kayes",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/prvm",
+      "on_behalf_of_id": "prvm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "78188563-68d9-4cf3-8269-203bb3625800",
       "role": "member",
@@ -4237,9 +4237,9 @@
       ]
     },
     {
-      "area_id": "area/bafoulabe",
+      "area_id": "bafoulabe",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "7a459c44-ca27-44e0-969e-37134f140819",
       "role": "member",
@@ -4250,9 +4250,9 @@
       ]
     },
     {
-      "area_id": "area/kayes",
+      "area_id": "kayes",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "7d4b6056-9834-4b2a-9986-8e5dc71b85a1",
       "role": "member",
@@ -4263,9 +4263,9 @@
       ]
     },
     {
-      "area_id": "area/nioro",
+      "area_id": "nioro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adp-maliba",
+      "on_behalf_of_id": "adp-maliba",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "7e57f483-97c5-431d-b3cc-8e06285e23e2",
       "role": "member",
@@ -4276,9 +4276,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "8059b96e-c54a-4435-9bcb-5ddefb4edd8b",
       "role": "member",
@@ -4289,9 +4289,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mpr",
+      "on_behalf_of_id": "mpr",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "808221cb-66e2-49cf-9ec5-e16e58232b63",
       "role": "member",
@@ -4302,9 +4302,9 @@
       ]
     },
     {
-      "area_id": "area/tenenkou",
+      "area_id": "tenenkou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "80be1f12-6ea3-47ac-a5c8-29f7905087bd",
       "role": "member",
@@ -4315,9 +4315,9 @@
       ]
     },
     {
-      "area_id": "area/commune_vi",
+      "area_id": "commune_vi",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/udd",
+      "on_behalf_of_id": "udd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "80cc710c-81a8-4e55-8fb0-9c28f70a6d03",
       "role": "member",
@@ -4328,9 +4328,9 @@
       ]
     },
     {
-      "area_id": "area/kangaba",
+      "area_id": "kangaba",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "810ad802-13a6-4d9e-a799-3412e6b02f61",
       "role": "member",
@@ -4341,9 +4341,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "81608ac4-79ff-45df-85a0-2f08ea92dd26",
       "role": "member",
@@ -4354,9 +4354,9 @@
       ]
     },
     {
-      "area_id": "area/gao",
+      "area_id": "gao",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/asma",
+      "on_behalf_of_id": "asma",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "85af793c-f36c-41be-8a81-c1533398980f",
       "role": "member",
@@ -4367,9 +4367,9 @@
       ]
     },
     {
-      "area_id": "area/commune_v",
+      "area_id": "commune_v",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "868db646-4149-487c-84ad-e3aa64a06429",
       "role": "member",
@@ -4380,9 +4380,9 @@
       ]
     },
     {
-      "area_id": "area/niafunke",
+      "area_id": "niafunke",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "88356278-4724-44b6-badd-5b54461acccf",
       "role": "member",
@@ -4393,9 +4393,9 @@
       ]
     },
     {
-      "area_id": "area/kayes",
+      "area_id": "kayes",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/pdes",
+      "on_behalf_of_id": "pdes",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "88a64307-1775-41a4-b729-a73b036a5445",
       "role": "member",
@@ -4406,9 +4406,9 @@
       ]
     },
     {
-      "area_id": "area/bandiagara",
+      "area_id": "bandiagara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "896ce0b6-795e-4c96-8feb-81fe0e10b625",
       "role": "member",
@@ -4419,9 +4419,9 @@
       ]
     },
     {
-      "area_id": "area/diola",
+      "area_id": "diola",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "8c4c53a3-07d5-45ee-834f-3fb134290b66",
       "role": "member",
@@ -4432,9 +4432,9 @@
       ]
     },
     {
-      "area_id": "area/diola",
+      "area_id": "diola",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "8c6a3d95-8b0c-4e96-9929-c2d98ea6ec8d",
       "role": "member",
@@ -4445,9 +4445,9 @@
       ]
     },
     {
-      "area_id": "area/mopti",
+      "area_id": "mopti",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "8d5a29fe-ec5c-4a37-b61a-be148e43dacf",
       "role": "member",
@@ -4458,9 +4458,9 @@
       ]
     },
     {
-      "area_id": "area/kolokani",
+      "area_id": "kolokani",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "8d81bd12-7dff-493c-b9d6-273dc9c6e4b6",
       "role": "member",
@@ -4471,9 +4471,9 @@
       ]
     },
     {
-      "area_id": "area/yorosso",
+      "area_id": "yorosso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "90cd7c01-0723-4d7a-8d85-0d937fbd4909",
       "role": "member",
@@ -4484,9 +4484,9 @@
       ]
     },
     {
-      "area_id": "area/nara",
+      "area_id": "nara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "95c835a7-ba3b-461e-8697-d4e83cadf483",
       "role": "member",
@@ -4497,9 +4497,9 @@
       ]
     },
     {
-      "area_id": "area/commune_v",
+      "area_id": "commune_v",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "95e5b38f-7391-4c33-902e-e3e60788628b",
       "role": "member",
@@ -4510,9 +4510,9 @@
       ]
     },
     {
-      "area_id": "area/dire",
+      "area_id": "dire",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "960d802c-d082-4724-a6a0-f2023db23a62",
       "role": "member",
@@ -4523,9 +4523,9 @@
       ]
     },
     {
-      "area_id": "area/bankass",
+      "area_id": "bankass",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/codem",
+      "on_behalf_of_id": "codem",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "990b3779-8b4c-4a7a-afa4-634adc13f8ab",
       "role": "member",
@@ -4536,9 +4536,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "9a9f4627-5061-4e4d-a30a-bdcec851d462",
       "role": "member",
@@ -4549,9 +4549,9 @@
       ]
     },
     {
-      "area_id": "area/gao",
+      "area_id": "gao",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "9c0c0215-be7b-4917-8505-0f5de9a0209a",
       "role": "member",
@@ -4562,9 +4562,9 @@
       ]
     },
     {
-      "area_id": "area/koro",
+      "area_id": "koro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "9ef33d58-d303-4380-bafc-7ca5f35aa7e4",
       "role": "member",
@@ -4575,9 +4575,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sadi",
+      "on_behalf_of_id": "sadi",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "9f713cff-a936-4735-8556-5b531a0b0530",
       "role": "member",
@@ -4588,9 +4588,9 @@
       ]
     },
     {
-      "area_id": "area/bougouni",
+      "area_id": "bougouni",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "a5faca6b-4061-4d07-b99b-a027d78fdf77",
       "role": "member",
@@ -4601,9 +4601,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "a6c13db6-6407-4326-a883-44960f4df5df",
       "role": "member",
@@ -4614,9 +4614,9 @@
       ]
     },
     {
-      "area_id": "area/san",
+      "area_id": "san",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "ac49bc6a-ca97-4227-b7bf-138f61a4151a",
       "role": "member",
@@ -4627,9 +4627,9 @@
       ]
     },
     {
-      "area_id": "area/macina",
+      "area_id": "macina",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/asma",
+      "on_behalf_of_id": "asma",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "aff5aa96-b682-498c-8e2f-ee543e9f1ae7",
       "role": "member",
@@ -4640,9 +4640,9 @@
       ]
     },
     {
-      "area_id": "area/koulikoro",
+      "area_id": "koulikoro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b1a23270-e4e6-4304-89c4-360d4550ea0c",
       "role": "member",
@@ -4653,9 +4653,9 @@
       ]
     },
     {
-      "area_id": "area/mopti",
+      "area_id": "mopti",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b1d493ca-5a55-4a3c-96dc-a45c0137effd",
       "role": "member",
@@ -4666,9 +4666,9 @@
       ]
     },
     {
-      "area_id": "area/bougouni",
+      "area_id": "bougouni",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cds",
+      "on_behalf_of_id": "cds",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b4589263-d6ee-467a-be5c-e3b6f0396510",
       "role": "member",
@@ -4679,9 +4679,9 @@
       ]
     },
     {
-      "area_id": "area/koutiala",
+      "area_id": "koutiala",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b65a7e9a-4db3-49da-a392-1fe5384cc98e",
       "role": "member",
@@ -4692,9 +4692,9 @@
       ]
     },
     {
-      "area_id": "area/youwarou",
+      "area_id": "youwarou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b795626c-fc9e-4a40-bfb0-5078e16ee570",
       "role": "member",
@@ -4705,9 +4705,9 @@
       ]
     },
     {
-      "area_id": "area/yorosso",
+      "area_id": "yorosso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b8028fe8-f014-497a-a40f-8a20949e8237",
       "role": "member",
@@ -4718,9 +4718,9 @@
       ]
     },
     {
-      "area_id": "area/douentza",
+      "area_id": "douentza",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "b9966ffe-6a8d-4942-b74e-7665bfc8dfcf",
       "role": "member",
@@ -4731,9 +4731,9 @@
       ]
     },
     {
-      "area_id": "area/commune_iii",
+      "area_id": "commune_iii",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "bb8b7664-2116-406a-9845-625f696fb6fd",
       "role": "member",
@@ -4744,9 +4744,9 @@
       ]
     },
     {
-      "area_id": "area/bougouni",
+      "area_id": "bougouni",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "bcb9e188-c58a-4df2-8d04-f52b6073ca58",
       "role": "member",
@@ -4757,9 +4757,9 @@
       ]
     },
     {
-      "area_id": "area/koro",
+      "area_id": "koro",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "bf195d64-23ec-4a11-8801-eac1913702dc",
       "role": "member",
@@ -4770,9 +4770,9 @@
       ]
     },
     {
-      "area_id": "area/goundam",
+      "area_id": "goundam",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/ind",
+      "on_behalf_of_id": "ind",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "c051c0e7-b747-40ec-89ac-ecbdde769d6f",
       "role": "member",
@@ -4783,9 +4783,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "c5db9caf-f780-450c-9c95-d3572f8471a8",
       "role": "member",
@@ -4796,9 +4796,9 @@
       ]
     },
     {
-      "area_id": "area/kenieba",
+      "area_id": "kenieba",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "c62136f0-4388-4822-95e5-8f3cc0e8c568",
       "role": "member",
@@ -4809,9 +4809,9 @@
       ]
     },
     {
-      "area_id": "area/commune_ii",
+      "area_id": "commune_ii",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "c69b9a63-a3d6-4dbc-bcee-5d6a1406281b",
       "role": "member",
@@ -4822,9 +4822,9 @@
       ]
     },
     {
-      "area_id": "area/djenne",
+      "area_id": "djenne",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "caed6da7-ad6c-4332-9342-8b6834a27340",
       "role": "member",
@@ -4835,9 +4835,9 @@
       ]
     },
     {
-      "area_id": "area/kolokani",
+      "area_id": "kolokani",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d0ff223b-b2a9-4074-81ae-d7fb093cf49f",
       "role": "member",
@@ -4848,9 +4848,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d16708c2-2d25-4b90-8a31-eb483692ef35",
       "role": "member",
@@ -4861,9 +4861,9 @@
       ]
     },
     {
-      "area_id": "area/gourma-rharouss",
+      "area_id": "gourma-rharouss",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d1b5abc4-a7a6-46b6-b6fc-b9d41748e57f",
       "role": "member",
@@ -4874,9 +4874,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "unknown",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d2916bb6-1364-4a51-acfd-bb1e5b747eec",
       "role": "member",
@@ -4887,9 +4887,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d2df2d3e-137f-4aeb-9cde-14eec141d0df",
       "role": "member",
@@ -4900,9 +4900,9 @@
       ]
     },
     {
-      "area_id": "area/segou",
+      "area_id": "segou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "d790d69c-c99b-4b16-98be-b1a4870b3f24",
       "role": "member",
@@ -4913,9 +4913,9 @@
       ]
     },
     {
-      "area_id": "area/commune_i",
+      "area_id": "commune_i",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cnid",
+      "on_behalf_of_id": "cnid",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "da26c401-43ab-4f87-b883-803c9e63fd9d",
       "role": "member",
@@ -4926,9 +4926,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/fare",
+      "on_behalf_of_id": "fare",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "dbf7c72e-e47b-44eb-938a-d35d43a78ec7",
       "role": "member",
@@ -4939,9 +4939,9 @@
       ]
     },
     {
-      "area_id": "area/baroueli",
+      "area_id": "baroueli",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cnid",
+      "on_behalf_of_id": "cnid",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e028f6c7-8880-4815-a039-65ed153e2422",
       "role": "member",
@@ -4952,9 +4952,9 @@
       ]
     },
     {
-      "area_id": "area/tenenkou",
+      "area_id": "tenenkou",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e03d5779-cd0c-4cbe-8865-30d324785984",
       "role": "member",
@@ -4965,9 +4965,9 @@
       ]
     },
     {
-      "area_id": "area/sikasso",
+      "area_id": "sikasso",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/mpr",
+      "on_behalf_of_id": "mpr",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e0a654ef-7d30-4f3c-96c0-467620e45518",
       "role": "member",
@@ -4978,9 +4978,9 @@
       ]
     },
     {
-      "area_id": "area/bougouni",
+      "area_id": "bougouni",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cds",
+      "on_behalf_of_id": "cds",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e400b41c-bb23-4ded-9532-4c352940356d",
       "role": "member",
@@ -4991,9 +4991,9 @@
       ]
     },
     {
-      "area_id": "area/nara",
+      "area_id": "nara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e463428e-17e3-4b0c-b87f-69370bbf6f6b",
       "role": "member",
@@ -5004,9 +5004,9 @@
       ]
     },
     {
-      "area_id": "area/kolondieba",
+      "area_id": "kolondieba",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/sadi",
+      "on_behalf_of_id": "sadi",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e484f8d9-e080-4451-94fe-d2f7265237b1",
       "role": "member",
@@ -5017,9 +5017,9 @@
       ]
     },
     {
-      "area_id": "area/kadiolo",
+      "area_id": "kadiolo",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/parena",
+      "on_behalf_of_id": "parena",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e7d59844-681d-4389-bf3c-f1c3d1bd937a",
       "role": "member",
@@ -5030,9 +5030,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e88fce20-d0b7-46a0-91ab-d4b4bd15657c",
       "role": "member",
@@ -5043,9 +5043,9 @@
       ]
     },
     {
-      "area_id": "area/kenieba",
+      "area_id": "kenieba",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "e8d99377-69c6-4017-ab5f-a71546a760ec",
       "role": "member",
@@ -5056,9 +5056,9 @@
       ]
     },
     {
-      "area_id": "area/bandiagara",
+      "area_id": "bandiagara",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/codem",
+      "on_behalf_of_id": "codem",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "edf20e17-150f-44ae-979a-4cc6600c19e2",
       "role": "member",
@@ -5069,9 +5069,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/adema",
+      "on_behalf_of_id": "adema",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "ee10dc3a-fb4a-47df-ae07-2b8fbb64efb5",
       "role": "member",
@@ -5082,9 +5082,9 @@
       ]
     },
     {
-      "area_id": "area/commune_iv",
+      "area_id": "commune_iv",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "ee667bae-4ea0-4fdf-9d80-9522b763fee8",
       "role": "member",
@@ -5095,9 +5095,9 @@
       ]
     },
     {
-      "area_id": "area/kadiolo",
+      "area_id": "kadiolo",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/parena",
+      "on_behalf_of_id": "parena",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "f0d8f8d1-e58d-4819-9391-c8ac5496fead",
       "role": "member",
@@ -5108,9 +5108,9 @@
       ]
     },
     {
-      "area_id": "area/gao",
+      "area_id": "gao",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/cfp",
+      "on_behalf_of_id": "cfp",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "f4faec93-a7c9-4c65-89b2-64b5f96dd42b",
       "role": "member",
@@ -5121,9 +5121,9 @@
       ]
     },
     {
-      "area_id": "area/kayes",
+      "area_id": "kayes",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/urd",
+      "on_behalf_of_id": "urd",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "f52de35c-8397-4083-ba61-c7ad1ffc351a",
       "role": "member",
@@ -5134,9 +5134,9 @@
       ]
     },
     {
-      "area_id": "area/niono",
+      "area_id": "niono",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpdm",
+      "on_behalf_of_id": "rpdm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "f5679bf1-25da-4f7d-8c9b-e663e2e9d2ba",
       "role": "member",
@@ -5147,9 +5147,9 @@
       ]
     },
     {
-      "area_id": "area/kati",
+      "area_id": "kati",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "f722b0a0-2109-4421-b7d4-1ae4f8918ca2",
       "role": "member",
@@ -5160,9 +5160,9 @@
       ]
     },
     {
-      "area_id": "area/douentza",
+      "area_id": "douentza",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/pdes",
+      "on_behalf_of_id": "pdes",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "fd8d8b21-5e11-41fc-bd3e-2dd72d2ed73f",
       "role": "member",
@@ -5173,9 +5173,9 @@
       ]
     },
     {
-      "area_id": "area/kita",
+      "area_id": "kita",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "party/rpm",
+      "on_behalf_of_id": "rpm",
       "organization_id": "9b081a0d-e662-4f7c-b58b-0f20f0bb0700",
       "person_id": "fe622c33-43c5-4d88-9631-acb5929085bc",
       "role": "member",
@@ -5353,267 +5353,267 @@
   ],
   "areas": [
     {
-      "id": "area/abeibara",
+      "id": "abeibara",
       "name": "ABEIBARA",
       "type": "constituency"
     },
     {
-      "id": "area/ansongo",
+      "id": "ansongo",
       "name": "ANSONGO",
       "type": "constituency"
     },
     {
-      "id": "area/bafoulabe",
+      "id": "bafoulabe",
       "name": "BAFOULABE",
       "type": "constituency"
     },
     {
-      "id": "area/bandiagara",
+      "id": "bandiagara",
       "name": "BANDIAGARA",
       "type": "constituency"
     },
     {
-      "id": "area/bankass",
+      "id": "bankass",
       "name": "BANKASS",
       "type": "constituency"
     },
     {
-      "id": "area/baroueli",
+      "id": "baroueli",
       "name": "BAROUELI",
       "type": "constituency"
     },
     {
-      "id": "area/bla",
+      "id": "bla",
       "name": "BLA",
       "type": "constituency"
     },
     {
-      "id": "area/bougouni",
+      "id": "bougouni",
       "name": "BOUGOUNI",
       "type": "constituency"
     },
     {
-      "id": "area/bourem",
+      "id": "bourem",
       "name": "BOUREM",
       "type": "constituency"
     },
     {
-      "id": "area/commune_i",
+      "id": "commune_i",
       "name": "COMMUNE I",
       "type": "constituency"
     },
     {
-      "id": "area/commune_ii",
+      "id": "commune_ii",
       "name": "COMMUNE II",
       "type": "constituency"
     },
     {
-      "id": "area/commune_iii",
+      "id": "commune_iii",
       "name": "COMMUNE III",
       "type": "constituency"
     },
     {
-      "id": "area/commune_iv",
+      "id": "commune_iv",
       "name": "COMMUNE IV",
       "type": "constituency"
     },
     {
-      "id": "area/commune_v",
+      "id": "commune_v",
       "name": "COMMUNE V",
       "type": "constituency"
     },
     {
-      "id": "area/commune_vi",
+      "id": "commune_vi",
       "name": "COMMUNE VI",
       "type": "constituency"
     },
     {
-      "id": "area/diema",
+      "id": "diema",
       "name": "DIEMA",
       "type": "constituency"
     },
     {
-      "id": "area/diola",
+      "id": "diola",
       "name": "DIOLA",
       "type": "constituency"
     },
     {
-      "id": "area/dire",
+      "id": "dire",
       "name": "DIRE",
       "type": "constituency"
     },
     {
-      "id": "area/djenne",
+      "id": "djenne",
       "name": "DJENNE",
       "type": "constituency"
     },
     {
-      "id": "area/douentza",
+      "id": "douentza",
       "name": "DOUENTZA",
       "type": "constituency"
     },
     {
-      "id": "area/gao",
+      "id": "gao",
       "name": "GAO",
       "type": "constituency"
     },
     {
-      "id": "area/goundam",
+      "id": "goundam",
       "name": "GOUNDAM",
       "type": "constituency"
     },
     {
-      "id": "area/gourma-rharouss",
+      "id": "gourma-rharouss",
       "name": "GOURMA-RHAROUSS",
       "type": "constituency"
     },
     {
-      "id": "area/kadiolo",
+      "id": "kadiolo",
       "name": "KADIOLO",
       "type": "constituency"
     },
     {
-      "id": "area/kangaba",
+      "id": "kangaba",
       "name": "KANGABA",
       "type": "constituency"
     },
     {
-      "id": "area/kati",
+      "id": "kati",
       "name": "KATI",
       "type": "constituency"
     },
     {
-      "id": "area/kayes",
+      "id": "kayes",
       "name": "KAYES",
       "type": "constituency"
     },
     {
-      "id": "area/kenieba",
+      "id": "kenieba",
       "name": "KENIEBA",
       "type": "constituency"
     },
     {
-      "id": "area/kidal",
+      "id": "kidal",
       "name": "KIDAL",
       "type": "constituency"
     },
     {
-      "id": "area/kita",
+      "id": "kita",
       "name": "KITA",
       "type": "constituency"
     },
     {
-      "id": "area/kolokani",
+      "id": "kolokani",
       "name": "KOLOKANI",
       "type": "constituency"
     },
     {
-      "id": "area/kolondieba",
+      "id": "kolondieba",
       "name": "KOLONDIEBA",
       "type": "constituency"
     },
     {
-      "id": "area/koro",
+      "id": "koro",
       "name": "KORO",
       "type": "constituency"
     },
     {
-      "id": "area/koulikoro",
+      "id": "koulikoro",
       "name": "KOULIKORO",
       "type": "constituency"
     },
     {
-      "id": "area/koutiala",
+      "id": "koutiala",
       "name": "KOUTIALA",
       "type": "constituency"
     },
     {
-      "id": "area/macina",
+      "id": "macina",
       "name": "MACINA",
       "type": "constituency"
     },
     {
-      "id": "area/menaka",
+      "id": "menaka",
       "name": "MENAKA",
       "type": "constituency"
     },
     {
-      "id": "area/mopti",
+      "id": "mopti",
       "name": "MOPTI",
       "type": "constituency"
     },
     {
-      "id": "area/nara",
+      "id": "nara",
       "name": "NARA",
       "type": "constituency"
     },
     {
-      "id": "area/niafunke",
+      "id": "niafunke",
       "name": "NIAFUNKE",
       "type": "constituency"
     },
     {
-      "id": "area/niono",
+      "id": "niono",
       "name": "NIONO",
       "type": "constituency"
     },
     {
-      "id": "area/nioro",
+      "id": "nioro",
       "name": "NIORO",
       "type": "constituency"
     },
     {
-      "id": "area/san",
+      "id": "san",
       "name": "SAN",
       "type": "constituency"
     },
     {
-      "id": "area/segou",
+      "id": "segou",
       "name": "SEGOU",
       "type": "constituency"
     },
     {
-      "id": "area/sikasso",
+      "id": "sikasso",
       "name": "SIKASSO",
       "type": "constituency"
     },
     {
-      "id": "area/tenenkou",
+      "id": "tenenkou",
       "name": "TENENKOU",
       "type": "constituency"
     },
     {
-      "id": "area/tessalit",
+      "id": "tessalit",
       "name": "TESSALIT",
       "type": "constituency"
     },
     {
-      "id": "area/tin-essako",
+      "id": "tin-essako",
       "name": "TIN-ESSAKO",
       "type": "constituency"
     },
     {
-      "id": "area/tombouctou",
+      "id": "tombouctou",
       "name": "TOMBOUCTOU",
       "type": "constituency"
     },
     {
-      "id": "area/tominian",
+      "id": "tominian",
       "name": "TOMINIAN",
       "type": "constituency"
     },
     {
-      "id": "area/yanfolila",
+      "id": "yanfolila",
       "name": "YANFOLILA",
       "type": "constituency"
     },
     {
-      "id": "area/yorosso",
+      "id": "yorosso",
       "name": "YOROSSO",
       "type": "constituency"
     },
     {
-      "id": "area/youwarou",
+      "id": "youwarou",
       "name": "YOUWAROU",
       "type": "constituency"
     }

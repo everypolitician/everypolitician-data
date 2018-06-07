@@ -1301,7 +1301,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/mdc",
+      "id": "mdc",
       "identifiers": [
         {
           "identifier": "Q15980776",
@@ -1330,7 +1330,7 @@
     },
     {
       "classification": "party",
-      "id": "party/mdc-t",
+      "id": "mdc-t",
       "identifiers": [
         {
           "identifier": "Q1146616",
@@ -1598,7 +1598,7 @@
     },
     {
       "classification": "party",
-      "id": "party/zanu_pf",
+      "id": "zanu_pf",
       "identifiers": [
         {
           "identifier": "Q1910161",
@@ -1744,9 +1744,9 @@
   },
   "memberships": [
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "068e9451-6c1d-4add-bd66-1b0d78817ae6",
       "role": "member",
@@ -1757,41 +1757,41 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_south",
+      "area_id": "mashonaland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "088e1e76-2539-4495-8a63-aa45c9de5c4e",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_south",
+      "area_id": "matebeleland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "088e1e76-2539-4495-8a63-aa45c9de5c4e",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "0976c7a9-3d3f-429d-b2db-3fd326e4582c",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "0e698a8d-ab80-47cc-a4f8-ffc1caf19aaa",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "12b52991-e46d-4ec4-a598-497458ec6682",
       "role": "member",
@@ -1802,9 +1802,9 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "141ed0d7-8a5f-415e-9dcd-04425d5a918f",
       "role": "member",
@@ -1815,33 +1815,33 @@
       ]
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "15907131-c323-4879-a299-47eca817c6f7",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "1fedea19-dd14-4e27-8ace-da5f2a808cbd",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "21afc347-9470-46bb-a9b0-a55eb15d6dda",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "21baa68a-7e9a-42b2-851b-4c4fddd50532",
       "role": "member",
@@ -1852,17 +1852,17 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "23b9e11a-e42f-4cfc-9d7e-1c4cd1574187",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_south",
+      "area_id": "mashonaland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "2444e830-fe08-436f-88d0-0443504c04e0",
       "role": "member",
@@ -1873,25 +1873,25 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "265d92f6-9944-4e05-bc78-577e7551450c",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_south",
+      "area_id": "matebeleland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "28149819-ab79-431d-8731-1096eafd4359",
       "role": "member"
     },
     {
-      "area_id": "area/midlands",
+      "area_id": "midlands",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "28a9d5c7-42f8-4492-ad2a-45e8ace060d4",
       "role": "member",
@@ -1902,9 +1902,9 @@
       ]
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "293ae5d1-e260-4c39-8cf0-9b2594f23fbf",
       "role": "member",
@@ -1915,9 +1915,9 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_north",
+      "area_id": "mashonaland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "31fcda44-a079-45e7-ad88-0b319f7bd874",
       "role": "member",
@@ -1928,9 +1928,9 @@
       ]
     },
     {
-      "area_id": "area/midlands",
+      "area_id": "midlands",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "338ff3bf-ff63-4e5d-a405-496fac227f49",
       "role": "member",
@@ -1941,17 +1941,17 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "3eca436f-6e04-4ec3-91cb-89d1e8324f74",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_south",
+      "area_id": "matebeleland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc",
+      "on_behalf_of_id": "mdc",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "43fd344d-20d5-4fa2-a1a7-67c9a0016c37",
       "role": "member",
@@ -1962,25 +1962,25 @@
       ]
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "4621c4fc-975d-457c-8557-c4215381e9a6",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "4a32aee7-2edc-482d-971b-2b3ef498dbd1",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_north",
+      "area_id": "mashonaland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "4c38c3ae-cabf-4dbe-a307-67898d664a46",
       "role": "member",
@@ -1991,17 +1991,17 @@
       ]
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "4cc5f143-8995-4b70-8eb7-8c4b5e5e29a0",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "50c06ed1-1c34-41ef-bf87-cdb7fad00230",
       "role": "member",
@@ -2012,24 +2012,24 @@
       ]
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "51b6aefe-4b3f-4065-a8c1-cc7f90bae4c0",
       "role": "member"
     },
     {
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc",
+      "on_behalf_of_id": "mdc",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "53e6114d-c481-4d25-a0b1-ac86b62266ef",
       "role": "member"
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc",
+      "on_behalf_of_id": "mdc",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "57801f32-edf1-49c5-b9b5-4faf419849f8",
       "role": "member",
@@ -2040,9 +2040,9 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "585613d3-5c9a-492d-994b-3acba8828fd7",
       "role": "member",
@@ -2053,33 +2053,33 @@
       ]
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "598b8321-a392-47ce-a3cc-4b1c30a351dc",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "59f7274b-262a-4ab9-98de-924d1319f72b",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "5c13ea67-c7fb-47bb-bbb5-d5b91080d9bb",
       "role": "member"
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "5cf83ebd-ef11-4f2b-a95a-743e57f2eaa3",
       "role": "member",
@@ -2090,41 +2090,41 @@
       ]
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "5e186507-1f8a-45a3-9bf4-ea8605f59e8c",
       "role": "member"
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "6094a6ab-5b09-4b9d-b4e9-6cb56c697a77",
       "role": "member"
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "64f4a4a3-7310-48ab-a001-590526fa08f1",
       "role": "member"
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "66c56c4a-0490-4667-bf6c-43de064ec1f2",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_west",
+      "area_id": "mashonaland_west",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "73332a26-5f7e-42cb-9942-dd20d4d3c648",
       "role": "member",
@@ -2135,9 +2135,9 @@
       ]
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "7d36228c-b876-4d13-97f6-f0b1515e8220",
       "role": "member",
@@ -2148,9 +2148,9 @@
       ]
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "7f09a9fb-bd90-450d-9c84-0de512747af8",
       "role": "member",
@@ -2161,17 +2161,17 @@
       ]
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "830fe605-9eb7-4949-9b29-f7856d0203d2",
       "role": "member"
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "8d143647-ddd3-4f12-bf53-f7ac16929bcc",
       "role": "member",
@@ -2182,17 +2182,17 @@
       ]
     },
     {
-      "area_id": "area/matebeleland_south",
+      "area_id": "matebeleland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "8e912cf7-1ddb-4734-a9dc-97d3842c34d3",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "93c58a43-9f12-4755-b309-cc0d69c8aea2",
       "role": "member",
@@ -2203,33 +2203,33 @@
       ]
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "9991f901-44d3-49ec-ad6d-0c3522252925",
       "role": "member"
     },
     {
-      "area_id": "area/midlands",
+      "area_id": "midlands",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "a20886c3-d795-4faf-b5be-fed146d6c385",
       "role": "member"
     },
     {
-      "area_id": "area/midlands",
+      "area_id": "midlands",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "a2c2a1d8-c838-4597-8bff-3cbb4f6e493a",
       "role": "member"
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "a3c33d8e-ee77-4088-a189-0c99b69cf8cb",
       "role": "member",
@@ -2240,65 +2240,65 @@
       ]
     },
     {
-      "area_id": "area/mashonaland_central",
+      "area_id": "mashonaland_central",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "a46dddee-1bce-40e2-af44-a1c77e99b395",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "a85beb62-a427-4778-bb75-45a6b40fae54",
       "role": "member"
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "ae321f04-24da-4903-ba13-9c9f71ad67c9",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "b6177278-ccbf-4a38-b316-34beadb21952",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "bc8a1be7-b0f5-4a8a-a3b2-f89b09f77bfd",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_north",
+      "area_id": "matebeleland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "c12dbe18-fd88-4c6a-9a8a-16f1494250f7",
       "role": "member"
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "d285dbf1-4177-44ea-abfb-ea04be3bdf0e",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_north",
+      "area_id": "mashonaland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "d6f50110-074f-4087-98c4-e8d89047a2e5",
       "role": "member",
@@ -2309,89 +2309,89 @@
       ]
     },
     {
-      "area_id": "area/harare",
+      "area_id": "harare",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "dd007b82-8129-40d7-b274-158a37c52700",
       "role": "member"
     },
     {
-      "area_id": "area/masvingo",
+      "area_id": "masvingo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "ddb83339-e5fb-4cbe-ba4a-0414493849e6",
       "role": "member"
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "de9bcd51-3713-44d1-a897-2b9781a0a3f6",
       "role": "member"
     },
     {
-      "area_id": "area/bulawayo",
+      "area_id": "bulawayo",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "e12ed27b-84bf-4b57-a21f-d19c9c1716b2",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_north",
+      "area_id": "mashonaland_north",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "e6faad5b-ac9a-4953-8d03-803a05311593",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "f3a967d0-38ff-47f2-a8a6-5cf762e8028e",
       "role": "member"
     },
     {
-      "area_id": "area/matebeleland_south",
+      "area_id": "matebeleland_south",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "f6837337-54e5-4358-9825-9180dfcf44c7",
       "role": "member"
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "fb88eb6e-1ad9-4cf3-8d4c-31c69f65a73a",
       "role": "member"
     },
     {
-      "area_id": "area/mashonaland_east",
+      "area_id": "mashonaland_east",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "fb92bda9-8d7f-4b39-882b-5ed7635ede0e",
       "role": "member"
     },
     {
-      "area_id": "area/midlands",
+      "area_id": "midlands",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/mdc-t",
+      "on_behalf_of_id": "mdc-t",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "fbea5e10-fe85-49a6-a826-86c5fe699d58",
       "role": "member"
     },
     {
-      "area_id": "area/manicaland",
+      "area_id": "manicaland",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/zanu_pf",
+      "on_behalf_of_id": "zanu_pf",
       "organization_id": "713672e7-18c5-4d1d-abd1-8d597b143847",
       "person_id": "ff357188-ea43-49e3-9fdb-8482b7d3f908",
       "role": "member"
@@ -2408,62 +2408,62 @@
   ],
   "areas": [
     {
-      "id": "area/bulawayo",
+      "id": "bulawayo",
       "name": "Bulawayo",
       "type": "constituency"
     },
     {
-      "id": "area/harare",
+      "id": "harare",
       "name": "Harare",
       "type": "constituency"
     },
     {
-      "id": "area/manicaland",
+      "id": "manicaland",
       "name": "Manicaland",
       "type": "constituency"
     },
     {
-      "id": "area/mashonaland_central",
+      "id": "mashonaland_central",
       "name": "Mashonaland central",
       "type": "constituency"
     },
     {
-      "id": "area/mashonaland_east",
+      "id": "mashonaland_east",
       "name": "Mashonaland East",
       "type": "constituency"
     },
     {
-      "id": "area/mashonaland_north",
+      "id": "mashonaland_north",
       "name": "Mashonaland North",
       "type": "constituency"
     },
     {
-      "id": "area/mashonaland_south",
+      "id": "mashonaland_south",
       "name": "Mashonaland South",
       "type": "constituency"
     },
     {
-      "id": "area/mashonaland_west",
+      "id": "mashonaland_west",
       "name": "Mashonaland West",
       "type": "constituency"
     },
     {
-      "id": "area/masvingo",
+      "id": "masvingo",
       "name": "Masvingo",
       "type": "constituency"
     },
     {
-      "id": "area/matebeleland_north",
+      "id": "matebeleland_north",
       "name": "Matebeleland North",
       "type": "constituency"
     },
     {
-      "id": "area/matebeleland_south",
+      "id": "matebeleland_south",
       "name": "Matebeleland South",
       "type": "constituency"
     },
     {
-      "id": "area/midlands",
+      "id": "midlands",
       "name": "Midlands",
       "type": "constituency"
     }

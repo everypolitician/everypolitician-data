@@ -2022,7 +2022,7 @@
     },
     {
       "classification": "party",
-      "id": "party/pdc",
+      "id": "pdc",
       "identifiers": [
         {
           "identifier": "Q5109515",
@@ -2051,7 +2051,7 @@
     },
     {
       "classification": "party",
-      "id": "party/pdi",
+      "id": "pdi",
       "identifiers": [
         {
           "identifier": "Q6082436",
@@ -2074,7 +2074,7 @@
     },
     {
       "classification": "party",
-      "id": "party/pl",
+      "id": "pl",
       "identifiers": [
         {
           "identifier": "Q3043218",
@@ -2128,7 +2128,7 @@
     },
     {
       "classification": "party",
-      "id": "party/ppc",
+      "id": "ppc",
       "identifiers": [
         {
           "identifier": "Q766491",
@@ -2167,7 +2167,7 @@
     },
     {
       "classification": "party",
-      "id": "party/psd",
+      "id": "psd",
       "identifiers": [
         {
           "identifier": "Q6122813",
@@ -2221,7 +2221,7 @@
     },
     {
       "classification": "party",
-      "id": "party/psr",
+      "id": "psr",
       "identifiers": [
         {
           "identifier": "Q3366774",
@@ -2260,12 +2260,12 @@
     },
     {
       "classification": "party",
-      "id": "party/persons_with_disabilities",
+      "id": "persons_with_disabilities",
       "name": "Persons with Disabilities"
     },
     {
       "classification": "party",
-      "id": "party/rpf",
+      "id": "rpf",
       "identifiers": [
         {
           "identifier": "Q690240",
@@ -2380,12 +2380,12 @@
     },
     {
       "classification": "party",
-      "id": "party/women",
+      "id": "women",
       "name": "Women"
     },
     {
       "classification": "party",
-      "id": "party/youth",
+      "id": "youth",
       "name": "Youth"
     }
   ],
@@ -2396,9 +2396,9 @@
   },
   "memberships": [
     {
-      "area_id": "area/kigali_city",
+      "area_id": "kigali_city",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "002ad280-39e7-4eae-8d9e-ddbdf5eb371c",
       "role": "member",
@@ -2409,9 +2409,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psr",
+      "on_behalf_of_id": "psr",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "02be4478-2d92-48ab-8a86-cb2bc7fac557",
       "role": "member",
@@ -2422,9 +2422,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "032abc4d-c49b-4e40-8592-88a70fce7f47",
       "role": "member",
@@ -2435,9 +2435,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "053d5493-5932-4b38-9aa7-eb1432884b7f",
       "role": "member",
@@ -2448,9 +2448,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "107a1b83-11b3-4959-9097-73fd047174f0",
       "role": "member",
@@ -2461,9 +2461,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "1195e0fe-b201-4290-aca5-80b29c5b56e2",
       "role": "member",
@@ -2474,9 +2474,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "14531977-c3e4-4c85-a941-91e17e86d237",
       "role": "member",
@@ -2487,9 +2487,9 @@
       ]
     },
     {
-      "area_id": "area/south",
+      "area_id": "south",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "156bd0c9-1af8-4846-84bc-884ce71fd20e",
       "role": "member",
@@ -2500,9 +2500,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "15f44ad7-bf45-4610-ac89-0f324ea5da4f",
       "role": "member",
@@ -2513,9 +2513,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pl",
+      "on_behalf_of_id": "pl",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "1958d84e-8908-4b4b-8d99-f674180c8b41",
       "role": "member",
@@ -2526,9 +2526,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "1ca0ee44-cd95-4227-b48d-ae0a20c432c8",
       "role": "member",
@@ -2539,9 +2539,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "1f63ce7c-ad8b-48a4-8705-6908b4edd5c2",
       "role": "member",
@@ -2552,9 +2552,9 @@
       ]
     },
     {
-      "area_id": "area/eastern",
+      "area_id": "eastern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "25327eaf-c660-4d9f-823e-946803c66e71",
       "role": "member",
@@ -2565,9 +2565,9 @@
       ]
     },
     {
-      "area_id": "area/western",
+      "area_id": "western",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/youth",
+      "on_behalf_of_id": "youth",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "3248b4a3-cf21-4f04-9517-d46e75f55ea8",
       "role": "member",
@@ -2578,9 +2578,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "3b86b14f-7a84-49e4-96c1-f5d12a26a25c",
       "role": "member",
@@ -2592,7 +2592,7 @@
     },
     {
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "3c8dcd38-1902-4555-b033-602429f0d560",
       "role": "member",
@@ -2603,9 +2603,9 @@
       ]
     },
     {
-      "area_id": "area/eastern",
+      "area_id": "eastern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "3d60eca1-180d-4f2f-8ff4-467fe3697b08",
       "role": "member",
@@ -2616,9 +2616,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/youth",
+      "on_behalf_of_id": "youth",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "3dff3689-98d0-458d-b1bd-0c241f3d787a",
       "role": "member",
@@ -2629,9 +2629,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "47473bbc-8ad3-49e4-b444-31a9a6f0b4cf",
       "role": "member",
@@ -2642,9 +2642,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "4e939ffa-c303-4614-8760-43e2a539edcc",
       "role": "member",
@@ -2655,9 +2655,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "53a9275b-3ac3-46d9-b898-cd72c1a3f2ff",
       "role": "member",
@@ -2668,9 +2668,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pdc",
+      "on_behalf_of_id": "pdc",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "55d1fd90-6dac-4ab9-9645-bd511cf145de",
       "role": "member",
@@ -2681,9 +2681,9 @@
       ]
     },
     {
-      "area_id": "area/eastern",
+      "area_id": "eastern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "5741109d-d75e-4102-aa70-fbdf50d0d773",
       "role": "member",
@@ -2694,9 +2694,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "5a461f13-0dda-4de5-bce3-fd1b74ec0923",
       "role": "member",
@@ -2707,9 +2707,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "620c6cf8-7eed-4ff4-b18a-660932f7a584",
       "role": "member",
@@ -2720,9 +2720,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "66b4f362-27c0-435f-89f1-b397f887d78e",
       "role": "member",
@@ -2733,9 +2733,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pdi",
+      "on_behalf_of_id": "pdi",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "66f13e81-848c-47e0-bf43-05f7314b4ad8",
       "role": "member",
@@ -2746,9 +2746,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "6b0c5e9d-1152-4613-ac9a-cd60eb974aea",
       "role": "member",
@@ -2759,9 +2759,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "78e1d422-f4b4-45b6-8e72-7100c1971fdc",
       "role": "member",
@@ -2772,9 +2772,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "7bda4bde-3c3a-41be-8bc9-b843559ef7f7",
       "role": "member",
@@ -2785,9 +2785,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "7c493b6a-16ad-457c-995b-84eba5a18e56",
       "role": "member",
@@ -2798,9 +2798,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "7f2970ba-a21b-4001-a435-50b197fd0ae5",
       "role": "member",
@@ -2811,9 +2811,9 @@
       ]
     },
     {
-      "area_id": "area/western",
+      "area_id": "western",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "8088dc6f-28fa-4251-bb41-c76c17c63a85",
       "role": "member",
@@ -2824,9 +2824,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "826dbe7d-6cb3-4739-a345-a53bacfdf448",
       "role": "member",
@@ -2837,9 +2837,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "83f6ce2b-8186-4ee8-9cd4-7c85edf4af46",
       "role": "member",
@@ -2850,9 +2850,9 @@
       ]
     },
     {
-      "area_id": "area/eastern",
+      "area_id": "eastern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "852bd1bd-45cc-49f8-b091-1f696efee9ed",
       "role": "member",
@@ -2863,9 +2863,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "858ee1ef-6c67-424a-b25e-b32526bd89a6",
       "role": "member",
@@ -2876,9 +2876,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "86df91e3-cf3e-484d-ada3-4a2fdfa0cb5f",
       "role": "member",
@@ -2889,9 +2889,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "871e3d84-49e5-4ef2-a50d-ffd74a792a38",
       "role": "member",
@@ -2902,9 +2902,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "883c6245-2ca8-43e6-a3a2-c67c332d7cef",
       "role": "member",
@@ -2915,9 +2915,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pl",
+      "on_behalf_of_id": "pl",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "8b279993-216f-4684-bbac-835d5f84ed4c",
       "role": "member",
@@ -2928,9 +2928,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "8c1374e0-ec82-4700-9bb0-fbedce4fa863",
       "role": "member",
@@ -2941,9 +2941,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "8e24291a-b9eb-42b7-be36-915dffe28e33",
       "role": "member",
@@ -2955,7 +2955,7 @@
     },
     {
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "955cbbb4-bd0b-44d6-bee8-6fc510df0f0b",
       "role": "member",
@@ -2966,9 +2966,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "962e9932-e622-4505-b1cb-af04cd56b76f",
       "role": "member",
@@ -2979,9 +2979,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "970dde75-c3a1-428f-951a-9ce4d5936d19",
       "role": "member",
@@ -2992,9 +2992,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "98ed5a7a-0a1c-4b72-9b8d-377c5159afdb",
       "role": "member",
@@ -3005,9 +3005,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "99c423fd-c602-4bdc-9ca1-7c802fc5052b",
       "role": "member",
@@ -3018,9 +3018,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "9aaf4204-2aca-40c6-b067-0b6832b724ab",
       "role": "member",
@@ -3031,9 +3031,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/ppc",
+      "on_behalf_of_id": "ppc",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "9c564ad9-ca2d-4a75-8abb-d0835f5a328e",
       "role": "member",
@@ -3044,9 +3044,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "9cb8acf7-7fdf-430b-8153-3d143bb12077",
       "role": "member",
@@ -3057,9 +3057,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "9ce37b74-ee63-4ccd-8331-c15a4e070489",
       "role": "member",
@@ -3070,9 +3070,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/persons_with_disabilities",
+      "on_behalf_of_id": "persons_with_disabilities",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "a3ebb86c-a1d2-479b-ba00-98a72069d6db",
       "role": "member",
@@ -3083,9 +3083,9 @@
       ]
     },
     {
-      "area_id": "area/western",
+      "area_id": "western",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "a403bec6-ff40-43e1-ac4f-f1b4f5a968b3",
       "role": "member",
@@ -3096,9 +3096,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pl",
+      "on_behalf_of_id": "pl",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "a7a6b953-e417-4f29-85e0-6fffd49a0b3d",
       "role": "member",
@@ -3109,9 +3109,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "a9d85a55-9c54-4f37-baa4-79a3249b7a7a",
       "role": "member",
@@ -3122,9 +3122,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "ac774f29-7592-4edb-93fc-aaad6f8e9a0b",
       "role": "member",
@@ -3135,9 +3135,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pl",
+      "on_behalf_of_id": "pl",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "ad28918e-4eec-46d9-9163-83cca787983c",
       "role": "member",
@@ -3148,9 +3148,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "b7ea2648-4b18-4ed9-a869-48dcdc9b39a8",
       "role": "member",
@@ -3161,9 +3161,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "b8ca72c8-1db9-45ca-a12b-860c43ea3a1c",
       "role": "member",
@@ -3174,9 +3174,9 @@
       ]
     },
     {
-      "area_id": "area/southern",
+      "area_id": "southern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "ba81feb3-8c60-479e-844d-f5c8a48bdc8b",
       "role": "member",
@@ -3187,9 +3187,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "be7347be-48a1-45f6-88b0-8bf838d2f562",
       "role": "member",
@@ -3200,9 +3200,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "c91040f3-752c-4c5f-8723-98d1fc2afeae",
       "role": "member",
@@ -3213,9 +3213,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "c9df06c4-aec4-461a-b614-48cc425b79e6",
       "role": "member",
@@ -3226,9 +3226,9 @@
       ]
     },
     {
-      "area_id": "area/kigali",
+      "area_id": "kigali",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "cee66fb3-39e8-4df9-8a9f-e14a03229ee9",
       "role": "member",
@@ -3239,9 +3239,9 @@
       ]
     },
     {
-      "area_id": "area/northern",
+      "area_id": "northern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "d712e08f-2429-4de7-ab1b-9f4218963106",
       "role": "member",
@@ -3252,9 +3252,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/pl",
+      "on_behalf_of_id": "pl",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "d713d600-4456-4ec3-8251-c8be5a7f90ac",
       "role": "member",
@@ -3265,9 +3265,9 @@
       ]
     },
     {
-      "area_id": "area/northern",
+      "area_id": "northern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "dfaa46ce-96a5-4cd8-9878-b3006397e1a5",
       "role": "member",
@@ -3278,9 +3278,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "e03a94a6-8022-48c3-abb4-46afbd1fb101",
       "role": "member",
@@ -3291,9 +3291,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "e2d12e16-199c-417b-80f6-b86c85e278d2",
       "role": "member",
@@ -3304,9 +3304,9 @@
       ]
     },
     {
-      "area_id": "area/southern",
+      "area_id": "southern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "e4474ef6-5208-4540-9009-02d9692b62ee",
       "role": "member",
@@ -3317,9 +3317,9 @@
       ]
     },
     {
-      "area_id": "area/southern_province",
+      "area_id": "southern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "e5723a0f-8c64-477e-86a2-c0bac7c74ec1",
       "role": "member",
@@ -3330,9 +3330,9 @@
       ]
     },
     {
-      "area_id": "area/southern",
+      "area_id": "southern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/women",
+      "on_behalf_of_id": "women",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "f34be801-067b-4dbc-93a2-dc177147a27b",
       "role": "member",
@@ -3343,9 +3343,9 @@
       ]
     },
     {
-      "area_id": "area/northern_province",
+      "area_id": "northern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "f37b6781-ad7c-4f5a-a002-906727a9528e",
       "role": "member",
@@ -3356,9 +3356,9 @@
       ]
     },
     {
-      "area_id": "area/western_province",
+      "area_id": "western_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/rpf",
+      "on_behalf_of_id": "rpf",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "f6c919c3-12e6-4ca4-bff0-389a060a7e7d",
       "role": "member",
@@ -3369,9 +3369,9 @@
       ]
     },
     {
-      "area_id": "area/eastern_province",
+      "area_id": "eastern_province",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "fa265324-39d7-44be-9b84-7bbf59762f0d",
       "role": "member",
@@ -3382,9 +3382,9 @@
       ]
     },
     {
-      "area_id": "area/northern",
+      "area_id": "northern",
       "legislative_period_id": "term/3",
-      "on_behalf_of_id": "party/psd",
+      "on_behalf_of_id": "psd",
       "organization_id": "3a6ab8b0-634f-4721-b8e0-0d6e521ea855",
       "person_id": "fb7196b5-e689-4877-bab3-01e1d5378038",
       "role": "member",
@@ -3549,57 +3549,57 @@
   ],
   "areas": [
     {
-      "id": "area/eastern",
+      "id": "eastern",
       "name": "Eastern",
       "type": "constituency"
     },
     {
-      "id": "area/eastern_province",
+      "id": "eastern_province",
       "name": "Eastern Province",
       "type": "constituency"
     },
     {
-      "id": "area/kigali",
+      "id": "kigali",
       "name": "Kigali",
       "type": "constituency"
     },
     {
-      "id": "area/kigali_city",
+      "id": "kigali_city",
       "name": "Kigali City",
       "type": "constituency"
     },
     {
-      "id": "area/northern",
+      "id": "northern",
       "name": "Northern",
       "type": "constituency"
     },
     {
-      "id": "area/northern_province",
+      "id": "northern_province",
       "name": "Northern Province",
       "type": "constituency"
     },
     {
-      "id": "area/south",
+      "id": "south",
       "name": "South",
       "type": "constituency"
     },
     {
-      "id": "area/southern",
+      "id": "southern",
       "name": "Southern",
       "type": "constituency"
     },
     {
-      "id": "area/southern_province",
+      "id": "southern_province",
       "name": "Southern Province",
       "type": "constituency"
     },
     {
-      "id": "area/western",
+      "id": "western",
       "name": "Western",
       "type": "constituency"
     },
     {
-      "id": "area/western_province",
+      "id": "western_province",
       "name": "Western Province",
       "type": "constituency"
     }

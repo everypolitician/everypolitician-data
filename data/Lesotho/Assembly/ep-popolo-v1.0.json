@@ -1624,7 +1624,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/abc",
+      "id": "abc",
       "identifiers": [
         {
           "identifier": "Q1346132",
@@ -1691,7 +1691,7 @@
     },
     {
       "classification": "party",
-      "id": "party/bcp",
+      "id": "bcp",
       "identifiers": [
         {
           "identifier": "Q512488",
@@ -1752,7 +1752,7 @@
     },
     {
       "classification": "party",
-      "id": "party/bnp",
+      "id": "bnp",
       "identifiers": [
         {
           "identifier": "Q304032",
@@ -1819,7 +1819,7 @@
     },
     {
       "classification": "party",
-      "id": "party/dc",
+      "id": "dc",
       "identifiers": [
         {
           "identifier": "Q1185836",
@@ -1862,7 +1862,7 @@
     },
     {
       "classification": "party",
-      "id": "party/lcd",
+      "id": "lcd",
       "identifiers": [
         {
           "identifier": "Q939391",
@@ -1941,7 +1941,7 @@
     },
     {
       "classification": "party",
-      "id": "party/lpc",
+      "id": "lpc",
       "identifiers": [
         {
           "identifier": "Q19289142",
@@ -1966,7 +1966,7 @@
     },
     {
       "classification": "party",
-      "id": "party/mfp",
+      "id": "mfp",
       "identifiers": [
         {
           "identifier": "Q1314792",
@@ -1991,7 +1991,7 @@
     },
     {
       "classification": "party",
-      "id": "party/nip",
+      "id": "nip",
       "identifiers": [
         {
           "identifier": "Q6973497",
@@ -2035,7 +2035,7 @@
     },
     {
       "classification": "party",
-      "id": "party/pfd",
+      "id": "pfd",
       "identifiers": [
         {
           "identifier": "Q2104299",
@@ -2054,7 +2054,7 @@
     },
     {
       "classification": "party",
-      "id": "party/rcl",
+      "id": "rcl",
       "identifiers": [
         {
           "identifier": "Q24233197",
@@ -2089,7 +2089,7 @@
     {
       "area_id": "15",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "01de6347-61b2-48e1-ab70-d7f779e5b84c",
       "role": "member",
@@ -2102,7 +2102,7 @@
     {
       "area_id": "7",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "01fab1db-9250-4f2b-9c55-ece7607c6da2",
       "role": "member",
@@ -2115,7 +2115,7 @@
     {
       "area_id": "43",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "039a8cbd-0aa7-4df4-92f4-5d710ea9393c",
       "role": "member",
@@ -2126,9 +2126,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "04246f47-8b5b-4c8f-86c1-8ab3fb874823",
       "role": "member",
@@ -2141,7 +2141,7 @@
     {
       "area_id": "36",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "0a9409d3-7d3b-4896-a510-744882d10ba7",
       "role": "member",
@@ -2152,9 +2152,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "0b3d1f8c-f25f-4429-97d4-29e2497b1e50",
       "role": "member",
@@ -2167,7 +2167,7 @@
     {
       "area_id": "73",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "0cbe0e76-382e-4bef-b251-ce5810c35e85",
       "role": "member",
@@ -2178,9 +2178,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "1097bcfe-9b4c-46f5-921f-6c6500326b92",
       "role": "member",
@@ -2193,7 +2193,7 @@
     {
       "area_id": "24",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "115224b0-8696-4163-9033-26db1ef2ee66",
       "role": "member",
@@ -2206,7 +2206,7 @@
     {
       "area_id": "71",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "11feeed3-497a-4d88-aafc-1d151e42ce80",
       "role": "member",
@@ -2217,9 +2217,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "14547855-d20e-4327-b361-bea55d027373",
       "role": "member",
@@ -2232,7 +2232,7 @@
     {
       "area_id": "29",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "14cd531f-dd01-4add-a62c-950da21fdf76",
       "role": "member",
@@ -2245,7 +2245,7 @@
     {
       "area_id": "80",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "17e1969d-af61-4b42-aa52-f6f476a0c710",
       "role": "member",
@@ -2256,9 +2256,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "191159aa-3c0b-49f5-9ef9-6b2e46c9a2ee",
       "role": "member",
@@ -2271,7 +2271,7 @@
     {
       "area_id": "13",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "1df66364-5bfe-45c5-aece-32da45dc3599",
       "role": "member",
@@ -2284,7 +2284,7 @@
     {
       "area_id": "50",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "216a235f-5673-49a1-8cf7-b53865cae9e8",
       "role": "member",
@@ -2297,7 +2297,7 @@
     {
       "area_id": "11",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "233b48be-0d3d-46ea-a1af-6669a3af4fd5",
       "role": "member",
@@ -2310,7 +2310,7 @@
     {
       "area_id": "6",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "25e83737-8f93-4a6d-a5ef-e4f66d383277",
       "role": "member",
@@ -2321,9 +2321,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bcp",
+      "on_behalf_of_id": "bcp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "2632fc4b-e280-464a-9c46-39cc04cceb4b",
       "role": "member",
@@ -2334,9 +2334,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "2701e2ce-9a5a-40d7-a4e2-f992eca3d726",
       "role": "member",
@@ -2347,9 +2347,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "2a288956-6439-4fce-a35c-2c657dcf527c",
       "role": "member",
@@ -2362,7 +2362,7 @@
     {
       "area_id": "27",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "2c735ed9-5e23-42fc-a824-4ff0329bb312",
       "role": "member",
@@ -2375,7 +2375,7 @@
     {
       "area_id": "68",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "3110a319-c395-44b2-9cea-20dd31f40de3",
       "role": "member",
@@ -2388,7 +2388,7 @@
     {
       "area_id": "66",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "31c90c11-df12-46f7-8cbd-2272d0968a45",
       "role": "member",
@@ -2401,7 +2401,7 @@
     {
       "area_id": "16",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "33700b91-2172-423a-9805-0f1015ab6506",
       "role": "member",
@@ -2412,9 +2412,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/pfd",
+      "on_behalf_of_id": "pfd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "352545ec-bd02-46f2-aad9-ad8f064a1a35",
       "role": "member",
@@ -2425,9 +2425,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "3553ccb4-d1c7-405b-a80a-e1bd9565aa17",
       "role": "member",
@@ -2438,9 +2438,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "3b88ecf9-4546-42ce-a31d-7c96081619c5",
       "role": "member",
@@ -2453,7 +2453,7 @@
     {
       "area_id": "33",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "3ec6c64e-a2fd-4ebf-9d31-2a741901a680",
       "role": "member",
@@ -2466,7 +2466,7 @@
     {
       "area_id": "75",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "41f65de5-05b1-4246-8f7b-d0412f83088d",
       "role": "member",
@@ -2479,7 +2479,7 @@
     {
       "area_id": "56",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "42993ec3-0252-4837-a170-ac92ea28e2bd",
       "role": "member",
@@ -2490,9 +2490,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "46a471b3-36a4-4792-a0c3-dfb246fc470f",
       "role": "member",
@@ -2505,7 +2505,7 @@
     {
       "area_id": "48",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "47bc10d3-1382-4e1f-97fe-486bdd0a11c0",
       "role": "member",
@@ -2518,7 +2518,7 @@
     {
       "area_id": "62",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "48803272-e768-4625-8ee5-ac9307a944a7",
       "role": "member",
@@ -2531,7 +2531,7 @@
     {
       "area_id": "70",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "49fa9a4e-03ee-410d-843d-8e36064fdeba",
       "role": "member",
@@ -2544,7 +2544,7 @@
     {
       "area_id": "28",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "4a3d2347-fbab-498d-b57e-a1709327f50b",
       "role": "member",
@@ -2557,7 +2557,7 @@
     {
       "area_id": "4",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "4ab525f0-a9e5-496f-a0b1-72b617850fa9",
       "role": "member",
@@ -2570,7 +2570,7 @@
     {
       "area_id": "22",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "4bbb005c-5062-466f-99c2-1ddff527955e",
       "role": "member",
@@ -2583,7 +2583,7 @@
     {
       "area_id": "51",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "4cee954e-8358-4a92-8973-fa8a675e77f7",
       "role": "member",
@@ -2594,9 +2594,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "50aef317-b776-4438-b96c-22e7fbbe02b7",
       "role": "member",
@@ -2609,7 +2609,7 @@
     {
       "area_id": "78",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "50c2b0d6-760f-4be4-bb2e-4eb61483b898",
       "role": "member",
@@ -2620,9 +2620,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "50d00955-d743-4b08-b8f1-f14defd3f087",
       "role": "member",
@@ -2635,7 +2635,7 @@
     {
       "area_id": "3",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5114ab09-9534-47ec-b6c7-4de941e49d1f",
       "role": "member",
@@ -2648,7 +2648,7 @@
     {
       "area_id": "37",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "521e3854-7ad7-4902-b00b-b2b504523123",
       "role": "member",
@@ -2659,9 +2659,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "53c3f234-6a7f-4931-b4df-a14946d463e4",
       "role": "member",
@@ -2674,7 +2674,7 @@
     {
       "area_id": "65",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "53c9ff92-74e3-4339-a4e1-11b35e717904",
       "role": "member",
@@ -2687,7 +2687,7 @@
     {
       "area_id": "10",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5bf07ee3-ccb6-4f49-abfc-88ece7071ccd",
       "role": "member",
@@ -2700,7 +2700,7 @@
     {
       "area_id": "57",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5cb3bfec-0a11-4c08-9d8f-ab2ef11d543c",
       "role": "member",
@@ -2713,7 +2713,7 @@
     {
       "area_id": "61",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5d3e5708-e5d7-4891-be00-e498d554c0da",
       "role": "member",
@@ -2724,9 +2724,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/pfd",
+      "on_behalf_of_id": "pfd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5d5bca53-07c8-4c18-99f5-90cfafaa8864",
       "role": "member",
@@ -2739,7 +2739,7 @@
     {
       "area_id": "63",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5e2de8f1-3344-4365-b7fa-1fea08664634",
       "role": "member",
@@ -2752,7 +2752,7 @@
     {
       "area_id": "21",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "5e371b49-96ce-4d39-b1f9-e3e2f329699c",
       "role": "member",
@@ -2763,9 +2763,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "6444f656-d621-4e21-8c5e-94ce3df680f2",
       "role": "member",
@@ -2778,7 +2778,7 @@
     {
       "area_id": "72",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "67b080a8-20bd-434e-89d8-cc5a2b81c2ec",
       "role": "member",
@@ -2791,7 +2791,7 @@
     {
       "area_id": "58",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "68f98519-ca75-462c-beda-c98a2d159daf",
       "role": "member",
@@ -2802,9 +2802,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "6e011f52-10a4-4b50-8927-43ba16218f7c",
       "role": "member",
@@ -2817,7 +2817,7 @@
     {
       "area_id": "53",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "6ebf34aa-61b5-410f-92bd-867037c679d5",
       "role": "member",
@@ -2828,9 +2828,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "71d42e1c-b63b-4b87-ae9f-3fa7119226f4",
       "role": "member",
@@ -2841,9 +2841,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "746bf64f-edf4-4d72-bfd2-1a9f6c7b5cd6",
       "role": "member",
@@ -2856,7 +2856,7 @@
     {
       "area_id": "17",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "7b558a69-4918-4900-949d-f52107844635",
       "role": "member",
@@ -2869,7 +2869,7 @@
     {
       "area_id": "25",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "81e4fadf-171c-4b78-9efa-c0b452705639",
       "role": "member",
@@ -2882,7 +2882,7 @@
     {
       "area_id": "19",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "81e7d54d-5868-4465-97e5-341c1d986787",
       "role": "member",
@@ -2895,7 +2895,7 @@
     {
       "area_id": "45",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "86f17fb8-b1c2-4636-88db-8239ca67b105",
       "role": "member",
@@ -2921,7 +2921,7 @@
     {
       "area_id": "35",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "8a299790-f663-46a9-bcdb-309094491173",
       "role": "member",
@@ -2934,7 +2934,7 @@
     {
       "area_id": "76",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "8d5c677c-8b39-4a6e-aa5d-de4fceb0c63a",
       "role": "member",
@@ -2947,7 +2947,7 @@
     {
       "area_id": "69",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "8e30cab6-e8a3-43b7-ac97-ec0bc3df00a8",
       "role": "member",
@@ -2958,9 +2958,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/mfp",
+      "on_behalf_of_id": "mfp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "8ec41f87-dde9-4cc1-81ae-9b8ce20bcf3e",
       "role": "member",
@@ -2973,7 +2973,7 @@
     {
       "area_id": "77",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "8f157300-13a9-4abe-8902-2bc00aa08f5f",
       "role": "member",
@@ -2984,9 +2984,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "93031b43-807a-44d6-bae6-842503eb861d",
       "role": "member",
@@ -2999,7 +2999,7 @@
     {
       "area_id": "38",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "9379007c-9f63-4e3f-b7a9-55da87162b84",
       "role": "member",
@@ -3010,9 +3010,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "952fc903-9fc4-4d3d-b24c-58443e3f964c",
       "role": "member",
@@ -3025,7 +3025,7 @@
     {
       "area_id": "49",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "969f6e66-555c-4473-9750-279cba99e1ef",
       "role": "member",
@@ -3038,7 +3038,7 @@
     {
       "area_id": "32",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "9797a8c8-152a-45ec-a79c-a5ac01c4fc41",
       "role": "member",
@@ -3051,7 +3051,7 @@
     {
       "area_id": "34",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "9de92e1e-a2bd-49ba-87e3-844d5ea203c8",
       "role": "member",
@@ -3064,7 +3064,7 @@
     {
       "area_id": "47",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "9faa3ee4-e945-4d74-b257-e8f1569595b4",
       "role": "member",
@@ -3075,9 +3075,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a1af50d8-6875-443e-b1dd-9355fd0e4342",
       "role": "member",
@@ -3090,7 +3090,7 @@
     {
       "area_id": "46",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a585a777-2218-44fb-8244-441f6e9b6393",
       "role": "member",
@@ -3103,7 +3103,7 @@
     {
       "area_id": "18",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a5a1e55e-320e-432a-a63c-c6e7cbf58f68",
       "role": "member",
@@ -3116,7 +3116,7 @@
     {
       "area_id": "40",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a8559555-fdeb-4ed4-9798-02d01e855823",
       "role": "member",
@@ -3129,7 +3129,7 @@
     {
       "area_id": "39",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a9638b83-0419-48a7-b779-cfd3739d00d5",
       "role": "member",
@@ -3140,9 +3140,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "a9cbed8f-b04a-46a1-a854-8a665c29f27c",
       "role": "member",
@@ -3155,7 +3155,7 @@
     {
       "area_id": "44",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "aa69426f-51a2-4890-bc77-77836474ed62",
       "role": "member",
@@ -3166,9 +3166,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/nip",
+      "on_behalf_of_id": "nip",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "aa8e680c-a32b-44c3-931f-d1ef51fe11a1",
       "role": "member",
@@ -3181,7 +3181,7 @@
     {
       "area_id": "20",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ad55707d-6676-48f8-96ee-9d8960c3c84d",
       "role": "member",
@@ -3192,9 +3192,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/rcl",
+      "on_behalf_of_id": "rcl",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ada555f9-d628-4bb5-a48b-9a56645060a5",
       "role": "member",
@@ -3205,9 +3205,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ae77a0a1-36a1-4e97-bcca-1ec480f00dc3",
       "role": "member",
@@ -3220,7 +3220,7 @@
     {
       "area_id": "67",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/bnp",
+      "on_behalf_of_id": "bnp",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "b248fbd0-2d7c-4573-97f5-a29de2793111",
       "role": "member",
@@ -3231,9 +3231,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "b678ece7-0d5c-4be1-b4c5-c8d2d3be329a",
       "role": "member",
@@ -3244,9 +3244,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "b7a17462-7ef4-4ec8-a177-ba69071e6672",
       "role": "member",
@@ -3259,7 +3259,7 @@
     {
       "area_id": "23",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "b7aae119-84c4-42a0-af54-1001a594b0ed",
       "role": "member",
@@ -3272,7 +3272,7 @@
     {
       "area_id": "8",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "bab8e1c8-947b-4426-ad0c-cef78dc20e4f",
       "role": "member",
@@ -3283,9 +3283,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "bc8005c2-1aad-4191-964c-c0efad923f3a",
       "role": "member",
@@ -3296,9 +3296,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lpc",
+      "on_behalf_of_id": "lpc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "bdde3184-4202-4bc2-a325-5cfb0f981cbe",
       "role": "member",
@@ -3311,7 +3311,7 @@
     {
       "area_id": "59",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "beb6b168-d0e7-4969-bb10-3a303daff5bb",
       "role": "member",
@@ -3322,9 +3322,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/rcl",
+      "on_behalf_of_id": "rcl",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "c093d2d9-9b17-4f45-b624-bd3985f480da",
       "role": "member",
@@ -3335,9 +3335,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "c0b35d77-324a-4502-8463-551d9d6d47bf",
       "role": "member",
@@ -3350,7 +3350,7 @@
     {
       "area_id": "1",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "c18fa321-3d3a-47f0-8433-7a1b78797944",
       "role": "member",
@@ -3363,7 +3363,7 @@
     {
       "area_id": "64",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "c3cee34c-af0c-46b5-87a5-96744dbb384b",
       "role": "member",
@@ -3376,7 +3376,7 @@
     {
       "area_id": "52",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "c96ec2a1-5c3f-4a2b-be6d-f786a7ba7a47",
       "role": "member",
@@ -3389,7 +3389,7 @@
     {
       "area_id": "5",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "cadd080c-d452-4441-989f-7457a7d99855",
       "role": "member",
@@ -3402,7 +3402,7 @@
     {
       "area_id": "14",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "cc7065aa-77ea-4e5c-b20f-80650e467c07",
       "role": "member",
@@ -3413,9 +3413,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d0646ca8-3c1c-4dc1-b236-44e2d7283a49",
       "role": "member",
@@ -3428,7 +3428,7 @@
     {
       "area_id": "9",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d06807ea-ddba-4813-a1ea-5d1e49b591f6",
       "role": "member",
@@ -3441,7 +3441,7 @@
     {
       "area_id": "26",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d09fdef0-09c7-4d1f-8122-476c342f0097",
       "role": "member",
@@ -3454,7 +3454,7 @@
     {
       "area_id": "30",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d160c605-a9f4-41ce-9d65-8e5f5d4bb2b5",
       "role": "member",
@@ -3467,7 +3467,7 @@
     {
       "area_id": "42",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d1c92e22-90d2-4699-8c00-4894fa1f5406",
       "role": "member",
@@ -3480,7 +3480,7 @@
     {
       "area_id": "31",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "d799493a-aa3c-4ca7-a723-a274399d96dc",
       "role": "member",
@@ -3493,7 +3493,7 @@
     {
       "area_id": "74",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "dad5c322-c9c4-442e-80ce-4df9ad0aac02",
       "role": "member",
@@ -3506,7 +3506,7 @@
     {
       "area_id": "2",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "dbfa734e-008d-49cd-8a73-73eb2dc0b284",
       "role": "member",
@@ -3519,7 +3519,7 @@
     {
       "area_id": "55",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "dc884450-01cf-447c-9bec-4a2e62f0472a",
       "role": "member",
@@ -3532,7 +3532,7 @@
     {
       "area_id": "41",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "dd633596-9cd7-44cc-95ca-69f133ab80f9",
       "role": "member",
@@ -3543,9 +3543,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "e6f86017-2b3e-4d8a-b718-dd2373b86f68",
       "role": "member",
@@ -3558,7 +3558,7 @@
     {
       "area_id": "54",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "e9a61eaf-d26f-41e6-a53b-2879ab92d720",
       "role": "member",
@@ -3571,7 +3571,7 @@
     {
       "area_id": "12",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ea041021-dd18-4424-85f8-e3bb132571fa",
       "role": "member",
@@ -3582,9 +3582,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/abc",
+      "on_behalf_of_id": "abc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ea0fc143-7969-4116-a2d8-245fc1efc40f",
       "role": "member",
@@ -3595,9 +3595,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "eb9bbe18-078a-4676-b546-fafa81cb5ed4",
       "role": "member",
@@ -3610,7 +3610,7 @@
     {
       "area_id": "60",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/dc",
+      "on_behalf_of_id": "dc",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ee1cb3f4-2eea-49c1-9c11-593fd09d5abb",
       "role": "member",
@@ -3621,9 +3621,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "ee994402-ff07-4072-ab72-8b698c370ee2",
       "role": "member",
@@ -3634,9 +3634,9 @@
       ]
     },
     {
-      "area_id": "area/proportional_representation",
+      "area_id": "proportional_representation",
       "legislative_period_id": "term/9",
-      "on_behalf_of_id": "party/lcd",
+      "on_behalf_of_id": "lcd",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "person_id": "f8054f66-a4b2-4bf9-bd6f-bce07bb05c61",
       "role": "member",
@@ -4175,7 +4175,7 @@
       "type": "constituency"
     },
     {
-      "id": "area/proportional_representation",
+      "id": "proportional_representation",
       "name": "Proportional Representation",
       "type": "constituency"
     }
