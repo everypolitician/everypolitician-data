@@ -60,16 +60,6 @@ namespace :merge_members do
       end
     end
 
-    # OCD names -> IDs
-    @INSTRUCTIONS.sources_of_type('ocd-ids').each do |source|
-      warn "Adding OCD ids from #{source.filename}".green
-      merged_rows = source.merged_with(merged_rows)
-      if source.warnings.any?
-        warn 'Unmatched areas'
-        warn source.warnings.to_a.join("\n")
-      end
-    end
-
     # Any local corrections in manual/corrections.csv
     @INSTRUCTIONS.sources_of_type('corrections').each do |source|
       warn "Applying local corrections from #{source.filename}".green

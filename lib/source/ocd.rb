@@ -9,39 +9,15 @@ module Source
       %i[area area_id]
     end
 
-    def fuzzy_match?
-      i(:merge)[:fuzzy]
-    end
-
-    def overrides
-      return {} unless i(:merge)
-      return {} unless i(:merge).key? :overrides
-      i(:merge)[:overrides]
-    end
-
     def generate
       i(:generate)
     end
   end
 
-  class OCD::IDs < OCD
-    def merged_with(csv)
-      ocds = as_table.group_by { |r| r[:id] }
-      overrides_with_string_keys = Hash[overrides.map { |k, v| [k.to_s, v] }]
-      lookup_class = fuzzy_match? ? ::OCD::Lookup::Fuzzy : ::OCD::Lookup::Plain
-      ocd_ids = lookup_class.new(as_table, overrides_with_string_keys)
-      csv.select { |r| r[:area_id].nil? }.each do |r|
-        area = ocd_ids.from_name(r[:area])
-        if area.nil?
-          add_warning "  No area match for #{r[:area]}"
-          next
-        end
-        r[:area_id] = area
-      end
-      csv
-    end
-  end
-
+  # we used to also have an OCD::IDs subclass, but it's no longer used.
+  # We could get rid of the need for _this_ subclass, by pushing
+  # everything up into the parent, but the longer term goal is to get
+  # rid of all OCD-handling entirely, so we'll put up with this for now.
   class OCD::Names < OCD
     def merged_with(csv)
       ocds = as_table.group_by { |r| r[:id] }

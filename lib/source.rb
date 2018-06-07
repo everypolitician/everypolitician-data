@@ -11,7 +11,6 @@ module Source
       'person'             => Source::Person,
       'wikidata'           => Source::Wikidata,
       'group'              => Source::Group,
-      'ocd-ids'            => Source::OCD::IDs,
       'ocd-names'          => Source::OCD::Names,
       'area-wikidata'      => Source::Area,
       'gender'             => Source::Gender,
