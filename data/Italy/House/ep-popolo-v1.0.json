@@ -58166,11 +58166,6 @@
       ]
     },
     {
-      "classification": "party",
-      "id": "party/gruppo_misto",
-      "name": "Gruppo Misto"
-    },
-    {
       "classification": "legislature",
       "id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "identifiers": [
@@ -62104,9 +62099,8 @@
       ]
     },
     {
-      "area_id": "area/lazio_1",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "1b37f697-e15c-4cbc-b0f4-ec0743156259",
       "role": "member",
@@ -64997,9 +64991,8 @@
       ]
     },
     {
-      "area_id": "area/veneto_1",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "515a106e-707f-4568-a19c-74dfbca476df",
       "role": "member",
@@ -66888,9 +66881,8 @@
       "start_date": "2013-03-21"
     },
     {
-      "area_id": "area/puglia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/gruppo_misto",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "756a4e14-a6dd-49d2-a1c4-fdeb3b003ba4",
       "role": "member",
@@ -69087,9 +69079,8 @@
       "start_date": "2017-03-20"
     },
     {
-      "area_id": "area/puglia",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "960c9a7a-d2e8-44f2-b5e1-a3f8bc05a268",
       "role": "member",
@@ -71880,9 +71871,8 @@
       ]
     },
     {
-      "area_id": "area/campania_2",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/partito_democratico",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c4e0f132-2ad1-478c-83ac-ab47ded48f8b",
       "role": "member",
@@ -76406,26 +76396,6 @@
     {
       "id": "XXVII",
       "name": "VALLE D'AOSTA",
-      "type": "constituency"
-    },
-    {
-      "id": "area/campania_2",
-      "name": "Campania 2",
-      "type": "constituency"
-    },
-    {
-      "id": "area/lazio_1",
-      "name": "Lazio 1",
-      "type": "constituency"
-    },
-    {
-      "id": "area/puglia",
-      "name": "Puglia",
-      "type": "constituency"
-    },
-    {
-      "id": "area/veneto_1",
-      "name": "Veneto 1",
       "type": "constituency"
     }
   ]
