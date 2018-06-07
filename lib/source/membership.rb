@@ -18,6 +18,10 @@ module Source
         # remap any group_id fields to our local UUID for them
         # For now we silently ignore any that are not mapped.
         r[:group_id] = partymapping.fetch(r[:group_id], r[:group_id])
+
+        # remap any area_id fields to our local UUID for them
+        # For now we silently ignore any that are not mapped.
+        r[:area_id] = areamapping.fetch(r[:area_id], r[:area_id])
       end
     end
 
@@ -69,6 +73,10 @@ module Source
       @group_mapfile ||= UuidMapFile.new(group_id_map_file)
     end
 
+    def area_mapfile
+      @area_mapfile ||= UuidMapFile.new(area_id_map_file)
+    end
+
     private
 
     def write_id_map_file!(id_map)
@@ -83,8 +91,16 @@ module Source
       filename.parent.parent + 'idmap/group/' + filename.basename
     end
 
+    def area_id_map_file
+      filename.parent.parent + 'idmap/area/' + filename.basename
+    end
+
     def partymapping
       @partymapping ||= group_mapfile.mapping
+    end
+
+    def areamapping
+      @areamapping ||= area_mapfile.mapping
     end
   end
 end
