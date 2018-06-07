@@ -56,21 +56,6 @@
       }
     },
     {
-      "file": "ocd/divisions.csv",
-      "create": {
-        "from": "ocd",
-        "source": "country-au/federal_electorates.csv"
-      },
-      "merge": {
-        "overrides": {
-          "Fraser, Australian Capital Territory": "ocd-division/country:au/territory:act/federal_electorate:fraser",
-          "Northern Territory": ""
-        },
-        "fuzzy": true
-      },
-      "type": "ocd-ids"
-    },
-    {
       "file": "morph/areas.csv",
       "create": {
         "from": "morph",
