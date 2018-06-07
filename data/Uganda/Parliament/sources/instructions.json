@@ -79,16 +79,6 @@
       }
     },
     {
-      "file": "ocd/divisions.csv",
-      "create": {
-        "url": "https://github.com/theyworkforyou/uganda_ocd_ids/raw/master/identifiers/country-ug.csv"
-      },
-      "type": "ocd-ids",
-      "merge": {
-        "fuzzy": true
-      }
-    },
-    {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "create": {
