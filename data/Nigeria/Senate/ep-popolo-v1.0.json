@@ -3376,23 +3376,39 @@
       ]
     },
     {
+      "birth_date": "1962-01-05",
       "contact_details": [
         {
           "type": "phone",
           "value": "08055024340"
         }
       ],
+      "gender": "female",
+      "given_name": "Stella",
       "id": "b3c68cc0-3a3e-4d47-8feb-bb6d75c4f343",
       "identifiers": [
         {
           "identifier": "712",
           "scheme": "nass"
+        },
+        {
+          "identifier": "Q7607111",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.nass.gov.ng/images/mps/712.jpg",
       "images": [
         {
           "url": "https://www.nass.gov.ng/images/mps/712.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Princess_Stella_Oduah-Ogiemwonyi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stella_Oduah-Ogiemwonyi"
         }
       ],
       "name": "ODUAH STELLA",
@@ -3400,6 +3416,11 @@
         {
           "name": "ODUAH ADAEZE STELLA",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stella Oduah-Ogiemwonyi",
+          "note": "multilingual"
         }
       ]
     },
@@ -5409,6 +5430,10 @@
         {
           "identifier": "734",
           "scheme": "nass"
+        },
+        {
+          "identifier": "Q52274670",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.nass.gov.ng/images/mps/734.jpg",
@@ -5417,11 +5442,22 @@
           "url": "https://www.nass.gov.ng/images/mps/734.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Clifford_Ordia"
+        }
+      ],
       "name": "ORDIA CLIFFORD",
       "other_names": [
         {
           "name": "ORDIA AHIMIENMONA CLIFFORD",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Clifford Ordia",
+          "note": "multilingual"
         }
       ]
     },
