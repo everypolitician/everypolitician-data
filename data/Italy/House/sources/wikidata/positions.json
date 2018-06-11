@@ -660,7 +660,10 @@
       "description": "Italian minister",
       "qualifiers": {
         "P580": "2014-02-22",
-        "P1365": "Annamaria Cancellieri"
+        "P1365": "Annamaria Cancellieri",
+        "P582": "2016-12-12",
+        "P1366": "Andrea Orlando",
+        "P5054": "Renzi Cabinet"
       }
     },
     {
@@ -713,6 +716,19 @@
       "qualifiers": {
         "P2937": "16th Legislature of Italy",
         "P768": null
+      }
+    },
+    {
+      "id": "Q25973167",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2016-12-12",
+        "P582": "2018-06-01",
+        "P1365": "Andrea Orlando",
+        "P1366": "Alfonso Bonafede",
+        "P5054": "Gentiloni Cabinet"
       }
     }
   ],
@@ -797,10 +813,9 @@
       "title": "Minister of Education",
       "description": "Italian education minister",
       "qualifiers": {
-        "P1366": "Mariastella Gelmini",
-        "P1365": "Letizia Moratti",
         "P580": "2006-05-17",
-        "P582": "2008-05-08"
+        "P582": "2008-05-08",
+        "P5054": "Prodi II Cabinet"
       }
     },
     {
@@ -2365,6 +2380,32 @@
         "P4100": "Popular Area",
         "P768": "Lombardie 1"
       }
+    },
+    {
+      "id": "Q6092845",
+      "label": "Italian Minister of Transports and Infrastructures",
+      "title": "Italian Minister of Transports and Infrastructures",
+      "description": "member of the Cabinet of the Italian Republic",
+      "qualifiers": {
+        "P580": "2013-04-28",
+        "P582": "2014-02-22",
+        "P1365": "Corrado Passera",
+        "P1366": "Maurizio Lupi",
+        "P5054": "Letta Cabinet"
+      }
+    },
+    {
+      "id": "Q6092845",
+      "label": "Italian Minister of Transports and Infrastructures",
+      "title": "Italian Minister of Transports and Infrastructures",
+      "description": "member of the Cabinet of the Italian Republic",
+      "qualifiers": {
+        "P580": "2014-02-22",
+        "P582": "2015-03-20",
+        "P1365": "Maurizio Lupi",
+        "P1366": "Matteo Renzi",
+        "P5054": "Renzi Cabinet"
+      }
     }
   ],
   "Q13433334": [
@@ -3045,15 +3086,13 @@
       }
     },
     {
-      "id": "Q6092845",
-      "label": "Italian Minister of Transports and Infrastructures",
-      "title": "Italian Minister of Transports and Infrastructures",
-      "description": "member of the Cabinet of the Italian Republic",
+      "id": "Q54869264",
       "qualifiers": {
         "P580": "1999-12-22",
-        "P582": "2001-06-11",
+        "P582": "2000-04-26",
         "P1365": "Tiziano Treu",
-        "P1366": "Pietro Lunardi"
+        "P5054": "D'Alema II Cabinet",
+        "P1366": "Pier Luigi Bersani"
       }
     },
     {
@@ -3117,6 +3156,15 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P768": "Lombardie 1"
+      }
+    },
+    {
+      "id": "Q54869264",
+      "qualifiers": {
+        "P580": "2000-04-26",
+        "P582": "2001-06-11",
+        "P1365": "Pier Luigi Bersani",
+        "P5054": "Amato II Cabinet"
       }
     }
   ],
@@ -3778,6 +3826,18 @@
         "P2937": "17th Legislature of Italy",
         "P4100": "Brothers of Italy",
         "P768": null
+      }
+    },
+    {
+      "id": "Q1538785",
+      "label": "Italian Minister of Defence",
+      "title": "Italian Minister of Defence",
+      "qualifiers": {
+        "P580": "2008-05-08",
+        "P582": "2011-11-16",
+        "P1365": "Arturo Parisi",
+        "P1366": "Giampaolo Di Paola",
+        "P5054": "Monti Cabinet"
       }
     }
   ],
@@ -4709,7 +4769,7 @@
         "P1366": "Francesco Profumo",
         "P580": "2008-05-08",
         "P582": "2011-11-16",
-        "P1365": "Giuseppe Fioroni"
+        "P5054": "Berlusconi IV Cabinet"
       }
     },
     {
@@ -4918,6 +4978,30 @@
         "P1366": "Susanna Agnelli",
         "P5054": "Berlusconi I Cabinet"
       }
+    },
+    {
+      "id": "Q1538785",
+      "label": "Italian Minister of Defence",
+      "title": "Italian Minister of Defence",
+      "qualifiers": {
+        "P580": "2005-04-23",
+        "P582": "2006-05-17",
+        "P1365": "Antonio Martino",
+        "P1366": "Arturo Parisi",
+        "P5054": "Berlusconi III Cabinet"
+      }
+    },
+    {
+      "id": "Q1538785",
+      "label": "Italian Minister of Defence",
+      "title": "Italian Minister of Defence",
+      "qualifiers": {
+        "P580": "2001-06-11",
+        "P582": "2005-04-23",
+        "P1365": "Sergio Mattarella",
+        "P1366": "Antonio Martino",
+        "P5054": "Berlusconi II Cabinet"
+      }
     }
   ],
   "Q3703513": [
@@ -5025,7 +5109,8 @@
         "P580": "2013-04-28",
         "P582": "2014-02-22",
         "P1366": "Stefania Giannini",
-        "P1365": "Francesco Profumo"
+        "P1365": "Francesco Profumo",
+        "P5054": "Letta Cabinet"
       }
     },
     {
@@ -5170,6 +5255,17 @@
         "P4100": "Five Star Movement",
         "P768": null,
         "P2715": "Italian general election, 2013"
+      }
+    },
+    {
+      "id": "Q25973167",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2018-06-01",
+        "P1365": "Andrea Orlando",
+        "P5054": "Conte Cabinet"
       }
     }
   ],
@@ -5392,10 +5488,10 @@
       "description": "position",
       "qualifiers": {
         "P580": "2010-04-16",
-        "P582": "2011-03-16",
+        "P582": "2011-03-23",
         "P1365": "Luca Zaia",
         "P1366": "Francesco Saverio Romano",
-        "P488": "Silvio Berlusconi"
+        "P5054": "Berlusconi IV Cabinet"
       }
     },
     {
@@ -5774,7 +5870,7 @@
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P582": "2013-03-15",
-        "P580": "2013-06-03",
+        "P580": "2013-03-15",
         "P2715": "Italian general election, 2013",
         "P768": "Lombardie 1"
       }
@@ -5795,7 +5891,8 @@
       "description": "position",
       "qualifiers": {
         "P580": "2018-06-01",
-        "P1365": "Marco Minniti"
+        "P1365": "Marco Minniti",
+        "P5054": "Conte Cabinet"
       }
     }
   ],
@@ -6286,10 +6383,10 @@
       "description": "position",
       "qualifiers": {
         "P580": "2011-03-23",
-        "P582": "2011-11-23",
+        "P582": "2011-11-16",
         "P1365": "Giancarlo Galan",
         "P1366": "Mario Catania",
-        "P488": "Silvio Berlusconi"
+        "P5054": "Berlusconi IV Cabinet"
       }
     },
     {
@@ -6406,17 +6503,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
         "P4100": "Five Star Movement",
         "P768": null
+      }
+    },
+    {
+      "id": "Q6092845",
+      "label": "Italian Minister of Transports and Infrastructures",
+      "title": "Italian Minister of Transports and Infrastructures",
+      "description": "member of the Cabinet of the Italian Republic",
+      "qualifiers": {
+        "P580": "2018-06-01",
+        "P1365": "Graziano Delrio",
+        "P5054": "Conte Cabinet"
       }
     }
   ],
@@ -7840,9 +7942,9 @@
       }
     },
     {
-      "id": "Q33125109",
-      "label": "Italian Minister of Regional Affairs and Autonomies",
-      "title": "Italian Minister of Regional Affairs and Autonomies",
+      "id": "Q54868717",
+      "label": "Italian Minister of Regional Affairs",
+      "title": "Italian Minister of Regional Affairs",
       "qualifiers": {
         "P580": "2016-12-12",
         "P582": "2017-07-19",
@@ -8251,12 +8353,6 @@
     }
   ],
   "Q16578279": [
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
     {
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
@@ -10117,7 +10213,8 @@
         "P580": "2008-05-08",
         "P582": "2011-07-27",
         "P1365": "Luigi Scotti",
-        "P1366": "Nitto Francesco Palma"
+        "P1366": "Nitto Francesco Palma",
+        "P5054": "Berlusconi IV Cabinet"
       }
     },
     {
@@ -10160,7 +10257,8 @@
         "P580": "2016-12-12",
         "P582": "2018-06-01",
         "P1365": "Paolo Gentiloni",
-        "P1366": "Enzo Moavero Milanesi"
+        "P1366": "Enzo Moavero Milanesi",
+        "P5054": "Gentiloni Cabinet"
       }
     }
   ],
@@ -11278,7 +11376,8 @@
         "P580": "2013-04-28",
         "P582": "2014-02-21",
         "P1365": "Mario Monti",
-        "P1366": "Matteo Renzi"
+        "P1366": "Matteo Renzi",
+        "P5054": "Letta Cabinet"
       }
     },
     {
@@ -11294,17 +11393,17 @@
       "description": "deputy in the house of the Parliament of Italy"
     },
     {
-      "id": "Q782620",
-      "label": "Ministry of Agricultural, Food and Forestry Policies",
-      "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "agriculture ministry of Italy",
+      "id": "Q658082",
+      "label": "Italian Minister of Agriculture",
+      "title": "Italian Minister of Agriculture",
+      "description": "position",
       "qualifiers": {
         "P580": "2014-01-27",
         "P1365": "Nunzia De Girolamo",
         "P582": "2014-02-22",
         "P1366": "Maurizio Martina",
-        "P488": "Enrico Letta",
-        "P2868": "ad interim"
+        "P2868": "acting",
+        "P5054": "Letta Cabinet"
       }
     },
     {
@@ -12654,10 +12753,10 @@
       "description": "position",
       "qualifiers": {
         "P580": "2011-11-16",
-        "P582": "2013-03-16",
+        "P582": "2013-03-28",
         "P1365": "Francesco Saverio Romano",
         "P1366": "Nunzia De Girolamo",
-        "P488": "Mario Monti"
+        "P5054": "Monti Cabinet"
       }
     },
     {
@@ -12777,7 +12876,8 @@
         "P1545": "57",
         "P1366": "Giuseppe Conte",
         "P582": "2018-06-01",
-        "P748": "Sergio Mattarella"
+        "P748": "Sergio Mattarella",
+        "P5054": "Gentiloni Cabinet"
       }
     },
     {
@@ -12813,6 +12913,20 @@
       "qualifiers": {
         "P580": "2001-05-30",
         "P2937": "14th Legislature of Italy"
+      }
+    },
+    {
+      "id": "Q658082",
+      "label": "Italian Minister of Agriculture",
+      "title": "Italian Minister of Agriculture",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2018-03-13",
+        "P582": "2018-06-01",
+        "P1365": "Maurizio Martina",
+        "P1366": "Gian Marco Centinaio",
+        "P5054": "Gentiloni Cabinet",
+        "P2868": "acting"
       }
     }
   ],
@@ -13583,6 +13697,45 @@
         "P4100": "Democratic Party",
         "P768": null
       }
+    },
+    {
+      "id": "Q27795992",
+      "label": "Health minister",
+      "title": "Health minister",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "1996-05-18",
+        "P582": "1998-10-21",
+        "P1365": "Elio Guzzanti",
+        "P1366": "Rosy Bindi",
+        "P5054": "Prodi I Cabinet"
+      }
+    },
+    {
+      "id": "Q27795992",
+      "label": "Health minister",
+      "title": "Health minister",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "1998-10-21",
+        "P582": "1999-12-22",
+        "P1365": "Rosy Bindi",
+        "P1366": "Rosy Bindi",
+        "P5054": "D'Alema I Cabinet"
+      }
+    },
+    {
+      "id": "Q27795992",
+      "label": "Health minister",
+      "title": "Health minister",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "1999-12-22",
+        "P582": "2000-04-26",
+        "P1365": "Rosy Bindi",
+        "P1366": "Umberto Veronesi",
+        "P5054": "D'Alema II Cabinet"
+      }
     }
   ],
   "Q16578823": [
@@ -13644,28 +13797,22 @@
   ],
   "Q3879474": [
     {
-      "id": "Q782620",
-      "label": "Ministry of Agricultural, Food and Forestry Policies",
-      "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "agriculture ministry of Italy"
-    },
-    {
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy"
     },
     {
-      "id": "Q782620",
-      "label": "Ministry of Agricultural, Food and Forestry Policies",
-      "title": "Ministry of Agricultural, Food and Forestry Policies",
-      "description": "agriculture ministry of Italy",
+      "id": "Q658082",
+      "label": "Italian Minister of Agriculture",
+      "title": "Italian Minister of Agriculture",
+      "description": "position",
       "qualifiers": {
-        "P580": "2014-03-05",
-        "P582": "2015-04-05",
+        "P580": "2013-04-28",
+        "P582": "2014-01-27",
         "P1365": "Mario Catania",
         "P1366": "Enrico Letta",
-        "P488": "Enrico Letta"
+        "P5054": "Letta Cabinet"
       }
     },
     {
