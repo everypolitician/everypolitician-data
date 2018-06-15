@@ -3074,15 +3074,13 @@
       }
     },
     {
-      "id": "Q27991508",
-      "label": "Minister of Economic Development",
-      "title": "Minister of Economic Development",
-      "description": "Italian minister",
+      "id": "Q54961867",
       "qualifiers": {
-        "P580": "1996-05-17",
-        "P582": "1999-12-22",
+        "P580": "1996-05-18",
+        "P582": "1998-10-21",
         "P1365": "Alberto Clò",
-        "P1366": "Enrico Letta"
+        "P1366": "Pier Luigi Bersani",
+        "P5054": "Prodi I Cabinet"
       }
     },
     {
@@ -3104,7 +3102,8 @@
         "P580": "2006-05-17",
         "P582": "2008-05-08",
         "P1365": "Claudio Scajola",
-        "P1366": "Claudio Scajola"
+        "P1366": "Claudio Scajola",
+        "P5054": "Prodi II Cabinet"
       }
     },
     {
@@ -3165,6 +3164,16 @@
         "P582": "2001-06-11",
         "P1365": "Pier Luigi Bersani",
         "P5054": "Amato II Cabinet"
+      }
+    },
+    {
+      "id": "Q54961867",
+      "qualifiers": {
+        "P580": "1998-10-21",
+        "P582": "1999-12-22",
+        "P1365": "Pier Luigi Bersani",
+        "P1366": "Enrico Letta",
+        "P5054": "D'Alema I Cabinet"
       }
     }
   ],
@@ -4711,12 +4720,6 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the house of the Parliament of Italy"
-    },
-    {
-      "id": "Q18558478",
-      "label": "member of the Chamber of Deputies of the Italian Republic",
-      "title": "member of the Chamber of Deputies of the Italian Republic",
       "description": "deputy in the house of the Parliament of Italy",
       "qualifiers": {
         "P2937": "17th Legislature of Italy",
@@ -4731,6 +4734,17 @@
       "description": "position in Italian Government",
       "qualifiers": {
         "P580": "2018-06-01"
+      }
+    },
+    {
+      "id": "Q27991508",
+      "label": "Minister of Economic Development",
+      "title": "Minister of Economic Development",
+      "description": "Italian minister",
+      "qualifiers": {
+        "P580": "2018-06-01",
+        "P1365": "Carlo Calenda",
+        "P5054": "Conte Cabinet"
       }
     }
   ],
@@ -11425,6 +11439,25 @@
         "P582": "2008-05-08",
         "P1365": "Gianni Letta",
         "P1366": "Gianni Letta"
+      }
+    },
+    {
+      "id": "Q54961867",
+      "qualifiers": {
+        "P580": "1999-12-22",
+        "P582": "2000-04-26",
+        "P1365": "Pier Luigi Bersani",
+        "P1366": "Enrico Letta",
+        "P5054": "D'Alema II Cabinet"
+      }
+    },
+    {
+      "id": "Q54961867",
+      "qualifiers": {
+        "P580": "2000-04-26",
+        "P582": "2001-06-11",
+        "P1365": "Enrico Letta",
+        "P5054": "Amato II Cabinet"
       }
     }
   ],
