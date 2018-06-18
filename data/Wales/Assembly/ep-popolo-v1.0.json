@@ -336,6 +336,10 @@
           "note": "alternate"
         },
         {
+          "name": "Llyr Gruffydd",
+          "note": "alternate"
+        },
+        {
           "name": "Llyr Gruffydd AC/AM",
           "note": "alternate"
         }
@@ -400,8 +404,12 @@
           "value": "Bethan.Jenkins@assembly.wales"
         },
         {
+          "type": "email",
+          "value": "Bethan.Sayed@assembly.wales"
+        },
+        {
           "type": "twitter",
-          "value": "BethanJenkins"
+          "value": "bethanjenkins"
         }
       ],
       "email": "Bethan.Jenkins@assembly.wales",
@@ -457,12 +465,20 @@
           "url": "https://facebook.com/Bethan-Jenkins-Plaid-Cymru-Assembly-Member-38277580617"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/bethanjenkinsam"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/BethanJenkins"
+          "url": "https://twitter.com/bethanjenkins"
         }
       ],
       "name": "Bethan Jenkins",
       "other_names": [
+        {
+          "name": "Bethan Sayed",
+          "note": "alternate"
+        },
         {
           "name": "Bethan Sayed AM/AC 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
           "note": "alternate"
@@ -781,6 +797,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/david.rees.16547"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/DavidReesAMAberavon"
         },
         {
           "note": "twitter",
@@ -1367,6 +1387,10 @@
           "url": "https://facebook.com/leanne.wood.714"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/leannerhondda"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/leannewood"
         },
@@ -1486,7 +1510,7 @@
         },
         {
           "type": "twitter",
-          "value": "Lesley4Wrexham"
+          "value": "lesley4wrexham"
         }
       ],
       "email": "Lesley.Griffiths@assembly.wales",
@@ -1535,7 +1559,7 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/Lesley4Wrexham"
+          "url": "https://twitter.com/lesley4wrexham"
         }
       ],
       "name": "Lesley Griffiths"
@@ -2054,7 +2078,7 @@
         },
         {
           "type": "twitter",
-          "value": "JoyceWatsonAM"
+          "value": "JoyceWatsonam"
         }
       ],
       "email": "Joyce.Watson@assembly.wales",
@@ -2099,7 +2123,7 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/JoyceWatsonAM"
+          "url": "https://twitter.com/JoyceWatsonam"
         },
         {
           "note": "website",
@@ -2242,6 +2266,10 @@
           "url": "https://facebook.com/AndrewRTDaviesAM"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/AndrewRTDavies"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/AndrewRTDavies"
         },
@@ -2252,6 +2280,10 @@
       ],
       "name": "Andrew R. T. Davies",
       "other_names": [
+        {
+          "name": "Andrew RT Davies",
+          "note": "alternate"
+        },
         {
           "name": "Andrew RT Davies",
           "note": "alternate"
@@ -2346,7 +2378,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.kirstywilliams.org.uk/"
+          "url": "http://www.KirstyWilliams.org.uk"
         }
       ],
       "name": "Kirsty Williams",
@@ -2622,16 +2654,15 @@
           "url": "https://twitter.com/DavidRowlandsAM"
         }
       ],
-      "name": "David J Rowlands",
+      "name": "David Rowlands",
       "other_names": [
         {
-          "name": "David Rowlands AC/AM",
+          "name": "David J Rowlands",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "David Rowlands",
-          "note": "multilingual"
+          "name": "David Rowlands AC/AM",
+          "note": "alternate"
         }
       ]
     },
@@ -3255,11 +3286,44 @@
           "url": "http://www.elunedmorgan.co.uk/"
         }
       ],
-      "name": "Eluned Morgan",
+      "name": "Eluned Morgan, Baroness Morgan of Ely",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Eluned Morgan, Baroness Morgan of Ely",
+          "name": "Eluned Morgan",
+          "note": "alternate"
+        },
+        {
+          "name": "Eluned Morgan",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Eluned Morgan",
           "note": "multilingual"
         }
       ]
@@ -4403,16 +4467,15 @@
           "url": "https://twitter.com/siangwenfelin"
         }
       ],
-      "name": "Siân Gwenllian",
+      "name": "Sian Gwenllian",
       "other_names": [
         {
           "name": "Sian Gwenllian AC/AM",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "Sian Gwenllian",
-          "note": "multilingual"
+          "name": "Siân Gwenllian",
+          "note": "alternate"
         }
       ]
     },
@@ -5002,6 +5065,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/jane.hutt.714"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Jane.Hutt714"
         },
         {
           "note": "twitter",
@@ -6473,16 +6540,19 @@
           "url": "https://twitter.com/DaiLloydAM"
         }
       ],
-      "name": "Dai Lloyd",
+      "name": "David Lloyd",
       "other_names": [
+        {
+          "name": "Dai Lloyd",
+          "note": "alternate"
+        },
+        {
+          "name": "Dai Lloyd",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "دايفيد لويد",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "David Lloyd",
           "note": "multilingual"
         },
         {
@@ -6564,6 +6634,708 @@
   ],
   "organizations": [
     {
+      "classification": "legislature",
+      "id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "identifiers": [
+        {
+          "identifier": "Q493517",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "National Assembly for Wales",
+      "seats": 60,
+      "type": "unicameral legislature"
+    },
+    {
+      "classification": "party",
+      "id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+      "identifiers": [
+        {
+          "identifier": "Q10691",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.plaid.cymru"
+        }
+      ],
+      "name": "Plaid Cymru",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Plaid Cymru",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Πλάιντ Κάμρυ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "プライド・カムリ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kv",
+          "name": "Кӧмри ютыр",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия Уэльса",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Плайд Кімру",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "威尔士党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Партыя Уэльса",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "플라이드 컴리",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "פלייד קמרי",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "az",
+          "name": "Pleyd Kamri",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fa",
+          "name": "پلاید کامری",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio de Kimrujo",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "威爾士黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Plaid",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "The Party of Wales",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Plaid Cymru – the Party of Wales",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ],
+      "srgb": "3F8428"
+    },
+    {
+      "classification": "party",
+      "id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
+      "identifiers": [
+        {
+          "identifier": "Q10647",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ukip.org"
+        }
+      ],
+      "name": "UK Independence Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "UK Independence Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad evit Dizalc’hted ar Rouantelezh-Unanet",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit de la Independència del Regne Unit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Strana nezávislosti Spojeného království (UKIP)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Annibyniaeth y Deyrnas Unedig",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Κόμμα Ανεξαρτησίας Ηνωμένου Βασιλείου",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de la Independencia del Reino Unido",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "et",
+          "name": "Suurbritannia Iseseisvuspartei",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fi",
+          "name": "Yhdistyneen kuningaskunnan itsenäisyyspuolue",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Partito per l'Indipendenza del Regno Unito",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "イギリス独立党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "la",
+          "name": "Factio Libertatis Britanniarum Regni",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Niepodległości Zjednoczonego Królestwa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия независимости Соединённого Королевства",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "영국 독립당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido da Independência do Reino Unido",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب استقلال پادشاهی متحد",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ga",
+          "name": "Páirtí Neamhspleách na Ríochta Aontaithe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul pentru independența Regatului Unit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sh",
+          "name": "Stranka nezavisnosti UK",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "英国独立党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія незалежності Сполученого Королівства",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "oc",
+          "name": "Partit de l'Independéncia del Reialme Unit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "af",
+          "name": "Verenigde Koninkryk Onafhanklikheidsparty",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sr",
+          "name": "Странка за независност Уједињеног Краљевства",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب استقلال المملكة المتحدة",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "mk",
+          "name": "Партија за независност на Обединетото Кралство",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Erresuma Batuaren Independentziaren Alderdia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "yue",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "英国独立党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-my",
+          "name": "英国独立党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "英国独立党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "英國獨立黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio por la Sendependeco de la Unuiĝinta Reĝlando",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sco",
+          "name": "UK Unthirldom Pairty",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Brit Függetlenségi Párt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Birleşik Krallık Bağımsızlık Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ie",
+          "name": "Partise por li índependentie del Reyatu Unit",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Партыя незалежнасці Злучанага Каралеўства",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "UKIP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "United Kingdom Independence Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "英国独立党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "mk",
+          "name": "УКИП",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "cs",
+          "name": "Strana nezávislosti Spojeného království",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ],
+      "srgb": "EFE600"
+    },
+    {
+      "classification": "party",
+      "id": "89e51135-5b4f-480a-a931-654928c345bb",
+      "identifiers": [
+        {
+          "identifier": "Q7981882",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.welshconservatives.com/"
+        }
+      ],
+      "name": "Welsh Conservative Party",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Partit Conservador Gal·lès",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Welsh Conservative Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Konzervativní strana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Kimra Konservisma Partio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "威爾斯保守黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "웨일스 보수당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti conservateur gallois",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה השמרנית הוולשית",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Y Ceidwadwyr",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ],
+      "srgb": "0087DC"
+    },
+    {
+      "classification": "party",
+      "id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
+      "identifiers": [
+        {
+          "identifier": "Q832685",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.welshlabour.org.uk/"
+        }
+      ],
+      "name": "Welsh Labour",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Walijska Partia Pracy",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Welsh Labour",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Laborista Gal·lès",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Munkáspárt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista del Galles",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fa",
+          "name": "حزب کارگر (ولز)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Llafur Cymru",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Kimra Laborista Partio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti travailliste gallois",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "威爾斯工黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "ウェールズ労働党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "웨일스 노동당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "威爾士工黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "威尔士工党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gd",
+          "name": "Pàrtaidh Làbarach na Cuimrigh",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Wales Labour Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Llafur Cymru",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Laburista Gallese",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Welsh Labour Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ],
+      "srgb": "92000A"
+    },
+    {
+      "classification": "party",
+      "id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
+      "identifiers": [
+        {
+          "identifier": "Q7981939",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.welshlibdems.org.uk"
+        }
+      ],
+      "name": "Welsh Liberal Democrats",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Welsh Liberal Democrats",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Kimraj Liberalaj Demokratoj",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "威爾斯自由民主黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "웨일스 자유민주당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Democratiaid Rhyddfrodol Cymreig",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ],
+      "srgb": "FDBB30"
+    },
+    {
       "classification": "party",
       "id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
       "identifiers": [
@@ -6572,7 +7344,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Independent",
+      "name": "independent politician",
       "other_names": [
         {
           "lang": "zh-hans",
@@ -7451,708 +8223,6 @@
           "source": "wikidata-alias"
         }
       ]
-    },
-    {
-      "classification": "legislature",
-      "id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
-      "identifiers": [
-        {
-          "identifier": "Q493517",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "National Assembly for Wales",
-      "seats": 60,
-      "type": "unicameral legislature"
-    },
-    {
-      "classification": "party",
-      "id": "e07e997c-9ee8-48f8-b278-c7a372026296",
-      "identifiers": [
-        {
-          "identifier": "Q10691",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "https://www.plaid.cymru"
-        }
-      ],
-      "name": "Plaid Cymru",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Plaid Cymru",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Πλάιντ Κάμρυ",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "プライド・カムリ",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "kv",
-          "name": "Кӧмри ютыр",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Партия Уэльса",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "uk",
-          "name": "Плайд Кімру",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "威尔士党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "be",
-          "name": "Партыя Уэльса",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "플라이드 컴리",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "he",
-          "name": "פלייד קמרי",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "az",
-          "name": "Pleyd Kamri",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fa",
-          "name": "پلاید کامری",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Partio de Kimrujo",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "威爾士黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Plaid",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "The Party of Wales",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Plaid Cymru – the Party of Wales",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ],
-      "srgb": "3F8428"
-    },
-    {
-      "classification": "party",
-      "id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
-      "identifiers": [
-        {
-          "identifier": "Q10647",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.ukip.org"
-        }
-      ],
-      "name": "United Kingdom Independence Party (UKIP)",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "UK Independence Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "br",
-          "name": "Strollad evit Dizalc’hted ar Rouantelezh-Unanet",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit de la Independència del Regne Unit",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cs",
-          "name": "Strana nezávislosti Spojeného království (UKIP)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cy",
-          "name": "Plaid Annibyniaeth y Deyrnas Unedig",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Κόμμα Ανεξαρτησίας Ηνωμένου Βασιλείου",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Partido de la Independencia del Reino Unido",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "et",
-          "name": "Suurbritannia Iseseisvuspartei",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fi",
-          "name": "Yhdistyneen kuningaskunnan itsenäisyyspuolue",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Partito per l'Indipendenza del Regno Unito",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "イギリス独立党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "la",
-          "name": "Factio Libertatis Britanniarum Regni",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Partia Niepodległości Zjednoczonego Królestwa",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Партия независимости Соединённого Королевства",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "영국 독립당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "Partido da Independência do Reino Unido",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fa",
-          "name": "حزب استقلال پادشاهی متحد",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ga",
-          "name": "Páirtí Neamhspleách na Ríochta Aontaithe",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ro",
-          "name": "Partidul pentru independența Regatului Unit",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sh",
-          "name": "Stranka nezavisnosti UK",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hk",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "英国独立党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "uk",
-          "name": "Партія незалежності Сполученого Королівства",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "oc",
-          "name": "Partit de l'Independéncia del Reialme Unit",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "af",
-          "name": "Verenigde Koninkryk Onafhanklikheidsparty",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sr",
-          "name": "Странка за независност Уједињеног Краљевства",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ar",
-          "name": "حزب استقلال المملكة المتحدة",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "mk",
-          "name": "Партија за независност на Обединетото Кралство",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eu",
-          "name": "Erresuma Batuaren Independentziaren Alderdia",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "yue",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hans",
-          "name": "英国独立党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-mo",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-my",
-          "name": "英国独立党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-sg",
-          "name": "英国独立党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-tw",
-          "name": "英國獨立黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Partio por la Sendependeco de la Unuiĝinta Reĝlando",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sco",
-          "name": "UK Unthirldom Pairty",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "hu",
-          "name": "Brit Függetlenségi Párt",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "tr",
-          "name": "Birleşik Krallık Bağımsızlık Partisi",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ie",
-          "name": "Partise por li índependentie del Reyatu Unit",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "be",
-          "name": "Партыя незалежнасці Злучанага Каралеўства",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "UKIP",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "United Kingdom Independence Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "英国独立党",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "mk",
-          "name": "УКИП",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "cs",
-          "name": "Strana nezávislosti Spojeného království",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ],
-      "srgb": "EFE600"
-    },
-    {
-      "classification": "party",
-      "id": "89e51135-5b4f-480a-a931-654928c345bb",
-      "identifiers": [
-        {
-          "identifier": "Q7981882",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.welshconservatives.com/"
-        }
-      ],
-      "name": "Welsh Conservative Party",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Partit Conservador Gal·lès",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Welsh Conservative Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cs",
-          "name": "Konzervativní strana",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Kimra Konservisma Partio",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "威爾斯保守黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "웨일스 보수당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti conservateur gallois",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "he",
-          "name": "המפלגה השמרנית הוולשית",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cy",
-          "name": "Y Ceidwadwyr",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ],
-      "srgb": "0087DC"
-    },
-    {
-      "classification": "party",
-      "id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
-      "identifiers": [
-        {
-          "identifier": "Q832685",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.welshlabour.org.uk/"
-        }
-      ],
-      "name": "Welsh Labour",
-      "other_names": [
-        {
-          "lang": "pl",
-          "name": "Walijska Partia Pracy",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Welsh Labour",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Laborista Gal·lès",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "hu",
-          "name": "Munkáspárt",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Laburista del Galles",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fa",
-          "name": "حزب کارگر (ولز)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cy",
-          "name": "Llafur Cymru",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Kimra Laborista Partio",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti travailliste gallois",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "威爾斯工黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "ウェールズ労働党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "웨일스 노동당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "威爾士工黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "威尔士工党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "gd",
-          "name": "Pàrtaidh Làbarach na Cuimrigh",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Wales Labour Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "it",
-          "name": "Llafur Cymru",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Laburista Gallese",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Welsh Labour Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ],
-      "srgb": "92000A"
-    },
-    {
-      "classification": "party",
-      "id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
-      "identifiers": [
-        {
-          "identifier": "Q7981939",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.welshlibdems.org.uk"
-        }
-      ],
-      "name": "Welsh Liberal Democrats",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Welsh Liberal Democrats",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Kimraj Liberalaj Demokratoj",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "威爾斯自由民主黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "웨일스 자유민주당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cy",
-          "name": "Democratiaid Rhyddfrodol Cymreig",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ],
-      "srgb": "FDBB30"
     }
   ],
   "meta": {
@@ -8178,12 +8248,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0466dffe-1daa-404e-b17e-af90f8963ef8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=161"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cfa1c835-4714-4046-874c-666aea926fb5",
@@ -8191,12 +8256,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "04bc51aa-6851-4636-8706-d3b7090c4643",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5107"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "885aa33f-21c1-4b71-b7e1-48b07d297265",
@@ -8212,12 +8272,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "08254a5f-fd4a-4aa9-b404-5df06c854c71",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5112"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -8233,12 +8288,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0c9cf09f-a09c-47f9-a641-6d0dbb23110c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=425"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5fda6cf1-63a1-4467-bfa7-b8b9945c6722",
@@ -8262,12 +8312,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0fade98b-624a-4129-9c8b-f9e97f82b6d7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=159"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cfa1c835-4714-4046-874c-666aea926fb5",
@@ -8283,12 +8328,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "123c8000-7bab-4592-ba9c-d931f508bbe4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=289"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -8296,12 +8336,7 @@
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "127306dd-d8a1-4c39-97b6-c5bf5c7dd28e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5040"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "f462189b-f677-4778-b359-3e436573801b",
@@ -8317,12 +8352,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "156c204a-9f5d-45dc-9d93-98eba05c5add",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=332"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5ec963f4-4e5f-479e-a1c7-2ba955a5dc1f",
@@ -8338,12 +8368,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "15761ce7-71b3-4691-a080-d2727bd2966e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=205"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e37a0ab2-25c1-4abc-a252-33fce618a42f",
@@ -8359,51 +8384,25 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1a0973b2-e9e8-4b6c-91a7-82099578d606",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=212"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
-      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
-      "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5227"
-        }
-      ]
-    },
-    {
-      "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
-      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
-      "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5227"
-        }
-      ]
-    },
-    {
-      "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+      "end_date": "2017-04-06",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
+      "role": "member"
+    },
+    {
+      "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5227"
-        }
-      ]
+      "start_date": "2017-04-06"
     },
     {
       "area_id": "c123a958-c8fd-4881-b198-38c2b5c06310",
@@ -8419,16 +8418,20 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1d2c8e4c-6dd2-4991-99a9-6030ef37a879",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=245"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
       "legislative_period_id": "term/4",
+      "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
+      "role": "member"
+    },
+    {
+      "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
+      "end_date": "2016-10-14",
+      "legislative_period_id": "term/5",
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
@@ -8441,24 +8444,7 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=146"
-        }
-      ]
-    },
-    {
-      "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
-      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
-      "person_id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=146"
-        }
-      ]
+      "start_date": "2016-10-14"
     },
     {
       "area_id": "9beb7368-d010-4bf3-aed5-9a566f845474",
@@ -8474,12 +8460,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "22f2adad-3eca-4e5d-a946-7bea3174ef29",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=162"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -8495,12 +8476,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "247536cc-f93c-4eb6-81df-4ed15e7a75f3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=185"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -8524,12 +8500,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "3396369e-5e6b-4c2b-99ee-0c7f3cce0018",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=154"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1886ccf2-4216-45d7-848e-647bd41afa00",
@@ -8537,12 +8508,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "34594394-8bb7-47b9-9679-f4c984e76ec9",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4978"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "a5cbe142-884a-4539-b831-97a369ee2b7e",
@@ -8558,12 +8524,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "371d720b-33dc-4efe-ba22-6cb4999f1ffc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=249"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -8579,12 +8540,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "3a441cf2-fe19-442f-8b15-e544b8b8dc09",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=157"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -8592,12 +8548,7 @@
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "3d912847-69b6-4f42-821c-0ef2edc78aed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5260"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9d152dd1-055e-4cec-bf56-b0fd6dd76193",
@@ -8613,38 +8564,26 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "42e772e8-3d01-4dea-b0bc-5fc5ba641079",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=171"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
+      "end_date": "2016-08-17",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "451236de-0f5e-448b-a11c-7923bd704fb8",
+      "role": "member"
+    },
+    {
+      "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
+      "end_date": "2017-12-27",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "451236de-0f5e-448b-a11c-7923bd704fb8",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=433"
-        }
-      ]
-    },
-    {
-      "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
-      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
-      "person_id": "451236de-0f5e-448b-a11c-7923bd704fb8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=433"
-        }
-      ]
+      "start_date": "2016-08-17"
     },
     {
       "area_id": "900b1f94-65d5-4a69-a53f-ccc653afea46",
@@ -8652,12 +8591,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4656e912-817a-4814-91fa-d63cc963303a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5021"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -8673,12 +8607,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4874f776-d3de-47e6-a7c6-310d6094ce1a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=182"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "768bc023-3097-474f-afc4-239d1108e286",
@@ -8702,12 +8631,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4e31d446-8dd5-405a-a37f-bab74e27b406",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=143"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "89ddbb6f-126a-4eb5-984a-4de934b086f4",
@@ -8723,12 +8647,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4f3c08a4-e462-40cb-9a07-bb00017c38e8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=184"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "704591fb-cd70-4ed8-96a1-ad76eba366ee",
@@ -8761,12 +8680,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "54bf56c5-f61f-4827-9fe3-5d49650bbf59",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=267"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -8774,12 +8688,7 @@
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "552d802e-50c1-4bb1-8367-c4064d0210a4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=393"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e910148e-242a-479d-bfe4-8130b5761bdd",
@@ -8795,12 +8704,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "627b2521-6923-48b8-b2d4-48a673d1b824",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=145"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e3c8eca0-ebf7-49de-b3ea-3f0a559e8521",
@@ -8816,12 +8720,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "62bb8346-df8f-44b4-bac3-b0fc3ebe4b9c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=584"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "24a87923-5fdf-41a6-b255-fca47288f76f",
@@ -8837,12 +8736,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6479d91e-a46e-48c8-8345-09864655f76f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=153"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
@@ -8854,16 +8748,22 @@
     },
     {
       "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
+      "end_date": "2017-11-03",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
+      "role": "member"
+    },
+    {
+      "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
+      "end_date": "2017-11-07",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "50539eb9-5cb3-4018-92d6-3210f1c09c62",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=178"
-        }
-      ]
+      "start_date": "2017-11-03"
     },
     {
       "area_id": "ed841f08-80d6-4b17-a494-34941b81537e",
@@ -8879,25 +8779,16 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6b1fa908-a30b-4e5a-ae0a-4934ac55df54",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=225"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
+      "end_date": "2018-01-16",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6ea66d0e-77e6-42b0-9e22-f71d00ea9f44",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=255"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9d16167a-6e9c-4f13-ad07-3585324f62bf",
@@ -8913,12 +8804,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6f685ab7-551f-4512-a0d0-284cd6fac2ea",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=303"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -8926,12 +8812,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "704a4db1-134c-4aa1-aab4-6b54338b5d66",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4970"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -8940,11 +8821,6 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "7416afa6-81d8-40a7-b95e-249dae69997e",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5103"
-        }
-      ],
       "start_date": "2017-12-28"
     },
     {
@@ -8961,12 +8837,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "752f3f2b-6d09-4128-9111-7bc26ce14e06",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=130"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "8439c3e5-7cdc-49d8-b3ba-1b0f229a6e97",
@@ -8982,12 +8853,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "761c8a03-f1cc-42a7-ba72-e6f34a82888a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=174"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9011,12 +8877,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "7c8ff158-c8b9-4d53-8b7b-0b368a709949",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=253"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9066,12 +8927,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9567b3cb-2a07-4857-bdb6-3a98cfacf8c6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=135"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "c4ed5aab-7650-48b6-a455-2791d205eeff",
@@ -9087,12 +8943,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "97bdfa57-6798-4098-a8f4-77e823837313",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=102"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5fda6cf1-63a1-4467-bfa7-b8b9945c6722",
@@ -9100,12 +8951,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9ae99e20-a86b-491b-9221-605b75823ea3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4651"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "8b4d02f3-4f8b-458f-905b-99183a89a2c6",
@@ -9122,12 +8968,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9f3b8097-9c07-4039-a798-92e370f7398e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=2717"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "768bc023-3097-474f-afc4-239d1108e286",
@@ -9135,12 +8976,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "a042c8cb-a212-4615-ba9f-eccb9eedc4d4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=513"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9efca15d-9005-479b-9169-52effc167ed6",
@@ -9148,12 +8984,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "aa8593bb-b92c-44ab-9c01-3cf894c00624",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4981"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "3b73dd22-6bee-4ce1-be54-a74ff532e502",
@@ -9169,12 +9000,7 @@
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "add634e1-5bf2-4d5f-9b5a-d539644f2354",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5048"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9207,12 +9033,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "bb5b9df3-9e91-4a73-87be-22788ebe01cb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=321"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -9244,12 +9065,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "c51e3561-cacc-4d04-ac0b-49b4037e4969",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=156"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -9265,12 +9081,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "c5f3e87c-b887-4915-866f-9766395faeb2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=383"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9efca15d-9005-479b-9169-52effc167ed6",
@@ -9295,11 +9106,6 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d102ca51-5d5a-47dd-b12f-9c2a3005076e",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=6571"
-        }
-      ],
       "start_date": "2018-02-07"
     },
     {
@@ -9308,12 +9114,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d3aa08cd-c7c8-4b36-87c9-07765620ac93",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4988"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ba5b7d5e-59ac-40f6-bbba-64e9d52f7564",
@@ -9329,12 +9130,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d42eb5d3-caae-437e-ac53-a33eb6a11ee6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=175"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1892aa93-74e4-4907-9687-47973bf9f611",
@@ -9342,12 +9138,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d6560d36-c525-4e52-a85b-1035b7eab92b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5038"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -9363,12 +9154,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d8d0d9d8-622e-43b7-b6bd-ab3fa2b69240",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=375"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "3b73dd22-6bee-4ce1-be54-a74ff532e502",
@@ -9376,12 +9162,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e10df87f-fe38-4e82-aaed-2bda6fa0da65",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5053"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -9405,12 +9186,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e5da3a6e-7fe7-4325-b936-325a44babca8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5030"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9426,12 +9202,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e6403b1e-20a2-4638-9682-26672a08ba3c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=541"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -9480,12 +9251,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fa4e847b-3132-4e59-adce-f470b7db238c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=169"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "b9990319-e5fc-41bb-8c68-10a8d2774e9a",
@@ -9501,12 +9267,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fd29b7cf-ca3b-4960-80f1-91c7ad2809df",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=241"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9514,12 +9275,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=167"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -9527,12 +9283,7 @@
       "on_behalf_of_id": "bc54bc3a-44e3-4611-927c-61f25f4c101a",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fd91a991-b76f-4094-bf57-b49c60b797fb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=4975"
-        }
-      ]
+      "role": "member"
     }
   ],
   "events": [
