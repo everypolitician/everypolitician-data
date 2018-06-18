@@ -1382,6 +1382,7 @@
           "value": "CynthiaViteri6"
         }
       ],
+      "family_name": "Viteri",
       "gender": "female",
       "given_name": "Cynthia",
       "id": "335da555-c1c5-4309-b2c8-b88ebf1085d6",
@@ -1723,6 +1724,7 @@
           "value": "GinaGodoyAndrad"
         }
       ],
+      "family_name": "Godoy",
       "gender": "female",
       "given_name": "Gina",
       "id": "49088bde-1d88-44be-ab6a-2ff408b75d3d",
@@ -2457,6 +2459,10 @@
         {
           "identifier": "/g/1yjg80kd4",
           "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "0000 0000 5908 7535",
+          "scheme": "isni"
         },
         {
           "identifier": "Q16302212",
@@ -5339,6 +5345,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 2061 4975",
+          "scheme": "isni"
+        },
+        {
           "identifier": "Q20899865",
           "scheme": "wikidata"
         }
@@ -6694,6 +6704,18 @@
         {
           "lang": "ps",
           "name": "خپلواک کاندید",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lmo",
+          "name": "Independent",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vi",
+          "name": "Chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -9561,6 +9583,19 @@
       ],
       "name": "Ecuadorian general election, 1968",
       "start_date": "1968-06-02"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1979-04-29",
+      "id": "Q28663344",
+      "identifiers": [
+        {
+          "identifier": "Q28663344",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Ecuadorian parliamentary election, 1979",
+      "start_date": "1979-04-29"
     },
     {
       "classification": "general election",
