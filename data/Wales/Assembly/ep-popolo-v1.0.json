@@ -329,16 +329,15 @@
           "url": "https://twitter.com/LlyrGruffydd"
         }
       ],
-      "name": "Llyr Gruffydd",
+      "name": "Llyr Huws Gruffydd",
       "other_names": [
         {
-          "name": "Llyr Gruffydd AC/AM",
+          "name": "Llyr Gruffydd",
           "note": "alternate"
         },
         {
-          "lang": "en",
-          "name": "Llyr Huws Gruffydd",
-          "note": "multilingual"
+          "name": "Llyr Gruffydd AC/AM",
+          "note": "alternate"
         }
       ]
     },
@@ -999,6 +998,10 @@
           "url": "https://en.wikipedia.org/wiki/Julie_Morgan"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/JulieMorganAM"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/JulieMorganLAB"
         }
@@ -1124,6 +1127,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/ElisThomasD"
+        },
+        {
+          "note": "website",
+          "url": "http://www.dafyddelisthomas.org"
         }
       ],
       "name": "Dafydd Elis-Thomas",
@@ -1523,6 +1530,10 @@
           "url": "https://en.wikipedia.org/wiki/Lesley_Griffiths"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/lesley4wrexham"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Lesley4Wrexham"
         }
@@ -1861,8 +1872,16 @@
           "url": "https://en.wikipedia.org/wiki/Darren_Millar"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/DarrenMillarAM"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/DarrenMillarAM"
+        },
+        {
+          "note": "website",
+          "url": "http://www.darrenmillar.wales"
         }
       ],
       "name": "Darren Millar",
@@ -2158,12 +2177,11 @@
           "url": "http://jeffcuthbert.org.uk/"
         }
       ],
-      "name": "Jeff Cuthbert",
+      "name": "Jeffrey Cuthbert",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Jeffrey Cuthbert",
-          "note": "multilingual"
+          "name": "Jeff Cuthbert",
+          "note": "alternate"
         }
       ]
     },
@@ -2232,16 +2250,19 @@
           "url": "http://www.andrewrtdavies.com/"
         }
       ],
-      "name": "Andrew RT Davies",
+      "name": "Andrew R. T. Davies",
       "other_names": [
+        {
+          "name": "Andrew RT Davies",
+          "note": "alternate"
+        },
+        {
+          "name": "Andrew RT Davies",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "أندرو ديفيز",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Andrew R. T. Davies",
           "note": "multilingual"
         },
         {
@@ -2535,6 +2556,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/KenSkatesAM"
+        },
+        {
+          "note": "website",
+          "url": "http://www.KenSkates.co.uk"
         }
       ],
       "name": "Ken Skates",
@@ -4897,12 +4922,11 @@
           "url": "http://www.rosemarybutleram.co.uk/"
         }
       ],
-      "name": "Dame Rosemary Butler",
+      "name": "Rosemary Butler",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Rosemary Butler",
-          "note": "multilingual"
+          "name": "Dame Rosemary Butler",
+          "note": "alternate"
         },
         {
           "lang": "ru",
@@ -5492,6 +5516,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/rebeccaevansam"
+        },
+        {
+          "note": "website",
+          "url": "http://www.rebeccaevans4gower.com"
         }
       ],
       "name": "Rebecca Evans",
@@ -5888,8 +5916,16 @@
           "url": "https://en.wikipedia.org/wiki/Suzy_Davies"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/SuzyDaviesWales"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/suzydaviesam"
+        },
+        {
+          "note": "website",
+          "url": "http://www.suzydaviesam.com"
         }
       ],
       "name": "Suzy Davies",
@@ -8070,12 +8106,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0466dffe-1daa-404e-b17e-af90f8963ef8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=161"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e7be15c2-65a2-44a0-9cf5-d53c92970143",
@@ -8109,12 +8140,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "06c837dd-18e5-400d-9cd9-bec7b16076a3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=582"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1cf258c1-e57d-4ae4-a424-0234ff1645d9",
@@ -8135,12 +8161,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0c9cf09f-a09c-47f9-a641-6d0dbb23110c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=425"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -8161,12 +8182,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0e8594ca-2cc5-4c5a-bb9c-7b282f9ec05a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=287"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -8174,12 +8190,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "0fade98b-624a-4129-9c8b-f9e97f82b6d7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=159"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -8200,12 +8211,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "110f41fd-6ecd-4d37-8894-7d7451f823c7",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=138"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -8239,12 +8245,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "156c204a-9f5d-45dc-9d93-98eba05c5add",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=332"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "f462189b-f677-4778-b359-3e436573801b",
@@ -8265,12 +8266,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "15761ce7-71b3-4691-a080-d2727bd2966e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=205"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5ec963f4-4e5f-479e-a1c7-2ba955a5dc1f",
@@ -8291,12 +8287,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1a0973b2-e9e8-4b6c-91a7-82099578d606",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=212"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e37a0ab2-25c1-4abc-a252-33fce618a42f",
@@ -8356,12 +8347,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1d2c8e4c-6dd2-4991-99a9-6030ef37a879",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=245"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "c123a958-c8fd-4881-b198-38c2b5c06310",
@@ -8382,12 +8368,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=146"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
@@ -8421,12 +8402,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "22f2adad-3eca-4e5d-a946-7bea3174ef29",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=162"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9beb7368-d010-4bf3-aed5-9a566f845474",
@@ -8447,12 +8423,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "247536cc-f93c-4eb6-81df-4ed15e7a75f3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=185"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "885aa33f-21c1-4b71-b7e1-48b07d297265",
@@ -8473,12 +8444,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "31adc697-9e5c-48f0-bee6-c7d3b8c1b8a0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=144"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "4ef1bdca-47c1-4f24-89ec-240864e6ed8d",
@@ -8486,12 +8452,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "3396369e-5e6b-4c2b-99ee-0c7f3cce0018",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=154"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "4ef1bdca-47c1-4f24-89ec-240864e6ed8d",
@@ -8525,12 +8486,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "371d720b-33dc-4efe-ba22-6cb4999f1ffc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=249"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "a5cbe142-884a-4539-b831-97a369ee2b7e",
@@ -8551,12 +8507,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "3a441cf2-fe19-442f-8b15-e544b8b8dc09",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=157"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -8590,12 +8541,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "42e772e8-3d01-4dea-b0bc-5fc5ba641079",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=171"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9d152dd1-055e-4cec-bf56-b0fd6dd76193",
@@ -8655,12 +8601,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4874f776-d3de-47e6-a7c6-310d6094ce1a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=182"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -8681,12 +8622,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4bb53c5a-0197-44ab-98ee-296b2bff3868",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=139"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -8694,12 +8630,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4e31d446-8dd5-405a-a37f-bab74e27b406",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=143"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -8720,12 +8651,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "4f3c08a4-e462-40cb-9a07-bb00017c38e8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=184"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "89ddbb6f-126a-4eb5-984a-4de934b086f4",
@@ -8746,12 +8672,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "52c8ed62-459c-4da6-874f-b527b3624e76",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=155"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "8b4d02f3-4f8b-458f-905b-99183a89a2c6",
@@ -8760,12 +8681,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "52d4caab-a7c7-418a-856a-8b4caa349a96",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.senedd.assemblywales.org/mgUserInfo.aspx?UID=103"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "080b66df-b506-4e70-a60a-a285169e14e2",
@@ -8773,12 +8689,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "54bf56c5-f61f-4827-9fe3-5d49650bbf59",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=267"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "080b66df-b506-4e70-a60a-a285169e14e2",
@@ -8812,12 +8723,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "627b2521-6923-48b8-b2d4-48a673d1b824",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=145"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e910148e-242a-479d-bfe4-8130b5761bdd",
@@ -8838,12 +8744,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "62bb8346-df8f-44b4-bac3-b0fc3ebe4b9c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=584"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e3c8eca0-ebf7-49de-b3ea-3f0a559e8521",
@@ -8864,12 +8765,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6479d91e-a46e-48c8-8345-09864655f76f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=153"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "24a87923-5fdf-41a6-b255-fca47288f76f",
@@ -8890,12 +8786,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=178"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
@@ -8916,12 +8807,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6b1fa908-a30b-4e5a-ae0a-4934ac55df54",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=225"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ed841f08-80d6-4b17-a494-34941b81537e",
@@ -8955,12 +8841,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "6f685ab7-551f-4512-a0d0-284cd6fac2ea",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=303"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "9d16167a-6e9c-4f13-ad07-3585324f62bf",
@@ -9008,12 +8889,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "752f3f2b-6d09-4128-9111-7bc26ce14e06",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=130"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
@@ -9034,12 +8910,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "761c8a03-f1cc-42a7-ba72-e6f34a82888a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=174"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "8439c3e5-7cdc-49d8-b3ba-1b0f229a6e97",
@@ -9060,12 +8931,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "77cd0ece-0e26-4498-9a60-c6d2ea3973a3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=133"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "35fb73c8-49f2-40b5-a1e7-4da73e1d4173",
@@ -9073,12 +8939,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "7c8ff158-c8b9-4d53-8b7b-0b368a709949",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=253"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "35fb73c8-49f2-40b5-a1e7-4da73e1d4173",
@@ -9100,12 +8961,7 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "82c4f35c-ba2d-4f51-ba25-dce76a94b9a7",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=543"
-        }
-      ],
-      "start_date": "2015-05-19"
+      "start_date": "2015-05-09"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -9114,12 +8970,7 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "84ccdb94-326a-4676-8a42-7139065fb80e",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=4087"
-        }
-      ],
-      "start_date": "2015-05-27"
+      "start_date": "2015-05-08"
     },
     {
       "area_id": "fc63451e-ccf0-4001-b7ca-2f22c1af21c3",
@@ -9127,12 +8978,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "92600914-3867-4f97-9b79-efe99292e882",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=166"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "46e001d9-4c2c-4675-b8b8-fac2fe9169b0",
@@ -9140,12 +8986,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9420a457-ab04-4761-937d-94fbd4db07ad",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=181"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "852c2a41-c131-4e31-b0dc-d3051905cdc3",
@@ -9153,12 +8994,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9567b3cb-2a07-4857-bdb6-3a98cfacf8c6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=135"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "852c2a41-c131-4e31-b0dc-d3051905cdc3",
@@ -9179,12 +9015,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "97bdfa57-6798-4098-a8f4-77e823837313",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=102"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "c4ed5aab-7650-48b6-a455-2791d205eeff",
@@ -9219,12 +9050,7 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "9f3b8097-9c07-4039-a798-92e370f7398e",
       "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=2717"
-        }
-      ],
-      "start_date": "2013-08-02"
+      "start_date": "2013-08-01"
     },
     {
       "area_id": "8b4d02f3-4f8b-458f-905b-99183a89a2c6",
@@ -9271,12 +9097,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "adc63ba5-18f1-4b28-b8ef-5a7fb7a6b406",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=152"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -9293,17 +9114,12 @@
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
-      "end_date": "2015-05-15",
+      "end_date": "2015-05-09",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "b475e63b-2dc7-4faf-902d-fa73bd1ae693",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.senedd.assemblywales.org/mgUserInfo.aspx?UID=542"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -9311,12 +9127,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "b55563e0-21f5-4eed-9547-8795a4a59e92",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=421"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "680ff789-c6ba-40f7-a0ec-6b02d98aa73e",
@@ -9324,12 +9135,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "bb5b9df3-9e91-4a73-87be-22788ebe01cb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=321"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "680ff789-c6ba-40f7-a0ec-6b02d98aa73e",
@@ -9350,12 +9156,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "bc7485cd-50bc-4d86-ba9f-c1edd6718907",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=151"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1892aa93-74e4-4907-9687-47973bf9f611",
@@ -9363,12 +9164,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "be9c1984-6f08-4a97-8ea6-e82af4daf909",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=136"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ca4c5e23-2a17-4683-ac95-1730bf961225",
@@ -9376,12 +9172,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "c51e3561-cacc-4d04-ac0b-49b4037e4969",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=156"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ca4c5e23-2a17-4683-ac95-1730bf961225",
@@ -9402,12 +9193,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "c5f3e87c-b887-4915-866f-9766395faeb2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=383"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
@@ -9428,12 +9214,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "c5fb67d9-dde7-40ae-8edc-3a107360adca",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=160"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "900b1f94-65d5-4a69-a53f-ccc653afea46",
@@ -9441,12 +9222,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d0439238-3e70-4428-a352-e3b17ce929fa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=180"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "fc63451e-ccf0-4001-b7ca-2f22c1af21c3",
@@ -9467,12 +9243,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d42eb5d3-caae-437e-ac53-a33eb6a11ee6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=175"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "ba5b7d5e-59ac-40f6-bbba-64e9d52f7564",
@@ -9506,12 +9277,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "d8d0d9d8-622e-43b7-b6bd-ab3fa2b69240",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=375"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "704591fb-cd70-4ed8-96a1-ad76eba366ee",
@@ -9545,12 +9311,7 @@
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e3002276-fb13-441c-94c4-c7b3b1f1c9f8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=518"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1cf258c1-e57d-4ae4-a424-0234ff1645d9",
@@ -9558,12 +9319,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e3c7ea13-5a78-4ae5-9011-00665ad5f287",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=170"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "46e001d9-4c2c-4675-b8b8-fac2fe9169b0",
@@ -9584,12 +9340,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "e6403b1e-20a2-4638-9682-26672a08ba3c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=541"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
@@ -9610,12 +9361,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "ebf1159e-c448-451a-b0da-0e7795c2dde8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=378"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "1886ccf2-4216-45d7-848e-647bd41afa00",
@@ -9623,12 +9369,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "f22fbc6f-893e-4810-8fdb-bdc80d0e38c0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=292"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -9636,12 +9377,7 @@
       "on_behalf_of_id": "b2f6b2f1-281c-464f-abc4-4e91a245ee0e",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "f6720095-134b-4d29-b8d4-8495e08dddc2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=480"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
@@ -9650,12 +9386,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "f85127cc-8e79-458c-a144-162203107a8a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.senedd.assemblywales.org/mgUserInfo.aspx?UID=407"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -9663,12 +9394,7 @@
       "on_behalf_of_id": "89e51135-5b4f-480a-a931-654928c345bb",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fa4e847b-3132-4e59-adce-f470b7db238c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=169"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "976db739-babc-46ea-b08d-fccc212f722d",
@@ -9689,12 +9415,7 @@
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "fd29b7cf-ca3b-4960-80f1-91c7ad2809df",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://senedd.assembly.wales/mgUserInfo.aspx?UID=241"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "b9990319-e5fc-41bb-8c68-10a8d2774e9a",
