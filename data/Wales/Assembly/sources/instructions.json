@@ -1,6 +1,15 @@
 {
   "sources": [
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/welsh-assembly-p39s",
+        "query": "SELECT * FROM data WHERE term = 4 ORDER BY id"
+      },
+      "type": "membership"
+    },
+    {
       "file": "archive/official-4.csv",
       "source": "http://www.assembly.wales/",
       "type": "person",
