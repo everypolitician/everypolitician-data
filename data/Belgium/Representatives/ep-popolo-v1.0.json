@@ -2816,6 +2816,10 @@
       "sort_name": "Van Peel Valerie"
     },
     {
+      "id": "421f52a9-2600-4a4f-857e-0ed0941faf0b",
+      "name": "Olivier Henry"
+    },
+    {
       "birth_date": "1976-02-25",
       "contact_details": [
         {
@@ -6446,94 +6450,6 @@
         }
       ],
       "sort_name": "Dewinter Filip"
-    },
-    {
-      "birth_date": "1967-11-22",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "annemie.turtelboom@dekamer.be"
-        },
-        {
-          "type": "twitter",
-          "value": "ATurtelboom"
-        }
-      ],
-      "email": "annemie.turtelboom@dekamer.be",
-      "gender": "female",
-      "given_name": "Annemie",
-      "id": "8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
-      "identifiers": [
-        {
-          "identifier": "Q454893",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0gjc22b",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "186064659",
-          "scheme": "sudoc"
-        },
-        {
-          "identifier": "316748807",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q454893",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif",
-      "images": [
-        {
-          "url": "http://www.lachambre.be/site/wwwroot/images/cv/01102.gif"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Annemie-turtelboom-1379350142.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "Wikipedia (vls)",
-          "url": "https://vls.wikipedia.org/wiki/Annemie_Turtelboom"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/ATurtelboom"
-        },
-        {
-          "note": "website",
-          "url": "http://www.annemieturtelboom.be"
-        }
-      ],
-      "name": "Annemie Turtelboom",
-      "sort_name": "Turtelboom Annemie"
     },
     {
       "birth_date": "1980-10-08",
@@ -14924,6 +14840,20 @@
       ]
     },
     {
+      "area_id": "henegouwen",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "ps",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "421f52a9-2600-4a4f-857e-0ed0941faf0b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
+        }
+      ],
+      "start_date": "2018-05-24"
+    },
+    {
       "area_id": "antwerpen",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "groen",
@@ -15641,34 +15571,6 @@
           "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
         }
       ]
-    },
-    {
-      "area_id": "antwerpen",
-      "end_date": "2014-07-30",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "open_vld",
-      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
-      "person_id": "8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
-        }
-      ]
-    },
-    {
-      "area_id": "antwerpen",
-      "legislative_period_id": "term/54",
-      "on_behalf_of_id": "open_vld",
-      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
-      "person_id": "8eface70-0ebd-40c0-a4a6-a5989e5e7a20",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
-        }
-      ],
-      "start_date": "2016-04-29"
     },
     {
       "area_id": "oost-vlaanderen",
@@ -16428,6 +16330,7 @@
     },
     {
       "area_id": "henegouwen",
+      "end_date": "2018-05-24",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "ps",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -16520,7 +16423,6 @@
     },
     {
       "area_id": "antwerpen",
-      "end_date": "2016-04-29",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "open_vld",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -16530,8 +16432,7 @@
         {
           "url": "https://nl.wikipedia.org/wiki/Kamer_van_Volksvertegenwoordigers_(samenstelling_2014-2019)"
         }
-      ],
-      "start_date": "2014-07-30"
+      ]
     },
     {
       "area_id": "antwerpen",
