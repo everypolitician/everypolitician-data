@@ -79,6 +79,18 @@
       }
     },
     {
+      "file": "morph/areas.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/welsh-assembly-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
+    },
+    {
       "file": "morph/twitter.csv",
       "create": {
         "from": "morph",
