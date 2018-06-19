@@ -324,6 +324,7 @@
     },
     {
       "birth_date": "1954-04-29",
+      "family_name": "Sato",
       "gender": "female",
       "given_name": "Josephine",
       "id": "0602f732-3bc2-4edd-b297-42c51316035b",
@@ -1190,6 +1191,10 @@
         {
           "identifier": "nm0215856",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0000 4268 988X",
+          "scheme": "isni"
         },
         {
           "identifier": "9446903",
@@ -4789,6 +4794,7 @@
     },
     {
       "birth_date": "1953-09-13",
+      "family_name": "Rodriguez",
       "gender": "male",
       "given_name": "Rufus",
       "id": "5f0a5848-6105-49f0-a6e2-e3ac3a783037",
@@ -9337,6 +9343,7 @@
     },
     {
       "birth_date": "1974-02-02",
+      "family_name": "Gutierrez",
       "gender": "male",
       "given_name": "Barry",
       "id": "c344661b-c71f-4c51-8571-f0aff06d10e0",
@@ -10116,6 +10123,7 @@
       "name": "Cruz-Gonzales, Cinchona"
     },
     {
+      "family_name": "Alvarez",
       "gender": "female",
       "given_name": "Mercedes",
       "id": "d779994f-d7f8-4c53-a73a-4d017fa43acb",
@@ -12618,6 +12626,12 @@
         {
           "lang": "en",
           "name": "Kabataan Partylist",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "青年",
           "note": "multilingual",
           "source": "wikidata-label"
         }
