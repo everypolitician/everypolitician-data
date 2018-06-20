@@ -11,6 +11,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/romania-deputies-wikidata-p39s",
+        "query": "SELECT *, id AS identifier__wikidata FROM data WHERE term = 8 ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/p39s.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
