@@ -324,6 +324,7 @@
     },
     {
       "birth_date": "1954-04-29",
+      "family_name": "Sato",
       "gender": "female",
       "given_name": "Josephine",
       "id": "0602f732-3bc2-4edd-b297-42c51316035b",
@@ -549,6 +550,7 @@
     },
     {
       "birth_date": "1966-10-21",
+      "family_name": "Roque",
       "gender": "male",
       "given_name": "Harry",
       "id": "0b742604-c895-49a7-983c-5d14111eeb84",
@@ -1190,6 +1192,10 @@
         {
           "identifier": "nm0215856",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "0000 0000 4268 988X",
+          "scheme": "isni"
         },
         {
           "identifier": "9446903",
@@ -3026,6 +3032,7 @@
     },
     {
       "birth_date": "1967-02-28",
+      "family_name": "Romulo",
       "gender": "male",
       "given_name": "Roman",
       "id": "3ff9e13e-1eaa-4f4b-83b8-e8c7cfb847c1",
@@ -4789,6 +4796,7 @@
     },
     {
       "birth_date": "1953-09-13",
+      "family_name": "Rodriguez",
       "gender": "male",
       "given_name": "Rufus",
       "id": "5f0a5848-6105-49f0-a6e2-e3ac3a783037",
@@ -4975,6 +4983,7 @@
     },
     {
       "birth_date": "1966-03-22",
+      "family_name": "Cayetano",
       "gender": "female",
       "given_name": "Pia",
       "id": "6318741f-0964-4b89-a5b6-22cf71845b17",
@@ -5777,6 +5786,7 @@
     },
     {
       "birth_date": "1958-01-10",
+      "family_name": "Alvarez",
       "gender": "male",
       "given_name": "Pantaleon",
       "id": "7a820239-e3a9-4b21-8fb1-e8cbba7c2b7e",
@@ -10116,6 +10126,7 @@
       "name": "Cruz-Gonzales, Cinchona"
     },
     {
+      "family_name": "Alvarez",
       "gender": "female",
       "given_name": "Mercedes",
       "id": "d779994f-d7f8-4c53-a73a-4d017fa43acb",
@@ -10176,6 +10187,7 @@
     },
     {
       "birth_date": "1955-10-12",
+      "family_name": "Garcia",
       "gender": "female",
       "given_name": "Gwendolyn",
       "id": "d79ff7d2-fec3-4d17-8782-a4f24b4f8fff",
@@ -12618,6 +12630,12 @@
         {
           "lang": "en",
           "name": "Kabataan Partylist",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "青年",
           "note": "multilingual",
           "source": "wikidata-label"
         }
