@@ -4168,16 +4168,11 @@
       ],
       "email": "gopalnannilam@gmail.com",
       "gender": "male",
-      "given_name": "K.",
       "id": "17662667-b22c-4d10-abf7-f747de0ebda1",
       "identifiers": [
         {
           "identifier": "4829",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6323364",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://164.100.47.132/mpimage/photo/4829.jpg",
@@ -4186,34 +4181,7 @@
           "url": "http://164.100.47.132/mpimage/photo/4829.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/K._Gopal"
-        },
-        {
-          "note": "Wikipedia (ta)",
-          "url": "https://ta.wikipedia.org/wiki/கே._கோபால்"
-        }
-      ],
-      "name": "Gopal, Dr. K.",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "K. Gopal",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hi",
-          "name": "के॰ गोपाल",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ta",
-          "name": "கே. கோபால்",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Gopal, Dr. K."
     },
     {
       "birth_date": "1954-03-01",
@@ -12641,6 +12609,11 @@
       ],
       "name": "Singh, Shri Rajnath",
       "other_names": [
+        {
+          "lang": "bho",
+          "name": "राजनाथ सिंह",
+          "note": "multilingual"
+        },
         {
           "lang": "bn",
           "name": "রাজনাথ সিংহ",
@@ -48881,6 +48854,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fa",
+          "name": "شاتورگان سینها",
+          "note": "multilingual"
+        },
+        {
           "lang": "gu",
           "name": "શત્રુઘ્ન સિન્હા",
           "note": "multilingual"
@@ -52092,6 +52070,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hi",
+          "name": "अखिल भारतीय युनाइटेड डेमोक्रेटिक फ्रंट",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "de",
           "name": "Assam United Democratic Front",
           "note": "multilingual",
@@ -52143,6 +52127,12 @@
         {
           "lang": "pa",
           "name": "ਅਪਨਾ ਦਲ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hi",
+          "name": "अपना दल",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -54196,7 +54186,7 @@
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -55281,6 +55271,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.inld.org/"
+        }
+      ],
       "name": "Indian National Lok Dal",
       "other_names": [
         {
@@ -55340,6 +55336,12 @@
         {
           "identifier": "Q3196786",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://iuml.com/"
         }
       ],
       "name": "Indian Union Muslim League",
@@ -55461,6 +55463,12 @@
         {
           "identifier": "Q3781724",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.jkpdp.org/"
         }
       ],
       "name": "Jammu and Kashmir Peoples Democratic Party",
@@ -56069,6 +56077,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ljp.co.in/"
+        }
+      ],
       "name": "Lok Jan Shakti Party",
       "other_names": [
         {
@@ -56165,6 +56179,12 @@
         {
           "identifier": "Q3277586",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.npfweb.org/"
         }
       ],
       "name": "Nagaland Peoples Front",
@@ -56541,7 +56561,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.rashtriyajanatadal.com"
+          "url": "http://www.rjd.co.in/"
         }
       ],
       "name": "Rashtriya Janata Dal",
@@ -56663,6 +56683,12 @@
         {
           "identifier": "Q16354685",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://rashtriyaloksamataparty.in/"
         }
       ],
       "name": "Rashtriya Lok Samta Party",
@@ -57093,7 +57119,7 @@
         },
         {
           "lang": "en",
-          "name": "Akali Dal",
+          "name": "Shiromani Akali Dal",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -57195,7 +57221,13 @@
         },
         {
           "lang": "en",
-          "name": "Shiromani Akali Dal",
+          "name": "SAD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Akali Dal",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -57546,6 +57578,12 @@
         {
           "identifier": "Q7652855",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.swabhimani.com/index.php?option=com_content&view=section&layout=blog&id=6&Itemid=29"
         }
       ],
       "name": "Swabhimani Paksha",
@@ -65308,7 +65346,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Indian general election, 2014",
+      "name": "Indian general election",
       "start_date": "2014-04-07"
     },
     {
