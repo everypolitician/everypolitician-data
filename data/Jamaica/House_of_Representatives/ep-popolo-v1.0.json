@@ -627,6 +627,10 @@
       "name": "Michael Henry"
     },
     {
+      "id": "1c48133b-5d0f-4170-a535-537c20cd04c0",
+      "name": "Vacant"
+    },
+    {
       "gender": "male",
       "id": "1f3bbe16-7412-4f0b-a3bb-ad4f6287ee95",
       "identifiers": [
@@ -652,6 +656,10 @@
         }
       ],
       "name": "Victor Wright"
+    },
+    {
+      "id": "23768572-e0b7-4a69-ba5f-fe72a7c8ba21",
+      "name": "Norman Dunn"
     },
     {
       "birth_date": "1957-10-10",
@@ -2850,19 +2858,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "04ba6529-249f-43e1-bc41-1e22f9870490",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "people's_national_party",
@@ -2872,19 +2867,6 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Constituencies_of_Jamaica&oldid=707616860"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_southern",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "0a8bc903-b520-44a2-81f8-19c78e9e05ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
         }
       ]
     },
@@ -2980,19 +2962,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_eastern",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "18ee12d8-870a-447a-8126-e9f1172e0298",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ja/parish:clarendon/constituency:clarendon_central",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "jamaica_labour_party",
@@ -3011,6 +2980,19 @@
       "on_behalf_of_id": "jamaica_labour_party",
       "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
       "person_id": "1b03c43f-a144-4dcc-b1fc-679b40f4e8fa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "people's_national_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "1c48133b-5d0f-4170-a535-537c20cd04c0",
       "role": "member",
       "sources": [
         {
@@ -3050,6 +3032,19 @@
       "on_behalf_of_id": "people's_national_party",
       "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
       "person_id": "20e7fa8a-1d3f-4efb-a194-016b6cca58ff",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_eastern",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "jamaica_labour_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "23768572-e0b7-4a69-ba5f-fe72a7c8ba21",
       "role": "member",
       "sources": [
         {
@@ -4932,11 +4927,6 @@
     {
       "id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
       "name": "St. Andrew South Western",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_southern",
-      "name": "St. Andrew Southern",
       "type": "constituency"
     },
     {
