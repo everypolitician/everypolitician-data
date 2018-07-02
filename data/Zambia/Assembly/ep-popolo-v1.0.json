@@ -183,6 +183,10 @@
       "name": "Anthony Kasandwe"
     },
     {
+      "id": "04bd2f26-3fd6-4586-bf8b-c82693c90a5c",
+      "name": "Maria P Langa"
+    },
+    {
       "birth_date": "1972-05-09",
       "gender": "male",
       "id": "04ecf038-2ea9-4fd3-9903-09ae10e96b25",
@@ -943,6 +947,7 @@
     },
     {
       "birth_date": "1969-08-18",
+      "family_name": "Kabamba",
       "gender": "male",
       "given_name": "Joseph",
       "id": "26f475f3-9ccf-4a98-b29e-b1e5acb31c23",
@@ -1407,10 +1412,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/zulu%25252C_makebi.jpg?itok=QajtABni",
+      "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon.%20Zulu%20M.jpeg?itok=8XVDePS-",
       "images": [
         {
-          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/zulu%25252C_makebi.jpg?itok=QajtABni"
+          "url": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Hon.%20Zulu%20M.jpeg?itok=8XVDePS-"
         }
       ],
       "links": [
@@ -1455,6 +1460,7 @@
     },
     {
       "birth_date": "1960-10-26",
+      "family_name": "Phiri",
       "gender": "female",
       "given_name": "Elizabeth",
       "id": "3d3f26c8-41bc-45f3-8dc1-d9424ac2e35f",
@@ -2153,7 +2159,9 @@
           "value": "vkalima@parliament.gov.zm"
         }
       ],
+      "death_date": "2018-06-11",
       "email": "vkalima@parliament.gov.zm",
+      "family_name": "Kalima",
       "gender": "female",
       "given_name": "Victoria",
       "id": "5ab71bd8-4958-4d66-b4a0-7ba1ba33aeaa",
@@ -2181,6 +2189,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Victoria_Kalima"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Victoria_Kalima"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Victoria_Kalima"
         }
       ],
       "name": "Victoria Kalima"
@@ -5466,7 +5482,14 @@
           "url": "https://ru.wikipedia.org/wiki/Луо,_Нканду"
         }
       ],
-      "name": "Nkandu Luo"
+      "name": "Nkandu Luo",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Луо, Нканду",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-03-25",
@@ -6088,6 +6111,10 @@
         {
           "identifier": "296",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 8444 4946",
+          "scheme": "isni"
         },
         {
           "identifier": "Q45384488",
@@ -7729,7 +7756,7 @@
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -8796,6 +8823,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/node/4504"
+        }
+      ]
+    },
+    {
+      "area_id": "chilanga",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "PF",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "04bd2f26-3fd6-4586-bf8b-c82693c90a5c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7533"
         }
       ]
     },
@@ -9914,19 +9954,6 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament"
-        }
-      ]
-    },
-    {
-      "area_id": "kasenengwa",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "PF",
-      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
-      "person_id": "5ab71bd8-4958-4d66-b4a0-7ba1ba33aeaa",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.zm/node/238"
         }
       ]
     },
@@ -11916,19 +11943,6 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament/page/1/0"
-        }
-      ]
-    },
-    {
-      "area_id": "chilanga",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "UPND",
-      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
-      "person_id": "d0f8058e-1c85-4fbd-a352-3a378a4fa0e4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.zm/node/340"
         }
       ]
     },
