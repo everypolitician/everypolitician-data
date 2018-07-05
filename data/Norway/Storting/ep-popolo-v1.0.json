@@ -3702,6 +3702,7 @@
     },
     {
       "birth_date": "1937-04-15",
+      "death_date": "2018-06-30",
       "family_name": "Jakobsen",
       "gender": "male",
       "given_name": "Johan J.",
@@ -3722,6 +3723,10 @@
         {
           "identifier": "/m/06_lk9",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1162202319",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 3751 1745",
@@ -12397,7 +12402,7 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SVR&storrelse=middels"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RotevatnLM2012.jpeg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sveinung_Rotevatn_2015.jpg"
         }
       ],
       "links": [
@@ -15197,6 +15202,11 @@
         {
           "lang": "uk",
           "name": "Трюгве Гальвдан Лі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "特吕格韦·赖伊",
           "note": "multilingual"
         },
         {
@@ -19877,6 +19887,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1162202661",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0004 0865 800X",
           "scheme": "isni"
         },
@@ -23829,6 +23843,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "ML",
+          "scheme": "storting"
+        },
+        {
           "identifier": "231473062",
           "scheme": "viaf"
         },
@@ -25991,6 +26009,10 @@
         {
           "identifier": "TEJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "TEJ",
+          "scheme": "storting"
         },
         {
           "identifier": "Q12005525",
@@ -32728,6 +32750,13 @@
         }
       ],
       "name": "Thorhild Widvey",
+      "other_names": [
+        {
+          "lang": "hy",
+          "name": "Թորհիլդ Վիդվեյ",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Widvey, Thorhild"
     },
     {
@@ -36555,6 +36584,11 @@
       "name": "Grete Faremo",
       "other_names": [
         {
+          "lang": "hy",
+          "name": "Գրեթե Ֆարեմո",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "格蕾特·法莱姆",
           "note": "multilingual"
@@ -38890,6 +38924,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Єнс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Jens_Stoltenberg"
         },
         {
           "note": "Wikipedia (vi)",
@@ -64899,7 +64937,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Folketeaterbygningen_Oslo.JPG",
       "links": [
         {
           "note": "website",
@@ -68631,7 +68668,7 @@
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
