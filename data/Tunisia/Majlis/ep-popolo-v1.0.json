@@ -908,7 +908,14 @@
           "url": "https://fr.wikipedia.org/wiki/Noomane_El_Euch"
         }
       ],
-      "name": "Noomane El Euch"
+      "name": "Noomane El Euch",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "نعمان العش",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -6213,6 +6220,12 @@
         {
           "lang": "pt",
           "name": "Movimento Ennahda",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit del Renaixement",
           "note": "multilingual",
           "source": "wikidata-label"
         },
