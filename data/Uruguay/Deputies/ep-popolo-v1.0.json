@@ -1755,6 +1755,7 @@
         }
       ],
       "email": "jbattistoni@parlamento.gub.uy",
+      "family_name": "Battistoni",
       "gender": "male",
       "given_name": "Julio",
       "id": "7783f964-9b05-40c2-ac6f-31a345e1e63c",
@@ -1843,6 +1844,7 @@
         }
       ],
       "email": "wverri@parlamento.gub.uy",
+      "family_name": "Verri",
       "gender": "male",
       "given_name": "Walter",
       "id": "7f7eb261-a4b4-47ec-b922-99f028389c4f",
@@ -1998,6 +2000,7 @@
         }
       ],
       "email": "msantalla@parlamento.gub.uy",
+      "family_name": "Santalla",
       "gender": "female",
       "given_name": "Mercedes",
       "id": "8137a92c-e73a-426e-8078-353cbc868331",
@@ -2367,6 +2370,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0001 1015 7237",
+          "scheme": "isni"
+        },
+        {
           "identifier": "no2011001940",
           "scheme": "lcauth"
         },
@@ -2607,6 +2614,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0000 5414 3518",
+          "scheme": "isni"
+        },
+        {
           "identifier": "no2005114776",
           "scheme": "lcauth"
         },
@@ -2722,6 +2733,7 @@
         }
       ],
       "email": "cvarela@parlamento.gub.uy",
+      "family_name": "Varela",
       "gender": "male",
       "given_name": "Carlos",
       "id": "9cad6f97-cba9-4299-b66a-ad4be57c66fd",
@@ -3675,21 +3687,7 @@
       "name": "Carlos Rodríguez Gálvez",
       "other_names": [
         {
-          "name": "Carlos Rodríguez Labruna",
-          "note": "alternate"
-        },
-        {
-          "lang": "es",
-          "name": "Carlos Rodríguez Labruna",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Carlos Rodríguez Labruna",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
+          "lang": "en",
           "name": "Carlos Rodríguez Labruna",
           "note": "multilingual"
         }
@@ -3866,6 +3864,7 @@
         }
       ],
       "email": "cbottino@parlamento.gub.uy",
+      "family_name": "Bottino",
       "gender": "female",
       "given_name": "Cecilia",
       "id": "d6245aed-01fa-4b13-9887-438956dd0c53",
@@ -3987,6 +3986,7 @@
           "value": "bsanseverino@parlamento.gub.uy"
         }
       ],
+      "death_date": "2018-06-18",
       "email": "bsanseverino@parlamento.gub.uy",
       "gender": "female",
       "given_name": "Bertha",
@@ -4016,8 +4016,20 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Bertha_Sanseverino"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bertha_Sanseverino"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Bertha_Sanseverino"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Bertha_Sanseverino"
         }
       ],
       "name": "Berta Sanseverino",
@@ -4179,6 +4191,7 @@
         }
       ],
       "email": "alima@parlamento.gub.uy",
+      "family_name": "Lima",
       "gender": "male",
       "given_name": "Andrés",
       "id": "f5f4e224-a384-4da4-a40c-af65ce52bb18",
@@ -4256,7 +4269,7 @@
       ],
       "email": "mmutti@parlamento.gub.uy",
       "gender": "female",
-      "given_name": "Manuela",
+      "given_name": "María Manuela",
       "id": "fb2306b6-4574-4628-ba23-f59b9d50d8b1",
       "identifiers": [
         {
