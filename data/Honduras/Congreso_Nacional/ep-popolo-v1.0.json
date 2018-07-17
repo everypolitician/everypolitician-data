@@ -135,6 +135,7 @@
     },
     {
       "birth_date": "1952-09-20",
+      "family_name": "Zelaya",
       "gender": "male",
       "given_name": "Manuel",
       "id": "16fe788f-acac-49ba-939d-56d042813faf",
@@ -162,6 +163,10 @@
         {
           "identifier": "213925",
           "scheme": "gtaa"
+        },
+        {
+          "identifier": "0000 0000 7484 2199",
+          "scheme": "isni"
         },
         {
           "identifier": "no2010013927",
@@ -586,16 +591,7 @@
       "name": "Reinaldo Sánchez",
       "other_names": [
         {
-          "name": "Reinaldo Sánchez Rivera",
-          "note": "alternate"
-        },
-        {
-          "lang": "es",
-          "name": "Reinaldo Sánchez Rivera",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
+          "lang": "en",
           "name": "Reinaldo Sánchez Rivera",
           "note": "multilingual"
         }
@@ -2049,6 +2045,12 @@
           "name": "Partio Liberala de Honduro",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Liberal Honduras",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -2501,6 +2503,12 @@
         {
           "lang": "es",
           "name": "UD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Re",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -3590,6 +3598,19 @@
       ],
       "name": "Honduran general election, 1880",
       "start_date": "1880"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1883",
+      "id": "Q16492472",
+      "identifiers": [
+        {
+          "identifier": "Q16492472",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Honduran general election, 1883",
+      "start_date": "1883"
     },
     {
       "classification": "general election",
