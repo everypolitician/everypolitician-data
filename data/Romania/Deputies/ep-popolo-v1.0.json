@@ -5,6 +5,7 @@
   "persons": [
     {
       "birth_date": "1963-01-12",
+      "family_name": "Dragomir",
       "gender": "male",
       "given_name": "Gheorghe",
       "id": "01bd3e90-0ecc-4ea8-957e-44f44f4ae522",
@@ -362,6 +363,11 @@
       "name": "Nicolae-Liviu DRAGNEA",
       "other_names": [
         {
+          "lang": "be",
+          "name": "Лівіу Драгня",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Liviu Dragnea",
           "note": "multilingual"
@@ -374,6 +380,11 @@
         {
           "lang": "la",
           "name": "Livius Dragnea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Драгня, Ливиу",
           "note": "multilingual"
         },
         {
@@ -1026,12 +1037,12 @@
       "other_names": [
         {
           "lang": "fr",
-          "name": "Ionuţ Vulpescu",
+          "name": "Ionuț Vulpescu",
           "note": "multilingual"
         },
         {
           "lang": "la",
-          "name": "Ionuţ Vulpescu",
+          "name": "Ionuț Vulpescu",
           "note": "multilingual"
         },
         {
@@ -1073,6 +1084,7 @@
     },
     {
       "birth_date": "1953-07-21",
+      "family_name": "Seres",
       "gender": "male",
       "given_name": "Dénes",
       "id": "10e9d3b3-7bd2-4585-8934-c3482619bad1",
@@ -1586,6 +1598,7 @@
     },
     {
       "birth_date": "1959-04-27",
+      "family_name": "Preda",
       "gender": "male",
       "given_name": "Cezar",
       "id": "1754f983-4bbe-4575-92b0-9dd2b7d6fcc3",
@@ -3090,6 +3103,7 @@
     },
     {
       "birth_date": "1948-06-23",
+      "family_name": "Antal",
       "gender": "male",
       "given_name": "István",
       "id": "307f3c28-ef40-4b47-80cd-2eccd31e5ecc",
@@ -3208,6 +3222,7 @@
     },
     {
       "birth_date": "1960-10-06",
+      "family_name": "Iancu",
       "gender": "male",
       "given_name": "Iulian",
       "id": "318cdce2-4ac3-4ec7-97b9-5c998dc78340",
@@ -3279,7 +3294,7 @@
         },
         {
           "lang": "la",
-          "name": "Georgius Şimon",
+          "name": "Georgius Șimon",
           "note": "multilingual"
         }
       ],
@@ -4853,6 +4868,7 @@
     },
     {
       "birth_date": "1952-10-01",
+      "family_name": "Marin",
       "gender": "male",
       "given_name": "Gheorghe",
       "id": "473969c1-bfaa-412b-a478-2ffb365bda42",
@@ -4883,6 +4899,7 @@
     },
     {
       "birth_date": "1960-05-08",
+      "family_name": "Anton",
       "gender": "male",
       "given_name": "Marin",
       "id": "47e839e7-cc9c-4c2a-bd4f-83a1ae277dae",
@@ -6955,16 +6972,6 @@
           "lang": "en",
           "name": "Ovidiu Ganț",
           "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ovidiu Ganţ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Ovidiu Ganţ",
-          "note": "multilingual"
         }
       ],
       "sort_name": "Ganţ Ovidiu Victor"
@@ -7013,11 +7020,6 @@
         {
           "lang": "en",
           "name": "Daniel Chițoiu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Daniel Chiţoiu",
           "note": "multilingual"
         }
       ],
@@ -8372,6 +8374,7 @@
     },
     {
       "birth_date": "1949-07-01",
+      "family_name": "Cristea",
       "gender": "male",
       "given_name": "Victor",
       "id": "82657dcf-025a-4083-ac95-8cfe1ad4f7fa",
@@ -8431,6 +8434,7 @@
     },
     {
       "birth_date": "1960-12-14",
+      "family_name": "Iordache",
       "gender": "male",
       "given_name": "Florin",
       "id": "83fa4ca3-92d7-4038-a27f-2e36bda59338",
@@ -10748,6 +10752,7 @@
     },
     {
       "birth_date": "1967-09-28",
+      "family_name": "Nicolae",
       "gender": "male",
       "given_name": "Alexandri",
       "id": "b0623653-8fdd-4faf-b50d-48063a59e283",
@@ -11048,11 +11053,6 @@
         {
           "lang": "en",
           "name": "Mircea Dușa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Mircea Duşa",
           "note": "multilingual"
         }
       ],
@@ -12472,6 +12472,7 @@
     },
     {
       "birth_date": "1951-05-01",
+      "family_name": "Bonis",
       "gender": "male",
       "given_name": "Istvan",
       "id": "c2d28c13-0fc4-49d0-a5ac-27cdb854ab9a",
@@ -13311,6 +13312,7 @@
     },
     {
       "birth_date": "1965-07-12",
+      "family_name": "Florea",
       "gender": "male",
       "given_name": "Damian",
       "id": "ce43473f-7e47-44d8-97d7-12442b2b2e41",
@@ -14017,6 +14019,7 @@
     },
     {
       "birth_date": "1979-10-09",
+      "family_name": "Diaconu",
       "gender": "male",
       "given_name": "Bogdan",
       "id": "d597ff3d-e69b-4188-a326-c84c6eaa9c84",
