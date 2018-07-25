@@ -941,6 +941,12 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47025&sp=170x219"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Bojan_Glavašević"
+        }
+      ],
       "name": "Bojan Glavašević"
     },
     {
@@ -1501,6 +1507,12 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47102&sp=170x219"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Željko_Raguž"
+        }
+      ],
       "name": "Željko Raguž"
     },
     {
@@ -1734,7 +1746,14 @@
           "url": "https://uk.wikipedia.org/wiki/Даринко_Косор"
         }
       ],
-      "name": "Darinko Kosor"
+      "name": "Darinko Kosor",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Даринко Косор",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-07-27",
@@ -2535,6 +2554,11 @@
       ],
       "name": "Boris Miletić",
       "other_names": [
+        {
+          "lang": "he",
+          "name": "בוריס מילטיץ'",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Борис Мілетич",
@@ -3612,6 +3636,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Furio_Radin"
+        },
+        {
+          "note": "website",
+          "url": "http://www.sabor.hr/Default.aspx?sec=268"
         }
       ],
       "name": "Furio Radin"
@@ -4271,6 +4299,7 @@
           "value": "GordanMaras"
         }
       ],
+      "family_name": "Maras",
       "gender": "male",
       "given_name": "Gordan",
       "id": "6b285023-6653-4271-84b2-9e7658ddbb3e",
@@ -5144,6 +5173,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Orsat_Miljenić"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Orsat_Miljenić"
         },
         {
           "note": "Wikipedia (pl)",
@@ -8316,6 +8349,11 @@
       "name": "Željko Reiner",
       "other_names": [
         {
+          "lang": "ru",
+          "name": "Райнер, Желько",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Желько Райнер",
           "note": "multilingual"
@@ -8665,6 +8703,10 @@
           "url": "https://la.wikipedia.org/wiki/Andreas_Plenković"
         },
         {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Andrejs_Plenkovičs"
         },
@@ -8691,6 +8733,10 @@
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Andrej_Plenković"
         },
         {
           "note": "Wikipedia (sl)",
@@ -8960,12 +9006,6 @@
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47028&sp=170x219"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (hr)",
-          "url": "https://hr.wikipedia.org/wiki/Nikola_Grmoja"
         }
       ],
       "name": "Nikola Grmoja"
@@ -10507,6 +10547,12 @@
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47008&sp=170x219"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Branimir_Bunjac"
         }
       ],
       "name": "Branimir Bunjac"
@@ -12326,6 +12372,24 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eo",
+          "name": "Kroata Demokratia Komunumo",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Kroatiske demokratiske unionen",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Hırvat Demokrat Birliği",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Union democratique croate",
           "note": "multilingual",
@@ -13484,6 +13548,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "nb",
+          "name": "Det kroatiske bondeparti",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "HSS",
           "note": "multilingual",
@@ -13590,6 +13660,12 @@
         {
           "lang": "ja",
           "name": "クロアチア年金者党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Kroatia Partio de Pensiuloj",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -14209,7 +14285,7 @@
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15432,6 +15508,12 @@
         {
           "lang": "da",
           "name": "Kroatiens socialdemokratiske parti",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Hırvatistan Sosyal Demokrat Partisi",
           "note": "multilingual",
           "source": "wikidata-label"
         },
