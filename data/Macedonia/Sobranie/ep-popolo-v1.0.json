@@ -1287,12 +1287,17 @@
       "name": "Orhan Ibraim"
     },
     {
+      "birth_date": "1954-01-22",
       "gender": "female",
       "id": "53435cb4-2191-4c1b-8fd5-3db51d2b98a4",
       "identifiers": [
         {
           "identifier": "vladanka-avirovik",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47513822",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vladanka-Avirovik.jpg",
@@ -1301,7 +1306,20 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vladanka-Avirovik.jpg"
         }
       ],
-      "name": "Vladanka Avirovik"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Vlladanka_Aviroviq"
+        }
+      ],
+      "name": "Vladanka Avirovik",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Vlladanka Aviroviq",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-03-31",
@@ -1371,18 +1389,29 @@
       ]
     },
     {
+      "birth_date": "1956-08-30",
       "gender": "male",
       "id": "6316072d-5a99-4432-8ba0-568d84bb2c03",
       "identifiers": [
         {
           "identifier": "amdi-bajram",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47513821",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg",
       "images": [
         {
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Amdi-Bajram.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Amdi_Bajram"
         }
       ],
       "name": "Amdi Bajram"
@@ -1546,12 +1575,17 @@
       ]
     },
     {
+      "birth_date": "1959-04-29",
       "gender": "male",
       "id": "78e2d2d6-3f18-4120-bd5b-55d83f29a7df",
       "identifiers": [
         {
           "identifier": "rafis-aljiti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12292177",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg",
@@ -1560,7 +1594,52 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Rafiz-Aliti.jpg"
         }
       ],
-      "name": "Rafis Aljiti"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Рафиз_Алити"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Rafis_Aliti"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Рафиз_Аљити"
+        }
+      ],
+      "name": "Rafis Aljiti",
+      "other_names": [
+        {
+          "name": "Рафиз Аљити",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Рафиз Алити",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rafis Aliti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Рафиз Аљити",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rafiz Aljiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rafiz Aljiti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-04-12",
@@ -2362,21 +2441,42 @@
       "name": "Saso Akimoski"
     },
     {
+      "birth_date": "1974-10-06",
       "gender": "male",
       "id": "c45c9ab1-0f15-4d2e-83b4-098701b2e25d",
       "identifiers": [
         {
           "identifier": "mirvan-dzemailji",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23409626",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg",
       "images": [
         {
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Mevran-Djemaili.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mevran-Djemaili.jpg"
         }
       ],
-      "name": "Mirvan DZemailji"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mirvan_Xhemaili"
+        }
+      ],
+      "name": "Mirvan DZemailji",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mirvan Xhemaili",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-11-18",
