@@ -6,14 +6,24 @@
       "type": "membership"
     },
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/ireland-dail-wikidata-p39s",
+        "query": "SELECT * FROM data WHERE term = 32"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/kildare32.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/ireland-kildarestreet",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, first_name, last_name, sort_name, image FROM data ORDER BY id"
       },
       "source": "https://www.kildarestreet.com",
-      "type": "membership",
+      "type": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
