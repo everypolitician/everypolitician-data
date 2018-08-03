@@ -378,9 +378,6 @@
       "images": [
         {
           "url": "http://www.parlament.mt/file.aspx?f=32203"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Jason_Azzopardi.gif"
         }
       ],
       "links": [
@@ -547,6 +544,10 @@
         {
           "identifier": "gonzi-michael",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "103599",
+          "scheme": "gtaa"
         },
         {
           "identifier": "Q6830673",
@@ -1259,6 +1260,12 @@
           "url": "http://www.parlament.mt/file.aspx?f=31730"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wikipedia:Artikelwerkstatt/Justyne_Caruana"
+        }
+      ],
       "name": "Justyne Caruana"
     },
     {
@@ -1630,6 +1637,7 @@
     },
     {
       "birth_date": "1966-05-19",
+      "family_name": "Cassar",
       "gender": "male",
       "given_name": "Joe",
       "id": "9530ab81-5cfb-4278-ba84-66fdf42ae788",
@@ -2266,9 +2274,6 @@
       "images": [
         {
           "url": "http://www.parlament.mt/file.aspx?f=49206"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Silvio_Parnis.jpg"
         }
       ],
       "links": [
@@ -2348,6 +2353,7 @@
         }
       ],
       "email": "tonio.fenech@parlament.mt",
+      "family_name": "Fenech",
       "gender": "male",
       "given_name": "Tonio",
       "id": "d5ae793a-1653-4e57-868f-ecd392d05809",
@@ -2727,6 +2733,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Мускат,_Джозеф"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Joseph_Muscat"
         },
         {
           "note": "Wikipedia (sv)",
@@ -3323,6 +3333,7 @@
         }
       ],
       "email": "giovanna.debono@parlament.mt",
+      "family_name": "Debono",
       "gender": "female",
       "given_name": "Giovanna",
       "id": "fc7366dd-109b-475e-bf93-cedf8386f1bc",
@@ -3535,6 +3546,12 @@
         {
           "lang": "el",
           "name": "Εργατικό Κόμμα",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Лейбарысцкая партыя",
           "note": "multilingual",
           "source": "wikidata-label"
         },
