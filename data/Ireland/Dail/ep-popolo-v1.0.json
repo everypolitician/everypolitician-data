@@ -15287,8 +15287,52 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "CC",
-      "name": "Ceann Comhairle"
+      "id": "0013f436-01d9-4bb8-876d-4d093b93cfbb",
+      "identifiers": [
+        {
+          "identifier": "Q1052201",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.oireachtas.ie/parliament/tdssenators/officeholders/ceanncomhairleswebsite/"
+        }
+      ],
+      "name": "Ceann Comhairle",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ceann Comhairle",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "愛爾蘭下議院議長",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "رئيس مجلس دويل أيرن",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "愛爾蘭眾議院主席",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "議會主席 (愛爾蘭)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -18396,7 +18440,7 @@
     {
       "area_id": "ec6ad2b0-9971-4053-8dca-ecdddedf8bd4",
       "legislative_period_id": "term/32",
-      "on_behalf_of_id": "CC",
+      "on_behalf_of_id": "0013f436-01d9-4bb8-876d-4d093b93cfbb",
       "organization_id": "7556a33d-0e3c-4da7-a96e-65bc11ff47af",
       "person_id": "19e6f912-0a26-401b-9928-1f3fb992641d",
       "role": "member",
@@ -21165,7 +21209,7 @@
     {
       "area_id": "f2593658-6416-41fb-a5ea-7e97a82d647e",
       "legislative_period_id": "term/31",
-      "on_behalf_of_id": "CC",
+      "on_behalf_of_id": "0013f436-01d9-4bb8-876d-4d093b93cfbb",
       "organization_id": "7556a33d-0e3c-4da7-a96e-65bc11ff47af",
       "person_id": "b49a8e5e-719e-4c74-9ea4-ad6464a51987",
       "role": "member",
@@ -24048,7 +24092,7 @@
       "id": "c4b910d4-2c96-42fa-9b8d-a98e225bc74e",
       "identifiers": [
         {
-          "identifier": "Q7540532",
+          "identifier": "Q54932109",
           "scheme": "wikidata"
         }
       ],
@@ -24062,16 +24106,6 @@
         {
           "lang": "ga",
           "name": "Sligeach–Liatroim",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sligo-Leitrim",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ur",
-          "name": "سلایگوہ–لیٹریم",
           "note": "multilingual"
         }
       ],
