@@ -9977,11 +9977,17 @@
         }
       ],
       "email": "anton.todorov@parliament.bg",
+      "gender": "male",
+      "given_name": "Anton",
       "id": "2f465d70-0efc-4550-bbef-d0503a30985f",
       "identifiers": [
         {
           "identifier": "2698",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q55774335",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2698.png",
@@ -9990,8 +9996,23 @@
           "url": "http://www.parliament.bg/images/Assembly/2698.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Антон_Тодоров"
+        }
+      ],
       "name": "АНТОН ДИНЕВ ТОДОРОВ",
       "other_names": [
+        {
+          "name": "Антон Тодоров",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Антон Тодоров",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "ANTON DINEV TODOROV",
@@ -32553,6 +32574,7 @@
     },
     {
       "birth_date": "1933-07-27",
+      "death_date": "2010-07-22",
       "gender": "male",
       "id": "94c3e488-d3b4-4936-965a-665f608a3904",
       "identifiers": [
@@ -32561,8 +32583,36 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1016659105",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1074 9275",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84004014",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "xx0009765",
+          "scheme": "nkc"
+        },
+        {
+          "identifier": "n2004027683",
+          "scheme": "nukat"
+        },
+        {
           "identifier": "84",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "85365809",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12279028",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/84.png",
@@ -32571,8 +32621,27 @@
           "url": "http://www.parliament.bg/images/Assembly/84.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Дончо_Цончев"
+        },
+        {
+          "note": "Wikiquote (bg)",
+          "url": "https://bg.wikiquote.org/wiki/Дончо_Цончев"
+        }
+      ],
       "name": "ДОНЧО СТЕФАНОВ ЦОНЧЕВ",
       "other_names": [
+        {
+          "name": "Дончо Цончев",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Дончо Цончев",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "DONTCHO STEFANOV TZONCHEV",
@@ -37390,6 +37459,7 @@
     {
       "birth_date": "1972-06-23",
       "gender": "male",
+      "given_name": "Bozhidar",
       "id": "ae6f77dc-6972-4df9-90b0-3775c14884e5",
       "identifiers": [
         {
@@ -37399,19 +37469,77 @@
         {
           "identifier": "2335",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q17409393",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2335.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/2335.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/DOORSTEP_2016-07-18_(28279936872).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Божидар_Лукарски"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bozhidar_Lukarski"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bojidar_Loukarski"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bożidar_Łukarski"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Божидар_Лукарскі"
         }
       ],
       "name": "БОЖИДАР ЦЕЦОВ ЛУКАРСКИ",
       "other_names": [
         {
+          "name": "Божидар Лукарски",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Божидар Лукарски",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "BOZHIDAR TSETSOV LUKARSKI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bozhidar Lukarski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bojidar Loukarski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bożidar Łukarski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Божидар Лукарскі",
           "note": "multilingual"
         }
       ]
