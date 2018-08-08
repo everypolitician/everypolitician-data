@@ -291,16 +291,15 @@
           "url": "http://www.juliefernandez.be"
         }
       ],
-      "name": "Julie Fernandez-Fernandez",
+      "name": "Julie Fernandez Fernandez",
       "other_names": [
+        {
+          "name": "Julie Fernandez-Fernandez",
+          "note": "alternate"
+        },
         {
           "lang": "ast",
           "name": "Julie Fernández",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Julie Fernandez Fernandez",
           "note": "multilingual"
         },
         {
@@ -311,6 +310,11 @@
         {
           "lang": "hu",
           "name": "Julie Fernández",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Julie Fernandez-Fernandez",
           "note": "multilingual"
         }
       ],
@@ -7106,6 +7110,10 @@
       "sort_name": "Devin Laurent"
     },
     {
+      "id": "9ce8edce-d04d-491c-808e-698afa3e9342",
+      "name": "Olivier Henry"
+    },
+    {
       "birth_date": "1978-01-11",
       "contact_details": [
         {
@@ -7941,12 +7949,11 @@
           "url": "http://www.ericthiebaut.be"
         }
       ],
-      "name": "Eric Thiébaut",
+      "name": "Éric Thiébaut",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Éric Thiébaut",
-          "note": "multilingual"
+          "name": "Eric Thiébaut",
+          "note": "alternate"
         }
       ],
       "sort_name": "Thiébaut Eric"
@@ -10312,11 +10319,19 @@
           "url": "https://nl.wikipedia.org/wiki/Eric_Massin"
         }
       ],
-      "name": "Eric Massin",
+      "name": "Éric Massin",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Éric Massin",
+          "name": "Eric Massin",
+          "note": "alternate"
+        },
+        {
+          "name": "Eric Massin",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Eric Massin",
           "note": "multilingual"
         },
         {
@@ -11309,6 +11324,19 @@
   ],
   "organizations": [
     {
+      "classification": "legislature",
+      "id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "identifiers": [
+        {
+          "identifier": "Q1347545",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chamber of Representatives",
+      "seats": 150,
+      "type": "lower house"
+    },
+    {
       "classification": "party",
       "id": "2212f944-30f6-47ec-a169-32002c4d3a83",
       "identifiers": [
@@ -11324,7 +11352,7 @@
           "url": "http://www.cdenv.be"
         }
       ],
-      "name": "CD&V",
+      "name": "Christian Democratic and Flemish",
       "other_names": [
         {
           "lang": "zh-hans",
@@ -11737,19 +11765,6 @@
       ]
     },
     {
-      "classification": "legislature",
-      "id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
-      "identifiers": [
-        {
-          "identifier": "Q1347545",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Chamber of Representatives",
-      "seats": 150,
-      "type": "lower house"
-    },
-    {
       "classification": "party",
       "id": "6c417ff1-0cc2-4654-b6d8-022d6ad2f409",
       "identifiers": [
@@ -11765,7 +11780,7 @@
           "url": "http://www.fdf.be"
         }
       ],
-      "name": "FDF",
+      "name": "DéFI",
       "other_names": [
         {
           "lang": "en",
@@ -11940,7 +11955,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Groen",
+      "name": "Ecolo-Groen",
       "other_names": [
         {
           "lang": "en",
@@ -11952,169 +11967,566 @@
     },
     {
       "classification": "party",
-      "id": "db25a523-ad1d-423a-83a2-c56309215df0",
+      "id": "4dbd20ef-e858-48e6-bbcc-44d49c925d81",
       "identifiers": [
         {
-          "identifier": "Q533384",
+          "identifier": "Q682990",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Mouvement_Réformateur.jpg",
       "links": [
         {
           "note": "website",
-          "url": "http://www.mr.be"
+          "url": "http://www.vlaamsbelang.org"
         }
       ],
-      "name": "MR",
+      "name": "Flemish Interest",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Mouvement Réformateur",
+          "lang": "zh-hans",
+          "name": "弗拉芒利益党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "bg",
-          "name": "Реформаторско движение",
+          "lang": "zh-hant",
+          "name": "弗拉芒利益黨",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "ca",
-          "name": "Mouvement Réformateur",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Μεταρρυθμιστικό Κίνημα",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Reform Movement",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Movado Reformista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Movimiento Reformador",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "hu",
-          "name": "Mouvement Réformateur",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Movimento Riformatore",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "改革運動",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Mouvement Réformateur",
+          "lang": "zh-hk",
+          "name": "弗拉芒利益黨",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "pl",
-          "name": "Ruch Reformatorski",
+          "name": "Interes Flamandzki",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "ולאמס בלאנג",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "フラームス・ベランフ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Flandra Intereso",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "ru",
-          "name": "Реформаторское движение",
+          "name": "Фламандский интерес",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "sv",
-          "name": "Mouvement Réformateur",
+          "lang": "en",
+          "name": "Flemish Interest",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "uk",
-          "name": "Реформаторський рух",
+          "lang": "bg",
+          "name": "Фламандски интерес",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Φλαμανδικό Συμφέρον",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh",
-          "name": "法语革新运动党",
+          "name": "弗拉芒利益党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "nb",
-          "name": "Mouvement Réformateur",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "vls",
-          "name": "Mouvement Réformateur",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "Movimento Reformador",
+          "lang": "hy",
+          "name": "Ֆլամանդական շահ (կուսակցություն)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "ko",
-          "name": "혁신운동",
+          "name": "플랑드르의 이익",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
-          "lang": "da",
-          "name": "Mouvement Réformateur",
+          "lang": "sh",
+          "name": "Flamanski interes",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Vlaams Block",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Algemeen Vlaams Belang",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Interés Flamenco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Interes Flamenco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Interesse Fiammingo",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "フラームス・ベラング",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "ヴラームス・ベラング",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "フラームス・ブロック",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "フランデレン・ブロック",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "フランデレンの利益",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Vlaams blok / Vlaams belang",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Vlaams-Belang",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "Flandraj Interesoj",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "Flandra Bloko",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Interès Flamenc",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "bg",
+          "name": "Фламандска национална партия",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "bg",
+          "name": "Фламандски блок",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "vls",
+          "name": "Vlams Belang",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Vlaams Blok",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "VB",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Vlaams Belang",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "7780499e-f191-4206-84ee-1bb573a69aec",
+      "identifiers": [
+        {
+          "identifier": "Q840814",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Centre_Démocrate_Humaniste_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.lecdh.be"
+        }
+      ],
+      "name": "Humanist Democratic Centre",
+      "other_names": [
+        {
+          "lang": "eo",
+          "name": "Centro Demokrata Humanista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Centrum Demokratyczno-Humanistyczne",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Гуманистический демократический центр",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "en",
-          "name": "MR",
+          "name": "Humanist Democratic Centre",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Centro Democrático Humanista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Centre Demòcrata Humanista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Humanista Demokratikus Közép",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Гуманістичний демократичний центр",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Centro Democratico Umanista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Centre Démocrate Humaniste",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "民主人道主義中道派",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Хуманистичен демократичен център",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk-arab",
+          "name": "گۋمانىيستىك ىينتەرناتسىيونال",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk-cyrl",
+          "name": "Гуманистік интернационал",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk-latn",
+          "name": "Gwmanïstik ïnternacïonal",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk",
+          "name": "Гуманистік интернационал",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Δημοκρατικό Ανθρωπιστικό Κέντρο",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Centro Democrático Humanista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "人道民主中心黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "인문주의 민주 중도파",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "la",
+          "name": "Centrum Democraticum Humanisticum",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Christlich Soziale Partei",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "Christlich-Soziale Partei",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "Centre Démocrate Humaniste",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "Humanista Demokratia Centro",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "CdH",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Społeczno-Chrześcijańska",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pl",
+          "name": "Humanistyczne Centrum Demokratów",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "CdH",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti social-chrétien",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "CdH new",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Centro Democratico Humanista",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Socialcristià",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Social-Cristià",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Sociale Cristiano",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Parti Social Chrétien",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Demokratisches und Humanistisches Zentrum",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "ワロン系キリスト教民主党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "中道民主人道党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "bg",
+          "name": "Социал-християнска партия",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "bg",
+          "name": "CdH",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sv",
+          "name": "Centrumdemokratiska Humanister",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Parti social chrétien",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Parti social chretien",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "CdH",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Centre democrate Humaniste",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "PSC",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "en",
-          "name": "Mouvement réformateur",
+          "name": "cdH",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "en",
-          "name": "Reformist Movement",
+          "name": "Centre démocrate humaniste",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "en",
-          "name": "Mouvement reformateur",
+          "name": "Centre democrate humaniste",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nb",
+          "name": "Parti Social Chrétien",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "人文主義民主中心",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -12136,7 +12548,7 @@
           "url": "http://www.n-va.be"
         }
       ],
-      "name": "N-VA",
+      "name": "New Flemish Alliance",
       "other_names": [
         {
           "lang": "zh",
@@ -12396,7 +12808,7 @@
           "url": "http://www.openvld.be"
         }
       ],
-      "name": "Open Vld",
+      "name": "Open Flemish Liberals and Democrats",
       "other_names": [
         {
           "lang": "zh-hans",
@@ -12786,6 +13198,273 @@
     },
     {
       "classification": "party",
+      "id": "cb079981-d359-42ab-84d5-888ef1815a2b",
+      "identifiers": [
+        {
+          "identifier": "Q929882",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partipopulaire.be"
+        }
+      ],
+      "name": "People's Party",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Parti populaire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit Popular",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Parti Populaire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "People's Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Parti Populaire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Partia Ludowa",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Parti Populaire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Popolare",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "人民黨 (比利時)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "국민당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Parti Populaire",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה העממית",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio Popola",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "db25a523-ad1d-423a-83a2-c56309215df0",
+      "identifiers": [
+        {
+          "identifier": "Q533384",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Mouvement_Réformateur.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.mr.be"
+        }
+      ],
+      "name": "Reform Movement",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Реформаторско движение",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Μεταρρυθμιστικό Κίνημα",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Reform Movement",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Movado Reformista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Reformador",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hu",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Movimento Riformatore",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "改革運動",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Ruch Reformatorski",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Реформаторское движение",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Реформаторський рух",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "法语革新运动党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vls",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Movimento Reformador",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "혁신운동",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Mouvement Réformateur",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "MR",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Mouvement réformateur",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Reformist Movement",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Mouvement reformateur",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
       "identifiers": [
         {
@@ -12800,7 +13479,7 @@
           "url": "http://www.ps.be"
         }
       ],
-      "name": "PS",
+      "name": "Socialist Party",
       "other_names": [
         {
           "lang": "zh-hans",
@@ -13070,828 +13749,6 @@
     },
     {
       "classification": "party",
-      "id": "84fe0275-d3a9-4f77-a46e-40cc0d3298e3",
-      "identifiers": [
-        {
-          "identifier": "Q925616",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PTB-PVDA.jpg",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.pvda.be/"
-        }
-      ],
-      "name": "PTB-go!",
-      "other_names": [
-        {
-          "lang": "pl",
-          "name": "Partia Pracujących Belgii",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "br",
-          "name": "Strollad Labour Belgia",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit dels Treballadors de Bèlgica",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Partij van de Arbeid",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Workers' Party of Belgium",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Partido del Trabajo de Bélgica",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti du travail de Belgique",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Partij van de Arbeid van België",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sv",
-          "name": "Belgiska Arbetarpartiet",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "tr",
-          "name": "Belçika İşçi Partisi",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Partito del Lavoro del Belgio",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Partio de la Laboro de Belgio",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nb",
-          "name": "Arbeiderpartiet i Belgia",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "比利时工人党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "Partido do Trabalho da Bélgica",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "벨기에 노동당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "da",
-          "name": "Partij van de Arbeid van België",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Партия труда Бельгии",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "ベルギー労働者党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ast",
-          "name": "Partíu del Trabayu de Bélxica",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "PVDA",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "PTB",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Partido del Trabajo de Belgica",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "cb079981-d359-42ab-84d5-888ef1815a2b",
-      "identifiers": [
-        {
-          "identifier": "Q929882",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.partipopulaire.be"
-        }
-      ],
-      "name": "Parti Populaire",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Parti populaire",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Popular",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Parti Populaire",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "People's Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Parti Populaire",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Partia Ludowa",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sv",
-          "name": "Parti Populaire",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Popolare",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "人民黨 (比利時)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "국민당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "da",
-          "name": "Parti Populaire",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "he",
-          "name": "המפלגה העממית",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Partio Popola",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "4dbd20ef-e858-48e6-bbcc-44d49c925d81",
-      "identifiers": [
-        {
-          "identifier": "Q682990",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.vlaamsbelang.org"
-        }
-      ],
-      "name": "Vlaams Belang",
-      "other_names": [
-        {
-          "lang": "zh-hans",
-          "name": "弗拉芒利益党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "弗拉芒利益黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh-hk",
-          "name": "弗拉芒利益黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Interes Flamandzki",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "he",
-          "name": "ולאמס בלאנג",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "フラームス・ベランフ",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Flandra Intereso",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Фламандский интерес",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Flemish Interest",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "bg",
-          "name": "Фламандски интерес",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Φλαμανδικό Συμφέρον",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "弗拉芒利益党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "hy",
-          "name": "Ֆլամանդական շահ (կուսակցություն)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "플랑드르의 이익",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sh",
-          "name": "Flamanski interes",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Vlaams Block",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "Algemeen Vlaams Belang",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Interés Flamenco",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Interes Flamenco",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "it",
-          "name": "Interesse Fiammingo",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "フラームス・ベラング",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "ヴラームス・ベラング",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "フラームス・ブロック",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "フランデレン・ブロック",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "フランデレンの利益",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Vlaams blok / Vlaams belang",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Vlaams-Belang",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "Flandraj Interesoj",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "Flandra Bloko",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ca",
-          "name": "Interès Flamenc",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "bg",
-          "name": "Фламандска национална партия",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "bg",
-          "name": "Фламандски блок",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "vls",
-          "name": "Vlams Belang",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Vlaams Blok",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "VB",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Vlaams Belang",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "7780499e-f191-4206-84ee-1bb573a69aec",
-      "identifiers": [
-        {
-          "identifier": "Q840814",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Centre_Démocrate_Humaniste_Logo.svg",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.lecdh.be"
-        }
-      ],
-      "name": "cdH",
-      "other_names": [
-        {
-          "lang": "eo",
-          "name": "Centro Demokrata Humanista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Centrum Demokratyczno-Humanistyczne",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Гуманистический демократический центр",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Humanist Democratic Centre",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Centro Democrático Humanista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Centre Demòcrata Humanista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "hu",
-          "name": "Humanista Demokratikus Közép",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "uk",
-          "name": "Гуманістичний демократичний центр",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Centro Democratico Umanista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Centre Démocrate Humaniste",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "民主人道主義中道派",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "bg",
-          "name": "Хуманистичен демократичен център",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "kk-arab",
-          "name": "گۋمانىيستىك ىينتەرناتسىيونال",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "kk-cyrl",
-          "name": "Гуманистік интернационал",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "kk-latn",
-          "name": "Gwmanïstik ïnternacïonal",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "kk",
-          "name": "Гуманистік интернационал",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Δημοκρατικό Ανθρωπιστικό Κέντρο",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "Centro Democrático Humanista",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "人道民主中心黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "인문주의 민주 중도파",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "la",
-          "name": "Centrum Democraticum Humanisticum",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Christlich Soziale Partei",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "Christlich-Soziale Partei",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "Centre Démocrate Humaniste",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "Humanista Demokratia Centro",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "eo",
-          "name": "CdH",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "pl",
-          "name": "Partia Społeczno-Chrześcijańska",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "pl",
-          "name": "Humanistyczne Centrum Demokratów",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "CdH",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti social-chrétien",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "CdH new",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Centro Democratico Humanista",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Socialcristià",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit Social-Cristià",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "it",
-          "name": "Partito Sociale Cristiano",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "de",
-          "name": "Parti Social Chrétien",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "de",
-          "name": "Demokratisches und Humanistisches Zentrum",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "ワロン系キリスト教民主党",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ja",
-          "name": "中道民主人道党",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "bg",
-          "name": "Социал-християнска партия",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "bg",
-          "name": "CdH",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "sv",
-          "name": "Centrumdemokratiska Humanister",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Parti social chrétien",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Parti social chretien",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "CdH",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Centre democrate Humaniste",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "PSC",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "cdH",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Centre démocrate humaniste",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Centre democrate humaniste",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nb",
-          "name": "Parti Social Chrétien",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "zh",
-          "name": "人文主義民主中心",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "aff54454-e0da-46c4-ab22-708578d63486",
       "identifiers": [
         {
@@ -13906,7 +13763,7 @@
           "url": "http://www.s-p-a.be"
         }
       ],
-      "name": "sp.a",
+      "name": "Socialist Party Different",
       "other_names": [
         {
           "lang": "pl",
@@ -14359,10 +14216,169 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "84fe0275-d3a9-4f77-a46e-40cc0d3298e3",
+      "identifiers": [
+        {
+          "identifier": "Q925616",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PTB-PVDA.jpg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pvda.be/"
+        }
+      ],
+      "name": "Workers' Party of Belgium",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Partia Pracujących Belgii",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "br",
+          "name": "Strollad Labour Belgia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Partit dels Treballadors de Bèlgica",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Partij van de Arbeid",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Workers' Party of Belgium",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Trabajo de Bélgica",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti du travail de Belgique",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Partij van de Arbeid van België",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Belgiska Arbetarpartiet",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Belçika İşçi Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Partito del Lavoro del Belgio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "Partio de la Laboro de Belgio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nb",
+          "name": "Arbeiderpartiet i Belgia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "比利时工人党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido do Trabalho da Bélgica",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "벨기에 노동당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "da",
+          "name": "Partij van de Arbeid van België",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия труда Бельгии",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "ベルギー労働者党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ast",
+          "name": "Partíu del Trabayu de Bélxica",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "PVDA",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "PTB",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido del Trabajo de Belgica",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     }
   ],
   "meta": {
     "sources": [
+      "http://wikidata.org/",
       "https://nl.wikipedia.org/",
       "http://www.lachambre.be/",
       "http://gender-balance.org/"
@@ -14964,7 +14980,6 @@
       "role": "member"
     },
     {
-      "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
       "end_date": "2017-03-09",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
@@ -15014,7 +15029,7 @@
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "71d8b62e-b590-4e7d-af8b-20568abe7a3a",
       "role": "member",
-      "start_date": "2015-09-22"
+      "start_date": "2015-10-13"
     },
     {
       "area_id": "41467d4b-517c-4aba-8051-02bc2582a6ce",
@@ -15255,6 +15270,15 @@
       "role": "member"
     },
     {
+      "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "9ce8edce-d04d-491c-808e-698afa3e9342",
+      "role": "member",
+      "start_date": "2018-05-24"
+    },
+    {
       "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
@@ -15449,7 +15473,7 @@
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "bb953372-bbd9-40b1-9e5c-bb705db9ed84",
       "role": "member",
-      "start_date": "2017-08-24"
+      "start_date": "2017-07-28"
     },
     {
       "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
@@ -15661,7 +15685,7 @@
       "role": "member"
     },
     {
-      "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
+      "end_date": "2018-05-24",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15686,12 +15710,12 @@
     },
     {
       "area_id": "1241ba6f-fd42-46c7-accf-e5d48fd8a367",
+      "end_date": "2014-10-14",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "2212f944-30f6-47ec-a169-32002c4d3a83",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "dfc4c345-63ec-4a75-887f-9df133f9b25e",
-      "role": "member",
-      "start_date": "2014-10-14"
+      "role": "member"
     },
     {
       "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
@@ -15719,13 +15743,21 @@
     },
     {
       "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
-      "end_date": "2016-04-29",
+      "end_date": "2014-05-25",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "e7222e1b-2921-43c2-895b-ed069d22ec12",
+      "role": "member"
+    },
+    {
+      "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "4cec1dec-a4a5-42d6-a070-622c6e835670",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "e7222e1b-2921-43c2-895b-ed069d22ec12",
       "role": "member",
-      "start_date": "2014-07-30"
+      "start_date": "2014-07-25"
     },
     {
       "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
@@ -16864,7 +16896,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Vlaams-Brabant",
+      "name": "Flemish Brabant",
       "other_names": [
         {
           "lang": "af",
@@ -17629,7 +17661,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Antwerpen",
+      "name": "Antwerp",
       "other_names": [
         {
           "lang": "af",
@@ -18064,7 +18096,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Luik",
+      "name": "Liège",
       "other_names": [
         {
           "lang": "af",
@@ -18410,7 +18442,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Namen",
+      "name": "Namur",
       "other_names": [
         {
           "lang": "an",
@@ -18712,7 +18744,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Brussel-Hoofdstad",
+      "name": "Arrondissement of Brussels-Capital",
       "other_names": [
         {
           "lang": "ar",
@@ -18870,7 +18902,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Henegouwen",
+      "name": "Hainaut",
       "other_names": [
         {
           "lang": "ar",
@@ -19192,7 +19224,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Luxemburg",
+      "name": "Luxembourg",
       "other_names": [
         {
           "lang": "af",
@@ -19582,7 +19614,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "West-Vlaanderen",
+      "name": "West Flanders",
       "other_names": [
         {
           "lang": "af",
@@ -20049,7 +20081,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Oost-Vlaanderen",
+      "name": "East Flanders",
       "other_names": [
         {
           "lang": "af",
@@ -20499,7 +20531,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Waals-Brabant",
+      "name": "Walloon Brabant",
       "other_names": [
         {
           "lang": "af",
