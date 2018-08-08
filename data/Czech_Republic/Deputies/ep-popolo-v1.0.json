@@ -4250,15 +4250,44 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0003 8403 1543",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "pna2012724743",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "265",
           "scheme": "parldata"
         },
         {
           "identifier": "265",
           "scheme": "psp"
+        },
+        {
+          "identifier": "273470073",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12059170",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Tomáš_Bergman"
         }
       ],
       "name": "Tomáš Květák",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tomáš Bergman",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Květák, Tomáš"
     },
     {
@@ -21104,44 +21133,6 @@
       "sort_name": "Švarcbek, Josef"
     },
     {
-      "birth_date": "1956-10-04",
-      "family_name": "Kučera",
-      "gender": "male",
-      "given_name": "Miloslav",
-      "honorific_prefix": "Ing.",
-      "id": "7e77b899-609d-43d9-bbc1-d2bb5ef76b97",
-      "identifiers": [
-        {
-          "identifier": "5253",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "5253",
-          "scheme": "parldata"
-        },
-        {
-          "identifier": "5253",
-          "scheme": "psp"
-        },
-        {
-          "identifier": "84623698",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q12037465",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Miloslav_Kučera_(občanský_demokrat)"
-        }
-      ],
-      "name": "Miloslav Kučera",
-      "sort_name": "Kučera, Miloslav"
-    },
-    {
       "birth_date": "1943-06-08",
       "family_name": "Laštůvka",
       "gender": "male",
@@ -25308,9 +25299,30 @@
         {
           "identifier": "387",
           "scheme": "psp"
+        },
+        {
+          "identifier": "84623698",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12037465",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Miloslav_Kučera_(občanský_demokrat)"
         }
       ],
       "name": "Miloslav Kučera ml.",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Miloslav Kučera",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kučera ml., Miloslav"
     },
     {
@@ -32147,39 +32159,6 @@
       ],
       "name": "Jiří Janeček",
       "sort_name": "Janeček, Jiří"
-    },
-    {
-      "birth_date": "1943-12-20",
-      "family_name": "Vrcha",
-      "gender": "male",
-      "given_name": "Oldřich",
-      "id": "be1e2b3c-a58b-4580-83b5-ecf9522bb754",
-      "identifiers": [
-        {
-          "identifier": "329",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "329",
-          "scheme": "parldata"
-        },
-        {
-          "identifier": "329",
-          "scheme": "psp"
-        },
-        {
-          "identifier": "Q12042460",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Oldřich_Vrcha"
-        }
-      ],
-      "name": "Oldřich Vrcha",
-      "sort_name": "Vrcha, Oldřich"
     },
     {
       "birth_date": "1970-04-08",
@@ -40204,6 +40183,16 @@
         {
           "identifier": "189",
           "scheme": "psp"
+        },
+        {
+          "identifier": "Q12042460",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Oldřich_Vrcha"
         }
       ],
       "name": "Oldřich Vrcha",
@@ -40930,30 +40919,6 @@
       ],
       "name": "Yvona Jungová",
       "sort_name": "Jungová, Yvona"
-    },
-    {
-      "birth_date": "1942-03-04",
-      "family_name": "Kučera st.",
-      "gender": "male",
-      "given_name": "Miloslav",
-      "honorific_prefix": "Mgr.",
-      "id": "f15eac62-a7b1-4d65-b04a-056cc28be0a1",
-      "identifiers": [
-        {
-          "identifier": "388",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "388",
-          "scheme": "parldata"
-        },
-        {
-          "identifier": "388",
-          "scheme": "psp"
-        }
-      ],
-      "name": "Miloslav Kučera st.",
-      "sort_name": "Kučera st., Miloslav"
     },
     {
       "birth_date": "1957-03-28",
@@ -75779,14 +75744,6 @@
       "start_date": "2004-07-20"
     },
     {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "600",
-      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
-      "person_id": "7e77b899-609d-43d9-bbc1-d2bb5ef76b97",
-      "role": "member",
-      "start_date": "2002-06-25"
-    },
-    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "40",
       "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
@@ -77468,6 +77425,14 @@
       "person_id": "97f9d6aa-2e8f-4671-a4a3-f4ad9e7adc5a",
       "role": "member",
       "start_date": "1998-06-30"
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "600",
+      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
+      "person_id": "97f9d6aa-2e8f-4671-a4a3-f4ad9e7adc5a",
+      "role": "member",
+      "start_date": "2002-06-25"
     },
     {
       "legislative_period_id": "term/7",
@@ -80766,14 +80731,6 @@
       "start_date": "2008-10-25"
     },
     {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "46",
-      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
-      "person_id": "be1e2b3c-a58b-4580-83b5-ecf9522bb754",
-      "role": "member",
-      "start_date": "1996-06-06"
-    },
-    {
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "753",
       "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
@@ -81690,6 +81647,14 @@
       "person_id": "cf9f45fe-d04a-495e-8075-3dadee794132",
       "role": "member",
       "start_date": "1996-06-12"
+    },
+    {
+      "legislative_period_id": "term/3",
+      "on_behalf_of_id": "48",
+      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
+      "person_id": "cf9f45fe-d04a-495e-8075-3dadee794132",
+      "role": "member",
+      "start_date": "1998-06-24"
     },
     {
       "legislative_period_id": "term/5",
@@ -83739,6 +83704,14 @@
     },
     {
       "legislative_period_id": "term/2",
+      "on_behalf_of_id": "46",
+      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
+      "person_id": "edf6b4b4-8c76-4d10-bd95-4f8417bb226a",
+      "role": "member",
+      "start_date": "1996-06-06"
+    },
+    {
+      "legislative_period_id": "term/2",
       "on_behalf_of_id": "40",
       "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
       "person_id": "edf8aea4-1644-4b41-8b42-09644f19f2c0",
@@ -83894,14 +83867,6 @@
       "on_behalf_of_id": "48",
       "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
       "person_id": "f14f3a65-706b-4119-8f14-71eee851bc42",
-      "role": "member",
-      "start_date": "1998-06-24"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "48",
-      "organization_id": "8b61aee3-0001-4cec-91c1-946ef545ceb1",
-      "person_id": "f15eac62-a7b1-4d65-b04a-056cc28be0a1",
       "role": "member",
       "start_date": "1998-06-24"
     },
