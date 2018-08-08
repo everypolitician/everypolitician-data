@@ -1,13 +1,13 @@
 {
   "sources": [
     {
-      "file": "morph/wikipedia.csv",
+      "file": "morph/p39s.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/belgium-representatives-wikipedia",
-        "query": "SELECT name,party,area,term,start_date,end_date FROM data ORDER BY name"
+        "scraper": "everypolitician-scrapers/belgium-representatives-wikidata-p39s",
+        "query": "SELECT * FROM data WHERE term = 54 ORDER BY id"
       },
-      "source": "https://nl.wikipedia.org/",
+      "source": "http://wikidata.org/",
       "type": "membership"
     },
     {
