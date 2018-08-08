@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/ireland-dail-wikidata-p39s",
-        "query": "SELECT * FROM data WHERE term >= 27 ORDER BY id"
+        "query": "SELECT * FROM data WHERE term >= 24 ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "membership"
