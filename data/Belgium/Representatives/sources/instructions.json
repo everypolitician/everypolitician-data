@@ -11,6 +11,12 @@
       "type": "membership"
     },
     {
+      "file": "archive/wikipedia.csv",
+      "source": "https://nl.wikipedia.org/",
+      "type": "membership",
+      "note": "Not yet in P39s. Remove them from here as they start appearing in the P39s source"
+    },
+    {
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
