@@ -6479,6 +6479,12 @@
     {
       "gender": "male",
       "id": "6861814d-e9a0-4163-8fdd-36f4ee78c7d7",
+      "identifiers": [
+        {
+          "identifier": "Q55753591",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/EO4_7454-C%20%28Yee%20Chia%20Hsing%29_web.jpg",
       "images": [
         {
@@ -8108,6 +8114,10 @@
         {
           "identifier": "lim-wee-kiak-11",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55753594",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/Lim%20Wee%20Kiak_web.jpg",
@@ -8672,12 +8682,25 @@
       "name": "Ker Sin Tze, Dr"
     },
     {
+      "birth_date": "1966",
       "gender": "male",
       "id": "91f8f58d-362a-44cf-a4e5-88a66eb5aacb",
+      "identifiers": [
+        {
+          "identifier": "Q55753587",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.sg/sites/default/files/ChongKH-PassportPhoto_web.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/ChongKH-PassportPhoto_web.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/ChongKeeHiong"
         }
       ],
       "name": "Chong Kee Hiong"
