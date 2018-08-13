@@ -1078,6 +1078,10 @@
       "name": "Lauri Vahtre"
     },
     {
+      "id": "094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
+      "name": "Aivar Surva"
+    },
+    {
       "birth_date": "1958-09-10",
       "family_name": "Morozov",
       "gender": "male",
@@ -18012,6 +18016,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -18215,6 +18224,15 @@
       "person_id": "07ed29a1-1e5b-4239-8337-64be5808e382",
       "role": "member",
       "start_date": "2014-01-13"
+    },
+    {
+      "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "094c0c8c-f0c0-42dd-8361-dc8226e7d3dd",
+      "role": "member",
+      "start_date": "2018-08-01"
     },
     {
       "legislative_period_id": "term/12",
@@ -18464,6 +18482,7 @@
     },
     {
       "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
+      "end_date": "2018-08-01",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -18577,6 +18596,7 @@
     },
     {
       "area_id": "05773892-0b18-47b9-830b-a7fa13737ea2",
+      "end_date": "2018-06-15",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -18594,6 +18614,7 @@
     },
     {
       "area_id": "81c61fb7-76be-4cac-aa0b-332d85f2dc0e",
+      "end_date": "2018-06-26",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -18683,6 +18704,7 @@
       ]
     },
     {
+      "area_id": "34325377-b7ea-4511-811f-41ab555fc6e9",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -18868,6 +18890,19 @@
         }
       ],
       "start_date": "2015-04-09"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "2cced9a3-4f1c-4266-af00-a73dd22a47f9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/7b6823ed-96f9-462b-b931-3dd4faceb09e/Vilja-Toomast"
+        }
+      ],
+      "start_date": "2018-06-15"
     },
     {
       "legislative_period_id": "term/12",
@@ -19518,6 +19553,19 @@
         }
       ],
       "start_date": "2016-11-24"
+    },
+    {
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/587e9a85-08b6-4045-b49a-7a8d6e3dc940/Eevi-Paasm%C3%A4e"
+        }
+      ],
+      "start_date": "2018-06-28"
     },
     {
       "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
@@ -20867,15 +20915,6 @@
       "person_id": "cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
       "role": "member",
       "start_date": "2013-06-15"
-    },
-    {
-      "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
-      "end_date": "2016-11-23",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "f8b6d88a-65e1-45b0-a230-501ceefd90eb",
-      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
-      "person_id": "cdb00a6d-65c7-4f22-a8d5-57dd296b30a3",
-      "role": "member"
     },
     {
       "area_id": "07217ad6-6d05-41c2-86cb-b14f0c778ff4",
