@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/mongolia-khurai-wp-multiple-terms",
-        "query": "SELECT * FROM data"
+        "query": "SELECT *, REPLACE(LOWER(constituency),' ','_') AS constituency_id FROM data"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
