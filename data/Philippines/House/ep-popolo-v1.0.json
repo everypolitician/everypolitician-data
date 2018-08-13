@@ -1571,12 +1571,22 @@
       "name": "Austria Barzaga, Jennifer"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "karlo_nograles"
+        }
+      ],
       "gender": "male",
       "id": "2956df48-5cae-4f63-a28a-c8831aec99dd",
       "identifiers": [
         {
           "identifier": "nograles-k",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55433224",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/nograles-k.jpg",
@@ -1585,7 +1595,28 @@
           "url": "http://www.congress.gov.ph/members/images/16th/nograles-k.jpg"
         }
       ],
-      "name": "Nograles, Karlo Alexei B."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Karlo_Nograles"
+        },
+        {
+          "note": "instagram",
+          "url": "karlonograles"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/karlo_nograles"
+        }
+      ],
+      "name": "Nograles, Karlo Alexei B.",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Karlo Nograles",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -11990,12 +12021,35 @@
       "name": "Aquino-Magsaysay, Milagros"
     },
     {
+      "birth_date": "1940-09-13",
+      "death_date": "2016-06-13",
       "gender": "male",
+      "given_name": "Enrique",
       "id": "fe3ace89-c25d-44ae-bcd5-69a5a598360c",
       "identifiers": [
         {
+          "identifier": "XX942094",
+          "scheme": "bne"
+        },
+        {
           "identifier": "garcia-e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 6033 6797",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2015244662",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "87905825",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3549853",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/garcia-e.jpg",
@@ -12004,7 +12058,55 @@
           "url": "http://www.congress.gov.ph/members/images/16th/garcia-e.jpg"
         }
       ],
-      "name": "Garcia, Enrique Jr. T."
+      "links": [
+        {
+          "note": "Wikipedia (cbk_zam)",
+          "url": "https://cbk_zam.wikipedia.org/wiki/Enrique_García,_Jr."
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tet_Garcia"
+        },
+        {
+          "note": "Wikipedia (ilo)",
+          "url": "https://ilo.wikipedia.org/wiki/Tet_Garcia"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Enrique_Garcia,_Jr."
+        },
+        {
+          "note": "Wikipedia (pag)",
+          "url": "https://pag.wikipedia.org/wiki/Enrique_Garcia,_Jr."
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Tet_Garcia"
+        }
+      ],
+      "name": "Garcia, Enrique Jr. T.",
+      "other_names": [
+        {
+          "lang": "cbk-zam",
+          "name": "Enrique García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tet Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Enrique Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pag",
+          "name": "Enrique Garcia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "fec15344-6e83-429b-9c84-7c54dda21c8f",
