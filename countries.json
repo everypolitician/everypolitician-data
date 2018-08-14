@@ -4571,12 +4571,20 @@
         "slug": "Assembly",
         "sources_directory": "data/Hungary/Assembly/sources",
         "popolo": "data/Hungary/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/83e775d66c09576855a16edd65e845e299bb6044/data/Hungary/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/43c6afcc3b81171e51e6e845cbbc07a59a53ff3e/data/Hungary/Assembly/ep-popolo-v1.0.json",
         "names": "data/Hungary/Assembly/names.csv",
-        "lastmod": "1533730317",
-        "person_count": 202,
-        "sha": "83e775d66c09576855a16edd65e845e299bb6044",
+        "lastmod": "1534237525",
+        "person_count": 245,
+        "sha": "43c6afcc3b81171e51e6e845cbbc07a59a53ff3e",
         "legislative_periods": [
+          {
+            "id": "term/41",
+            "name": "2018–",
+            "start_date": "2018-05-08",
+            "slug": "41",
+            "csv": "data/Hungary/Assembly/term-41.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/43c6afcc3b81171e51e6e845cbbc07a59a53ff3e/data/Hungary/Assembly/term-41.csv"
+          },
           {
             "end_date": "2018-05-07",
             "id": "term/40",
@@ -4587,7 +4595,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/064edbfb2bd77c3bc22489882239702b9b79c2f2/data/Hungary/Assembly/term-40.csv"
           }
         ],
-        "statement_count": 9497,
+        "statement_count": 11124,
         "type": "unicameral legislature"
       }
     ]
