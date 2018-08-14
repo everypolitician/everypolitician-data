@@ -51,12 +51,17 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Peter_Phillips_(politician)"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Peter_Phillips"
         }
       ],
       "name": "Peter Phillips"
     },
     {
       "birth_date": "1945-12-12",
+      "family_name": "Miller",
       "gender": "female",
       "given_name": "Portia",
       "id": "04ba6529-249f-43e1-bc41-1e22f9870490",
@@ -549,9 +554,20 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Kenneth_Baugh"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Kenethus_Baugh"
         }
       ],
-      "name": "Kenneth Baugh"
+      "name": "Kenneth Baugh",
+      "other_names": [
+        {
+          "lang": "la",
+          "name": "Kenethus Baugh",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "166907e4-eb69-4902-b185-7cb5cffb717b",
@@ -747,6 +763,10 @@
           "scheme": "imdb"
         },
         {
+          "identifier": "2738151433033156420004",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q505200",
           "scheme": "wikidata"
         }
@@ -768,6 +788,10 @@
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/أندرو_هولنيس"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Andrew_Holness"
         },
         {
           "note": "Wikipedia (de)",
@@ -800,6 +824,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/אנדרו_הולנס"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Andrew_Holness"
         },
         {
           "note": "Wikipedia (it)",
@@ -2160,6 +2188,10 @@
         {
           "identifier": "nm0360219",
           "scheme": "imdb"
+        },
+        {
+          "identifier": "4392151433041156420004",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q446817",
