@@ -11,14 +11,37 @@
         }
       ],
       "email": "fulop.erik@parlament.hu",
+      "given_name": "Erik",
       "id": "0240abb4-0bb5-44fe-ab69-49bb726b2434",
+      "identifiers": [
+        {
+          "identifier": "Q55752911",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/f039.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/f039.jpg"
         }
       ],
-      "name": "Dr. Fülöp, Erik"
+      "name": "Dr. Fülöp, Erik",
+      "other_names": [
+        {
+          "name": "Fülöp Erik",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Erik Fülöp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Fülöp Erik",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-03-03",
@@ -77,6 +100,7 @@
       ]
     },
     {
+      "birth_date": "1981-05-06",
       "contact_details": [
         {
           "type": "email",
@@ -84,14 +108,67 @@
         }
       ],
       "email": "kocsis.mate@parlament.hu",
+      "gender": "male",
+      "given_name": "Máté",
       "id": "027fd664-724a-47a0-9755-36c59c2297e1",
+      "identifiers": [
+        {
+          "identifier": "/m/0nhj64d",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3331988",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k100.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k100.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kocsismate2.jpg"
         }
       ],
-      "name": "Kocsis, Máté"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Máté_Kocsis"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Máté_Kocsis"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Máté_Kocsis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Máté_Kocsis"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kocsis_Máté"
+        }
+      ],
+      "name": "Kocsis, Máté",
+      "other_names": [
+        {
+          "name": "Kocsis Máté",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Máté Kocsis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kocsis Máté",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-06-23",
@@ -153,14 +230,38 @@
         }
       ],
       "email": "keresztes.laszlo@parlament.hu",
+      "gender": "male",
       "id": "044e79b4-68cc-4ad6-b9cd-b00f8b46af11",
+      "identifiers": [
+        {
+          "identifier": "Q47507181",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k154.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k154.jpg"
         }
       ],
-      "name": "Dr. Keresztes, László Lóránt"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Keresztes_László_Lóránt"
+        }
+      ],
+      "name": "Dr. Keresztes, László Lóránt",
+      "other_names": [
+        {
+          "name": "Keresztes László Lóránt",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Keresztes László Lóránt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-12-09",
@@ -467,13 +568,35 @@
       ],
       "email": "juhasz.hajnalka@parlament.hu",
       "id": "0ace0884-dd60-49fa-ab9e-c7621d028849",
+      "identifiers": [
+        {
+          "identifier": "Q55753231",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k155.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k155.jpg"
         }
       ],
-      "name": "Juhász, Hajnalka"
+      "name": "Juhász, Hajnalka",
+      "other_names": [
+        {
+          "name": "Juhász Hajnalka",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Hajnalka Juhász",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Juhász Hajnalka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-09-16",
@@ -1604,6 +1727,7 @@
       ]
     },
     {
+      "birth_date": "1947-08-23",
       "contact_details": [
         {
           "type": "email",
@@ -1611,14 +1735,49 @@
         }
       ],
       "email": "hajdu.laszlo@parlament.hu",
+      "family_name": "Hajdu",
+      "gender": "male",
+      "given_name": "László",
       "id": "20493d10-9a9b-45ac-a4fb-04706a45f050",
+      "identifiers": [
+        {
+          "identifier": "Q6710677",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/h211.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h211.jpg"
         }
       ],
-      "name": "Hajdu, László"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/László_Hajdu"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Hajdu_László_(politikus)"
+        }
+      ],
+      "name": "Hajdu, László",
+      "other_names": [
+        {
+          "name": "Hajdu László",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "László Hajdu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hajdu László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-08-21",
@@ -2511,13 +2670,30 @@
       ],
       "email": "f.kovacs.sandor@parlament.hu",
       "id": "2994bcc2-3b81-4121-b7ed-40d3202237b3",
+      "identifiers": [
+        {
+          "identifier": "Q55753818",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k151.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k151.jpg"
         }
       ],
-      "name": "F Kovács, Sándor"
+      "name": "F Kovács, Sándor",
+      "other_names": [
+        {
+          "name": "F. Kovács Sándor",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "F. Kovács Sándor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-11-15",
@@ -3148,13 +3324,30 @@
       ],
       "email": "kallai.maria@parlament.hu",
       "id": "32818fcf-f731-4916-bf03-7e57719ce44c",
+      "identifiers": [
+        {
+          "identifier": "Q55753722",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k153.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k153.jpg"
         }
       ],
-      "name": "Dr. Kállai, Mária"
+      "name": "Dr. Kállai, Mária",
+      "other_names": [
+        {
+          "name": "Kállai Mária",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Kállai Mária",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-05-09",
@@ -3273,6 +3466,7 @@
       ]
     },
     {
+      "birth_date": "1974-05-31",
       "contact_details": [
         {
           "type": "email",
@@ -3280,14 +3474,89 @@
         }
       ],
       "email": "szabo.tunde@parlament.hu",
+      "family_name": "Szabó",
+      "gender": "female",
+      "given_name": "Tünde",
       "id": "3906ddf7-3e06-4817-a6f3-615e74251a59",
+      "identifiers": [
+        {
+          "identifier": "/m/03y8fvz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "tunde-szabo",
+          "scheme": "ioc_athlete"
+        },
+        {
+          "identifier": "Q511580",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/s148.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/s148.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Szabó_Tünde_államtitkár.jpg"
         }
       ],
-      "name": "Dr. Szabó, Tünde"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Tünde_Szabó_(swimmer)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tünde_Szabó"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tünde_Szabó"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تونده_سابو"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tünde_Szabó"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Szabó_Tünde_(úszó)"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Tünde_Szabó"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tünde_Szabó"
+        }
+      ],
+      "name": "Dr. Szabó, Tünde",
+      "other_names": [
+        {
+          "name": "Szabó Tünde",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tünde Szabó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تونده سابو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Szabó Tünde",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3297,14 +3566,37 @@
         }
       ],
       "email": "fenyvesi.zoltan@parlament.hu",
+      "given_name": "Zoltán",
       "id": "392f1397-8b3e-4bc4-8930-f92ba4c32024",
+      "identifiers": [
+        {
+          "identifier": "Q55753824",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/f040.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/f040.jpg"
         }
       ],
-      "name": "Fenyvesi, Zoltán"
+      "name": "Fenyvesi, Zoltán",
+      "other_names": [
+        {
+          "name": "Fenyvesi Zoltán",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zoltán Fenyvesi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Fenyvesi Zoltán",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-05-19",
@@ -3366,14 +3658,37 @@
         }
       ],
       "email": "nagy.csaba@parlament.hu",
+      "given_name": "Csaba",
       "id": "39e81bc1-0c56-4261-90ff-54082681ac5a",
+      "identifiers": [
+        {
+          "identifier": "Q55752824",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/n032.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/n032.jpg"
         }
       ],
-      "name": "Nagy, Csaba"
+      "name": "Nagy, Csaba",
+      "other_names": [
+        {
+          "name": "Nagy Csaba",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Csaba Nagy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nagy Csaba",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-05-06",
@@ -3444,13 +3759,35 @@
       ],
       "email": "zsigmond.barna@parlament.hu",
       "id": "3ae8072f-48d1-424a-a9dd-401deffe46d8",
+      "identifiers": [
+        {
+          "identifier": "Q55753740",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/z015.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/z015.jpg"
         }
       ],
-      "name": "Dr. Zsigmond, Barna Pál"
+      "name": "Dr. Zsigmond, Barna Pál",
+      "other_names": [
+        {
+          "name": "Zsigmond Barna Pál",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Barna Pál Zsigmond",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Zsigmond Barna Pál",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-04-12",
@@ -4084,14 +4421,37 @@
         }
       ],
       "email": "potocska.anita@parlament.hu",
+      "given_name": "Anita",
       "id": "43efafa0-a741-453a-939e-db28caf7990f",
+      "identifiers": [
+        {
+          "identifier": "Q55752772",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/p060.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/p060.jpg"
         }
       ],
-      "name": "Potocskáné Kőrösi, Anita"
+      "name": "Potocskáné Kőrösi, Anita",
+      "other_names": [
+        {
+          "name": "Potocskáné Kőrösi Anita",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anita Potocskáné Kőrösi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Potocskáné Kőrösi Anita",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-02-22",
@@ -4525,6 +4885,7 @@
       ]
     },
     {
+      "birth_date": "1986-12-18",
       "contact_details": [
         {
           "type": "email",
@@ -4532,14 +4893,51 @@
         }
       ],
       "email": "bosz.anett@parlament.hu",
+      "gender": "female",
+      "given_name": "Anett",
       "id": "4ad9cb90-ab1b-4978-9441-7121f50f615e",
+      "identifiers": [
+        {
+          "identifier": "Q19512297",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b124.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b124.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Anettbosz.jpg"
         }
       ],
-      "name": "Bősz, Anett"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Anett_Bősz"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Bősz_Anett"
+        }
+      ],
+      "name": "Bősz, Anett",
+      "other_names": [
+        {
+          "name": "Bősz Anett",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anett Bősz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bősz Anett",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-10-04",
@@ -5095,6 +5493,7 @@
       ]
     },
     {
+      "birth_date": "1980-08-16",
       "contact_details": [
         {
           "type": "email",
@@ -5102,14 +5501,44 @@
         }
       ],
       "email": "jakab.peter@parlament.hu",
+      "gender": "male",
+      "given_name": "Péter",
       "id": "56ac0b32-f667-49a3-8de4-99aac46e023d",
+      "identifiers": [
+        {
+          "identifier": "Q17361708",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/j020.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/j020.jpg"
         }
       ],
-      "name": "Jakab, Péter"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Jakab_Péter_(politikus)"
+        }
+      ],
+      "name": "Jakab, Péter",
+      "other_names": [
+        {
+          "name": "Jakab Péter",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Péter Jakab",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jakab Péter",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-10-14",
@@ -5351,6 +5780,7 @@
       ]
     },
     {
+      "birth_date": "1991-06-10",
       "contact_details": [
         {
           "type": "email",
@@ -5358,14 +5788,45 @@
         }
       ],
       "email": "ungar.peter@parlament.hu",
+      "family_name": "Ungar",
+      "gender": "male",
+      "given_name": "Péter",
       "id": "58a6d465-26cf-4ba2-a1ab-ca61759acfd3",
+      "identifiers": [
+        {
+          "identifier": "Q47507180",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/u006.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/u006.jpg"
         }
       ],
-      "name": "Ungár, Péter"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Ungár_Péter_(politikus)"
+        }
+      ],
+      "name": "Ungár, Péter",
+      "other_names": [
+        {
+          "name": "Ungár Péter",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Péter Ungár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ungár Péter",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-06-03",
@@ -5611,13 +6072,35 @@
       ],
       "email": "varga.damm.andrea@parlament.hu",
       "id": "5dfe9782-e1ed-4967-9da4-efa5e9bc13ce",
+      "identifiers": [
+        {
+          "identifier": "Q55752730",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/v068.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/v068.jpg"
         }
       ],
-      "name": "Dr. Varga-Damm, Andrea"
+      "name": "Dr. Varga-Damm, Andrea",
+      "other_names": [
+        {
+          "name": "Varga-Damm Andrea",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Andrea Varga-Damm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Varga-Damm Andrea",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-11-28",
@@ -5760,14 +6243,37 @@
         }
       ],
       "email": "borocz.laszlo@parlament.hu",
+      "given_name": "László",
       "id": "610774af-b63f-42e9-bea4-79052410e69b",
+      "identifiers": [
+        {
+          "identifier": "Q55753670",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b123.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b123.jpg"
         }
       ],
-      "name": "Böröcz, László"
+      "name": "Böröcz, László",
+      "other_names": [
+        {
+          "name": "Böröcz László",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "László Böröcz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Böröcz László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-06-06",
@@ -5853,13 +6359,35 @@
       ],
       "email": "nacsa.lorinc@parlament.hu",
       "id": "6109ed10-131d-4b64-b516-6582e9520bb2",
+      "identifiers": [
+        {
+          "identifier": "Q55753721",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/n048.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/n048.jpg"
         }
       ],
-      "name": "Nacsa, Lőrinc"
+      "name": "Nacsa, Lőrinc",
+      "other_names": [
+        {
+          "name": "Nacsa Lőrinc",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lőrinc Nacsa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nacsa Lőrinc",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-08-22",
@@ -6332,6 +6860,7 @@
       ]
     },
     {
+      "birth_date": "1956-01-26",
       "contact_details": [
         {
           "type": "email",
@@ -6339,14 +6868,64 @@
         }
       ],
       "email": "suli.janos@parlament.hu",
+      "gender": "male",
+      "given_name": "János",
       "id": "6de01e1e-5771-4a4c-894f-d060357bd791",
+      "identifiers": [
+        {
+          "identifier": "Q30134885",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/s154.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/s154.jpg"
         }
       ],
-      "name": "Süli, János"
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/János_Süli"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/János_Süli"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/János_Süli"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Süli_János"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/János_Süli"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/János_Süli"
+        }
+      ],
+      "name": "Süli, János",
+      "other_names": [
+        {
+          "name": "Süli János",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "János Süli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Süli János",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-08-14",
@@ -6459,15 +7038,44 @@
       ],
       "email": "bajkai.istvan@parlament.hu",
       "id": "714404ad-7da8-42c0-9ef3-c408fc36de74",
+      "identifiers": [
+        {
+          "identifier": "Q55753797",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b122.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b122.jpg"
         }
       ],
-      "name": "Dr. Bajkai, István"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Bajkai_István"
+        }
+      ],
+      "name": "Dr. Bajkai, István",
+      "other_names": [
+        {
+          "name": "Bajkai István",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "István Bajkai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bajkai István",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1981",
       "contact_details": [
         {
           "type": "email",
@@ -6475,14 +7083,42 @@
         }
       ],
       "email": "tordai.bence@parlament.hu",
+      "gender": "male",
+      "given_name": "Bence",
       "id": "7444c56f-c09f-4a76-9732-9236d1a9f929",
+      "identifiers": [
+        {
+          "identifier": "Q16523396",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/t054.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/t054.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tordai_Bence.JPG"
         }
       ],
-      "name": "Tordai, Bence"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tordai_Bence"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/TordaiBencePM"
+        }
+      ],
+      "name": "Tordai, Bence",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tordai Bence",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-01-07",
@@ -6711,14 +7347,43 @@
         }
       ],
       "email": "laszlo.imre@parlament.hu",
+      "given_name": "Imre",
       "id": "76f97f6d-6134-42f0-8051-8bd551532b25",
+      "identifiers": [
+        {
+          "identifier": "Q55753789",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/l044.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/l044.jpg"
         }
       ],
-      "name": "Dr. László, Imre"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/László_Imre"
+        }
+      ],
+      "name": "Dr. László, Imre",
+      "other_names": [
+        {
+          "name": "László Imre",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Imre László",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "László Imre",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-04-21",
@@ -6868,6 +7533,7 @@
       ]
     },
     {
+      "birth_date": "1961-08-17",
       "contact_details": [
         {
           "type": "email",
@@ -6875,16 +7541,66 @@
         }
       ],
       "email": "molnar.gyula@parlament.hu",
+      "gender": "male",
+      "given_name": "Gyula",
       "id": "7acd3c74-a397-4ffe-9c14-6d6f0f4495fa",
+      "identifiers": [
+        {
+          "identifier": "Q1178612",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/m282.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/m282.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Molnár_Gyula_(MSZP.hu).jpg"
         }
       ],
-      "name": "Molnár, Gyula"
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Gyula_Molnár_(politik)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gyula_Molnár"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gyula_Molnár"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Molnár_Gyula_(politikus)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Gyula_Molnár_(polityk)"
+        }
+      ],
+      "name": "Molnár, Gyula",
+      "other_names": [
+        {
+          "name": "Molnár Gyula",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gyula Molnár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Molnár Gyula",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1980-08-11",
       "contact_details": [
         {
           "type": "email",
@@ -6892,14 +7608,102 @@
         }
       ],
       "email": "steinmetz.adam@parlament.hu",
+      "family_name": "Steinmetz",
+      "gender": "male",
+      "given_name": "Ádám",
       "id": "7b215ccb-e99a-4c30-b44d-5d669a0bd1a9",
+      "identifiers": [
+        {
+          "identifier": "/m/0j25dh3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q249557",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/s157.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/s157.jpg"
         }
       ],
-      "name": "Dr. Steinmetz, Ádám"
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Steinmetz_Ádám"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ádám_Steinmetz"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Адам_Штајнмец"
+        }
+      ],
+      "name": "Dr. Steinmetz, Ádám",
+      "other_names": [
+        {
+          "name": "Steinmetz Ádám",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ádám Steinmetz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Steinmetz Ádám",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Адам Штајнмец",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-05-09",
@@ -7222,13 +8026,35 @@
       ],
       "email": "hejj.david@parlament.hu",
       "id": "827f9766-ddf3-466d-b0a7-bfab698ea127",
+      "identifiers": [
+        {
+          "identifier": "Q55752876",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/h083.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h083.jpg"
         }
       ],
-      "name": "Héjj, Dávid Ádám"
+      "name": "Héjj, Dávid Ádám",
+      "other_names": [
+        {
+          "name": "Héjj Dávid Ádám",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Dávid Ádám Héjj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Héjj Dávid Ádám",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-07-24",
@@ -7668,6 +8494,7 @@
       ]
     },
     {
+      "birth_date": "1976-11-08",
       "contact_details": [
         {
           "type": "email",
@@ -7675,14 +8502,47 @@
         }
       ],
       "email": "csardi.antal@parlament.hu",
+      "gender": "male",
+      "given_name": "Antal",
       "id": "8cdf259a-9ec4-4395-b050-fa7577252a8f",
+      "identifiers": [
+        {
+          "identifier": "Q17487544",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/c044.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/c044.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Csárdi_Antal_2013-07-27.JPG"
         }
       ],
-      "name": "Csárdi, Antal"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Csárdi_Antal"
+        }
+      ],
+      "name": "Csárdi, Antal",
+      "other_names": [
+        {
+          "name": "Csárdi Antal",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antal Csárdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Csárdi Antal",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-12-29",
@@ -7902,14 +8762,37 @@
         }
       ],
       "email": "becso.karoly@parlament.hu",
+      "given_name": "Károly",
       "id": "8e095475-f6f9-47b2-887e-6e3ede30e26b",
+      "identifiers": [
+        {
+          "identifier": "Q55753425",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b119.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b119.jpg"
         }
       ],
-      "name": "Dr. Becsó, Károly"
+      "name": "Dr. Becsó, Károly",
+      "other_names": [
+        {
+          "name": "Becsó Károly",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Károly Becsó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Becsó Károly",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-06-17",
@@ -8067,6 +8950,7 @@
       ]
     },
     {
+      "birth_date": "1968-11-23",
       "contact_details": [
         {
           "type": "email",
@@ -8074,14 +8958,51 @@
         }
       ],
       "email": "arato.gergely@parlament.hu",
+      "gender": "male",
+      "given_name": "Gergely",
       "id": "8f67bdc9-f6f8-4797-8a19-bb421fee95c1",
+      "identifiers": [
+        {
+          "identifier": "0000 0001 1086 3000",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "Q776150",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/a008.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/a008.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Arató_Gergely.JPG"
         }
       ],
-      "name": "Arató, Gergely"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Arató_Gergely"
+        }
+      ],
+      "name": "Arató, Gergely",
+      "other_names": [
+        {
+          "name": "Arató Gergely",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gergely Arató",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Arató Gergely",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-11-17",
@@ -8492,13 +9413,35 @@
       ],
       "email": "hubay.gyorgy@parlament.hu",
       "id": "913b5940-0937-47b4-b6b3-acc0a4fc7765",
+      "identifiers": [
+        {
+          "identifier": "Q55753224",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/h082.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h082.jpg"
         }
       ],
-      "name": "Hubay, György"
+      "name": "Hubay, György",
+      "other_names": [
+        {
+          "name": "Hubay György",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "György Hubay",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hubay György",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-01-18",
@@ -8879,6 +9822,7 @@
         }
       ],
       "email": "lajos.szucs@parlament.hu",
+      "family_name": "Szűcs",
       "gender": "male",
       "given_name": "Lajos",
       "id": "99e7aa20-5dcf-41b4-a31c-78a86ddef32a",
@@ -8937,14 +9881,39 @@
         }
       ],
       "email": "herczeg.tamas@parlament.hu",
+      "family_name": "Herczeg",
+      "gender": "male",
+      "given_name": "Tamás",
       "id": "9b26bfa6-7dc7-44d0-80f7-52f8dfd6d760",
+      "identifiers": [
+        {
+          "identifier": "Q55753757",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/h081.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h081.jpg"
         }
       ],
-      "name": "Herczeg, Tamás"
+      "name": "Herczeg, Tamás",
+      "other_names": [
+        {
+          "name": "Herczeg Tamás",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tamás Herczeg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Herczeg Tamás",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1986-11-03",
@@ -9079,14 +10048,37 @@
         }
       ],
       "email": "barcza.attila@parlament.hu",
+      "given_name": "Attila",
       "id": "9e9855fa-a17e-45bf-8090-3c722ec0a78a",
+      "identifiers": [
+        {
+          "identifier": "Q55752783",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b121.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b121.jpg"
         }
       ],
-      "name": "Barcza, Attila"
+      "name": "Barcza, Attila",
+      "other_names": [
+        {
+          "name": "Barcza Attila",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Attila Barcza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Barcza Attila",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-05-22",
@@ -10004,6 +10996,7 @@
       ]
     },
     {
+      "birth_date": "1954-03-18",
       "contact_details": [
         {
           "type": "email",
@@ -10011,14 +11004,75 @@
         }
       ],
       "email": "mellar.tamas@parlament.hu",
+      "gender": "male",
+      "given_name": "Tamás",
       "id": "acc81066-c2e8-437f-84c0-7d6158ccd64c",
+      "identifiers": [
+        {
+          "identifier": "170568385",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7983 5588",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85376025",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "10004516",
+          "scheme": "mtmt"
+        },
+        {
+          "identifier": "12722564",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1175738",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/m064.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/m064.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Mellár_Tamás_(MSZP.hu).jpg"
         }
       ],
-      "name": "Dr. Mellár, Tamás"
+      "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Tamás_Mellár"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Mellár_Tamás"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dr.mellar.tamas"
+        }
+      ],
+      "name": "Dr. Mellár, Tamás",
+      "other_names": [
+        {
+          "name": "Mellár Tamás",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tamás Mellár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mellár Tamás",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-07-23",
@@ -10260,13 +11314,35 @@
       ],
       "email": "stummer.janos@parlament.hu",
       "id": "ae443180-aa67-4764-816b-4025a896097a",
+      "identifiers": [
+        {
+          "identifier": "Q55753382",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/s156.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/s156.jpg"
         }
       ],
-      "name": "Stummer, János"
+      "name": "Stummer, János",
+      "other_names": [
+        {
+          "name": "Stummer János",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "János Stummer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Stummer János",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-09-01",
@@ -10560,6 +11636,7 @@
       ]
     },
     {
+      "birth_date": "1977-09-06",
       "contact_details": [
         {
           "type": "email",
@@ -10567,14 +11644,51 @@
         }
       ],
       "email": "novak.katalin@parlament.hu",
+      "gender": "female",
+      "given_name": "Katalin",
       "id": "b31ece57-dbd6-41ce-a094-2ec9eb84b5d9",
+      "identifiers": [
+        {
+          "identifier": "Q21995345",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/v064.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/v064.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Novák_Katalin_(2).jpg"
         }
       ],
-      "name": "Novák, Katalin"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Katalin_Novák"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Novák_Katalin"
+        }
+      ],
+      "name": "Novák, Katalin",
+      "other_names": [
+        {
+          "name": "Novák Katalin",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Katalin Novák",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Novák Katalin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-12-24",
@@ -11429,13 +12543,41 @@
       ],
       "email": "brenner.koloman@parlament.hu",
       "id": "c94f3d6a-b61b-4aa4-8442-98bf991036b6",
+      "identifiers": [
+        {
+          "identifier": "Q55753801",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/b120.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b120.jpg"
         }
       ],
-      "name": "Dr. Brenner, Koloman"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Brenner_Koloman"
+        }
+      ],
+      "name": "Dr. Brenner, Koloman",
+      "other_names": [
+        {
+          "name": "Brenner Koloman",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Koloman Brenner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Brenner Koloman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-10-30",
@@ -12347,6 +13489,7 @@
       ]
     },
     {
+      "birth_date": "1959-10-02",
       "contact_details": [
         {
           "type": "email",
@@ -12354,14 +13497,53 @@
         }
       ],
       "email": "koncz.ferenc@parlament.hu",
+      "family_name": "Koncz",
+      "gender": "male",
+      "given_name": "Ferenc",
       "id": "d61491c5-133b-4f70-837a-cadf32b4d0a9",
+      "identifiers": [
+        {
+          "identifier": "/m/0n_9cs7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q339099",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/k015.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k015.jpg"
         }
       ],
-      "name": "Koncz, Ferenc"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ferenc_Koncz"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Koncz_Ferenc"
+        }
+      ],
+      "name": "Koncz, Ferenc",
+      "other_names": [
+        {
+          "name": "Koncz Ferenc",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ferenc Koncz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Koncz Ferenc",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-03-07",
@@ -12428,13 +13610,35 @@
       ],
       "email": "kocsis-cake.olivio@parlament.hu",
       "id": "d7b51876-78c9-4099-933a-dcf4cbada380",
+      "identifiers": [
+        {
+          "identifier": "Q55753732",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D105046",
       "images": [
         {
           "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D105046"
         }
       ],
-      "name": "Kocsis-Cake, Olivio"
+      "name": "Kocsis-Cake, Olivio",
+      "other_names": [
+        {
+          "name": "Kocsis-Cake Olivio",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Olivio Kocsis-Cake",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kocsis-Cake Olivio",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-07-12",
@@ -12588,6 +13792,7 @@
       ]
     },
     {
+      "birth_date": "1964-10-10",
       "contact_details": [
         {
           "type": "email",
@@ -12595,14 +13800,60 @@
         }
       ],
       "email": "greczi.zsolt@parlament.hu",
+      "gender": "male",
+      "given_name": "Zsolt",
       "id": "d9229147-295b-4866-9bc5-6f9f714f0de1",
+      "identifiers": [
+        {
+          "identifier": "Q980486",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/g070.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/g070.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Gréczy_Zsolt.JPG"
         }
       ],
-      "name": "Gréczy, Zsolt"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Zsolt_Gréczy"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Gréczy_Zsolt"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zsolt_Greczy"
+        }
+      ],
+      "name": "Gréczy, Zsolt",
+      "other_names": [
+        {
+          "name": "Gréczy Zsolt",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zsolt Gréczy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gréczy Zsolt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zsolt Greczy",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-09-20",
@@ -13535,6 +14786,7 @@
       ]
     },
     {
+      "birth_date": "1972-06-16",
       "contact_details": [
         {
           "type": "email",
@@ -13542,14 +14794,35 @@
         }
       ],
       "email": "hohn.krisztina@parlament.hu",
+      "gender": "female",
+      "given_name": "Krisztina",
       "id": "e37a5366-945c-4cd0-9baf-26062bddd350",
+      "identifiers": [
+        {
+          "identifier": "Q52636208",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D105047",
       "images": [
         {
           "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D105047"
         }
       ],
-      "name": "Hohn, Krisztina"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Hohn_Krisztina"
+        }
+      ],
+      "name": "Hohn, Krisztina",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hohn Krisztina",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-01-26",
@@ -14125,14 +15398,37 @@
         }
       ],
       "email": "domotor.csaba@parlament.hu",
+      "given_name": "Csaba",
       "id": "efa2204d-3b85-42de-a419-1234dc5a7c7b",
+      "identifiers": [
+        {
+          "identifier": "Q55752813",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/d035.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/d035.jpg"
         }
       ],
-      "name": "Dömötör, Csaba"
+      "name": "Dömötör, Csaba",
+      "other_names": [
+        {
+          "name": "Dömötör Csaba",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Csaba Dömötör",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dömötör Csaba",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -14142,16 +15438,40 @@
         }
       ],
       "email": "szekely.sandor@parlament.hu",
+      "given_name": "Sándor",
       "id": "f0ea77e6-7547-4258-8f2f-2dd885a23f85",
+      "identifiers": [
+        {
+          "identifier": "Q55753752",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/s158.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/s158.jpg"
         }
       ],
-      "name": "Székely, Sándor"
+      "name": "Székely, Sándor",
+      "other_names": [
+        {
+          "name": "Székely Sándor",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sándor Székely",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Székely Sándor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1981-10-22",
       "contact_details": [
         {
           "type": "email",
@@ -14159,14 +15479,38 @@
         }
       ],
       "email": "ovadi.peter@parlament.hu",
+      "gender": "male",
+      "given_name": "Péter",
       "id": "f15f8b16-cffd-4690-8863-483c568e5fe3",
+      "identifiers": [
+        {
+          "identifier": "Q53341941",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/o014.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/o014.jpg"
         }
       ],
-      "name": "Ovádi, Péter"
+      "name": "Ovádi, Péter",
+      "other_names": [
+        {
+          "name": "Ovádi Péter",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Péter Ovádi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ovádi Péter",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-09-07",
@@ -14646,6 +15990,7 @@
       ]
     },
     {
+      "birth_date": "1965-06-01",
       "contact_details": [
         {
           "type": "email",
@@ -14653,14 +15998,91 @@
         }
       ],
       "email": "gurmai.zita@parlament.hu",
+      "gender": "female",
+      "given_name": "Zita",
       "id": "fa8c89ec-90f3-40b4-8f84-765d9223f9d3",
+      "identifiers": [
+        {
+          "identifier": "23805",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/054qxs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 4357 0143",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2003050283",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "36605193",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q369766",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/kepv/kepek/g022.jpg",
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/g022.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Zita_Gurmai_01.JPG"
         }
       ],
-      "name": "Dr. Gurmai, Zita"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Zita_Gurmai"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zita_Gurmai"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zita_Gurmai"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zita_Gurmai"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Gurmai_Zita"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zita_Gurmai"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Zita_Gurmai"
+        }
+      ],
+      "name": "Dr. Gurmai, Zita",
+      "other_names": [
+        {
+          "name": "Gurmai Zita",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zita Gurmai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gurmai Zita",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-01-14",
