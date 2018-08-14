@@ -6,6 +6,17 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/hungary-parliament",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.parlament.hu/",
+      "reuse_ids": "true",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
