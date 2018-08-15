@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/lesotho-assembly",
-        "query": "SELECT * FROM data ORDER BY name"
-      },
+      "file": "archive/official-9.csv",
       "source": ["http://www.parliament.ls", "http://candidates.iec.org.ls"],
       "type": "membership"
     },
@@ -27,7 +22,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term",
+      "type": "term"
     },
     {
       "file": "morph/genderbalance.csv",
