@@ -6,6 +6,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/angola-national-assembly",
+        "query": "SELECT id, name, party, constituency, homepage, photo, 4 AS term FROM data ORDER BY id"
+      },
+      "source": "http://www.parlamento.ao",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
