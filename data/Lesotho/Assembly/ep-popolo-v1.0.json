@@ -1986,7 +1986,33 @@
     {
       "classification": "party",
       "id": "ad",
-      "name": "AD"
+      "identifiers": [
+        {
+          "identifier": "Q30611875",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://ad.org.ls/"
+        }
+      ],
+      "name": "AD",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alliance of Democrats",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "AD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -2001,7 +2027,21 @@
     {
       "classification": "party",
       "id": "bbdp",
-      "name": "BBDP"
+      "identifiers": [
+        {
+          "identifier": "Q4867831",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "BBDP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Basotho Batho Democratic Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -2320,7 +2360,21 @@
     {
       "classification": "party",
       "id": "mec",
-      "name": "MEC"
+      "identifiers": [
+        {
+          "identifier": "Q30319081",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MEC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Movement for Economic Change",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
