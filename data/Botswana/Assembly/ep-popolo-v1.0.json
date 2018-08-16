@@ -140,6 +140,10 @@
       ]
     },
     {
+      "id": "182387ae-a1ad-43fc-a7c0-216c585523c6",
+      "name": "Moagi Molebatsi"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -552,23 +556,6 @@
       "other_names": [
         {
           "name": "Hon. Sedirwa Kgoroba",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "gender": "male",
-      "id": "5fb53d45-c772-4165-adb5-bbdee6efa3ec",
-      "identifiers": [
-        {
-          "identifier": "isaac_davids",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Isaac Davids",
-      "other_names": [
-        {
-          "name": "Hon. Isaac Jacob Davids",
           "note": "alternate"
         }
       ]
@@ -1572,22 +1559,6 @@
       ]
     },
     {
-      "id": "d384124c-0c87-4ad1-951d-90685e991d99",
-      "identifiers": [
-        {
-          "identifier": "same_bathobakae",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "name": "Same Bathobakae",
-      "other_names": [
-        {
-          "name": "Hon. Same Bathobakae",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
       "birth_date": "1962-07-21",
       "contact_details": [
         {
@@ -1771,6 +1742,10 @@
       ]
     },
     {
+      "id": "f0f4ec1e-414b-4c43-8735-140a71c0ef98",
+      "name": "Masego Segokgo"
+    },
+    {
       "gender": "male",
       "id": "f6635e28-fa9b-42d5-9e6b-7594a6a6a792",
       "identifiers": [
@@ -1883,46 +1858,8 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "bcp",
-      "identifiers": [
-        {
-          "identifier": "Q4894021",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.botswanacongressparty.org.bw/"
-        }
-      ],
-      "name": "BCP",
-      "other_names": [
-        {
-          "lang": "ja",
-          "name": "ボツワナ会議党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Botswana Congress Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Partit del Congrés de Botswana",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "Partito del Congresso del Botswana",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
+      "id": "ap",
+      "name": "AP"
     },
     {
       "classification": "party",
@@ -2213,6 +2150,19 @@
       ]
     },
     {
+      "area_id": "mochudi_east",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "udc",
+      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
+      "person_id": "182387ae-a1ad-43fc-a7c0-216c585523c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
       "area_id": "gaborone_south",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "bdp",
@@ -2330,7 +2280,7 @@
     {
       "area_id": "ramotswa",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "bcp",
+      "on_behalf_of_id": "udc",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "47c599a3-ff44-40e8-83e1-42e8958543c1",
       "role": "member",
@@ -2421,22 +2371,9 @@
     {
       "area_id": "mogodtishane",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "5e98119b-fa62-43fa-8787-0a5933fda948",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
-        }
-      ]
-    },
-    {
-      "area_id": "mochudi_east",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
-      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
-      "person_id": "5fb53d45-c772-4165-adb5-bbdee6efa3ec",
       "role": "member",
       "sources": [
         {
@@ -2525,7 +2462,7 @@
     {
       "area_id": "gaborone_bonnington_south",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "6f4cab18-04db-4210-b6c9-d9c32733bf63",
       "role": "member",
@@ -2538,7 +2475,7 @@
     {
       "area_id": "selibe_phikwe_west",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "bcp",
+      "on_behalf_of_id": "udc",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "703650cc-c61b-4380-bb5b-a765fca752c0",
       "role": "member",
@@ -2551,7 +2488,7 @@
     {
       "area_id": "francistown_south",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "75e67237-2331-406d-8b18-8295c157e2a5",
       "role": "member",
@@ -2681,7 +2618,7 @@
     {
       "area_id": "gabane-mmankgodi",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "963af5a6-7727-4400-9425-3e6b50d534b5",
       "role": "member",
@@ -2694,7 +2631,7 @@
     {
       "area_id": "gaborone_central",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "96e6de2f-360f-4f55-a0d3-7c26d6b01c60",
       "role": "member",
@@ -2782,7 +2719,7 @@
     {
       "area_id": "gaborone_north",
       "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
+      "on_behalf_of_id": "ap",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "person_id": "c448660f-fc39-46b9-a41f-7eb30f3edf29",
       "role": "member",
@@ -2845,19 +2782,6 @@
       ]
     },
     {
-      "area_id": "tlokweng",
-      "legislative_period_id": "term/2014",
-      "on_behalf_of_id": "udc",
-      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
-      "person_id": "d384124c-0c87-4ad1-951d-90685e991d99",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
-        }
-      ]
-    },
-    {
       "area_id": "moshupa-manyana",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "bdp",
@@ -2897,7 +2821,20 @@
       ]
     },
     {
-      "area_id": "lerala-maunalala",
+      "area_id": "tlokweng",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "udc",
+      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
+      "person_id": "f0f4ec1e-414b-4c43-8735-140a71c0ef98",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
+      "area_id": "lerala-maunatlala",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "bdp",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
@@ -3232,8 +3169,8 @@
       "type": "constituency"
     },
     {
-      "id": "lerala-maunalala",
-      "name": "Lerala-Maunalala",
+      "id": "lerala-maunatlala",
+      "name": "Lerala-Maunatlala",
       "type": "constituency"
     },
     {
