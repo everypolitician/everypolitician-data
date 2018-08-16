@@ -11,6 +11,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/official_term4.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/sint-maarten-parliament",
+        "query": "SELECT *, 4 AS term FROM data ORDER BY id"
+      },
+      "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
+      "type": "membership"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
