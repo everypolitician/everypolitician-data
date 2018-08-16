@@ -9,6 +9,7 @@ namespace :report do
       term.memberships.reject { |mem| mem.person.wikidata }
     end.reject(&:empty?).last
 
+    puts latest_missing.first.term.id
     latest_missing.uniq { |mem| mem.person.id }.each do |mem|
       puts '%s (%s) %s' % [mem.person.name, mem.person.id, mem.sources.first&.[](:url)]
     end
