@@ -21,6 +21,21 @@
       }
     },
     {
+      "file": "morph/official-10.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/morocco-house-of-representatives",
+        "query": "SELECT *, name AS name__en FROM data ORDER BY id"
+      },
+      "source": "http://www.chambredesrepresentants.ma",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name__ar",
+        "existing_field": "name__ar",
+        "reconciliation_file": "reconciliation/official-10.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
