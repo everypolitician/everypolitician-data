@@ -876,7 +876,7 @@
         },
         {
           "lang": "be-tarask",
-          "name": "Беспартыйны",
+          "name": "незалежны палітык",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -906,13 +906,13 @@
         },
         {
           "lang": "eo",
-          "name": "Sendependa",
+          "name": "sendependa politikisto",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -1026,7 +1026,19 @@
         },
         {
           "lang": "ps",
-          "name": "آزاد کاندید",
+          "name": "خپلواک کاندید",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lmo",
+          "name": "Independent",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vi",
+          "name": "Chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -1051,6 +1063,18 @@
         {
           "lang": "zh",
           "name": "獨立候選人",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "无党派",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -1385,12 +1409,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "be-tarask",
-          "name": "Беспартыйны палітык",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "nb",
           "name": "uavhengig",
           "note": "multilingual",
@@ -1467,6 +1485,18 @@
           "name": "स्वतंत्र (नेता)",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "senpartia politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eo",
+          "name": "sendependa",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -1510,18 +1540,64 @@
           "name": "國家聯盟 (聖馬丁)",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "国家連合",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
     {
       "classification": "party",
       "id": "sint_maarten_christian_party",
-      "name": "Sint Maarten Christian Party"
+      "identifiers": [
+        {
+          "identifier": "Q56119099",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sint Maarten Christian Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sint Maarten Christian Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "united_democrats",
-      "name": "United Democrats"
+      "identifiers": [
+        {
+          "identifier": "Q47520052",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "United Democrats",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "United Democrats",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "民主連合",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Verenigde Democraten",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -1586,6 +1662,12 @@
         {
           "lang": "zh",
           "name": "聯合聖馬丁黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "シント・マールテン統一党",
           "note": "multilingual",
           "source": "wikidata-label"
         }
