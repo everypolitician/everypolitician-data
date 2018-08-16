@@ -6,19 +6,9 @@
       "type": "membership"
     },
     {
-      "file": "morph/official_term3.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/sint-maarten-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "archive/official_term3.csv",
       "source": "http://www.sxmparliament.org/organization/members-of-parliament.html",
-      "type": "membership",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/term3.csv"
-      }
+      "type": "membership"
     },
     {
       "file": "manual/terms.csv",
