@@ -11,19 +11,14 @@
       "type": "membership"
     },
     {
-      "file": "morph/wikipedia.csv",
+      "file": "morph/p39s.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/finland-eduskunta-2015-wikipedia",
-        "query": "SELECT * FROM data ORDER BY name"
+        "scraper": "everypolitician-scrapers/finland-eduskunta-members-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "source": "https://fi.wikipedia.org/wiki/Luettelo_vaalikauden_2015–2019_kansanedustajista",
-      "type": "membership",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikipedia.csv"
-      }
+      "source": "http://wikidata.org/",
+      "type": "membership"
     },
     {
       "file": "morph/wikidata.csv",
