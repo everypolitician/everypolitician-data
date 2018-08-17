@@ -175,6 +175,7 @@
       ]
     },
     {
+      "family_name": "Tong",
       "gender": "male",
       "given_name": "Harry",
       "id": "21730ee4-0a2f-4cbf-a966-314ceb5c2bc9",
@@ -311,6 +312,10 @@
         {
           "identifier": "/m/04g1jc",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 4008 3366",
+          "scheme": "isni"
         },
         {
           "identifier": "n2005000165",
@@ -1228,6 +1233,10 @@
           "url": "https://ru.wikipedia.org/wiki/Маамау,_Танети"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Taneti_Mamau"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Taneti_Maamau"
         },
@@ -1237,7 +1246,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/塔内蒂·马马乌"
+          "url": "https://zh.wikipedia.org/wiki/塔内希·马茂"
         }
       ],
       "name": "Taaneti Mamau",
@@ -1451,6 +1460,12 @@
         {
           "lang": "ja",
           "name": "真実の柱",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hr",
+          "name": "Stupovi istine",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -1775,7 +1790,7 @@
         },
         {
           "lang": "hi",
-          "name": "निर्दलीय",
+          "name": "स्वतंत्र",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -2414,6 +2429,12 @@
         {
           "lang": "pl",
           "name": "Maurin Kiribati Parti",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Maurin Kiribati Party",
           "note": "multilingual",
           "source": "wikidata-label"
         }
