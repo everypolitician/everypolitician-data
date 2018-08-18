@@ -1,44 +1,53 @@
-id,position,label,description,start_date,end_date,replaced_by,replaces
-Q1192059,Q7241347,President of the National Assembly of Serbia,"",2008-06-25,2012-05-31,Nebojša Stefanović,Oliver Dulić
-Q1192059,Q889830,President of Serbia,position,2012-04-05,2012-05-31,Tomislav Nikolić,Boris Tadić
-Q1252153,Q18577978,Director of the Security Information Agency,"",2013-09-03,2013-10-25,,
-Q1254664,Q2198783,Minister of Defense,government official in charge of the Ministry of Defense in Serbia,2007-05-15,2012-07-27,,
-Q1265331,Q16799332,Deputy Prime Minister of Serbia,"",2012-07-27,,,
-Q1265331,Q2198867,"Minister of Trade, Tourism and Telecommunications",Serbian government official,2012-07-27,,,Slobodan Milosavljević
-Q1265331,Q2199072,"Minister of Labour, Employment and Social Policy",Serbian cabinet position,2007-05-15,2012-07-27,Jovan Krkobabić,Slobodan Lalović
-Q1273025,Q16799332,Deputy Prime Minister of Serbia,"",2001-01-25,2004-03-03,Miroljub Labus,
-Q1273025,Q835586,Prime Minister of Serbia,position,2003-03-17,2003-03-18,,
-Q1280390,Q1254987,mayor of Novi Sad,Wikimedia list article,2004-10-05,2008-06-16,Igor Pavličić,Borislav Novaković
-Q1280390,Q7241347,President of the National Assembly of Serbia,"",2014-04-23,,,Nebojša Stefanović
-Q16082744,Q2198845,Minister of Energy and Mining,Serbian minister,2014-04-27,,,Zorana Mihajlović
-Q222031,Q16799332,Deputy Prime Minister of Serbia,"",2012-07-27,2014-04-27,,
-Q222031,Q17098318,Minister of Information,"",1998-03-24,2000-10-24,Ivica Dačić,Radmila Milentijević
-Q222031,Q2198783,Minister of Defense,government official in charge of the Ministry of Defense in Serbia,2012-07-27,2013-09-02,Nebojša Rodić,Dragan Šutanovac
-Q222031,Q835586,Prime Minister of Serbia,position,2014-04-27,2017-05-30,Ivica Dačić,Ivica Dačić
-Q222031,Q889830,President of Serbia,position,2017-05-31,,,Tomislav Nikolić
-Q226696,Q25991673,Minister of the Interior,Yugoslav minister,"",,,
-Q28853717,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28853717,Q28865151,Member of the Parliament of Serbia and Montenegro,"","",,,
-Q28861412,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28861533,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28861629,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28869043,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28911753,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28911864,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q28925118,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q29053364,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q29583315,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q29587324,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q29791390,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q29888661,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q30122905,Q21295999,Member of the National Assembly of Serbia,"","",,,
-Q338223,Q16799332,Deputy Prime Minister of Serbia,"",2003-03-18,2004-03-03,,
-Q468319,Q2199031,Minister of Justice of Serbia,government official in charge of the Ministry of Justice in Serbia,2008-07-07,2012-07-27,Nikola Selaković,Dušan Petrović
-Q57843,Q16799332,Deputy Prime Minister of Serbia,"",2008-07-07,2012-07-27,,Aleksandar Vučić
-Q57843,Q17098318,Minister of Information,"",2000-10-24,2001-01-25,"",Aleksandar Vučić
-Q57843,Q2198943,Minister of Foreign Affairs,government official in charge of the Ministry of Foreign Affairs in Serbia,2014-04-27,,,Ivan Mrkić
-Q57843,Q2199011,Minister of Internal Affairs,Serbian government official in charge of the Ministry of Internal Affairs,2008-07-07,2014-04-27,Nebojša Stefanović,
-Q57843,Q835586,Prime Minister of Serbia,position,2012-07-27,2014-04-27,"",Mirko Cvetković
-Q57843,Q835586,Prime Minister of Serbia,position,2017-05-31,2017-06-29,,
-Q741215,Q2199031,Minister of Justice of Serbia,government official in charge of the Ministry of Justice in Serbia,2007-05-15,2008-07-07,Snežana Malović,Zoran Stojković
-Q891147,Q7241332,President of the Government of Vojvodina,"","",,,
+id,position,label,description,start_date,end_date,replaced_by,replaces,term
+Q1192059,Q7241347,President of the National Assembly of Serbia,"",2008-06-25,2012-05-31,Nebojša Stefanović,Oliver Dulić,
+Q1192059,Q889830,President of Serbia,head of state of the Republic of Serbia,2012-04-05,2012-05-31,Tomislav Nikolić,Boris Tadić,
+Q1252153,Q18577978,Director of the Security Information Agency,"",2013-09-03,2013-10-25,,,
+Q1254664,Q2198783,Minister of Defense,government official in charge of the Ministry of Defense in Serbia,2007-05-15,2012-07-27,,,
+Q1265331,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,2012-07-27,,,,
+Q1265331,Q2198867,"Minister of Trade, Tourism and Telecommunications",Serbian government official,2012-07-27,,,Slobodan Milosavljević,
+Q1265331,Q2199072,"Minister of Labour, Employment and Social Policy",Serbian cabinet position,2007-05-15,2012-07-27,Jovan Krkobabić,Slobodan Lalović,
+Q1273025,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,2001-01-25,2004-03-03,Miroljub Labus,,
+Q1273025,Q835586,Prime Minister of Serbia,Head of the Government of Serbia,2003-03-17,2003-03-18,,,
+Q12752118,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q1280390,Q1254987,mayor of Novi Sad,Wikimedia list article,2004-10-05,2008-06-16,Igor Pavličić,Borislav Novaković,
+Q1280390,Q7241347,President of the National Assembly of Serbia,"",2014-04-23,,,Nebojša Stefanović,
+Q15741927,Q17098308,Ministry of Economy of the Republic of Serbia,Economy Ministry of Serbia,2013-09-02,2014-01-24,Igor Mirović,Mlađan Dinkić,
+Q16082744,Q2198845,Minister of Energy and Mining,Serbian minister,2014-04-27,,,Zorana Mihajlović,
+Q16442061,Q21295999,Member of the National Assembly of Serbia,"","",,,,10th Convocation of the National Assembly of the Republic of Serbia
+Q18226020,Q21295999,Member of the National Assembly of Serbia,"","",,,,11th Convocation of the National Assembly of the Republic of Serbia
+Q19315018,Q21295999,Member of the National Assembly of Serbia,"","",,,,10th Convocation of the National Assembly of the Republic of Serbia
+Q222031,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,2012-07-27,2014-04-27,,,
+Q222031,Q17098318,Minister of Information,"",1998-03-24,2000-10-24,Ivica Dačić,Radmila Milentijević,
+Q222031,Q2198783,Minister of Defense,government official in charge of the Ministry of Defense in Serbia,2012-07-27,2013-09-02,Nebojša Rodić,Dragan Šutanovac,
+Q222031,Q835586,Prime Minister of Serbia,Head of the Government of Serbia,2014-04-27,2017-05-30,Ivica Dačić,Ivica Dačić,
+Q222031,Q889830,President of Serbia,head of state of the Republic of Serbia,2017-05-31,,,Tomislav Nikolić,
+Q226696,Q25991673,Minister of the Interior,Yugoslav minister,"",,,,
+Q2714911,Q7241347,President of the National Assembly of Serbia,"",2001-12-06,2004-02-04,Dragan Maršićanin,Dragan Maršićanin,
+Q2714911,Q889830,President of Serbia,head of state of the Republic of Serbia,2002-12-29,2004-02-04,Dragan Maršićanin,Milan Milutinović,
+Q28853717,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28853717,Q28865151,Member of the Parliament of Serbia and Montenegro,"","",,,,
+Q28861412,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28861629,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28869043,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28911753,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28911864,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q28925118,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q29053364,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q29583315,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q29587324,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q29791390,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q298063,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,1998-03-24,2000-10-24,,,
+Q29888661,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q30122905,Q21295999,Member of the National Assembly of Serbia,"","",,,,
+Q338223,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,2003-03-18,2004-03-03,,,
+Q41604657,Q21295999,Member of the National Assembly of Serbia,"",2016,,,,
+Q468319,Q2199031,Minister of Justice of Serbia,government official in charge of the Ministry of Justice in Serbia,2008-07-07,2012-07-27,Nikola Selaković,Dušan Petrović,
+Q57843,Q16799332,Deputy Prime Minister of Serbia,Deputy Head of the Government of Serbia,2008-07-07,2012-07-27,,Aleksandar Vučić,
+Q57843,Q17098318,Minister of Information,"",2000-10-24,2001-01-25,"",Aleksandar Vučić,
+Q57843,Q2198943,Minister of Foreign Affairs,government official in charge of the Ministry of Foreign Affairs in Serbia,2014-04-27,,,Ivan Mrkić,
+Q57843,Q2199011,Minister of Internal Affairs,Serbian government official in charge of the Ministry of Internal Affairs,2008-07-07,2014-04-27,Nebojša Stefanović,,
+Q57843,Q835586,Prime Minister of Serbia,Head of the Government of Serbia,2012-07-27,2014-04-27,Aleksandar Vučić,Mirko Cvetković,
+Q57843,Q835586,Prime Minister of Serbia,Head of the Government of Serbia,2017-05-31,2017-06-29,,,
+Q741215,Q2199031,Minister of Justice of Serbia,government official in charge of the Ministry of Justice in Serbia,2007-05-15,2008-07-07,Snežana Malović,Zoran Stojković,
+Q891147,Q7241332,President of the Government of Vojvodina,"","",,,,
+Q9253001,Q21295999,Member of the National Assembly of Serbia,"","",,,,11th Convocation of the National Assembly of the Republic of Serbia
