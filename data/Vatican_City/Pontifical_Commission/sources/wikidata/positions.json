@@ -104,6 +104,12 @@
       "label": "ambassador",
       "title": "ambassador",
       "description": "diplomatic envoy"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q654613": [
@@ -153,6 +159,12 @@
       "id": "Q19823475",
       "label": "prefect of the Vatican Library",
       "title": "prefect of the Vatican Library"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q543260": [
@@ -208,10 +220,15 @@
   ],
   "Q817288": [
     {
-      "id": "Q49476",
-      "label": "archbishop",
-      "title": "archbishop",
-      "description": "bishop of higher rank in many Christian denominations"
+      "id": "Q53712049",
+      "label": "Prefect of the Congregation for the Clergy",
+      "title": "Prefect of the Congregation for the Clergy",
+      "qualifiers": {
+        "P580": "2013-09-21",
+        "P582": "",
+        "P156": "",
+        "P1365": "Mauro Piacenza"
+      }
     },
     {
       "id": "Q29182",
