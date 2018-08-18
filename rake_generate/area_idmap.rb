@@ -23,22 +23,24 @@ namespace :generate do
   task :areaidmaps do
     area_instructions = @INSTRUCTIONS.sources_of_type('area-wikidata') or next
     # TODO: these should really be available from Source::Area
-    reconciliation = Pathname.new('sources') + area_instructions.first.i(:merge)[:reconciliation_file]
-    mapping = CSV.parse(reconciliation.read, headers: true, header_converters: :symbol).map { |r| [r[:id], r.to_h] }.to_h
+    all_areas_file = Pathname.new('sources') + area_instructions.first.i(:merge)[:reconciliation_file]
+
+    # This starts with id, wikidata
+    all_areas_csv = CSV.parse(all_areas_file.read, headers: true, header_converters: :symbol)
+    all_areas = all_areas_csv.map { |r| [r[:id], r.to_h] }.to_h
 
     @INSTRUCTIONS.sources_of_type('membership').each do |src|
-      a_ids = src.as_table.map { |r| r[:area_id] || r[:area].to_s.idify }.uniq
+      source_areas = src.as_table.map { |r| r[:area_id] || r[:area].to_s.idify }.uniq
 
-      known_areas_in_source = a_ids & mapping.keys
+      known_areas_in_source = source_areas & all_areas.keys
       data = known_areas_in_source.map do |id|
-        [id, mapping[id][:uuid] ||= SecureRandom.uuid]
+        [id, all_areas[id][:uuid] ||= SecureRandom.uuid]
       end.to_h
       src.area_mapfile.rewrite(data)
     end
 
-    ::CSV.open(reconciliation, 'w') do |csv|
-      csv << %i[id wikidata]
-      mapping.each_value { |h| csv << [h[:uuid] || h[:id], h[:wikidata]] }
-    end
+    header = %i[id uuid wikidata].to_csv
+    rows = all_areas.each_value.map { |h| [h[:id], h[:uuid], h[:wikidata]].to_csv }
+    all_areas_file.write(header + rows.join)
   end
 end
