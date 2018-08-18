@@ -14,7 +14,9 @@ module Source
       end
 
       field :id do
-        reconciliation_data[area[:id]]
+        return unless reconciliation
+        # The reconciliation file might have UUID and/or ID columns
+        reconciliation[:uuid] || reconciliation[:id]
       end
 
       field :identifiers do
@@ -54,6 +56,10 @@ module Source
           }
         end
       end
+
+      def reconciliation
+        reconciliation_data[area[:id]]
+      end
     end
 
     def to_popolo
@@ -76,7 +82,7 @@ module Source
     def reconciliation_data
       raise 'Area reconciliation file missing' unless reconciliation_file.exist?
       @reconciliation_data ||= ::CSV.table(reconciliation_file, converters: nil).map do |r|
-        [r[:wikidata], r[:id]]
+        [r[:wikidata], r.to_h]
       end.to_h
     end
   end
