@@ -30,13 +30,16 @@ namespace :generate do
     all_areas = all_areas_csv.map { |r| [r[:id], r.to_h] }.to_h
 
     @INSTRUCTIONS.sources_of_type('membership').each do |src|
-      source_areas = src.as_table.map { |r| r[:area_id] || r[:area].to_s.idify }.uniq
+      mem_areas = src.as_table.map { |r| r[:area_id] || r[:area].to_s.idify }.uniq
 
-      known_areas_in_source = source_areas & all_areas.keys
-      data = known_areas_in_source.map do |id|
+      previously_mapped = src.area_mapfile.mapping
+      unmapped = mem_areas - previously_mapped.values
+
+      can_map = unmapped & all_areas.keys
+      newly_mapped = can_map.map do |id|
         [id, all_areas[id][:uuid] ||= SecureRandom.uuid]
       end.to_h
-      src.area_mapfile.rewrite(data)
+      src.area_mapfile.rewrite(previously_mapped.merge(newly_mapped))
     end
 
     header = %i[id uuid wikidata].to_csv
