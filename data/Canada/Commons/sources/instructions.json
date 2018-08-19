@@ -5,7 +5,8 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
-        "query": "SELECT *, LOWER(REPLACE(name, ' ', '-')) AS id FROM data ORDER BY name"
+        "query": "SELECT name, wikiname, party, state, district, area, term, source, party_id, end_date, start_date, LOWER(REPLACE(name, ' ', '-')) AS id FROM data ORDER BY name",
+        "note": "fetch extra columns once this is Term 41 only"
       },
       "source": "https://en.wikipedia.org/",
       "type": "membership"
