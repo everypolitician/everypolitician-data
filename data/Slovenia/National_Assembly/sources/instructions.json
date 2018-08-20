@@ -6,6 +6,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-8.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/slovenia-drzhavni-zbor",
+        "query": "SELECT *, 8 AS term FROM data"
+      },
+      "source": "http://www.dz-rs.si/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
