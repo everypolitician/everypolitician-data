@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/slovenia-drzhavni-zbor",
-        "query": "SELECT * FROM data"
-      },
+      "file": "archive/official-7.csv",
       "source": "http://www.dz-rs.si/",
       "type": "membership"
     },
@@ -27,7 +22,7 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term",
+      "type": "term"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -87,11 +82,6 @@
         "incoming_field": "uuid",
         "existing_field": "uuid"
       }
-    },
-    {
-      "file": "archive/official-ceased.csv",
-      "source": "http://www.dz-rs.si/",
-      "type": "membership"
     }
   ]
 }
