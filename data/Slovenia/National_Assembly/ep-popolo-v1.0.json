@@ -1482,11 +1482,26 @@
       "sort_name": "Horváth Ferenc"
     },
     {
+      "birth_date": "1960-12-01",
+      "gender": "male",
+      "given_name": "Robert",
       "id": "51f55caa-7089-41af-b615-43c8c1c56019",
+      "identifiers": [
+        {
+          "identifier": "Q56162105",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P346",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P346"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Robert_Polnar"
         }
       ],
       "name": "Robert Polnar",
@@ -3196,11 +3211,28 @@
       "sort_name": "Rajh Andrej"
     },
     {
+      "birth_date": "1986-05-28",
+      "gender": "female",
       "id": "aa2b1079-93e5-4d42-a262-2cc7222aa026",
+      "identifiers": [
+        {
+          "identifier": "Q54944131",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P328",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P328"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tina_Heferle.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Tina_Heferle"
         }
       ],
       "name": "Tina Heferle",
@@ -4085,14 +4117,49 @@
     },
     {
       "birth_date": "1962-09-23",
+      "gender": "male",
       "id": "d21cd76b-00ab-4bf8-8175-61fca13ca553",
+      "identifiers": [
+        {
+          "identifier": "140804963",
+          "scheme": "conor"
+        },
+        {
+          "identifier": "Q10861634",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P092",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P092"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Zvone_Černač_2012cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Zvone_Černač"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Zvonko_Černač"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Zvone_Černač"
         }
       ],
       "name": "Zvonko Černač",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zvone Černač",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Černač Zvonko"
     },
     {
