@@ -12,15 +12,15 @@ require 'deep_merge'
 #   - merge term data from terms.csv
 #-----------------------------------------------------------------------
 namespace :transform do
-  file 'ep-popolo-v1.0.json' => :write
-  CLEAN.include('ep-popolo-v1.0.json', 'final.json')
+  file POPOLO_JSON => :write
+  CLEAN.include(POPOLO_JSON, 'final.json')
 
   task load: MERGED_JSON do
     @json = JSON.parse(MERGED_JSON.read, symbolize_names: true)
   end
 
   task :write do
-    popolo_write('ep-popolo-v1.0.json', @json)
+    popolo_write(POPOLO_JSON, @json)
   end
 
   #---------------------------------------------------------------------

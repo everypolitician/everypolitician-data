@@ -11,8 +11,8 @@ CLEAN.include('term-*.csv', 'names.csv')
 
 namespace :term_csvs do
   desc 'Generate the Term Tables'
-  task term_tables: 'ep-popolo-v1.0.json' do
-    @popolo = popolo = EveryPolitician::Popolo.read('ep-popolo-v1.0.json')
+  task term_tables: POPOLO_JSON do
+    @popolo = popolo = EveryPolitician::Popolo.read(POPOLO_JSON)
     terms = EveryPolitician::Dataview::Terms.new(popolo: @popolo).terms
     terms.each do |term|
       path = Pathname.new('term-%s.csv' % term.id)
@@ -76,7 +76,7 @@ namespace :term_csvs do
   end
 
   desc 'Build the Cabinet file'
-  task positions: ['ep-popolo-v1.0.json'] do
+  task positions: [POPOLO_JSON] do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
 
     data = src.filtered(position_map: POSITION_FILTER_CSV)

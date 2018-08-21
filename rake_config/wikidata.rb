@@ -17,7 +17,7 @@ desc 'Report on orphaned Wikidata reconciliation records'
 namespace :wikidata do
   task :remove_orphans do
     rfile = (@INSTRUCTIONS.sources_of_type('wikidata').first or next).reconciliation_file
-    known = Everypolitician::Popolo.read('ep-popolo-v1.0.json').persons.map(&:id)
+    known = ep_popolo.persons.map(&:id)
 
     orphaned = rfile.to_h.values - known
     next unless orphaned.any?

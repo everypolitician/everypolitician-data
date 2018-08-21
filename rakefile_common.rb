@@ -133,7 +133,7 @@ raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 @SOURCES = @INSTRUCTIONS.sources
 
 desc 'Rebuild from source data'
-task rebuild: [:clobber, 'ep-popolo-v1.0.json']
+task rebuild: [:clobber, POPOLO_JSON]
 task default: ['csvlint:validate', :csvs, 'stats:regenerate']
 
 Dir[File.dirname(__FILE__) + '/rake_*/*.rb'].each { |file| require file }
