@@ -58,9 +58,9 @@ class RemoteSource::Morph < RemoteSource
   def morph_select(src, query)
     (morph_api_key = ENV['MORPH_API_KEY']) || fail('Need a Morph API key')
     key = ERB::Util.url_encode(morph_api_key)
+    warn "⤈ No ORDER BY for #{i(:file)}" unless query.downcase.include? 'order by'
     query = ERB::Util.url_encode(query.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
-    warn "⤈ No ORDER BY for #{i(:file)}" unless query.downcase.include? 'order by'
     begin
       open(url).read
     rescue => e
