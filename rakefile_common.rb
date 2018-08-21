@@ -54,6 +54,7 @@ POSITION_FILTER_CSV = Pathname.new('sources/manual/position-filter.csv')
 POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
+POPOLO_JSON  = Pathname.new('ep-popolo-v1.0.json')
 
 CLEAN.include MERGED_CSV
 CLEAN.include MERGED_JSON
@@ -82,6 +83,10 @@ def json_load(file)
   JSON.parse(File.read(file), symbolize_names: true)
 end
 
+def ep_popolo
+  EveryPolitician::Popolo.read(POPOLO_JSON)
+end
+
 def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
@@ -95,7 +100,7 @@ module Enumerable
   end
 end
 
-def popolo_write(file, json)
+def popolo_write(pathname, json)
   json[:persons] = json[:persons].portable_sort_by { |p| p[:id] }
   json[:persons].each do |p|
     p[:identifiers]     &&= p[:identifiers].portable_sort_by { |i| [i[:scheme], i[:identifier]] }
@@ -116,7 +121,7 @@ def popolo_write(file, json)
   end
 
   final = Hash[deep_sort(json).sort_by { |k, _| k }.reverse]
-  File.write(file, JSON.pretty_generate(final))
+  pathname.write(JSON.pretty_generate(final))
 end
 
 @SOURCE_DIR = 'sources/manual'
