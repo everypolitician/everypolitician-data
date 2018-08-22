@@ -24083,18 +24083,29 @@
     },
     {
       "family_name": "Побочіх",
+      "gender": "male",
       "given_name": "Михайло",
       "id": "c61b3f3d-8f3c-4290-a305-6ebb6078b9c1",
       "identifiers": [
         {
           "identifier": "20626",
           "scheme": "verkhovna_rada"
+        },
+        {
+          "identifier": "Q56026279",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf81.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/nf81.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Побочіх_Михайло_Олександрович"
         }
       ],
       "name": "Побочіх Михайло Олександрович",
@@ -27998,22 +28009,83 @@
       "patronymic_name": "Борисович"
     },
     {
+      "birth_date": "1953-11-20",
       "family_name": "Зварич",
+      "gender": "male",
       "given_name": "Роман",
       "id": "e6ec61f0-f78d-4cb2-b001-fa880a4344ac",
       "identifiers": [
         {
+          "identifier": "/m/0r8ktmh",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "2158",
           "scheme": "verkhovna_rada"
+        },
+        {
+          "identifier": "Q966820",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp82.jpg",
       "images": [
         {
           "url": "http://static.rada.gov.ua/dep_img8/bp82.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Zvarych.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Roman_Zvarych"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Roman_Zvarych"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Roman_Zwarycz"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зварич,_Роман_Михайлович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Зварич_Роман_Михайлович"
+        },
+        {
+          "note": "Wikiquote (pl)",
+          "url": "https://pl.wikiquote.org/wiki/Roman_Zwarycz"
         }
       ],
       "name": "Зварич Роман Михайлович",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Roman Zwarijsch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Roman Zvarych",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Roman Zwarycz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зварич, Роман Михайлович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Михайлович"
     },
     {
