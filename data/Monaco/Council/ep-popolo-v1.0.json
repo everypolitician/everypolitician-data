@@ -1449,11 +1449,17 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "hm_horizon_monaco",
+      "id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "identifiers": [
         {
           "identifier": "Q19604424",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.horizonmonaco.com/"
         }
       ],
       "name": "HM Horizon Monaco",
@@ -1461,12 +1467,14 @@
         {
           "lang": "en",
           "name": "Horizon Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
-          "lang": "fr",
-          "name": "Horizon Monaco",
-          "note": "multilingual"
+          "lang": "pl",
+          "name": "Horyzont Monako",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -1495,7 +1503,7 @@
     },
     {
       "classification": "party",
-      "id": "pfm_(promotion_de_la_famille_monégasque)",
+      "id": "48412ac9-72d3-4f50-83d1-ccf0a6f33e18",
       "identifiers": [
         {
           "identifier": "Q3923911",
@@ -1507,17 +1515,14 @@
         {
           "lang": "en",
           "name": "Promotion of the Monegasque Family",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Promozione della famiglia monegasca",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Promotion of the Monegasque Family",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -1528,7 +1533,7 @@
     },
     {
       "classification": "party",
-      "id": "r_renaissance",
+      "id": "161ac634-e1b7-4856-a785-6fa838f4d2ec",
       "identifiers": [
         {
           "identifier": "Q18619469",
@@ -1540,23 +1545,20 @@
         {
           "lang": "en",
           "name": "Renaissance",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Renaissance",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "Renașterea (partid)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
     {
       "classification": "party",
-      "id": "r&e_rassemblement_et_enjeux",
+      "id": "eb27857a-101a-4efd-af6c-19cf434bc4bd",
       "identifiers": [
         {
           "identifier": "Q3929414",
@@ -1574,38 +1576,38 @@
         {
           "lang": "en",
           "name": "Rally & Issues",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Raggruppamento & Scommesse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Rassemblement & Enjeux",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Rally & Issues",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Raggruppamento e Scommesse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "National and Democratic Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
     {
       "classification": "party",
-      "id": "rpm_(rassemblement_pour_monaco)",
+      "id": "38f8b004-f7eb-4862-ae30-54100d152845",
       "identifiers": [
         {
           "identifier": "Q3929414",
@@ -1623,32 +1625,32 @@
         {
           "lang": "en",
           "name": "Rally & Issues",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Raggruppamento & Scommesse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Rassemblement & Enjeux",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Rally & Issues",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Raggruppamento e Scommesse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "National and Democratic Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -1659,7 +1661,7 @@
     },
     {
       "classification": "party",
-      "id": "udm_union_des_monégasques",
+      "id": "e7514891-4252-4897-86ce-20e87cd65903",
       "identifiers": [
         {
           "identifier": "Q2053150",
@@ -1677,43 +1679,62 @@
         {
           "lang": "ru",
           "name": "Союз за Монако",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Union for Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
-          "name": "Unión por Mónaco",
-          "note": "multilingual"
+          "name": "Unión Monegasca",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Unione per Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Союз за Монако",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Union Monégasque",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
-          "lang": "nl",
-          "name": "Union for Monaco",
-          "note": "multilingual"
+          "lang": "pl",
+          "name": "Unia Monakijska",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Union por Monaco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por Mónaco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
     {
       "classification": "party",
-      "id": "um_union_monégasque",
+      "id": "68f9829f-bc2d-4192-8aa6-f0360bdd2d9d",
       "identifiers": [
         {
           "identifier": "Q2053150",
@@ -1731,37 +1752,56 @@
         {
           "lang": "ru",
           "name": "Союз за Монако",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Union for Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
-          "name": "Unión por Mónaco",
-          "note": "multilingual"
+          "name": "Unión Monegasca",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Unione per Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Союз за Монако",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Union Monégasque",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
-          "lang": "nl",
-          "name": "Union for Monaco",
-          "note": "multilingual"
+          "lang": "pl",
+          "name": "Unia Monakijska",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Union por Monaco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Unión por Mónaco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -1772,7 +1812,7 @@
     },
     {
       "classification": "party",
-      "id": "unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
+      "id": "4917b440-ec73-46d8-91ef-9e8e720e75d1",
       "identifiers": [
         {
           "identifier": "Q4005613",
@@ -1784,17 +1824,26 @@
         {
           "lang": "en",
           "name": "National Union for the Future of Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Unione nazionale per il futuro di Monaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Unión Nacional para el futuro de Mónaco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Union Nacional para el futuro de Monaco",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -1805,7 +1854,7 @@
     },
     {
       "classification": "party",
-      "id": "up_union_pour_la_principauté_upm_(union_pour_monaco)",
+      "id": "11b87d67-3a32-4850-b505-a1fbb7eeb152",
       "identifiers": [
         {
           "identifier": "Q4005611",
@@ -1817,12 +1866,14 @@
         {
           "lang": "it",
           "name": "Unione per il Principato",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Union for the Principality",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     }
@@ -1836,7 +1887,7 @@
   "memberships": [
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "030badfd-b11b-4977-bc43-484b8645f027",
       "role": "member",
@@ -1848,7 +1899,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "054bb1e0-7971-48ef-ae58-61e1c2f9c1e4",
       "role": "member",
@@ -1860,7 +1911,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "0633c42c-6d36-49cf-8427-245ffc12bfe3",
       "role": "member",
@@ -1879,14 +1930,14 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "1403f449-2ecf-471f-9a40-4fe141a8ac11",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "um_union_monégasque",
+      "on_behalf_of_id": "68f9829f-bc2d-4192-8aa6-f0360bdd2d9d",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "1403f449-2ecf-471f-9a40-4fe141a8ac11",
       "role": "member",
@@ -1905,7 +1956,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "1ca4231f-195d-46da-aae8-bd13b0403a70",
       "role": "member",
@@ -1924,7 +1975,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "up_union_pour_la_principauté_upm_(union_pour_monaco)",
+      "on_behalf_of_id": "11b87d67-3a32-4850-b505-a1fbb7eeb152",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "1d93838e-6598-4d3c-a710-10eec9548461",
       "role": "member"
@@ -1938,14 +1989,14 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "213d09b0-47c8-4c2b-9b46-bd9453f5efa2",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
+      "on_behalf_of_id": "4917b440-ec73-46d8-91ef-9e8e720e75d1",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "21865150-43b2-4b43-8e9c-15adf89e8925",
       "role": "member"
@@ -1959,21 +2010,21 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "25e19ea7-eda6-4c2c-bf12-51116d446f46",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "r&e_rassemblement_et_enjeux",
+      "on_behalf_of_id": "eb27857a-101a-4efd-af6c-19cf434bc4bd",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "2e704dfa-f7bd-4930-8550-6e521cc55ba0",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "2e704dfa-f7bd-4930-8550-6e521cc55ba0",
       "role": "member",
@@ -1999,14 +2050,14 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "414c95ab-4bcd-4b12-aa97-b213f00cba7f",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "pfm_(promotion_de_la_famille_monégasque)",
+      "on_behalf_of_id": "48412ac9-72d3-4f50-83d1-ccf0a6f33e18",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "451fa8a9-bbdb-428c-a14a-e6149a2718ae",
       "role": "member"
@@ -2020,7 +2071,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "4eb0dab7-0f82-4138-86fd-c919a8bfeeb0",
       "role": "member",
@@ -2032,7 +2083,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "58792ffa-85b5-4ece-b1f8-dbd8f7213689",
       "role": "member",
@@ -2051,7 +2102,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "58cf8f43-6778-4b2f-ba56-7b8f73532078",
       "role": "member"
@@ -2065,7 +2116,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "6085eb00-212f-405e-b1f0-54dbafdadd71",
       "role": "member",
@@ -2084,7 +2135,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "6ea1c2ed-3ae5-412b-9ec9-938fb8db35c0",
       "role": "member",
@@ -2096,21 +2147,21 @@
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "rpm_(rassemblement_pour_monaco)",
+      "on_behalf_of_id": "38f8b004-f7eb-4862-ae30-54100d152845",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "710adf51-ea34-4434-a25b-2084f8410b09",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "r&e_rassemblement_et_enjeux",
+      "on_behalf_of_id": "eb27857a-101a-4efd-af6c-19cf434bc4bd",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "783a2833-98fb-4a4b-8957-c2f00fd49f49",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "783a2833-98fb-4a4b-8957-c2f00fd49f49",
       "role": "member",
@@ -2122,7 +2173,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "78b470d0-6ac1-4633-923a-ec6e0de78465",
       "role": "member",
@@ -2134,7 +2185,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "um_union_monégasque",
+      "on_behalf_of_id": "68f9829f-bc2d-4192-8aa6-f0360bdd2d9d",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "78eff3d1-a27f-4d2a-989f-3ba1c0c98e05",
       "role": "member",
@@ -2146,7 +2197,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "790ecb6c-1b06-4cc2-bbde-93df5ca2d04e",
       "role": "member",
@@ -2158,7 +2209,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "79ddcd71-2532-4f83-97c9-51eb499d469c",
       "role": "member",
@@ -2177,21 +2228,21 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
+      "on_behalf_of_id": "4917b440-ec73-46d8-91ef-9e8e720e75d1",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "8a61bd82-a48d-458f-a492-17a1b7a34716",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "r&e_rassemblement_et_enjeux",
+      "on_behalf_of_id": "eb27857a-101a-4efd-af6c-19cf434bc4bd",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "95d751a1-ceb8-44a2-a26e-49cc15fcec36",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "95d751a1-ceb8-44a2-a26e-49cc15fcec36",
       "role": "member",
@@ -2210,21 +2261,21 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "unam_union_nationale_pour_l'avenir_de_monaco_upm_(union_pour_monaco)",
+      "on_behalf_of_id": "4917b440-ec73-46d8-91ef-9e8e720e75d1",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "9cdeed97-6d9a-446f-9d9d-d757ad35da56",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "pfm_(promotion_de_la_famille_monégasque)",
+      "on_behalf_of_id": "48412ac9-72d3-4f50-83d1-ccf0a6f33e18",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "a2b39831-b291-4503-86d0-1588cc7b46e2",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "a5caa3de-352b-4afe-b3cc-7bb25d36dd90",
       "role": "member",
@@ -2243,21 +2294,21 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "aa7df0a8-c160-4147-b8c2-ecaa6d839778",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "ac60c797-c5ea-4b0e-b976-3495e8de1615",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "um_union_monégasque",
+      "on_behalf_of_id": "68f9829f-bc2d-4192-8aa6-f0360bdd2d9d",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "b032b05f-e481-49fc-a062-786121367d0a",
       "role": "member",
@@ -2269,7 +2320,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "b168e57b-f950-4722-9a57-93ba07102654",
       "role": "member",
@@ -2281,14 +2332,14 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "b57e870d-f5e0-423f-80ae-3395dbab7d5a",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "b61c6f06-586a-4c6a-aa83-d58b5b2d4e93",
       "role": "member",
@@ -2300,7 +2351,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "b7c88562-ce17-43a7-9844-f79d21438fcc",
       "role": "member",
@@ -2312,7 +2363,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "r_renaissance",
+      "on_behalf_of_id": "161ac634-e1b7-4856-a785-6fa838f4d2ec",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "c1272a5a-5439-4500-870d-2293cf7a66e5",
       "role": "member",
@@ -2324,14 +2375,14 @@
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "pfm_(promotion_de_la_famille_monégasque)",
+      "on_behalf_of_id": "48412ac9-72d3-4f50-83d1-ccf0a6f33e18",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "c344c675-dfe7-401b-af68-768a2d9dd3bf",
       "role": "member"
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "c344c675-dfe7-401b-af68-768a2d9dd3bf",
       "role": "member",
@@ -2350,7 +2401,7 @@
     },
     {
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "hm_horizon_monaco",
+      "on_behalf_of_id": "ec94f0c0-d041-4afa-a0fa-a092630d3359",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "c541384f-8172-4bdf-95f5-eaca8370a821",
       "role": "member",
@@ -2369,7 +2420,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "up_union_pour_la_principauté_upm_(union_pour_monaco)",
+      "on_behalf_of_id": "11b87d67-3a32-4850-b505-a1fbb7eeb152",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "c9dcf443-5b48-49f5-8cef-44200ad6f47b",
       "role": "member"
@@ -2397,7 +2448,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "d85996fe-3009-4e16-b13a-050b13b4fbb3",
       "role": "member"
@@ -2411,7 +2462,7 @@
     },
     {
       "legislative_period_id": "term/2003",
-      "on_behalf_of_id": "rpm_(rassemblement_pour_monaco)",
+      "on_behalf_of_id": "38f8b004-f7eb-4862-ae30-54100d152845",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "ea1a18dc-05ae-4433-a1f5-8abfc27d05d9",
       "role": "member"
@@ -2432,7 +2483,7 @@
     },
     {
       "legislative_period_id": "term/2008",
-      "on_behalf_of_id": "udm_union_des_monégasques",
+      "on_behalf_of_id": "e7514891-4252-4897-86ce-20e87cd65903",
       "organization_id": "0fc887d9-c8ef-49ef-80d0-81fef3dbbc85",
       "person_id": "fb697241-3d14-4ff6-b9b3-07632411160c",
       "role": "member"
