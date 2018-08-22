@@ -31,7 +31,8 @@ namespace :wikidata do
 
   desc 'Automatically re-reconcile Wikidata merges'
   task :rereconcile do
-    data = @INSTRUCTIONS.sources_of_type('wikidata').first.reconciliation_file.to_h
+    rfile = @INSTRUCTIONS.sources_of_type('wikidata').first.reconciliation_file
+    data = rfile.to_h
 
     # At 550-600 IDs this triggers "414 URI too long" error
     merges = data.keys.each_slice(500).flat_map do |ids|
