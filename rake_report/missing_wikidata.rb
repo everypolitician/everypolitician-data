@@ -9,7 +9,7 @@ namespace :report do
 
     puts latest_missing.first.term.id
     latest_missing.uniq { |mem| mem.person.id }.each do |mem|
-      puts '%s (%s) %s @ %s' % [mem.person.name, mem.person.id, mem.area.name, mem.sources.first&.[](:url)]
+      puts '%s (%s) %s @ %s' % [mem.person.name, mem.person.id, mem.area&.name, mem.sources.first&.[](:url)]
     end
   end
 end
