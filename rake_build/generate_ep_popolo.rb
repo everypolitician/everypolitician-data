@@ -74,7 +74,6 @@ namespace :transform do
   # Merge with terms.csv
   #---------------------------------------------------------------------
   task write: :merge_termfile
-
   task merge_termfile: :ensure_legislature do
     terms = @INSTRUCTIONS.sources_of_type('term')
                          .flat_map { |src| src.to_popolo[:events] }
@@ -113,8 +112,9 @@ namespace :transform do
   # Don't duplicate `name` or `name__en` into multilingual
   #---------------------------------------------------------------------
   task write: :fallback_names
-  task fallback_names: :load do
-    @json[:persons].reject { |p| p[:other_names].to_a.empty? }.each do |p|
+  task fallback_names: :area_wikidata do
+    # TODO: remove these from parties / elections / terms etc. too
+    (@json[:persons] + @json[:areas]).reject { |p| p[:other_names].to_a.empty? }.each do |p|
       skip = Set.new([p[:name].downcase]) + p[:other_names].select { |n| n[:lang] == 'en' }.map { |n| n[:name].downcase }
       p[:other_names].delete_if { |n| n[:lang] != 'en' && skip.include?(n[:name].downcase) }
       p[:other_names].delete_if { |n| n[:lang] == 'en' && n[:name].downcase == p[:name].downcase }
