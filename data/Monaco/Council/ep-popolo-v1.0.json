@@ -242,11 +242,16 @@
     },
     {
       "gender": "female",
+      "given_name": "Brigitte",
       "id": "1d93838e-6598-4d3c-a710-10eec9548461",
       "identifiers": [
         {
           "identifier": "Brigitte-BOCCONE-PAGES",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479234",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/b-boccone-pages.jpg",
@@ -255,7 +260,24 @@
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/b-boccone-pages.jpg"
         }
       ],
-      "name": "Brigitte BOCCONE-PAGES"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brigitte_Boccone-Pagès"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Brigitte_Boccone-Pagès"
+        }
+      ],
+      "name": "Brigitte BOCCONE-PAGES",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Brigitte Boccone-Pagès",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -275,12 +297,18 @@
       "name": "Christine PASQUIER-CIULLA"
     },
     {
+      "family_name": "Marquet",
       "gender": "male",
+      "given_name": "Roland",
       "id": "213d09b0-47c8-4c2b-9b46-bd9453f5efa2",
       "identifiers": [
         {
           "identifier": "Roland-MARQUET",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41478819",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/r-marquet.jpg",
@@ -289,15 +317,26 @@
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/r-marquet.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Roland_Marquet"
+        }
+      ],
       "name": "Roland MARQUET"
     },
     {
       "gender": "male",
+      "given_name": "Éric",
       "id": "21865150-43b2-4b43-8e9c-15adf89e8925",
       "identifiers": [
         {
           "identifier": "Eric-GUAZZONNE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41478972",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/e-guazzonne.jpg",
@@ -306,21 +345,51 @@
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/e-guazzonne.jpg"
         }
       ],
-      "name": "Eric GUAZZONNE"
+      "links": [
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/eric-guazzonne-6b016741/"
+        }
+      ],
+      "name": "Eric GUAZZONNE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Éric Guazzonne",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1958-04-26",
+      "family_name": "Notari",
       "gender": "male",
+      "given_name": "Fabrice",
       "id": "25e19ea7-eda6-4c2c-bf12-51116d446f46",
       "identifiers": [
         {
           "identifier": "Fabrice-NOTARI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41480413",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/f-notari.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/f-notari.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fabrice_Notari"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fabrice_Notari"
         }
       ],
       "name": "Fabrice NOTARI"
@@ -391,11 +460,16 @@
     },
     {
       "gender": "male",
+      "given_name": "Bernard",
       "id": "414c95ab-4bcd-4b12-aa97-b213f00cba7f",
       "identifiers": [
         {
           "identifier": "Bernard-MARQUET",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479345",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/b-marquet.jpg",
@@ -556,17 +630,28 @@
     },
     {
       "gender": "male",
+      "given_name": "Alexandre",
       "id": "58cf8f43-6778-4b2f-ba56-7b8f73532078",
       "identifiers": [
         {
           "identifier": "Alexandre-BORDERO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41480271",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/a-bordero.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/a-bordero.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/alexandre-bordero-50422511/"
         }
       ],
       "name": "Alexandre BORDERO"
@@ -923,17 +1008,28 @@
     },
     {
       "gender": "female",
+      "given_name": "Michèle",
       "id": "8a61bd82-a48d-458f-a492-17a1b7a34716",
       "identifiers": [
         {
           "identifier": "Michele-DITTLOT",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479448",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/m-dittlot.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/m-dittlot.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Michèle_Dittlot"
         }
       ],
       "name": "Michèle DITTLOT"
@@ -980,11 +1076,16 @@
     },
     {
       "gender": "male",
+      "given_name": "Claude",
       "id": "9cdeed97-6d9a-446f-9d9d-d757ad35da56",
       "identifiers": [
         {
           "identifier": "Claude-CELLARIO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479112",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/c-cellario.jpg",
@@ -1071,12 +1172,18 @@
       "name": "Bruno BLANCHY"
     },
     {
+      "death_date": "2015-01-02",
       "gender": "male",
+      "given_name": "Gérard",
       "id": "aa7df0a8-c160-4147-b8c2-ecaa6d839778",
       "identifiers": [
         {
           "identifier": "Gerard-BERTRAND",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479695",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/g-bertrand.jpg",
@@ -1089,11 +1196,16 @@
     },
     {
       "gender": "female",
+      "given_name": "Nicole",
       "id": "ac60c797-c5ea-4b0e-b976-3495e8de1615",
       "identifiers": [
         {
           "identifier": "Nicole-MANZONE-SAQUET",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479575",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/n-manzone-saquet.jpg",
@@ -1196,18 +1308,30 @@
       ]
     },
     {
+      "family_name": "Lorenzi",
       "gender": "male",
+      "given_name": "Pierre",
       "id": "b57e870d-f5e0-423f-80ae-3395dbab7d5a",
       "identifiers": [
         {
           "identifier": "Pierre-LORENZI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479850",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/p-lorenzi.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/p-lorenzi.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/pierre.lorenzi.50"
         }
       ],
       "name": "Pierre LORENZI"
@@ -1430,12 +1554,18 @@
       "name": "Jean-Charles EMMERICH"
     },
     {
+      "family_name": "Poyard",
       "gender": "female",
+      "given_name": "Anne",
       "id": "c9dcf443-5b48-49f5-8cef-44200ad6f47b",
       "identifiers": [
         {
           "identifier": "Anne-POYARD-VATRICAN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41478401",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/a-poyard-vatrican.jpg",
@@ -1444,15 +1574,34 @@
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/a-poyard-vatrican.jpg"
         }
       ],
-      "name": "Anne POYARD-VATRICAN"
+      "links": [
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/anne-poyard-vatrican-56933a26/"
+        }
+      ],
+      "name": "Anne POYARD-VATRICAN",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Энн Ватрикан",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1957-08-07",
       "gender": "male",
+      "given_name": "Christophe",
       "id": "cf53bff8-0ad1-4acd-86c7-c3586d68e0af",
       "identifiers": [
         {
           "identifier": "Christophe-SPILIOTIS-SAQUET",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16041150",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/c-spiliotis-saquet.jpg",
@@ -1461,7 +1610,20 @@
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/c-spiliotis-saquet.jpg"
         }
       ],
-      "name": "Christophe SPILIOTIS-SAQUET"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Christophe_Spiliotis"
+        }
+      ],
+      "name": "Christophe SPILIOTIS-SAQUET",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christophe Spiliotis",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "d52f9f04-0017-44a5-8bc2-241ea358e63b",
@@ -1475,17 +1637,36 @@
     },
     {
       "gender": "male",
+      "given_name": "Jean-Charles",
       "id": "d85996fe-3009-4e16-b13a-050b13b4fbb3",
       "identifiers": [
         {
           "identifier": "Jean-Charles-GARDETTO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41479946",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/jc-gardetto.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/jc-gardetto.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Jean-Charles-S-Gardetto-107811329254724"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/jean-charles-gardetto-639a281/"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gardetto.mc"
         }
       ],
       "name": "Jean-Charles GARDETTO"
@@ -1559,18 +1740,30 @@
       "name": "Daniel RAYMOND"
     },
     {
+      "family_name": "Rose",
       "gender": "male",
+      "given_name": "Guillaume",
       "id": "fb697241-3d14-4ff6-b9b3-07632411160c",
       "identifiers": [
         {
           "identifier": "Guillaume-ROSE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41480094",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/g-rose.jpg",
       "images": [
         {
           "url": "http://www.conseil-national.mc/images/histoire-conseil-national/elus-2008-2013/g-rose.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Guillaume_Rose_(homme_politique)"
         }
       ],
       "name": "Guillaume ROSE"
