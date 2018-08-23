@@ -26,6 +26,10 @@
         {
           "identifier": "evans_mcniel_rogers",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q56235949",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Evans_Rogers_2015_02.jpg",
@@ -94,6 +98,10 @@
         {
           "identifier": "palmavon_webster",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q56235952",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Palmavon_Webster_02.jpg",
@@ -142,6 +150,10 @@
         {
           "identifier": "evalie_bradley",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43044441",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Evalie_Bradley_2015_02.jpg",
@@ -150,7 +162,20 @@
           "url": "http://www.caribbeanelections.com/ai/images/people/Evalie_Bradley_2015_02.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Evalie_A._Bradley"
+        }
+      ],
       "name": "Evalie BRADLEY",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Evalie A. Bradley",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BRADLEY, Evalie"
     },
     {
@@ -162,6 +187,10 @@
         {
           "identifier": "curtis_a._richardson",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q56235953",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Curtis_Richardson_2015_01.jpg",
@@ -174,6 +203,7 @@
       "sort_name": "RICHARDSON, Curtis A."
     },
     {
+      "birth_date": "1961-03-24",
       "family_name": "CONNOR",
       "gender": "male",
       "given_name": "Cardigan",
@@ -182,12 +212,22 @@
         {
           "identifier": "cardigan_connor",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5038504",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Cardigan_Connor_2015_02.jpg",
       "images": [
         {
           "url": "http://www.caribbeanelections.com/ai/images/people/Cardigan_Connor_2015_02.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cardigan_Connor"
         }
       ],
       "name": "Cardigan CONNOR",
@@ -250,6 +290,10 @@
         {
           "identifier": "cora_richardson-hodge",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q56235950",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Coral_Richardson_Hodge_2015_02.jpg",
@@ -296,6 +340,7 @@
       "sort_name": "HUGHES, Hubert Benjamin"
     },
     {
+      "birth_date": "1947-11-08",
       "family_name": "BANKS",
       "gender": "male",
       "given_name": "Victor",
@@ -304,15 +349,62 @@
         {
           "identifier": "victor_banks",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19831099",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.caribbeanelections.com/ai/images/people/Victor_Banks_2015_02.jpg",
       "images": [
         {
           "url": "http://www.caribbeanelections.com/ai/images/people/Victor_Banks_2015_02.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Victor_Banks_2015.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Βίκτορ_Μπανκς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Victor_Banks"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Victor_Banks"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Victor_Banks"
         }
       ],
       "name": "Victor BANKS",
+      "other_names": [
+        {
+          "lang": "el",
+          "name": "Βίκτορ Μπανκς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "維克多·班克斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "维克托·班克斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "維克托·班克斯",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BANKS, Victor"
     }
   ],
@@ -1383,7 +1475,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.caribbeanelections.com/ai/election2015"
+      "http://www.caribbeanelections.com/ai/election2015",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
