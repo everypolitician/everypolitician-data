@@ -12,7 +12,19 @@
     },
     {
       "file": "manual/terms.csv",
-      "type": "term",
+      "type": "term"
+    },
+    {
+      "file": "morph/areas.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/anguilla-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
     },
     {
       "file": "wikidata/groups.json",
