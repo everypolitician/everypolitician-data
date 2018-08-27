@@ -305,7 +305,7 @@
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/John_Swinburne_(Politiker)"
+          "url": "https://de.wikipedia.org/wiki/John_Swinburne_(Politiker,_1930)"
         },
         {
           "note": "Wikipedia (en)",
@@ -1030,7 +1030,14 @@
           "url": "https://en.wikipedia.org/wiki/Ian_Jenkins_(politician)"
         }
       ],
-      "name": "Ian Jenkins"
+      "name": "Ian Jenkins",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "يان جنكينز",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-10-18",
@@ -1324,6 +1331,7 @@
       ]
     },
     {
+      "family_name": "Brennan",
       "gender": "female",
       "given_name": "Lesley",
       "id": "109664e1-add7-4de6-878e-1cfe0af753ad",
@@ -6294,6 +6302,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alasdair_Allan"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Alasdair_Allan"
@@ -11351,6 +11363,11 @@
       "name": "Margaret Mitchell",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "مارغريت ميتشيل",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "مارگارت میچل",
           "note": "multilingual"
@@ -13167,6 +13184,10 @@
         {
           "identifier": "00000026257",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "380672545",
+          "scheme": "nta"
         },
         {
           "identifier": "7457",
@@ -15232,6 +15253,7 @@
           "value": "DAJCameron"
         }
       ],
+      "family_name": "Cameron",
       "gender": "male",
       "given_name": "Donald",
       "id": "ca00e8c6-93f1-4fef-b8a3-81f05e4dc13c",
