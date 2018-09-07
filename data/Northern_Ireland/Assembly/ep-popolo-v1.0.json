@@ -84,6 +84,7 @@
     },
     {
       "birth_date": "1971-12-30",
+      "family_name": "Cameron",
       "gender": "female",
       "given_name": "Pam",
       "id": "021d6e08-ecb9-4aa9-bc64-8b7912fbb3e6",
@@ -228,6 +229,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alasdair_McDonnell"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Alasdair_McDonnell"
@@ -634,6 +639,7 @@
     },
     {
       "birth_date": "1954-06-23",
+      "family_name": "Copeland",
       "gender": "male",
       "given_name": "Michael",
       "id": "0c4dd32e-9c3d-4689-a596-805512f61640",
@@ -2493,6 +2499,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Eamonn_McCann"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Eamonn_McCann"
         },
@@ -3802,6 +3812,7 @@
     },
     {
       "birth_date": "1951-10-26",
+      "family_name": "Farrell",
       "gender": "female",
       "given_name": "Marietta",
       "id": "4afd0817-8c20-454f-a555-c88390bce14e",
@@ -4052,6 +4063,7 @@
     },
     {
       "birth_date": "1945-08-16",
+      "family_name": "Bresland",
       "gender": "male",
       "given_name": "Allan",
       "id": "4d51a919-f541-4936-bcd6-e866ee1eb7f8",
@@ -4846,6 +4858,7 @@
     },
     {
       "birth_date": "1967-10-17",
+      "family_name": "Humphrey",
       "gender": "male",
       "given_name": "William",
       "id": "56ebf755-b8d8-4522-8a65-5ff78071fc83",
@@ -5298,7 +5311,9 @@
       "name": "Órlaithí Flynn"
     },
     {
-      "birth_date": "1929",
+      "birth_date": "1929-10-23",
+      "death_date": "2018-09-05",
+      "family_name": "Coulter",
       "gender": "male",
       "given_name": "Robert",
       "id": "602f439b-a73a-4e5d-8874-18e77efeee34",
@@ -5318,11 +5333,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/روبرت_كولتر"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Robert_Coulter"
         }
       ],
-      "name": "Robert Coulter"
+      "name": "Robert Coulter",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "روبرت كولتر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943-06-21",
@@ -6642,6 +6668,7 @@
     {
       "birth_date": "1941-11-26",
       "death_date": "2014-10-01",
+      "family_name": "Savage",
       "gender": "male",
       "given_name": "George",
       "id": "79295153-7cd9-4460-844f-7de991459f90",
@@ -6904,6 +6931,7 @@
     },
     {
       "birth_date": "1952-06-28",
+      "family_name": "Hutchinson",
       "gender": "male",
       "given_name": "Roger",
       "id": "7f99a516-25bc-48ca-8ee7-30317d5a8653",
@@ -8400,6 +8428,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "si",
+          "name": "ඉයන් පේස්ලි කණිෂ්ඨ",
+          "note": "multilingual"
+        },
+        {
           "lang": "sk",
           "name": "Ian Paisley",
           "note": "multilingual"
@@ -9258,6 +9291,7 @@
     },
     {
       "birth_date": "1950-12-08",
+      "family_name": "Dickson",
       "gender": "male",
       "given_name": "Stewart",
       "id": "a78241b6-b1a7-44ba-9621-89b8e043a233",
@@ -9370,6 +9404,7 @@
     },
     {
       "birth_date": "1955",
+      "family_name": "Hutchinson",
       "gender": "male",
       "given_name": "Billy",
       "id": "aa015072-86cf-4e99-9084-4427a148d980",
@@ -10595,6 +10630,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Colin_McGrath_MLA.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Colin_McGrath_MLA.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -11388,6 +11429,7 @@
     },
     {
       "birth_date": "1946-03-26",
+      "family_name": "Hanna",
       "gender": "female",
       "given_name": "Carmel",
       "id": "d172f066-7fb5-4160-a802-a941e34c5425",
@@ -11686,6 +11728,14 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0457546",
+          "scheme": "gnc"
+        },
+        {
+          "identifier": "146684",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "mr-peter-robinson",
           "scheme": "hansard"
         },
@@ -11698,6 +11748,14 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n92001987",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "vtls000313075",
+          "scheme": "n6i"
+        },
+        {
           "identifier": "82572",
           "scheme": "nlg"
         },
@@ -11708,6 +11766,10 @@
         {
           "identifier": "uk.org.publicwhip/person/10507",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "266545",
+          "scheme": "persee"
         },
         {
           "identifier": "578",
@@ -12477,6 +12539,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Patsy_McGlone"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patsy_McGlone"
@@ -13817,6 +13883,7 @@
     },
     {
       "birth_date": "1956-12-12",
+      "family_name": "Irwin",
       "gender": "male",
       "given_name": "William",
       "id": "fc8ce852-7055-479f-b6c1-ca84102d6a70",
