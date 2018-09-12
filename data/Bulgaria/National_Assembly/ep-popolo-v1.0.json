@@ -4047,6 +4047,7 @@
       ],
       "email": "georgi.svilenski@parliament.bg",
       "gender": "male",
+      "given_name": "Georgi",
       "id": "10e3bc88-cf22-4f8d-a7c0-af8297718f5d",
       "identifiers": [
         {
@@ -4056,6 +4057,10 @@
         {
           "identifier": "1541",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q27914791",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1541.png",
@@ -4064,11 +4069,27 @@
           "url": "http://www.parliament.bg/images/Assembly/1541.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Georgi_Svilenski"
+        }
+      ],
       "name": "ГЕОРГИ СТРАХИЛОВ СВИЛЕНСКИ",
       "other_names": [
         {
           "lang": "en",
           "name": "GEORGI STRAHILOV SVILENSKI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Georgi Svilenski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Георги Страхилов Свиленски",
           "note": "multilingual"
         }
       ]
@@ -5995,7 +6016,9 @@
         }
       ],
       "email": "rumen.hristov@parliament.bg",
+      "family_name": "Hristov",
       "gender": "male",
+      "given_name": "Rumen",
       "id": "1ad69a03-9e76-4881-8877-0296046ccc4f",
       "identifiers": [
         {
@@ -6005,6 +6028,10 @@
         {
           "identifier": "2513",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12292658",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2513.png",
@@ -6013,11 +6040,53 @@
           "url": "http://www.parliament.bg/images/Assembly/2513.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Румен_Христов_(политик)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rumen_Hristov_(politician)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rumen_Christow"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/魯門·赫里斯托夫_(政治人物)"
+        }
+      ],
       "name": "РУМЕН ДИМИТРОВ ХРИСТОВ",
       "other_names": [
         {
+          "name": "Румен Христов",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Румен Христов",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "ROUMEN DIMITROV HRISTOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rumen Hristov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rumen Christow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "魯門·赫里斯托夫",
           "note": "multilingual"
         }
       ]
@@ -26476,7 +26545,9 @@
     },
     {
       "birth_date": "1947-11-22",
+      "death_date": "2006-06-20",
       "gender": "male",
+      "given_name": "Wladimir",
       "id": "7b563855-4281-4401-b415-e1ffd9538257",
       "identifiers": [
         {
@@ -26484,21 +26555,80 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0fttcw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 3910 7359",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nb2005002763",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "105917",
+          "scheme": "mgp"
+        },
+        {
           "identifier": "62",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "13452764X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "63526202",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2587222",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "damgov.vladimir-n",
+          "scheme": "zbmath"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/62.png",
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/62.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Vladimir_Damgov.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wladimir_Damgow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Damgov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vladimir_Damgov"
         }
       ],
       "name": "ВЛАДИМИР НИКОЛОВ ДАМГОВ",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Wladimir Damgow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "VLADIMIR NIKOLOV DAMGOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Damgov",
           "note": "multilingual"
         }
       ]
@@ -36116,6 +36246,7 @@
       ],
       "email": "Georgi.Anastasov@parliament.bg",
       "gender": "male",
+      "given_name": "Georgi",
       "id": "a5897bf6-814d-424c-a233-143eae3c828e",
       "identifiers": [
         {
@@ -36125,6 +36256,10 @@
         {
           "identifier": "2371",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q56523655",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2371.png",
@@ -36133,8 +36268,23 @@
           "url": "http://www.parliament.bg/images/Assembly/2371.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Георги_Анастасов_(политик)"
+        }
+      ],
       "name": "ГЕОРГИ ЧАВДАРОВ АНАСТАСОВ",
       "other_names": [
+        {
+          "name": "Георги Анастасов",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Георги Анастасов",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "GEORGI CHAVDAROV ANASTASOV",
@@ -50967,6 +51117,7 @@
       ],
       "email": "kamen.petkov@parliament.bg",
       "gender": "male",
+      "given_name": "Kamen",
       "id": "f5808177-db09-48db-9771-d9124b69e326",
       "identifiers": [
         {
@@ -50976,6 +51127,10 @@
         {
           "identifier": "1029",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q1722926",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1029.png",
@@ -50984,11 +51139,22 @@
           "url": "http://www.parliament.bg/images/Assembly/1029.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kamen_Petkow"
+        }
+      ],
       "name": "КАМЕН МАРИНОВ ПЕТКОВ",
       "other_names": [
         {
           "lang": "en",
           "name": "KAMEN MARINOV PETKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kamen Petkow",
           "note": "multilingual"
         }
       ]
