@@ -6,29 +6,14 @@
       "type": "membership"
     },
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/guatemala-congreso",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
-      "source": "http://www.congreso.gob.gt/legislaturas.php",
-      "type": "membership"
-    },
-    {
       "file": "morph/official-8.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/guatemala-congreso",
-        "query": "SELECT id, name, birth_date FROM data ORDER BY id"
-      },
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/official-8.csv"
+        "query": "SELECT *, 8 AS term FROM data ORDER BY id"
       },
       "source": "http://www.congreso.gob.gt/legislaturas.php",
-      "type": "person"
+      "type": "membership"
     },
     {
       "file": "morph/wikidata.csv",
