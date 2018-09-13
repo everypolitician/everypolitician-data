@@ -2857,11 +2857,25 @@
     },
     {
       "birth_date": "1943-12-25",
+      "gender": "male",
+      "given_name": "José",
       "id": "15bb516b-c6f9-4f08-b78c-1e334f63acc5",
       "identifiers": [
         {
+          "identifier": "0000 0001 1312 8503",
+          "scheme": "isni"
+        },
+        {
           "identifier": "84",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "122088584",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6292409",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=84&type=deputado",
@@ -2870,7 +2884,24 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=84&type=deputado"
         }
       ],
-      "name": "Reis Leite"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/José_Guilherme_Reis_Leite"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/José_Guilherme_Reis_Leite"
+        }
+      ],
+      "name": "Reis Leite",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "José Guilherme Reis Leite",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-08-16",
