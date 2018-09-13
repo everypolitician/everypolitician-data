@@ -16,6 +16,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official-8.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/guatemala-congreso",
+        "query": "SELECT id, name, birth_date FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-8.csv"
+      },
+      "source": "http://www.congreso.gob.gt/legislaturas.php",
+      "type": "person"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
