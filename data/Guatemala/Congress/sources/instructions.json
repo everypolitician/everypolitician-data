@@ -6,12 +6,18 @@
       "type": "membership"
     },
     {
+      "file": "archive/official-8-vanished.csv",
+      "source": "http://www.congreso.gob.gt/legislaturas.php",
+      "type": "membership"
+    },
+    {
       "file": "morph/official-8.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/guatemala-congreso",
         "query": "SELECT *, 8 AS term FROM data ORDER BY id"
       },
+      "reuse_ids": false,
       "source": "http://www.congreso.gob.gt/legislaturas.php",
       "type": "membership"
     },
