@@ -7,6 +7,23 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "tamara.leonard@sxmparliament.org"
+        }
+      ],
+      "email": "tamara.leonard@sxmparliament.org",
+      "id": "0052ac20-477d-46be-b3a4-7d28454c2c75",
+      "image": "http://www.sxmparliament.org/images/tamara.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/tamara.jpg"
+        }
+      ],
+      "name": "Tamara E. Leonard"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "Christophe.Emmanuel@sxmparliament.org"
         }
       ],
@@ -25,23 +42,6 @@
         }
       ],
       "name": "Christophe T. Emmanuel"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Emil.Lee@sxmparliament.org"
-        }
-      ],
-      "email": "Emil.Lee@sxmparliament.org",
-      "id": "1fa9aa1f-2605-4049-a13b-728fa1759201",
-      "image": "http://www.sxmparliament.org/images/lee.jpg",
-      "images": [
-        {
-          "url": "http://www.sxmparliament.org/images/lee.jpg"
-        }
-      ],
-      "name": "Emil Lee"
     },
     {
       "contact_details": [
@@ -122,6 +122,23 @@
         }
       ],
       "name": "Frans G. Richardson"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "claude.peterson@sxmparliament.org"
+        }
+      ],
+      "email": "claude.peterson@sxmparliament.org",
+      "id": "80b21c5a-df93-4161-a9d3-07767893eb41",
+      "image": "http://www.sxmparliament.org/images/cpeterson.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/cpeterson.jpg"
+        }
+      ],
+      "name": "Claude A.H. Peterson"
     },
     {
       "contact_details": [
@@ -399,23 +416,6 @@
         }
       ],
       "name": "Tamara E. Leonard"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Wycliffe.Smith@sxmparliament.org"
-        }
-      ],
-      "email": "Wycliffe.Smith@sxmparliament.org",
-      "id": "e3f039f2-5cba-4e9d-b914-f4e8bc1e2698",
-      "image": "http://www.sxmparliament.org/images/MPW.-Smith.jpg",
-      "images": [
-        {
-          "url": "http://www.sxmparliament.org/images/MPW.-Smith.jpg"
-        }
-      ],
-      "name": "Wycliffe S. Smith"
     },
     {
       "contact_details": [
@@ -1681,6 +1681,18 @@
   },
   "memberships": [
     {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "united_democrats",
+      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
+      "person_id": "0052ac20-477d-46be-b3a4-7d28454c2c75",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "national_alliance",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
@@ -1697,18 +1709,6 @@
       "on_behalf_of_id": "national_alliance",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
       "person_id": "07e9d8c9-b8f2-47a7-8b14-13971fa3c249",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "united_democrats",
-      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
-      "person_id": "1fa9aa1f-2605-4049-a13b-728fa1759201",
       "role": "member",
       "sources": [
         {
@@ -1817,6 +1817,18 @@
       "on_behalf_of_id": "united_st._maarten_party",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
       "person_id": "7a7ad9ee-a59d-4cfb-a39f-8feadf9e2621",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "sint_maarten_christian_party",
+      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
+      "person_id": "80b21c5a-df93-4161-a9d3-07767893eb41",
       "role": "member",
       "sources": [
         {
@@ -2093,18 +2105,6 @@
       "on_behalf_of_id": "united_peoples_party",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
       "person_id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "sint_maarten_christian_party",
-      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
-      "person_id": "e3f039f2-5cba-4e9d-b914-f4e8bc1e2698",
       "role": "member",
       "sources": [
         {
