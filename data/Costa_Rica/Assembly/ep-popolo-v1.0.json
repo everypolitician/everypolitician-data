@@ -259,17 +259,38 @@
       "gender": "female",
       "given_name": "CARMEN",
       "id": "1b67a327-5de6-4a9c-b4c0-cfb04cfeee8d",
+      "identifiers": [
+        {
+          "identifier": "Q40686080",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_quesada_santamaria.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_quesada_santamaria.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carmen_Quesada"
+        }
+      ],
       "name": "CARMEN QUESADA SANTAMARÍA",
       "other_names": [
         {
+          "name": "Carmen Quesada",
+          "note": "alternate"
+        },
+        {
           "name": "Carmen Quesada Santamaría",
           "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Carmen Quesada",
+          "note": "multilingual"
         }
       ],
       "sort_name": "QUESADA SANTAMARÍA, CARMEN"
@@ -334,19 +355,33 @@
         {
           "identifier": "112260846",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28501930",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_diaz_quintana.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ml_diaz_quintana.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Natalia_Díaz_Quintana.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Natalia_Díaz_Quintana"
         }
       ],
       "name": "NATALIA DÍAZ QUINTANA",
       "other_names": [
         {
+          "lang": "en",
           "name": "Natalia Díaz Quintana",
-          "note": "alternate"
+          "note": "multilingual"
         }
       ],
       "sort_name": "DÍAZ QUINTANA, NATALIA"
@@ -775,12 +810,22 @@
         {
           "identifier": "105270922",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28501929",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_vargas_corrales.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_vargas_corrales.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Humberto_Vargas_Corrales"
         }
       ],
       "name": "HUMBERTO VARGAS CORRALES",
@@ -979,6 +1024,7 @@
       "sort_name": "HERNÁNDEZ ÁLVAREZ, CARLOS ENRIQUE"
     },
     {
+      "birth_date": "1974-05-30",
       "contact_details": [
         {
           "type": "email",
@@ -994,12 +1040,49 @@
         {
           "identifier": "108820284",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q42685517",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/rc_alvarado_munoz.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/rc_alvarado_munoz.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Fabricio_Alvarado_Muñoz.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Fabricio_Alvarado_Muñoz"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Fabricio_Alvarado"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fabricio_Alvarado_Muñoz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fabricio_Alvarado"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fabricio_Alvarado"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fabricio_Alvarado"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Альварадо,_Фабрисио"
         }
       ],
       "name": "GERARDO FABRICIO ALVARADO MUÑOZ",
@@ -1007,11 +1090,52 @@
         {
           "name": "Gerardo Fabricio Alvarado Muñoz",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Fabricio Alvarado Muñoz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fabricio Gerardo Alvarado Muñoz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fabricio Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fabricio Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ファブリシオ・アルバラド・ムニョス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Fabricio Alvarado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Альварадо, Фабрисио",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Fabricio Alvarado Muñoz",
+          "note": "multilingual"
         }
       ],
       "sort_name": "ALVARADO MUÑOZ, GERARDO FABRICIO"
     },
     {
+      "birth_date": "1962-10-26",
       "contact_details": [
         {
           "type": "email",
@@ -1027,12 +1151,22 @@
         {
           "identifier": "742",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26996248",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/adc_redondo_poveda.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/adc_redondo_poveda.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Mario_Redondo_Poveda"
         }
       ],
       "name": "MARIO REDONDO POVEDA",
@@ -1155,6 +1289,7 @@
       "sort_name": "SOLÍS FALLAS, OTTÓN"
     },
     {
+      "birth_date": "1958",
       "contact_details": [
         {
           "type": "email",
@@ -1170,12 +1305,49 @@
         {
           "identifier": "244",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 3321 2692",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n90722721",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "33629246",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2857521",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_alvarez_desanti.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_alvarez_desanti.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Antonio_Álvarez_Desanti_dando_discurso_en_La_Florida_de_Hatillo.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Antonio_Álvarez_Desanti"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Álvarez_Desanti"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Antonio_Álvarez_Desanti"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antonio_Álvarez"
         }
       ],
       "name": "ANTONIO ÁLVAREZ DESANTI",
@@ -1197,15 +1369,35 @@
         {
           "identifier": "104710261",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20994938",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_mora_castellanos.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_mora_castellanos.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Patricia_Mora,_FA_-_Costa_Rica.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Patricia_Mora_Castellanos"
         }
       ],
       "name": "ANA PATRICIA MORA CASTELLANOS",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Patricia Mora Castellanos",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MORA CASTELLANOS, ANA PATRICIA"
     },
     {
@@ -1449,6 +1641,7 @@
       "sort_name": "CAMACHO LEIVA, JOSÉ FRANCISCO"
     },
     {
+      "birth_date": "1959-09-21",
       "contact_details": [
         {
           "type": "email",
@@ -1464,12 +1657,25 @@
         {
           "identifier": "203440441",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27786490",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_fallas_rodriguez.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_fallas_rodriguez.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Diputada_Ligia_Fallas_.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ligia_Fallas_Rodríguez"
         }
       ],
       "name": "LIGIA ELENA FALLAS RODRÍGUEZ",
@@ -1477,11 +1683,17 @@
         {
           "name": "Ligia Elena Fallas Rodríguez",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ligia Fallas Rodríguez",
+          "note": "multilingual"
         }
       ],
       "sort_name": "FALLAS RODRÍGUEZ, LIGIA ELENA"
     },
     {
+      "birth_date": "1973-02-24",
       "contact_details": [
         {
           "type": "email",
@@ -1497,15 +1709,39 @@
         {
           "identifier": "204830663",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17629697",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_araya_sibaja.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_araya_sibaja.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Edgardo_Vinicio_Araya_Sibaja.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Edgardo_Araya"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Edgardo_Araya_Sibaja"
         }
       ],
       "name": "EDGARDO VINICIO ARAYA SIBAJA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Edgardo Araya Sibaja",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ARAYA SIBAJA, EDGARDO VINICIO"
     },
     {
@@ -1536,6 +1772,7 @@
       "sort_name": "TREJOS SALAS, LORELLY"
     },
     {
+      "birth_date": "1948",
       "contact_details": [
         {
           "type": "email",
@@ -1551,12 +1788,29 @@
         {
           "identifier": "248",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16628613",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_piszk_feinzilber.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_piszk_feinzilber.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Sandra_Pizk_Feinzilber,_PLN_-_Costa_Rica.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sandra_Piszk_Feinzilber"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Sandra_Piszk_Feinzilber"
         }
       ],
       "name": "SANDRA PISZK FEINZILBER",
@@ -1628,6 +1882,10 @@
         {
           "identifier": "104410073",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28501766",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_ortiz_fabrega.jpg",
@@ -1636,11 +1894,22 @@
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_ortiz_fabrega.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rafael_Ortiz_Fábrega"
+        }
+      ],
       "name": "RAFAEL ÁNGEL ORTIZ FÁBREGA",
       "other_names": [
         {
           "name": "Rafael Ángel Ortiz Fábrega",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rafael Ortiz Fábrega",
+          "note": "multilingual"
         }
       ],
       "sort_name": "ORTIZ FÁBREGA, RAFAEL ÁNGEL"
@@ -1661,12 +1930,22 @@
         {
           "identifier": "110230742",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28501928",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_vargas_rojas.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/usc_vargas_rojas.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gerardo_Vargas_Rojas"
         }
       ],
       "name": "GERARDO VARGAS ROJAS",
@@ -1787,18 +2066,39 @@
         {
           "identifier": "104110109",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28501926",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_arguedas_mora.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_arguedas_mora.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jorge_Arguedas_Mora,_FA_-_Costa_Rica.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jorge_Arguedas_Mora"
         }
       ],
       "name": "JORGE ARTURO ARGUEDAS MORA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jorge Arguedas Mora",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ARGUEDAS MORA, JORGE ARTURO"
     },
     {
+      "birth_date": "1952-11-22",
       "contact_details": [
         {
           "type": "email",
@@ -1814,6 +2114,10 @@
         {
           "identifier": "700490709",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21005391",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_clark_clark.jpg",
@@ -1822,10 +2126,24 @@
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ln_clark_clark.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maureen_Clarke"
+        }
+      ],
       "name": "MAUREEN CECILIA CLARKE CLARKE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maureen Clarke",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "CLARKE CLARKE, MAUREEN CECILIA"
     },
     {
+      "birth_date": "1970-02-17",
       "contact_details": [
         {
           "type": "email",
@@ -1841,12 +2159,49 @@
         {
           "identifier": "808",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1017000603",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0003 5824 1918",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2012063880",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "083805117",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "206001580",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q8078836",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ase_lopez_arias.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ase_lopez_arias.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Oscarlopez.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Óscar_López_(politician)"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Óscar_Andrés_López_Arias"
         }
       ],
       "name": "ÓSCAR LÓPEZ",
@@ -1854,6 +2209,56 @@
         {
           "name": "Óscar Andrés López Arias",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Óscar López",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Óscar Andrés López Arias",
+          "note": "multilingual"
         }
       ],
       "sort_name": "LÓPEZ, ÓSCAR"
@@ -1930,6 +2335,7 @@
       "sort_name": "JIMÉNEZ VÁSQUEZ, NIDIA MARÍA"
     },
     {
+      "birth_date": "1960-09-12",
       "contact_details": [
         {
           "type": "email",
@@ -1945,12 +2351,22 @@
         {
           "identifier": "302420343",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27119680",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_vargas_varela.jpg",
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/fa_vargas_varela.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gerardo_Vargas_Varela"
         }
       ],
       "name": "GERARDO VARGAS VARELA",
