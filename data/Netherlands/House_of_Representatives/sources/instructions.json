@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/netherlands-tweede-kamer-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name, start_date"
+        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, name, party, start_date, end_date, id AS wikidata, 2017 AS term FROM data ORDER BY name, start_date"
       },
       "merge": {
         "incoming_field": "name",
