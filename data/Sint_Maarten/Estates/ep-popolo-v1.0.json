@@ -30,6 +30,23 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "Emil.Lee@sxmparliament.org"
+        }
+      ],
+      "email": "Emil.Lee@sxmparliament.org",
+      "id": "1fa9aa1f-2605-4049-a13b-728fa1759201",
+      "image": "http://www.sxmparliament.org/images/lee.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/lee.jpg"
+        }
+      ],
+      "name": "Emil Lee"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "ardwell.irion@sxmparliament.org"
         }
       ],
@@ -385,23 +402,6 @@
         }
       ],
       "email": "tamara.leonard@sxmparliament.org",
-      "id": "d52cea7a-b6f0-43e2-a7a5-a70a43953073",
-      "image": "http://www.sxmparliament.org/images/tamara.jpg",
-      "images": [
-        {
-          "url": "http://www.sxmparliament.org/images/tamara.jpg"
-        }
-      ],
-      "name": "Tamara E. Leonard"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tamara.leonard@sxmparliament.org"
-        }
-      ],
-      "email": "tamara.leonard@sxmparliament.org",
       "id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
       "identifiers": [
         {
@@ -416,6 +416,23 @@
         }
       ],
       "name": "Tamara E. Leonard"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Wycliffe.Smith@sxmparliament.org"
+        }
+      ],
+      "email": "Wycliffe.Smith@sxmparliament.org",
+      "id": "e3f039f2-5cba-4e9d-b914-f4e8bc1e2698",
+      "image": "http://www.sxmparliament.org/images/MPW.-Smith.jpg",
+      "images": [
+        {
+          "url": "http://www.sxmparliament.org/images/MPW.-Smith.jpg"
+        }
+      ],
+      "name": "Wycliffe S. Smith"
     },
     {
       "contact_details": [
@@ -1705,6 +1722,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "united_democrats",
+      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
+      "person_id": "1fa9aa1f-2605-4049-a13b-728fa1759201",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "national_alliance",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
@@ -2077,18 +2106,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "united_democrats",
-      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
-      "person_id": "d52cea7a-b6f0-43e2-a7a5-a70a43953073",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
-        }
-      ]
-    },
-    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "united_peoples_party",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
@@ -2105,6 +2122,30 @@
       "on_behalf_of_id": "united_peoples_party",
       "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
       "person_id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "united_democrats",
+      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
+      "person_id": "d587bb57-e29f-45e9-b3a0-112ec9e78fd2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sxmparliament.org/organization/members-of-parliament.html"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "sint_maarten_christian_party",
+      "organization_id": "9501bf4e-e6e6-4c06-811f-e7277c4f7c60",
+      "person_id": "e3f039f2-5cba-4e9d-b914-f4e8bc1e2698",
       "role": "member",
       "sources": [
         {
