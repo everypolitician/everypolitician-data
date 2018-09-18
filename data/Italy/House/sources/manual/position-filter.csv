@@ -1,23 +1,159 @@
-id,label,description,type
-Q796897,Prime Minister of Italy,head of government of the Italian Republic,cabinet
-Q27447034,Minister without portfolio,,cabinet
-Q27795992,Minister of Health,Italian minister,cabinet
-Q27999166,Minister for Parliamentary Relations,member of the Cabinet of the Italian Republic,cabinet
-Q658082,Minister of Agriculture,position,cabinet
-Q1538785,Minister of Defence,,cabinet
-Q28002382,Minister of Economy and Finance,,cabinet
-Q3721646,Minister of Education,,cabinet
-Q6092842,Minister of Infrastructures,,cabinet
-Q28000241,Minister of Labour and Social Affairs,,cabinet
-Q27999438,Minister of Transports,,cabinet
-Q6092845,Minister of Transports and Infrastructures,member of the Cabinet of the Italian Republic,cabinet
-Q1541071,Minister of the Interior,position,cabinet
-Q28002426,Minister of Cultural Heritage and Activities and Tourism,,cabinet
-Q25514257,Minister of Communications,Italian minister,cabinet
-Q27991508,Minister of Economic Development,Italian minister,cabinet
-Q23554157,Minister of Federal Reforms,Italian cabinet position,cabinet
-Q27991492,Minister of Foreign Affairs,Italian minister,cabinet
-Q25973167,Minister of Justice,Italian minister,cabinet
-Q26912078,minister of Air Force,,cabinet
-Q26877839,minister of War,,cabinet
-Q26877879,minister of the Navy,,cabinet
+id,label,type
+Q1538785,Italian Minister of Defence,cabinet
+Q1541071,Italian Minister of the Interior,cabinet
+Q25514257,Minister of Communications,cabinet
+Q25973167,Minister of Justice,cabinet
+Q26243819,minister of Interior of the Kingdom of Italy,cabinet
+Q26248695,minister of Foreign Affairs of the Kingdom of Italy,cabinet
+Q26277644,minister of Public Works of the Kingdom of Italy,cabinet
+Q26305375,minister of Justice of the Kingdom of Italy,cabinet
+Q26877839,minister of War of Italy,cabinet
+Q26877879,minister of the Navy of Italy,cabinet
+Q26912078,minister of Air Force of Italy,cabinet
+Q27016755,minister of Posts and Telegraphs of the Kingdom of Italy,cabinet
+Q27132767,minister of Posts and Telecommunications of the Kingdom of Italy,cabinet
+Q27136261,minister of Transports of the Kingdom of Italy,cabinet
+Q27447034,Italian Minister without Portfolio,cabinet
+Q27795992,Health minister,cabinet
+Q27991492,Minister of Foreign Affairs,cabinet
+Q27991508,Minister of Economic Development,cabinet
+Q27999166,Italian Minister for Parliamentary Relations,cabinet
+Q27999438,Italian Minister of Transports,cabinet
+Q28000241,Italian Minister of Labour and Social Affairs,cabinet
+Q28002382,Italian Minister of Economy and Finance,cabinet
+Q28002426,Italian Minister of Cultural Heritage and Activities and Tourism,cabinet
+Q28798091,minister of Italian Africa of the Kingdom of Italy,cabinet
+Q28798093,minister of Italian Africa,cabinet
+Q28800592,minister of Agriculture and Forests of the Kingdom of Italy,cabinet
+Q32137240,Q32137240,cabinet
+Q33159467,minister without portfolio of the Kingdom of Italy,cabinet
+Q33159789,Vicepresident of the Council of Ministers of the Kingdom of Italy,cabinet
+Q33203558,minister of Reconstruction of the Kingdom of Italy,cabinet
+Q33205038,"minister of Industry, Trade and Labor of the Kingdom of Italy",cabinet
+Q33205067,minister of Labor and Social Security of the Kingdom of Italy,cabinet
+Q34153264,Minister of Education,cabinet
+Q34196845,Q34196845,cabinet
+Q3721646,"Minister of Education, Universities and Research",cabinet
+Q37991547,minister of Post-war Assistance of the Kingdom of Italy,cabinet
+Q37991886,minister of Post-war Assistance of Italy,cabinet
+Q37993558,minister for Constituent Assembly of the Kingdom of Italy,cabinet
+Q37993567,minister for Foreign Trade of the Kingdom of Italy,cabinet
+Q37994042,minister for National Council of the Kingdom of Italy,cabinet
+Q3858501,italian minister,cabinet
+Q39415036,minister of Finance of the Kingdom of Italy,cabinet
+Q39415052,minister of Treasury of the Kingdom of Italy,cabinet
+Q39418258,minister of Agriculture of the Kingdom of Italy,cabinet
+Q39421038,"minister of Industry, Trade and Labor of the Kingdom of Italy",cabinet
+Q39422981,minister of Industry and Trade of the Kingdom of Italy,cabinet
+Q4011164,Vice President of the Council of Ministers of Italy,cabinet
+Q54868717,Italian Minister of Regional Affairs,cabinet
+Q54869040,Q54869040,cabinet
+Q54869264,Q54869264,cabinet
+Q54869579,Q54869579,cabinet
+Q54873257,Minister of Public Works,cabinet
+Q54879125,Q54879125,cabinet
+Q54879307,Q54879307,cabinet
+Q54879329,Q54879329,cabinet
+Q54888195,Minister of Justice,cabinet
+Q54960587,Q54960587,cabinet
+Q54961867,Q54961867,cabinet
+Q54987517,Q54987517,cabinet
+Q55024074,Q55024074,cabinet
+Q55024178,Q55024178,cabinet
+Q55024334,Q55024334,cabinet
+Q55024439,Q55024439,cabinet
+Q55044836,Q55044836,cabinet
+Q55044982,Q55044982,cabinet
+Q55045092,Q55045092,cabinet
+Q55045710,Minister of Foreign Affairs,cabinet
+Q55047686,Q55047686,cabinet
+Q55047856,Q55047856,cabinet
+Q55049421,Q55049421,cabinet
+Q55050744,Minister of Health,cabinet
+Q55052684,Q55052684,cabinet
+Q55052973,Q55052973,cabinet
+Q55053092,Q55053092,cabinet
+Q55053206,Q55053206,cabinet
+Q55053641,Q55053641,cabinet
+Q55054042,Q55054042,cabinet
+Q55065121,Q55065121,cabinet
+Q55065187,Q55065187,cabinet
+Q55065260,Q55065260,cabinet
+Q55074598,Q55074598,cabinet
+Q55074630,Q55074630,cabinet
+Q55074645,Q55074645,cabinet
+Q55074659,Q55074659,cabinet
+Q55074783,Q55074783,cabinet
+Q55074845,Q55074845,cabinet
+Q55074952,Q55074952,cabinet
+Q55075011,Q55075011,cabinet
+Q55075086,Q55075086,cabinet
+Q55075128,Q55075128,cabinet
+Q55075202,Q55075202,cabinet
+Q55075231,Q55075231,cabinet
+Q55075420,Q55075420,cabinet
+Q55075659,Q55075659,cabinet
+Q55075675,Q55075675,cabinet
+Q55075697,Q55075697,cabinet
+Q55075783,Q55075783,cabinet
+Q55075878,Q55075878,cabinet
+Q55075924,Q55075924,cabinet
+Q55075938,Q55075938,cabinet
+Q55076107,Q55076107,cabinet
+Q55076371,Q55076371,cabinet
+Q55076432,Q55076432,cabinet
+Q55076476,Q55076476,cabinet
+Q55076533,Q55076533,cabinet
+Q55087291,Q55087291,cabinet
+Q55087428,Q55087428,cabinet
+Q55087463,Q55087463,cabinet
+Q55087555,Q55087555,cabinet
+Q55088865,Q55088865,cabinet
+Q55089041,Q55089041,cabinet
+Q55096361,Q55096361,cabinet
+Q55096403,Q55096403,cabinet
+Q55096476,Q55096476,cabinet
+Q55096500,Q55096500,cabinet
+Q55096536,Q55096536,cabinet
+Q55096558,Q55096558,cabinet
+Q55096581,Q55096581,cabinet
+Q55096606,Q55096606,cabinet
+Q55110413,Q55110413,cabinet
+Q55110543,Q55110543,cabinet
+Q55110776,Q55110776,cabinet
+Q55121922,Q55121922,cabinet
+Q55121936,Q55121936,cabinet
+Q55121949,Q55121949,cabinet
+Q55140023,Q55140023,cabinet
+Q55167536,Q55167536,cabinet
+Q55167613,Q55167613,cabinet
+Q55168089,Q55168089,cabinet
+Q55168483,Q55168483,cabinet
+Q55169473,Q55169473,cabinet
+Q55169655,Q55169655,cabinet
+Q55169764,Q55169764,cabinet
+Q55178071,Q55178071,cabinet
+Q55178246,Q55178246,cabinet
+Q55178969,Q55178969,cabinet
+Q55200191,Q55200191,cabinet
+Q55220512,Q55220512,cabinet
+Q55231006,Q55231006,cabinet
+Q55286963,Q55286963,cabinet
+Q55287040,Q55287040,cabinet
+Q55287058,Q55287058,cabinet
+Q55290247,Q55290247,cabinet
+Q55311871,Q55311871,cabinet
+Q55311907,Q55311907,cabinet
+Q55311945,Q55311945,cabinet
+Q55313151,Q55313151,cabinet
+Q55316964,Q55316964,cabinet
+Q55341394,Q55341394,cabinet
+Q55360938,Q55360938,cabinet
+Q55361002,Q55361002,cabinet
+Q55410642,Q55410642,cabinet
+Q55410772,Q55410772,cabinet
+Q55411578,Q55411578,cabinet
+Q55411874,Q55411874,cabinet
+Q6092842,Italian Minister of Infrastructures,cabinet
+Q6092845,Italian Minister of Transports and Infrastructures,cabinet
+Q658082,Italian Minister of Agriculture,cabinet
