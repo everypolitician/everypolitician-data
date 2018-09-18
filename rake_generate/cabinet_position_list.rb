@@ -20,7 +20,7 @@ namespace :generate do
     abort 'No cabinet set for this country' unless c_json[:cabinet]
 
     position_query = <<~SPARQL
-      SELECT ?item ?itemLabel WHERE {
+      SELECT DISTINCT ?item ?itemLabel WHERE {
         ?item wdt:P279* wd:Q83307 ; wdt:P361 wd:#{c_json[:cabinet]}.
         SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
         # date = #{Time.now}
