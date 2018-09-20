@@ -80,6 +80,7 @@
     },
     {
       "birth_date": "1944-10-11",
+      "death_date": "2018-08-10",
       "family_name": "McKiernan",
       "gender": "male",
       "given_name": "Jim",
@@ -1236,6 +1237,12 @@
     },
     {
       "birth_date": "1963-07-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MehreenFaruqi"
+        }
+      ],
       "family_name": "Faruqi",
       "gender": "female",
       "given_name": "Mehreen",
@@ -1260,6 +1267,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mehreen_Faruqi"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MehreenFaruqi"
         }
       ],
       "name": "Mehreen Faruqi",
@@ -2266,6 +2277,10 @@
         {
           "type": "email",
           "value": "senator.dodson@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorDodson"
         }
       ],
       "email": "senator.dodson@aph.gov.au",
@@ -2344,6 +2359,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pat_Dodson"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorDodson"
         }
       ],
       "name": "Patrick Dodson",
@@ -2595,13 +2614,38 @@
       "name": "John Morris",
       "other_names": [
         {
+          "lang": "ca",
+          "name": "John Meirion Morris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "John Meirion Morris",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "John Meirion Morris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "John Meirion Morris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
           "name": "John Meirion Morris",
           "note": "multilingual"
         },
         {
           "lang": "ru",
           "name": "Джон Моррис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "John Meirion Morris",
           "note": "multilingual"
         }
       ],
@@ -4920,6 +4964,10 @@
         {
           "type": "email",
           "value": "senator.keneally@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "KKeneally"
         }
       ],
       "email": "senator.keneally@aph.gov.au",
@@ -4995,6 +5043,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorKeneally"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KKeneally"
         }
       ],
       "name": "Kristina Keneally",
@@ -8092,6 +8144,10 @@
         {
           "type": "email",
           "value": "senator.anning@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "fraser_anning"
         }
       ],
       "email": "senator.anning@aph.gov.au",
@@ -8117,6 +8173,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Fraser_Anning"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/fraser_anning"
         }
       ],
       "name": "Fraser Anning",
@@ -8323,7 +8383,11 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "nla.party-540409",
+          "identifier": "35584368",
+          "scheme": "nla"
+        },
+        {
+          "identifier": "540409",
           "scheme": "nlatrove"
         },
         {
@@ -12235,6 +12299,12 @@
     },
     {
       "birth_date": "1982-10-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "stoker_aj"
+        }
+      ],
       "family_name": "Stoker",
       "gender": "female",
       "given_name": "Amanda",
@@ -12257,6 +12327,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Amanda_Stoker"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/stoker_aj"
         }
       ],
       "name": "Amanda Stoker",
@@ -14790,6 +14864,10 @@
         {
           "type": "email",
           "value": "senator.martin@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "Senator_Steve"
         }
       ],
       "email": "senator.martin@aph.gov.au",
@@ -14815,6 +14893,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Steve_Martin_(Australian_politician)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Senator_Steve"
         }
       ],
       "name": "Steve Martin",
@@ -15149,6 +15231,10 @@
         {
           "type": "email",
           "value": "senator.david.smith@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenDaveSmith"
         }
       ],
       "email": "senator.david.smith@aph.gov.au",
@@ -15174,6 +15260,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/David_Smith_(Australian_Capital_Territory_politician)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenDaveSmith"
         }
       ],
       "name": "David Smith",
@@ -18764,6 +18854,12 @@
         {
           "lang": "en",
           "name": "The Liberal National Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Queensland Liberal National Party",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
