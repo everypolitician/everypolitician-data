@@ -306,10 +306,22 @@
     {
       "gender": "male",
       "id": "0202adac-c3f0-4f3a-8e2b-c25710414e92",
+      "identifiers": [
+        {
+          "identifier": "Q48871959",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/193066.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/193066.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Wilson_Beserra"
         }
       ],
       "name": "WILSON BESERRA"
@@ -8608,15 +8620,36 @@
       "name": "PAULO RUBEM SANTIAGO"
     },
     {
+      "birth_date": "1953-02-27",
       "gender": "male",
+      "given_name": "Flávio",
       "id": "3c6e4c73-27e8-4d1e-916a-a4f25e96e43f",
+      "identifiers": [
+        {
+          "identifier": "Q23892824",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/191923.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/191923.jpg"
         }
       ],
-      "name": "FLAVIO NOGUEIRA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Flávio_Rodrigues_Nogueira"
+        }
+      ],
+      "name": "FLAVIO NOGUEIRA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Flávio Rodrigues Nogueira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-08-18",
@@ -11764,15 +11797,35 @@
       "name": "COSTA FERREIRA"
     },
     {
+      "birth_date": "1949-08-27",
       "gender": "male",
       "id": "512bfb85-5c5a-40c3-9937-0567440eebfa",
+      "identifiers": [
+        {
+          "identifier": "Q43192683",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/73831.jpg"
         }
       ],
-      "name": "TAMPINHA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/José_Augusto_da_Silva_Curvo"
+        }
+      ],
+      "name": "TAMPINHA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "José Augusto Curvo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-01-29",
@@ -12711,6 +12764,10 @@
         {
           "identifier": "5830829",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q48871817",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/181316.jpg",
@@ -12719,7 +12776,24 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/181316.jpg"
         }
       ],
-      "name": "ELIZEU DIONIZIO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Elizeu_Dionizio"
+        }
+      ],
+      "name": "ELIZEU DIONIZIO",
+      "other_names": [
+        {
+          "name": "Elizeu Dionízio",
+          "note": "alternate"
+        },
+        {
+          "lang": "pt",
+          "name": "Elizeu Dionízio",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1940-04-23",
