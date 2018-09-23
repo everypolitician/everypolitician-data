@@ -14,7 +14,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/ni-assembly-members",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, image, id AS identifier__aims FROM data ORDER BY id"
       },
       "merge": {
         "incoming_field": "name",
