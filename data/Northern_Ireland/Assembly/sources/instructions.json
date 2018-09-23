@@ -10,6 +10,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/aims.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/ni-assembly-members",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/aims.csv"
+      },
+      "source": "http://http://data.niassembly.gov.uk/",
+      "type": "person"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
