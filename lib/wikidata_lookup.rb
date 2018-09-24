@@ -52,6 +52,7 @@ class WikidataLookup
 
   def fields_for(result)
     return {} unless result
+
     {
       identifiers: [
         {
@@ -112,6 +113,7 @@ class P39sLookup < WikidataLookup
 
   def p39s(result)
     return nil if (p39s = result.P39s).empty?
+
     p39s.map do |posn|
       qualifiers = posn.qualifiers
       qual_data  = Hash[qualifiers.properties.map do |p|

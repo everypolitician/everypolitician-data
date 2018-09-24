@@ -29,6 +29,7 @@ module Source
     # TODO: add 'reject' and more complex expressions
     def as_table
       return raw_table unless i(:filter)
+
       filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
       @as_table ||= raw_table.select { |row| filter.call(row) }
     end

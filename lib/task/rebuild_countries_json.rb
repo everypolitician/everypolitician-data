@@ -42,6 +42,7 @@ module Task
     def countries
       return all_countries if to_build.to_s.empty?
       raise "Couldn't find the country '#{to_build}'" if matching.empty?
+
       matching
     end
 
@@ -54,6 +55,7 @@ module Task
     # of every country directory
     def commit_path
       return ['data'] if to_build.to_s.empty?
+
       countries.flat_map(&:legislatures).map { |l| 'data/' + l.directory }
     end
 

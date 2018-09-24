@@ -1,4 +1,3 @@
-
 # frozen_string_literal: true
 
 class StatsFile
@@ -108,6 +107,7 @@ class StatsFile
 
   def cabinet_positions
     return 0 unless position_file.file?
+
     posns = CSV.table(position_file)
     posns.select { |r| r[:type] == 'cabinet' }.count rescue 0
   end

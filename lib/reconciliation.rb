@@ -36,6 +36,7 @@ class Reconciler
   def reconciliation_data
     raise generate_interface! if triggered?
     raise "No reconciliation data. Rerun with GENERATE_RECONCILIATION_INTERFACE=#{trigger_name}" if previously_reconciled.empty?
+
     previously_reconciled
   end
 

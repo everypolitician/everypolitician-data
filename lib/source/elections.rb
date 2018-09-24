@@ -18,6 +18,7 @@ module Source
                   [data[:dates]]
                 ).flatten.compact.sort
         next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
+
         {
           id:             id,
           name:           name[:name],

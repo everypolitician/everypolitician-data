@@ -18,6 +18,7 @@ module Source
 
       csv.each do |r|
         next unless winner = results[r[:uuid]]
+
         gb_score += 1
 
         # if our results are different from another source

@@ -71,6 +71,7 @@ module Reconciliation
     # want to make this more cmomplex (e.g. accent folding)
     def comparable(str, field = nil)
       return if str.to_s.empty?
+
       if field == :twitter
         # Convert all the values to simple twitter-names
         return str.to_s.split(';').map do |h|

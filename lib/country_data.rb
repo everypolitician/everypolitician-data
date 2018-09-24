@@ -1,4 +1,3 @@
-
 # frozen_string_literal: true
 
 module Everypolitician
@@ -107,6 +106,7 @@ module Everypolitician
       def legislature
         orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
         raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
+
         orgs.first
       end
 

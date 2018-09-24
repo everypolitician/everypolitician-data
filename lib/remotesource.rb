@@ -16,6 +16,7 @@ class RemoteSource
     return RemoteSource::Wikidata::Group.new(instructions)    if c[:from] == 'group-wikidata'
     return RemoteSource::Wikidata::Raw.new(instructions)      if c[:from] == 'wikidata-raw'
     return RemoteSource::GenderBalance.new(instructions)      if c[:from] == 'gender-balance'
+
     raise "Don't know how to fetch #{instructions[:file]}"
   end
 

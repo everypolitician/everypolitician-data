@@ -11,6 +11,7 @@ class PositionMap
 
   def to_json
     return empty_filter unless pathname.exist?
+
     raw_json
   end
 

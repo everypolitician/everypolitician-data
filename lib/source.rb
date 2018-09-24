@@ -24,6 +24,7 @@ module Source
     def self.instantiate(instructions)
       raise "Missing `type` in #{instructions}" unless instructions.key? :type
       raise "Unknown file type: #{instructions[:type]}" unless klass = MAP[instructions[:type]]
+
       klass.new(instructions)
     end
 

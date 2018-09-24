@@ -41,6 +41,7 @@ class UuidMapFile
   def raw_csv
     return {} unless pathname.exist?
     return {} if (raw = pathname.read).empty?
+
     Rcsv.parse(raw, row_as_hash: true, columns: {})
   end
 end

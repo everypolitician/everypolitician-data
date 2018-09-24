@@ -22,6 +22,7 @@ module OCD
       def area_id_from_name(name)
         area = override(name) || find(name)
         return if area.nil?
+
         warn '  Matched Area %s to %s' % [name.yellow, area[:name].to_s.green] unless area[:name].include? " #{name} "
         area[:id]
       end
@@ -29,6 +30,7 @@ module OCD
       def override(name)
         override_id = overrides[name]
         return if override_id.nil?
+
         { name: name, id: override_id }
       end
 
