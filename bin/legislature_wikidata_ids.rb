@@ -18,6 +18,7 @@ end
 
 def wikidata_id(person)
   return if person[:identifiers].empty?
+
   (wd = person[:identifiers].find { |i| i[:scheme] == 'wikidata' }) || return
   wd[:identifier]
 end

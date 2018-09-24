@@ -11,6 +11,7 @@ end
 
 def percentage(numerator, denominator)
   return 0 if denominator.zero?
+
   numerator * 100.to_f / denominator
 end
 

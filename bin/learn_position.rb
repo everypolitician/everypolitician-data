@@ -28,6 +28,7 @@ section_for = lambda do |r|
   return json[:include][:executive] if res == 'Other Executive'
   return json[:include][:party] if res == 'Party'
   return json[:include][:other] if res == 'Other'
+
   raise "Unknown button: #{res}"
 end
 

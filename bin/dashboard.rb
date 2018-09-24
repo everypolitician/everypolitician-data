@@ -26,6 +26,7 @@ end
 data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
   statsfile = Pathname.new(l.raw_data[:popolo]).dirname + 'unstable/stats.json'
   raise "No statsfile for #{l.country.name}/#{l.name}" unless statsfile.exist?
+
   stats = JSON.parse(statsfile.read, symbolize_names: true)
 
   now = Time.now.to_date
