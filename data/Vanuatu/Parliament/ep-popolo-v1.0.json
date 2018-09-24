@@ -701,6 +701,12 @@
     },
     {
       "birth_date": "1970-09-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RRegenvanu"
+        }
+      ],
       "gender": "male",
       "given_name": "Ralph",
       "id": "69f95e80-2f2c-44d2-b61f-55c1f2ae64c2",
@@ -743,6 +749,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Регенвану,_Ральф"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RRegenvanu"
         }
       ],
       "name": "Ralph Regenvanu",
@@ -755,6 +765,11 @@
         {
           "lang": "la",
           "name": "Radulphus Regenvanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Регенвану, Ральф",
           "note": "multilingual"
         }
       ]
@@ -3202,6 +3217,12 @@
         {
           "lang": "en",
           "name": "Nagriamel",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "«NaGriamel»",
           "note": "multilingual",
           "source": "wikidata-label"
         }
