@@ -14,6 +14,7 @@ require_rel 'lib'
 
 def json_load(file)
   raise "No such file #{file}" unless File.exist? file
+
   JSON.parse(File.read(file), symbolize_names: true)
 end
 

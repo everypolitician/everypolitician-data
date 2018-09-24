@@ -1,4 +1,3 @@
-
 # frozen_string_literal: true
 
 # We take various steps to convert all the incoming data into the output
@@ -80,6 +79,7 @@ end
 
 def json_load(file)
   raise "No such file #{file}" unless File.exist? file
+
   JSON.parse(File.read(file), symbolize_names: true)
 end
 
