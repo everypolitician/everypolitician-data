@@ -89,11 +89,30 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
+  # Don't include term end dates until they actually happen
+  #---------------------------------------------------------------------
+  task write: :no_future_end_dates
+  task no_future_end_dates: :merge_termfile do
+    today = Date.today
+    @json[:events].select { |e| e[:classification] == 'legislative period' }.each do |t|
+      next unless t[:end_date]
+
+      if t[:end_date].length == 4
+        warn "Imprecise end date (#{t[:end_date]}) for term #{t[:name]}"
+        t.delete :end_date unless t[:end_date].to_i < today.year.to_i
+      else
+        d = Date.parse(t[:end_date]) rescue nil
+        t.delete :end_date unless d && d < Date.today
+      end
+    end
+  end
+
+  #---------------------------------------------------------------------
   # Don't duplicate start/end dates into memberships needlessly
   #   and ensure they're within the term
   #---------------------------------------------------------------------
   task write: :tidy_memberships
-  task tidy_memberships: :merge_termfile do
+  task tidy_memberships: :no_future_end_dates do
     @json[:memberships].each do |m|
       abort "No 'term' in #{m}" if m[:legislative_period_id].to_s.empty?
       e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a known term (in #{m})"
