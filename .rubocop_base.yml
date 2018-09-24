@@ -60,6 +60,8 @@ Style/TrailingCommaInArrayLiteral:
 # for the tests.
 Metrics/BlockLength:
   Max: 10
+  ExcludedMethods:
+    - 'namespace'
   Exclude:
     - 'spec/**/*'
     - 't/**/*'
