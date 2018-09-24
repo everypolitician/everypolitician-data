@@ -14,6 +14,7 @@ class String
   # from csv-to-popolo
   def idify
     return if to_s.empty?
+
     downcase.gsub(/\s+/, '_')
   end
 end
