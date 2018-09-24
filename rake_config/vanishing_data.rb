@@ -24,6 +24,7 @@ class SourceCSV
   def grouped
     # TODO: have an option to group by some other column
     raise 'No ID column in data' unless as_csv.headers.include? :id
+
     @grouped ||= as_csv.group_by { |r| r[:id] }
   end
 end
