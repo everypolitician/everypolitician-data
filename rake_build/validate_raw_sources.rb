@@ -1,4 +1,3 @@
-
 # frozen_string_literal: true
 
 # Ensure that all the source CSV files are well-formed

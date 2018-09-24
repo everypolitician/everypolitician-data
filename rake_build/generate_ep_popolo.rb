@@ -34,6 +34,7 @@ namespace :transform do
 
     legis = @json[:organizations].select { |h| h[:classification] == 'legislature' }
     raise "Legislature count = #{legis.count}" unless legis.count == 1
+
     @legislature = legis.first
 
     # Remake 'chamber' memberships to the full legislature
@@ -51,6 +52,7 @@ namespace :transform do
   task write: :name_legislature
   task name_legislature: :ensure_legislature do
     raise 'No meta.json file available' unless File.exist? 'meta.json'
+
     meta_info = json_load('meta.json')
     @legislature.merge! meta_info
     if @legislature.key?(:wikidata)
@@ -169,6 +171,7 @@ namespace :transform do
     remap = Hash[GENDER_MAP.flat_map { |k, vs| vs.map { |v| [v, k] } }]
     @json[:persons].each do |p|
       next if p[:gender].to_s.empty?
+
       p[:gender] = remap[p[:gender].downcase.strip] || raise("Unknown gender: #{p[:gender]}")
     end
   end

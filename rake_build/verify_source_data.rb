@@ -31,6 +31,7 @@ namespace :verify do
           # warn_once.("Short #{d} in #{r}", [d, r[:uuid]])
           next
         end
+
         abort "Badly formatted #{d} (#{r[d]}) in #{r}" unless r[d] =~ /^\d{4}-\d{2}-\d{2}$/
         parsed_date = Date.parse(r[d]) rescue 'broken'
         abort "Invalid #{d} in #{r}" unless parsed_date.to_s == r[d]

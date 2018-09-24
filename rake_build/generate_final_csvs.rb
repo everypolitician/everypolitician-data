@@ -20,6 +20,7 @@ namespace :term_csvs do
 
       # TODO: make this a separate task
       next unless term.id == terms.last.id
+
       latest = Pathname.new('unstable/latest.csv')
       today = Date.today.iso8601
       csv = CSV.table(path).delete_if { |r| r[:end_date] && r[:end_date] < today }.tap do |t|
@@ -39,6 +40,7 @@ namespace :term_csvs do
                              .take(5)
                              .map { |i, is| [i, is.count] }
     next unless top_identifiers.any?
+
     warn "\nTop identifiers:"
     top_identifiers.each { |i, c| warn "  #{c} x #{i}" }
     warn "\n"

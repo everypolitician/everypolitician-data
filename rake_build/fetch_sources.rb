@@ -24,6 +24,7 @@ namespace :fetch_sources do
   def _should_refetch(file)
     return true unless file.exist?
     return false unless ENV['REBUILD_SOURCE']
+
     file.to_s.include? ENV['REBUILD_SOURCE']
   end
 end
