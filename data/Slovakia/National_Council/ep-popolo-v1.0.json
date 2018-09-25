@@ -12081,12 +12081,22 @@
         {
           "identifier": "54d2a723273a394ad5dbb886",
           "scheme": "parldata"
+        },
+        {
+          "identifier": "Q55499066",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://files.parldata.eu/sk/nrsr/people/54d2a723273a394ad5dbb886/image.jpeg",
       "images": [
         {
           "url": "http://files.parldata.eu/sk/nrsr/people/54d2a723273a394ad5dbb886/image.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Stanislav_Fořt"
         }
       ],
       "name": "Stanislav Fořt",
@@ -19081,6 +19091,13 @@
     },
     {
       "birth_date": "1962-10-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "igor_federic@nrsr.sk"
+        }
+      ],
+      "email": "igor_federic@nrsr.sk",
       "family_name": "Federič",
       "gender": "male",
       "given_name": "Igor",
@@ -19789,10 +19806,26 @@
       "family_name": "Krajniak",
       "given_name": "Milan",
       "id": "a52e74ec-7b32-4461-adb0-82c5bd490c46",
+      "identifiers": [
+        {
+          "identifier": "Q54991677",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=920&ImageWidth=140",
       "images": [
         {
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=920&ImageWidth=140"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Milan_Krajniak"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Milan_Krajniak"
         }
       ],
       "name": "Milan Krajniak"
@@ -23366,10 +23399,22 @@
       "family_name": "Mazurek",
       "given_name": "Milan",
       "id": "c60d09ee-fe10-4120-bf16-8e0589c37d1c",
+      "identifiers": [
+        {
+          "identifier": "Q55376476",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=975&ImageWidth=140",
       "images": [
         {
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=975&ImageWidth=140"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Milan_Mazurek"
         }
       ],
       "name": "Milan Mazurek"
@@ -23714,10 +23759,22 @@
       "family_name": "Kotleba",
       "given_name": "Martin",
       "id": "c8e7ebe5-434b-478c-afa6-1a4a15e502fa",
+      "identifiers": [
+        {
+          "identifier": "Q55281161",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=949&ImageWidth=140",
       "images": [
         {
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=949&ImageWidth=140"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Martin_Kotleba"
         }
       ],
       "name": "Martin Kotleba"
@@ -24904,26 +24961,6 @@
       "name": "Anton Hoffmann",
       "national_identity": "slovenská",
       "sort_name": "Hoffmann, Anton"
-    },
-    {
-      "birth_date": "1962-10-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "igor_federic@nrsr.sk"
-        }
-      ],
-      "email": "igor_federic@nrsr.sk",
-      "family_name": "Federič",
-      "given_name": "Igor",
-      "id": "d4c4d844-0acd-4394-bcc2-1a63940eabb2",
-      "image": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=256&ImageWidth=140",
-      "images": [
-        {
-          "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=256&ImageWidth=140"
-        }
-      ],
-      "name": "Igor Federič"
     },
     {
       "birth_date": "1940-09-10",
@@ -57003,6 +57040,19 @@
       "start_date": "2012-04-04"
     },
     {
+      "area_id": "bratislavský",
+      "legislative_period_id": "term/7",
+      "on_behalf_of_id": "smer_–_sociálna_demokracia",
+      "organization_id": "31622b07-7f1b-4639-8cb7-adc8dc6faa49",
+      "person_id": "9ec5b6d1-40d1-4485-ba4a-5b6a8ce709d6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=256&CisObdobia=7"
+        }
+      ]
+    },
+    {
       "end_date": "2009-05-20",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "29",
@@ -60776,19 +60826,6 @@
         }
       ],
       "start_date": "2001-02-06"
-    },
-    {
-      "area_id": "bratislavský",
-      "legislative_period_id": "term/7",
-      "on_behalf_of_id": "smer_–_sociálna_demokracia",
-      "organization_id": "31622b07-7f1b-4639-8cb7-adc8dc6faa49",
-      "person_id": "d4c4d844-0acd-4394-bcc2-1a63940eabb2",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.nrsr.sk/web/Default.aspx?sid=poslanci/poslanec&PoslanecID=256&CisObdobia=7"
-        }
-      ]
     },
     {
       "end_date": "1998-10-28",
