@@ -1,4 +1,20 @@
 {
+  "Q381029": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q1723031",
+      "label": "Prime Minister of Portugal",
+      "title": "Prime Minister of Portugal"
+    },
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q64688": [
     {
       "id": "Q29885524",
@@ -12,6 +28,19 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q357932": [
+    {
+      "id": "Q1723031",
+      "label": "Prime Minister of Portugal",
+      "title": "Prime Minister of Portugal"
+    },
+    {
+      "id": "Q4294919",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Portuguese minister"
     }
   ],
   "Q10347591": [
@@ -140,12 +169,39 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q1237519": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament"
+    }
+  ],
   "Q4576565": [
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q3116195": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P582": "2012",
+        "P580": "1999",
+        "P1366": "Inês Zuber"
+      }
     },
     {
       "id": "Q19953703",
@@ -327,6 +383,20 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q3186473": [
+    {
+      "id": "Q43186489",
+      "label": "Minister of Justice (Portugal)",
+      "title": "Minister of Justice (Portugal)",
+      "qualifiers": {
+        "P580": "1981-01-09",
+        "P582": "1983-06-09",
+        "P361": null,
+        "P1365": "Mário Raposo",
+        "P1366": "Rui Machete"
+      }
+    }
+  ],
   "Q4287613": [
     {
       "id": "Q27169",
@@ -372,6 +442,11 @@
         "P1365": "Paula Teixeira da Cruz",
         "P1366": "Francisca Van Dunem"
       }
+    }
+  ],
+  "Q10338246": [
+    {
+      "id": "Q43185266"
     }
   ],
   "Q10272128": [
@@ -712,6 +787,11 @@
         "P1365": "José Pedro Aguiar-Branco",
         "P1366": "Alberto Martins"
       }
+    }
+  ],
+  "Q10334395": [
+    {
+      "id": "Q43185266"
     }
   ],
   "Q10284519": [
@@ -1118,9 +1198,27 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q367010": [
+    {
+      "id": "Q43185266"
+    },
+    {
+      "id": "Q83307",
+      "label": "minister",
+      "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government"
+    }
+  ],
   "Q10310204": [
     {
       "id": "Q43185266"
+    }
+  ],
+  "Q529992": [
+    {
+      "id": "Q50362555",
+      "label": "Governor of the Bank of Portugal",
+      "title": "Governor of the Bank of Portugal"
     }
   ],
   "Q9207629": [
@@ -1137,6 +1235,75 @@
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
       "description": "person who has been elected to the European Parliament"
+    }
+  ],
+  "Q156781": [
+    {
+      "id": "Q1723031",
+      "label": "Prime Minister of Portugal",
+      "title": "Prime Minister of Portugal",
+      "qualifiers": {
+        "P580": "1983-06-09",
+        "P582": "1985-11-06",
+        "P1365": "Francisco Pinto Balsemão",
+        "P1366": "Aníbal Cavaco Silva",
+        "P1545": "105"
+      }
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q322459",
+      "label": "President of Portugal",
+      "title": "President of Portugal",
+      "description": "position",
+      "qualifiers": {
+        "P580": "1986-03-09",
+        "P582": "1996-03-09",
+        "P1365": "António Ramalho Eanes",
+        "P1366": "Jorge Sampaio",
+        "P1545": "17"
+      }
+    },
+    {
+      "id": "Q4294919",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Portuguese minister",
+      "qualifiers": {
+        "P580": "1977-10-12",
+        "P582": "1978-01-30"
+      }
+    },
+    {
+      "id": "Q1723031",
+      "label": "Prime Minister of Portugal",
+      "title": "Prime Minister of Portugal",
+      "qualifiers": {
+        "P580": "1976-07-23",
+        "P582": "1978-08-28",
+        "P1365": "José Baptista Pinheiro de Azevedo",
+        "P1366": "Alfredo Nobre da Costa"
+      }
+    },
+    {
+      "id": "Q4294919",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
+      "description": "Portuguese minister",
+      "qualifiers": {
+        "P580": "1974-05-15",
+        "P582": "1975-03-26",
+        "P1365": "National Salvation Junta",
+        "P1366": "Ernesto Melo Antunes"
+      }
+    },
+    {
+      "id": "Q43185266"
     }
   ],
   "Q10294464": [
@@ -1179,6 +1346,11 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q2891285": [
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q30934473": [
     {
       "id": "Q19953703",
@@ -1193,6 +1365,33 @@
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q7916430": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament"
+    },
+    {
+      "id": "Q43185266"
+    }
+  ],
+  "Q2857756": [
+    {
+      "id": "Q43185266"
+    }
+  ],
+  "Q5041861": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament"
+    },
+    {
+      "id": "Q43185266"
     }
   ],
   "Q9310612": [
@@ -1309,6 +1508,14 @@
       "description": "person who has been elected to the European Parliament"
     }
   ],
+  "Q4068708": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    }
+  ],
   "Q1340708": [
     {
       "id": "Q1837874",
@@ -1391,6 +1598,11 @@
       }
     }
   ],
+  "Q10308185": [
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q42297127": [
     {
       "id": "Q19953703",
@@ -1471,6 +1683,33 @@
       }
     }
   ],
+  "Q388965": [
+    {
+      "id": "Q19953703",
+      "label": "Member of the Assembly of the Republic",
+      "title": "Member of the Assembly of the Republic",
+      "description": "member of the Portuguese parliament"
+    },
+    {
+      "id": "Q43185266"
+    },
+    {
+      "id": "Q83307",
+      "label": "minister",
+      "title": "minister",
+      "description": "politician who holds significant public office in a national or regional government"
+    }
+  ],
+  "Q10300977": [
+    {
+      "id": "Q43185266"
+    }
+  ],
+  "Q10308915": [
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q10338219": [
     {
       "id": "Q27169",
@@ -1541,6 +1780,14 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q17420848": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    }
+  ],
   "Q3183843": [
     {
       "id": "Q19953703",
@@ -1555,6 +1802,11 @@
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q7404412": [
+    {
+      "id": "Q43185266"
     }
   ],
   "Q745134": [
@@ -1586,12 +1838,22 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q185771": [
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q10326209": [
     {
       "id": "Q19953703",
       "label": "Member of the Assembly of the Republic",
       "title": "Member of the Assembly of the Republic",
       "description": "member of the Portuguese parliament"
+    }
+  ],
+  "Q9618996": [
+    {
+      "id": "Q43185266"
     }
   ],
   "Q4777584": [
@@ -1701,6 +1963,36 @@
       "description": "member of the Portuguese parliament"
     }
   ],
+  "Q250919": [
+    {
+      "id": "Q1937160",
+      "label": "minister without portfolio",
+      "title": "minister without portfolio",
+      "description": "type of government minister",
+      "qualifiers": {
+        "P580": "1974-05-16",
+        "P582": "1975-08-08",
+        "P1366": "Jorge Campinos",
+        "P1365": ""
+      }
+    },
+    {
+      "id": "Q6501749",
+      "label": "general secretary",
+      "title": "general secretary (of Portuguese Communist Party)",
+      "description": "leader or chief officer of an organisation",
+      "qualifiers": {
+        "P642": "Portuguese Communist Party",
+        "P580": "1961-03-31",
+        "P582": "1992-12-05",
+        "P1365": "Bento António Gonçalves",
+        "P1366": "Carlos Carvalhas"
+      }
+    },
+    {
+      "id": "Q43185266"
+    }
+  ],
   "Q2857733": [
     {
       "id": "Q19953703",
@@ -1808,6 +2100,17 @@
         "P1268": "Social Democratic Party",
         "P2715": "European Parliament election, 2014"
       }
+    }
+  ],
+  "Q10308079": [
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament"
+    },
+    {
+      "id": "Q43185266"
     }
   ],
   "Q610788": [
