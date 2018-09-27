@@ -117,6 +117,7 @@ def popolo_write(pathname, json)
   json[:events] &&= json[:events].portable_sort_by { |e| [e[:start_date].to_s || '', e[:id].to_s] }
   json[:areas]  &&= json[:areas].portable_sort_by  { |a| [a[:id]] }
   json[:areas].each do |area|
+    area[:identifiers] &&= area[:identifiers].portable_sort_by { |i| [i[:scheme], i[:identifier]] }
     area[:other_names] &&= area[:other_names].portable_sort_by { |name| [name[:lang].to_s, name[:name]] }
   end
 
