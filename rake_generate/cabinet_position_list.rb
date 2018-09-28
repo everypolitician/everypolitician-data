@@ -16,7 +16,7 @@ end
 namespace :generate do
   desc 'Generate the list of cabinet positions'
   task :cabinet do
-    c_json = json_load('../meta.json')
+    c_json = json_load(COUNTRY_JSON)
     abort 'No cabinet set for this country' unless c_json[:cabinet]
 
     position_query = <<~SPARQL

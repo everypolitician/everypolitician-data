@@ -54,6 +54,8 @@ POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
 POPOLO_JSON  = Pathname.new('ep-popolo-v1.0.json')
+LEGISLATURE_META = Pathname.new('meta.json')
+COUNTRY_META  = Pathname.new('../meta.json')
 
 CLEAN.include MERGED_CSV
 CLEAN.include MERGED_JSON

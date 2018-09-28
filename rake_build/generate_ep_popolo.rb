@@ -51,9 +51,9 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :name_legislature
   task name_legislature: :ensure_legislature do
-    raise 'No meta.json file available' unless File.exist? 'meta.json'
+    raise 'No meta.json file available' unless LEGISLATURE_META.exist?
 
-    meta_info = json_load('meta.json')
+    meta_info = json_load(LEGISLATURE_META)
     @legislature.merge! meta_info
     if @legislature.key?(:wikidata)
       (@legislature[:identifiers] ||= []) << {

@@ -4,8 +4,6 @@ require 'colorize'
 require 'wikisnakker'
 require 'pathname'
 
-META = Pathname.new('meta.json')
-
 MAPPING = {
   'Q140247'  => 'unicameral legislature',
   'Q35749'   => 'unicameral legislature',
@@ -20,7 +18,7 @@ MAPPING = {
 desc 'Add classification to a legislature’s meta.json'
 namespace :legislature do
   task :classify do
-    info = json_load(META)
+    info = json_load(LEGISLATURE_META)
     abort " = #{info[:type]}" unless info[:type].to_s.empty?
     abort 'No wikidata!' unless info[:wikidata]
     legislature = Wikisnakker::Item.find(info[:wikidata])
@@ -31,6 +29,6 @@ namespace :legislature do
 
     info[:type] = found.last
     warn "  type set to #{info[:type]}"
-    META.write(JSON.pretty_generate(info))
+    LEGISLATURE_META.write(JSON.pretty_generate(info))
   end
 end
