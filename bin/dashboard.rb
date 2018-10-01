@@ -24,10 +24,19 @@ def percentage(numerator, denominator)
 end
 
 data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
-  statsfile = Pathname.new(l.raw_data[:popolo]).dirname + 'unstable/stats.json'
+  basedir = Pathname.new(l.raw_data[:popolo]).dirname
+  statsfile = basedir + 'unstable/stats.json'
   raise "No statsfile for #{l.country.name}/#{l.name}" unless statsfile.exist?
 
   stats = JSON.parse(statsfile.read, symbolize_names: true)
+
+  instructions_file = basedir + 'sources/instructions.json'
+  instructions = JSON.parse(instructions_file.read, symbolize_names: true)
+
+  mem_sources = instructions[:sources].select { |s| s[:type] == 'membership' }
+  createables = mem_sources.select { |s| s.key?(:create) }
+  p39_sources = createables.select { |c| c[:source].to_s.include? 'wikidata' }
+  puts "+++ #{l.country.name}" if p39_sources.any?
 
   now = Time.now.to_date
   last_build = Time.at(l.lastmod.to_i).to_date
@@ -56,6 +65,9 @@ data = EveryPolitician::Index.new.countries.map(&:lower_house).map do |l|
     twitter:         percentage(latest[:contacts][:twitter], latest[:count]),
     facebook:        percentage(latest[:contacts][:facebook], latest[:count]),
     cabinet:         stats[:positions][:cabinet],
+    mem_sources:     mem_sources.count,
+    live_sources:    createables.count,
+    p39_sources:     p39_sources.count,
   }
 end.flatten
 
