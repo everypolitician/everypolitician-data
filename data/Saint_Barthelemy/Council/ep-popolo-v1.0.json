@@ -639,13 +639,6 @@
       "start_date": "2007-07-01"
     },
     {
-      "classification": "legislative period",
-      "id": "term/2012",
-      "name": "2012–2017",
-      "organization_id": "ec10c5bd-512c-4494-a576-a6bc7ff44ca1",
-      "start_date": "2012"
-    },
-    {
       "classification": "general election",
       "end_date": "2012-03-18",
       "id": "Q3587562",
@@ -657,6 +650,33 @@
       ],
       "name": "Saint Barthélemy Territorial Council election, 2012",
       "start_date": "2012-03-18"
+    },
+    {
+      "classification": "legislative period",
+      "end_date": "2017-03-19",
+      "id": "term/2012",
+      "identifiers": [
+        {
+          "identifier": "Q3587562",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2012–2017",
+      "organization_id": "ec10c5bd-512c-4494-a576-a6bc7ff44ca1",
+      "start_date": "2012-03-18"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017-03-19",
+      "id": "Q30738023",
+      "identifiers": [
+        {
+          "identifier": "Q30738023",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Saint Barthélemy Territorial Council election, 2017",
+      "start_date": "2017-03-19"
     }
   ],
   "areas": [
