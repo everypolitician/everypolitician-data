@@ -9087,15 +9087,34 @@
       "sort_name": "ALEKSANDAR VUCIC"
     },
     {
-      "birth_date": "1985",
+      "birth_date": "1985-10-16",
+      "gender": "female",
+      "given_name": "Ivana",
       "id": "a6e41db9-3aa4-4ebb-8242-e5146e43f8d7",
       "identifiers": [
         {
           "identifier": "632",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29354562",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivana_Dinić"
         }
       ],
       "name": "IVANA DINIC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivana Dinić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "IVANA DINIC"
     },
     {
@@ -10890,33 +10909,6 @@
         }
       ],
       "sort_name": "ALEKSANDRA CABRAJA"
-    },
-    {
-      "birth_date": "1985-10-16",
-      "gender": "female",
-      "given_name": "Ivana",
-      "id": "c0cb3fa4-899c-47cb-9d4a-17821d1eca97",
-      "identifiers": [
-        {
-          "identifier": "Q29354562",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ivana_Dinić"
-        }
-      ],
-      "name": "IVANA DINIC",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ivana Dinić",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "IVANA DINIC"
     },
     {
       "birth_date": "1977-06-24",
@@ -18704,6 +18696,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "socialist_party_of_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "a6e41db9-3aa4-4ebb-8242-e5146e43f8d7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/IVANA_DINIC.632.488.html"
+        }
+      ],
+      "start_date": "2016-12-28"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "socialist_party_of_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -19461,19 +19466,6 @@
           "url": "http://www.parlament.gov.rs/ALEKSANDRA_CABRAJA.963.488.html"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "socialist_party_of_serbia",
-      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
-      "person_id": "c0cb3fa4-899c-47cb-9d4a-17821d1eca97",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parlament.gov.rs/IVANA_DINIC.632.488.html"
-        }
-      ],
-      "start_date": "2016-12-28"
     },
     {
       "legislative_period_id": "term/10",
