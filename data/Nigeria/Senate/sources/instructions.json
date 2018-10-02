@@ -22,7 +22,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "alternate_names",
-        "reconciliation_file": "reconciliation/shineyoureye.csv",
+        "reconciliation_file": "reconciliation/shineyoureye.csv"
       }
     },
     {
@@ -64,6 +64,6 @@
         "from": "group-wikidata",
         "source": "manual/group_wikidata.csv"
       }
-    },
+    }
   ]
 }
