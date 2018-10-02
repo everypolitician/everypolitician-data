@@ -3674,8 +3674,21 @@
         }
       ],
       "email": "muhammadinuwaa@gmail.com",
+      "gender": "male",
       "id": "c082f248-ee8f-466f-ba0b-86d7114f9ecb",
       "identifiers": [
+        {
+          "identifier": "484950",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0000 3751 5236",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2002045231",
+          "scheme": "lcauth"
+        },
         {
           "identifier": "781",
           "scheme": "nass"
@@ -3683,6 +3696,14 @@
         {
           "identifier": "mohammed-rabiu-musa-kwankwaso",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "14128786",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3509922",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.nass.gov.ng/images/mps/781.jpg",
@@ -3692,6 +3713,35 @@
         },
         {
           "url": "http://pombola.shineyoureye.org/media_root/images/kwankwaso.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Dr_Rabiu_Musa_Kwankwaso.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rabiu_Kwankwaso"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rabiu_Kwankwaso"
+        },
+        {
+          "note": "Wikipedia (ha)",
+          "url": "https://ha.wikipedia.org/wiki/Rabi'u_Musa_Kwankwaso"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кванквасо,_Рабиу"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Rabiu_Kwankwaso"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kwankwaso.com/"
         }
       ],
       "name": "Rabiu Kwankwaso",
@@ -3703,6 +3753,11 @@
         {
           "name": "Rabiu Musa Kwankwaso",
           "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Рабиу Кванквасо",
+          "note": "multilingual"
         }
       ]
     },
