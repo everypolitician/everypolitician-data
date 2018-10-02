@@ -321,7 +321,8 @@
     ],
     "dates": [
       "2002-07-05"
-    ]
+    ],
+    "follows": "Macedonian parliamentary election, 1998"
   },
   "Q2626015": {
     "identifiers": [
@@ -453,8 +454,10 @@
       }
     ],
     "dates": [
-      "1990"
-    ]
+      "1990-11-11",
+      "1990-11-25"
+    ],
+    "followed_by": "Macedonian parliamentary election, 1994"
   },
   "Q3408804": {
     "identifiers": [
@@ -510,6 +513,7 @@
     "dates": [
       "1998-10-18"
     ],
+    "follows": "Macedonian parliamentary election, 1994",
     "office": "Prime Minister of the Republic of Macedonia",
     "successful_candidates": [
       "Nikola Gruevski"
@@ -583,11 +587,19 @@
         "name": "Македонски парламентарни избори 1994.",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Macedonian parliamentary election, 1994",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
-      "1994"
-    ]
+      "1994-10-16",
+      "1994-10-30"
+    ],
+    "follows": "Macedonian parliamentary election, 1990"
   },
   "Q16735873": {
     "identifiers": [
@@ -605,7 +617,7 @@
       },
       {
         "lang": "en",
-        "name": "Macedonian general election, 2014",
+        "name": "Macedonian parliamentary election, 2014",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -628,6 +640,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "en-ca",
+        "name": "Macedonian general election, 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Macedonian general election, 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "elezioni parlamentari in Macedonia del 2014",
         "note": "multilingual",
@@ -644,12 +668,6 @@
         "name": "Македонски парламентарни избори 2014.",
         "note": "multilingual",
         "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones presidenciales de Macedonia de 2014",
-        "note": "multilingual",
-        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -657,6 +675,7 @@
     ],
     "follows": "Macedonian parliamentary election, 2011",
     "followed_by": "Macedonian parliamentary election, 2016",
+    "part_of": "Macedonian general election, 2014",
     "successful_candidates": [
       "Gjorge Ivanov",
       "Nikola Gruevski"
@@ -734,7 +753,7 @@
     "dates": [
       "2016-12-11"
     ],
-    "follows": "Macedonian general election, 2014",
+    "follows": "Macedonian parliamentary election, 2014",
     "office": "Prime Minister of the Republic of Macedonia"
   }
 }
