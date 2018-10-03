@@ -50,10 +50,14 @@ module Source
           unmatched << incoming_row
         end
       end
-      add_warning '* %d of %d unmatched'.magenta % [unmatched.count, as_table.count] if unmatched.any?
-      unmatched.sample(10).each do |r|
-        add_warning "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i[id name].include? k }}"
+
+      if unmatched.any? && merge_instructions.dig(:report_missing) != false
+        add_warning '* %d of %d unmatched'.magenta % [unmatched.count, as_table.count]
+        unmatched.sample(10).each do |r|
+          add_warning "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i[id name].include? k }}"
+        end
       end
+
       csv
     end
   end
