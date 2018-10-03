@@ -32,21 +32,7 @@ namespace :term_csvs do
     end
   end
 
-  task top_identifiers: :term_tables do
-    top_identifiers = @popolo.persons.flat_map(&:identifiers).map { |i| i[:scheme] }
-                             .reject { |i| i == 'everypolitician_legacy' }
-                             .group_by { |i| i }
-                             .sort_by { |_, is| -is.count }
-                             .take(5)
-                             .map { |i, is| [i, is.count] }
-    next unless top_identifiers.any?
-
-    warn "\nTop identifiers:"
-    top_identifiers.each { |i, c| warn "  #{c} x #{i}" }
-    warn "\n"
-  end
-
-  task name_list: :top_identifiers do
+  task name_list: :term_tables do
     names = @popolo.persons.flat_map do |p|
       Set.new([p.name]).merge(p.other_names.map { |n| n[:name] }).map { |n| [n, p.id] }
     end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
