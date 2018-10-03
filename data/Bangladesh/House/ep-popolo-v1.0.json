@@ -4,7 +4,15 @@
   ],
   "persons": [
     {
+      "birth_date": "1981-09-25",
+      "gender": "male",
       "id": "0050d6a4-7b26-4d92-ac82-49ec9db0fff6",
+      "identifiers": [
+        {
+          "identifier": "Q52161657",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/2402.jpg",
       "images": [
         {
@@ -17,7 +25,14 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2402"
         }
       ],
-      "name": "Shameem Haider Patwary"
+      "name": "Shameem Haider Patwary",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শামীম হায়দার পাটোয়ারী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -723,12 +738,18 @@
       ]
     },
     {
+      "birth_date": "1931-01-01",
+      "death_date": "2018-04-26",
       "gender": "male",
       "id": "0e2f19fc-ff6d-49f5-a012-11140c934fbc",
       "identifiers": [
         {
           "identifier": "2291",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q52619118",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2291.jpg",
@@ -739,11 +760,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shamsul_Islam_(politician)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=967"
         }
       ],
-      "name": "A N M Shamsul Islam"
+      "name": "A N M Shamsul Islam",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শামছুল ইসলাম",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shamsul Islam",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-07-25",
@@ -908,12 +945,17 @@
       "name": "Talukdar Mohammad Towhid Jung Murad"
     },
     {
+      "birth_date": "1960-01-07",
       "gender": "female",
       "id": "11041f21-9ff8-4972-8f37-8379917786b9",
       "identifiers": [
         {
           "identifier": "10338",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694342",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10338.jpg",
@@ -924,11 +966,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কামরুন_নাহার_চৌধুরী"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2713"
         }
       ],
-      "name": "Kamrun Nahar Chowdhury"
+      "name": "Kamrun Nahar Chowdhury",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কামরুন নাহার চৌধুরী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -937,21 +990,43 @@
         {
           "identifier": "10331",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55096154",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10331.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10331.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Waseqa_Ayesha_Khan_(1)_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Waseqa_Ayesha_Khan"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ওয়াসিকা_আয়শা_খান"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2706"
         }
       ],
-      "name": "Waseqa Ayesha Khan"
+      "name": "Waseqa Ayesha Khan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ওয়াসিকা আয়শা খান",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-08-01",
@@ -1196,6 +1271,10 @@
         {
           "identifier": "10336",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694703",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10336.jpg",
@@ -1206,11 +1285,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/রহিমা_আখতার"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2711"
         }
       ],
-      "name": "Rahima Akhter"
+      "name": "Rahima Akhter",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রহিমা আখতার",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-04-03",
@@ -1275,12 +1365,17 @@
       "name": "Md. Abdul Latif Biswas"
     },
     {
+      "birth_date": "1945-01-01",
       "gender": "female",
       "id": "17cab4b3-3109-4b5f-b621-77d0ac71579b",
       "identifiers": [
         {
           "identifier": "10344",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694328",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10344.jpg",
@@ -1291,11 +1386,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/নূর-ই-হাসনা_লিলি_চৌধুরী"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2719"
         }
       ],
-      "name": "Noor-E-Hasna Lily Chowdhury"
+      "name": "Noor-E-Hasna Lily Chowdhury",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "নূর-ই-হাসনা লিলি চৌধুরী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1730,6 +1836,10 @@
         {
           "identifier": "10307",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694348",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10307.jpg",
@@ -1740,11 +1850,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সেলিনা_আখতার_বানু"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2681"
         }
       ],
-      "name": "Selina Akhter Banu"
+      "name": "Selina Akhter Banu",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সেলিনা আখতার বানু",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2596,12 +2717,18 @@
       "name": "Prof. M.A. Mannan"
     },
     {
+      "birth_date": "1948-07-01",
       "gender": "male",
+      "given_name": "Mohammed",
       "id": "250f2fe3-f234-460f-b443-278c9429bf86",
       "identifiers": [
         {
           "identifier": "10263",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31728596",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10263.jpg",
@@ -2612,11 +2739,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শামছুল_হক_ভূঁইয়া"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohammed_Shamsul_Hoque_Bhuyan"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2370"
         }
       ],
-      "name": "Dr. Mohammed Shamsul Hoque Bhuyan"
+      "name": "Dr. Mohammed Shamsul Hoque Bhuyan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শামছুল হক ভূঁইয়া",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohammed Shamsul Hoque Bhuyan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2642,12 +2789,17 @@
       "name": "A.K.M.A. Awal (Saydur Rahman)"
     },
     {
+      "birth_date": "1966-12-16",
       "gender": "female",
       "id": "25b41ff7-884c-4451-88f6-6400d97e9906",
       "identifiers": [
         {
           "identifier": "10318",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28840485",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10318.jpg",
@@ -2658,11 +2810,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মাহজাবিন_খালেদ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mahjabeen_Khaled"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2693"
         }
       ],
-      "name": "Mahjabeen Khaled"
+      "name": "Mahjabeen Khaled",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মাহজাবীন খালেদ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mahjabeen Khaled MP",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3408,6 +3580,10 @@
         {
           "identifier": "10345",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694325",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10345.jpg",
@@ -3418,11 +3594,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মাহজাবীন_মোরশেদ"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2720"
         }
       ],
-      "name": "Mahjabeen Morshed"
+      "name": "Mahjabeen Morshed",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মাহজাবীন মোরশেদ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3436,12 +3623,17 @@
       "name": "Sheikh Sujat Miah"
     },
     {
+      "birth_date": "1970-12-08",
       "gender": "female",
       "id": "341c9e86-cffe-40da-8f5d-48563bad568a",
       "identifiers": [
         {
           "identifier": "10301",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43303865",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10301.jpg",
@@ -3452,11 +3644,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সেলিনা_জাহান_লিটা"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Selina_Jahan_Lita"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2675"
         }
       ],
-      "name": "Mst. Selina Jahan Lita"
+      "name": "Mst. Selina Jahan Lita",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সেলিনা জাহান লিটা",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Selina Jahan Lita",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4074,27 +4286,82 @@
       "name": "Mostafa Faruque Mohammed"
     },
     {
+      "birth_date": "1934-10-06",
       "gender": "male",
       "id": "3d8ba534-b991-4139-a411-9fb95ba7ee9d",
       "identifiers": [
         {
           "identifier": "2229",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "142291",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "138137064",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8200 1058",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n84190192",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "097481327",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "145523799",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "13722355",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4670601",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2229.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2229.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Finance_Minister_of_Bangladesh_Abul_Maal_Abdul_Muhith.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Abul_Maal_Abdul_Muhith"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আবুল_মাল_আবদুল_মুহিত"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abul_Maal_Abdul_Muhith"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2126"
         }
       ],
-      "name": "Abul Maal Abdul Muhith"
+      "name": "Abul Maal Abdul Muhith",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আবুল মাল আবদুল মুহিত",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4120,12 +4387,17 @@
       "name": "Salahuddin Ahmed (Mukti)"
     },
     {
+      "birth_date": "1957-07-11",
       "gender": "female",
       "id": "3e2e9ff1-6dc8-419b-90fc-838ea835f867",
       "identifiers": [
         {
           "identifier": "10319",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694357",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10319.jpg",
@@ -4136,11 +4408,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফাতেমা_জোহরা_রাণী"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2694"
         }
       ],
-      "name": "Fatema Zohora Rani"
+      "name": "Fatema Zohora Rani",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ফাতেমা জোহরা রাণী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-10-21",
@@ -4428,6 +4711,10 @@
         {
           "identifier": "2153",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47658512",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2153.jpg",
@@ -4437,6 +4724,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Md._Abdus_Sattar"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=802"
@@ -4451,6 +4742,10 @@
         {
           "identifier": "2319",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28838184",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2319.jpg",
@@ -4461,11 +4756,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/তহুরা_আলী"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tahura_Ali"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=1222"
         }
       ],
-      "name": "Tahura Ali"
+      "name": "Tahura Ali",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "তহুরা আলী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-06-01",
@@ -4551,12 +4861,17 @@
       ]
     },
     {
+      "birth_date": "1950-02-10",
       "gender": "male",
       "id": "46632c08-ccc5-4eb3-8a88-b6567377fb87",
       "identifiers": [
         {
           "identifier": "10276",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16730545",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10276.jpg",
@@ -4567,11 +4882,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/A.K.M._Shahjahan_Kamal"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=952"
         }
       ],
-      "name": "A.K.M Shajahan Kamal"
+      "name": "A.K.M Shajahan Kamal",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "এ কে এম শাহজাহান কামাল",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "A.K.M. Shahjahan Kamal",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4683,6 +5014,10 @@
         {
           "identifier": "2349",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694693",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2349.jpg",
@@ -4693,11 +5028,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/পিনু_খান"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=1300"
         }
       ],
-      "name": "Pinu Khan"
+      "name": "Pinu Khan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "পিনু খান",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -4838,12 +5184,17 @@
       "name": "Md. Mazibul Hoque"
     },
     {
+      "birth_date": "1954",
       "gender": "male",
       "id": "4c5509b3-1105-457b-bc7b-8485412678d3",
       "identifiers": [
         {
           "identifier": "2209",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47036807",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2209.jpg",
@@ -4853,6 +5204,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kazi_Keramat_Ali"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2109"
@@ -5242,12 +5597,18 @@
       "name": "Shaikh Muzibur Rahman"
     },
     {
+      "birth_date": "1950-12-13",
+      "death_date": "2017-08-19",
       "gender": "male",
       "id": "50f6fb37-e263-4334-a9cd-3e8f269ae96b",
       "identifiers": [
         {
           "identifier": "2089",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q51172663",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2089.jpg",
@@ -5258,11 +5619,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khan_Tipu_Sultan"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=737"
         }
       ],
-      "name": "Khan Tipu Sultan"
+      "name": "Khan Tipu Sultan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "খান টিপু সুলতান",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-01-01",
@@ -5464,12 +5836,17 @@
       "name": "Bodruddoza Md. Farhad Hossain"
     },
     {
+      "birth_date": "1943-10-18",
       "gender": "female",
       "id": "557294c0-5538-49ad-9cc2-c4e7b9c8350e",
       "identifiers": [
         {
           "identifier": "10346",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43325430",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10346.jpg",
@@ -5480,11 +5857,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মেরিনা_রহমান"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Merina_Rahman"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2721"
         }
       ],
-      "name": "Merina Rahman"
+      "name": "Merina Rahman",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মেরিনা রহমান",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943",
@@ -5542,6 +5934,10 @@
         {
           "identifier": "10273",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43241837",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10273.jpg",
@@ -5552,11 +5948,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/বেগম_আয়েশা_ফেরদাউস"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ayesha_Ferdaus"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2391"
         }
       ],
-      "name": "Ayesha Ferdaus"
+      "name": "Ayesha Ferdaus",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আয়েশা ফেরদৌস",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5629,11 +6040,16 @@
     },
     {
       "gender": "female",
+      "given_name": "Sabina",
       "id": "57682b72-3a6c-4d49-8450-f959d6aec1e6",
       "identifiers": [
         {
           "identifier": "10335",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694702",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10335.jpg",
@@ -5644,11 +6060,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সাবিনা_আক্তার_তুহিন"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2710"
         }
       ],
-      "name": "Sabina Akter Tuhin"
+      "name": "Sabina Akter Tuhin",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সাবিনা আক্তার তুহিন",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5657,6 +6084,10 @@
         {
           "identifier": "10179",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50821010",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10179.jpg",
@@ -5666,6 +6097,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kazi_Firoz_Rashid"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2630"
@@ -5869,6 +6304,10 @@
         {
           "identifier": "10269",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55399970",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10269.jpg",
@@ -5879,11 +6318,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মোরশেদ_আলম"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Morshed_Alam"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2375"
         }
       ],
-      "name": "Morshed Alam"
+      "name": "Morshed Alam",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মোরশেদ আলম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6009,12 +6463,17 @@
       ]
     },
     {
+      "birth_date": "1947-07-31",
       "gender": "female",
       "id": "5afa8945-ec90-49c0-99c5-33de75abaa10",
       "identifiers": [
         {
           "identifier": "10340",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43376458",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10340.jpg",
@@ -6025,11 +6484,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/লুৎফা_তাহের"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lutfa_Taher"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2715"
         }
       ],
-      "name": "Lutfa Taher"
+      "name": "Lutfa Taher",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "লুৎতা তাহের",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -6095,12 +6569,17 @@
       ]
     },
     {
+      "birth_date": "1970-07-01",
       "gender": "female",
       "id": "5cc8cdbc-d89e-4985-8b1f-afdfb3678910",
       "identifiers": [
         {
           "identifier": "10326",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694362",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10326.jpg",
@@ -6111,11 +6590,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/রোকসানা_ইয়াসমিন_ছুটি"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2701"
         }
       ],
-      "name": "Roksana Yasmin Suty"
+      "name": "Roksana Yasmin Suty",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রোকসানা ইয়াসমিন ছুটি",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6124,6 +6614,10 @@
         {
           "identifier": "10295",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50543118",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10295.jpg",
@@ -6133,6 +6627,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Asheq_Ullah_Rafiq"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2384"
@@ -6187,12 +6685,17 @@
       "name": "Mohibur Rahman Manik"
     },
     {
+      "birth_date": "1968-01-01",
       "gender": "female",
       "id": "60b59d9b-0cb2-46ef-b4fe-c27b8b50d75f",
       "identifiers": [
         {
           "identifier": "10311",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694353",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10311.jpg",
@@ -6203,11 +6706,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/হেপী_বড়াল"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2685"
         }
       ],
-      "name": "Happy Baral"
+      "name": "Happy Baral",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "হেপী বড়াল",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-02-07",
@@ -6245,12 +6759,17 @@
       ]
     },
     {
+      "birth_date": "1968-06-01",
       "gender": "female",
       "id": "62490dee-5e64-4a1e-9c04-28feae1f6a4c",
       "identifiers": [
         {
           "identifier": "10306",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694347",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10306.jpg",
@@ -6261,11 +6780,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সেলিনা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2680"
         }
       ],
-      "name": "Salina Begum"
+      "name": "Salina Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সেলিনা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-02-02",
@@ -6378,6 +6908,10 @@
         {
           "identifier": "10286",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q42074314",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10286.jpg",
@@ -6388,11 +6922,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ziauddin_Ahmed_Bablu"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2639"
         }
       ],
-      "name": "Ziauddin Ahmed (Bablu)"
+      "name": "Ziauddin Ahmed (Bablu)",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "জিয়াউদ্দিন আহমেদ বাবলু",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ziauddin Ahmed Bablu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6458,12 +7008,17 @@
       ]
     },
     {
+      "birth_date": "1950-01-15",
       "gender": "female",
       "id": "67943eb1-9b99-4499-a04d-b2ef43c52397",
       "identifiers": [
         {
           "identifier": "10349",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694315",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10349.jpg",
@@ -6474,11 +7029,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সাবিহা_নাহার_বেগম"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sabiha_Nahar_Begum"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2724"
         }
       ],
-      "name": "Sabiha Nahar Begum"
+      "name": "Sabiha Nahar Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সাবিহা নাহার বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6892,6 +7462,10 @@
         {
           "identifier": "2138",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23542545",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2138.jpg",
@@ -6902,19 +7476,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abul_Kalam_Azad_(Jamalpur_politician)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2065"
         }
       ],
-      "name": "Abul Kalam Azad"
+      "name": "Abul Kalam Azad",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আবুল কালাম আজাদ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1949-01-01",
       "gender": "female",
       "id": "7012e102-0a6c-43ed-8050-500bdcc2e7fd",
       "identifiers": [
         {
           "identifier": "10341",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694337",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10341.jpg",
@@ -6925,11 +7515,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কাজী_রোজী"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2716"
         }
       ],
-      "name": "Quazi Rosy"
+      "name": "Quazi Rosy",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কাজী রোজী",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943-10-24",
@@ -7250,12 +7851,17 @@
       ]
     },
     {
+      "birth_date": "1963-11-04",
       "gender": "male",
       "id": "734b288e-0e6e-4216-be3a-7554b5e1b727",
       "identifiers": [
         {
           "identifier": "10298",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694704",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10298.jpg",
@@ -7266,11 +7872,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কুজেন্দ্র_লাল_ত্রিপুরা"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2385"
         }
       ],
-      "name": "Kujendra Lal Tripura"
+      "name": "Kujendra Lal Tripura",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কুজেন্দ্র লাল ত্রিপুরা",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7336,6 +7953,10 @@
         {
           "identifier": "10252",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28839997",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10252.jpg",
@@ -7346,11 +7967,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Razee_Mohammad_Fakhrul"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2364"
         }
       ],
-      "name": "Razee Mohammad Fakhrul"
+      "name": "Razee Mohammad Fakhrul",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রাজি মোহম্মদ ফখরুল",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-01-05",
@@ -7569,12 +8201,17 @@
       "name": "Md. Zafar Ali"
     },
     {
+      "birth_date": "1963-01-01",
       "gender": "female",
       "id": "766991b6-0cb2-4f0c-9146-74044c9c0eef",
       "identifiers": [
         {
           "identifier": "10315",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55939136",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10315.jpg",
@@ -7585,11 +8222,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মমতাজ_বেগম_(রাজনীতিবিদ)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2690"
         }
       ],
-      "name": "Momotaj Begum. Ad."
+      "name": "Momotaj Begum. Ad.",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মমতাজ বেগম",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Momotaj Begum",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7621,6 +8274,10 @@
         {
           "identifier": "10320",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694359",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10320.jpg",
@@ -7631,19 +8288,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/দিলারা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2695"
         }
       ],
-      "name": "Dilara Begum"
+      "name": "Dilara Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "দিলারা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1964-11-30",
       "gender": "female",
       "id": "77544d62-cd3b-49cf-9e77-b0851d195879",
       "identifiers": [
         {
           "identifier": "10310",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43386067",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10310.jpg",
@@ -7654,11 +8327,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কামরুল_লায়লা_জলি"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kamrul_Laila_Jolly"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2684"
         }
       ],
-      "name": "Kamrul Laila Jolly"
+      "name": "Kamrul Laila Jolly",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কামরুল লায়লা জলি",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7765,12 +8453,17 @@
       "name": "Md. Mahbub Ali"
     },
     {
+      "birth_date": "1959-04-24",
       "gender": "female",
       "id": "7827e93d-a886-430c-9ee8-ec3cc7bfe3df",
       "identifiers": [
         {
           "identifier": "10309",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694352",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10309.jpg",
@@ -7781,11 +8474,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শিরিন_নাঈম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2683"
         }
       ],
-      "name": "Mst. Shirin Neyeem"
+      "name": "Mst. Shirin Neyeem",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শিরিন নাঈম",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shirin Neyeem",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7863,6 +8572,10 @@
         {
           "identifier": "2233",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q49057171",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2233.jpg",
@@ -7873,11 +8586,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hafiz_Ahmed_Mazumder"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=890"
         }
       ],
-      "name": "Hafiz Ahmed Majumder"
+      "name": "Hafiz Ahmed Majumder",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hafiz Ahmed Mazumder",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -8222,12 +8946,17 @@
       ]
     },
     {
+      "birth_date": "1961-02-23",
       "gender": "female",
       "id": "7f66d70b-7139-4e22-8d49-7ae32772a616",
       "identifiers": [
         {
           "identifier": "10333",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694700",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10333.jpg",
@@ -8238,11 +8967,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফিরোজা_বেগম_চিনু"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2708"
         }
       ],
-      "name": "Firoja Begum Chino"
+      "name": "Firoja Begum Chino",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ফিরোজা বেগম চিনু",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -8346,12 +9086,18 @@
       ]
     },
     {
+      "birth_date": "1916",
+      "death_date": "1992-01-21",
       "gender": "male",
       "id": "8212e7cb-6818-4b37-8139-0537b24e3557",
       "identifiers": [
         {
           "identifier": "2184",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q41757056",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2184.jpg",
@@ -8362,11 +9108,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আসাদুজ্জামান_খান"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Asaduzzaman_Khan_(politician)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2340"
         }
       ],
-      "name": "Asaduzzaman Khan"
+      "name": "Asaduzzaman Khan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আসাদুজ্জামান খান",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Asaduzzaman Chán",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -8398,6 +9164,10 @@
         {
           "identifier": "10296",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694381",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10296.jpg",
@@ -8408,11 +9178,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সাইমুম_সরওয়ার_কমল"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2671"
         }
       ],
-      "name": "Shaimum Sarwar Kamal"
+      "name": "Shaimum Sarwar Kamal",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সাইমুম সরওয়ার কমল",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -8609,6 +9390,10 @@
         {
           "identifier": "10299",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694707",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10299.jpg",
@@ -8619,11 +9404,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ঊষাতন_তালুকদার"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2386"
         }
       ],
-      "name": "Ushatan Talukder"
+      "name": "Ushatan Talukder",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ঊষাতন তালুকদার",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943-10-22",
@@ -8679,27 +9475,54 @@
       ]
     },
     {
+      "birth_date": "1955-06-30",
       "gender": "male",
       "id": "854012e0-b697-4e1e-a339-838f7d238575",
       "identifiers": [
         {
           "identifier": "2257",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694403",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2257.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2257.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tajul_Islam_MP_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Md._Tajul_Islam"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মোঃ_তাজুল_ইসলাম"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Md._Tajul_Islam"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2148"
         }
       ],
-      "name": "Md.Tajul Islam"
+      "name": "Md.Tajul Islam",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মোঃ তাজুল ইসলাম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-04-16",
@@ -8975,6 +9798,10 @@
         {
           "identifier": "10321",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694695",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10321.jpg",
@@ -8985,11 +9812,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফাতেমা_তুজ্জহুরা"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2696"
         }
       ],
-      "name": "Fatema Tuzzahura"
+      "name": "Fatema Tuzzahura",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ফাতেমা তুজ্জহুরা",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -8998,6 +9836,10 @@
         {
           "identifier": "2269",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q49561876",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2269.jpg",
@@ -9007,6 +9849,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zainul_Abdin_Farroque"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=945"
@@ -9230,6 +10076,10 @@
         {
           "identifier": "2295",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50591917",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2295.jpg",
@@ -9240,11 +10090,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/A._H._M._Hamidur_Rahman_Azad"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=971"
         }
       ],
-      "name": "A.H.M. Hamidur Rahman Azad"
+      "name": "A.H.M. Hamidur Rahman Azad",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "A. H. M. Hamidur Rahman Azad",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1941",
@@ -9302,6 +10163,10 @@
         {
           "identifier": "2139",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q49923317",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2139.jpg",
@@ -9312,11 +10177,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Md_Faridul_Haq_Khan"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2066"
         }
       ],
-      "name": "Md. Faridul Haque Khan"
+      "name": "Md. Faridul Haque Khan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Md Faridul Haq Khan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -9365,12 +10241,17 @@
       "name": "Sharif Ahmed"
     },
     {
+      "birth_date": "1948-01-03",
       "gender": "female",
       "id": "9059365b-6ef5-4018-b1e0-6e3459b098d2",
       "identifiers": [
         {
           "identifier": "10347",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694317",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10347.jpg",
@@ -9381,11 +10262,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/রওশন_আরা_মান্নান"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2722"
         }
       ],
-      "name": "Rowshan Ara Mannan"
+      "name": "Rowshan Ara Mannan",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রওশন আরা মান্নান",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-02-11",
@@ -9438,6 +10330,10 @@
         {
           "identifier": "101371",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q50824713",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/101371.jpg",
@@ -9448,11 +10344,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anupam_Shahjahan_Joy"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2785"
         }
       ],
-      "name": "Anupom Shahjahan Joy"
+      "name": "Anupom Shahjahan Joy",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anupam Shahjahan Joy",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -9542,6 +10449,12 @@
     {
       "gender": "female",
       "id": "927d38bf-06c9-4983-83d1-d7831f822551",
+      "identifiers": [
+        {
+          "identifier": "Q43279499",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/237n.jpg",
       "images": [
         {
@@ -9549,6 +10462,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Syeda_Saira_Mohsin"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=3093"
@@ -9634,21 +10551,39 @@
         {
           "identifier": "10330",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q42396278",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10330.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10330.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Fazilatun_Nasa_Bappy_(2)_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফজিলাতুন_নেসা_বাপ্পি"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2705"
         }
       ],
-      "name": "Fazilatun Nasa Bappy"
+      "name": "Fazilatun Nasa Bappy",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ফজিলাতুন নেসা বাপ্পি",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -9797,6 +10732,10 @@
         {
           "identifier": "2195",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27916336",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2195.jpg",
@@ -9807,19 +10746,44 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মোঃ_জাহিদ_আহসান_রাসেল"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zahid_Ahsan_Russell"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2097"
         }
       ],
-      "name": "Md. Zahid Ahsan Russel"
+      "name": "Md. Zahid Ahsan Russel",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "জাহিদ অহসান রাসেল",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zahid Ahsan Russell",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1950-07-03",
       "gender": "female",
       "id": "96fd6ec1-97cb-4296-873b-f3c618ee983d",
       "identifiers": [
         {
           "identifier": "10317",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694355",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10317.jpg",
@@ -9830,11 +10794,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মনোয়ারা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2692"
         }
       ],
-      "name": "Monowara Begum"
+      "name": "Monowara Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "মনোয়ারা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -10057,12 +11032,17 @@
       "name": "Dr. Md. Enamur Rahaman"
     },
     {
+      "birth_date": "1958-02-27",
       "gender": "female",
       "id": "9b113dde-b6e9-47af-82ff-fab949d194ee",
       "identifiers": [
         {
           "identifier": "10332",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694699",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10332.jpg",
@@ -10073,11 +11053,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/জাহান_আরা_বেগম_সুরমা"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2707"
         }
       ],
-      "name": "Jahan Ara Begum Surma"
+      "name": "Jahan Ara Begum Surma",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "জাহান আরা বেগম সুরমা",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-02-01",
@@ -10456,6 +11447,10 @@
         {
           "identifier": "10334",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55774198",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10334.jpg",
@@ -10466,19 +11461,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আমিনা_আহমেদ"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2709"
         }
       ],
-      "name": "Amina Ahmed"
+      "name": "Amina Ahmed",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আমিনা আহমেদ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1963-06-01",
       "gender": "female",
       "id": "a72fbf35-734c-4a2e-918c-e88cde85a752",
       "identifiers": [
         {
           "identifier": "10304",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694345",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10304.jpg",
@@ -10489,11 +11500,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/উম্মে_কুলসুম_স্মৃতি"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2678"
         }
       ],
-      "name": "Adv. Umme Kulsum Smrity"
+      "name": "Adv. Umme Kulsum Smrity",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "উম্মে কুলসুম স্মৃতি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Umme Kulsum Smrity",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -11968,11 +12995,16 @@
     },
     {
       "gender": "male",
+      "given_name": "Rahim",
       "id": "b50af8bf-a81d-42b0-b404-51ff0a7e9946",
       "identifiers": [
         {
           "identifier": "10267",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q49562586",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10267.jpg",
@@ -11982,6 +13014,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rahim_Ullah"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2373"
@@ -12991,6 +14027,10 @@
         {
           "identifier": "1014",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31734584",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/1014.jpg",
@@ -13001,11 +14041,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/গোলাম_মোস্তফা_(রাজনীতিবিদ)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Golam_Mostofa_(politician)"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2425"
         }
       ],
-      "name": "Golam Mostofa"
+      "name": "Golam Mostofa",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "গোলাম মোস্তফা",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -13074,12 +14129,17 @@
       ]
     },
     {
+      "birth_date": "1940-05-29",
       "gender": "female",
       "id": "c2b29aea-4a1f-48ac-85f6-16dce71a4e8e",
       "identifiers": [
         {
           "identifier": "10348",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694316",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10348.jpg",
@@ -13090,11 +14150,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শাহানারা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2723"
         }
       ],
-      "name": "Shahanara Begum"
+      "name": "Shahanara Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শাহানারা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-07-09",
@@ -13399,6 +14470,10 @@
         {
           "identifier": "10265",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43281250",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10265.jpg",
@@ -13409,11 +14484,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শিরীন_আখতার"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shirin_Akhter"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2371"
         }
       ],
-      "name": "Shirin Akhter"
+      "name": "Shirin Akhter",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "শিরীন আখতার",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-06-05",
@@ -13667,12 +14757,17 @@
       "name": "Chhabi Biswas"
     },
     {
+      "birth_date": "1944-02-02",
       "gender": "male",
       "id": "ca0fbb2e-4dc9-4c10-bc4b-7742f581544b",
       "identifiers": [
         {
           "identifier": "2203",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27063199",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2203.jpg",
@@ -13683,11 +14778,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/রাজি_উদ্দিন_আহমেদ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rajiuddin_Ahmed_Raju"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2103"
         }
       ],
-      "name": "Rajiuddin Ahmed Raju"
+      "name": "Rajiuddin Ahmed Raju",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রাজিউদ্দিন আহমেদ রাজু",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -13957,12 +15067,17 @@
       ]
     },
     {
+      "birth_date": "1965-12-31",
       "gender": "female",
       "id": "cf0b617b-7d44-4f9a-a4ba-6fe624513127",
       "identifiers": [
         {
           "identifier": "10337",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694701",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10337.jpg",
@@ -13973,11 +15088,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/হোসনে_আরা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2712"
         }
       ],
-      "name": "Hosne Ara Begum"
+      "name": "Hosne Ara Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "হোসনে আরা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-03-02",
@@ -14273,6 +15399,10 @@
         {
           "identifier": "10193",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q51016448",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10193.jpg",
@@ -14283,15 +15413,47 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/এম_এ_মালেক"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/M._A._Maleque"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2759"
         }
       ],
-      "name": "M.A Maleque"
+      "name": "M.A Maleque",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "এম এ মালেক",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "M. A. Maleque",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
       "id": "d3f9954c-4005-47da-a72a-fc558e4dff4e",
+      "identifiers": [
+        {
+          "identifier": "Q48682144",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jewel_Areng"
+        }
+      ],
       "name": "Jewel Areng"
     },
     {
@@ -14508,6 +15670,10 @@
         {
           "identifier": "10322",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694694",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10322.jpg",
@@ -14518,11 +15684,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফজিলাতুন_নেসা"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2697"
         }
       ],
-      "name": "Fazilatun Nessa"
+      "name": "Fazilatun Nessa",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ফজিলাতুন নেসা",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -14692,12 +15869,17 @@
       ]
     },
     {
+      "birth_date": "1970-01-04",
       "gender": "male",
       "id": "d6dc4806-f73c-4842-a2a3-b35a6830371b",
       "identifiers": [
         {
           "identifier": "2297",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694711",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2297.jpg",
@@ -14708,11 +15890,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আব্দুর_রহমান_বদি"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2166"
         }
       ],
-      "name": "Abdur Rahman Badi"
+      "name": "Abdur Rahman Badi",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আব্দুর রহমান বদি",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -14844,12 +16037,18 @@
       ]
     },
     {
+      "birth_date": "1950-03-03",
       "gender": "male",
+      "given_name": "Kamal",
       "id": "d8ba68c7-a115-4b99-a27d-9a800ade52bc",
       "identifiers": [
         {
           "identifier": "2188",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q48734986",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2188.jpg",
@@ -14860,11 +16059,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/কামাল_আহমেদ_মজুমদার"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kamal_Ahmed_Majumder"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2092"
         }
       ],
-      "name": "Kamal Ahmed Majumder"
+      "name": "Kamal Ahmed Majumder",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "কামাল আহমেদ মজুমদার",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -14896,6 +16110,10 @@
         {
           "identifier": "10324",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694363",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10324.jpg",
@@ -14906,11 +16124,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সানজিদা_খানম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2699"
         }
       ],
-      "name": "Sanjida Khanam"
+      "name": "Sanjida Khanam",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সানজিদা খানম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -15153,12 +16382,17 @@
       ]
     },
     {
+      "birth_date": "1951-08-15",
       "gender": "female",
       "id": "da940e15-1bbe-4978-b83a-672e6778ee05",
       "identifiers": [
         {
           "identifier": "10308",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694351",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10308.jpg",
@@ -15169,11 +16403,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/লায়লা_আরজুমান_বানু"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2682"
         }
       ],
-      "name": "Laila Arjuman Banu"
+      "name": "Laila Arjuman Banu",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "লায়লা আরজুমান বানু",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-01-15",
@@ -15347,12 +16592,17 @@
       ]
     },
     {
+      "birth_date": "1942-09-29",
       "gender": "male",
       "id": "dd417482-44f7-449c-acd8-551c6399abef",
       "identifiers": [
         {
           "identifier": "2213",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6400209",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2213.jpg",
@@ -15363,11 +16613,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/খন্দকার_মোশাররফ_হোসেন"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khandaker_Mosharraf_Hossain"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2113"
         }
       ],
-      "name": "Eng. Khandaker Mosharraf Hossain"
+      "name": "Eng. Khandaker Mosharraf Hossain",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "খন্দকার মোশাররফ হোসেন",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Khandaker Mosharraf Hossain",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -15491,6 +16761,10 @@
         {
           "identifier": "2186",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27063289",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2186.jpg",
@@ -15501,11 +16775,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/জাহাঙ্গীর_কবির_নানক"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jahangir_Kabir_Nanak"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2090"
         }
       ],
-      "name": "Jahangir Kabir Nanak"
+      "name": "Jahangir Kabir Nanak",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "জাহাঙ্গীর কবির নানক",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -16302,11 +17591,16 @@
     },
     {
       "gender": "female",
+      "given_name": "Rebecca",
       "id": "ea9b2503-0e7d-492b-9826-9799935b8b76",
       "identifiers": [
         {
           "identifier": "2160",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q43301926",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2160.jpg",
@@ -16317,11 +17611,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rebecca_Momin"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2075"
         }
       ],
-      "name": "Rebecca Momin"
+      "name": "Rebecca Momin",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "রেবেকা মোমিন",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -16381,35 +17686,72 @@
       "name": "Anisul Islam Mahmud"
     },
     {
+      "birth_date": "1961-05-14",
       "gender": "male",
       "id": "ebfd0654-805a-462e-b65b-fe9ca9caaf33",
       "identifiers": [
         {
           "identifier": "2187",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28086195",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2187.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2187.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Aslamul_Haque_(6).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Aslamul_Haque"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মোঃ_আসলামুল_হক"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aslamul_Haque"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2091"
         }
       ],
-      "name": "Md. Aslamul Haque"
+      "name": "Md. Aslamul Haque",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "আসলামুল হক",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aslamul Haque",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1959-03-11",
       "gender": "female",
       "id": "ec0cdecd-de30-45a7-b3c7-4f76edb5296a",
       "identifiers": [
         {
           "identifier": "10302",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694344",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10302.jpg",
@@ -16420,11 +17762,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সফুরা_বেগম"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2674"
         }
       ],
-      "name": "Safura Begum"
+      "name": "Safura Begum",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সফুরা বেগম",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -16814,12 +18167,17 @@
       ]
     },
     {
+      "birth_date": "1966-02-01",
       "gender": "female",
       "id": "f012efde-7c61-42e7-beab-da3a0df629b5",
       "identifiers": [
         {
           "identifier": "10343",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q55694329",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10343.jpg",
@@ -16830,11 +18188,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/উম্মে_রাজিয়া_কাজল"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2718"
         }
       ],
-      "name": "Ummey Razia Kajol"
+      "name": "Ummey Razia Kajol",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "উম্মে রাজিয়া কাজল",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -16912,6 +18281,10 @@
         {
           "identifier": "2197",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28839619",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2197.jpg",
@@ -16922,11 +18295,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Simeen_Hussain_Rimi"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2099"
         }
       ],
-      "name": "Simeen Hussain(Rimi)"
+      "name": "Simeen Hussain(Rimi)",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সিমিন হোসেন রিমি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Simeen Hussain Rimi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -17343,12 +18732,17 @@
       "name": "Shri Biren Sikder"
     },
     {
+      "birth_date": "1940-05-10",
       "gender": "female",
       "id": "f93d89bf-c88f-4410-8e9a-dd2c95472742",
       "identifiers": [
         {
           "identifier": "10350",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q44046657",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/10350.jpg",
@@ -17359,11 +18753,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/খোরশেদ_আরা_হক"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khorshed_Ara_Haque"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2725"
         }
       ],
-      "name": "Khorshed Ara Haque"
+      "name": "Khorshed Ara Haque",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "খোরশেদ আরা হক",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -17437,7 +18846,26 @@
     {
       "gender": "male",
       "id": "fb3a4d95-fa55-4bfd-938d-53125e268f3b",
-      "name": "Md. Hasan Imam Khan"
+      "identifiers": [
+        {
+          "identifier": "Q50809326",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hasan_Imam_Khan"
+        }
+      ],
+      "name": "Md. Hasan Imam Khan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hasan Imam Khan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
