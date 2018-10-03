@@ -48,7 +48,7 @@ namespace :term_csvs do
   task reports: :term_tables do
     wikidata_persons = @popolo.persons.partition(&:wikidata)
     wikidata_areas   = @popolo.areas.partition(&:wikidata)
-    wikidata_parties = @popolo.organizations.where(classification: 'party').partition(&:wikidata)
+    wikidata_parties = @popolo.organizations.where(classification: 'party').reject { |p| p.name.downcase.include? 'unknown' }.partition(&:wikidata)
 
     matched, unmatched = wikidata_persons.map(&:count)
     warn "Persons matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
