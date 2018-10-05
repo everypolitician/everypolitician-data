@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1967-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stephane.crusniere@lachambre.be"
-        }
-      ],
-      "email": "stephane.crusniere@lachambre.be",
       "gender": "male",
       "given_name": "Stéphane",
       "id": "014de10e-b557-4c6e-9b40-3be52de53f49",
@@ -5609,6 +5602,10 @@
       ],
       "name": "Daniel Bacquelaine",
       "sort_name": "Bacquelaine Daniel"
+    },
+    {
+      "id": "7a72c023-699d-410c-a4e9-a392753569a7",
+      "name": "Michel Corthouts"
     },
     {
       "birth_date": "1950-11-20",
@@ -14319,6 +14316,7 @@
   "memberships": [
     {
       "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
+      "end_date": "2018-10-04",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15005,6 +15003,14 @@
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "79b83661-7630-475b-9de1-bb34b9b5e724",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "7a72c023-699d-410c-a4e9-a392753569a7",
+      "role": "member",
+      "start_date": "2018-10-04"
     },
     {
       "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
