@@ -7,6 +7,7 @@ namespace :whittle do
   file MERGED_JSON => :write
 
   task load: 'verify:check_data' do
+    source_warn 'Converting to Popolo'
     @json = Popolo::CSV.new(MERGED_CSV).data
   end
 

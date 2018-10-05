@@ -101,6 +101,10 @@ def json_write(file, json)
   File.write(file, JSON.pretty_generate(json))
 end
 
+def source_warn(message)
+  warn "#{DateTime.now.strftime('%T')} #{message.green}"
+end
+
 module Enumerable
   # Workaround for native sort_by producing inconsistent results between OS X
   # and Linux.

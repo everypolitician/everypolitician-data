@@ -24,13 +24,13 @@ namespace :merge_members do
 
     # First get all the `membership` rows
     @INSTRUCTIONS.sources_of_type('membership').each do |source|
-      warn "Add memberships from #{source.filename}".green
+      source_warn "Add memberships from #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
     end
 
     # Then merge with sources of plain Person data (i.e Person or Wikidata)
     @SOURCES.select(&:person_data?).each do |source|
-      warn "Merging with #{source.filename}".green
+      source_warn "Merging with #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
       warn source.warnings.to_a.join("\n") if source.warnings.any?
       all_headers |= source.additional_headers.to_a
@@ -40,14 +40,14 @@ namespace :merge_members do
     # TODO: these are all being migrated to Morph
     #   https://github.com/everypolitician/everypolitician/issues/598
     @INSTRUCTIONS.sources_of_type('gender').each do |source|
-      warn "Adding unmigrated GenderBalance results from #{source.filename}".green
+      source_warn "Adding unmigrated GenderBalance results from #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
       warn source.warnings.to_a.join("\n") if source.warnings.any?
     end
 
     # OCD IDs -> names
     @INSTRUCTIONS.sources_of_type('ocd-names').each do |source|
-      warn "Adding OCD names from #{source.filename}".green
+      source_warn "Adding OCD names from #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
       if source.warnings.any?
         warn 'OCD ID issues'
@@ -57,7 +57,7 @@ namespace :merge_members do
 
     # Any local corrections in manual/corrections.csv
     @INSTRUCTIONS.sources_of_type('corrections').each do |source|
-      warn "Applying local corrections from #{source.filename}".green
+      source_warn "Applying local corrections from #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
       if source.warnings.any?
         warn 'Corrections Problems'
@@ -68,6 +68,7 @@ namespace :merge_members do
     # TODO: add this as a Source
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
+      source_warn 'Generating legacy_id file'
       legacy = CSV.table(legacy_id_file, converters: nil).reject { |r| r[:legacy].to_s.empty? }.group_by { |r| r[:id] }
 
       all_headers |= %i[identifier__everypolitician_legacy]

@@ -7,6 +7,7 @@ require 'csvlint'
 desc 'validate raw CSV sources'
 namespace :csvlint do
   task :validate do
+    source_warn 'Validating CSVs'
     FileList['sources/**/*.csv'].each do |file|
       validator = Csvlint::Validator.new(File.new(file))
       next if validator.valid?

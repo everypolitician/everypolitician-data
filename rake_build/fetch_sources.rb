@@ -15,13 +15,16 @@ namespace :fetch_sources do
 
   task fetch_missing: :no_duplicate_names do
     @recreatable.each do |i|
-      RemoteSource.instantiate(i).regenerate if _should_refetch(i.filename)
+      if should_refetch(i.filename)
+        source_warn "Refetching #{i.filename}"
+        RemoteSource.instantiate(i).regenerate
+      end
     end
   end
 
   # We re-fetch any file that is missing, or, if REBUILD_SOURCE is set,
   # any file that matches that.
-  def _should_refetch(file)
+  def should_refetch(file)
     return true unless file.exist?
     return false unless ENV['REBUILD_SOURCE']
 

@@ -12,7 +12,7 @@ CLEAN.include('term-*.csv')
 namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: POPOLO_JSON do
-    warn "Creating termfiles"
+    source_warn 'Creating termfiles'
     @popolo = popolo = EveryPolitician::Popolo.read(POPOLO_JSON)
     terms = EveryPolitician::Dataview::Terms.new(popolo: @popolo).terms
     terms.each do |term|
@@ -34,7 +34,7 @@ namespace :term_csvs do
   end
 
   task name_list: :term_tables do
-    warn "Creating #{NAMES_CSV}"
+    source_warn "Creating #{NAMES_CSV}"
     names = @popolo.persons.flat_map do |p|
       Set.new([p.name]).merge(p.other_names.map { |n| n[:name] }).map { |n| [n, p.id] }
     end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
@@ -46,6 +46,7 @@ namespace :term_csvs do
 
   desc 'Add some final reporting information'
   task reports: :term_tables do
+    warn '-' * 72
     wikidata_persons = @popolo.persons.partition(&:wikidata)
     wikidata_areas   = @popolo.areas.partition(&:wikidata)
     wikidata_parties = @popolo.organizations.where(classification: 'party').reject { |p| p.name.downcase.include? 'unknown' }.partition(&:wikidata)
@@ -66,7 +67,7 @@ namespace :term_csvs do
   desc 'Build the Cabinet file'
   task positions: [POPOLO_JSON] do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
-    warn "Creating #{POSITION_CSV}"
+    source_warn "Creating #{POSITION_CSV}"
 
     data = src.filtered(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)

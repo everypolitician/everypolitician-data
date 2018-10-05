@@ -21,6 +21,7 @@ namespace :verify do
   end
 
   task check_data: :load do
+    source_warn "Verifying #{MERGED_CSV}"
     date_fields = @csv_headers.select { |k| k.include? '_date' }.map(&:to_sym)
 
     @csv.each do |r|
