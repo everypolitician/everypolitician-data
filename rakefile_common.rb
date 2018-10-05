@@ -47,18 +47,18 @@ require_rel 'lib'
 
 # Files within each Legislature directory
 MERGED_JSON = Pathname.new('sources/merged.json')
-MERGED_CSV  = Pathname.new('sources/merged.csv')
+MERGED_CSV = Pathname.new('sources/merged.csv')
 POSITION_FILTER = Pathname.new('sources/manual/position-filter.json')
 POSITION_FILTER_CSV = Pathname.new('sources/manual/position-filter.csv')
 POSITION_HTML = Pathname.new('sources/manual/.position-filter.html')
 POSITION_RAW = Pathname.new('sources/wikidata/positions.json')
 POSITION_CSV = Pathname.new('unstable/positions.csv')
-POPOLO_JSON  = Pathname.new('ep-popolo-v1.0.json')
+POPOLO_JSON = Pathname.new('ep-popolo-v1.0.json')
+NAMES_CSV = Pathname.new('names.csv')
 LEGISLATURE_META = Pathname.new('meta.json')
 COUNTRY_META = Pathname.new('../meta.json')
 
-CLEAN.include MERGED_CSV
-CLEAN.include MERGED_JSON
+CLEAN.include(MERGED_CSV, MERGED_JSON, NAMES_CSV)
 
 # Files at project level
 POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')

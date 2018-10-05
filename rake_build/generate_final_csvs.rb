@@ -7,7 +7,7 @@ require 'everypolitician/dataview/terms'
 desc 'Build the term-table CSVs'
 task csvs: ['term_csvs:term_tables', 'term_csvs:name_list', 'term_csvs:positions', 'term_csvs:reports']
 
-CLEAN.include('term-*.csv', 'names.csv')
+CLEAN.include('term-*.csv')
 
 namespace :term_csvs do
   desc 'Generate the Term Tables'
@@ -33,15 +33,14 @@ namespace :term_csvs do
   end
 
   task name_list: :term_tables do
+    warn "Creating #{NAMES_CSV}"
     names = @popolo.persons.flat_map do |p|
       Set.new([p.name]).merge(p.other_names.map { |n| n[:name] }).map { |n| [n, p.id] }
     end.uniq { |name, id| [name.downcase, id] }.sort_by { |name, id| [name.downcase, id] }
 
-    filename = 'names.csv'
     header = %w[name id].to_csv
-    csv    = [header, names.map(&:to_csv)].compact.join
-    warn "Creating #{filename}"
-    File.write(filename, csv)
+    csv    = names.map(&:to_csv).compact.join
+    NAMES_CSV.write(header + csv)
   end
 
   desc 'Add some final reporting information'
