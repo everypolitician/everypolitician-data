@@ -52,9 +52,10 @@ module Source
       end
 
       if unmatched.any? && merge_instructions.dig(:report_missing) != false
-        add_warning '* %d of %d unmatched'.magenta % [unmatched.count, as_table.count]
-        unmatched.sample(10).each do |r|
-          add_warning "\t#{r.to_hash.reject { |_, v| v.to_s.empty? }.select { |k, _| %i[id name].include? k }}"
+        add_warning "\t* %d of %d unmatched".magenta % [unmatched.count, as_table.count]
+        unmatched.sample(10).each do |row|
+          info = row.to_hash.compact.slice(:id, :name)
+          add_warning "\t#{info}" if info.any?
         end
       end
 
