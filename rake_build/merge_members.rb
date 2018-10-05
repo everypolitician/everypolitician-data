@@ -32,11 +32,7 @@ namespace :merge_members do
     @SOURCES.select(&:person_data?).each do |source|
       warn "Merging with #{source.filename}".green
       merged_rows = source.merged_with(merged_rows)
-
-      if source.warnings.any?
-        warn 'Data Mismatches'
-        warn source.warnings.to_a.join("\n")
-      end
+      warn source.warnings.to_a.join("\n") if source.warnings.any?
       all_headers |= source.additional_headers.to_a
     end
 
