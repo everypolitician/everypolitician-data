@@ -41,13 +41,12 @@ namespace :merge_members do
     end
 
     # Gender information from Gender-Balance.org
+    # TODO: these are all being migrated to Morph
+    #   https://github.com/everypolitician/everypolitician/issues/598
     @INSTRUCTIONS.sources_of_type('gender').each do |source|
-      warn "Adding GenderBalance results from #{source.filename}".green
+      warn "Adding unmigrated GenderBalance results from #{source.filename}".green
       merged_rows = source.merged_with(merged_rows)
-      if source.warnings.any?
-        warn 'GenderBalance Mismatches'
-        warn source.warnings.to_a.join("\n")
-      end
+      warn source.warnings.to_a.join("\n") if source.warnings.any?
     end
 
     # OCD IDs -> names
