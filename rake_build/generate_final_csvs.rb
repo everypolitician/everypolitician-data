@@ -12,6 +12,7 @@ CLEAN.include('term-*.csv')
 namespace :term_csvs do
   desc 'Generate the Term Tables'
   task term_tables: POPOLO_JSON do
+    warn "Creating termfiles"
     @popolo = popolo = EveryPolitician::Popolo.read(POPOLO_JSON)
     terms = EveryPolitician::Dataview::Terms.new(popolo: @popolo).terms
     terms.each do |term|
@@ -65,6 +66,7 @@ namespace :term_csvs do
   desc 'Build the Cabinet file'
   task positions: [POPOLO_JSON] do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
+    warn "Creating #{POSITION_CSV}"
 
     data = src.filtered(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
