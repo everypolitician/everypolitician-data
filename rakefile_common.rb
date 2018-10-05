@@ -63,6 +63,14 @@ CLEAN.include MERGED_JSON
 # Files at project level
 POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')
 
+if RUBY_VERSION < '2.4'
+  Hash.class_eval do
+    def compact
+      reject { |_, v| v.to_s.empty? }
+    end
+  end
+end
+
 Numeric.class_eval do
   def empty?
     false
