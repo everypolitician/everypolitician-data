@@ -5,13 +5,6 @@
   "persons": [
     {
       "birth_date": "1967-07-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "stephane.crusniere@lachambre.be"
-        }
-      ],
-      "email": "stephane.crusniere@lachambre.be",
       "gender": "male",
       "given_name": "Stéphane",
       "id": "014de10e-b557-4c6e-9b40-3be52de53f49",
@@ -9053,6 +9046,10 @@
       "sort_name": "Delannois Paul-Olivier"
     },
     {
+      "id": "c173ca53-e5e9-4f24-b3fb-7ed7fb57d78e",
+      "name": "Michel Corthouts"
+    },
+    {
       "birth_date": "1956-03-21",
       "contact_details": [
         {
@@ -14345,6 +14342,7 @@
   "memberships": [
     {
       "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
+      "end_date": "2018-10-04",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15490,6 +15488,14 @@
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "bfc27124-ef22-49a8-9c17-9a441a728c57",
       "role": "member"
+    },
+    {
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "c173ca53-e5e9-4f24-b3fb-7ed7fb57d78e",
+      "role": "member",
+      "start_date": "2018-10-04"
     },
     {
       "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
