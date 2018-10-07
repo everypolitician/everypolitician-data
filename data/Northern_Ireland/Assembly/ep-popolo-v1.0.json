@@ -2726,6 +2726,15 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "johnblairmla"
+        }
+      ],
+      "family_name": "Blair",
+      "gender": "male",
+      "given_name": "John",
       "id": "29b186a6-53a7-46f8-bf6c-e559d230ecef",
       "identifiers": [
         {
@@ -2735,12 +2744,26 @@
         {
           "identifier": "uk.org.publicwhip/person/25741",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q56702135",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://aims.niassembly.gov.uk/images/mla/6166_s.jpg",
       "images": [
         {
           "url": "http://aims.niassembly.gov.uk/images/mla/6166_s.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/john.blair.9809672"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/johnblairmla"
         }
       ],
       "name": "John Blair"
@@ -15518,6 +15541,16 @@
       ]
     },
     {
+      "birth_date": "1986-06-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "emmarogansf"
+        }
+      ],
+      "family_name": "Rogan",
+      "gender": "female",
+      "given_name": "Emma",
       "id": "ee7c8973-9ee3-475f-9614-a871975cc79b",
       "identifiers": [
         {
@@ -15527,12 +15560,30 @@
         {
           "identifier": "uk.org.publicwhip/person/25716",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q33088456",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://aims.niassembly.gov.uk/images/mla/6160_s.jpg",
       "images": [
         {
           "url": "http://aims.niassembly.gov.uk/images/mla/6160_s.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emma_Rogan"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/emmaroganmla"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/emmarogansf"
         }
       ],
       "name": "Emma Rogan"
