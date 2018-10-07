@@ -69,11 +69,11 @@ namespace :term_csvs do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
     source_warn "Creating #{POSITION_CSV}"
 
-    data = src.filtered(position_map: POSITION_FILTER_CSV)
+    wanted, unwanted = src.partitioned(position_map: POSITION_FILTER_CSV)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
     csv_headers = %w[id name position start_date end_date type].to_csv
-    csv_data = data.select { |r| members.key? r[:id] }.map do |r|
+    csv_data = wanted.select { |r| members.key? r[:id] }.map do |r|
       member = members[r[:id]].first
       warn "  ☇ No dates for #{member.name} (#{member.wikidata}) as #{r[:label]}" if r[:start_date].to_s.empty? && r[:end_date].to_s.empty?
       [member.id, member.name, r[:label], r[:start_date], r[:end_date], 'cabinet'].to_csv
