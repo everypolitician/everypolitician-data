@@ -32,7 +32,7 @@ module Source
         gb_added += 1
       end
       # TODO: have a standardised way of passing back reporting info
-      warn "  ⚥ data for #{gb_score}; #{gb_added} added\n".cyan unless gb_score.zero?
+      warn "  ⚥ data for #{gb_score}; #{gb_added} added".cyan unless gb_score.zero?
       csv
     end
   end
