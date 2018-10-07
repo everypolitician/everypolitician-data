@@ -82,7 +82,11 @@ namespace :term_csvs do
     POSITION_CSV.dirname.mkpath
     POSITION_CSV.write(csv_headers + csv_data.join)
 
-    # TODO: Warn about uncategorised positions
+    # Warn about uncategorised positions
+    skipped = unwanted.group_by { |r| r[:position] }.sort_by { |_r, rs| rs.count }.reverse
+    skipped.take(3).each do |posn, posns|
+      warn "  ⁕ skipped #{posns.count} x #{posn} (#{posns.first[:label]})"
+    end
   end
 end
 
