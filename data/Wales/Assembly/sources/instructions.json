@@ -11,16 +11,6 @@
       "type": "membership"
     },
     {
-      "file": "archive/official-4.csv",
-      "source": "http://www.assembly.wales/",
-      "type": "person",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/official-4.csv"
-      }
-    },
-    {
       "file": "morph/official-5.csv",
       "create": {
         "from": "morph",
@@ -48,6 +38,16 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
+      "file": "archive/official-4.csv",
+      "source": "http://www.assembly.wales/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-4.csv"
       }
     },
     {
