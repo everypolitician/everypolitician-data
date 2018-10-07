@@ -19,7 +19,7 @@ namespace :term_csvs do
       path = Pathname.new('term-%s.csv' % term.id)
       path.write(term.as_csv)
 
-      # TODO: make this a separate task
+      # TODO: make generating latest.csv a separate task
       next unless term.id == terms.last.id
 
       latest = Pathname.new('unstable/latest.csv')
@@ -27,9 +27,13 @@ namespace :term_csvs do
       csv = CSV.table(path).delete_if { |r| r[:end_date] && r[:end_date] < today }.tap do |t|
         %i[chamber end_date].each { |col| t.delete(col) }
       end
-      term_start = popolo.terms.find { |t| t.id.split('/').last == term.id }.start_date
+      popolo_term = popolo.terms.find { |t| t.id.split('/').last == term.id }
+      term_start = popolo_term.start_date
       csv.each { |r| r[:start_date] ||= term_start }
       latest.write(csv.to_s)
+
+      term_end = popolo_term.end_date
+      warn " *** latest term ended on #{term_end} *** ".red if term_end && term_end < today
     end
   end
 
