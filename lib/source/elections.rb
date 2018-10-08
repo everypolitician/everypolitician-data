@@ -12,7 +12,7 @@ module Source
 
     def events
       as_json.map do |id, data|
-        name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for #{id}"
+        name = data[:other_names].find { |h| h[:lang] == 'en' } or next warn "no English name for election #{id}"
         dates = (data.key?(:start_date) && data.key?(:end_date) ?
                   [data[:start_date], data[:end_date]] :
                   [data[:dates]]
