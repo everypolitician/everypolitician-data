@@ -28,10 +28,10 @@ module Source
     # Currently we just recognise a hash of k:v pairs to accept if matching
     # TODO: add 'reject' and more complex expressions
     def as_table
-      return raw_table unless i(:filter)
+      return corrected_data unless i(:filter)
 
       filter = ->(row) { i(:filter)[:accept].all? { |k, v| row[k] == v } }
-      @as_table ||= raw_table.select { |row| filter.call(row) }
+      @as_table ||= corrected_data.select { |row| filter.call(row) }
     end
 
     # TODO: split this up. This version was migrated directly from the
