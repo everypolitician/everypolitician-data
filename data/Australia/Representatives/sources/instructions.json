@@ -7,6 +7,7 @@
         "scraper": "everypolitician-scrapers/australia-openaustralia",
         "query": "SELECT *, id AS identifier__openaustralia FROM data ORDER BY id"
       },
+      "corrections": "corrections/openaustralia.csv",
       "source": "http://data.openaustralia.org/",
       "type": "membership"
     },
@@ -101,10 +102,6 @@
         "scraper": "everypolitician-scrapers/australia-positions",
         "query": "SELECT * FROM data ORDER BY id, position, start_date"
       }
-    },
-    {
-      "file": "manual/corrections.csv",
-      "type": "corrections"
     },
     {
       "file": "wikidata/elections.json",
