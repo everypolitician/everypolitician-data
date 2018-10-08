@@ -51,7 +51,7 @@ module Source
         end
       end
 
-      if unmatched.any? && merge_instructions.dig(:report_missing) != false
+      if unmatched.any? && merge_instructions.dig(:report_extras) != false
         add_warning "\t* %d of %d unmatched".magenta % [unmatched.count, as_table.count]
         unmatched.sample(10).each do |row|
           info = row.to_hash.compact.slice(:id, :name)
