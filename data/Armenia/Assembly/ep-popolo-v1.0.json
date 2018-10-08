@@ -4131,6 +4131,7 @@
     },
     {
       "birth_date": "1959-05-01",
+      "death_date": "2018-10-07",
       "gender": "male",
       "id": "8a5662bf-b6fc-4f19-9e22-0c5518aacf4c",
       "identifiers": [
@@ -4154,6 +4155,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Հարություն_Ղարագյոզյան"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Карагезян,_Арутюн_Арпиарович"
@@ -7258,13 +7263,26 @@
         {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/واهه_انفیجایان"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Վահե_Էնֆիաջյան"
         }
       ],
       "name": "Vahe Enfiajyan",
       "other_names": [
         {
+          "name": "Վահե Էնֆիաջյան",
+          "note": "alternate"
+        },
+        {
           "lang": "fa",
           "name": "واهه انفیجایان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Վահե Էնֆիաջյան",
           "note": "multilingual"
         },
         {
@@ -8977,6 +8995,12 @@
         {
           "lang": "ja",
           "name": "遺産 (政党)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Herencia",
           "note": "multilingual",
           "source": "wikidata-label"
         },
