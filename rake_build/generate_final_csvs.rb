@@ -85,7 +85,7 @@ namespace :term_csvs do
     # Warn about uncategorised positions
     skipped = unwanted.group_by { |r| r[:position] }.sort_by { |_r, rs| rs.count }.reverse
     skipped.take(3).each do |posn, posns|
-      warn "  ⁕ skipped #{posns.count} x #{posn} (#{posns.first[:label]})"
+      warn "  ⁕ skipped #{posns.count} x #{posn} (#{posns.first[:label]}) — e.g. #{posns.first[:id]}"
     end
   end
 end
