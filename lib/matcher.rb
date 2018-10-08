@@ -11,11 +11,11 @@ class Matcher
   end
 
   def existing
-    @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
+    @existing ||= @_existing_rows.group_by { |r| r[@_existing_field].to_s.downcase }
   end
 
   def existing_by_uuid
-    @_existing_rows.group_by { |r| r[:uuid].to_s }
+    @existing_by_uuid ||= @_existing_rows.group_by { |r| r[:uuid].to_s }
   end
 end
 
