@@ -7,6 +7,7 @@
         "scraper": "tmtmtmtm/colombia-representantes",
         "query": "SELECT * FROM data ORDER BY id"
       },
+      "corrections": "corrections/official.csv",
       "source": "http://www.camara.gov.co/",
       "type": "membership"
     },
@@ -28,10 +29,6 @@
     {
       "file": "manual/terms.csv",
       "type": "term"
-    },
-    {
-      "file": "manual/corrections.csv",
-      "type": "corrections"
     },
     {
       "file": "morph/genderbalance.csv",
