@@ -7,6 +7,7 @@
         "scraper": "tmtmtmtm/finland-eduskunta-kansanmuisti",
         "query": "SELECT * FROM data ORDER BY id"
       },
+      "corrections": "corrections/kansanmuisti.csv",
       "source": "http://kansanmuisti.fi/",
       "type": "membership"
     },
@@ -97,10 +98,6 @@
         "scraper": "everypolitician-scrapers/finland-positions",
         "query": "SELECT * FROM data ORDER BY id, position, start_date"
       }
-    },
-    {
-      "file": "manual/corrections.csv",
-      "type": "corrections"
     },
     {
       "file": "wikidata/elections.json",
