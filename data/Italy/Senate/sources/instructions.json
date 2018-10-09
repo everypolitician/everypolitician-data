@@ -1,12 +1,7 @@
  {
   "sources": [
     {
-      "file": "morph/openpolis.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/openpolis-scraper",
-        "query": "SELECT * FROM data WHERE house = 'Senate' ORDER BY id"
-      },
+      "file": "archive/openpolis-17.csv",
       "source": "http://politici.openpolis.it",
       "type": "membership"
     },
