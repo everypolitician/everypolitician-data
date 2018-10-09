@@ -61,6 +61,7 @@ namespace :term_csvs do
     wikidata_matched('Areas', @popolo.areas.partition(&:wikidata))
     wikidata_matched('Parties', @popolo.organizations.where(classification: 'party')
                      .reject { |p| p.name.downcase.include? 'unknown' }.partition(&:wikidata))
+    wikidata_matched('Terms', @popolo.events.where(classification: 'legislative period').partition(&:wikidata))
   end
 
   desc 'Build the Cabinet file'
