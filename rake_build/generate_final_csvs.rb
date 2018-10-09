@@ -48,24 +48,19 @@ namespace :term_csvs do
     NAMES_CSV.write(header + csv)
   end
 
+  def wikidata_matched(type, partitioned_collection)
+    matched, unmatched = partitioned_collection.map(&:count)
+    warn "#{type} matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
+    partitioned_collection.last.shuffle.take(10).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
+  end
+
   desc 'Add some final reporting information'
   task reports: :term_tables do
     warn '-' * 72
-    wikidata_persons = @popolo.persons.partition(&:wikidata)
-    wikidata_areas   = @popolo.areas.partition(&:wikidata)
-    wikidata_parties = @popolo.organizations.where(classification: 'party').reject { |p| p.name.downcase.include? 'unknown' }.partition(&:wikidata)
-
-    matched, unmatched = wikidata_persons.map(&:count)
-    warn "Persons matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_persons.last.shuffle.take(10).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
-
-    matched, unmatched = wikidata_parties.map(&:count)
-    warn "Parties matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_parties.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
-
-    matched, unmatched = wikidata_areas.map(&:count)
-    warn "Areas matched to Wikidata: #{matched} ✓ #{unmatched.zero? ? '' : "| #{unmatched} ✘"}"
-    wikidata_areas.last.shuffle.take(5).each { |p| warn "  No wikidata: #{p.name} (#{p.id})" } unless matched.zero?
+    wikidata_matched('Persons', @popolo.persons.partition(&:wikidata))
+    wikidata_matched('Areas', @popolo.areas.partition(&:wikidata))
+    wikidata_matched('Parties', @popolo.organizations.where(classification: 'party')
+                     .reject { |p| p.name.downcase.include? 'unknown' }.partition(&:wikidata))
   end
 
   desc 'Build the Cabinet file'
