@@ -4,12 +4,19 @@
 # Update the `stats.json` file for a Legislature
 #-----------------------------------------------------------------------
 
+require 'date' # To give us DateTime.now
+
 STATSFILE = Pathname.new('unstable/stats.json')
 
 namespace :stats do
-  def lastmod(file)
-    path = Pathname('sources') + file
-    `git log -1 --format="%ai" -- #{path}`.split.first
+  def lastmod(source)
+    path = Pathname('sources') + source[:file]
+    lm = `git log -1 --format="%ai" -- #{path}`.split.first
+    if source.key? :create
+      elapsed = (DateTime.now - Date.parse(lm)).to_i
+      warn "  ☢  #{source[:file]} has not been updated for #{elapsed} days" if elapsed > 90
+    end
+    lm
   end
 
   task :regenerate do
@@ -19,7 +26,7 @@ namespace :stats do
         file:    src[:file],
         type:    src[:type],
         scraper: src.dig(:create, :scraper),
-        lastmod: lastmod(src[:file]),
+        lastmod: lastmod(src),
       }
     end
     STATSFILE.dirname.mkpath
