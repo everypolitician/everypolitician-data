@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/venezuela-asamblea",
-        "query": "SELECT *, 2011 AS term FROM data WHERE term = 2015 ORDER BY id"
+        "query": "SELECT *, 3 AS term FROM data WHERE term = 2015 ORDER BY id"
       },
       "source": "http://asambleanacional.gob.ve/",
       "type": "membership"
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/venezuela-asamblea",
-        "query": "SELECT * FROM data WHERE term = 2016 ORDER BY id"
+        "query": "SELECT *, 4 FROM data WHERE term = 2016 ORDER BY id"
       },
       "source": "http://asambleanacional.gob.ve/",
       "merge": {
@@ -41,7 +41,12 @@
       }
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/venezuela-assembly-terms-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
       "type": "term"
     },
     {
