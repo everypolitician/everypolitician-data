@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 50,
-    "wikidata": 50
+    "wikidata": 0
   },
   "elections": {
     "count": 76,
@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 21
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/unitedstates-project.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/us-congress-members",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/socialmedia.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/us-congress-members-social-media",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/us-senators-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/parties.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "ocd/divisions.csv",
+      "type": "ocd-names",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/us-states-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/united-states-of-america-senate-gender-balance",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/us-senators-positions",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    }
+  ]
 }
