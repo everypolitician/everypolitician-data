@@ -25,13 +25,18 @@ namespace :stats do
   def github_lastmod(file)
     lc = octokit.commits('everypolitician/everypolitician-data', path: datapath + file).first
     lc.commit.author.date.to_date
+  rescue Octokit::TooManyRequests
+    nil
+  rescue => e
+    warn e
+    nil
   end
 
   def lastmod(source)
     path = Pathname('sources') + source[:file]
     lm = ENV['EP_FULL_GIT'] ? local_git_lastmod(path) : github_lastmod(path)
 
-    if source.key? :create
+    if lm && source.key?(:create)
       elapsed = (DateTime.now - lm).to_i
       warn "  ☢  #{source[:file]} has not been updated for #{elapsed} days" if elapsed > 90
     end
