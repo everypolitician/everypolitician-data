@@ -14,8 +14,8 @@
     }
   },
   "groups": {
-    "count": 20,
-    "wikidata": 20
+    "count": 17,
+    "wikidata": 17
   },
   "terms": {
     "count": 6,
@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 36
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/iceland-althing-wp",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/iceland-althing-members-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/iceland-althingismenn-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/iceland-assembly-gender-balance",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/iceland-positions",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    }
+  ]
 }
