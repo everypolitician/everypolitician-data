@@ -32,5 +32,97 @@
   },
   "positions": {
     "cabinet": 98
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/parlinfo.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/canada-parlinfo",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "archive/represent-41.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/represent-42.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/represent-ca",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/canada-house-of-commons-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/twitter.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/politwitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/politwitfb.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/politwityt.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/canada-federal-ridings-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-commons-gender-balance",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/canada-positions",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    }
+  ]
 }
