@@ -61,7 +61,8 @@ COUNTRY_META = Pathname.new('../meta.json')
 CLEAN.include(MERGED_CSV, MERGED_JSON, NAMES_CSV)
 
 # Files at project level
-POSITION_LEARNER = Pathname.new('../../../bin/learn_position.rb')
+PROJECT = Pathname.new('../../..')
+POSITION_LEARNER = PROJECT + 'bin/learn_position.rb'
 
 if RUBY_VERSION < '2.4'
   Hash.class_eval do
