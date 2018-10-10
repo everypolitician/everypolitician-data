@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 1758,
+    "count": 1759,
     "wikidata": 1598,
     "latest_term": {
-      "count": 350,
-      "wikidata": 289,
-      "images": 350,
+      "count": 352,
+      "wikidata": 290,
+      "images": 352,
       "contacts": {
         "email": 0,
         "facebook": 10,
-        "twitter": 169
+        "twitter": 170
       }
     }
   },
@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 75
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-api.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/sweden-parliament-api",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/sweden-riksdag-members-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "tmtmtmtm/sweden-parliament-api",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/sweden-riksdag-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/sweden-positions",
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-sweden",
+      "lastmod": "2018-05-25"
+    }
+  ]
 }
