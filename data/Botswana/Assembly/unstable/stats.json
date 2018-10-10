@@ -14,8 +14,8 @@
     }
   },
   "groups": {
-    "count": 3,
-    "wikidata": 3
+    "count": 4,
+    "wikidata": 1
   },
   "terms": {
     "count": 1,
@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/botswana-national-assembly-wp",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "archive/wikipedia-ceased.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/botswana-national-assembly",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/botswana-national-assembly-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/botswana-assembly-gender-balance",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    }
+  ]
 }
