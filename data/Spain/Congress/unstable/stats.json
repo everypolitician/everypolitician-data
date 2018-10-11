@@ -32,5 +32,73 @@
   },
   "positions": {
     "cabinet": 15
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/proyectocolibri.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/spain-proyectocolibri",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "struan/spain_congreso_es",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/old-official-2015.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "morph/official-2015.csv",
+      "type": "person",
+      "scraper": "struan/spain_congreso_es",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/spain-diputados-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/spanish-congress-terms-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/spain-congress-gender-balance",
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/spain-positions",
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-30"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-spain-congreso",
+      "lastmod": "2018-05-23"
+    }
+  ]
 }
