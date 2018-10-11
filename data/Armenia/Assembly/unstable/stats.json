@@ -44,13 +44,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/armenia-assembly-wikidata",
-      "lastmod": "2018-10-10"
+      "lastmod": "2018-10-11"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-06-28"
+      "scraper": "everypolitician-scrapers/armenia-assembly-terms-wikidata",
+      "lastmod": null
     },
     {
       "file": "wikidata/groups.json",
@@ -74,7 +74,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-10-10"
+      "lastmod": "2018-10-11"
     }
   ]
 }
