@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 299
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/israel-knesset-members",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/israel-knesset-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-israel",
+      "lastmod": "2018-05-25"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "tmtmtmtm/israel-knesset-members",
+      "lastmod": "2016-06-03"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/israel-knesset-gender-balance",
+      "lastmod": "2017-04-09"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/israel-positions",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    }
+  ]
 }
