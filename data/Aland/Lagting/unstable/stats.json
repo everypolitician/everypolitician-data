@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 12,
+    "count": 13,
     "wikidata": 12
   },
   "terms": {
@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 8
-  }
+  },
+  "sources": [
+    {
+      "file": "manual/official-old.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/aland-lagting",
+      "lastmod": "2017-07-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/aland-lagting-wikidata",
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-06-07"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-10-19"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-03-06"
+    }
+  ]
 }
