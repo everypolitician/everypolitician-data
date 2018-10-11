@@ -12,6 +12,9 @@ STATSFILE = Pathname.new('unstable/stats.json')
 namespace :stats do
   def local_git_lastmod(file)
     Date.parse `git log -1 --format="%ai" -- #{file}`.split.first
+  rescue => e
+    warn e
+    nil
   end
 
   def octokit
