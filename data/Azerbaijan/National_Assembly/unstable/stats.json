@@ -5,7 +5,7 @@
     "latest_term": {
       "count": 124,
       "wikidata": 124,
-      "images": 31,
+      "images": 32,
       "contacts": {
         "email": 0,
         "facebook": 1,
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikipedia",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/azerbaijan-assembly-terms-wikidata",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/azerbaijan-national-assembly-gender-balance",
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-23"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-08-18"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-03-16"
+    }
+  ]
 }
