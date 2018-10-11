@@ -27,10 +27,54 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 7,
-    "latest": "2017-04-02"
+    "count": 8,
+    "latest": "2018-12"
   },
   "positions": {
     "cabinet": 3
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-5.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-09-05"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/armenia-assembly-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-06-28"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/armenia-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/armenia-positions",
+      "lastmod": "2018-08-01"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    }
+  ]
 }
