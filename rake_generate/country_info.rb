@@ -10,12 +10,17 @@ task :refresh_country_meta do
 
   query = <<~SPARQL
     SELECT DISTINCT (STRAFTER(STR(?country), STR(wd:)) AS ?country_id) ?countryLabel ?iso
+                    (STRAFTER(STR(?legislator), STR(wd:)) AS ?member_id) ?legislatorLabel
                     (STRAFTER(STR(?cabinet), STR(wd:)) AS ?cabinet_id) ?cabinetLabel WHERE {
       BIND(wd:%s as ?legislature)
       ?legislature wdt:P1001 ?country .
       OPTIONAL { ?country wdt:P297 ?iso }
       OPTIONAL { ?country wdt:P300 ?iso }
       OPTIONAL { ?cabinet wdt:P279* wd:Q640506 ; wdt:P1001 ?country }
+      OPTIONAL {
+        ?legislature wdt:P527|wdt:P2670 ?legislator .
+        ?legislator wdt:P279* wd:Q4175034
+      }
       SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
     }
   SPARQL
@@ -47,9 +52,10 @@ task :refresh_country_meta do
   new_data = base_data.merge(existing_data).merge(replacement_data)
   COUNTRY_META.write JSON.pretty_generate(new_data)
 
-  # Make sure the legislature also has a UUID
-  unless l_json.key? :uuid
-    l_json[:uuid] = SecureRandom.uuid
-    LEGISLATURE_META.write JSON.pretty_generate(l_json)
+  if l_json[:member] != info[:member_id]
+    l_json[:member] = info[:member_id]
+    warn "Member = #{info[:legislatorlabel]}"
   end
+  l_json[:uuid] ||= SecureRandom.uuid
+  LEGISLATURE_META.write JSON.pretty_generate(l_json)
 end
