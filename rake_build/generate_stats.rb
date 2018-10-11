@@ -18,7 +18,13 @@ namespace :stats do
   end
 
   def octokit
-    @octokit ||= Octokit::Client.new
+    @octokit ||= Octokit::Client.new(access_token: github_access_token)
+  end
+
+  def github_access_token
+    @github_access_token ||= ENV.fetch('GITHUB_ACCESS_TOKEN')
+  rescue KeyError
+    abort 'Please set GITHUB_ACCESS_TOKEN in the environment before running'
   end
 
   def datapath
