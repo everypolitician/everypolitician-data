@@ -32,5 +32,73 @@
   },
   "positions": {
     "cabinet": 391
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/ireland-dail-wikidata-p39s",
+      "lastmod": "2018-09-12"
+    },
+    {
+      "file": "archive/kildare31.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2018-08-03"
+    },
+    {
+      "file": "morph/kildare32.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/ireland-kildarestreet",
+      "lastmod": "2018-08-03"
+    },
+    {
+      "file": "morph/twitter-donie.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-ireland-donie",
+      "lastmod": "2016-11-04"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/ireland-dail-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/irish-dail-terms-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/ireland-constituencies",
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/ireland-dail-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/ireland-positions",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    }
+  ]
 }
