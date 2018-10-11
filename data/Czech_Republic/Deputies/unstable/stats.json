@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 38
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/parldata.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/czech-chamber-of-deputies",
+      "lastmod": "2017-05-21"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/czech-chamber-of-deputies-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/czech-republic-deputies-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/czech-positions",
+      "lastmod": "2018-07-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-27"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-17"
+    }
+  ]
 }
