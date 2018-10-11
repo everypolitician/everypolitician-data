@@ -1,20 +1,20 @@
 {
   "people": {
-    "count": 606,
-    "wikidata": 392,
+    "count": 753,
+    "wikidata": 89,
     "latest_term": {
-      "count": 165,
+      "count": 326,
       "wikidata": 89,
-      "images": 165,
+      "images": 326,
       "contacts": {
-        "email": 165,
+        "email": 301,
         "facebook": 2,
         "twitter": 1
       }
     }
   },
   "groups": {
-    "count": 42,
+    "count": 49,
     "wikidata": 41
   },
   "terms": {
@@ -31,6 +31,56 @@
     "latest": "2016-03-05"
   },
   "positions": {
-    "cabinet": 12
-  }
+    "cabinet": 2
+  },
+  "sources": [
+    {
+      "file": "morph/parldata.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/slovakia-national-council",
+      "lastmod": "2017-03-24"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/slovakia-national-assembly-2016",
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/slovakia-national-council-wikidata",
+      "lastmod": "2018-10-05"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/slovakia-national-council-gender-balance",
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/slovakia-positions",
+      "lastmod": "2018-03-23"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    }
+  ]
 }
