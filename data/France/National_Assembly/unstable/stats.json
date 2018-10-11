@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1552,
-    "wikidata": 1542,
+    "wikidata": 745,
     "latest_term": {
       "count": 586,
-      "wikidata": 586,
+      "wikidata": 277,
       "images": 586,
       "contacts": {
         "email": 0,
-        "facebook": 275,
-        "twitter": 540
+        "facebook": 128,
+        "twitter": 511
       }
     }
   },
@@ -31,6 +31,68 @@
     "latest": "2017-06-18"
   },
   "positions": {
-    "cabinet": 57
-  }
+    "cabinet": 29
+  },
+  "sources": [
+    {
+      "file": "archive/nosdeputes14.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/nosdeputes.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/nos_deputes_france",
+      "lastmod": null
+    },
+    {
+      "file": "morph/sycomore.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/france-national-assembly-syccomore",
+      "lastmod": null
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/france-chamber-of-deputies-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/france-positions",
+      "lastmod": null
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/france-national-assembly-gender-balance",
+      "lastmod": null
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/france-constituencies-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": null
+    }
+  ]
 }
