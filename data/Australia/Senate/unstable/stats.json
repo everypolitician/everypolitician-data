@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 58
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/openaustralia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/australia-openaustralia-senators",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/contacts.csv",
+      "type": "person",
+      "scraper": "openaustralia/aus_mp_contact_details",
+      "lastmod": "2017-04-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/australia-senators-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-12"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/australia-senate-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-australia-senate",
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/australia-states",
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
