@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 5
-  }
+  },
+  "sources": [
+    {
+      "file": "manual/official-6.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-10-13"
+    },
+    {
+      "file": "morph/official-7.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/russia-duma-2016",
+      "lastmod": "2017-01-04"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/russian-duma-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/russia-duma-terms-wikidata",
+      "lastmod": "2018-09-27"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/russia-duma-gender-balance",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/russia-positions",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-06"
+    }
+  ]
 }
