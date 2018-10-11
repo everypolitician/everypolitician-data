@@ -1,6 +1,6 @@
 {
   "people": {
-    "count": 651,
+    "count": 1330,
     "wikidata": 163,
     "latest_term": {
       "count": 432,
@@ -23,7 +23,7 @@
     "wikidata": 2
   },
   "areas": {
-    "count": 558,
+    "count": 559,
     "wikidata": 0
   },
   "elections": {
@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 4
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-term-9.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/uganda-parliament-scraper",
+      "lastmod": null
+    },
+    {
+      "file": "manual/missing-9.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "google/sheet.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/uganda-parliament-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/uganda-parliament-gender-balance",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/uganda-positions",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": null
+    }
+  ]
 }
