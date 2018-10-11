@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 132
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-09-25"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/denmark-folketing",
+      "lastmod": "2018-03-05"
+    },
+    {
+      "file": "morph/wikipedia-historic.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/denmark-folketing-wp",
+      "lastmod": "2016-08-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/denmark-folketing-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-02"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/denmark-folketing-gender-balance",
+      "lastmod": "2017-04-10"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/denmark-positions",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    }
+  ]
 }
