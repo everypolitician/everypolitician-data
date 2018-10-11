@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 123,
-    "wikidata": 122
+    "wikidata": 123
   },
   "elections": {
     "count": 5,
@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 104
-  }
+  },
+  "sources": [
+    {
+      "file": "parlparse/data.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-08-02"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/scottish-parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-scotland",
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-06-24"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/scotland-positions",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-04"
+    }
+  ]
 }
