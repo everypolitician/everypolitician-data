@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/colombia-representantes",
+      "lastmod": null
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/colombia-representantes-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/colombia-representatives-terms-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/colombia-representatives-gender-balance",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": null
+    }
+  ]
 }
