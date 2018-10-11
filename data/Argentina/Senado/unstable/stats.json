@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/argentina-senate",
+      "lastmod": "2017-10-19"
+    },
+    {
+      "file": "archive/vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-19"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/argentina-senators-wikidata",
+      "lastmod": "2018-10-04"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-04"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "tmtmtmtm/argentina-provinces-wikidata",
+      "lastmod": "2017-10-04"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/argentina-senado-gender-balance",
+      "lastmod": "2018-08-23"
+    }
+  ]
 }
