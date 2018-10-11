@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/iceland-althing-members-wikidata",
-        "query": "SELECT * FROM data WHERE term in (2013, 2016) ORDER BY id"
+        "query": "SELECT * FROM data WHERE term in (2013, 2016, 2017) ORDER BY id"
       },
       "merge": {
         "incoming_field": "name",
