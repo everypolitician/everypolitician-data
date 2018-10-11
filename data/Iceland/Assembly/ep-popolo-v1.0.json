@@ -9007,78 +9007,6 @@
       ]
     },
     {
-      "birth_date": "1944-06-24",
-      "death_date": "2015-06-26",
-      "gender": "male",
-      "given_name": "Pétur",
-      "id": "ab60dd20-5295-42a4-a5d9-f9728e0d2d92",
-      "identifiers": [
-        {
-          "identifier": "pétur_h._blöndal",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/02vtt15",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "143534130",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "0000 0001 1540 126X",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "21176",
-          "scheme": "mgp"
-        },
-        {
-          "identifier": "097610887",
-          "scheme": "nta"
-        },
-        {
-          "identifier": "168463186",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q446307",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Pétur_Haraldsson_Blöndal"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pétur_Blöndal"
-        },
-        {
-          "note": "Wikipedia (is)",
-          "url": "https://is.wikipedia.org/wiki/Pétur_Blöndal"
-        },
-        {
-          "note": "Wikipedia (ja)",
-          "url": "https://ja.wikipedia.org/wiki/ペートゥル・ブロンダル"
-        }
-      ],
-      "name": "Pétur Blöndal",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Pétur Haraldsson Blöndal",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ペートゥル・ブロンダル",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "gender": "female",
       "id": "ab86415c-22d3-40c8-b942-999aa6b64b1b",
       "identifiers": [
@@ -11292,21 +11220,80 @@
       "name": "Elsa Lára Arnardóttir"
     },
     {
+      "birth_date": "1944-06-24",
+      "death_date": "2015-06-26",
       "gender": "male",
+      "given_name": "Pétur",
       "id": "ded4ce0b-6d6e-44e5-a51a-48725c551255",
       "identifiers": [
         {
           "identifier": "pétur_blöndal",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02vtt15",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "143534130",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1540 126X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "21176",
+          "scheme": "mgp"
+        },
+        {
+          "identifier": "097610887",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "168463186",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q446307",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Pétur_Haraldsson_Blöndal"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pétur_Blöndal"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Pétur_Blöndal"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ペートゥル・ブロンダル"
+        },
         {
           "note": "wikipedia",
           "url": "Pétur H. Blöndal"
         }
       ],
-      "name": "Pétur Blöndal"
+      "name": "Pétur Blöndal",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pétur Haraldsson Blöndal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ペートゥル・ブロンダル",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -21669,15 +21656,6 @@
       "role": "member"
     },
     {
-      "area_id": "Q2037988",
-      "end_date": "2015-06-26",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "Q218303",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "ab60dd20-5295-42a4-a5d9-f9728e0d2d92",
-      "role": "member"
-    },
-    {
       "area_id": "reykjanes",
       "legislative_period_id": "term/1999",
       "on_behalf_of_id": "social_democratic_alliance",
@@ -22776,6 +22754,15 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "Q2037988",
+      "end_date": "2015-06-26",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "Q218303",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ded4ce0b-6d6e-44e5-a51a-48725c551255",
+      "role": "member"
     },
     {
       "area_id": "south",
