@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 110
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/estonia-riigikogu-members-wikidata",
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "google/sheet-12.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-01-13"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/estonia-riigikogu",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/estonia-riigikogu-wikidata",
+      "lastmod": "2018-09-30"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/estonia-riigikogu-terms",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/estonia-constituencies",
+      "lastmod": "2018-08-23"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/estonia-riigikogu-gender-balance",
+      "lastmod": "2017-04-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/estonia-positions",
+      "lastmod": "2018-08-23"
+    }
+  ]
 }
