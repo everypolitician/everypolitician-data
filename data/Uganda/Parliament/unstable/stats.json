@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 4
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-term-9.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/uganda-parliament-scraper",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "manual/missing-9.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-04-08"
+    },
+    {
+      "file": "google/sheet.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-06-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/uganda-parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/uganda-parliament-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/uganda-positions",
+      "lastmod": "2018-03-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-06-11"
+    }
+  ]
 }
