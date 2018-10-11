@@ -54,7 +54,7 @@ namespace :transform do
     raise 'No meta.json file available' unless LEGISLATURE_META.exist?
 
     meta_info = json_load(LEGISLATURE_META)
-    @legislature.merge! meta_info
+    @legislature.merge! meta_info.except(:member)
     if @legislature.key?(:wikidata)
       (@legislature[:identifiers] ||= []) << {
         scheme:     'wikidata',
