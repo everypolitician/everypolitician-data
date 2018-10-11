@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/openpolis-17.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/openpolis-18.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/openpolis-scraper",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/italy-senate-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/italian-parliament-terms-wikidata",
+      "lastmod": "2018-09-14"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/italy-senate-gender-balance",
+      "lastmod": "2017-11-22"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    }
+  ]
 }
