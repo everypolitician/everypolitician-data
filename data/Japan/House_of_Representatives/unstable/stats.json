@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 23
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-46.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "archive/official-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/japan-house-of-representatives-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/japan-house-of-representatives-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/japan-constituencies",
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-11"
+    }
+  ]
 }
