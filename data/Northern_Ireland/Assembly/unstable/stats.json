@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "parlparse/data.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-23"
+    },
+    {
+      "file": "morph/aims.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/ni-assembly-members",
+      "lastmod": "2018-09-23"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/ni-assembly-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-03-06"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/northern-ireland-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/northern-ireland-constituencies",
+      "lastmod": "2018-09-12"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
