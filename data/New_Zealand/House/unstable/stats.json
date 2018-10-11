@@ -32,5 +32,79 @@
   },
   "positions": {
     "cabinet": 52
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-51.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "archive/official-52-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "morph/official-52.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/new-zealand-parliament",
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/new-zealand-parliament-wikipedia",
+      "lastmod": "2018-08-14"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/new-zealand-parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/new-zealand-parliament-terms-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/new-zealand-constituencies-wikidata",
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/new-zealand-house-gender-balance",
+      "lastmod": "2017-04-09"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/nz-positions",
+      "lastmod": "2018-09-12"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-14"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-new-zealand-parliament",
+      "lastmod": "2018-05-25"
+    }
+  ]
 }
