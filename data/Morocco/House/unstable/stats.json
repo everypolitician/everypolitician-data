@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-term-9.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "morph/term-10-nouabook.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/morocco-house-of-representatives-2016",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/official-10.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/morocco-house-of-representatives",
+      "lastmod": "2018-09-26"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/morocco-representatives-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-04-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/morocco-house-gender-balance",
+      "lastmod": "2017-05-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
