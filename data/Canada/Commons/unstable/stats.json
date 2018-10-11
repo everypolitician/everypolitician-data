@@ -8,7 +8,7 @@
       "images": 350,
       "contacts": {
         "email": 330,
-        "facebook": 102,
+        "facebook": 101,
         "twitter": 325
       }
     }
@@ -32,5 +32,97 @@
   },
   "positions": {
     "cabinet": 98
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/canada-house-of-commons-wikipedia",
+      "lastmod": null
+    },
+    {
+      "file": "morph/parlinfo.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/canada-parlinfo",
+      "lastmod": null
+    },
+    {
+      "file": "archive/represent-41.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/represent-42.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/represent-ca",
+      "lastmod": null
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/canada-house-of-commons-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "manual/twitter.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/politwitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": null
+    },
+    {
+      "file": "morph/politwitfb.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": null
+    },
+    {
+      "file": "morph/politwityt.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-politwitter",
+      "lastmod": null
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/canada-federal-ridings-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": null
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/canada-commons-gender-balance",
+      "lastmod": null
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/canada-positions",
+      "lastmod": null
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": null
+    }
+  ]
 }
