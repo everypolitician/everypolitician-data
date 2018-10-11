@@ -32,5 +32,73 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/welsh-assembly-p39s",
+      "lastmod": "2018-06-18"
+    },
+    {
+      "file": "morph/official-5.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/welsh-assembly",
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/wales-AMs-wikidata",
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "archive/official-4.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2018-06-18"
+    },
+    {
+      "file": "wikidata/parties.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/welsh-assembly-terms-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/wales-assembly-gender-balance",
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/wales-positions",
+      "lastmod": "2017-04-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-04-03"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/welsh-assembly-constituencies-wikidata",
+      "lastmod": "2018-08-23"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/welsh-national-assembly-twitter-list",
+      "lastmod": "2018-05-23"
+    }
+  ]
 }
