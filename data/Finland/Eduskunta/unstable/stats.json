@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 124
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/kansanmuisti.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/finland-eduskunta-kansanmuisti",
+      "lastmod": "2018-08-24"
+    },
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/finland-eduskunta-members-wikidata",
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/finland-eduskunta-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-finland",
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-01-27"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/finland-eduskunta-gender-balance",
+      "lastmod": "2017-04-08"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/finland-constituencies-wikidata",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-28"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/finland-positions",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-12"
+    }
+  ]
 }
