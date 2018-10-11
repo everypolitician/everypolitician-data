@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 132,
+    "count": 186,
     "wikidata": 93,
     "latest_term": {
-      "count": 132,
-      "wikidata": 93,
-      "images": 132,
+      "count": 105,
+      "wikidata": 39,
+      "images": 105,
       "contacts": {
-        "email": 0,
+        "email": 87,
         "facebook": 0,
         "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 7,
+    "count": 9,
     "wikidata": 7
   },
   "terms": {
-    "count": 1,
-    "latest": "2012-05-31",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2017-05-18",
+    "wikidata": 2
   },
   "areas": {
     "count": 131,
@@ -41,6 +41,12 @@
       "lastmod": "2017-09-05"
     },
     {
+      "file": "morph/official-6.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/armenia-assembly",
+      "lastmod": "2018-10-11"
+    },
+    {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/armenia-assembly-wikidata",
@@ -50,7 +56,7 @@
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/armenia-assembly-terms-wikidata",
-      "lastmod": null
+      "lastmod": "2018-10-11"
     },
     {
       "file": "wikidata/groups.json",
