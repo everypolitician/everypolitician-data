@@ -31,6 +31,56 @@
     "latest": "2014-05-07"
   },
   "positions": {
-    "cabinet": 0
-  }
+    "cabinet": 7
+  },
+  "sources": [
+    {
+      "file": "morph/wikidata-memberships.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/south-africa-national-assembly-wikidata",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "morph/peoplesassembly.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/south-africa-national-assembly",
+      "lastmod": "2018-09-26"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/south-african-national-assembly-members-wikidata",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/parties.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-02-23"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/south-africa-assembly-gender-balance",
+      "lastmod": "2018-02-19"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/south-africa-positions",
+      "lastmod": "2017-04-02"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    }
+  ]
 }
