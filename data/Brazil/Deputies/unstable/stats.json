@@ -7,7 +7,7 @@
       "wikidata": 579,
       "images": 597,
       "contacts": {
-        "email": 505,
+        "email": 507,
         "facebook": 52,
         "twitter": 41
       }
@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/brasil-deputados-historic",
+      "lastmod": "2017-04-03"
+    },
+    {
+      "file": "morph/official-55.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/brasil-deputados-scraper",
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/brasil-deputados-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-01"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/brazil-states",
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/brazil-deputies-gender-balance",
+      "lastmod": "2017-04-09"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/brazil-positions",
+      "lastmod": "2017-04-09"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    }
+  ]
 }
