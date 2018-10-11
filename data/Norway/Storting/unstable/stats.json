@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 127
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-api.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/norway-stortinget",
+      "lastmod": "2018-05-29"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/norway-stortingsrepresentanter-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "tmtmtmtm/norway-stortinget",
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/norway-storting-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/norway-positions",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
