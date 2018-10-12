@@ -8,7 +8,7 @@
       "images": 68,
       "contacts": {
         "email": 0,
-        "facebook": 3,
+        "facebook": 4,
         "twitter": 4
       }
     }
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 33
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/malaysian_parliament-wp",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/malaysian_parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/malaysian-parliament-terms-wikidata",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/malaysia-dewan-rakyat-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/malaysia-positions",
+      "lastmod": "2018-07-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    }
+  ]
 }
