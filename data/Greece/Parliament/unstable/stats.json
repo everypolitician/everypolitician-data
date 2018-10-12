@@ -31,62 +31,62 @@
     "latest": "2015-09-20"
   },
   "positions": {
-    "cabinet": 511
+    "cabinet": 510
   },
   "sources": [
     {
       "file": "morph/official.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/hellenic-parliament",
-      "lastmod": null
+      "lastmod": "2018-10-01"
     },
     {
       "file": "morph/official-bios.csv",
       "type": "person",
       "scraper": "tmtmtmtm/hellenic-parliament-bio",
-      "lastmod": null
+      "lastmod": "2018-04-09"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/hellenic-parliament-wikidata",
-      "lastmod": null
+      "lastmod": "2018-10-09"
     },
     {
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "tmtmtmtm/hellenic-parliament",
-      "lastmod": null
+      "lastmod": "2015-10-12"
     },
     {
       "file": "morph/genderbalance.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/greece-parliament-gender-balance",
-      "lastmod": null
+      "lastmod": "2018-09-09"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": null
+      "lastmod": "2018-09-11"
     },
     {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/greece-positions",
-      "lastmod": null
+      "lastmod": "2018-10-11"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": null
+      "lastmod": "2018-09-13"
     },
     {
       "file": "morph/twitter.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/greek-mps-twitter",
-      "lastmod": null
+      "lastmod": "2018-05-24"
     }
   ]
 }
