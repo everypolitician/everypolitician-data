@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 82,
+    "count": 137,
     "wikidata": 6,
     "latest_term": {
-      "count": 82,
-      "wikidata": 6,
-      "images": 82,
+      "count": 80,
+      "wikidata": 3,
+      "images": 80,
       "contacts": {
         "email": 0,
         "facebook": 3,
@@ -14,16 +14,16 @@
     }
   },
   "groups": {
-    "count": 6,
-    "wikidata": 6
+    "count": 13,
+    "wikidata": 9
   },
   "terms": {
-    "count": 1,
-    "latest": "2013-04-21",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2018-04-22",
+    "wikidata": 2
   },
   "areas": {
-    "count": 18,
+    "count": 21,
     "wikidata": 0
   },
   "elections": {
@@ -38,7 +38,13 @@
       "file": "archive/official-2013.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": null
+      "lastmod": "2018-10-12"
+    },
+    {
+      "file": "morph/official-2018.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/paraguay-diputados",
+      "lastmod": "2018-10-12"
     },
     {
       "file": "morph/wikidata.csv",
