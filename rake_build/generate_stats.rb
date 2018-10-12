@@ -41,21 +41,27 @@ namespace :stats do
     nil
   end
 
+  def lastmod_warning(source, lastmod)
+    return unless lastmod && source.key?(:create)
+
+    elapsed = (DateTime.now - lastmod).to_i
+    return unless elapsed > 90
+
+    warning = "  ☢  #{source[:file]} has not been updated for #{elapsed} days"
+    if source[:file].include?('gender')
+      missing = @popolo.persons.reject(&:gender).count
+      return if missing.zero?
+
+      return "#{warning} (#{missing} missing)"
+    end
+    warning
+  end
+
   def lastmod(source)
     path = Pathname('sources') + source[:file]
     lm = ENV['EP_FULL_GIT'] ? local_git_lastmod(path) : github_lastmod(path)
-
-    if lm && source.key?(:create)
-      elapsed = (DateTime.now - lm).to_i
-      if elapsed > 90
-        warning = "  ☢  #{source[:file]} has not been updated for #{elapsed} days"
-        if source[:file].include?('gender')
-          missing = @popolo.persons.reject(&:gender).count
-          warn "#{warning} (#{missing} missing)" unless missing.zero?
-        else
-          warn warning
-        end
-      end
+    if warning = lastmod_warning(source, lm)
+      warn warning
     end
     lm
   end
