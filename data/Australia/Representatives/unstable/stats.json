@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 512,
+    "count": 514,
     "wikidata": 512,
     "latest_term": {
-      "count": 150,
+      "count": 152,
       "wikidata": 150,
       "images": 150,
       "contacts": {
-        "email": 125,
-        "facebook": 116,
-        "twitter": 137
+        "email": 128,
+        "facebook": 121,
+        "twitter": 138
       }
     }
   },
   "groups": {
-    "count": 13,
-    "wikidata": 12
+    "count": 14,
+    "wikidata": 11
   },
   "terms": {
     "count": 11,
@@ -32,5 +32,73 @@
   },
   "positions": {
     "cabinet": 240
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/openaustralia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/australia-openaustralia",
+      "lastmod": "2017-12-15"
+    },
+    {
+      "file": "morph/openaustralia-contact-details.csv",
+      "type": "person",
+      "scraper": "openaustralia/aus_mp_contact_details",
+      "lastmod": "2017-10-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/australia-house-of-representatives-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/emails.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2016-05-07"
+    },
+    {
+      "file": "manual/guessed-emails.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2015-11-12"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/australia-federal-constituencies-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/australia-representatives-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/australia-positions",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-13"
+    }
+  ]
 }

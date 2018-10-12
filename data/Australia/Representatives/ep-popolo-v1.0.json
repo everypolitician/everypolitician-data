@@ -91,10 +91,15 @@
       "birth_date": "1951-07-04",
       "contact_details": [
         {
+          "type": "email",
+          "value": "john.alexander.mp@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "JohnAlexanderMP"
         }
       ],
+      "email": "john.alexander.mp@aph.gov.au",
       "family_name": "Alexander",
       "gender": "male",
       "given_name": "John",
@@ -1142,6 +1147,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Andrew_Wallace"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/wallace4fisher"
+        },
+        {
+          "note": "website",
+          "url": "http://www.andrewwallacemp.com.au"
         }
       ],
       "name": "Andrew Wallace",
@@ -5680,6 +5693,48 @@
       "sort_name": "Hicks, Noel"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Ged.Kearney.MP@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "gedkearney"
+        }
+      ],
+      "email": "Ged.Kearney.MP@aph.gov.au",
+      "family_name": "Kearney",
+      "given_name": "Ged",
+      "id": "2e298475-e720-40b2-b1e5-bbbd81caa9c7",
+      "identifiers": [
+        {
+          "identifier": "LTU",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10907",
+          "scheme": "openaustralia"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/GedKearneyLabor"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gedkearney"
+        },
+        {
+          "note": "website",
+          "url": "https://www.gedkearney.org.au"
+        }
+      ],
+      "name": "Ged Kearney",
+      "sort_name": "Kearney, Ged"
+    },
+    {
       "birth_date": "1938-04-14",
       "family_name": "Willis",
       "gender": "male",
@@ -5985,7 +6040,7 @@
         },
         {
           "note": "website",
-          "url": "http://wwww.peterkhalil.com.au"
+          "url": "https://peterkhalil.com.au/"
         }
       ],
       "name": "Peter Khalil",
@@ -6656,15 +6711,10 @@
       "birth_date": "1970-03-05",
       "contact_details": [
         {
-          "type": "email",
-          "value": "david.feeney@australianlabor.com.au"
-        },
-        {
           "type": "twitter",
           "value": "Feeney4Batman"
         }
       ],
-      "email": "david.feeney@australianlabor.com.au",
       "family_name": "Feeney",
       "gender": "male",
       "given_name": "David",
@@ -7506,15 +7556,10 @@
       "birth_date": "1975-03-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Tim.Hammond.MP@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "TimHammond1"
         }
       ],
-      "email": "Tim.Hammond.MP@aph.gov.au",
       "family_name": "Hammond",
       "gender": "male",
       "given_name": "Tim",
@@ -7932,10 +7977,15 @@
       "birth_date": "1967-04-17",
       "contact_details": [
         {
+          "type": "email",
+          "value": "barnaby.joyce.mp@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "Barnaby_Joyce"
         }
       ],
+      "email": "barnaby.joyce.mp@aph.gov.au",
       "family_name": "Joyce",
       "gender": "male",
       "given_name": "Barnaby",
@@ -12516,7 +12566,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "JohnJMcVeigh"
+          "value": "johnjmcveigh"
         }
       ],
       "family_name": "McVeigh",
@@ -12549,8 +12599,16 @@
           "url": "https://en.wikipedia.org/wiki/John_McVeigh_(politician)"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/johnmcveighmp"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/JohnJMcVeigh"
+          "url": "https://twitter.com/johnjmcveigh"
+        },
+        {
+          "note": "website",
+          "url": "http://johnmcveigh.com.au"
         }
       ],
       "name": "John McVeigh",
@@ -14825,10 +14883,15 @@
       "birth_date": "1973-06",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Julian.Hill.MP@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "JulianHillMP"
         }
       ],
+      "email": "Julian.Hill.MP@aph.gov.au",
       "family_name": "Hill",
       "gender": "male",
       "given_name": "Julian",
@@ -14867,8 +14930,16 @@
           "url": "https://en.wikipedia.org/wiki/Julian_Hill"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/JulianHillMP"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/JulianHillMP"
+        },
+        {
+          "note": "website",
+          "url": "https://julianhillmp.com"
         }
       ],
       "name": "Julian Hill",
@@ -15889,6 +15960,10 @@
         },
         {
           "type": "twitter",
+          "value": "timwilsonmp"
+        },
+        {
+          "type": "twitter",
           "value": "timwilsoncomau"
         }
       ],
@@ -15948,7 +16023,11 @@
         },
         {
           "note": "facebook",
-          "url": "https://facebook.com/TimWilsonForGoldstein"
+          "url": "https://facebook.com/TimWilsonMP"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/timwilsonmp"
         },
         {
           "note": "twitter",
@@ -20193,6 +20272,19 @@
       "sort_name": "Bishop, Bronwyn"
     },
     {
+      "family_name": "Gorman",
+      "given_name": "Patrick",
+      "id": "a0f46186-5573-4e6f-ab03-1f6ecbaf1e70",
+      "identifiers": [
+        {
+          "identifier": "10911",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Patrick Gorman",
+      "sort_name": "Gorman, Patrick"
+    },
+    {
       "birth_date": "1934-02-19",
       "family_name": "Nehl",
       "gender": "male",
@@ -21445,11 +21537,11 @@
         },
         {
           "type": "twitter",
-          "value": "Clare_ONeil_MP"
+          "value": "ClareONeilMP"
         },
         {
           "type": "twitter",
-          "value": "ClareONeilMP"
+          "value": "Clare_ONeil_MP"
         }
       ],
       "email": "Clare.ONeil.MP@aph.gov.au",
@@ -21492,11 +21584,11 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/Clare_ONeil_MP"
+          "url": "https://twitter.com/ClareONeilMP"
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/ClareONeilMP"
+          "url": "https://twitter.com/Clare_ONeil_MP"
         }
       ],
       "name": "Clare O'Neil",
@@ -22500,11 +22592,11 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "MikeKellyMP"
+          "value": "MikeKellyofEM"
         },
         {
           "type": "twitter",
-          "value": "MikeKellyofEM"
+          "value": "MikeKellyMP"
         }
       ],
       "family_name": "Kelly",
@@ -22561,11 +22653,11 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/MikeKellyMP"
+          "url": "https://twitter.com/MikeKellyofEM"
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/MikeKellyofEM"
+          "url": "https://twitter.com/MikeKellyMP"
         },
         {
           "note": "website",
@@ -31440,7 +31532,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.davidlittleproud.com"
+          "url": "http://www.davidlittleproud.com.au"
         }
       ],
       "name": "David Littleproud",
@@ -32591,10 +32683,15 @@
       "birth_date": "1975-04-27",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Emma.McBride.MP@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "Emma4Dobell"
         }
       ],
+      "email": "Emma.McBride.MP@aph.gov.au",
       "family_name": "McBride",
       "gender": "female",
       "given_name": "Emma",
@@ -32625,8 +32722,16 @@
           "url": "https://en.wikipedia.org/wiki/Emma_McBride"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/mcbrideemma"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Emma4Dobell"
+        },
+        {
+          "note": "website",
+          "url": "http://emmamcbride.com.au"
         }
       ],
       "name": "Emma McBride",
@@ -34483,6 +34588,11 @@
     },
     {
       "classification": "party",
+      "id": "centre_alliance",
+      "name": "Centre Alliance"
+    },
+    {
+      "classification": "party",
       "id": "christian_democratic_party",
       "identifiers": [
         {
@@ -35525,100 +35635,8 @@
     },
     {
       "classification": "party",
-      "id": "liberal_national_party",
-      "identifiers": [
-        {
-          "identifier": "Q1822905",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.lnp.org.au/"
-        }
-      ],
-      "name": "Liberal National Party",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Либеральная национальная партия Квинсленда",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Parti libéral national du Queensland",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Liberal National Party of Queensland",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Liberale Nationalpartei (Queensland)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de-ch",
-          "name": "Liberale Nationalpartei",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nan",
-          "name": "Queensland Chū-iû Kok-ka Tóng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "昆士蘭自由國家黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "퀸즐랜드 자유국민당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "クイーンズランド自由国民党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ru",
-          "name": "Liberal National Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "LNP",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "The Liberal National Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Queensland Liberal National Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
+      "id": "katter's_australian_party",
+      "name": "Katter's Australian Party"
     },
     {
       "classification": "party",
@@ -37004,6 +37022,20 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "bennelong",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "010ba615-63c1-466b-a425-5d127e12b8c3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2017-12-16"
     },
     {
       "area_id": "ballarat",
@@ -41348,6 +41380,20 @@
       ]
     },
     {
+      "area_id": "batman",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "2e298475-e720-40b2-b1e5-bbbd81caa9c7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-03-17"
+    },
+    {
       "area_id": "gellibrand",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "australian_labor_party",
@@ -41682,7 +41728,7 @@
     {
       "area_id": "hinkler",
       "legislative_period_id": "term/44",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "3513ed1b-84a6-46fe-b9e4-b3cc6bffb088",
       "role": "member",
@@ -41695,7 +41741,7 @@
     {
       "area_id": "hinkler",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "3513ed1b-84a6-46fe-b9e4-b3cc6bffb088",
       "role": "member",
@@ -42085,6 +42131,7 @@
     },
     {
       "area_id": "batman",
+      "end_date": "2018-02-01",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -42955,6 +43002,7 @@
     },
     {
       "area_id": "perth",
+      "end_date": "2018-05-10",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -43176,6 +43224,20 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "new_england",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "national_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "3ff42d8e-38ab-4ac0-bb07-f7205470544a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2017-12-02"
     },
     {
       "area_id": "robertson",
@@ -43470,7 +43532,7 @@
     {
       "area_id": "dawson",
       "legislative_period_id": "term/43",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "45cb835e-be93-4392-8bfa-48181fdc53e5",
       "role": "member",
@@ -43483,7 +43545,7 @@
     {
       "area_id": "dawson",
       "legislative_period_id": "term/44",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "45cb835e-be93-4392-8bfa-48181fdc53e5",
       "role": "member",
@@ -43496,7 +43558,7 @@
     {
       "area_id": "dawson",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "45cb835e-be93-4392-8bfa-48181fdc53e5",
       "role": "member",
@@ -44587,7 +44649,7 @@
     {
       "area_id": "capricornia",
       "legislative_period_id": "term/44",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "525bfac6-cfa3-474d-8ff2-dfa622a66c1a",
       "role": "member",
@@ -44600,7 +44662,7 @@
     {
       "area_id": "capricornia",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "525bfac6-cfa3-474d-8ff2-dfa622a66c1a",
       "role": "member",
@@ -46185,6 +46247,7 @@
     },
     {
       "area_id": "mayo",
+      "end_date": "2018-04-10",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "nick_xenophon_team",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -46195,6 +46258,35 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "mayo",
+      "end_date": "2018-05-11",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "centre_alliance",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "693fc950-feb1-49e1-9cee-c680be99bcec",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-04-10"
+    },
+    {
+      "area_id": "mayo",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "centre_alliance",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "693fc950-feb1-49e1-9cee-c680be99bcec",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-07-28"
     },
     {
       "area_id": "ryan",
@@ -47340,6 +47432,7 @@
     },
     {
       "area_id": "fremantle",
+      "end_date": "2018-05-10",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -47350,6 +47443,20 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "fremantle",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "80461363-d23a-4226-9beb-f4afc3cab492",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-07-28"
     },
     {
       "area_id": "blaxland",
@@ -48021,6 +48128,7 @@
     },
     {
       "area_id": "kennedy",
+      "end_date": "2011-09-27",
       "legislative_period_id": "term/43",
       "on_behalf_of_id": "independent",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -48034,8 +48142,22 @@
     },
     {
       "area_id": "kennedy",
+      "legislative_period_id": "term/43",
+      "on_behalf_of_id": "katter's_australian_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "863a3eed-4c04-4ba1-9c0c-7237d74c8758",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2011-09-27"
+    },
+    {
+      "area_id": "kennedy",
       "legislative_period_id": "term/44",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "katter's_australian_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "863a3eed-4c04-4ba1-9c0c-7237d74c8758",
       "role": "member",
@@ -48048,7 +48170,7 @@
     {
       "area_id": "kennedy",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "independent",
+      "on_behalf_of_id": "katter's_australian_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "863a3eed-4c04-4ba1-9c0c-7237d74c8758",
       "role": "member",
@@ -50963,6 +51085,20 @@
       "start_date": "2015-08-02"
     },
     {
+      "area_id": "perth",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "a0f46186-5573-4e6f-ab03-1f6ecbaf1e70",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-07-28"
+    },
+    {
       "area_id": "cowper",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "national_party",
@@ -51556,6 +51692,7 @@
     },
     {
       "area_id": "braddon",
+      "end_date": "2018-05-10",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -51566,6 +51703,20 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "braddon",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "a99791cf-2c4e-4678-b08c-9faff12fa412",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-07-28"
     },
     {
       "area_id": "cook",
@@ -52191,7 +52342,7 @@
     {
       "area_id": "flynn",
       "legislative_period_id": "term/43",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "b1ed9687-8d72-4106-80d5-1e5f7ba4b241",
       "role": "member",
@@ -52204,7 +52355,7 @@
     {
       "area_id": "flynn",
       "legislative_period_id": "term/44",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "b1ed9687-8d72-4106-80d5-1e5f7ba4b241",
       "role": "member",
@@ -52217,7 +52368,7 @@
     {
       "area_id": "flynn",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "liberal_party",
+      "on_behalf_of_id": "national_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "b1ed9687-8d72-4106-80d5-1e5f7ba4b241",
       "role": "member",
@@ -53900,7 +54051,7 @@
     {
       "area_id": "fairfax",
       "legislative_period_id": "term/45",
-      "on_behalf_of_id": "liberal_national_party",
+      "on_behalf_of_id": "liberal_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
       "person_id": "c4552072-a5c5-4e22-a13c-2ffe4c9bb6a9",
       "role": "member",
@@ -58836,6 +58987,7 @@
     },
     {
       "area_id": "longman",
+      "end_date": "2018-05-10",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
@@ -58846,6 +58998,20 @@
           "url": "http://data.openaustralia.org/members/representatives.xml"
         }
       ]
+    },
+    {
+      "area_id": "longman",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "2ab5a3aa-ef1e-46c0-abc9-dad161aa0390",
+      "person_id": "fc4d9186-5bf8-4696-ba91-7ec6c07a2e4f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/representatives.xml"
+        }
+      ],
+      "start_date": "2018-07-28"
     },
     {
       "area_id": "kingston",
