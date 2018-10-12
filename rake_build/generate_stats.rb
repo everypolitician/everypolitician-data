@@ -9,7 +9,35 @@ require 'octokit'
 
 STATSFILE = Pathname.new('unstable/stats.json')
 
-namespace :stats do
+class BuiltSource
+  def initialize(source)
+    @source = source
+  end
+
+  def lastmod
+    # TODO: move this check out of the class
+    @lastmod ||= ENV['EP_FULL_GIT'] ? local_git_lastmod(path) : github_lastmod(path)
+  end
+
+  def warning
+    return unless lastmod && source.key?(:create)
+    return unless elapsed > 90
+
+    default_warning
+  end
+
+  private
+
+  attr_reader :source
+
+  def default_warning
+    "  ☢  #{source[:file]} has not been updated for #{elapsed} days"
+  end
+
+  def path
+    @path ||= Pathname('sources') + source[:file]
+  end
+
   def local_git_lastmod(file)
     Date.parse `git log -1 --format="%ai" -- #{file}`.split.first
   rescue => e
@@ -41,39 +69,57 @@ namespace :stats do
     nil
   end
 
-  def lastmod_warning(source, lastmod)
-    return unless lastmod && source.key?(:create)
-
-    elapsed = (DateTime.now - lastmod).to_i
-    return unless elapsed > 90
-
-    warning = "  ☢  #{source[:file]} has not been updated for #{elapsed} days"
-    if source[:file].include?('gender')
-      missing = @popolo.persons.reject(&:gender).count
-      return if missing.zero?
-
-      return "#{warning} (#{missing} missing)"
-    end
-    warning
+  def elapsed
+    @elapsed ||= (DateTime.now - lastmod).to_i
   end
+end
 
+class BuiltSource
+  class Gender < BuiltSource
+    def initialize(source, popolo)
+      @source = source
+      @popolo = popolo
+    end
+
+    def warning
+      return unless missing_gender?
+      return unless super
+
+      '%s (Missing %d)' % [super, missing_gender]
+    end
+
+    private
+
+    attr_reader :source, :popolo
+
+    def missing_gender
+      @missing_gender ||= @popolo.persons.reject(&:gender).count
+    end
+
+    def missing_gender?
+      missing_gender.positive?
+    end
+  end
+end
+
+namespace :stats do
   def lastmod(source)
     path = Pathname('sources') + source[:file]
     lm = ENV['EP_FULL_GIT'] ? local_git_lastmod(path) : github_lastmod(path)
-    if warning = lastmod_warning(source, lm)
-      warn warning
-    end
     lm
   end
 
   task :regenerate do
     stats = StatsFile.new(popolo: ep_popolo, position_file: POSITION_CSV).stats
     stats[:sources] = json_load(@INSTRUCTIONS_FILE)[:sources].map do |src|
+      bs = src[:file].include?('gender') ? BuiltSource::Gender.new(src, @popolo) : BuiltSource.new(src)
+      warn bs.warning if bs.warning
+
       {
         file:    src[:file],
         type:    src[:type],
         scraper: src.dig(:create, :scraper),
-        lastmod: lastmod(src),
+        lastmod: bs.lastmod,
       }
     end
     STATSFILE.dirname.mkpath
