@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 21
-  }
+  },
+  "sources": [
+    {
+      "file": "manual/official-10.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-06-09"
+    },
+    {
+      "file": "morph/official-11.csv",
+      "type": "membership",
+      "scraper": "struan/serbia_national_assembly_members",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/serbia-national-assembly-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/serbia-assembly-terms-wikidata",
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/serbia-national-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/serbia-positions",
+      "lastmod": "2018-08-18"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-06-26"
+    }
+  ]
 }
