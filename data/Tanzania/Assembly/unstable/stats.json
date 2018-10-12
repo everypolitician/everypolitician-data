@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/term4.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/term5.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/tanzania-parliament",
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "archive/term5-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/tanzania-parliament-wikidata",
+      "lastmod": "2018-10-05"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-05-12"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/tanzania-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/tanzania-positions",
+      "lastmod": "2017-04-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-30"
+    }
+  ]
 }
