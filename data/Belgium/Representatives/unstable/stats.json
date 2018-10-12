@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 12
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/belgium-representatives-wikidata-p39s",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "archive/wikipedia.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-08"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/belgium-lachambre",
+      "lastmod": "2018-06-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/belgium-chamber-of-representatives-terms-wikidata",
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/belgian-constituencies-wikidata",
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/belgium-representatives-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/belgium-positions",
+      "lastmod": "2018-08-24"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-04"
+    }
+  ]
 }
