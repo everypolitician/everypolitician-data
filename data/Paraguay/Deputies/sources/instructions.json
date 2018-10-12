@@ -1,11 +1,6 @@
 {
   "sources": [
     {
-      "file": "archive/official-2013.csv",
-      "source": "http://www.diputados.gov.py",
-      "type": "membership"
-    },
-    {
       "file": "morph/official-2018.csv",
       "create": {
         "from": "morph",
@@ -13,12 +8,13 @@
         "query": "SELECT *, 2018 AS term FROM data ORDER BY id"
       },
       "source": "http://www.diputados.gov.py",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/official-2018.csv"
-      },
       "type": "membership"
+    },
+    {
+      "file": "archive/official-2013.csv",
+      "source": "http://www.diputados.gov.py",
+      "type": "membership",
+      "reuse_ids": false
     },
     {
       "file": "morph/wikidata.csv",
