@@ -7,7 +7,7 @@
       "wikidata": 119,
       "images": 531,
       "contacts": {
-        "email": 495,
+        "email": 0,
         "facebook": 6,
         "twitter": 16
       }
@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/mexico-deputies-wikidata",
-      "lastmod": "2018-10-07"
+      "lastmod": "2018-10-12"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-02-04"
+      "scraper": "everypolitician-scrapers/mexico-congress-terms-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/genderbalance.csv",
