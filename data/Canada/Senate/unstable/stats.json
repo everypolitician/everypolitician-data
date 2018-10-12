@@ -32,5 +32,37 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/canada-senate",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "archive/official-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/canada-senate-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-05-22"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    }
+  ]
 }
