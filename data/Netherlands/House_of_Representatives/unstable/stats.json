@@ -1,13 +1,13 @@
 {
   "people": {
-    "count": 275,
+    "count": 277,
     "wikidata": 275,
     "latest_term": {
-      "count": 174,
+      "count": 176,
       "wikidata": 174,
       "images": 173,
       "contacts": {
-        "email": 148,
+        "email": 146,
         "facebook": 4,
         "twitter": 148
       }
@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 8
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/wikipedia-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-09-28"
+    },
+    {
+      "file": "morph/wikipedia-2017.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/netherlands-tweede-kamer-wikipedia",
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "struan/netherlands",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/netherlands-tweede-kamer-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-09-28"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/netherlands-house-of-representatives-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/netherlands-positions",
+      "lastmod": "2018-09-21"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-10"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-10"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-netherlands",
+      "lastmod": "2017-12-16"
+    }
+  ]
 }
