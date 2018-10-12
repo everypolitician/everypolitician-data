@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-LXII.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/mexico-diputados",
+      "lastmod": "2017-10-17"
+    },
+    {
+      "file": "morph/official-LXIII.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/mexico-diputados-2015",
+      "lastmod": "2017-01-08"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/mexico-deputies-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-02-04"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/mexico-deputies-gender-balance",
+      "lastmod": "2018-03-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/mexico-positions",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    }
+  ]
 }
