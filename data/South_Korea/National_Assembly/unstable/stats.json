@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 1
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/popong-data-19.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-04-25"
+    },
+    {
+      "file": "morph/popong-data-20.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/korea-popong-data",
+      "lastmod": "2017-10-15"
+    },
+    {
+      "file": "archive/popong-20-archive.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-09-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/korean-assembly-members-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-05"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-11"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/south-korea-national-assembly-gender-balance",
+      "lastmod": "2017-12-15"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/south-korea-positions",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter_list_South_Korea",
+      "lastmod": "2018-05-24"
+    }
+  ]
 }
