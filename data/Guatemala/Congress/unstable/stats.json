@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-term-7.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-03-29"
+    },
+    {
+      "file": "archive/official-8-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/official-8.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/guatemala-congreso",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/guatemala-congress-members-wikidata",
+      "lastmod": "2018-08-05"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-03-14"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/guatemala-congress-gender-balance",
+      "lastmod": "2017-06-25"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-16"
+    }
+  ]
 }
