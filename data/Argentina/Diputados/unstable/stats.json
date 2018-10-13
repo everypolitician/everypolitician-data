@@ -32,5 +32,79 @@
   },
   "positions": {
     "cabinet": 4
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2015.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-03-16"
+    },
+    {
+      "file": "archive/official-2016.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-03-16"
+    },
+    {
+      "file": "archive/vanished-2017.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-03-16"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/argentina-diputados",
+      "lastmod": "2017-10-04"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/argentina-diputados-wikidata",
+      "lastmod": "2018-10-05"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-argentina",
+      "lastmod": "2017-08-22"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/argentina-diputados-gender-balance",
+      "lastmod": "2018-03-06"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "tmtmtmtm/argentina-provinces-wikidata",
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/argentina-positions",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-01"
+    }
+  ]
 }
