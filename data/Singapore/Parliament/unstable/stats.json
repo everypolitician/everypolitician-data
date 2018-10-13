@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 23
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/singapore-parliament",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/singapore-parliament-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "tmtmtmtm/singapore-parliament",
+      "lastmod": "2016-05-23"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/singapore-parliament-gender-balance",
+      "lastmod": "2017-12-16"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/singapore-positions",
+      "lastmod": "2017-08-31"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    }
+  ]
 }
