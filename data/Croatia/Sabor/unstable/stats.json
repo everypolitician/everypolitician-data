@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 3
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/sabor-7.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/croatia-parliament",
+      "lastmod": "2017-05-05"
+    },
+    {
+      "file": "morph/sabor-8.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/croatia-parliament",
+      "lastmod": "2017-05-05"
+    },
+    {
+      "file": "morph/sabor-9.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/croatia-parliament",
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/croatian-parliament-wikidata",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-30"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/croatia-sabor-gender-balance",
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/croatia-positions",
+      "lastmod": "2017-06-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-croatia",
+      "lastmod": "2017-12-06"
+    }
+  ]
 }
