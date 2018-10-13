@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 1
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "morph/official-2016.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/san_marino_council",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "archive/official-2016-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-12-19"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/san_marino_council-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/san-marino-council-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/san-marino-positions",
+      "lastmod": "2017-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-10"
+    }
+  ]
 }
