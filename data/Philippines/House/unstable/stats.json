@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 436,
-    "wikidata": 133,
+    "wikidata": 134,
     "latest_term": {
       "count": 300,
-      "wikidata": 83,
+      "wikidata": 84,
       "images": 298,
       "contacts": {
         "email": 0,
@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/philippines-house-of-representatives-wikidata",
-      "lastmod": "2018-10-08"
+      "lastmod": "2018-10-12"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-02-04"
+      "scraper": "everypolitician-scrapers/philippines-congress-terms-wikidata",
+      "lastmod": "2018-10-13"
     },
     {
       "file": "morph/genderbalance.csv",
