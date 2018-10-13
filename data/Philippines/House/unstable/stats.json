@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "manual/term-16.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-10-24"
+    },
+    {
+      "file": "morph/term-17.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/philippines-house-of-representatives",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/philippines-house-of-representatives-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/philippines-congress-terms-wikidata",
+      "lastmod": "2018-10-13"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/philippines-house-gender-balance",
+      "lastmod": "2018-02-20"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-12"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-13"
+    }
+  ]
 }
