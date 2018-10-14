@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/isle-of-man-house-of-keys-wikipedia",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "manual/vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-09-21"
+    },
+    {
+      "file": "morph/images.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/isle-of-man-house-of-keys",
+      "lastmod": "2016-12-17"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/isle-of-man-house-of-keys-wikidata",
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2015-08-15"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/isle-of-man-house-of-keys-gender-balance",
+      "lastmod": "2018-03-05"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-12-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-15"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-06-19"
+    }
+  ]
 }
