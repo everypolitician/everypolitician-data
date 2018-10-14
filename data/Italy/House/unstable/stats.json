@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 86
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/camera.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/italy-camera",
+      "lastmod": "2017-10-19"
+    },
+    {
+      "file": "morph/openpolis.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/openpolis-scraper",
+      "lastmod": "2018-06-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/italy-legislature-XVII-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/italy-positions",
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/italian-parliament-terms-wikidata",
+      "lastmod": "2018-09-14"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/italy-house-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-29"
+    }
+  ]
 }
