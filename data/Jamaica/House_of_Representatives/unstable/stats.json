@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 3
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/jamaica-representatives-wikipedia",
+      "lastmod": "2017-04-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/jamaica-representatives-wikidata",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/jmelections.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/jamaica-elections-2016",
+      "lastmod": "2016-10-19"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-03-06"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/jamaica-house-of-representatives-gender-balance",
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/jamaica-positions",
+      "lastmod": "2017-06-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-05-24"
+    }
+  ]
 }
