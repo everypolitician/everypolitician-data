@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/tuvalu-parliament-wikipedia",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/tuvalu-parliament-wikidata",
+      "lastmod": "2018-08-19"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-04-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    }
+  ]
 }
