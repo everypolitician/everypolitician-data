@@ -56,13 +56,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/latvia-saeima-wikidata",
-      "lastmod": "2018-10-10"
+      "lastmod": "2018-10-14"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2016-04-16"
+      "scraper": "everypolitician-scrapers/latvia-saeima-terms-wikidata",
+      "lastmod": "2018-10-14"
     },
     {
       "file": "wikidata/groups.json",
@@ -86,7 +86,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-18"
+      "lastmod": "2018-10-14"
     }
   ]
 }
