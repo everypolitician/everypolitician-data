@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "morph/wikipedia-7.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "morph/official-8.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/albania-kuvendi",
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/albania-assembly-wikidata",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/albania-assembly-gender-balance",
+      "lastmod": "2018-04-13"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
