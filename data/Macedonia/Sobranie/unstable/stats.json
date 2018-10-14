@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 2
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/macedonia-sobranie",
+      "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/macedonia-sobranie-wikidata",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/macedonia-sobranie-gender-balance",
+      "lastmod": "2018-04-06"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/macedonia-positions",
+      "lastmod": "2017-07-27"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-02"
+    }
+  ]
 }
