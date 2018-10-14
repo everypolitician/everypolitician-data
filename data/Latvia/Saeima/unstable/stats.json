@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 15
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/lativa-saeima",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "morph/official-11.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/lativa-saeima",
+      "lastmod": "2016-09-22"
+    },
+    {
+      "file": "morph/official-10.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/lativa-saeima",
+      "lastmod": "2016-09-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/latvia-saeima-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-04-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/latvia-saeima-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/latvia-positions",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-18"
+    }
+  ]
 }
