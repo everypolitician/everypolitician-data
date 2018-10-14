@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 55
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/romanian-parliament",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/romanian-parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-03"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/romania-deputies-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/romanian-deputies-constituencies-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-23"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/romania-positions",
+      "lastmod": "2018-08-23"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    }
+  ]
 }
