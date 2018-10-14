@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 17,
+    "count": 18,
     "wikidata": 10
   },
   "terms": {
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 11
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "duncanparkes/namibia",
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/namibia-national-assembly-wikidata",
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/namibia-assembly-gender-balance",
+      "lastmod": "2017-04-29"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-06-04"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-27"
+    }
+  ]
 }
