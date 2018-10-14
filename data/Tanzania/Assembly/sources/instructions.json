@@ -1,16 +1,16 @@
 {
   "sources": [
     {
-      "file": "archive/term4.csv",
+      "file": "archive/official-historic.csv",
       "source": "http://www.parliament.go.tz",
       "type": "membership"
     },
     {
-      "file": "morph/term5.csv",
+      "file": "morph/official-11.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/tanzania-parliament",
-        "query": "SELECT id,photo,name,area,party,member_type,source,phone,email,birth_date,term FROM data ORDER BY id",
+        "query": "SELECT id,photo,name,area,party,member_type,source,phone,email,birth_date,11 AS term FROM data ORDER BY id",
         "notes": "TODO: Upstream also has honorific_prefix"
       },
       "merge": {
@@ -22,7 +22,7 @@
       "type": "membership"
     },
     {
-      "file": "archive/term5-vanished.csv",
+      "file": "archive/official-11-vanished.csv",
       "source": "http://www.parliament.go.tz",
       "type": "membership"
     },
