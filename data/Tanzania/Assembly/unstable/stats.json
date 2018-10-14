@@ -35,34 +35,34 @@
   },
   "sources": [
     {
-      "file": "archive/term4.csv",
+      "file": "archive/official-historic.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": "2017-04-27"
+      "lastmod": "2018-10-14"
     },
     {
-      "file": "morph/term5.csv",
+      "file": "morph/official-11.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/tanzania-parliament",
-      "lastmod": "2018-09-24"
+      "lastmod": "2018-10-14"
     },
     {
-      "file": "archive/term5-vanished.csv",
+      "file": "archive/official-11-vanished.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": "2018-09-18"
+      "lastmod": "2018-10-14"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/tanzania-parliament-wikidata",
-      "lastmod": "2018-10-05"
+      "lastmod": "2018-10-13"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-05-12"
+      "scraper": "everypolitician-scrapers/tanzania-parliament-terms-wikidata",
+      "lastmod": "2018-10-14"
     },
     {
       "file": "morph/genderbalance.csv",
