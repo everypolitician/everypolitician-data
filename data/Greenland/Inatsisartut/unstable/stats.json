@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 5
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "wfdd/inatsisartut-scraper",
+      "lastmod": "2017-04-25"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/greenland-inatsisartut-members-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "wfdd/inatsisartut-scraper",
+      "lastmod": "2016-10-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "morph/wikidata-cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/greenland-cabinet-wikidata",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-26"
+    }
+  ]
 }
