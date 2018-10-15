@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 40
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/switzerland-parlament",
+      "lastmod": "2018-08-19"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/switzerland-national-assembly-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "tmtmtmtm/switzerland-parlament",
+      "lastmod": "2015-11-29"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/switzerland-national-council-gender-balance",
+      "lastmod": "2017-04-13"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/switzerland-positions",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-switzerland",
+      "lastmod": "2017-10-10"
+    }
+  ]
 }
