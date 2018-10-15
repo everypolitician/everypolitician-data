@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/romanian-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "archive/official-7.csv",
       "source": "http://www.cdep.ro/pls/parlam/structura2015.de?leg=2012&idl=2",
       "type": "membership"
     },
