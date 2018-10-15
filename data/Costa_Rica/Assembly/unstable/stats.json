@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/costa-rica-asamblea",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/emails.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/costa-rica-asamblea-emails",
+      "lastmod": "2016-07-31"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/costa-rica-election-2014",
+      "lastmod": "2016-07-31"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/costa-rica-asamblea-wikidata",
+      "lastmod": "2018-09-16"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2015-09-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/costa-rica-assembly-gender-balance",
+      "lastmod": "2017-05-01"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-16"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2016-03-05"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-16"
+    }
+  ]
 }
