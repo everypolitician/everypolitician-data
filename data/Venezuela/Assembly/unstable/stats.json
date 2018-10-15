@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official2011.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/venezuela-asamblea",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/official2016.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/venezuela-asamblea",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/venezuela-asamblea-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/venezuela-assembly-terms-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/venezuela-assembly-gender-balance",
+      "lastmod": "2017-06-26"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-08-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    }
+  ]
 }
