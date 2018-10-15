@@ -1,29 +1,29 @@
 {
   "people": {
-    "count": 416,
+    "count": 648,
     "wikidata": 416,
     "latest_term": {
-      "count": 416,
-      "wikidata": 416,
-      "images": 416,
+      "count": 342,
+      "wikidata": 110,
+      "images": 342,
       "contacts": {
-        "email": 0,
-        "facebook": 5,
-        "twitter": 3
+        "email": 148,
+        "facebook": 2,
+        "twitter": 2
       }
     }
   },
   "groups": {
-    "count": 8,
+    "count": 16,
     "wikidata": 8
   },
   "terms": {
-    "count": 1,
-    "latest": "2012-12-12",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2016-12-20",
+    "wikidata": 2
   },
   "areas": {
-    "count": 43,
+    "count": 86,
     "wikidata": 43
   },
   "elections": {
@@ -38,6 +38,12 @@
       "file": "archive/official-7.csv",
       "type": "membership",
       "scraper": null,
+      "lastmod": "2018-10-15"
+    },
+    {
+      "file": "morph/official-8.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/romanian-parliament-2016",
       "lastmod": "2018-10-15"
     },
     {
