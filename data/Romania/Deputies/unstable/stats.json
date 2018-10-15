@@ -35,22 +35,22 @@
   },
   "sources": [
     {
-      "file": "morph/official.csv",
+      "file": "archive/official-7.csv",
       "type": "membership",
-      "scraper": "tmtmtmtm/romanian-parliament",
-      "lastmod": "2017-03-22"
+      "scraper": null,
+      "lastmod": "2018-10-15"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/romanian-parliament-wikidata",
-      "lastmod": "2018-10-09"
+      "lastmod": "2018-10-14"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-01-03"
+      "scraper": "everypolitician-scrapers/romanian-parliament-terms-wikidata",
+      "lastmod": "2018-10-15"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -68,7 +68,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-23"
+      "lastmod": "2018-10-14"
     },
     {
       "file": "morph/cabinet.csv",
