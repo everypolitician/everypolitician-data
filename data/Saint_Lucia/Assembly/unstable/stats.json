@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-lucia-assembly-wikipedia",
+      "lastmod": "2017-05-20"
+    },
+    {
+      "file": "morph/images.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/saint-lucia-assembly",
+      "lastmod": "2017-04-29"
+    },
+    {
+      "file": "archive/official-images-ceased.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2017-01-19"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/saint-lucia-assembly-wikidata",
+      "lastmod": "2018-09-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-11-01"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-04-29"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-06-12"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-04"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-04"
+    }
+  ]
 }
