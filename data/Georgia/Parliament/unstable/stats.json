@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/chemiparlamenti-8.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "morph/chemiparlamenti.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/georgia-chemiparlamenti",
+      "lastmod": "2018-05-25"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/georgia-parliament-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/georgia-parliament-gender-balance",
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-02-09"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-16"
+    }
+  ]
 }
