@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 4
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/bangladesh-parliament-scraper",
+      "lastmod": "2018-05-26"
+    },
+    {
+      "file": "archive/official-ceased.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-05-26"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/bangladesh-parliament-wikidata",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/bangladesh-house-gender-balance",
+      "lastmod": "2018-10-02"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-20"
+    },
+    {
+      "file": "manual/memberships.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-05-18"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/bangladesh-positions",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-20"
+    }
+  ]
 }
