@@ -30,8 +30,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
+        "incoming_field": "birth_date",
+        "existing_field": "birth_date",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
