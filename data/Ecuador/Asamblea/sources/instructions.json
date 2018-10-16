@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/ecuador_national_assembly_members",
-        "query": "SELECT *, 2013 AS term FROM data ORDER BY id"
+        "query": "SELECT *, 2 AS term FROM data ORDER BY id"
       },
       "source": "http://www.asambleanacional.gob.ec/es/pleno-asambleistas",
       "type": "membership"
