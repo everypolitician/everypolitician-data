@@ -31,7 +31,7 @@
     "latest": "2017-09-11"
   },
   "positions": {
-    "cabinet": 130
+    "cabinet": 146
   },
   "sources": [
     {
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/norway-stortingsrepresentanter-wikidata",
-      "lastmod": "2018-10-13"
+      "lastmod": "2018-10-15"
     },
     {
       "file": "morph/terms.csv",
@@ -56,7 +56,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-09"
+      "lastmod": "2018-10-15"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-09"
+      "lastmod": "2018-10-15"
     }
   ]
 }
