@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 16
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/manoseimas.csv",
+      "type": "membership",
+      "scraper": "mhl/lithuania-politician-scraper",
+      "lastmod": "2017-03-28"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/lithuania-manoseimas-wikidata",
+      "lastmod": "2018-09-28"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-23"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/lithuania-seimas-gender-balance",
+      "lastmod": "2017-04-12"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/lithuania-positions",
+      "lastmod": "2017-06-26"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-20"
+    }
+  ]
 }
