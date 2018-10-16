@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/nigeria-national-assembly",
+      "lastmod": "2018-06-01"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/nigeria-representatives-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/nigeria-assembly-terms-wikidata",
+      "lastmod": "2018-10-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-06-18"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/nigeria-representatives-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    },
+    {
+      "file": "morph/shineyoureye.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/nigeria-shineyoureye",
+      "lastmod": "2018-03-16"
+    }
+  ]
 }
