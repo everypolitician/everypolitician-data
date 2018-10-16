@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 479,
+    "count": 567,
     "wikidata": 273,
     "latest_term": {
-      "count": 479,
-      "wikidata": 273,
-      "images": 144,
+      "count": 464,
+      "wikidata": 232,
+      "images": 462,
       "contacts": {
-        "email": 0,
-        "facebook": 153,
-        "twitter": 161
+        "email": 1,
+        "facebook": 141,
+        "twitter": 143
       }
     }
   },
   "groups": {
-    "count": 8,
+    "count": 12,
     "wikidata": 8
   },
   "terms": {
-    "count": 1,
-    "latest": "2014-12-14",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2017-11-01",
+    "wikidata": 2
   },
   "areas": {
     "count": 307,
@@ -44,6 +44,12 @@
       "file": "archive/official-vanished.csv",
       "type": "membership",
       "scraper": null,
+      "lastmod": "2018-10-16"
+    },
+    {
+      "file": "morph/official-48.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/japan",
       "lastmod": "2018-10-16"
     },
     {
