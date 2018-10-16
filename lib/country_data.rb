@@ -89,7 +89,7 @@ module Everypolitician
       end
 
       def remote_source
-        'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
+        'https://cdn.jsdelivr.net/gh/everypolitician/everypolitician-data@%s/%s'
       end
 
       def terms
