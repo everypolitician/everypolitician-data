@@ -35,6 +35,12 @@
   },
   "sources": [
     {
+      "file": "morph/official-48.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/japan",
+      "lastmod": "2018-10-16"
+    },
+    {
       "file": "archive/official-47.csv",
       "type": "membership",
       "scraper": null,
@@ -44,12 +50,6 @@
       "file": "archive/official-vanished.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": "2018-10-16"
-    },
-    {
-      "file": "morph/official-48.csv",
-      "type": "membership",
-      "scraper": "everypolitician-scrapers/japan",
       "lastmod": "2018-10-16"
     },
     {
