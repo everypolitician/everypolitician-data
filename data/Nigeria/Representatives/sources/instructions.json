@@ -25,7 +25,12 @@
       }
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/nigeria-assembly-terms-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
       "type": "term"
     },
     {
