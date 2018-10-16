@@ -20,7 +20,7 @@
   "terms": {
     "count": 1,
     "latest": "2014-05-10",
-    "wikidata": 0
+    "wikidata": 1
   },
   "areas": {
     "count": 0,
@@ -44,19 +44,19 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/macedonia-sobranie-wikidata",
-      "lastmod": "2018-10-02"
+      "lastmod": "2018-10-15"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2016-06-13"
+      "scraper": "everypolitician-scrapers/macedonia-sobranie-terms-wikidata",
+      "lastmod": "2018-10-16"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-08-02"
+      "lastmod": "2018-10-15"
     },
     {
       "file": "morph/genderbalance.csv",
