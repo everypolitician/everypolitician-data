@@ -1,17 +1,6 @@
 {
   "sources": [
     {
-      "file": "archive/official-47.csv",
-      "source": "http://www.shugiin.go.jp",
-      "type": "membership"
-    },
-    {
-      "file": "archive/official-vanished.csv",
-      "source": "http://www.shugiin.go.jp",
-      "type": "membership",
-      "note": "this should be merged with official-47.csv"
-    },
-    {
       "file": "morph/official-48.csv",
       "create": {
         "from": "morph",
@@ -19,12 +8,20 @@
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.shugiin.go.jp",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/official-48.csv"
-      },
       "type": "membership"
+    },
+    {
+      "file": "archive/official-47.csv",
+      "source": "http://www.shugiin.go.jp",
+      "type": "membership",
+      "reuse-ids": "false"
+    },
+    {
+      "file": "archive/official-vanished.csv",
+      "source": "http://www.shugiin.go.jp",
+      "type": "membership",
+      "reuse-ids": "false",
+      "note": "this should be merged with official-47.csv"
     },
     {
       "file": "morph/wikidata.csv",
