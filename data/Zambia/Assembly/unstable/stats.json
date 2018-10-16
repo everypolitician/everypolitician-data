@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-02-22"
+    },
+    {
+      "file": "morph/official-2016.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/zambia-na-scraper",
+      "lastmod": "2018-09-27"
+    },
+    {
+      "file": "archive/vanished-2016.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/zambia-national-assembly-wikidata",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-11-07"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-15"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-05-24"
+    }
+  ]
 }
