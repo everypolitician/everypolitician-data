@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/georgia-parliament-wikidata",
-      "lastmod": "2018-10-06"
+      "lastmod": "2018-10-16"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-04-28"
+      "scraper": "everypolitician-scrapers/georgia-parliament-terms-wikidata",
+      "lastmod": "2018-10-16"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -80,7 +80,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-07-16"
+      "lastmod": "2018-10-16"
     }
   ]
 }
