@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-07-29"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/bermuda_parliament",
+      "lastmod": "2018-02-20"
+    },
+    {
+      "file": "morph/elections-2017.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/bermuda-election-results-2017",
+      "lastmod": "2017-08-02"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/bermuda-wikidata",
+      "lastmod": "2018-09-12"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-07-29"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/bermuda-assembly-gender-balance",
+      "lastmod": "2018-07-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-14"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-15"
+    }
+  ]
 }
