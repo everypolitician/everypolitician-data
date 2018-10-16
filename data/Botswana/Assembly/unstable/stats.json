@@ -38,13 +38,13 @@
       "file": "morph/wikipedia.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/botswana-national-assembly-wp",
-      "lastmod": "2018-05-25"
+      "lastmod": "2018-10-16"
     },
     {
       "file": "archive/wikipedia-ceased.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": "2017-05-26"
+      "lastmod": "2018-10-16"
     },
     {
       "file": "morph/official.csv",
@@ -56,13 +56,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/botswana-national-assembly-wikidata",
-      "lastmod": "2018-10-01"
+      "lastmod": "2018-10-15"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-05-26"
+      "scraper": "everypolitician-scrapers/botswana-parliament-terms-wikidata",
+      "lastmod": "2018-10-16"
     },
     {
       "file": "morph/genderbalance.csv",
