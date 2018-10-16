@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official_term2.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-02-17"
+    },
+    {
+      "file": "archive/official_term3.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "morph/official_term4.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/sint-maarten-parliament",
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "archive/official_term4_vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-03-31"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-17"
+    }
+  ]
 }
