@@ -31,6 +31,68 @@
     "latest": "2017-06-18"
   },
   "positions": {
-    "cabinet": 57
-  }
+    "cabinet": 58
+  },
+  "sources": [
+    {
+      "file": "archive/nosdeputes14.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-07-28"
+    },
+    {
+      "file": "morph/nosdeputes.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/nos_deputes_france",
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "morph/sycomore.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/france-national-assembly-syccomore",
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/france-chamber-of-deputies-wikidata",
+      "lastmod": "2018-10-10"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-07-28"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/france-positions",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/france-national-assembly-gender-balance",
+      "lastmod": "2017-12-14"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/france-constituencies-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-14"
+    }
+  ]
 }
