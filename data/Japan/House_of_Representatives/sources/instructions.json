@@ -12,6 +12,21 @@
       "note": "this should be merged with official-47.csv"
     },
     {
+      "file": "morph/official-48.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/japan",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.shugiin.go.jp",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-48.csv"
+      },
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
