@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/election.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/solomon-islands-election-results",
+      "lastmod": "2016-07-24"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/solomon-islands-parliament",
+      "lastmod": "2017-12-15"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/solomon-islands-parliament-wikidata",
+      "lastmod": "2018-09-30"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/solomon-islands-parliament-gender-balance",
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-12-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    }
+  ]
 }
