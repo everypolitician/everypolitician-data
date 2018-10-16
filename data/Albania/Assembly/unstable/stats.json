@@ -7,7 +7,7 @@
       "wikidata": 74,
       "images": 129,
       "contacts": {
-        "email": 128,
+        "email": 0,
         "facebook": 1,
         "twitter": 0
       }
@@ -20,7 +20,7 @@
   "terms": {
     "count": 2,
     "latest": "2013-09-09",
-    "wikidata": 0
+    "wikidata": 2
   },
   "areas": {
     "count": 24,
@@ -56,13 +56,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/albania-assembly-wikidata",
-      "lastmod": "2018-09-13"
+      "lastmod": "2018-10-16"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2016-06-13"
+      "scraper": "everypolitician-scrapers/albania-parliament-terms-wikidata",
+      "lastmod": "2018-10-16"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -80,13 +80,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-08-02"
+      "lastmod": "2018-10-16"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-09"
+      "lastmod": "2018-10-16"
     }
   ]
 }
