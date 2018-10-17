@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 583,
-    "wikidata": 234,
+    "count": 556,
+    "wikidata": 189,
     "latest_term": {
-      "count": 583,
-      "wikidata": 234,
-      "images": 583,
+      "count": 556,
+      "wikidata": 189,
+      "images": 556,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 13
+        "twitter": 11
       }
     }
   },
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "struan/indonesia",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/indonesian-mps",
+      "lastmod": "2018-10-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/indonesia-council-gender-balance",
+      "lastmod": "2018-02-09"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/indonesia-positions",
+      "lastmod": "2017-04-02"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    }
+  ]
 }
