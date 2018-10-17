@@ -32,5 +32,79 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-7.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-20"
+    },
+    {
+      "file": "morph/official-8.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/slovenia-drzhavni-zbor",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "archive/vanished-8.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-09-21"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/slovenia-national-assembly-wikidata",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-08-20"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/slovenia-national-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-14"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-09-14"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "manual/memberships.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2016-05-17"
+    },
+    {
+      "file": "manual/facebook.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2016-05-17"
+    },
+    {
+      "file": "manual/twitter.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2016-05-17"
+    }
+  ]
 }
