@@ -533,7 +533,7 @@
       ],
       "email": "orla.osterby@ft.dk",
       "family_name": "Østerby",
-      "gender": "female",
+      "gender": "male",
       "given_name": "Orla",
       "id": "07931c6f-81e9-4cfe-b994-70e72c985c9c",
       "identifiers": [
@@ -4151,6 +4151,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Jan_Petersen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jan_Petersen_(borgermester)"
         }
       ],
       "name": "Jan Petersen"
@@ -8247,10 +8251,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Conversation_with_Margrethe_Vestager,_European_Commissioner_for_Competition_(17222242662).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/European_Consumer_and_Competition_Day_(25916442644).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Conversation_with_Margrethe_Vestager,_European_Commissioner_for_Competition_(17222242662).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/European_Consumer_and_Competition_Day_(25916442644).jpg"
         }
       ],
       "links": [
@@ -10688,7 +10692,7 @@
       ]
     },
     {
-      "birth_date": "1965",
+      "birth_date": "1965-09-11",
       "family_name": "Hansen",
       "gender": "male",
       "given_name": "Torben",
@@ -23085,11 +23089,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Hüseyn_Arac"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Hüseyin_Arac"
         }
       ],
-      "name": "Hüseyin Arac"
+      "name": "Hüseyin Arac",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Hüseyn Arac",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1938-12-02",
@@ -39267,6 +39282,12 @@
         {
           "lang": "vi",
           "name": "Chính trị gia độc lập",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vec",
+          "name": "Poidego independente",
           "note": "multilingual",
           "source": "wikidata-label"
         },
