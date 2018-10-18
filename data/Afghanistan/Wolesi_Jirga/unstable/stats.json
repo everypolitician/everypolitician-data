@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 258,
-    "wikidata": 25,
+    "wikidata": 22,
     "latest_term": {
       "count": 258,
-      "wikidata": 25,
+      "wikidata": 22,
       "images": 258,
       "contacts": {
         "email": 0,
@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/afghanistan-assembly",
+      "lastmod": "2018-08-16"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/afghanistan-assembly-wikidata",
+      "lastmod": "2018-10-04"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/afghanistan-wolesi-jirga-gender-balance",
+      "lastmod": "2018-01-12"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/afghanistan-positions",
+      "lastmod": "2017-04-04"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-05-28"
+    }
+  ]
 }
