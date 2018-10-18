@@ -2406,6 +2406,10 @@
         {
           "identifier": "1788",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31069385",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.wolesi.website/Media/Images/mine/hamidollah-tokhe.jpg",
@@ -2414,7 +2418,29 @@
           "url": "http://www.wolesi.website/Media/Images/mine/hamidollah-tokhe.jpg"
         }
       ],
-      "name": "Hameedullah Tukhi - zabul"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hameedullah_Khan_Tokhi"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/حمید_الله_توخی"
+        }
+      ],
+      "name": "Hameedullah Tukhi - zabul",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hameedullah Khan Tokhi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "حمید الله توخی",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2468,20 +2494,60 @@
       "name": "Mariam Kofi , Takhar"
     },
     {
+      "gender": "male",
+      "given_name": "Mohammad",
       "id": "6c0e9326-09cf-49c2-aded-0f7a3f7103b1",
       "identifiers": [
         {
           "identifier": "1918",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30224399",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.wolesi.website/Media/Images/mine/haji.mohammad-allem.qarar.jpg",
       "images": [
         {
           "url": "http://www.wolesi.website/Media/Images/mine/haji.mohammad-allem.qarar.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohammad_Alim_Qarar,_Laghman_Province,_Afghanistan.jpg"
         }
       ],
-      "name": "Eng. Muhammad Alam Qarar-Laghman"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohammad_Alim_Qarar"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/محمد_عالم_قرار"
+        },
+        {
+          "note": "Wikipedia (ps)",
+          "url": "https://ps.wikipedia.org/wiki/محمد_عالم_قرار"
+        }
+      ],
+      "name": "Eng. Muhammad Alam Qarar-Laghman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mohammad Alim Qarar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "محمد عالم قرار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ps",
+          "name": "محمد عالم قرار",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3932,13 +3998,44 @@
     {
       "gender": "female",
       "id": "bb0c43aa-7bac-4203-93e7-011f792b51f0",
+      "identifiers": [
+        {
+          "identifier": "Q30224398",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.wolesi.website/Media/Images/mine/Zefnon%20Safi-Laghman.jpg",
       "images": [
         {
           "url": "http://www.wolesi.website/Media/Images/mine/Zefnon%20Safi-Laghman.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zefnoon_Safai,_Legham_Province,_Afghanistan.jpg"
         }
       ],
-      "name": "Zefnoon Safi-Laghman"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zefnoon_Safai"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/زیفنون_صافی"
+        }
+      ],
+      "name": "Zefnoon Safi-Laghman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zefnoon Safai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "زیفنون صافی",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
