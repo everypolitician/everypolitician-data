@@ -69,7 +69,8 @@ namespace :term_csvs do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
     source_warn "Creating #{POSITION_CSV}"
 
-    wanted, unwanted = src.partitioned(position_map: POSITION_FILTER_CSV)
+    pmap = PositionMap::CSV.new(POSITION_FILTER_CSV)
+    wanted, unwanted = src.partitioned(position_map: pmap)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
     csv_headers = %w[id name position start_date end_date type].to_csv
