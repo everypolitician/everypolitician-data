@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/syria-peoples-council",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "archive/term-2012-images.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2017-01-18"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/syria-council-wikidata",
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/syria-council-terms-wikidata",
+      "lastmod": "2018-10-18"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/syria-majlis-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    }
+  ]
 }
