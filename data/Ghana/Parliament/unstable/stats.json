@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-term-6.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/official-term-7.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/ghana-parliament",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/ghana-parliament-wikidata",
+      "lastmod": "2018-10-05"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-10-05"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/ghana-parliament-gender-balance",
+      "lastmod": "2017-11-22"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-07-16"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-05"
+    }
+  ]
 }
