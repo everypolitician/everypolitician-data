@@ -83,9 +83,13 @@ namespace :term_csvs do
     POSITION_CSV.dirname.mkpath
     POSITION_CSV.write(csv_headers + csv_data.join)
 
-    # Warn about uncategorised positions
-    skipped = unwanted.group_by { |r| r[:position] }.sort_by { |_r, rs| rs.count }.reverse
-    skipped.take(3).each do |posn, posns|
+    # Warn if the filter still contains non-cabinet positions
+    ncps = pmap.non_cabinet_position_ids.to_set
+    warn "  † position filter contains non-cabinet positions (#{ncps.count}) — run rake generate:cabinet" if ncps.any?
+
+    # Warn if people hold positions we're not expecting
+    skipped = unwanted.reject { |r| ncps.include? r[:position] }.group_by { |r| r[:position] }.sort_by { |_r, rs| rs.count }
+    skipped.reverse.take(3).each do |posn, posns|
       warn "  ⁕ skipped #{posns.count} x #{posn} (#{posns.first[:label]}) — e.g. #{posns.first[:id]}"
     end
   end

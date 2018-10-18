@@ -77,6 +77,12 @@ class PositionMap
       cabinet_positions.map { |r| r[:id] }
     end
 
+    # These shouldn't exist, but old files still include other types of
+    # positions, and we use this to warn about those
+    def non_cabinet_position_ids
+      non_cabinet_positions.map { |r| r[:id] }
+    end
+
     private
 
     attr_reader :pathname
@@ -87,6 +93,10 @@ class PositionMap
 
     def cabinet_positions
       map.select { |r| r[:type] == 'cabinet' }
+    end
+
+    def non_cabinet_positions
+      map.reject { |r| r[:type] == 'cabinet' }
     end
   end
 end
