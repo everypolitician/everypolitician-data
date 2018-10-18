@@ -64,3 +64,29 @@ class PositionMap
     end.to_h
   end
 end
+
+class PositionMap
+  class CSV
+    require 'csv'
+
+    def initialize(pathname)
+      @pathname = pathname
+    end
+
+    def cabinet_position_ids
+      cabinet_positions.map { |r| r[:id] }
+    end
+
+    private
+
+    attr_reader :pathname
+
+    def map
+      @map ||= ::CSV.table(pathname)
+    end
+
+    def cabinet_positions
+      map.select { |r| r[:type] == 'cabinet' }
+    end
+  end
+end
