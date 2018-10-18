@@ -44,13 +44,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/sri-lanka-parliament-wikidata",
-      "lastmod": "2018-09-11"
+      "lastmod": "2018-10-18"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-02-03"
+      "scraper": "everypolitician-scrapers/sri-lanka-parliament-terms-wikidata",
+      "lastmod": "2018-10-18"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-08-08"
+      "lastmod": "2018-10-18"
     }
   ]
 }
