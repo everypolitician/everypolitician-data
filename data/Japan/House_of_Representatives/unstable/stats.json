@@ -31,7 +31,7 @@
     "latest": "2017-10-22"
   },
   "positions": {
-    "cabinet": 23
+    "cabinet": 105
   },
   "sources": [
     {
@@ -71,16 +71,16 @@
       "lastmod": "2017-04-11"
     },
     {
-      "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
-      "scraper": null,
-      "lastmod": "2018-10-09"
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/japan-positions",
+      "lastmod": null
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/japan-constituencies",
-      "lastmod": "2018-08-02"
+      "lastmod": "2018-10-17"
     },
     {
       "file": "wikidata/groups.json",
