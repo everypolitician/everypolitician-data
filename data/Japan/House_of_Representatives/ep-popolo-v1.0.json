@@ -516,9 +516,16 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/064.jpg/%24File/064.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Takeshi_Iwaya_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Takeshi_Iwaya"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Takeshi_Iwaya"
@@ -3732,6 +3739,11 @@
         {
           "lang": "ur",
           "name": "یوشی ہیکو نوڈا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "野田佳彦",
           "note": "multilingual"
         },
         {
@@ -27659,6 +27671,11 @@
       "name": "INOUE Takahiro",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "تاكاهيرو اينو",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Takahiro Inoue",
           "note": "multilingual"
@@ -32454,6 +32471,11 @@
       "name": "SASAKI Takahiro",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "تاكاهيرو ساساكي",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Takahiro Sasaki",
           "note": "multilingual"
@@ -36162,6 +36184,11 @@
       ],
       "name": "INOUE Shinji",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "شينجي اينو",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Shinji Inoue",
@@ -44177,6 +44204,11 @@
       "name": "KOBAYASHI Takayuki",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "تاكايوكي كوباياشي",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Takayuki Kobayashi",
           "note": "multilingual"
@@ -48882,6 +48914,11 @@
       ],
       "name": "OKADA Katsuya",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "كاتسويا اوكادا",
+          "note": "multilingual"
+        },
         {
           "lang": "cs",
           "name": "Kacuja Okada",
@@ -53873,6 +53910,11 @@
     },
     {
       "classification": "party",
+      "id": "fj",
+      "name": "FJ"
+    },
+    {
+      "classification": "party",
       "id": "gi",
       "identifiers": [
         {
@@ -58494,7 +58536,7 @@
     {
       "area_id": "iwate_3rd_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "lp",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "0a1e6b19-3a9d-4121-986d-8333eecd9499",
       "role": "member",
@@ -64487,7 +64529,7 @@
     {
       "area_id": "tokai_bloc",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "cdp",
+      "on_behalf_of_id": "lp",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "81a8ff9d-06c2-457d-9b17-1ab1631f05e8",
       "role": "member",
@@ -66476,7 +66518,7 @@
     {
       "area_id": "kanagawa_9th_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "fj",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "a8ec109f-de29-4270-984c-b88525e9a5c4",
       "role": "member",
@@ -68751,7 +68793,7 @@
     {
       "area_id": "tokyo_21st_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "fj",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "e1bd8013-3739-4b67-b6b3-64f5d98ccbf0",
       "role": "member",
