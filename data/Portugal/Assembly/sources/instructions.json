@@ -92,14 +92,6 @@
       }
     },
     {
-      "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
-      "create": {
-        "from": "wikidata-raw",
-        "source": "reconciliation/wikidata.csv"
-      }
-    },
-    {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "create": {
