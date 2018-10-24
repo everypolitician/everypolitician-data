@@ -15,7 +15,7 @@
   },
   "groups": {
     "count": 24,
-    "wikidata": 0
+    "wikidata": 12
   },
   "terms": {
     "count": 2,
@@ -63,6 +63,12 @@
       "type": "person",
       "scraper": "everypolitician-scrapers/serbia-national-assembly-gender-balance",
       "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": null
     },
     {
       "file": "morph/cabinet.csv",
