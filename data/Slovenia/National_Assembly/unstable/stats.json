@@ -31,7 +31,7 @@
     "latest": "2018-06-03"
   },
   "positions": {
-    "cabinet": 0
+    "cabinet": 4
   },
   "sources": [
     {
@@ -56,7 +56,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/slovenia-national-assembly-wikidata",
-      "lastmod": "2018-10-17"
+      "lastmod": "2018-10-24"
     },
     {
       "file": "morph/terms.csv",
@@ -74,13 +74,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-10-17"
+      "lastmod": "2018-10-24"
     },
     {
-      "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
-      "scraper": null,
-      "lastmod": "2018-10-17"
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/slovenia-cabinet",
+      "lastmod": "2018-10-24"
     },
     {
       "file": "wikidata/elections.json",
