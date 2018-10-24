@@ -31,20 +31,20 @@
     "latest": "2018-09-09"
   },
   "positions": {
-    "cabinet": 80
+    "cabinet": 82
   },
   "sources": [
     {
       "file": "morph/official-api.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/sweden-parliament-api",
-      "lastmod": "2018-10-11"
+      "lastmod": "2018-10-23"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/sweden-riksdag-members-wikidata",
-      "lastmod": "2018-10-17"
+      "lastmod": "2018-10-23"
     },
     {
       "file": "morph/terms.csv",
