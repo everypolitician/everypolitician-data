@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/bhutan-national-assembly",
+      "lastmod": "2017-06-26"
+    },
+    {
+      "file": "archive/official-ceased.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-01-18"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/bhutan-wikidata",
+      "lastmod": "2018-10-08"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2015-06-30"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/bhutan-assembly-gender-balance",
+      "lastmod": "2018-07-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-10-08"
+    }
+  ]
 }
