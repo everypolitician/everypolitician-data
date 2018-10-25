@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-3.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-08-15"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/angola-national-assembly",
+      "lastmod": "2018-10-03"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/angola-national-assembly-wikidata",
+      "lastmod": "2018-09-21"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-08-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-01"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/angola-national-assembly-gender-balance",
+      "lastmod": "2018-04-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-21"
+    }
+  ]
 }
