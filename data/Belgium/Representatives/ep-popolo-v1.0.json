@@ -2702,17 +2702,6 @@
     },
     {
       "birth_date": "1957-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "muriel.gerkens@lachambre.be"
-        },
-        {
-          "type": "email",
-          "value": "muriel.gerkens@ecolo.be"
-        }
-      ],
-      "email": "muriel.gerkens@lachambre.be",
       "gender": "female",
       "given_name": "Muriel",
       "id": "3c754fe0-0099-40ee-9f6c-1c95a643b6cd",
@@ -10891,6 +10880,10 @@
       "sort_name": "Casier Youro"
     },
     {
+      "id": "ebf790e0-6b02-47b1-af37-82f1464d2e8c",
+      "name": "Sarah Schlitz"
+    },
+    {
       "birth_date": "1962-06-27",
       "contact_details": [
         {
@@ -14359,6 +14352,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -14703,6 +14701,7 @@
     },
     {
       "area_id": "286e7423-94a8-486a-b037-d1b00c7d7fbf",
+      "end_date": "2018-10-03",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15795,6 +15794,14 @@
       "person_id": "eb43c0fa-f03c-48a3-b927-089edf616c32",
       "role": "member",
       "start_date": "2017-12-13"
+    },
+    {
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "ebf790e0-6b02-47b1-af37-82f1464d2e8c",
+      "role": "member",
+      "start_date": "2018-10-05"
     },
     {
       "area_id": "e8e51560-6030-47ba-aa0c-75cf85e6f9cc",
