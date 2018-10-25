@@ -51,33 +51,50 @@
   ],
   "Q351655": [
     {
-      "id": "Q27169",
-      "label": "member of the European Parliament",
-      "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
-    },
-    {
       "id": "Q19801674",
       "label": "member of the House of Representatives of Cyprus",
       "title": "member of the House of Representatives of Cyprus",
       "qualifiers": {
         "P768": "Limassol District"
       }
-    }
-  ],
-  "Q11685756": [
+    },
     {
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
-    },
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P2937": "Sixth European Parliament",
+        "P580": "2004-07-20",
+        "P582": "2009-07-13",
+        "P4100": "European United Left–Nordic Green Left",
+        "P1268": "Progressive Party of Working People",
+        "P768": "Cyprus",
+        "P2715": "European Parliament election in 2004"
+      }
+    }
+  ],
+  "Q11685756": [
     {
       "id": "Q19801674",
       "label": "member of the House of Representatives of Cyprus",
       "title": "member of the House of Representatives of Cyprus",
       "qualifiers": {
         "P768": "Nicosia District"
+      }
+    },
+    {
+      "id": "Q27169",
+      "label": "member of the European Parliament",
+      "title": "member of the European Parliament",
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P2937": "Seventh European Parliament",
+        "P580": "2013-03-04",
+        "P582": "2014-06-30",
+        "P4100": "European People's Party",
+        "P1268": "Democratic Rally",
+        "P768": "Cyprus"
       }
     }
   ],
