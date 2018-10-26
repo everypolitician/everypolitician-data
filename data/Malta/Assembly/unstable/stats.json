@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 3
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/malta-parliament",
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "morph/official-13.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/malta-13th-parliament",
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "morph/p39s.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/maltese-parliament-wikidata",
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/malta-parliament-wikidata",
+      "lastmod": "2018-10-04"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/malta-parliament-terms-wikidata",
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/malta-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-17"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/malta-positions",
+      "lastmod": "2017-03-15"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-04"
+    }
+  ]
 }
