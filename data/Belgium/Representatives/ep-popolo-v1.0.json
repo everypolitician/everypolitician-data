@@ -1761,6 +1761,10 @@
       "sort_name": "Van Quickenborne Vincent"
     },
     {
+      "id": "1f919880-5e08-4342-867a-bae153e30e50",
+      "name": "Sarah Schlitz"
+    },
+    {
       "birth_date": "1978-05-02",
       "contact_details": [
         {
@@ -2702,17 +2706,6 @@
     },
     {
       "birth_date": "1957-04-25",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "muriel.gerkens@lachambre.be"
-        },
-        {
-          "type": "email",
-          "value": "muriel.gerkens@ecolo.be"
-        }
-      ],
-      "email": "muriel.gerkens@lachambre.be",
       "gender": "female",
       "given_name": "Muriel",
       "id": "3c754fe0-0099-40ee-9f6c-1c95a643b6cd",
@@ -14359,6 +14352,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -14554,6 +14552,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "1f919880-5e08-4342-867a-bae153e30e50",
+      "role": "member",
+      "start_date": "2018-10-05"
+    },
+    {
       "area_id": "e8e51560-6030-47ba-aa0c-75cf85e6f9cc",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "2212f944-30f6-47ec-a169-32002c4d3a83",
@@ -14703,6 +14709,7 @@
     },
     {
       "area_id": "286e7423-94a8-486a-b037-d1b00c7d7fbf",
+      "end_date": "2018-10-03",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
