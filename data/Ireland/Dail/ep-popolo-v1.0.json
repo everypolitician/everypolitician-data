@@ -440,8 +440,16 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jerry_Buttimer"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jerry_Buttimer"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jerry_Buttimer"
         },
         {
           "note": "Wikipedia (ga)",
@@ -3117,6 +3125,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Liam_T._Cosgrave"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Liam_T._Cosgrave"
         }
       ],
       "name": "Liam T. Cosgrave"
@@ -6923,6 +6935,10 @@
         {
           "identifier": "no2012002619",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000028625",
+          "scheme": "munzinger"
         },
         {
           "identifier": "055/000275227",
@@ -12323,6 +12339,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Liam_Naughten"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Liam_Naughten"
         }
       ],
       "name": "Liam Naughten"
@@ -13754,8 +13774,16 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1150886765",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "414",
           "scheme": "oireachtas"
+        },
+        {
+          "identifier": "4896151656364308400004",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q1064368",
@@ -13781,7 +13809,7 @@
         },
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Charles_Flanagan"
+          "url": "https://de.wikipedia.org/wiki/Charlie_Flanagan"
         },
         {
           "note": "Wikipedia (en)",
@@ -13818,6 +13846,11 @@
       ],
       "name": "Charles Flanagan",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Charlie Flanagan",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "チャールズ・フラナガン",
@@ -14555,6 +14588,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Seán_Ardagh"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Seán_Ardagh"
         },
         {
           "note": "Wikipedia (ga)",
@@ -17453,6 +17490,10 @@
         {
           "identifier": "nr2006023520",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000013532",
+          "scheme": "munzinger"
         },
         {
           "identifier": "F33171",
@@ -25004,6 +25045,10 @@
         {
           "identifier": "0000 0001 3957 3023",
           "scheme": "isni"
+        },
+        {
+          "identifier": "00000024990",
+          "scheme": "munzinger"
         },
         {
           "identifier": "494/000173972",
@@ -36011,6 +36056,10 @@
           "url": "https://vi.wikipedia.org/wiki/Michael_D._Higgins"
         },
         {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/麦克·希金斯"
+        },
+        {
           "note": "Wikipedia (yo)",
           "url": "https://yo.wikipedia.org/wiki/Michael_D._Higgins"
         },
@@ -36166,6 +36215,11 @@
         {
           "lang": "vi",
           "name": "Michael Daniel Higgins",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "麦克·希金斯",
           "note": "multilingual"
         },
         {
@@ -36452,7 +36506,7 @@
         },
         {
           "note": "Wikipedia (ga)",
-          "url": "https://ga.wikipedia.org/wiki/John_Esmonde,_Bairnéad_an_16ú"
+          "url": "https://ga.wikipedia.org/wiki/John_Esmonde,_an_16ú_Bairnéad"
         }
       ],
       "name": "Sir John Esmonde, 16th Baronet",
@@ -38570,6 +38624,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Social_Democrats_(Ireland)_logo.svg",
       "links": [
         {
           "note": "website",
@@ -38623,6 +38678,12 @@
         {
           "lang": "ko",
           "name": "사회민주당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Socialdemócratas",
           "note": "multilingual",
           "source": "wikidata-label"
         }
