@@ -2104,6 +2104,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "00000029485",
+          "scheme": "munzinger"
+        },
+        {
           "identifier": "Q281184",
           "scheme": "wikidata"
         }
@@ -4427,12 +4431,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/محسن_حسن"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mohsen_Hassan"
         }
       ],
       "name": "Mohsen Hssan",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "محسن حسن",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Mohsen Hassan",
@@ -9767,19 +9780,6 @@
     },
     {
       "classification": "general election",
-      "end_date": "2009",
-      "id": "Q2115101",
-      "identifiers": [
-        {
-          "identifier": "Q2115101",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Tunisian general election, 2009",
-      "start_date": "2009"
-    },
-    {
-      "classification": "general election",
       "end_date": "2009-10-25",
       "id": "Q1706168",
       "identifiers": [
@@ -9789,6 +9789,19 @@
         }
       ],
       "name": "Tunisian parliamentary election, 2009",
+      "start_date": "2009-10-25"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2009-10-25",
+      "id": "Q2115101",
+      "identifiers": [
+        {
+          "identifier": "Q2115101",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Tunisian general election, 2009",
       "start_date": "2009-10-25"
     },
     {
