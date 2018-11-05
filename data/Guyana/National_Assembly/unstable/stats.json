@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/guyana-parliament",
+      "lastmod": "2017-04-10"
+    },
+    {
+      "file": "archive/official-term-11.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-04-10"
+    },
+    {
+      "file": "manual/gender.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2016-09-09"
+    },
+    {
+      "file": "manual/honorific_prefix.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2016-09-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2015-09-12"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2018-05-24"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-22"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-08-22"
+    }
+  ]
 }
