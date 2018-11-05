@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 83,
+    "count": 81,
     "wikidata": 0,
     "latest_term": {
-      "count": 83,
+      "count": 81,
       "wikidata": 0,
-      "images": 83,
+      "images": 81,
       "contacts": {
-        "email": 0,
+        "email": 73,
         "facebook": 0,
         "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 9,
-    "wikidata": 2
+    "count": 11,
+    "wikidata": 1
   },
   "terms": {
     "count": 1,
@@ -23,7 +23,7 @@
     "wikidata": 0
   },
   "areas": {
-    "count": 24,
+    "count": 18,
     "wikidata": 0
   },
   "elections": {
@@ -32,5 +32,37 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/benin-assemblee-nationale",
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-10-07"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-05-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2016-10-22"
+    }
+  ]
 }
