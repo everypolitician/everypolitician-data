@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-01-08"
+    },
+    {
+      "file": "morph/official-2015.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/belize-national-assembly",
+      "lastmod": "2018-03-05"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/belize-national-assembly-wikidata",
+      "lastmod": "2018-08-18"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-08"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/belize-representatives-gender-balance",
+      "lastmod": "2017-10-06"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-08-27"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-02-21"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-27"
+    }
+  ]
 }
