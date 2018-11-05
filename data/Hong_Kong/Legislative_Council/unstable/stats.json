@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 2
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/term-5.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/term-6.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/hong_kong_legislative_council_members",
+      "lastmod": "2018-09-18"
+    },
+    {
+      "file": "archive/vanished-6.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/hong-kong-legislative-council-wikidata",
+      "lastmod": "2018-10-04"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-02-03"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/hong-kong-legislative-council-gender-balance",
+      "lastmod": "2017-04-27"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/hong-kong-positions",
+      "lastmod": "2017-08-26"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-12-06"
+    }
+  ]
 }
