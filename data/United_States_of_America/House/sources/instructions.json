@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/us-congress-members",
-        "query": "SELECT *, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'rep' ORDER BY id"
+        "query": "SELECT *, NULL AS district, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'rep' ORDER BY id"
       },
       "source": "https://github.com/unitedstates/congress-legislators",
       "type": "membership"
@@ -49,12 +49,16 @@
       }
     },
     {
-      "file": "ocd/divisions.csv",
+      "file": "morph/areas.csv",
       "create": {
-        "from": "ocd",
-        "source": "country-us.csv"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/us-house-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
       },
-      "type": "ocd-names"
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
     },
     {
       "file": "manual/terms.csv",
