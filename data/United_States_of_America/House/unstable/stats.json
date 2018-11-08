@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 504,
-    "wikidata": 0
+    "wikidata": 504
   },
   "elections": {
     "count": 58,
@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 11
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/unitedstates-project.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/us-congress-members",
+      "lastmod": "2018-11-08"
+    },
+    {
+      "file": "morph/socialmedia.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/us-congress-members-social-media",
+      "lastmod": "2018-08-15"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/us-representatives-wikidata",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/us-house-constituencies-wikidata",
+      "lastmod": null
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-03"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/united-states-of-america-house-gender-balance",
+      "lastmod": "2017-04-26"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/us-representatives-positions",
+      "lastmod": "2018-08-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
