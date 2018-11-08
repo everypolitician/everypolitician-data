@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 1106,
-    "wikidata": 361,
+    "count": 264,
+    "wikidata": 30,
     "latest_term": {
-      "count": 283,
-      "wikidata": 64,
-      "images": 283,
+      "count": 170,
+      "wikidata": 15,
+      "images": 170,
       "contacts": {
-        "email": 234,
-        "facebook": 1,
-        "twitter": 1
+        "email": 151,
+        "facebook": 0,
+        "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 37,
-    "wikidata": 37
+    "count": 15,
+    "wikidata": 15
   },
   "terms": {
-    "count": 6,
+    "count": 3,
     "latest": "2017-04-19",
-    "wikidata": 6
+    "wikidata": 3
   },
   "areas": {
     "count": 31,
@@ -31,7 +31,7 @@
     "latest": "2017-03-26"
   },
   "positions": {
-    "cabinet": 13
+    "cabinet": 0
   },
   "sources": [
     {
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/bulgaria-parliament-wikidata",
-      "lastmod": "2018-10-12"
+      "lastmod": "2018-10-16"
     },
     {
       "file": "manual/terms.csv",
@@ -56,7 +56,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-11"
+      "lastmod": "2018-10-16"
     },
     {
       "file": "morph/genderbalance.csv",
