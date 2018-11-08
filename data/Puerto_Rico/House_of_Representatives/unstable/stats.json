@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official29.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-01-09"
+    },
+    {
+      "file": "morph/official30.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/puerto-rico-representantes",
+      "lastmod": "2017-01-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/puerto-rico-house-of-representatives-wikidata",
+      "lastmod": "2018-08-13"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-03-16"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/puerto-rico-house-of-representatives-gender-balance",
+      "lastmod": "2018-09-27"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-08-03"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    }
+  ]
 }
