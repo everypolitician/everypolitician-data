@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/offical-8.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/cabo-verde-assembleia-nacionale",
+      "lastmod": "2016-07-07"
+    },
+    {
+      "file": "morph/offical-9.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/cabo-verde-assembleia-nacionale",
+      "lastmod": "2018-02-21"
+    },
+    {
+      "file": "archive/official-8-vanished.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-11-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/cabo-verde-wikidata",
+      "lastmod": "2018-08-02"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-04-04"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-02-21"
+    }
+  ]
 }
