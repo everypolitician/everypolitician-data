@@ -21,6 +21,11 @@
       "type": "membership"
     },
     {
+      "file": "archive/vanished-7.csv",
+      "source": "http://www.dz-rs.si/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -82,11 +87,6 @@
         "from": "election-wikidata",
         "base": "Q22160120"
       }
-    },
-    {
-      "file": "manual/memberships.csv",
-      "source": "http://www.dz-rs.si/",
-      "type": "membership"
     },
     {
       "file": "manual/facebook.csv",
