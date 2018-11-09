@@ -26,6 +26,11 @@
       }
     },
     {
+      "file": "archive/official-8-vanished.csv",
+      "source": "http://www.parlamento.cv",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
@@ -39,11 +44,6 @@
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
-    },
-    {
-      "file": "manual/memberships.csv",
-      "source": "http://www.parlamento.cv",
-      "type": "membership"
     },
     {
       "file": "manual/terms.csv",
