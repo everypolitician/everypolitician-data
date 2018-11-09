@@ -11,7 +11,6 @@ class RemoteSource
     return RemoteSource::URL.new(instructions)                if c.key? :url
     return RemoteSource::Morph.new(instructions)              if c[:from] == 'morph'
     return RemoteSource::Parlparse.new(instructions)          if c[:from] == 'parlparse'
-    return RemoteSource::OCD.new(instructions)                if c[:from] == 'ocd'
     return RemoteSource::Wikidata::Election.new(instructions) if c[:from] == 'election-wikidata'
     return RemoteSource::Wikidata::Group.new(instructions)    if c[:from] == 'group-wikidata'
     return RemoteSource::Wikidata::Raw.new(instructions)      if c[:from] == 'wikidata-raw'
@@ -72,13 +71,6 @@ class RemoteSource::Morph < RemoteSource
   def write
     data = morph_select(c(:scraper), c(:query))
     File.write(i(:file), data)
-  end
-end
-
-class RemoteSource::OCD < RemoteSource
-  def write
-    remote = 'https://raw.githubusercontent.com/opencivicdata/ocd-division-ids/master/identifiers/' + source
-    copy_url(remote)
   end
 end
 

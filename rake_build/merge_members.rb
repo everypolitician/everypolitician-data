@@ -45,16 +45,6 @@ namespace :merge_members do
       warn source.warnings.to_a.join("\n") if source.warnings.any?
     end
 
-    # OCD IDs -> names
-    @INSTRUCTIONS.sources_of_type('ocd-names').each do |source|
-      source_warn "Adding OCD names from #{source.filename}"
-      merged_rows = source.merged_with(merged_rows)
-      if source.warnings.any?
-        warn 'OCD ID issues'
-        warn source.warnings.to_a.join("\n")
-      end
-    end
-
     # TODO: add this as a Source
     legacy_id_file = 'sources/manual/legacy-ids.csv'
     if File.exist? legacy_id_file
