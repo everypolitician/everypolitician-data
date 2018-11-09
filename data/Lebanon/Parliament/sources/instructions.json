@@ -7,12 +7,12 @@
         "scraper": "tmtmtmtm/lebanese-parliament-2009",
         "query": "SELECT * FROM data ORDER BY name"
       },
-      "source": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
     },
     {
-      "file": "manual/memberships.csv",
-      "source": "https://en.wikipedia.org/wiki/Members_of_the_2009%E2%80%9317_Lebanese_Parliament",
+      "file": "archive/wikipedia-vanished.csv",
+      "source": "https://en.wikipedia.org/",
       "type": "membership"
     },
     {
