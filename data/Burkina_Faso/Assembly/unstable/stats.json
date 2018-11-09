@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2018-11-09"
+    },
+    {
+      "file": "morph/official-2015.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/burkina-faso-national-assembly",
+      "lastmod": "2017-08-17"
+    },
+    {
+      "file": "morph/historic-3.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/burkina-faso-historic",
+      "lastmod": "2016-05-30"
+    },
+    {
+      "file": "morph/historic-2.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/burkina-faso-historic",
+      "lastmod": "2016-05-30"
+    },
+    {
+      "file": "morph/historic-1.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/burkina-faso-historic",
+      "lastmod": "2016-05-30"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-07-20"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-04-02"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-08-17"
+    }
+  ]
 }
