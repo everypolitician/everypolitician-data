@@ -32,5 +32,97 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/electionpassport.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-2010.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-2004.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-2000.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-1995.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-1993.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-1989.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/electionpassport-1984.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-electionpassort",
+      "lastmod": "2016-02-26"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikipedia",
+      "lastmod": "2017-02-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikidata",
+      "lastmod": "2018-09-30"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-14"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-07-27"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-09-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-30"
+    }
+  ]
 }
