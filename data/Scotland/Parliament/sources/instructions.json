@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/twitter-scotland",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, twitter FROM data ORDER BY id"
       },
       "source": "https://twitter.com/ScotParl/lists/msps-session-5",
       "type": "person",
