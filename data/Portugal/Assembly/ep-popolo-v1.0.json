@@ -5541,6 +5541,7 @@
     },
     {
       "birth_date": "1976-04-02",
+      "family_name": "Moreira",
       "gender": "female",
       "given_name": "Isabel",
       "id": "1c52b035-e7a0-46e5-bc34-4b3ff15036b7",
@@ -14156,7 +14157,14 @@
           "url": "https://sv.wikipedia.org/wiki/António_Vitorino"
         }
       ],
-      "name": "António Vitorino"
+      "name": "António Vitorino",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أنطونيو فيتورينو",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-02-18",
@@ -20893,6 +20901,11 @@
       "name": "Pedro Santana Lopes",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "بيدرو سانتانا لوبيس",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Педру Сантана Лопеш",
           "note": "multilingual"
@@ -26705,6 +26718,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0057595",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "119082357",
           "scheme": "gnd"
         },
@@ -26802,6 +26819,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Francisco_Sa_Carneiro"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Francisco_de_Sá_Carneiro"
         },
         {
           "note": "Wikipedia (it)",
@@ -33599,6 +33620,10 @@
         {
           "identifier": "n87889829",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000020520",
+          "scheme": "munzinger"
         },
         {
           "identifier": "961/000050811",
@@ -40690,6 +40715,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "00000015464",
+          "scheme": "munzinger"
+        },
+        {
           "identifier": "n2016012807",
           "scheme": "nukat"
         },
@@ -46795,6 +46824,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2040&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pedro_Marques._Transportes_Em_Revista._2017.jpg"
         }
       ],
       "links": [
@@ -48604,6 +48636,10 @@
       "id": "e5e97bcd-4727-48f7-8920-0e8f9cacf363",
       "identifiers": [
         {
+          "identifier": "2122237",
+          "scheme": "bigenc_ru"
+        },
+        {
           "identifier": "XX987342",
           "scheme": "bne"
         },
@@ -49421,7 +49457,14 @@
           "url": "https://pt.wikipedia.org/wiki/Isabel_Pires_de_Lima"
         }
       ],
-      "name": "Isabel Pires de Lima"
+      "name": "Isabel Pires de Lima",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "إيزابيل بيريس دي ليما",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1987-08-17",
@@ -49704,7 +49747,6 @@
     {
       "birth_date": "1971-08-23",
       "gender": "male",
-      "given_name": "Marcos",
       "id": "eabe72ee-4608-4a15-879d-f5dee9546515",
       "identifiers": [
         {
@@ -49714,10 +49756,6 @@
         {
           "identifier": "2209",
           "scheme": "parlamento"
-        },
-        {
-          "identifier": "Q23836571",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2209&type=deputado",
@@ -49727,12 +49765,6 @@
         },
         {
           "url": "http://demo.cratica.org/media/img/deputados/2209.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Marcos_Perestrello"
         }
       ],
       "name": "Marcos Perestrello"
@@ -49849,7 +49881,7 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=235&type=deputado"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Manuel_Alegre.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Manuel_Alegre.png"
         }
       ],
       "links": [
@@ -50916,6 +50948,11 @@
       "name": "Paulo Portas",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "باولو بورتاس",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "パウル・ポルタシュ",
           "note": "multilingual"
@@ -51628,6 +51665,7 @@
     {
       "birth_date": "1971-08-13",
       "gender": "female",
+      "given_name": "Graça",
       "id": "f1cc54c9-6683-4f9e-8372-6be8aab614be",
       "identifiers": [
         {
@@ -58098,6 +58136,12 @@
         {
           "lang": "kk",
           "name": "Социалистік партия",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Socialista (Portugal)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
