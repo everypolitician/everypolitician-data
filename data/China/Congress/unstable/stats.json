@@ -1,11 +1,11 @@
 {
   "people": {
     "count": 2956,
-    "wikidata": 372,
+    "wikidata": 252,
     "latest_term": {
       "count": 2956,
-      "wikidata": 372,
-      "images": 52,
+      "wikidata": 252,
+      "images": 24,
       "contacts": {
         "email": 0,
         "facebook": 1,
@@ -32,5 +32,31 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/china-national-peoples-congress",
+      "lastmod": "2017-04-08"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/china-congress-wikidata",
+      "lastmod": "2018-08-13"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-23"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/china-congress-gender-balance",
+      "lastmod": "2017-04-13"
+    }
+  ]
 }
