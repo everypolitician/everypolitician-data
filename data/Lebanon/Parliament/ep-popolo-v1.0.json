@@ -593,6 +593,10 @@
           "url": "https://arz.wikipedia.org/wiki/ميشال_عون"
         },
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Mişel_Aun"
+        },
+        {
           "note": "Wikipedia (azb)",
           "url": "https://azb.wikipedia.org/wiki/میشل_عون"
         },
@@ -874,6 +878,10 @@
         {
           "identifier": "1155860438",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "00000029920",
+          "scheme": "munzinger"
         },
         {
           "identifier": "1913152381757401950005",
@@ -1809,6 +1817,10 @@
         {
           "note": "Wikiquote (fa)",
           "url": "https://fa.wikiquote.org/wiki/نبیه_بری"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nabihberry.com"
         }
       ],
       "name": "Nabih Berri",
@@ -2332,6 +2344,10 @@
         {
           "identifier": "114724",
           "scheme": "gtaa"
+        },
+        {
+          "identifier": "00000017122",
+          "scheme": "munzinger"
         },
         {
           "identifier": "602/000101299",
@@ -3533,7 +3549,7 @@
       ]
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-05-31",
       "gender": "female",
       "id": "9e6b9686-7fd5-4420-93dc-b4152be7a9f0",
       "identifiers": [
@@ -3783,7 +3799,7 @@
     {
       "birth_date": "1953-10-02",
       "gender": "male",
-      "given_name": "Muhammed",
+      "given_name": "Mohamed",
       "id": "abc70b71-269a-4e88-bad4-0ce9d736b654",
       "identifiers": [
         {
@@ -4176,6 +4192,12 @@
         {
           "identifier": "Q2852389",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Anwar_khalil.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Anwar_khalil.jpg"
         }
       ],
       "links": [
@@ -5968,8 +5990,9 @@
     },
     {
       "birth_date": "1965-10-18",
-      "family_name": "Frangieh family",
+      "family_name": "Frangieh",
       "gender": "male",
+      "given_name": "Suleiman",
       "id": "ed00b520-4d08-4071-93f0-3fba0b94867f",
       "identifiers": [
         {
@@ -7448,6 +7471,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ne",
+          "name": "हिजबुल्लाह",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "黎巴嫩真主党",
           "note": "multilingual",
@@ -8410,6 +8439,12 @@
         {
           "lang": "pt-br",
           "name": "Hizbollah",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ml",
+          "name": "ഹിസ്ബുള്ളാ",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
