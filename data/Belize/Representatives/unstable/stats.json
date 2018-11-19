@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 31,
-    "wikidata": 0
+    "wikidata": 31
   },
   "elections": {
     "count": 10,
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/belize-national-assembly-wikidata",
-      "lastmod": "2018-08-18"
+      "lastmod": "2018-11-19"
     },
     {
       "file": "manual/terms.csv",
@@ -75,6 +75,12 @@
       "type": "group",
       "scraper": null,
       "lastmod": "2018-02-21"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/belize-house-constituencies-wikidata",
+      "lastmod": "2018-11-19"
     },
     {
       "file": "wikidata/elections.json",

@@ -2551,156 +2551,458 @@
   "areas": [
     {
       "id": "albert",
+      "identifiers": [
+        {
+          "identifier": "Q4709564",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Albert",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Albert, Belize",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "البرت، بلیز",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "belize_rural_central",
+      "identifiers": [
+        {
+          "identifier": "Q20645440",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belize Rural Central",
       "type": "constituency"
     },
     {
       "id": "belize_rural_north",
+      "identifiers": [
+        {
+          "identifier": "Q20313235",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belize Rural North",
       "type": "constituency"
     },
     {
       "id": "belize_rural_south",
+      "identifiers": [
+        {
+          "identifier": "Q20313236",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belize Rural South",
       "type": "constituency"
     },
     {
       "id": "belmopan",
+      "identifiers": [
+        {
+          "identifier": "Q20645525",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Belmopan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Belmopan (Belize House constituency)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Belmopan (okręg wyborczy)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "caribbean_shores",
+      "identifiers": [
+        {
+          "identifier": "Q20645442",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Caribbean Shores",
       "type": "constituency"
     },
     {
       "id": "cayo_central",
+      "identifiers": [
+        {
+          "identifier": "Q18922578",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cayo Central",
       "type": "constituency"
     },
     {
       "id": "cayo_north",
+      "identifiers": [
+        {
+          "identifier": "Q20645566",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cayo North",
       "type": "constituency"
     },
     {
       "id": "cayo_north_east",
+      "identifiers": [
+        {
+          "identifier": "Q20645530",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cayo North East",
       "type": "constituency"
     },
     {
       "id": "cayo_south",
+      "identifiers": [
+        {
+          "identifier": "Q20645561",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cayo South",
       "type": "constituency"
     },
     {
       "id": "cayo_west",
+      "identifiers": [
+        {
+          "identifier": "Q21196381",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cayo West",
       "type": "constituency"
     },
     {
       "id": "collet",
+      "identifiers": [
+        {
+          "identifier": "Q21188177",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Collet",
       "type": "constituency"
     },
     {
       "id": "corozal_bay",
+      "identifiers": [
+        {
+          "identifier": "Q21196387",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Corozal Bay",
       "type": "constituency"
     },
     {
       "id": "corozal_north",
+      "identifiers": [
+        {
+          "identifier": "Q21188181",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Corozal North",
       "type": "constituency"
     },
     {
       "id": "corozal_south_east",
+      "identifiers": [
+        {
+          "identifier": "Q21196389",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Corozal South East",
       "type": "constituency"
     },
     {
       "id": "corozal_south_west",
+      "identifiers": [
+        {
+          "identifier": "Q25405053",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Corozal South West",
       "type": "constituency"
     },
     {
       "id": "dangriga",
+      "identifiers": [
+        {
+          "identifier": "Q21188184",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dangriga",
       "type": "constituency"
     },
     {
       "id": "fort_george",
+      "identifiers": [
+        {
+          "identifier": "Q20645459",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Fort George",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fort George (Belize House constituency)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Fort George (Belize)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "freetown",
+      "identifiers": [
+        {
+          "identifier": "Q20645460",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Freetown",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Freetown (Belize House constituency)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Freetown (Belize)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "弗里敦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "弗里敦 (伯利茲眾議院選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "弗里敦 (貝里斯眾議院選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "lake_independence",
+      "identifiers": [
+        {
+          "identifier": "Q20645464",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Lake Independence",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lake Independence (Belize House constituency)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "mesopotamia",
+      "identifiers": [
+        {
+          "identifier": "Q21188477",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mesopotamia",
       "type": "constituency"
     },
     {
       "id": "orange_walk_central",
+      "identifiers": [
+        {
+          "identifier": "Q25405061",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orange Walk Central",
       "type": "constituency"
     },
     {
       "id": "orange_walk_east",
+      "identifiers": [
+        {
+          "identifier": "Q25405052",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orange Walk East",
       "type": "constituency"
     },
     {
       "id": "orange_walk_north",
+      "identifiers": [
+        {
+          "identifier": "Q25405054",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orange Walk North",
       "type": "constituency"
     },
     {
       "id": "orange_walk_south",
+      "identifiers": [
+        {
+          "identifier": "Q25405065",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orange Walk South",
       "type": "constituency"
     },
     {
       "id": "pickstock",
+      "identifiers": [
+        {
+          "identifier": "Q21188737",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Pickstock",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "匹克史托克",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "匹克史托克 (伯利茲眾議院選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "匹克史托克 (貝里斯眾議院選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "port_loyola",
+      "identifiers": [
+        {
+          "identifier": "Q16975862",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Port Loyola",
       "type": "constituency"
     },
     {
       "id": "queen's_square",
+      "identifiers": [
+        {
+          "identifier": "Q20645377",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Queen's Square",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Queen’s Square",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "皇后廣場",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "皇后廣場 (伯利茲眾議院選區)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "皇后廣場 (貝里斯眾議院選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "stann_creek_west",
+      "identifiers": [
+        {
+          "identifier": "Q25405070",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Stann Creek West",
       "type": "constituency"
     },
     {
       "id": "toledo_east",
+      "identifiers": [
+        {
+          "identifier": "Q21196640",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Toledo East",
+      "other_names": [
+        {
+          "lang": "nds",
+          "name": "Wahlkreis Toledo Oost",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "toledo_west",
+      "identifiers": [
+        {
+          "identifier": "Q25405069",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Toledo West",
       "type": "constituency"
     }
