@@ -1,8 +1,12 @@
 {
   "sources": [
     {
-      "file": "morph/official-2012.csv",
-      "source": "http://nationalassembly.gov.bz/",
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/belize-representatives-p39s",
+        "query": "SELECT * FROM data WHERE term = 9 ORDER BY id"
+      },
       "type": "membership"
     },
     {
