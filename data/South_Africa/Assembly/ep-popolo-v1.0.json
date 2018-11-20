@@ -1515,13 +1515,6 @@
     },
     {
       "birth_date": "1977-08-03",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gavdavis@gmail.com"
-        }
-      ],
-      "email": "gavdavis@gmail.com",
       "family_name": "Davis",
       "gender": "male",
       "given_name": "Gavin",
@@ -2362,13 +2355,6 @@
     },
     {
       "birth_date": "1942-09-13",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "cnqakula@parliament.gov.za"
-        }
-      ],
-      "email": "cnqakula@parliament.gov.za",
       "gender": "male",
       "given_name": "Charles",
       "honorific_prefix": "Mr",
@@ -4177,13 +4163,6 @@
       "name": "Gijimani Jim Skosana"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vuyokazi.ketabahle@gmail.com"
-        }
-      ],
-      "email": "vuyokazi.ketabahle@gmail.com",
       "gender": "female",
       "id": "2328bc58-19ab-4f6d-ad45-b629fc6f1a02",
       "identifiers": [
@@ -4883,13 +4862,6 @@
       "name": "Hendrik Christiaan Crafford Krüger"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "bmabe@parliament.gov.za"
-        }
-      ],
-      "email": "bmabe@parliament.gov.za",
       "gender": "female",
       "given_name": "Bertha",
       "honorific_prefix": "Ms",
@@ -5196,13 +5168,6 @@
       "name": "Xolani Ngwezi"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "gordon_mackay@outlook.com"
-        }
-      ],
-      "email": "gordon_mackay@outlook.com",
       "gender": "male",
       "given_name": "Gordon",
       "honorific_prefix": "Mr",
@@ -5449,16 +5414,15 @@
           "url": "https://af.wikipedia.org/wiki/Patekile_Holomisa"
         }
       ],
-      "name": "Inkosi Sango Patekile Holomisa",
+      "name": "Sango Patekile Holomisa",
       "other_names": [
+        {
+          "name": "Inkosi Sango Patekile Holomisa",
+          "note": "alternate"
+        },
         {
           "lang": "af",
           "name": "Patekile Holomisa",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Sango Patekile Holomisa",
           "note": "multilingual"
         }
       ]
@@ -9282,6 +9246,10 @@
         }
       ],
       "name": "Asanda Matshobeni"
+    },
+    {
+      "id": "562e31d1-cd07-41cb-9a3f-cebc8355cd88",
+      "name": "Neliswa Peggy Nkonyeni"
     },
     {
       "contact_details": [
@@ -14438,13 +14406,6 @@
       "name": "Ellen Molekane"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jskosana@parliament.gov.za"
-        }
-      ],
-      "email": "jskosana@parliament.gov.za",
       "gender": "male",
       "given_name": "James",
       "honorific_prefix": "Mr",
@@ -15224,26 +15185,6 @@
       ]
     },
     {
-      "id": "a1249bcc-d1ee-4240-874d-c350fee5bc76",
-      "identifiers": [
-        {
-          "identifier": "1930",
-          "scheme": "peoples_assembly"
-        },
-        {
-          "identifier": "Q55350250",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.pa.org.za/media_root/cache/5b/bc/5bbc3aceaace85afa72eedf57dd878de.jpg",
-      "images": [
-        {
-          "url": "https://www.pa.org.za/media_root/cache/5b/bc/5bbc3aceaace85afa72eedf57dd878de.jpg"
-        }
-      ],
-      "name": "Neliswa Peggy Nkonyeni"
-    },
-    {
       "gender": "male",
       "given_name": "Abram",
       "honorific_prefix": "Mr",
@@ -15704,17 +15645,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dmanana@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "dpmanana@gmail.com"
-        }
-      ],
-      "email": "dmanana@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "a71f2e23-95cb-4492-bb25-2edb714fa78e",
@@ -16789,13 +16719,6 @@
       "name": "Itumeleng Mosala"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carinvisser@gmail.com"
-        }
-      ],
-      "email": "carinvisser@gmail.com",
       "gender": "female",
       "given_name": "Carin",
       "id": "af3a504a-4911-4812-bbe2-ae256b820056",
@@ -20962,13 +20885,6 @@
     },
     {
       "birth_date": "1970",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "anollis@tlantic.net"
-        }
-      ],
-      "email": "anollis@tlantic.net",
       "gender": "male",
       "given_name": "Ian",
       "honorific_prefix": "Mr",
@@ -21212,13 +21128,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ntolashe@parliament.gov.za"
-        }
-      ],
-      "email": "ntolashe@parliament.gov.za",
       "gender": "female",
       "id": "e0331040-3fd0-4a22-a0c1-bb48ce010e86",
       "identifiers": [
@@ -22002,13 +21911,6 @@
       "name": "Phoebe Noxolo Abraham-Ntantiso"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "floliwe@parliament.gov.za"
-        }
-      ],
-      "email": "floliwe@parliament.gov.za",
       "gender": "female",
       "honorific_prefix": "Ms",
       "id": "e94d026e-7e06-4794-b886-3da5afc956cc",
@@ -22670,13 +22572,6 @@
     },
     {
       "birth_date": "1971-08-30",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "vuyiswa.monye@dha.gov.za"
-        }
-      ],
-      "email": "vuyiswa.monye@dha.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "ef86e0c9-f374-4f7f-aca2-a7504ab53898",
@@ -22853,17 +22748,6 @@
       "name": "Leonard Ramatlakane"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "btopham@parliament.gov.za"
-        },
-        {
-          "type": "email",
-          "value": "brandontopham@gmail.com"
-        }
-      ],
-      "email": "btopham@parliament.gov.za",
       "gender": "male",
       "honorific_prefix": "Mr",
       "id": "f0fc9a82-b5be-409d-8cfc-0bd74524b75d",
@@ -26681,6 +26565,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-09-20",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -26797,6 +26682,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-06-18",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -26955,6 +26841,7 @@
       "start_date": "2017-10-25"
     },
     {
+      "end_date": "2018-08-31",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q15613585",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27095,13 +26982,12 @@
       "role": "member"
     },
     {
-      "area_id": "Q133083",
+      "end_date": "2016-12-06",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "2c16d1d7-f948-4e63-8a3d-cfe6094557b1",
-      "role": "member",
-      "start_date": "2017-02-24"
+      "role": "member"
     },
     {
       "area_id": "Q127167",
@@ -27137,6 +27023,7 @@
     },
     {
       "area_id": "Q133083",
+      "end_date": "2018-02-27",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -27367,7 +27254,8 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "39f32c16-f341-4831-88e3-b670a6c8ab3a",
-      "role": "member"
+      "role": "member",
+      "start_date": "2017-09-04"
     },
     {
       "area_id": "Q130840",
@@ -27535,7 +27423,7 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "47b436f5-93d0-4010-a710-da91710040d8",
       "role": "member",
-      "start_date": "2018-01-23"
+      "start_date": "2018-01-05"
     },
     {
       "area_id": "Q81725",
@@ -27747,7 +27635,7 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "548b65d2-3f2a-4064-94bc-153606eedaf4",
       "role": "member",
-      "start_date": "2015-01-01"
+      "start_date": "2015-01-14"
     },
     {
       "end_date": "2017-12-01",
@@ -27805,6 +27693,15 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "55dd2925-994f-4a2b-9c36-85cf05d8fcd9",
       "role": "member"
+    },
+    {
+      "area_id": "Q81725",
+      "legislative_period_id": "term/26",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
+      "person_id": "562e31d1-cd07-41cb-9a3f-cebc8355cd88",
+      "role": "member",
+      "start_date": "2018-02-27"
     },
     {
       "area_id": "Q133083",
@@ -28170,6 +28067,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-07-24",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28195,7 +28093,8 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "756a7737-959f-4af7-9a19-007ef9fc1f2b",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-08-12"
     },
     {
       "legislative_period_id": "term/26",
@@ -28205,6 +28104,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-03-09",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28631,10 +28531,12 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "95cec38e-1746-4e0b-b47d-55304c2ed4ea",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-05-25"
     },
     {
       "area_id": "Q132410",
+      "end_date": "2018-02-27",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28670,7 +28572,7 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "97db0b3d-b72c-4317-aff0-5b7351bf253b",
       "role": "member",
-      "start_date": "2016-04-01"
+      "start_date": "2016-03-02"
     },
     {
       "area_id": "Q81725",
@@ -28721,7 +28623,8 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "9ca6d504-ff17-4d85-bd1b-75cc09c1896b",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-05-25"
     },
     {
       "end_date": "2017-03-30",
@@ -28760,15 +28663,6 @@
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "a05c6d65-2daf-4dd5-bbdd-85b12cdb8fde",
       "role": "member"
-    },
-    {
-      "area_id": "Q81725",
-      "legislative_period_id": "term/26",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
-      "person_id": "a1249bcc-d1ee-4240-874d-c350fee5bc76",
-      "role": "member",
-      "start_date": "2018-02-27"
     },
     {
       "area_id": "Q165956",
@@ -28860,6 +28754,7 @@
     },
     {
       "area_id": "Q132410",
+      "end_date": "2018-02-27",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -28951,6 +28846,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-08-16",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29137,7 +29033,8 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "bc37163c-fa61-46c6-b3dd-657e10a8d48c",
-      "role": "member"
+      "role": "member",
+      "start_date": "2017-12-01"
     },
     {
       "legislative_period_id": "term/26",
@@ -29196,6 +29093,7 @@
     },
     {
       "area_id": "Q132410",
+      "end_date": "2018-09-18",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29244,6 +29142,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-07-21",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29255,7 +29154,8 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "c40d0cc0-b2dc-4c3e-aee8-c4d17911c9bf",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-05-25"
     },
     {
       "end_date": "2017-11-01",
@@ -29481,7 +29381,8 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "person_id": "d01dd67a-3c25-4541-a25f-fcff5404d2ab",
-      "role": "member"
+      "role": "member",
+      "start_date": "2014-11-14"
     },
     {
       "area_id": "Q127167",
@@ -29707,6 +29608,7 @@
       "start_date": "2018-10-16"
     },
     {
+      "end_date": "2018-08-31",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29731,6 +29633,7 @@
     },
     {
       "area_id": "Q132410",
+      "end_date": "2018-06-19",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29754,6 +29657,7 @@
       "role": "member"
     },
     {
+      "end_date": "2018-02-25",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -29917,6 +29821,7 @@
     },
     {
       "area_id": "Q130840",
+      "end_date": "2018-03-05",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -30027,6 +29932,7 @@
       "start_date": "2017-11-01"
     },
     {
+      "end_date": "2018-11-15",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q83162",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
@@ -30056,6 +29962,7 @@
       "start_date": "2014-05-22"
     },
     {
+      "end_date": "2018-03-18",
       "legislative_period_id": "term/26",
       "on_behalf_of_id": "Q761877",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
