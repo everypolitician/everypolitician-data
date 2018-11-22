@@ -6474,6 +6474,24 @@
     },
     {
       "classification": "party",
+      "id": "PAREN",
+      "identifiers": [
+        {
+          "identifier": "Q6975208",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Parti de la Renaissance nationale",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "National Rebirth Party",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "PDS/METBA",
       "identifiers": [
         {
@@ -6491,24 +6509,6 @@
         {
           "lang": "zh",
           "name": "民主和独立党/梅特巴",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "PAREN",
-      "identifiers": [
-        {
-          "identifier": "Q6975208",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Parti de la Renaissance nationale",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "National Rebirth Party",
           "note": "multilingual"
         }
       ]
@@ -6561,8 +6561,23 @@
     },
     {
       "classification": "party",
+      "id": "UPC",
+      "name": "Union Pour le Progrès et le Changement"
+    },
+    {
+      "classification": "party",
+      "id": "UBN",
+      "name": "Union pour un Burkina Nouveau"
+    },
+    {
+      "classification": "party",
       "id": "UNIR/PS",
       "name": "UNIR/PS"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
     },
     {
       "classification": "party",
@@ -6591,21 +6606,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "classification": "party",
-      "id": "UPC",
-      "name": "Union Pour le Progrès et le Changement"
-    },
-    {
-      "classification": "party",
-      "id": "UBN",
-      "name": "Union pour un Burkina Nouveau"
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {

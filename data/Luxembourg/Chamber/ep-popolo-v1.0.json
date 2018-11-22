@@ -4329,6 +4329,19 @@
       ]
     },
     {
+      "classification": "legislature",
+      "id": "4bfa781e-4011-44f9-bee1-f6dcc6c8047d",
+      "identifiers": [
+        {
+          "identifier": "Q517449",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Chamber of Deputies",
+      "seats": 60,
+      "type": "unicameral legislature"
+    },
+    {
       "classification": "party",
       "id": "c2483bdf-0738-4c56-bbfa-c8da4479a113",
       "identifiers": [
@@ -4727,19 +4740,6 @@
       ]
     },
     {
-      "classification": "legislature",
-      "id": "4bfa781e-4011-44f9-bee1-f6dcc6c8047d",
-      "identifiers": [
-        {
-          "identifier": "Q517449",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Chamber of Deputies",
-      "seats": 60,
-      "type": "unicameral legislature"
-    },
-    {
       "classification": "party",
       "id": "71c56b97-f1ed-4124-b7f0-d480428d5cd1",
       "identifiers": [
@@ -4951,6 +4951,334 @@
         {
           "lang": "fr",
           "name": "PD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "7b2acebb-59d5-44b2-9024-de2bc60eb685",
+      "identifiers": [
+        {
+          "identifier": "Q767761",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Déi_Gréng_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.greng.lu"
+        }
+      ],
+      "name": "déi Gréng",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Déi Gréng",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Els Verds",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Zelení",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "The Greens",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "La Verduloj",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Los Verdes",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Les Verts",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "I Verdi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lb",
+          "name": "Déi gréng",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Déi Gréng",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Zieloni",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sv",
+          "name": "Déi Gréng",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Зелені",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Déi Gréng",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Οι Πράσινοι",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Os Verdes",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fi",
+          "name": "Vihreät",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "緑の党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "녹색당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Die Grünen",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Les Verts",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Gréng",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Greng",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "9bbcd475-43fe-4803-b9e0-267ec51979f0",
+      "identifiers": [
+        {
+          "identifier": "Q1270494",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Déi_Lénk.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.dei-lenk.lu/"
+        }
+      ],
+      "name": "déi Lénk",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Левые (Люксембург)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "La Gauche",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "The Left",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lb",
+          "name": "Déi Lénk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліві (Люксембург)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Déi Lénk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "L'Esquerra (Luxemburg)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Déi Lénk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "La Sinistra",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Lewica (Luksemburg)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Déi Lénk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Η Αριστερά",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "左派黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "A Esquerda",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "左翼党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "좌파당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eo",
+          "name": "La Maldekstro",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Déi Lénk - Die Linke",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Dei Lenk",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nl",
+          "name": "Dei Lenk - Die Linke",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ca",
+          "name": "L’Esquerra (Luxemburg)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Dei Lenk",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "de",
+          "name": "Jonk Lénk",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Déi Lénk",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "déi Lenk",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -5294,334 +5622,6 @@
         {
           "lang": "sv",
           "name": "LSAP",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "7b2acebb-59d5-44b2-9024-de2bc60eb685",
-      "identifiers": [
-        {
-          "identifier": "Q767761",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Déi_Gréng_Logo.svg",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.greng.lu"
-        }
-      ],
-      "name": "déi Gréng",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Déi Gréng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "Els Verds",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cs",
-          "name": "Zelení",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "The Greens",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "La Verduloj",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "es",
-          "name": "Los Verdes",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Les Verts",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "I Verdi",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "lb",
-          "name": "Déi gréng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Déi Gréng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Zieloni",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sv",
-          "name": "Déi Gréng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "uk",
-          "name": "Зелені",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de-ch",
-          "name": "Déi Gréng",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Οι Πράσινοι",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "Os Verdes",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fi",
-          "name": "Vihreät",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "緑の党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "녹색당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Die Grünen",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "de",
-          "name": "Les Verts",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Gréng",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "Greng",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "9bbcd475-43fe-4803-b9e0-267ec51979f0",
-      "identifiers": [
-        {
-          "identifier": "Q1270494",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_Déi_Lénk.svg",
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.dei-lenk.lu/"
-        }
-      ],
-      "name": "déi Lénk",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Левые (Люксембург)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "La Gauche",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "The Left",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "lb",
-          "name": "Déi Lénk",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "uk",
-          "name": "Ліві (Люксембург)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Déi Lénk",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "L'Esquerra (Luxemburg)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de",
-          "name": "Déi Lénk",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "it",
-          "name": "La Sinistra",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pl",
-          "name": "Lewica (Luksemburg)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "de-ch",
-          "name": "Déi Lénk",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "el",
-          "name": "Η Αριστερά",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "左派黨",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "pt",
-          "name": "A Esquerda",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "左翼党",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ko",
-          "name": "좌파당",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "La Maldekstro",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Déi Lénk - Die Linke",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Dei Lenk",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
-          "name": "Dei Lenk - Die Linke",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "ca",
-          "name": "L’Esquerra (Luxemburg)",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "de",
-          "name": "Dei Lenk",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "de",
-          "name": "Jonk Lénk",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "Déi Lénk",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "déi Lenk",
           "note": "multilingual",
           "source": "wikidata-alias"
         }

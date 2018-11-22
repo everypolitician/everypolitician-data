@@ -2183,6 +2183,25 @@
     },
     {
       "classification": "party",
+      "id": "iauko_group",
+      "identifiers": [
+        {
+          "identifier": "Q24661025",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Iauko Group",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Iauko Group",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "ig",
       "identifiers": [
         {
@@ -3097,25 +3116,6 @@
     },
     {
       "classification": "party",
-      "id": "iauko_group",
-      "identifiers": [
-        {
-          "identifier": "Q24661025",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Iauko Group",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Iauko Group",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "lp",
       "name": "LP"
     },
@@ -3236,6 +3236,31 @@
     },
     {
       "classification": "party",
+      "id": "natatok",
+      "identifiers": [
+        {
+          "identifier": "Q24661026",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Natatok",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Natatok Indigenous People's Democratic Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "NIPDP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "nup",
       "identifiers": [
         {
@@ -3338,29 +3363,17 @@
       ]
     },
     {
-      "classification": "party",
-      "id": "natatok",
+      "classification": "legislature",
+      "id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "identifiers": [
         {
-          "identifier": "Q24661026",
+          "identifier": "Q764201",
           "scheme": "wikidata"
         }
       ],
-      "name": "Natatok",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Natatok Indigenous People's Democratic Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "NIPDP",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        }
-      ]
+      "name": "Parliament",
+      "seats": 33,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -3464,19 +3477,6 @@
           "source": "wikidata-label"
         }
       ]
-    },
-    {
-      "classification": "legislature",
-      "id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
-      "identifiers": [
-        {
-          "identifier": "Q764201",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Parliament",
-      "seats": 33,
-      "type": "unicameral legislature"
     },
     {
       "classification": "party",

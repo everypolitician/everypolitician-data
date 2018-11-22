@@ -15207,16 +15207,6 @@
     },
     {
       "classification": "party",
-      "id": "nlsp",
-      "name": "NLSP"
-    },
-    {
-      "classification": "party",
-      "id": "nz",
-      "name": "NZ"
-    },
-    {
-      "classification": "party",
       "id": "naprijed_hrvatska!",
       "name": "Naprijed Hrvatska!"
     },
@@ -15244,6 +15234,16 @@
           "source": "wikidata-label"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "nlsp",
+      "name": "NLSP"
+    },
+    {
+      "classification": "party",
+      "id": "nz",
+      "name": "NZ"
     },
     {
       "classification": "party",
@@ -15354,6 +15354,19 @@
           "source": "wikidata-label"
         }
       ]
+    },
+    {
+      "classification": "legislature",
+      "id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "identifiers": [
+        {
+          "identifier": "Q371576",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Sabor",
+      "seats": 151,
+      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -15943,19 +15956,6 @@
       "classification": "party",
       "id": "snaga",
       "name": "SNAGA"
-    },
-    {
-      "classification": "legislature",
-      "id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
-      "identifiers": [
-        {
-          "identifier": "Q371576",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Sabor",
-      "seats": 151,
-      "type": "unicameral legislature"
     },
     {
       "classification": "party",

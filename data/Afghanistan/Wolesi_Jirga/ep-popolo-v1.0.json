@@ -5412,6 +5412,11 @@
   ],
   "organizations": [
     {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
+    },
+    {
       "classification": "legislature",
       "id": "95d7cf9c-1250-45fa-975f-cf175d11dd5a",
       "identifiers": [
@@ -5423,11 +5428,6 @@
       "name": "Wolesi Jirga",
       "seats": 249,
       "type": "lower house"
-    },
-    {
-      "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
     }
   ],
   "meta": {

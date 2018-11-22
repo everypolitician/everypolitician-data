@@ -9308,6 +9308,19 @@
       ]
     },
     {
+      "classification": "legislature",
+      "id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
+      "identifiers": [
+        {
+          "identifier": "Q1769673",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "National Assembly",
+      "seats": 78,
+      "type": "unicameral legislature"
+    },
+    {
       "classification": "party",
       "id": "NUDO",
       "identifiers": [
@@ -9331,19 +9344,6 @@
           "source": "wikidata-label"
         }
       ]
-    },
-    {
-      "classification": "legislature",
-      "id": "2262ff14-5cd0-460b-9010-edc5ad3cc246",
-      "identifiers": [
-        {
-          "identifier": "Q1769673",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "National Assembly",
-      "seats": 78,
-      "type": "unicameral legislature"
     },
     {
       "classification": "party",
@@ -10008,13 +10008,13 @@
     },
     {
       "classification": "party",
-      "id": "WRP",
-      "name": "WRP"
+      "id": "party/_unknown",
+      "name": "unknown"
     },
     {
       "classification": "party",
-      "id": "party/_unknown",
-      "name": "unknown"
+      "id": "WRP",
+      "name": "WRP"
     }
   ],
   "meta": {
