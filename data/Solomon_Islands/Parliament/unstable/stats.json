@@ -20,7 +20,7 @@
   "terms": {
     "count": 1,
     "latest": "2014-12-09",
-    "wikidata": 0
+    "wikidata": 1
   },
   "areas": {
     "count": 50,
@@ -53,10 +53,10 @@
       "lastmod": "2018-11-19"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2017-01-11"
+      "scraper": "everypolitician-scrapers/solomon-islands-parliament-terms-wikidata",
+      "lastmod": "2016-06-13"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -80,7 +80,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-22"
     }
   ]
 }
