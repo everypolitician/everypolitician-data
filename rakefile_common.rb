@@ -123,7 +123,7 @@ def popolo_write(pathname, json)
     p[:links]           &&= p[:links].portable_sort_by { |l| l[:note] }
     p[:other_names]     &&= p[:other_names].portable_sort_by { |n| [n[:lang].to_s, n[:name]] }
   end
-  json[:organizations] = json[:organizations].portable_sort_by { |o| [o[:name].to_s, o[:id]] }
+  json[:organizations] = json[:organizations].portable_sort_by { |o| [o[:name].to_s.downcase, o[:id]] }
   json[:memberships]   = json[:memberships].portable_sort_by do |m|
     [
       m[:person_id], m[:organization_id], m[:legislative_period_id], m[:start_date].to_s, m[:on_behalf_of_id].to_s, m[:area_id].to_s,
