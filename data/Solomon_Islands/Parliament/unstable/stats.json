@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 50,
-    "wikidata": 0
+    "wikidata": 50
   },
   "elections": {
     "count": 14,
@@ -56,7 +56,13 @@
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/solomon-islands-parliament-terms-wikidata",
-      "lastmod": "2016-06-13"
+      "lastmod": "2018-11-22"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/solomon-islands-parliament-constituencies-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/genderbalance.csv",
