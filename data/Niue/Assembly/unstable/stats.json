@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-15.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-09-22"
+    },
+    {
+      "file": "morph/official-16.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/niue-assembly",
+      "lastmod": "2018-05-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/niue-election-2014",
+      "lastmod": "2018-10-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-09-22"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/niue-assembly-gender-balance",
+      "lastmod": "2017-04-28"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-10-04"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-11-23"
+    }
+  ]
 }
