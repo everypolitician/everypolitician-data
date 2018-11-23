@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 274,
-    "wikidata": 5,
+    "count": 512,
+    "wikidata": 4,
     "latest_term": {
-      "count": 274,
-      "wikidata": 5,
-      "images": 259,
+      "count": 250,
+      "wikidata": 0,
+      "images": 0,
       "contacts": {
-        "email": 0,
+        "email": 1,
         "facebook": 0,
         "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 12,
+    "count": 13,
     "wikidata": 0
   },
   "terms": {
-    "count": 1,
-    "latest": "2012-05-24",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2016-06-06",
+    "wikidata": 2
   },
   "areas": {
     "count": 15,
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/syria-council-wikidata",
-      "lastmod": "2018-09-17"
+      "lastmod": "2018-11-18"
     },
     {
       "file": "morph/terms.csv",
@@ -68,7 +68,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-09"
+      "lastmod": "2018-11-18"
     }
   ]
 }
