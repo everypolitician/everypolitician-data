@@ -1415,6 +1415,7 @@
           "value": "+677 28602"
         }
       ],
+      "gender": "male",
       "id": "9f1d0b1d-2706-49f0-b8f7-8b63005404ee",
       "identifiers": [
         {
@@ -1668,6 +1669,7 @@
       "sort_name": "Maeue, Hon. Augustine Auga"
     },
     {
+      "birth_date": "1972",
       "contact_details": [
         {
           "type": "phone",
@@ -3515,6 +3517,12 @@
           "name": "Alianza del Pueblo (Islas Salomon)",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "People Alliance Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -4199,6 +4207,19 @@
       "name": "10th Parliament of the Solomon Islands",
       "organization_id": "95ee1a0f-d480-498d-9de5-a4d03108d83c",
       "start_date": "2014-12-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019",
+      "id": "Q30751556",
+      "identifiers": [
+        {
+          "identifier": "Q30751556",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Solomon Islands general election, 2019",
+      "start_date": "2019"
     }
   ],
   "areas": [
