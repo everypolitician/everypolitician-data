@@ -8306,6 +8306,12 @@
     },
     {
       "birth_date": "1981-05-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NDPopescu"
+        }
+      ],
       "gender": "male",
       "given_name": "Nicolae",
       "id": "547627fc-d817-4d8b-9c5f-52440ff9cabe",
@@ -8324,21 +8330,30 @@
       "links": [
         {
           "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Nicolae_Daniel_Popescu"
+          "url": "https://ro.wikipedia.org/wiki/Daniel_Popescu_(politician)"
         },
         {
           "note": "facebook",
           "url": "https://facebook.com/NDPopescu"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/NDPopescu"
+        },
+        {
           "note": "website",
-          "url": "http://www.ndpdiaspora.com/"
+          "url": "https://www.daniel-popescu.ro"
         }
       ],
       "name": "Nicolae-Daniel POPESCU",
       "other_names": [
         {
           "lang": "en",
+          "name": "Daniel Popescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Nicolae Daniel Popescu",
           "note": "multilingual"
         }
@@ -14270,9 +14285,6 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Barna_Ilie.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/DanBarna.jpg"
         }
       ],
       "links": [
@@ -26394,6 +26406,12 @@
         {
           "lang": "de",
           "name": "Alianța Liberalilor și Democraților",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "自由民主同盟",
           "note": "multilingual",
           "source": "wikidata-label"
         },
