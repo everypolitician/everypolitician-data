@@ -2154,10 +2154,6 @@
           "url": "https://fr.wikipedia.org/wiki/George_Becali"
         },
         {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Gigi_Becali"
-        },
-        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/ジジ・ベカリ"
         },
@@ -8306,6 +8302,12 @@
     },
     {
       "birth_date": "1981-05-31",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NDPopescu"
+        }
+      ],
       "gender": "male",
       "given_name": "Nicolae",
       "id": "547627fc-d817-4d8b-9c5f-52440ff9cabe",
@@ -8324,21 +8326,30 @@
       "links": [
         {
           "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Nicolae_Daniel_Popescu"
+          "url": "https://ro.wikipedia.org/wiki/Daniel_Popescu_(politician)"
         },
         {
           "note": "facebook",
           "url": "https://facebook.com/NDPopescu"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/NDPopescu"
+        },
+        {
           "note": "website",
-          "url": "http://www.ndpdiaspora.com/"
+          "url": "https://www.daniel-popescu.ro"
         }
       ],
       "name": "Nicolae-Daniel POPESCU",
       "other_names": [
         {
           "lang": "en",
+          "name": "Daniel Popescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Nicolae Daniel Popescu",
           "note": "multilingual"
         }
@@ -12378,6 +12389,10 @@
       "id": "7ec20028-7304-4317-995f-7a5bc30d7c76",
       "identifiers": [
         {
+          "identifier": "/g/11c2pfzn4p",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "Q28035137",
           "scheme": "wikidata"
         }
@@ -12386,12 +12401,23 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Plesoianu_Liviu.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Liviu_Ioan_Adrian_Pleșoianu.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Liviu_Ioan_Adrian_Pleșoianu"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/liviuplesoianu.oficial"
+        },
+        {
+          "note": "website",
+          "url": "http://liviuplesoianu.ro/"
         }
       ],
       "name": "Liviu Ioan Adrian PLEŞOIANU",
@@ -14270,9 +14296,6 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Barna_Ilie.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/DanBarna.jpg"
         }
       ],
       "links": [
@@ -23169,6 +23192,9 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Draghici_Mircea_Gheorghe.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mircea_Draghici.jpg"
         }
       ],
       "links": [
@@ -26394,6 +26420,12 @@
         {
           "lang": "de",
           "name": "Alianța Liberalilor și Democraților",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "自由民主同盟",
           "note": "multilingual",
           "source": "wikidata-label"
         },
