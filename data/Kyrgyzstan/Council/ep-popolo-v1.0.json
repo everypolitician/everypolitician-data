@@ -4,24 +4,57 @@
   ],
   "persons": [
     {
+      "birth_date": "1974-07-24",
+      "gender": "male",
       "id": "033b60be-ad03-491f-a428-1a818166096a",
       "identifiers": [
         {
           "identifier": "1117",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13170034",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kenesh.kg/MyFiles/image/%D0%9A%D0%BE%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%20%D0%A3%D0%BB%D1%83%D0%BA%D0%B1%D0%B5%D0%BA%20copy.jpg",
       "images": [
         {
           "url": "http://www.kenesh.kg/MyFiles/image/%D0%9A%D0%BE%D1%87%D0%BA%D0%BE%D1%80%D0%BE%D0%B2%20%D0%A3%D0%BB%D1%83%D0%BA%D0%B1%D0%B5%D0%BA%20copy.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Улукбек_Главный_кандидат.png"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ky)",
+          "url": "https://ky.wikipedia.org/wiki/Кочкоров,_Улукбек_Тойчубаевич"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кочкоров,_Улукбек_Тойчубаевич"
         }
       ],
       "name": "KOCHKOROV Ulukbek Tojchubaevich",
       "other_names": [
         {
+          "name": "Кочкоров, Улукбек",
+          "note": "alternate"
+        },
+        {
+          "lang": "ky",
+          "name": "Кочкоров, Улукбек Тойчубаевич",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "КОЧКОРОВ Улукбек Тойчубаевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кочкоров, Улукбек",
           "note": "multilingual"
         }
       ]
