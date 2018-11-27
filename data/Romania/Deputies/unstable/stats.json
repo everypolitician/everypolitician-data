@@ -31,7 +31,7 @@
     "latest": "2016-12-11"
   },
   "positions": {
-    "cabinet": 64
+    "cabinet": 56
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/romanian-parliament-wikidata",
-      "lastmod": "2018-11-20"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/terms.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-15"
+      "lastmod": "2018-11-27"
     },
     {
       "file": "morph/cabinet.csv",
@@ -86,7 +86,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-25"
+      "lastmod": "2018-11-27"
     }
   ]
 }
