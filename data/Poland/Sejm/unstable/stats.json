@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 2181,
-    "wikidata": 2181,
+    "count": 2104,
+    "wikidata": 2094,
     "latest_term": {
-      "count": 472,
-      "wikidata": 472,
-      "images": 416,
+      "count": 455,
+      "wikidata": 449,
+      "images": 396,
       "contacts": {
         "email": 0,
-        "facebook": 8,
-        "twitter": 7
+        "facebook": 7,
+        "twitter": 6
       }
     }
   },
   "groups": {
-    "count": 59,
-    "wikidata": 22
+    "count": 61,
+    "wikidata": 21
   },
   "terms": {
     "count": 8,
@@ -31,7 +31,7 @@
     "latest": "2015-10-25"
   },
   "positions": {
-    "cabinet": 53
+    "cabinet": 44
   },
   "sources": [
     {
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/poland-sejm-wikidata",
-      "lastmod": "2018-11-25"
+      "lastmod": "2018-11-26"
     },
     {
       "file": "morph/terms.csv",
@@ -68,13 +68,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-10-03"
+      "lastmod": "2018-11-26"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-18"
+      "lastmod": "2018-11-26"
     }
   ]
 }
