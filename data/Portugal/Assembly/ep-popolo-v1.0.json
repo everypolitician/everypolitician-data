@@ -365,6 +365,7 @@
     },
     {
       "birth_date": "1969-12-09",
+      "family_name": "Martins",
       "gender": "male",
       "given_name": "José",
       "id": "01b141d3-5c87-46cf-b52c-58275f556f35",
@@ -1431,6 +1432,7 @@
     },
     {
       "birth_date": "1978-02-13",
+      "family_name": "Cabral",
       "gender": "female",
       "given_name": "Sofia",
       "id": "0679ba34-7456-4474-8fff-5aa00655a4be",
@@ -1994,6 +1996,7 @@
     },
     {
       "birth_date": "1956-10-24",
+      "family_name": "Pinto",
       "gender": "male",
       "given_name": "Pedro",
       "id": "096722c3-c462-42ce-9aff-0474cc0c4537",
@@ -5076,6 +5079,7 @@
     },
     {
       "birth_date": "1945-07-18",
+      "family_name": "Correia",
       "gender": "male",
       "given_name": "Ângelo",
       "id": "1911b9bd-68c9-4bea-962f-b49b699cf124",
@@ -5290,6 +5294,7 @@
     },
     {
       "birth_date": "2009-01-01",
+      "family_name": "Cabral",
       "gender": "female",
       "given_name": "Berta",
       "id": "1a0878d5-3b94-4908-8d50-5b4e88da0674",
@@ -5704,7 +5709,9 @@
     },
     {
       "birth_date": "1978-11-06",
+      "family_name": "Martinho",
       "gender": "female",
+      "given_name": "Lara",
       "id": "1d1c1f1f-ddbd-4d98-a249-8babb002100a",
       "identifiers": [
         {
@@ -7123,6 +7130,7 @@
     },
     {
       "birth_date": "1983-03-02",
+      "family_name": "Soares",
       "gender": "male",
       "given_name": "Hugo",
       "id": "2238dec0-25ec-4a5e-9661-a5d5244e85ea",
@@ -12645,6 +12653,7 @@
     },
     {
       "birth_date": "1954-10-28",
+      "family_name": "Pinho",
       "gender": "male",
       "given_name": "Manuel",
       "id": "3d6a057b-8b59-4dba-aa96-ad15cbdf7be6",
@@ -12982,6 +12991,7 @@
     },
     {
       "birth_date": "1985-12-25",
+      "family_name": "Ferreira",
       "gender": "male",
       "id": "3f4a04c7-7e27-4168-b308-ad579f0fdb10",
       "identifiers": [
@@ -13436,6 +13446,7 @@
     {
       "birth_date": "1971-01-25",
       "gender": "female",
+      "given_name": "Catarina",
       "id": "417c65e8-e749-4adf-a962-4e979e13ee4c",
       "identifiers": [
         {
@@ -16069,7 +16080,9 @@
     {
       "birth_date": "1947-01-01",
       "death_date": "2015-09-07",
+      "family_name": "Vasconcelos",
       "gender": "male",
+      "given_name": "Bernardino",
       "id": "48e13e7c-ab4f-47ae-ac48-f8eddb04536a",
       "identifiers": [
         {
@@ -17887,6 +17900,7 @@
     },
     {
       "birth_date": "1983-11-06",
+      "family_name": "Almeida",
       "gender": "female",
       "given_name": "Francisca",
       "id": "548634d4-4491-4deb-94ce-3848bab500c5",
@@ -19363,10 +19377,15 @@
     },
     {
       "birth_date": "1937-01-01",
+      "family_name": "Figueiredo",
       "gender": "male",
-      "given_name": "António",
+      "given_name": "António Jorge",
       "id": "5c26770e-1bdf-4285-a1b8-98ae91a94ab2",
       "identifiers": [
+        {
+          "identifier": "1685",
+          "scheme": "europarlmep"
+        },
         {
           "identifier": "1441",
           "scheme": "parlamento"
@@ -19395,8 +19414,63 @@
       "name": "Figueiredo Lopes",
       "other_names": [
         {
+          "lang": "an",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "António Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "António Jorge de Figueiredo Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "António Jorge de Figueiredo Lopes",
           "note": "multilingual"
         }
       ]
@@ -22040,7 +22114,9 @@
         }
       ],
       "email": "nmagalhaes@cds.parlamento.pt",
+      "family_name": "Magalhães",
       "gender": "male",
+      "given_name": "Nuno",
       "id": "6542e1d2-8c9e-454b-b41b-19c554e3c7b7",
       "identifiers": [
         {
@@ -23657,6 +23733,7 @@
     },
     {
       "birth_date": "1958-07-11",
+      "family_name": "Gouveia",
       "gender": "male",
       "given_name": "João",
       "id": "6ea7d004-d016-4290-a6e3-17ebfaac9bf2",
@@ -26433,6 +26510,7 @@
     },
     {
       "birth_date": "1922-09-15",
+      "family_name": "Moreira",
       "gender": "male",
       "given_name": "Adriano",
       "id": "7c747b80-6fa5-421d-8602-be719d52f2bb",
@@ -28669,6 +28747,7 @@
     {
       "birth_date": "1953-04-06",
       "gender": "female",
+      "given_name": "Helena",
       "id": "861a6c1c-fda1-4dc9-8188-f056eac6e4b5",
       "identifiers": [
         {
@@ -28990,7 +29069,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Суариш,_Мариу"
+          "url": "https://ru.wikipedia.org/wiki/Суареш,_Мариу"
         },
         {
           "note": "Wikipedia (simple)",
@@ -30307,6 +30386,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=555&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Persconferentie_van_de_leider_van_de_Portugese_Communistische_Part_ij,_Alvaro_Cu,_Bestanddeelnr_930-7751.jpg"
         }
       ],
       "links": [
@@ -32785,6 +32867,7 @@
     },
     {
       "birth_date": "1952-01-01",
+      "family_name": "Ramos",
       "gender": "male",
       "given_name": "Jaime",
       "id": "98849d82-b5f1-4a90-9059-7a28af7aa8b4",
@@ -33375,6 +33458,7 @@
     },
     {
       "birth_date": "1957-04-01",
+      "family_name": "Correia",
       "gender": "male",
       "id": "9bfc218c-04af-437d-a723-8da2c7394b05",
       "identifiers": [
@@ -35528,6 +35612,7 @@
     },
     {
       "birth_date": "1969-08-30",
+      "family_name": "Pereira",
       "gender": "male",
       "given_name": "Carlos",
       "id": "a3b272e9-6591-49e9-87f4-c8923b5544fd",
@@ -35647,6 +35732,7 @@
     },
     {
       "birth_date": "1953-12-07",
+      "family_name": "Simões",
       "gender": "male",
       "given_name": "Jorge",
       "id": "a4ad327b-20f8-4d9a-a2d1-755f200d1182",
@@ -39366,6 +39452,7 @@
     },
     {
       "birth_date": "1941-04-15",
+      "family_name": "Miranda",
       "gender": "male",
       "given_name": "Jorge",
       "id": "b810612e-8b45-42fd-9942-6721de366c3a",
@@ -39745,6 +39832,7 @@
         }
       ],
       "email": "josé.ferreira@pev.parlamento.pt",
+      "family_name": "Ferreira",
       "gender": "male",
       "given_name": "José",
       "id": "b9b7502f-88ad-4698-b892-ecbc0849f4f2",
@@ -40739,6 +40827,7 @@
         }
       ],
       "email": "fl@pcp.parlamento.pt",
+      "family_name": "Lopes",
       "gender": "male",
       "given_name": "Francisco",
       "id": "bebb2ddb-9849-453a-a15c-e191e0cd29f8",
@@ -40816,6 +40905,7 @@
     },
     {
       "birth_date": "1950-03-26",
+      "family_name": "Nogueira",
       "gender": "male",
       "given_name": "Fernando",
       "id": "bec6fca9-a2d1-4f3e-a4c7-901a9799b175",
@@ -41242,6 +41332,7 @@
     },
     {
       "birth_date": "1967-05-18",
+      "family_name": "Costa",
       "gender": "male",
       "given_name": "Marco António",
       "id": "bf48ef48-c2df-43f4-98d0-b825f3574baf",
@@ -42420,6 +42511,7 @@
     },
     {
       "birth_date": "1946-03-23",
+      "family_name": "Martinho",
       "gender": "male",
       "id": "c533c8d2-2924-47c0-ac28-a1c7e9a30fb6",
       "identifiers": [
@@ -42632,6 +42724,7 @@
     },
     {
       "birth_date": "1954-06-10",
+      "family_name": "Castro",
       "gender": "female",
       "given_name": "Isabel",
       "id": "c5fb1a5d-9d55-4f46-b888-945baaf554bb",
@@ -43378,7 +43471,9 @@
     },
     {
       "birth_date": "1968-03-11",
+      "family_name": "Ventura",
       "gender": "male",
+      "given_name": "António",
       "id": "ca3362fb-d5be-4ea7-9f97-1f82244b75f2",
       "identifiers": [
         {
@@ -43494,6 +43589,7 @@
       "birth_date": "1946-08-10",
       "death_date": "2013-06-20",
       "gender": "male",
+      "given_name": "Osvaldo",
       "id": "ca87390d-ddbd-414d-9d92-6e5423656ccc",
       "identifiers": [
         {
@@ -43925,6 +44021,11 @@
           "note": "alternate"
         },
         {
+          "lang": "nl",
+          "name": "António Manuel Leitão Borges",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "António Manuel Leitão Borges",
           "note": "multilingual"
@@ -44331,6 +44432,7 @@
     },
     {
       "birth_date": "1958-06-01",
+      "family_name": "Rodrigues",
       "gender": "male",
       "given_name": "Ricardo",
       "id": "cef67f5f-a520-42e2-aa8e-f0d2256cd4af",
@@ -44360,6 +44462,7 @@
     },
     {
       "birth_date": "1941-01-11",
+      "family_name": "Pereira",
       "gender": "male",
       "given_name": "Virgílio",
       "id": "cf039128-416a-4b55-a829-cebcede25537",
@@ -46945,6 +47048,7 @@
     },
     {
       "birth_date": "1957-03-06",
+      "family_name": "Soares",
       "gender": "male",
       "given_name": "Pedro",
       "id": "dbbaa03c-4a75-476d-8a1b-e526142d9415",
@@ -47268,6 +47372,7 @@
     },
     {
       "birth_date": "1976-08-01",
+      "family_name": "Marques",
       "gender": "male",
       "given_name": "Pedro",
       "id": "dd3e0193-1595-4731-bcd4-199f670e1f65",
@@ -47884,6 +47989,7 @@
     {
       "birth_date": "1927-06-28",
       "death_date": "2015-05-09",
+      "family_name": "Pereira",
       "gender": "male",
       "given_name": "Eduardo",
       "id": "e015bbf3-da8d-40b0-9c0e-2605f610d9f9",
@@ -48338,6 +48444,11 @@
       ],
       "name": "Fernando Medina",
       "other_names": [
+        {
+          "lang": "tt",
+          "name": "Фернандо Медина",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "費爾南多·麥地那",
@@ -52206,6 +52317,7 @@
     },
     {
       "birth_date": "1971-08-13",
+      "family_name": "Fonseca",
       "gender": "female",
       "given_name": "Graça",
       "id": "f1cc54c9-6683-4f9e-8372-6be8aab614be",
@@ -52282,6 +52394,7 @@
     {
       "birth_date": "1971-12-14",
       "gender": "female",
+      "given_name": "Inês",
       "id": "f1f4ca17-aae1-4f10-883a-66d63ca8834f",
       "identifiers": [
         {
@@ -52822,6 +52935,7 @@
         }
       ],
       "email": "tcorreia@cds.parlamento.pt",
+      "family_name": "Correia",
       "gender": "male",
       "given_name": "Telmo",
       "id": "f2f174be-0719-4cda-a076-827227bc89fd",
@@ -52961,7 +53075,9 @@
     },
     {
       "birth_date": "1944-04-16",
+      "family_name": "Mateus",
       "gender": "male",
+      "given_name": "Rui",
       "id": "f3795579-c0eb-4ec5-80fd-db314a46e411",
       "identifiers": [
         {
@@ -53108,6 +53224,7 @@
     },
     {
       "birth_date": "1956-03-08",
+      "family_name": "Vasconcelos",
       "gender": "male",
       "given_name": "João",
       "id": "f419f200-f4b5-4a58-814d-8c0b19e45fd7",
@@ -55108,6 +55225,7 @@
     },
     {
       "birth_date": "1959-07-21",
+      "family_name": "Morais",
       "gender": "female",
       "given_name": "Teresa",
       "id": "fda1b2a1-4a9a-4566-8e71-61359ea8e4fe",
@@ -57804,6 +57922,12 @@
         {
           "lang": "es",
           "name": "Movimiento Democratico Portugues",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pt",
+          "name": "Movimento Democrático Português / Comissão Democrática Eleitoral",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -120321,6 +120445,19 @@
       "name": "13th Portuguese Assembly",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2015-10-23"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-10-13",
+      "id": "Q25041164",
+      "identifiers": [
+        {
+          "identifier": "Q25041164",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Next Portuguese legislative election",
+      "start_date": "2019-10-13"
     }
   ],
   "areas": [
