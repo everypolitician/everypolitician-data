@@ -6774,11 +6774,20 @@
     },
     {
       "gender": "female",
+      "given_name": "Nadia",
       "id": "ce8a64db-7343-4086-8526-9ac76700d1b3",
       "identifiers": [
         {
           "identifier": "161",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03gv_fv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q769393",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/103.jpg",
@@ -6787,7 +6796,33 @@
           "url": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/103.jpg"
         }
       ],
-      "name": "BOUBEGHLA NEE CHOUITEM NADIA"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نادية_بوبغلة"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nadia_Boubeghla"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nadia_Boubeghla"
+        }
+      ],
+      "name": "BOUBEGHLA NEE CHOUITEM NADIA",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "نادية بوبغلة",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nadia Boubeghla",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -7694,12 +7729,17 @@
       "name": "BOUABDALLAH ABDELWAHID"
     },
     {
+      "birth_date": "1966-01-23",
       "gender": "male",
       "id": "e96f7884-6846-43e0-9318-217e793f7968",
       "identifiers": [
         {
           "identifier": "354",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q48778064",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/209.jpg",
@@ -7708,7 +7748,20 @@
           "url": "http://www.apn.dz/fr/media/com_mtree/images/listings/s/209.jpg"
         }
       ],
-      "name": "KHAOUA TAHAR"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tahar_Khaoua"
+        }
+      ],
+      "name": "KHAOUA TAHAR",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tahar Khaoua",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
