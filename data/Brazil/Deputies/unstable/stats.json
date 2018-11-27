@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 942,
+    "count": 950,
     "wikidata": 746,
     "latest_term": {
-      "count": 597,
-      "wikidata": 579,
-      "images": 597,
+      "count": 609,
+      "wikidata": 581,
+      "images": 609,
       "contacts": {
-        "email": 507,
+        "email": 508,
         "facebook": 52,
         "twitter": 41
       }
     }
   },
   "groups": {
-    "count": 31,
-    "wikidata": 31
+    "count": 1,
+    "wikidata": 1
   },
   "terms": {
     "count": 2,
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/brasil-deputados-wikidata",
-      "lastmod": "2018-11-23"
+      "lastmod": "2018-11-26"
     },
     {
       "file": "manual/terms.csv",
@@ -80,13 +80,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-23"
+      "lastmod": "2018-11-26"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-11-23"
+      "lastmod": "2018-11-26"
     }
   ]
 }
