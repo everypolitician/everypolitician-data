@@ -1,10 +1,10 @@
 {
   "people": {
-    "count": 567,
+    "count": 568,
     "wikidata": 504,
     "latest_term": {
       "count": 464,
-      "wikidata": 463,
+      "wikidata": 462,
       "images": 462,
       "contacts": {
         "email": 4,
@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 12,
+    "count": 13,
     "wikidata": 11
   },
   "terms": {
@@ -31,7 +31,7 @@
     "latest": "2017-10-22"
   },
   "positions": {
-    "cabinet": 105
+    "cabinet": 108
   },
   "sources": [
     {
@@ -56,7 +56,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/japan-house-of-representatives-wikidata",
-      "lastmod": "2018-11-27"
+      "lastmod": "2018-12-03"
     },
     {
       "file": "morph/terms.csv",
@@ -86,13 +86,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-15"
+      "lastmod": "2018-12-03"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-11-27"
+      "lastmod": "2018-12-03"
     }
   ]
 }
