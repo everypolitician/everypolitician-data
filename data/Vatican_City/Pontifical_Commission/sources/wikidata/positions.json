@@ -25,6 +25,12 @@
       "label": "bishop",
       "title": "bishop",
       "description": "ordained or consecrated member of the Christian clergy (for Catholic bishops, use Q611644, for Orthodox bishops, use Q15283040)"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q712039": [
@@ -53,7 +59,7 @@
       "id": "Q140686",
       "label": "chairperson",
       "title": "chairperson (of Financial Information Authority)",
-      "description": "highest officer of an organized group such as a board, a committee, or a deliberative assembly",
+      "description": "leading or presiding officer of an organized group such as a board, committee, or deliberative assembly",
       "qualifiers": {
         "P642": "Financial Information Authority",
         "P1366": "Giorgio Corbellini"
@@ -78,6 +84,12 @@
       "label": "ambassador",
       "title": "ambassador",
       "description": "diplomatic envoy"
+    },
+    {
+      "id": "Q45722",
+      "label": "cardinal",
+      "title": "cardinal",
+      "description": "senior ecclesiastical official in the Catholic Church"
     }
   ],
   "Q458202": [
@@ -104,6 +116,12 @@
       "label": "ambassador",
       "title": "ambassador",
       "description": "diplomatic envoy"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q654613": [
@@ -118,6 +136,12 @@
       "label": "archbishop",
       "title": "archbishop",
       "description": "bishop of higher rank in many Christian denominations"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q450310": [
@@ -153,6 +177,12 @@
       "id": "Q19823475",
       "label": "prefect of the Vatican Library",
       "title": "prefect of the Vatican Library"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q543260": [
@@ -204,14 +234,25 @@
       "label": "ambassador",
       "title": "ambassador",
       "description": "diplomatic envoy"
+    },
+    {
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     }
   ],
   "Q817288": [
     {
-      "id": "Q49476",
-      "label": "archbishop",
-      "title": "archbishop",
-      "description": "bishop of higher rank in many Christian denominations"
+      "id": "Q53712049",
+      "label": "Prefect of the Congregation for the Clergy",
+      "title": "Prefect of the Congregation for the Clergy",
+      "qualifiers": {
+        "P580": "2013-09-21",
+        "P582": "",
+        "P156": "",
+        "P1365": "Mauro Piacenza"
+      }
     },
     {
       "id": "Q29182",
@@ -224,6 +265,12 @@
       "label": "ambassador",
       "title": "ambassador",
       "description": "diplomatic envoy"
+    },
+    {
+      "id": "Q45722",
+      "label": "cardinal",
+      "title": "cardinal",
+      "description": "senior ecclesiastical official in the Catholic Church"
     }
   ]
 }
