@@ -1,25 +1,25 @@
 {
   "people": {
     "count": 73,
-    "wikidata": 73,
+    "wikidata": 55,
     "latest_term": {
-      "count": 73,
-      "wikidata": 73,
-      "images": 73,
+      "count": 72,
+      "wikidata": 54,
+      "images": 38,
       "contacts": {
         "email": 0,
-        "facebook": 30,
-        "twitter": 55
+        "facebook": 29,
+        "twitter": 44
       }
     }
   },
   "groups": {
-    "count": 24,
-    "wikidata": 24
+    "count": 34,
+    "wikidata": 18
   },
   "terms": {
-    "count": 3,
-    "latest": "2017-03-01",
+    "count": 4,
+    "latest": "2018-03-01",
     "wikidata": 0
   },
   "areas": {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/argentina-senators-wikidata",
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-25"
     },
     {
       "file": "manual/terms.csv",
@@ -62,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-25"
     },
     {
       "file": "morph/areas.csv",
