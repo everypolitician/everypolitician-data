@@ -37,7 +37,7 @@
     },
     {
       "birth_date": "1979-12-08",
-      "family_name": "Lucas-Julie",
+      "family_name": "Julié",
       "gender": "female",
       "given_name": "Nina",
       "id": "0c54dfa9-d5fc-4068-89c8-1b26e4151b49",
@@ -63,15 +63,8 @@
           "url": "https://fr.wikipedia.org/wiki/Nina_Julié"
         }
       ],
-      "name": "Nina Lucas-Julie",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Nina Julié",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Lucas-Julie, Nina"
+      "name": "Nina Julié",
+      "sort_name": "Julié, Nina"
     },
     {
       "birth_date": "1951-02-04",
@@ -846,33 +839,6 @@
       "sort_name": "Santa, Thierry"
     },
     {
-      "birth_date": "1953-02-15",
-      "family_name": "Sam",
-      "gender": "male",
-      "given_name": "Léonard",
-      "id": "a1cb347a-7a6d-4580-a76a-72412424bc8d",
-      "identifiers": [
-        {
-          "identifier": "Q3271538",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg",
-      "images": [
-        {
-          "url": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Léonard_Sam"
-        }
-      ],
-      "name": "Léonard Sam",
-      "sort_name": "Sam, Léonard"
-    },
-    {
       "family_name": "Robineau",
       "gender": "female",
       "given_name": "Nicole",
@@ -1061,6 +1027,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Gaël_Yanno"
+        },
+        {
+          "note": "website",
+          "url": "http://www.yanno.nc/"
         }
       ],
       "name": "Gaël Yanno",
@@ -1341,6 +1311,10 @@
           "scheme": "senatdotfr"
         },
         {
+          "identifier": "gerard-poadja_80556",
+          "scheme": "whoswho_france"
+        },
+        {
           "identifier": "Q3124250",
           "scheme": "wikidata"
         }
@@ -1533,7 +1507,7 @@
       "sort_name": "Pabouty, Sylvain"
     },
     {
-      "family_name": "Wackenthaler-Faivre",
+      "family_name": "Faivre",
       "gender": "female",
       "given_name": "Nadeige",
       "id": "ed7c8603-0c10-4bff-aa43-28c4ca8a83db",
@@ -1549,8 +1523,8 @@
           "url": "http://www.congres.nc/wp-content/uploads/2015/01/wackenthaler-faivre.jpg"
         }
       ],
-      "name": "Nadeige Wackenthaler-Faivre",
-      "sort_name": "Wackenthaler-Faivre, Nadeige"
+      "name": "Nadeige Faivre",
+      "sort_name": "Faivre, Nadeige"
     },
     {
       "birth_date": "1961-04-06",
@@ -1694,9 +1668,9 @@
     },
     {
       "birth_date": "1988-05-20",
-      "family_name": "Metzdorf",
+      "family_name": "Sam",
       "gender": "male",
-      "given_name": "Nicolas",
+      "given_name": "Léonard",
       "id": "fdaebcfd-5b59-43ed-881c-35c1da5ba919",
       "identifiers": [
         {
@@ -1708,10 +1682,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.congres.nc/wp-content/uploads/2015/01/metzdorf.jpg",
+      "image": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg",
       "images": [
         {
-          "url": "http://www.congres.nc/wp-content/uploads/2015/01/metzdorf.jpg"
+          "url": "http://www.congres.nc/wp-content/uploads/2015/01/sam.jpg"
         }
       ],
       "links": [
@@ -1720,8 +1694,15 @@
           "url": "https://fr.wikipedia.org/wiki/Nicolas_Metzdorf"
         }
       ],
-      "name": "Nicolas Metzdorf",
-      "sort_name": "Metzdorf, Nicolas"
+      "name": "Léonard Sam",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nicolas Metzdorf",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Sam, Léonard"
     }
   ],
   "organizations": [
@@ -1781,6 +1762,11 @@
       ]
     },
     {
+      "classification": "party",
+      "id": "ce",
+      "name": "CE"
+    },
+    {
       "classification": "legislature",
       "id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "identifiers": [
@@ -1792,173 +1778,6 @@
       "name": "Congress",
       "seats": 54,
       "type": "unicameral legislature"
-    },
-    {
-      "classification": "party",
-      "id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
-      "identifiers": [
-        {
-          "identifier": "Q2934607",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.caledonie-ensemble.com"
-        }
-      ],
-      "name": "Intergroupe – Calédonie Ensemble",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Calédonie ensemble",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Caledonia Together",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Calédonie ensemble",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Kaledonio Kune",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "喀里多尼亞共同",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "共にカレドニア",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
-      "identifiers": [
-        {
-          "identifier": "Q2934607",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.caledonie-ensemble.com"
-        }
-      ],
-      "name": "Intergroupe – CE",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Calédonie ensemble",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "Caledonia Together",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "fr",
-          "name": "Calédonie ensemble",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "eo",
-          "name": "Kaledonio Kune",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "zh",
-          "name": "喀里多尼亞共同",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ja",
-          "name": "共にカレドニア",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "8a83a26b-a655-45d6-a846-7639c38006d1",
-      "identifiers": [
-        {
-          "identifier": "Q20731571",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Intergroupe – Le Rassemblement Les Républicains",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Les Républicains de Nouvelle-Calédonie",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "1f80bf47-c163-4cf4-99e9-f456ff094743",
-      "identifiers": [
-        {
-          "identifier": "Q16665439",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Intergroupe – Mouvement Populaire Calédonien",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Mouvement populaire calédonien",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "60f82120-d867-4d7b-b2cd-005d1eeeaabb",
-      "identifiers": [
-        {
-          "identifier": "Q20731571",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Les Républicains",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Les Républicains de Nouvelle-Calédonie",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
     },
     {
       "classification": "party",
@@ -1976,8 +1795,37 @@
           "name": "Les Républicains calédoniens",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Caledonian Republicans",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Republicanos caledonios",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Caledonische Republikeinen",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "LRC",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "les_républicains_rassemblement_–_mpc",
+      "name": "Les Républicains Rassemblement – MPC"
     },
     {
       "classification": "party",
@@ -2468,6 +2316,18 @@
         {
           "lang": "vi",
           "name": "Chính trị gia độc lập",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "vec",
+          "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -3087,6 +2947,24 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "en",
+          "name": "National Union for Independence",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Nacional para la Independencia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "id",
+          "name": "Uni Nasional untuk Kemerdekaan",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Union Nationale pour l'Indépendance",
           "note": "multilingual",
@@ -3130,7 +3008,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "07d9eb1e-01ca-45d6-9abe-30ce1cdea134",
       "role": "member",
@@ -3143,7 +3021,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "0c54dfa9-d5fc-4068-89c8-1b26e4151b49",
       "role": "member",
@@ -3156,7 +3034,7 @@
     {
       "area_id": "province_des_îles_loyauté",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "b9ea06d3-d247-4f1d-b945-ceda75ee24c1",
+      "on_behalf_of_id": "2268a181-629e-41d8-bf63-3e9c41e3ecf6",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "0ceca0cc-e34b-4555-ad7b-87c283457c31",
       "role": "member",
@@ -3169,7 +3047,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "8a83a26b-a655-45d6-a846-7639c38006d1",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "0e659146-a0ec-4f3a-8d5d-db433af45fa2",
       "role": "member",
@@ -3208,7 +3086,20 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
+      "on_behalf_of_id": "ce",
+      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
+      "person_id": "1aae8fa8-1a41-4fa2-9111-9013ed887e95",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
+        }
+      ]
+    },
+    {
+      "area_id": "province_sud",
+      "legislative_period_id": "term/4",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "23f29fa4-9389-4e71-af9c-025764a162d5",
       "role": "member",
@@ -3232,7 +3123,7 @@
       ]
     },
     {
-      "area_id": "province_sud",
+      "area_id": "province_nord",
       "legislative_period_id": "term/4",
       "on_behalf_of_id": "7fff1b00-a519-4f12-8174-d68d2de9374d",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
@@ -3260,7 +3151,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "3285c5b1-988d-4efe-b5ab-aa926e78c641",
       "role": "member",
@@ -3286,7 +3177,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "3684f371-5a77-4d9a-99e5-d79866e385e8",
       "role": "member",
@@ -3299,7 +3190,7 @@
     {
       "area_id": "province_nord",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "60f82120-d867-4d7b-b2cd-005d1eeeaabb",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "3c854926-376f-4bbd-b2c8-a0565e1703d5",
       "role": "member",
@@ -3325,7 +3216,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "b1621ae1-dfce-4df1-8ca3-4c66242ca2ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "55af6c3e-5bb5-458d-8da3-54b1364279a7",
       "role": "member",
@@ -3403,7 +3294,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "72223173-996f-4748-978c-d99f52df0f44",
       "role": "member",
@@ -3416,7 +3307,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "1f80bf47-c163-4cf4-99e9-f456ff094743",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "7cca05ff-d5d7-431c-97f3-e27b0380b899",
       "role": "member",
@@ -3429,7 +3320,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "8278f5e0-6a69-4835-af6f-68279a8b9d14",
       "role": "member",
@@ -3455,7 +3346,7 @@
     {
       "area_id": "province_nord",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "9eb82aaa-e45d-4b26-9b16-00c16be5b149",
       "role": "member",
@@ -3468,7 +3359,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "8a83a26b-a655-45d6-a846-7639c38006d1",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "a0372d41-8831-4905-8b66-bfafcc6fefe6",
       "role": "member",
@@ -3481,20 +3372,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
-      "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
-      "person_id": "a1cb347a-7a6d-4580-a76a-72412424bc8d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.congres.nc/assemblee/les-elus/?panel=5"
-        }
-      ]
-    },
-    {
-      "area_id": "province_sud",
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "a24ad277-534a-4657-8bdc-6ad2b63d350a",
       "role": "member",
@@ -3559,7 +3437,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "1f80bf47-c163-4cf4-99e9-f456ff094743",
+      "on_behalf_of_id": "2268a181-629e-41d8-bf63-3e9c41e3ecf6",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "afb0d47d-7a0a-49fd-b18a-e723575850f1",
       "role": "member",
@@ -3624,7 +3502,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "d7b342fd-d4b3-4de0-b945-7b00da348eb3",
       "role": "member",
@@ -3676,7 +3554,7 @@
     {
       "area_id": "province_nord",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "e31d2964-6e00-47ff-af59-83d8fb4fde13",
       "role": "member",
@@ -3728,7 +3606,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "8a83a26b-a655-45d6-a846-7639c38006d1",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "ea7a53b8-3429-43af-b762-e43c0bf8dbd7",
       "role": "member",
@@ -3767,7 +3645,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "8a83a26b-a655-45d6-a846-7639c38006d1",
+      "on_behalf_of_id": "les_républicains_rassemblement_–_mpc",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "edcf3859-d0d0-4693-8305-1e7323713f35",
       "role": "member",
@@ -3793,7 +3671,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "735f6a5d-e9a1-4118-9fef-d14838f4a317",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "f496bff3-3479-4dfa-80bc-bf3c4e2b15d9",
       "role": "member",
@@ -3819,7 +3697,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "b9ea06d3-d247-4f1d-b945-ceda75ee24c1",
+      "on_behalf_of_id": "2268a181-629e-41d8-bf63-3e9c41e3ecf6",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "fc89a4b9-3551-44aa-9d3b-adc99fa16fd5",
       "role": "member",
@@ -3832,7 +3710,7 @@
     {
       "area_id": "province_sud",
       "legislative_period_id": "term/4",
-      "on_behalf_of_id": "434e68a3-7162-4309-9b8c-21949a8c64b3",
+      "on_behalf_of_id": "ce",
       "organization_id": "03f3cce0-752f-4843-a780-8cb82d10ac14",
       "person_id": "fdaebcfd-5b59-43ed-881c-35c1da5ba919",
       "role": "member",
