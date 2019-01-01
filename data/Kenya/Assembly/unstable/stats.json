@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 355,
-    "wikidata": 190,
+    "count": 9,
+    "wikidata": 3,
     "latest_term": {
-      "count": 355,
-      "wikidata": 190,
-      "images": 355,
+      "count": 9,
+      "wikidata": 3,
+      "images": 9,
       "contacts": {
-        "email": 272,
-        "facebook": 86,
-        "twitter": 40
+        "email": 1,
+        "facebook": 2,
+        "twitter": 1
       }
     }
   },
   "groups": {
-    "count": 22,
-    "wikidata": 22
+    "count": 5,
+    "wikidata": 4
   },
   "terms": {
     "count": 1,
@@ -23,7 +23,7 @@
     "wikidata": 1
   },
   "areas": {
-    "count": 333,
+    "count": 9,
     "wikidata": 0
   },
   "elections": {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/kenya-house-of-representatives-wikidata",
-      "lastmod": "2018-09-13"
+      "lastmod": "2018-10-17"
     },
     {
       "file": "manual/terms.csv",
@@ -68,19 +68,19 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-12"
+      "lastmod": "2018-10-17"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "scraper": null,
-      "lastmod": "2018-09-13"
+      "lastmod": "2018-10-17"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-08-05"
+      "lastmod": "2018-10-17"
     }
   ]
 }
