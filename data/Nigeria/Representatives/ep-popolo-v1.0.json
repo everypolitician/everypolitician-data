@@ -183,42 +183,6 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "0803400573"
-        }
-      ],
-      "id": "01fa4a69-45f0-42e2-812d-1a168b9356b4",
-      "identifiers": [
-        {
-          "identifier": "629",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "629",
-          "scheme": "nass"
-        },
-        {
-          "identifier": "Q35536141",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.nass.gov.ng/images/mps/629.jpg",
-      "images": [
-        {
-          "url": "https://www.nass.gov.ng/images/mps/629.jpg"
-        }
-      ],
-      "name": "Okechukwu Eze",
-      "other_names": [
-        {
-          "name": "Okechukwu Nnamdi Eze",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "phone",
           "value": "08035880702"
         }
       ],
@@ -684,15 +648,20 @@
           "url": "http://pombola.shineyoureye.org/media_root/images/umar-buba-jibril"
         }
       ],
-      "name": "UMAR JIBRIL",
+      "name": "(Deceased) UMAR JIBRIL",
       "other_names": [
         {
-          "name": "UMAR BUBA JIBRIL",
+          "name": "(Deceased) UMAR BUBA JIBRIL",
           "note": "alternate"
         },
         {
           "name": "UMAR BUBA JIBRIL",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Umar Jibril",
+          "note": "multilingual"
         }
       ]
     },
@@ -1133,15 +1102,20 @@
           "url": "http://pombola.shineyoureye.org/media_root/images/abdullahi-muhammed-wamakk"
         }
       ],
-      "name": "ABDULLAHI MOHAMMED",
+      "name": "(Deceased) ABDULLAHI MOHAMMED",
       "other_names": [
+        {
+          "name": "(Deceased) ABDULLAHI WAMAKKO MOHAMMED",
+          "note": "alternate"
+        },
         {
           "name": "ABDULLAHI MUHAMMED WAMAKKO",
           "note": "alternate"
         },
         {
-          "name": "ABDULLAHI WAMAKKO MOHAMMED",
-          "note": "alternate"
+          "lang": "en",
+          "name": "Abdullahi Mohammed",
+          "note": "multilingual"
         }
       ]
     },
@@ -1529,11 +1503,16 @@
           "url": "https://www.nass.gov.ng/images/mps/853.jpg"
         }
       ],
-      "name": "BELLO SANI",
+      "name": "(Deceased) BELLO SANI",
       "other_names": [
         {
-          "name": "BELLO MASHI SANI",
+          "name": "(Deceased) BELLO MASHI SANI",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bello Sani",
+          "note": "multilingual"
         }
       ]
     },
@@ -2304,76 +2283,6 @@
       ]
     },
     {
-      "birth_date": "1967-01-06",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hon.khadija.ibrahim@nass.gov.ng"
-        },
-        {
-          "type": "phone",
-          "value": "08036488324"
-        }
-      ],
-      "email": "hon.khadija.ibrahim@nass.gov.ng",
-      "gender": "female",
-      "given_name": "Khadija",
-      "id": "329dc28f-bc10-4fc3-b769-61d17e077393",
-      "identifiers": [
-        {
-          "identifier": "608",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "608",
-          "scheme": "nass"
-        },
-        {
-          "identifier": "khadija-bukar-ibrahim",
-          "scheme": "shineyoureye"
-        },
-        {
-          "identifier": "Q18129932",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.nass.gov.ng/images/mps/608.jpg",
-      "images": [
-        {
-          "url": "https://www.nass.gov.ng/images/mps/608.jpg"
-        },
-        {
-          "url": "http://pombola.shineyoureye.org/media_root/images/khadija-bukar-ibrahim"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Khadija_Bukar_Abba_Ibrahim"
-        },
-        {
-          "note": "Wikipedia (vi)",
-          "url": "https://vi.wikipedia.org/wiki/Khadija_Bukar_Abba_Ibrahim"
-        }
-      ],
-      "name": "KHADIJA BUKAR .A.",
-      "other_names": [
-        {
-          "name": "KHADIJA BUKAR IBRAHIM",
-          "note": "alternate"
-        },
-        {
-          "name": "KHADIJA IBRAHIM BUKAR .A.",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Khadija Bukar Abba Ibrahim",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "contact_details": [
         {
           "type": "phone",
@@ -3103,6 +3012,16 @@
           "note": "alternate"
         }
       ]
+    },
+    {
+      "id": "3dc8947d-ea18-4c20-b48e-7727a54c4f19",
+      "identifiers": [
+        {
+          "identifier": "983",
+          "scheme": "nass"
+        }
+      ],
+      "name": "Nurudeen Akinwunmi"
     },
     {
       "birth_date": "1968-08-26",
@@ -3889,7 +3808,18 @@
           "url": "https://www.nass.gov.ng/images/mps/750.jpg"
         }
       ],
-      "name": "RAZAK ATUNWA"
+      "name": "Razak Olatunde",
+      "other_names": [
+        {
+          "name": "Razak Atunwa Olatunde",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Razak Atunwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-08-23",
@@ -5756,6 +5686,22 @@
       ]
     },
     {
+      "id": "742db7fe-46f3-4a9b-89a2-9a052f52679c",
+      "identifiers": [
+        {
+          "identifier": "984",
+          "scheme": "nass"
+        }
+      ],
+      "name": "Ferdinand Nwankwo",
+      "other_names": [
+        {
+          "name": "Ferdinand Dozie Nwankwo",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -6282,42 +6228,6 @@
         },
         {
           "name": "MUNIR BABBA DANAGUNDI",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "phone",
-          "value": "08037133915"
-        }
-      ],
-      "id": "78726e95-961f-461d-9bd1-ca226e30be4d",
-      "identifiers": [
-        {
-          "identifier": "915",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "915",
-          "scheme": "nass"
-        },
-        {
-          "identifier": "Q35537977",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.nass.gov.ng/images/mps/915.jpg",
-      "images": [
-        {
-          "url": "https://www.nass.gov.ng/images/mps/915.jpg"
-        }
-      ],
-      "name": "Adewale Oluwatayo",
-      "other_names": [
-        {
-          "name": "Adewale Elijah Oluwatayo",
           "note": "alternate"
         }
       ]
@@ -7377,11 +7287,16 @@
           "url": "https://www.nass.gov.ng/images/mps/637.jpg"
         }
       ],
-      "name": "MUHAMMED IDIRISU",
+      "name": "MUHAMMADU IDIRISU",
       "other_names": [
         {
-          "name": "MUHAMMED LAWAL IDIRISU",
+          "name": "MUHAMMADU LAWAL IDIRISU",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Muhammed Idirisu",
+          "note": "multilingual"
         }
       ]
     },
@@ -9717,6 +9632,16 @@
       ]
     },
     {
+      "id": "b2951e78-9d46-4bea-a997-8a3ad4d6a0a5",
+      "identifiers": [
+        {
+          "identifier": "985",
+          "scheme": "nass"
+        }
+      ],
+      "name": "Tony Nwoye"
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -10463,11 +10388,16 @@
           "url": "https://www.nass.gov.ng/images/mps/843.jpg"
         }
       ],
-      "name": "muhd lawal",
+      "name": "Lawal Rabiu",
       "other_names": [
         {
-          "name": "muhd rabiu lawal",
+          "name": "Lawal Mohammed Rabiu",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Muhd Lawal",
+          "note": "multilingual"
         }
       ]
     },
@@ -14629,44 +14559,6 @@
       "contact_details": [
         {
           "type": "phone",
-          "value": "08039596918"
-        }
-      ],
-      "gender": "male",
-      "given_name": "Peter",
-      "id": "fe1cd7cb-8c45-4886-a6ab-b93d9659979b",
-      "identifiers": [
-        {
-          "identifier": "721",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "721",
-          "scheme": "nass"
-        },
-        {
-          "identifier": "Q35540267",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://www.nass.gov.ng/images/mps/721.jpg",
-      "images": [
-        {
-          "url": "https://www.nass.gov.ng/images/mps/721.jpg"
-        }
-      ],
-      "name": "Peter Madubueze",
-      "other_names": [
-        {
-          "name": "Peter Obiano Madubueze",
-          "note": "alternate"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "phone",
           "value": "07067663382"
         }
       ],
@@ -14739,22 +14631,18 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "A",
-      "identifiers": [
-        {
-          "identifier": "Q4672709",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "ACCORD",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Accord",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        }
-      ]
+      "id": "AP",
+      "name": "Accord Party"
+    },
+    {
+      "classification": "party",
+      "id": "ADP",
+      "name": "Action Democratic Party"
+    },
+    {
+      "classification": "party",
+      "id": "ADC",
+      "name": "African Democratic Congress"
     },
     {
       "classification": "party",
@@ -14843,6 +14731,11 @@
       ]
     },
     {
+      "classification": "party",
+      "id": "APM",
+      "name": "Allied Peoples Movement"
+    },
+    {
       "classification": "legislature",
       "id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "identifiers": [
@@ -14854,6 +14747,37 @@
       "name": "House of Representatives",
       "seats": 360,
       "type": "lower house"
+    },
+    {
+      "classification": "party",
+      "id": "LP",
+      "identifiers": [
+        {
+          "identifier": "Q6467449",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.labourpartyng.org"
+        }
+      ],
+      "name": "Labour Party",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Labour Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "el",
+          "name": "Εργατικό Κόμμα",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -15042,6 +14966,16 @@
           "source": "wikidata-label"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "UPP",
+      "name": "United Progressive Party"
+    },
+    {
+      "classification": "party",
+      "id": "ZLP",
+      "name": "Zenith Labour Party"
     }
   ],
   "meta": {
@@ -15105,19 +15039,6 @@
       ]
     },
     {
-      "area_id": "anaocha/njikoka/dunukofia,_anambra_state",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
-      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
-      "person_id": "01fa4a69-45f0-42e2-812d-1a168b9356b4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.nass.gov.ng/mp/profile/629"
-        }
-      ]
-    },
-    {
       "area_id": "ibi/wukari,_taraba_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "APGA",
@@ -15133,7 +15054,7 @@
     {
       "area_id": "egor/ikpoba-okha,_edo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "02f60e2e-b2eb-49b1-ad43-efbc4809077d",
       "role": "member",
@@ -15159,7 +15080,7 @@
     {
       "area_id": "gezawa/gabasawa,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "06356066-e59d-4182-b700-35120278bfdc",
       "role": "member",
@@ -15185,7 +15106,7 @@
     {
       "area_id": "adavi/okehi,_kogi_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "090cdc38-e999-4530-af1f-f1b7ca7e4e01",
       "role": "member",
@@ -15315,7 +15236,7 @@
     {
       "area_id": "mallam_madori/kaugama,_jigawa_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "13690167-45a0-48c1-97f2-724e65341972",
       "role": "member",
@@ -15471,7 +15392,7 @@
     {
       "area_id": "musawa/matazu,_katsina_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "1f2fdde9-40ee-4fa3-956f-039b8c07448d",
       "role": "member",
@@ -15627,7 +15548,7 @@
     {
       "area_id": "kaduna_south,_kaduna_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "27b4d513-0f89-4e90-bc17-cc6f4c6f4789",
       "role": "member",
@@ -15679,7 +15600,7 @@
     {
       "area_id": "ibarapa_east/ido,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "299c9fe3-3f1a-4a45-a1ea-d239a3968240",
       "role": "member",
@@ -15796,26 +15717,13 @@
     {
       "area_id": "ukanafun/orukanam,_akwa_ibom_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "31b8d277-22d5-48f2-a896-cb603866d54d",
       "role": "member",
       "sources": [
         {
           "url": "https://www.nass.gov.ng/mp/profile/840"
-        }
-      ]
-    },
-    {
-      "area_id": "damaturu/gujba/gulani/tarmuwa,_yobe_state",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
-      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
-      "person_id": "329dc28f-bc10-4fc3-b769-61d17e077393",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.nass.gov.ng/mp/profile/608"
         }
       ]
     },
@@ -15913,7 +15821,7 @@
     {
       "area_id": "ankpa/omala/olamaboro,_kogi_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "36f13d81-0781-45e7-b5de-0d5a71a9a69c",
       "role": "member",
@@ -15965,7 +15873,7 @@
     {
       "area_id": "edu/moro/patigi,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "3a8e8cdd-4467-4ff0-b61c-f786228424ab",
       "role": "member",
@@ -16017,7 +15925,7 @@
     {
       "area_id": "bichi,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "3cb8bc47-9681-409a-a602-f54c2be08b52",
       "role": "member",
@@ -16054,6 +15962,19 @@
       ]
     },
     {
+      "area_id": "ifako-ijaiye,_lagos_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "3dc8947d-ea18-4c20-b48e-7727a54c4f19",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.nass.gov.ng/mp/profile/983"
+        }
+      ]
+    },
+    {
       "area_id": "toro,_bauchi_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "APC",
@@ -16082,7 +16003,7 @@
     {
       "area_id": "ahiazu_mbaise/ezinihitte,_imo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "3e9657f4-f662-4a2c-b9d3-630df6be49e4",
       "role": "member",
@@ -16199,7 +16120,7 @@
     {
       "area_id": "ondo_east/ondo_west,_ondo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "ZLP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "44fafa9a-f1f8-484b-8580-11f1ec116d39",
       "role": "member",
@@ -16277,7 +16198,7 @@
     {
       "area_id": "mushin_i,_lagos_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "A",
+      "on_behalf_of_id": "AP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "4d2d6956-a86e-44e7-a8a7-1d4fa4e4b1a0",
       "role": "member",
@@ -16290,7 +16211,7 @@
     {
       "area_id": "asa/ilorin_west,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "4dded367-aad0-426b-a20e-a84d16f78f64",
       "role": "member",
@@ -16329,7 +16250,7 @@
     {
       "area_id": "lagelu/akinyele,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "5002acd7-8dd6-48ac-814f-c4c57a92e40a",
       "role": "member",
@@ -16355,7 +16276,7 @@
     {
       "area_id": "ilorin_east/south,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "50cb2a99-49a0-4ea7-b5a5-65a0bd7ede30",
       "role": "member",
@@ -16420,7 +16341,7 @@
     {
       "area_id": "tai/eleme/oyigbo,_rivers_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "521e0682-42a7-4396-8d40-0c78298db21f",
       "role": "member",
@@ -16433,7 +16354,7 @@
     {
       "area_id": "makurdi/guma,_benue_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "52cec1d0-75a5-44c0-acfb-038a7f4cd5a0",
       "role": "member",
@@ -16446,7 +16367,7 @@
     {
       "area_id": "dala,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "5417f0ae-48a3-4e36-8d4b-820b75dfc976",
       "role": "member",
@@ -16589,7 +16510,7 @@
     {
       "area_id": "akoko_south_east/south_west,_ondo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "5bca4ac7-190e-4cf1-a1a9-7c0735f4d764",
       "role": "member",
@@ -16667,7 +16588,7 @@
     {
       "area_id": "iseyin/itesiwaju/kajola/iwajowa,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "631c3523-c284-469d-8fdf-e30d147ee88a",
       "role": "member",
@@ -16899,6 +16820,19 @@
       ]
     },
     {
+      "area_id": "anaocha/njikoka/dunukofia,_anambra_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APGA",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "742db7fe-46f3-4a9b-89a2-9a052f52679c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.nass.gov.ng/mp/profile/984"
+        }
+      ]
+    },
+    {
       "area_id": "ezza_north/ishielu,_ebonyi_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PDP",
@@ -17031,7 +16965,7 @@
     {
       "area_id": "ningi/warji,_bauchi_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "77c0dd7a-dae7-461e-aa98-02dee6a79221",
       "role": "member",
@@ -17064,19 +16998,6 @@
       "sources": [
         {
           "url": "https://www.nass.gov.ng/mp/profile/918"
-        }
-      ]
-    },
-    {
-      "area_id": "ifako-ijaiye,_lagos_state",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
-      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
-      "person_id": "78726e95-961f-461d-9bd1-ca226e30be4d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.nass.gov.ng/mp/profile/915"
         }
       ]
     },
@@ -17291,7 +17212,7 @@
     {
       "area_id": "abeokuta_south,_ogun_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "LP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "86250b8a-201b-4d62-9c93-d8f7ab7b4911",
       "role": "member",
@@ -17447,7 +17368,7 @@
     {
       "area_id": "rano/bunkure/kibiya,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "8d4197d8-4fd0-47f6-8489-64b9e9575ede",
       "role": "member",
@@ -17473,7 +17394,7 @@
     {
       "area_id": "ileoluji-okeibo/odigbo,_ondo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "8e65e183-9e14-4029-b68b-4fa8a35d6179",
       "role": "member",
@@ -17486,7 +17407,7 @@
     {
       "area_id": "ibadan_north-_east/south-_east,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "8ecd73b9-0119-4f2a-9514-cf441b8246a2",
       "role": "member",
@@ -17564,7 +17485,7 @@
     {
       "area_id": "gwer_east/gwer_west,_benue_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "93e50fab-06e9-4cf0-b24d-1af1141a06a1",
       "role": "member",
@@ -17590,7 +17511,7 @@
     {
       "area_id": "abuja_municipal_/bwari,_federal_capital_territory_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "949c67a8-063e-408e-98c4-dd2294c953d5",
       "role": "member",
@@ -17616,7 +17537,7 @@
     {
       "area_id": "oluyole_local_govt.,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "94f050f0-bda4-4a83-8913-db7940d66411",
       "role": "member",
@@ -17642,7 +17563,7 @@
     {
       "area_id": "oshodi-isolo_ii,_lagos_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "UPP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "954eaef9-c9c4-40a6-be39-25339065e6ff",
       "role": "member",
@@ -17759,7 +17680,7 @@
     {
       "area_id": "ona-ara/egbeda,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "ADC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "9b34c9ba-428f-4c08-9e05-716de04fcb06",
       "role": "member",
@@ -17824,7 +17745,7 @@
     {
       "area_id": "kano_municipal,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "9d4283cd-7e90-4c59-a428-346c95bbe0a6",
       "role": "member",
@@ -17837,7 +17758,7 @@
     {
       "area_id": "offa/oyun/ifelodun,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "9d9b0610-b5f6-4f85-b6cf-d779a2aeeefe",
       "role": "member",
@@ -18032,7 +17953,7 @@
     {
       "area_id": "karaye/rogo,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "a7d48bda-e47d-4807-a9e6-07a790800d41",
       "role": "member",
@@ -18212,6 +18133,19 @@
       ]
     },
     {
+      "area_id": "anambra_east/west,_anambra_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
+      "person_id": "b2951e78-9d46-4bea-a997-8a3ad4d6a0a5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.nass.gov.ng/mp/profile/985"
+        }
+      ]
+    },
+    {
       "area_id": "maiduguri_(metropolitan),_borno_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "APC",
@@ -18292,7 +18226,7 @@
     {
       "area_id": "kebbe/tambuwal,_sokoto_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "b62f18fc-dd29-4b02-a5f7-95a42f956543",
       "role": "member",
@@ -18318,7 +18252,7 @@
     {
       "area_id": "ado/obadigbo/opkokwu,_benue_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "b77bf509-47ad-4a86-9188-401e18312e42",
       "role": "member",
@@ -18370,7 +18304,7 @@
     {
       "area_id": "gudu/tangaza,_sokoto_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "b9bd9f0c-cee1-4451-b7b8-3845f5c72f8c",
       "role": "member",
@@ -18396,7 +18330,7 @@
     {
       "area_id": "awka_north/south,_anambra_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APGA",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "ba539602-2401-4974-9ed9-1a5003028b39",
       "role": "member",
@@ -18409,7 +18343,7 @@
     {
       "area_id": "dekina/bassa,_kogi_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "bc3c9923-3157-4fbd-afe0-a0203e3f20d9",
       "role": "member",
@@ -18461,7 +18395,7 @@
     {
       "area_id": "lere,_kaduna_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "bda297aa-6f98-4210-929d-c4814740dece",
       "role": "member",
@@ -18591,7 +18525,7 @@
     {
       "area_id": "gwarzo/ikabo,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "c349a15f-1885-4ebd-accd-5e000230ea23",
       "role": "member",
@@ -18656,7 +18590,7 @@
     {
       "area_id": "michika/madagali,_adamawa_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "c8f995d8-29b6-43d2-b2cb-77a12a68b588",
       "role": "member",
@@ -18760,7 +18694,7 @@
     {
       "area_id": "kachia/kagarko,_kaduna_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "d0ca0091-8bde-4f07-aa4c-ad6c7f2506ea",
       "role": "member",
@@ -18773,7 +18707,7 @@
     {
       "area_id": "okene/ogori-magogo,_kogi_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "d0f0b376-5c1c-4bd4-bc29-84cb9269a7be",
       "role": "member",
@@ -18851,7 +18785,7 @@
     {
       "area_id": "ijero/ekiti_west/efon,_ekiti_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APC",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "d3fae412-fb8b-4c59-8426-10a1c3f862fd",
       "role": "member",
@@ -19124,7 +19058,7 @@
     {
       "area_id": "ekiti/isin/irepodun/oke-ero,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "dfb34e8f-f293-48a5-a492-e5591a474170",
       "role": "member",
@@ -19189,7 +19123,7 @@
     {
       "area_id": "egbado_south_and_ipokia,_ogun_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "APM",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "e1cda19f-f81d-4d7e-bfcf-5a5134cef83e",
       "role": "member",
@@ -19358,7 +19292,7 @@
     {
       "area_id": "baruten/kaiama,_kwara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "e8415bea-7bb4-4075-9458-ea4b0d3d1b11",
       "role": "member",
@@ -19371,7 +19305,7 @@
     {
       "area_id": "owo/ose,_ondo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "e848ce55-5b26-4ec1-9cf2-09889f0775d6",
       "role": "member",
@@ -19475,7 +19409,7 @@
     {
       "area_id": "sumaila/takai,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "ec3ad0af-b8f7-4f12-8358-278ef53e6fc2",
       "role": "member",
@@ -19527,7 +19461,7 @@
     {
       "area_id": "anka/mafara,_zamfara_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "ed60d392-ebe6-49f6-8174-10eb29dbb216",
       "role": "member",
@@ -19566,7 +19500,7 @@
     {
       "area_id": "gwale,_kano_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "ee784851-7a07-45d3-8314-b7d63bbd49aa",
       "role": "member",
@@ -19670,7 +19604,7 @@
     {
       "area_id": "wurno/rabah,_sokoto_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "f8be60de-258a-46a2-97d6-f8014421f6d6",
       "role": "member",
@@ -19683,7 +19617,7 @@
     {
       "area_id": "ogbomosho/north/south/orire,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "f8c1f144-b33e-4f31-b094-f7f7cb9d2b55",
       "role": "member",
@@ -19696,7 +19630,7 @@
     {
       "area_id": "orumba_north/south,_anambra_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "PDP",
+      "on_behalf_of_id": "APGA",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "f9a3b9d5-18f7-4d6c-a1b5-4c11be52e9cd",
       "role": "member",
@@ -19722,7 +19656,7 @@
     {
       "area_id": "ibadan_north,_oyo_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "AP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "f9e6d731-c734-4986-bc94-7f3e749d3270",
       "role": "member",
@@ -19735,7 +19669,7 @@
     {
       "area_id": "shagari/yabo,_sokoto_state",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
+      "on_behalf_of_id": "PDP",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "person_id": "fb8aa21b-861f-489c-a935-87faa8c081f9",
       "role": "member",
@@ -19820,19 +19754,6 @@
       "sources": [
         {
           "url": "https://www.nass.gov.ng/mp/profile/601"
-        }
-      ]
-    },
-    {
-      "area_id": "anambra_east/west,_anambra_state",
-      "legislative_period_id": "term/8",
-      "on_behalf_of_id": "APC",
-      "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
-      "person_id": "fe1cd7cb-8c45-4886-a6ab-b93d9659979b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://www.nass.gov.ng/mp/profile/721"
         }
       ]
     },
@@ -20604,11 +20525,6 @@
     {
       "id": "dala,_kano_state",
       "name": "Dala, Kano State",
-      "type": "constituency"
-    },
-    {
-      "id": "damaturu/gujba/gulani/tarmuwa,_yobe_state",
-      "name": "Damaturu/Gujba/Gulani/Tarmuwa, Yobe State",
       "type": "constituency"
     },
     {
