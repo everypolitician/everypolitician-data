@@ -1516,13 +1516,6 @@
     },
     {
       "birth_date": "1963-06-28",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ruzanna.muradyan@parliament.am"
-        }
-      ],
-      "email": "ruzanna.muradyan@parliament.am",
       "gender": "female",
       "id": "1fa4be47-d10e-4c79-a060-276662e9a017",
       "identifiers": [
@@ -1531,10 +1524,10 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1189",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1074",
       "images": [
         {
-          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1189"
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1074"
         }
       ],
       "name": "Ruzanna Muradyan",
@@ -10598,6 +10591,36 @@
       ]
     },
     {
+      "birth_date": "1977-10-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "naira.karapetyan@parliament.am"
+        }
+      ],
+      "email": "naira.karapetyan@parliament.am",
+      "id": "fd81b95b-b04c-47a6-a416-14e4c6fc5927",
+      "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1278",
+      "images": [
+        {
+          "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1278"
+        }
+      ],
+      "name": "Naira Karapetyan",
+      "other_names": [
+        {
+          "lang": "hy",
+          "name": "Նաիրա Արտաշեսի Կարապետյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Наира Арташесовна Карапетян",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1972-01-01",
       "family_name": "Minassjan",
       "gender": "male",
@@ -13855,18 +13878,6 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RPA",
-      "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
-      "person_id": "1fa4be47-d10e-4c79-a060-276662e9a017",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.am/deputies.php?sel=details&ID=1189&lang=eng"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/6",
       "on_behalf_of_id": "TSAR",
       "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
       "person_id": "207972e8-e1c5-4631-8b61-72dd4d48e5bf",
@@ -15265,7 +15276,7 @@
     },
     {
       "legislative_period_id": "term/6",
-      "on_behalf_of_id": "RPA",
+      "on_behalf_of_id": "_IND",
       "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
       "person_id": "956ee5c1-76a1-48d6-9e64-0bd61f2c7d11",
       "role": "member",
@@ -16772,6 +16783,19 @@
         }
       ],
       "start_date": "2012-07-04"
+    },
+    {
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "RPA",
+      "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
+      "person_id": "fd81b95b-b04c-47a6-a416-14e4c6fc5927",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1278&lang=eng"
+        }
+      ],
+      "start_date": "2018-11-02"
     },
     {
       "area_id": "120",
