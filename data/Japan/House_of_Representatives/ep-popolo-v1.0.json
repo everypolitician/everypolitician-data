@@ -11484,12 +11484,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/239.jpg/%24File/239.jpg",
-      "images": [
-        {
-          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/239.jpg/%24File/239.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -45686,11 +45680,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/162.jpg/%24File/162.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tomokatsu_Kitagawa_IMG_0910_20130203.JPG",
       "images": [
-        {
-          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/162.jpg/%24File/162.jpg"
-        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Tomokatsu_Kitagawa_IMG_0910_20130203.JPG"
         }
@@ -51462,6 +51453,29 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "f96b87b8-a3b8-44f1-8762-5bdc78af87c2",
+      "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/501.jpg/%24File/501.jpg",
+      "images": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/501.jpg/%24File/501.jpg"
+        }
+      ],
+      "name": "MIYAZAKI Masahisa",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "宮崎 政久君",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja-hira",
+          "name": "みやざき まさひさ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1984-12-05",
       "gender": "male",
       "given_name": "Shūhei",
@@ -54097,6 +54111,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "fj",
+      "name": "FJ"
     },
     {
       "classification": "party",
@@ -58739,7 +58758,7 @@
     {
       "area_id": "iwate_3rd_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "lp",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "0a1e6b19-3a9d-4121-986d-8333eecd9499",
       "role": "member",
@@ -60761,19 +60780,6 @@
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/243.html"
-        }
-      ]
-    },
-    {
-      "area_id": "kyushu_bloc",
-      "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ldp",
-      "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
-      "person_id": "33b7067a-ebe8-459a-84f6-8040baa9c094",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/239.html"
         }
       ]
     },
@@ -64732,7 +64738,7 @@
     {
       "area_id": "tokai_bloc",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "cdp",
+      "on_behalf_of_id": "lp",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "81a8ff9d-06c2-457d-9b17-1ab1631f05e8",
       "role": "member",
@@ -66617,7 +66623,7 @@
     {
       "area_id": "tokai_bloc",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "dpfp",
+      "on_behalf_of_id": "cdp",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "a7509fb0-0b29-4058-a284-109de7a7362c",
       "role": "member",
@@ -66721,7 +66727,7 @@
     {
       "area_id": "kanagawa_9th_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "fj",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "a8ec109f-de29-4270-984c-b88525e9a5c4",
       "role": "member",
@@ -68669,19 +68675,6 @@
       ]
     },
     {
-      "area_id": "osaka_12th_district",
-      "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ldp",
-      "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
-      "person_id": "db5ac03d-2ce9-4bab-813b-6f0dbd675e44",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/162.html"
-        }
-      ]
-    },
-    {
       "area_id": "shizuoka_8th_district",
       "legislative_period_id": "term/47",
       "on_behalf_of_id": "ldp",
@@ -68996,7 +68989,7 @@
     {
       "area_id": "tokyo_21st_district",
       "legislative_period_id": "term/48",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "fj",
       "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
       "person_id": "e1bd8013-3739-4b67-b6b3-64f5d98ccbf0",
       "role": "member",
@@ -70069,6 +70062,19 @@
       "sources": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/386.html"
+        }
+      ]
+    },
+    {
+      "area_id": "kyushu_bloc",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "ldp",
+      "organization_id": "a1be0473-97fb-4374-8ec1-5979e28df539",
+      "person_id": "f96b87b8-a3b8-44f1-8762-5bdc78af87c2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/501.html"
         }
       ]
     },
