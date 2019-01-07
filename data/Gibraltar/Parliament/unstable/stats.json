@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 83,
+    "count": 88,
     "wikidata": 22,
     "latest_term": {
-      "count": 24,
-      "wikidata": 16,
-      "images": 11,
+      "count": 17,
+      "wikidata": 12,
+      "images": 10,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -14,12 +14,12 @@
     }
   },
   "groups": {
-    "count": 5,
-    "wikidata": 4
+    "count": 1,
+    "wikidata": 1
   },
   "terms": {
-    "count": 12,
-    "latest": "2011-12-21",
+    "count": 13,
+    "latest": "2015-12-09",
     "wikidata": 0
   },
   "areas": {
@@ -31,6 +31,56 @@
     "latest": "2015-11-26"
   },
   "positions": {
-    "cabinet": 6
-  }
+    "cabinet": 7
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/gibraltar-parliament",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/gibraltar-wikipedia",
+      "lastmod": "2015-11-25"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/gibraltar-parliament",
+      "lastmod": "2016-02-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/gibraltar-parliament-wikidata",
+      "lastmod": "2018-08-24"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-12-19"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/gibraltar-positions",
+      "lastmod": "2017-04-04"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    }
+  ]
 }
