@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 352,
-    "wikidata": 352,
+    "count": 357,
+    "wikidata": 15,
     "latest_term": {
-      "count": 352,
-      "wikidata": 352,
-      "images": 352,
+      "count": 357,
+      "wikidata": 15,
+      "images": 357,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 13
+        "twitter": 1
       }
     }
   },
   "groups": {
-    "count": 19,
-    "wikidata": 19
+    "count": 15,
+    "wikidata": 9
   },
   "terms": {
     "count": 1,
@@ -23,7 +23,7 @@
     "wikidata": 1
   },
   "areas": {
-    "count": 271,
+    "count": 272,
     "wikidata": 271
   },
   "elections": {
@@ -31,7 +31,7 @@
     "latest": "2018-07-15"
   },
   "positions": {
-    "cabinet": 12
+    "cabinet": 5
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/pakistan-national-assembly-wikidata",
-      "lastmod": "2018-11-25"
+      "lastmod": "2018-11-26"
     },
     {
       "file": "morph/terms.csv",
@@ -86,7 +86,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-11-22"
+      "lastmod": "2018-11-26"
     }
   ]
 }
