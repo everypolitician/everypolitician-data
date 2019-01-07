@@ -779,6 +779,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "jo2018986124",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "077286677",
           "scheme": "sudoc"
         },
@@ -974,6 +978,10 @@
         {
           "identifier": "n94054302",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "js2015876101",
+          "scheme": "nkc"
         },
         {
           "identifier": "266906757",
@@ -1844,6 +1852,10 @@
         {
           "identifier": "00000028994",
           "scheme": "munzinger"
+        },
+        {
+          "identifier": "js2016915721",
+          "scheme": "nkc"
         },
         {
           "identifier": "A34401064",
@@ -4113,9 +4125,6 @@
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44459"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ljubić_Božo_2.jpg"
         }
       ],
       "links": [
@@ -4280,6 +4289,11 @@
           "lang": "uk",
           "name": "Тоніно Піцула",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東尼諾·皮庫拉",
+          "note": "multilingual"
         }
       ]
     },
@@ -4319,7 +4333,20 @@
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44468"
         }
       ],
-      "name": "Andrija Mikulić"
+      "links": [
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Андрія_Микулич"
+        }
+      ],
+      "name": "Andrija Mikulić",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Андрія Микулич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-06-13",
@@ -5516,6 +5543,11 @@
         {
           "lang": "ru",
           "name": "Иван Вилибор Синчич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊萬·威利波爾·辛奇奇",
           "note": "multilingual"
         }
       ]
@@ -7010,6 +7042,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "js2018994570",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "073219169",
           "scheme": "nta"
         },
@@ -7976,6 +8012,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (azb)",
+          "url": "https://azb.wikipedia.org/wiki/برونا_اسیح"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bruna_Esih"
         },
@@ -7988,7 +8028,14 @@
           "url": "https://sh.wikipedia.org/wiki/Bruna_Esih"
         }
       ],
-      "name": "Bruna Esih"
+      "name": "Bruna Esih",
+      "other_names": [
+        {
+          "lang": "azb",
+          "name": "برونا اسیح",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-10-15",
@@ -8344,6 +8391,10 @@
         {
           "identifier": "n2015007596",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "xx0139273",
+          "scheme": "nkc"
         },
         {
           "identifier": "176552772",
@@ -11637,6 +11688,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.365ris.hr/"
+        }
+      ],
       "name": "BM 365",
       "other_names": [
         {
@@ -11656,6 +11713,12 @@
           "name": "Bandić Milan 365 - Stranka rada i solidarnosti",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Bandić Milan 365 - Labour and Solidarity Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -13644,6 +13707,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh-hant",
+          "name": "克羅埃西亞共和農民黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "克罗地亚共和农民党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "HSS",
           "note": "multilingual",
@@ -14518,6 +14593,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র প্রার্থী",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ast",
+          "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -14972,6 +15059,18 @@
           "name": "sendependa",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ast",
+          "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -15204,8 +15303,20 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ko",
+          "name": "독립연대목록",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Pont des listes indépendantes",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "獨立聯盟黨",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
