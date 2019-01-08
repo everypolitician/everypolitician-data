@@ -3570,13 +3570,6 @@
       "sort_name": "Van den Bergh Jef"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "wim.vanderdonckt@dekamer.be"
-        }
-      ],
-      "email": "wim.vanderdonckt@dekamer.be",
       "gender": "male",
       "given_name": "Wim",
       "id": "4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
@@ -4903,6 +4896,13 @@
     },
     {
       "birth_date": "1980-03-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zuhal.demir@dekamer.be"
+        }
+      ],
+      "email": "zuhal.demir@dekamer.be",
       "family_name": "Demir",
       "gender": "female",
       "given_name": "Zuhal",
@@ -14317,11 +14317,6 @@
     },
     {
       "classification": "party",
-      "id": "party/unknown",
-      "name": "unknown"
-    },
-    {
-      "classification": "party",
       "id": "84fe0275-d3a9-4f77-a46e-40cc0d3298e3",
       "identifiers": [
         {
@@ -14672,8 +14667,9 @@
       "role": "member"
     },
     {
+      "area_id": "286e7423-94a8-486a-b037-d1b00c7d7fbf",
       "legislative_period_id": "term/54",
-      "on_behalf_of_id": "party/unknown",
+      "on_behalf_of_id": "8356533d-8224-4591-bc7d-3e760a9f3b97",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "1f919880-5e08-4342-867a-bae153e30e50",
       "role": "member",
@@ -14936,6 +14932,7 @@
     },
     {
       "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
+      "end_date": "2018-12-13",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15094,12 +15091,22 @@
       "role": "member"
     },
     {
+      "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
       "end_date": "2017-03-09",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "person_id": "6ba58d06-eafd-41aa-81d7-3413161df9bf",
       "role": "member"
+    },
+    {
+      "area_id": "2779c785-95c4-4b50-8bd2-fd74e435df65",
+      "legislative_period_id": "term/54",
+      "on_behalf_of_id": "d4fce305-4752-4bf1-87f3-d1ade2bbbb91",
+      "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
+      "person_id": "6ba58d06-eafd-41aa-81d7-3413161df9bf",
+      "role": "member",
+      "start_date": "2018-12-13"
     },
     {
       "area_id": "5187085b-1a48-451b-9744-bfcf74c45c12",
@@ -15128,6 +15135,7 @@
       "role": "member"
     },
     {
+      "area_id": "8a15807b-8c67-46f4-8589-d5b59c1aa8b7",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "7780499e-f191-4206-84ee-1bb573a69aec",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15647,6 +15655,7 @@
       "role": "member"
     },
     {
+      "area_id": "ff83572d-6b06-4363-a6c5-e2202b37fe72",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
@@ -15815,6 +15824,7 @@
       "role": "member"
     },
     {
+      "area_id": "570cb1b8-d741-446f-a574-3c5a77553a16",
       "end_date": "2018-05-24",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "0afe7ebb-b59b-4a0c-a44c-c158f8d4b454",
