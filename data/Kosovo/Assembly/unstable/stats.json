@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/parldata.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/kosovo-parldata",
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/kosovan-parliament-wikidata",
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-08-31"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2018-09-13"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-09-24"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-09-24"
+    }
+  ]
 }
