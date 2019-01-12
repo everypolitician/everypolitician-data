@@ -19965,6 +19965,11 @@
       "name": "Senate",
       "seats": 76,
       "type": "upper house"
+    },
+    {
+      "classification": "party",
+      "id": "united_australia_party",
+      "name": "United Australia Party"
     }
   ],
   "meta": {
@@ -20163,7 +20168,7 @@
     },
     {
       "area_id": "queensland",
-      "end_date": "2018-02-07",
+      "end_date": "2018-02-15",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -26682,6 +26687,7 @@
     },
     {
       "area_id": "queensland",
+      "end_date": "2018-10-25",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "katter's_australian_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -26693,6 +26699,20 @@
         }
       ],
       "start_date": "2018-06-04"
+    },
+    {
+      "area_id": "queensland",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "independent",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "83ed1e9b-de0b-4be1-a711-01405db6b00b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-10-25"
     },
     {
       "area_id": "tasmania",
@@ -30487,6 +30507,7 @@
     },
     {
       "area_id": "sa",
+      "end_date": "2018-02-02",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "independent",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -30498,6 +30519,20 @@
         }
       ],
       "start_date": "2017-05-03"
+    },
+    {
+      "area_id": "sa",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "c34f2d2a-210a-4e62-9b07-5dcfe8f578a0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-02-02"
     },
     {
       "area_id": "nsw",
@@ -32037,6 +32072,7 @@
     },
     {
       "area_id": "nsw",
+      "end_date": "2018-06-18",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "pauline_hanson's_one_nation_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -32047,6 +32083,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "nsw",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "united_australia_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "dc64384f-3d50-4021-934c-afafc23d789c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2018-06-18"
     },
     {
       "area_id": "wa",
