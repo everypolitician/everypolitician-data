@@ -4,9 +4,15 @@
   ],
   "persons": [
     {
+      "birth_date": "1982-07-21",
+      "gender": "male",
       "given_name": "Erik",
       "id": "0240abb4-0bb5-44fe-ab69-49bb726b2434",
       "identifiers": [
+        {
+          "identifier": "f039",
+          "scheme": "orszaggyules"
+        },
         {
           "identifier": "Q55752911",
           "scheme": "wikidata"
@@ -16,6 +22,12 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/f039.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Fülöp_Erik"
         }
       ],
       "name": "Dr. Fülöp, Erik",
@@ -2399,6 +2411,10 @@
           "scheme": "munzinger"
         },
         {
+          "identifier": "js20060428004",
+          "scheme": "nkc"
+        },
+        {
           "identifier": "820/000111487",
           "scheme": "nndb"
         },
@@ -2840,6 +2856,7 @@
       ]
     },
     {
+      "birth_date": "1968-06-19",
       "contact_details": [
         {
           "type": "email",
@@ -2847,6 +2864,7 @@
         }
       ],
       "email": "f.kovacs.sandor@parlament.hu",
+      "gender": "male",
       "id": "2994bcc2-3b81-4121-b7ed-40d3202237b3",
       "identifiers": [
         {
@@ -2858,6 +2876,12 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k151.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/F._Kovács_Sándor"
         }
       ],
       "name": "F Kovács, Sándor",
@@ -3542,6 +3566,7 @@
       ]
     },
     {
+      "birth_date": "1954-12-05",
       "contact_details": [
         {
           "type": "email",
@@ -3549,6 +3574,8 @@
         }
       ],
       "email": "kallai.maria@parlament.hu",
+      "gender": "female",
+      "given_name": "Mária",
       "id": "32818fcf-f731-4916-bf03-7e57719ce44c",
       "identifiers": [
         {
@@ -3562,11 +3589,22 @@
           "url": "http://www.parlament.hu/kepv/kepek/k153.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kállai_Mária"
+        }
+      ],
       "name": "Dr. Kállai, Mária",
       "other_names": [
         {
           "name": "Kállai Mária",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mária Kállai",
+          "note": "multilingual"
         },
         {
           "lang": "hu",
@@ -4709,6 +4747,7 @@
         }
       ],
       "email": "potocska.anita@parlament.hu",
+      "gender": "female",
       "given_name": "Anita",
       "id": "43efafa0-a741-453a-939e-db28caf7990f",
       "identifiers": [
@@ -4721,6 +4760,12 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/p060.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Potocskáné_Kőrösi_Anita"
         }
       ],
       "name": "Potocskáné Kőrösi, Anita",
@@ -5625,7 +5670,7 @@
       ]
     },
     {
-      "birth_date": "1951",
+      "birth_date": "1951-07-15",
       "contact_details": [
         {
           "type": "email",
@@ -5929,7 +5974,7 @@
         },
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Zsolt_Németh_(Politiker)"
+          "url": "https://de.wikipedia.org/wiki/Zsolt_Németh_(Politiker,_1963)"
         },
         {
           "note": "Wikipedia (en)",
@@ -5962,6 +6007,11 @@
         {
           "lang": "hu",
           "name": "Németh Zsolt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "聶梅",
           "note": "multilingual"
         }
       ]
@@ -6131,7 +6181,6 @@
         }
       ],
       "email": "ungar.peter@parlament.hu",
-      "family_name": "Ungar",
       "gender": "male",
       "given_name": "Péter",
       "id": "58a6d465-26cf-4ba2-a1ab-ca61759acfd3",
@@ -7499,6 +7548,10 @@
       "id": "7444c56f-c09f-4a76-9732-9236d1a9f929",
       "identifiers": [
         {
+          "identifier": "t054",
+          "scheme": "orszaggyules"
+        },
+        {
           "identifier": "Q16523396",
           "scheme": "wikidata"
         }
@@ -7520,6 +7573,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/TordaiBencePM"
+        },
+        {
+          "note": "website",
+          "url": "http://www.tordaibence.hu/"
         }
       ],
       "name": "Tordai, Bence",
@@ -8768,6 +8825,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Tiffán_Zsolt"
+        },
+        {
+          "note": "website",
+          "url": "http://www.tiffanzsolt.hu/"
         }
       ],
       "name": "Tiffán, Zsolt",
@@ -9241,9 +9302,14 @@
         }
       ],
       "email": "becso.karoly@parlament.hu",
+      "gender": "male",
       "given_name": "Károly",
       "id": "8e095475-f6f9-47b2-887e-6e3ede30e26b",
       "identifiers": [
+        {
+          "identifier": "b119",
+          "scheme": "orszaggyules"
+        },
         {
           "identifier": "Q55753425",
           "scheme": "wikidata"
@@ -9253,6 +9319,12 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b119.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Becsó_Károly"
         }
       ],
       "name": "Dr. Becsó, Károly",
@@ -10441,6 +10513,12 @@
           "url": "http://www.parlament.hu/kepv/kepek/h081.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Herczeg_Tamás_(politikus)"
+        }
+      ],
       "name": "Herczeg, Tamás",
       "other_names": [
         {
@@ -10612,6 +10690,12 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/b121.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Barcza_Attila"
         }
       ],
       "name": "Barcza, Attila",
@@ -10976,6 +11060,11 @@
           "lang": "fr",
           "name": "Ildikó Borbély",
           "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ildikó Borbély",
+          "note": "multilingual"
         }
       ]
     },
@@ -11316,14 +11405,16 @@
       ]
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-09-29",
       "contact_details": [
         {
           "type": "email",
           "value": "ferenc.hirt@parlament.hu"
         }
       ],
+      "death_date": "2018-12-07",
       "email": "ferenc.hirt@parlament.hu",
+      "family_name": "Hirt",
       "gender": "male",
       "given_name": "Ferenc",
       "id": "aa1c789d-1c91-4035-b670-dc38138bd7f5",
@@ -11633,6 +11724,10 @@
         {
           "identifier": "10004516",
           "scheme": "mtmt"
+        },
+        {
+          "identifier": "jo20181000357",
+          "scheme": "nkc"
         },
         {
           "identifier": "m064",
@@ -12110,6 +12205,10 @@
         {
           "identifier": "Q555669",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UC4gKWNyN7XxgZ1_bMwnwbMA",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/v058.jpg",
@@ -12125,6 +12224,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Gábor_Vona"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Qabor_Vona"
         },
         {
           "note": "Wikipedia (bg)",
@@ -12223,6 +12326,10 @@
           "url": "https://facebook.com/vonagabor"
         },
         {
+          "note": "instagram",
+          "url": "vona.gabor"
+        },
+        {
           "note": "website",
           "url": "http://www.vonagabor.hu"
         }
@@ -12232,6 +12339,11 @@
         {
           "name": "Vona Gábor",
           "note": "alternate"
+        },
+        {
+          "lang": "az",
+          "name": "Qabor Vona",
+          "note": "multilingual"
         },
         {
           "lang": "bg",
@@ -12266,6 +12378,11 @@
         {
           "lang": "uk",
           "name": "Габор Вона",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "沃納·加博爾",
           "note": "multilingual"
         }
       ]
@@ -12671,7 +12788,7 @@
       ]
     },
     {
-      "birth_date": "1955",
+      "birth_date": "1955-07-30",
       "contact_details": [
         {
           "type": "email",
@@ -12710,6 +12827,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jenő_Manninger"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Manninger_Jenő_(politikus)"
         },
         {
           "note": "Wikipedia (pl)",
@@ -13777,7 +13898,7 @@
       ]
     },
     {
-      "birth_date": "1964",
+      "birth_date": "1964-01-07",
       "gender": "male",
       "given_name": "László",
       "id": "d04234d0-e7f9-4ece-945a-680b6258ae83",
@@ -14561,6 +14682,11 @@
           "lang": "ru",
           "name": "Сель, Бернадетт",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瑟爾·貝爾納黛特",
+          "note": "multilingual"
         }
       ]
     },
@@ -14850,6 +14976,10 @@
           "url": "https://ast.wikipedia.org/wiki/Viktor_Orbán"
         },
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Viktor_Orban"
+        },
+        {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Віктар_Орбан"
         },
@@ -15010,6 +15140,10 @@
           "url": "https://ms.wikipedia.org/wiki/Viktor_Orbán"
         },
         {
+          "note": "Wikipedia (mzn)",
+          "url": "https://mzn.wikipedia.org/wiki/ویکتور_اربان"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Viktor_Orbán"
         },
@@ -15142,6 +15276,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "az",
+          "name": "Viktor Orban",
+          "note": "multilingual"
+        },
+        {
           "lang": "be",
           "name": "Віктар Орбан",
           "note": "multilingual"
@@ -15229,6 +15368,11 @@
         {
           "lang": "mr",
           "name": "व्हिक्तोर ओर्बान",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mzn",
+          "name": "ویکتور اربان",
           "note": "multilingual"
         },
         {
@@ -15343,7 +15487,7 @@
       ]
     },
     {
-      "birth_date": "1965",
+      "birth_date": "1965-01-20",
       "contact_details": [
         {
           "type": "email",
@@ -15445,6 +15589,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Gelencsér_Attila"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gelencserattila.fidesz.hu/hirek/"
         }
       ],
       "name": "Gelencsér, Attila",
@@ -15858,6 +16006,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Hadházy_Ákos"
+        },
+        {
+          "note": "blog",
+          "url": "https://szekszardihetkoznap.blog.hu/"
         },
         {
           "note": "facebook",
@@ -16456,6 +16608,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Sneider_Tamás"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tamás_Sneider"
         },
         {
           "note": "Wikipedia (pl)",
@@ -17317,6 +17473,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh-hant",
+          "name": "爭取匈牙利對話",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "争取匈牙利对话",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Párbeszéd Magyarországért",
           "note": "multilingual",
@@ -17998,6 +18166,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "স্বতন্ত্র প্রার্থী",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ast",
+          "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -18450,6 +18630,18 @@
         {
           "lang": "eo",
           "name": "sendependa",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ast",
+          "name": "candidatu independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -19105,7 +19297,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Flag_of_the_Hungarian_Socialist_Party.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/MSZP_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -19558,6 +19750,18 @@
         {
           "lang": "eo",
           "name": "Dialogo por Hungario",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "爭取匈牙利對話",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "争取匈牙利对话",
           "note": "multilingual",
           "source": "wikidata-label"
         },
