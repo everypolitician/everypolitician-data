@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 6
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/gibraltar-parliament",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/gibraltar-wikipedia",
+      "lastmod": "2015-11-25"
+    },
+    {
+      "file": "morph/terms.csv",
+      "type": "term",
+      "scraper": "everypolitician-scrapers/gibraltar-parliament",
+      "lastmod": "2016-02-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/gibraltar-parliament-wikidata",
+      "lastmod": "2018-08-24"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-12-19"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/gibraltar-positions",
+      "lastmod": "2017-04-04"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-26"
+    }
+  ]
 }
