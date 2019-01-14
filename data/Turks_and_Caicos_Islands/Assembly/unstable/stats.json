@@ -32,5 +32,67 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012-appointed-members.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-02-27"
+    },
+    {
+      "file": "archive/official-2012-elected-members.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2017-03-07"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "morph/wikipedia_2016.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikidata",
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-06-26"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2016-09-15"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-06"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    }
+  ]
 }
