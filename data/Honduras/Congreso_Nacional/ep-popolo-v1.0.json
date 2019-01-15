@@ -1732,7 +1732,19 @@
           "url": "https://facebook.com/mauricio.olivaherrera"
         }
       ],
-      "name": "Mauricio Oliva"
+      "name": "Mauricio Oliva",
+      "other_names": [
+        {
+          "lang": "zh-hans",
+          "name": "毛里西奥·歐立瓦",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "毛里西奧·歐立瓦",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2073,6 +2085,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ar",
+          "name": "الحزب الليبرالي الهندوراسي",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ja",
           "name": "ホンジュラス自由党",
           "note": "multilingual",
@@ -2329,6 +2347,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "he",
+          "name": "המפלגה הלאומית של הונדורס",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "國民黨",
           "note": "multilingual",
@@ -2416,6 +2440,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh",
+          "name": "反腐敗黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "PAC",
           "note": "multilingual",
@@ -2467,6 +2497,18 @@
         {
           "lang": "it",
           "name": "Partito per l'innovazione e l'Unità-Socialdemocrazia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "革新和團結黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "革新和团结党",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -4048,6 +4090,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2018",
       "id": "term/8",
       "name": "VIII Legislatura",
       "organization_id": "0795c876-b553-40eb-8036-f8371093e15a",
