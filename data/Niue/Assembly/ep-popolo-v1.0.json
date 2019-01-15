@@ -173,8 +173,29 @@
       "name": "Terry Coe"
     },
     {
+      "gender": "female",
+      "given_name": "Mona",
       "id": "524373b5-8380-4712-93df-cbe2afd7b314",
-      "name": "Esa Mona Ainu'u"
+      "identifiers": [
+        {
+          "identifier": "Q42704251",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mona_Ainuu"
+        }
+      ],
+      "name": "Esa Mona Ainu'u",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mona Ainuu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "58bdfc38-4a7d-4e3a-9498-b5ff0d4d993a",
@@ -285,9 +306,26 @@
         {
           "identifier": "peter_andrew_funaki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q60194471",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Peter Andrew Funaki"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Funaki"
+        }
+      ],
+      "name": "Peter Andrew Funaki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Andrew Funaki",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-06-05",
