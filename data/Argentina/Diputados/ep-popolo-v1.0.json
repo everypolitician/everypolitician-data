@@ -79,6 +79,12 @@
     },
     {
       "birth_date": "1953",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gracielacamano"
+        }
+      ],
       "gender": "female",
       "given_name": "Graciela",
       "id": "0737e3d7-2360-4b09-b7a7-33f238441bbf",
@@ -106,6 +112,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Graciela_Camaño"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gracielacamano"
         }
       ],
       "name": "Graciela Camaño",
@@ -364,6 +374,10 @@
           "url": "https://facebook.com/alfredo.h.olmedo"
         },
         {
+          "note": "instagram",
+          "url": "alfredoolmedo.ok"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/olmedopresident"
         },
@@ -379,8 +393,17 @@
           "note": "alternate"
         },
         {
+          "name": "Alfredo Olmedo Bolsonaro",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "Alfredo Olmedo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alfredo Olmedo Bolsonaro",
           "note": "multilingual"
         }
       ],
@@ -498,6 +521,10 @@
         {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Sergio_Massa"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sergio_Massa"
         },
         {
           "note": "Wikipedia (pt)",
@@ -1873,6 +1900,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hans",
+          "name": "费德里科·施图尔辛格",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hant",
           "name": "費德里科·施圖爾辛格",
           "note": "multilingual"
@@ -2266,6 +2298,7 @@
       "sort_name": "Wisky, Sergio Javier"
     },
     {
+      "family_name": "Fabiani",
       "gender": "male",
       "given_name": "Eduardo",
       "id": "320e1ffd-0888-48fe-a297-51147fe280f0",
@@ -2875,6 +2908,12 @@
         {
           "identifier": "Q16300926",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Josefina_Victoria_González.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Josefina_Victoria_González.png"
         }
       ],
       "links": [
@@ -4880,6 +4919,10 @@
           "url": "https://oc.wikipedia.org/wiki/Martín_Loustau"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Martín_Lousteau"
+        },
+        {
           "note": "Wikiquote (es)",
           "url": "https://es.wikiquote.org/wiki/Martín_Lousteau"
         },
@@ -5402,6 +5445,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Alicia_Ciciliani"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Alicia_Mabel_Ciciliani"
         },
@@ -5574,10 +5621,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Victoria_Donda_02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Analía_Donda_Pérez.png",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Victoria_Donda_02.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Victoria_Analía_Donda_Pérez.png"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/791677954761842689/es9J5JZ8.jpg"
@@ -6640,6 +6687,16 @@
           "lang": "en",
           "name": "Diego Bossio",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "迭戈·波西欧",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "迭戈·波西歐",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bossio, Diego Luis"
@@ -6665,6 +6722,7 @@
       "sort_name": "Masin, Maria Lucila"
     },
     {
+      "family_name": "Grandinetti",
       "gender": "male",
       "given_name": "Alejandro",
       "id": "7eb7ced6-c61d-425e-883f-b6d151ad2cad",
@@ -6964,6 +7022,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-hans",
+          "name": "阿克塞尔·基西洛夫",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hant",
           "name": "阿克塞爾·基西洛夫",
           "note": "multilingual"
@@ -7224,6 +7287,7 @@
           "value": "PinedoFederico"
         }
       ],
+      "family_name": "Pinedo",
       "gender": "male",
       "given_name": "Federico",
       "id": "89fa6f06-dac0-4f7d-ab06-756b5d7f20a6",
@@ -7828,7 +7892,7 @@
       "sort_name": "DE NARVAEZ, FRANCISCO"
     },
     {
-      "birth_date": "1951",
+      "birth_date": "1951-11-27",
       "death_date": "2017-06-17",
       "gender": "male",
       "given_name": "Luis Bernardo",
@@ -9452,6 +9516,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Juliana_Di_Tullio"
+        },
+        {
+          "note": "Wikiquote (es)",
+          "url": "https://es.wikiquote.org/wiki/Juliana_Di_Tullio"
         }
       ],
       "name": "Juliana Di Tullio",
@@ -9516,10 +9584,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sesión_13-06-2018_Diputado_Maximo_Kirchner.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sesión_13-06-2018_Diputado_Maximo_Kirchner_(cropped).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sesión_13-06-2018_Diputado_Maximo_Kirchner.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sesión_13-06-2018_Diputado_Maximo_Kirchner_(cropped).jpg"
         }
       ],
       "links": [
@@ -10618,8 +10686,9 @@
       "sort_name": "Besada, Alicia Irma"
     },
     {
+      "family_name": "Carrizo",
       "gender": "female",
-      "given_name": "María",
+      "given_name": "María Soledad",
       "id": "c7391cfe-80dd-435c-ad8b-47c1b4e82e73",
       "identifiers": [
         {
@@ -11008,6 +11077,10 @@
           "url": "https://ast.wikipedia.org/wiki/Myriam_Bregman"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Myriam_Bregman"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Myriam_Bregman"
         },
@@ -11024,6 +11097,10 @@
           "url": "https://es.wikiquote.org/wiki/Myriam_Bregman"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/MyriamBregman.PTS"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/myriambregman"
         }
@@ -11032,6 +11109,11 @@
       "other_names": [
         {
           "lang": "zh-cn",
+          "name": "瑪麗亞姆·布雷格曼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
           "name": "瑪麗亞姆·布雷格曼",
           "note": "multilingual"
         },
@@ -11065,12 +11147,6 @@
         {
           "identifier": "Q5041910",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Carlos_Daniel_Castagneto.png",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Carlos_Daniel_Castagneto.png"
         }
       ],
       "links": [
@@ -11247,10 +11323,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Julio_R_Solanas.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Julio_Rodolfo_Solanas.png",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Julio_R_Solanas.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Julio_Rodolfo_Solanas.png"
         }
       ],
       "links": [
@@ -13739,6 +13815,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "fr",
+          "name": "Parti démocrate progressiste (Argentine)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Partido Democrata Progresista",
           "note": "multilingual",
@@ -13820,6 +13902,12 @@
         },
         {
           "lang": "zh-cn",
+          "name": "重建阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
           "name": "重建阵线",
           "note": "multilingual",
           "source": "wikidata-label"
@@ -14066,7 +14154,7 @@
         },
         {
           "lang": "en",
-          "name": "Front for Victory (Argentina)",
+          "name": "Front for Victory",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14091,12 +14179,6 @@
         {
           "lang": "cs",
           "name": "Fronta za vítězství",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "sco",
-          "name": "Front for Victory",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14145,12 +14227,6 @@
         {
           "lang": "bg",
           "name": "Фронт за победа",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Front for Victory",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -14256,6 +14332,12 @@
           "name": "重建阵线",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "重建阵线",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -14302,6 +14384,12 @@
         },
         {
           "lang": "zh-cn",
+          "name": "统一国家一代党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
           "name": "统一国家一代党",
           "note": "multilingual",
           "source": "wikidata-label"
@@ -14531,6 +14619,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "sk",
+          "name": "Justicialistická strana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Partido Justicialista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "阿根廷正义党",
           "note": "multilingual",
@@ -14611,6 +14711,12 @@
         {
           "lang": "ro",
           "name": "Partido Justicialista",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sk",
+          "name": "Peronistická strana",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -14896,6 +15002,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh-hans",
+          "name": "社会党（阿根廷）",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Partido Socialista",
           "note": "multilingual",
@@ -15036,6 +15148,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ca",
+          "name": "Partit dels Treballadors Socialistes",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Partido de Trabajadores por el Socialismo",
           "note": "multilingual",
@@ -15144,7 +15262,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Escudo_de_la_UCR.svg",
       "links": [
         {
           "note": "website",
@@ -15268,6 +15385,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "sk",
+          "name": "Radikálna občianska únia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UCR",
           "note": "multilingual",
@@ -15282,6 +15405,12 @@
         {
           "lang": "en",
           "name": "Union Civica Radical",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sk",
+          "name": "Radikálny občiansky zväz",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -15557,6 +15686,18 @@
         {
           "lang": "da",
           "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Propuesta Republicana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sk",
+          "name": "Republikánsky návrh",
           "note": "multilingual",
           "source": "wikidata-label"
         },
