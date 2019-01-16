@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 48,
-    "wikidata": 17,
+    "wikidata": 19,
     "latest_term": {
       "count": 48,
-      "wikidata": 17,
+      "wikidata": 19,
       "images": 48,
       "contacts": {
         "email": 48,
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/bhutan-wikidata",
-      "lastmod": "2018-11-18"
+      "lastmod": "2019-01-16"
     },
     {
       "file": "manual/terms.csv",
@@ -68,13 +68,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-10-26"
+      "lastmod": "2019-01-16"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-10-26"
+      "lastmod": "2019-01-16"
     }
   ]
 }
