@@ -8024,37 +8024,6 @@
       ]
     },
     {
-      "birth_date": "1957-06-24",
-      "gender": "female",
-      "given_name": "Lilja",
-      "id": "93cf4147-0133-486f-bda6-c483c774cdb5",
-      "identifiers": [
-        {
-          "identifier": "lilja_r._magnúsdóttir",
-          "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q539467",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
-        },
-        {
-          "note": "Wikipedia (is)",
-          "url": "https://is.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
-        }
-      ],
-      "name": "Lilja Rafney Magnúsdóttir"
-    },
-    {
       "birth_date": "1987-11-04",
       "gender": "female",
       "given_name": "Þórdís",
@@ -9185,21 +9154,46 @@
       "name": "Halla Signý Kristjánsdóttir"
     },
     {
+      "birth_date": "1957-06-24",
       "gender": "female",
+      "given_name": "Lilja",
       "id": "ad017aa2-3a05-4656-8021-e3ca0b263a18",
       "identifiers": [
         {
           "identifier": "lilja_magnúsdóttir",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q539467",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
+        },
         {
           "note": "wikipedia",
           "url": "Lilja Rafney Magnúsdóttir"
         }
       ],
-      "name": "Lilja Magnúsdóttir"
+      "name": "Lilja Magnúsdóttir",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lilja Rafney Magnúsdóttir",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-01-17",
@@ -21204,30 +21198,6 @@
     },
     {
       "area_id": "Q2001582",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "Q1130754",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "93cf4147-0133-486f-bda6-c483c774cdb5",
-      "role": "member"
-    },
-    {
-      "area_id": "Q2001582",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "Q1130754",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "93cf4147-0133-486f-bda6-c483c774cdb5",
-      "role": "member"
-    },
-    {
-      "area_id": "Q2001582",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "Q1130754",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "93cf4147-0133-486f-bda6-c483c774cdb5",
-      "role": "member"
-    },
-    {
-      "area_id": "Q2001582",
       "legislative_period_id": "term/2016",
       "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
@@ -21892,6 +21862,30 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "Q2001582",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "Q1130754",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ad017aa2-3a05-4656-8021-e3ca0b263a18",
+      "role": "member"
+    },
+    {
+      "area_id": "Q2001582",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "Q1130754",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ad017aa2-3a05-4656-8021-e3ca0b263a18",
+      "role": "member"
+    },
+    {
+      "area_id": "Q2001582",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "Q1130754",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "ad017aa2-3a05-4656-8021-e3ca0b263a18",
+      "role": "member"
     },
     {
       "area_id": "northeast_constituency",
