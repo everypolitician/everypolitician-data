@@ -55,6 +55,10 @@
       "name": "Ian Tugby"
     },
     {
+      "id": "5d034d72-c6eb-4efd-937b-338e1055e6d6",
+      "name": "David Earl"
+    },
+    {
       "gender": "male",
       "id": "66d1f769-3e52-40cb-9ddb-1e5ffbec8456",
       "identifiers": [
@@ -117,6 +121,14 @@
       "name": "Matthew Birmingham"
     },
     {
+      "id": "7e775bb9-11e9-421b-ad10-18202445612a",
+      "name": "Christian Harris"
+    },
+    {
+      "id": "9dc451cf-4b31-48be-9d39-c7f5cf3d43fa",
+      "name": "Annie Burgess"
+    },
+    {
       "gender": "male",
       "id": "a11887ce-2c42-4555-bfd9-0843f3a9ced0",
       "identifiers": [
@@ -132,6 +144,16 @@
         }
       ],
       "name": "Steve Roberts"
+    },
+    {
+      "id": "a2c580f8-cc4e-4a72-9493-dc4372d62768",
+      "image": "http://www.alderney.gov.gg/media/image/3/l/Kevin_Gentle.jpg",
+      "images": [
+        {
+          "url": "http://www.alderney.gov.gg/media/image/3/l/Kevin_Gentle.jpg"
+        }
+      ],
+      "name": "Kevin Gentle"
     },
     {
       "gender": "male",
@@ -156,8 +178,7 @@
       "name": "James Dent"
     },
     {
-      "gender": "male",
-      "id": "b38643e1-5b52-4a6e-8ee4-3e015bd93dca",
+      "id": "b930b54c-b56b-4bb5-a68b-b21742f17497",
       "name": "Mike Dean"
     },
     {
@@ -175,11 +196,6 @@
       "gender": "male",
       "id": "c278551a-1d85-4276-a687-364b6e2c3175",
       "name": "Alexander Snowdon"
-    },
-    {
-      "gender": "male",
-      "id": "d3ee2797-d8df-415e-b378-0e9cbb452a35",
-      "name": "Anthony Barnes"
     }
   ],
   "organizations": [
@@ -617,6 +633,18 @@
         {
           "lang": "vec",
           "name": "Poidego independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র প্রার্থী",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ast",
+          "name": "políticu independiente",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -1075,6 +1103,18 @@
           "name": "sendependa",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "bn",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ast",
+          "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -1142,11 +1182,11 @@
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "independent",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
-      "person_id": "48723cfe-9970-4ce7-92da-ff6b91dfa2b5",
+      "person_id": "5d034d72-c6eb-4efd-937b-338e1055e6d6",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.alderney.gov.gg/article/4081/Ian-Tugby"
+          "url": "http://www.alderney.gov.gg/article/169888/David-Earl"
         }
       ]
     },
@@ -1191,19 +1231,6 @@
     },
     {
       "area_id": "alderney",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "independent",
-      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
-      "person_id": "70b26d38-ae65-4e90-9a99-15b948b9784b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.alderney.gov.gg/article/112088/Norma-Paris"
-        }
-      ]
-    },
-    {
-      "area_id": "alderney",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "independent",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
@@ -1220,11 +1247,24 @@
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "independent",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
-      "person_id": "77f036f7-c8ca-4388-be74-74aea27b7652",
+      "person_id": "7e775bb9-11e9-421b-ad10-18202445612a",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.alderney.gov.gg/article/4389/Matthew-Birmingham"
+          "url": "http://www.alderney.gov.gg/article/169887/Christian-Harris"
+        }
+      ]
+    },
+    {
+      "area_id": "alderney",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "9dc451cf-4b31-48be-9d39-c7f5cf3d43fa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/169884/Annie-Burgess"
         }
       ]
     },
@@ -1251,6 +1291,19 @@
       "sources": [
         {
           "url": "http://www.alderney.gov.gg/article/4386/Steve-Roberts"
+        }
+      ]
+    },
+    {
+      "area_id": "alderney",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "independent",
+      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
+      "person_id": "a2c580f8-cc4e-4a72-9493-dc4372d62768",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.alderney.gov.gg/article/169889/Kevin-Gentle"
         }
       ]
     },
@@ -1298,11 +1351,11 @@
       "legislative_period_id": "term/2017",
       "on_behalf_of_id": "independent",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
-      "person_id": "b38643e1-5b52-4a6e-8ee4-3e015bd93dca",
+      "person_id": "b930b54c-b56b-4bb5-a68b-b21742f17497",
       "role": "member",
       "sources": [
         {
-          "url": "http://www.alderney.gov.gg/article/157566/Mike-Dean"
+          "url": "http://www.alderney.gov.gg/article/169890/Mike-Dean"
         }
       ]
     },
@@ -1342,19 +1395,6 @@
       "sources": [
         {
           "url": "http://www.alderney.gov.gg/article/157567/Alexander-Snowdon"
-        }
-      ]
-    },
-    {
-      "area_id": "alderney",
-      "legislative_period_id": "term/2017",
-      "on_behalf_of_id": "independent",
-      "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
-      "person_id": "d3ee2797-d8df-415e-b378-0e9cbb452a35",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.alderney.gov.gg/article/157565/Anthony-Barnes"
         }
       ]
     }
@@ -1448,6 +1488,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2018-12-31",
       "id": "term/2017",
       "name": "2017-2018",
       "organization_id": "a458ad55-58ef-47d7-9f15-4a5558df7006",
