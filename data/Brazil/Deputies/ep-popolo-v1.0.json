@@ -12836,34 +12836,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dep.jhc@camara.leg.br"
-        },
-        {
-          "type": "phone",
-          "value": "(61) 3215-5958 - 3215-2958"
-        }
-      ],
-      "email": "dep.jhc@camara.leg.br",
-      "gender": "male",
-      "id": "563bae0d-46c0-40d8-81df-7103c821bb3e",
-      "identifiers": [
-        {
-          "identifier": "5830555",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "image": "http://www.camara.gov.br/internet/deputado/bandep/178842.jpg",
-      "images": [
-        {
-          "url": "http://www.camara.gov.br/internet/deputado/bandep/178842.jpg"
-        }
-      ],
-      "name": "JHC"
-    },
-    {
       "birth_date": "1948-09-30",
       "contact_details": [
         {
@@ -14347,6 +14319,17 @@
     },
     {
       "birth_date": "1987-07-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dep.jhc@camara.leg.br"
+        },
+        {
+          "type": "phone",
+          "value": "(61) 3215-5958 - 3215-2958"
+        }
+      ],
+      "email": "dep.jhc@camara.leg.br",
       "gender": "male",
       "given_name": "João Henrique",
       "id": "65c90bcf-1388-4349-a6af-40b0d9a32a77",
@@ -14360,6 +14343,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74559.jpg"
+        },
+        {
+          "url": "http://www.camara.gov.br/internet/deputado/bandep/178842.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/JHC-Terceiro-Secretário-Câmara.jpg"
@@ -14381,6 +14367,10 @@
       ],
       "name": "JOÃO CALDAS",
       "other_names": [
+        {
+          "name": "JHC",
+          "note": "alternate"
+        },
         {
           "name": "João Henrique Caldas",
           "note": "alternate"
@@ -50987,19 +50977,6 @@
       ]
     },
     {
-      "area_id": "al",
-      "legislative_period_id": "term/55",
-      "on_behalf_of_id": "psb",
-      "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
-      "person_id": "563bae0d-46c0-40d8-81df-7103c821bb3e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195799&tipo=0"
-        }
-      ]
-    },
-    {
       "area_id": "sp",
       "legislative_period_id": "term/54",
       "on_behalf_of_id": "pt",
@@ -51685,6 +51662,19 @@
       "sources": [
         {
           "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=100092&tipo=0"
+        }
+      ]
+    },
+    {
+      "area_id": "al",
+      "legislative_period_id": "term/55",
+      "on_behalf_of_id": "psb",
+      "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
+      "person_id": "65c90bcf-1388-4349-a6af-40b0d9a32a77",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www2.camara.gov.br/deputados/pesquisa/layouts_deputados_biografia?pk=195799&tipo=0"
         }
       ]
     },
