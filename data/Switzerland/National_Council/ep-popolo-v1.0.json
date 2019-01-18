@@ -9595,6 +9595,21 @@
       "sort_name": "Delamuraz, Jean-Pascal"
     },
     {
+      "birth_date": "1992-08-02",
+      "family_name": "Egger",
+      "gender": "male",
+      "given_name": "Mike",
+      "id": "2c767ada-c075-49da-9a2e-e2fa5c3b4fd8",
+      "identifiers": [
+        {
+          "identifier": "4229",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Mike Egger",
+      "sort_name": "Egger, Mike"
+    },
+    {
       "birth_date": "1960-03-14",
       "family_name": "Bänziger",
       "gender": "female",
@@ -31724,6 +31739,21 @@
       ],
       "name": "Dorle Vallender",
       "sort_name": "Vallender, Dorle"
+    },
+    {
+      "birth_date": "1994-01-23",
+      "family_name": "Marti",
+      "gender": "female",
+      "given_name": "Samira",
+      "id": "909b28b4-e568-423c-ba8d-6e7b9c5094a2",
+      "identifiers": [
+        {
+          "identifier": "4228",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira"
     },
     {
       "birth_date": "1924-06-29",
@@ -62692,6 +62722,20 @@
       ]
     },
     {
+      "area_id": "SG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "2c767ada-c075-49da-9a2e-e2fa5c3b4fd8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4229"
+        }
+      ],
+      "start_date": "2019-03-04"
+    },
+    {
       "area_id": "ZH",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "6",
@@ -76879,6 +76923,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -78731,6 +78776,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=362"
         }
       ]
+    },
+    {
+      "area_id": "BL",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "909b28b4-e568-423c-ba8d-6e7b9c5094a2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4228"
+        }
+      ],
+      "start_date": "2018-12-10"
     },
     {
       "area_id": "SO",
@@ -96780,6 +96839,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
