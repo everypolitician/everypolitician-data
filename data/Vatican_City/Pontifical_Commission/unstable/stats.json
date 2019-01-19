@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 8,
-    "wikidata": 8,
+    "count": 13,
+    "wikidata": 5,
     "latest_term": {
-      "count": 7,
-      "wikidata": 7,
-      "images": 7,
+      "count": 6,
+      "wikidata": 0,
+      "images": 0,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/wikipedia-2011.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/pontifical-commission-for-vatican-state-wikipedia",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/pontifical-commission-for-vatican-state-wikidata",
+      "lastmod": "2018-05-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-10-06"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-02-06"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-04-03"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-05-28"
+    }
+  ]
 }
