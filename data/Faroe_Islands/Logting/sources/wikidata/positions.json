@@ -204,7 +204,13 @@
     {
       "id": "Q12311817",
       "label": "member of the Folketing",
-      "title": "member of the Folketing"
+      "title": "member of the Folketing",
+      "qualifiers": {
+        "P2937": "Folketing 2015–2019",
+        "P4100": "Republic",
+        "P582": "2017-12-10",
+        "P1366": "Magni Arge"
+      }
     }
   ],
   "Q331931": [
@@ -248,7 +254,9 @@
       "title": "member of the Folketing",
       "qualifiers": {
         "P580": "2015-07-28",
-        "P1365": "Høgni Hoydal"
+        "P1365": "Høgni Hoydal",
+        "P2937": "Folketing 2015–2019",
+        "P4100": "Republic"
       }
     }
   ],
@@ -416,7 +424,7 @@
         "P582": "2016-12-31",
         "P1365": "Magni Arge",
         "P2937": "Folketing 2015–2019",
-        "P1268": "Republic"
+        "P4100": "Republic"
       }
     },
     {
@@ -428,7 +436,7 @@
         "P582": "2004-02-17",
         "P1365": "Høgni Hoydal",
         "P2937": "Folketing 2001–2005",
-        "P1268": "Republic"
+        "P4100": "Republic"
       }
     }
   ],
