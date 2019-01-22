@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/samoa-parliament-wikipedia",
+      "lastmod": "2018-05-26"
+    },
+    {
+      "file": "morph/official-16.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/samoa-parliament",
+      "lastmod": "2017-05-09"
+    },
+    {
+      "file": "archive/official-15.csv",
+      "type": "person",
+      "scraper": null,
+      "lastmod": "2017-05-09"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/samoa-parliament-wikidata",
+      "lastmod": "2018-04-03"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-05-09"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/samoa-parliament-gender-balance",
+      "lastmod": "2017-04-24"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2017-06-25"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-05-28"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-08-29"
+    }
+  ]
 }
