@@ -5107,6 +5107,25 @@
       "patronymic_name": "Ігорович"
     },
     {
+      "family_name": "Куренной",
+      "given_name": "Володимир",
+      "id": "2f687a4d-33f7-4e97-8ab3-71c0a1556367",
+      "identifiers": [
+        {
+          "identifier": "8802",
+          "scheme": "verkhovna_rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/bp86.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/bp86.jpg"
+        }
+      ],
+      "name": "Куренной Володимир Костянтинович",
+      "patronymic_name": "Костянтинович"
+    },
+    {
       "birth_date": "1979-08-05",
       "family_name": "Білецький",
       "gender": "male",
@@ -8966,7 +8985,7 @@
     },
     {
       "birth_date": "1977-09-19",
-      "family_name": "Агафонова",
+      "family_name": "Ковальчук",
       "gender": "female",
       "given_name": "Наталія",
       "id": "4e8958dc-389d-4bc8-8763-d64492c8b685",
@@ -9007,8 +9026,12 @@
           "url": "https://uk.wikipedia.org/wiki/Агафонова_Наталія_Володимирівна"
         }
       ],
-      "name": "Агафонова Наталія Володимирівна",
+      "name": "Ковальчук Наталія Володимирівна",
       "other_names": [
+        {
+          "name": "Агафонова Наталія Володимирівна",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Natalija Wolodymyriwna Ahafonowa",
@@ -9022,6 +9045,11 @@
         {
           "lang": "ru",
           "name": "Агафонова, Наталья Владимировна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Агафонова Наталія Володимирівна",
           "note": "multilingual"
         }
       ],
@@ -37060,6 +37088,15 @@
       "role": "member"
     },
     {
+      "area_id": "Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2613",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "2f687a4d-33f7-4e97-8ab3-71c0a1556367",
+      "role": "member",
+      "start_date": "2018-12-04"
+    },
+    {
       "area_id": "217",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "Позафракційні",
@@ -37264,6 +37301,7 @@
     },
     {
       "area_id": "Загальнодержавному_багатомандатному_округу",
+      "end_date": "2018-11-22",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
@@ -37818,11 +37856,21 @@
     },
     {
       "area_id": "88",
+      "end_date": "2019-01-17",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2612",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "512029e1-fd00-4aaf-9c10-314b86c4bfdf",
       "role": "member"
+    },
+    {
+      "area_id": "88",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "512029e1-fd00-4aaf-9c10-314b86c4bfdf",
+      "role": "member",
+      "start_date": "2019-01-18"
     },
     {
       "area_id": "Загальнодержавному_багатомандатному_округу",
