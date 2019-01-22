@@ -24,7 +24,7 @@ namespace :merge_members do
 
     # First get all the `membership` rows
     @INSTRUCTIONS.sources_of_type('membership').each do |source|
-      source_warn "Add memberships from #{source.filename}"
+      source_warn "Adding memberships from #{source.filename}"
       merged_rows = source.merged_with(merged_rows)
     end
 
