@@ -354,10 +354,43 @@
       "sort_name": "COMPAORE, Jean-Lonard"
     },
     {
+      "birth_date": "1960",
       "family_name": "SAWADOGO",
+      "gender": "male",
       "given_name": "P.Clment",
       "id": "1455abdd-9d31-42d4-a939-7341243ea8b5",
+      "identifiers": [
+        {
+          "identifier": "218480232",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1103939",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Clément_Sawadogo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Clément_Sawadogo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Clément_Sawadogo"
+        }
+      ],
       "name": "P.Clment SAWADOGO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clément Sawadogo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "SAWADOGO, P.Clment"
     },
     {
@@ -783,14 +816,19 @@
       "name": "Mr BAMOGO LALLO HAMADO"
     },
     {
+      "birth_date": "1951-12-31",
       "family_name": "YODA",
       "gender": "male",
-      "given_name": "Bdouma Alain",
+      "given_name": "Alain",
       "id": "30424fa7-799a-4844-be9b-bd8a54b770ab",
       "identifiers": [
         {
           "identifier": "87",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1723580",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_87.jpg",
@@ -799,7 +837,48 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_87.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Alain_Yoda"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alain_Bédouma_Yoda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Bedouma_Yoda"
+        }
+      ],
       "name": "Mr YODA BEDOUMA ALAIN",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Alain Yoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alain Bédouma Yoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alain Bedouma Yoda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "游達",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "遊達",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "YODA, Bdouma Alain"
     },
     {
@@ -1053,6 +1132,7 @@
       "sort_name": "KAMBOU, Si Pascal"
     },
     {
+      "birth_date": "1959-02-23",
       "contact_details": [
         {
           "type": "email",
@@ -1066,6 +1146,14 @@
         {
           "identifier": "113",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0920f6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q722327",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_113.jpg",
@@ -1074,7 +1162,49 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_113.jpg"
         }
       ],
-      "name": "Mr SANKARA BENEWENDE STANISLAS"
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Bénéwendé_Stanislas_Sankara"
+        }
+      ],
+      "name": "Mr SANKARA BENEWENDE STANISLAS",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bénéwendé Stanislas Sankara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "本納溫德·斯塔尼斯拉斯·桑卡拉",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "family_name": "SOURWEMA",
@@ -1227,9 +1357,40 @@
       "sort_name": "BARO, Soma"
     },
     {
+      "birth_date": "1949-12-31",
+      "death_date": "2009-05-05",
       "family_name": "SOMDA",
+      "gender": "male",
       "given_name": "Nurukyor Claude",
       "id": "46656b60-b911-40dc-8bb1-dc0fda2981b2",
+      "identifiers": [
+        {
+          "identifier": "0000 0000 3988 8407",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2004025043",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "265764092",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "7626139",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2005411",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nurukyor_Claude_Somda"
+        }
+      ],
       "name": "Nurukyor Claude SOMDA",
       "sort_name": "SOMDA, Nurukyor Claude"
     },
@@ -1269,9 +1430,29 @@
     },
     {
       "family_name": "YAO",
+      "gender": "male",
       "given_name": "Oubkiri",
       "id": "46f492ac-8470-426c-92d0-7a7a5e1bf9be",
+      "identifiers": [
+        {
+          "identifier": "Q7110235",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oubkiri_Marc_Yao"
+        }
+      ],
       "name": "Oubkiri YAO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Oubkiri Marc Yao",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "YAO, Oubkiri"
     },
     {
@@ -2268,12 +2449,18 @@
       "name": "Mr TRAORE LACOMI LORCENDY"
     },
     {
+      "birth_date": "1968-12-25",
       "gender": "male",
+      "given_name": "Gilbert",
       "id": "7b8f6b7b-eb79-4e89-bf0e-c007d991f0b5",
       "identifiers": [
         {
           "identifier": "62",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1524043",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_62.jpg",
@@ -2282,7 +2469,34 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_62.jpg"
         }
       ],
-      "name": "Mr OUEDRAOGO GILBERT NOËL"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gilbert_Ouédraogo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gilbert_Noël_Ouédraogo"
+        }
+      ],
+      "name": "Mr OUEDRAOGO GILBERT NOËL",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gilbert Ouédraogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gilbert Noël Ouédraogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "魏濤閣",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "family_name": "YAMOGO",
@@ -2413,10 +2627,31 @@
       "sort_name": "ILBOUDO, Alain Guy Richard"
     },
     {
+      "birth_date": "1957-10-10",
       "family_name": "YE",
+      "gender": "male",
       "given_name": "BONGNESSAN Arsne",
       "id": "808a11e6-ef0b-4cea-a7ce-b9330a944d91",
+      "identifiers": [
+        {
+          "identifier": "Q4937668",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bognessan_Arsène_Yé"
+        }
+      ],
       "name": "BONGNESSAN Arsne YE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bognessan Arsène Yé",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "YE, BONGNESSAN Arsne"
     },
     {
@@ -3013,12 +3248,29 @@
       "name": "M. DIALLO Ousmane"
     },
     {
+      "birth_date": "1956-12-31",
       "gender": "male",
       "id": "9a1019a2-691c-4d00-9393-47f63432d151",
       "identifiers": [
         {
           "identifier": "58",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 5133 3850",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "306086204",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "37235735",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7565025",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_58.jpg",
@@ -3027,7 +3279,29 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_58.jpg"
         }
       ],
-      "name": "Mr OUATTARA SOUNGALO APPOLINAIRE"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Soungalo_Ouattara"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Soungalo_Ouattara"
+        }
+      ],
+      "name": "Mr OUATTARA SOUNGALO APPOLINAIRE",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Soungalo Ouattara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "瓦森羅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -3048,6 +3322,7 @@
       "sort_name": "KABOR, Sadou"
     },
     {
+      "birth_date": "1952",
       "family_name": "NABOHO",
       "gender": "male",
       "given_name": "Kanidoua",
@@ -3056,6 +3331,10 @@
         {
           "identifier": "43",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6363125",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_43.jpg",
@@ -3064,7 +3343,20 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_43.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kanidoua_Naboho"
+        }
+      ],
       "name": "Mr NABOHO KANIDOUA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kanidoua Naboho",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "NABOHO, Kanidoua"
     },
     {
@@ -3438,17 +3730,61 @@
       "sort_name": "ZEBANGO, Habata Marlne"
     },
     {
+      "birth_date": "1945-08-28",
       "family_name": "BADO",
       "gender": "male",
       "given_name": "Laurent",
       "id": "b2934d8d-9279-4084-86f7-8a7c3206a684",
+      "identifiers": [
+        {
+          "identifier": "0000 0000 2806 0292",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n90666729",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "16848515X",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "7449081",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3219014",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_140.jpg",
       "images": [
         {
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_140.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Laurent_Bado"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Laurent_Bado"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Bado"
+        }
+      ],
       "name": "M. BADO Laurent",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Laurent Bado",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BADO, Laurent"
     },
     {
@@ -3780,9 +4116,24 @@
       "sort_name": "SIDIBE, Assata"
     },
     {
+      "birth_date": "1954",
+      "death_date": "2017-10-24",
       "family_name": "SAWADOGO",
+      "gender": "male",
       "given_name": "Mahama",
       "id": "c55ff014-83cb-406f-a802-496e18b58e8a",
+      "identifiers": [
+        {
+          "identifier": "Q6732984",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mahama_Sawadogo"
+        }
+      ],
       "name": "Mahama SAWADOGO",
       "sort_name": "SAWADOGO, Mahama"
     },
@@ -4073,10 +4424,133 @@
       "name": "M. CONGO Issaka"
     },
     {
+      "birth_date": "1922-06-21",
+      "death_date": "2006-12-04",
       "family_name": "KI-ZERBO",
+      "gender": "male",
       "given_name": "Joseph",
       "id": "ce36c945-3e7e-4a7c-aca7-0c294a836040",
+      "identifiers": [
+        {
+          "identifier": "XX842953",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "a11151948",
+          "scheme": "cantic"
+        },
+        {
+          "identifier": "62584",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/071q9v",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "125007671",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1029 4020",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n80136275",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "068519877",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "193447",
+          "scheme": "selibr"
+        },
+        {
+          "identifier": "w64g55tm",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "73855509",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q739752",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/JosephKizerbo.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/JosephKizerbo.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ки-Зербо,_Жозеф"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Joseph_Ki-Zerbo"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/约瑟夫·基-泽尔博"
+        }
+      ],
       "name": "Joseph KI-ZERBO",
+      "other_names": [
+        {
+          "lang": "he",
+          "name": "יוסף קי-זרבו",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョゼフ・キゼルボ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ки-Зербо, Жозеф",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "约瑟夫·基-泽尔博",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "KI-ZERBO, Joseph"
     },
     {
@@ -4503,10 +4977,47 @@
       "name": "Mme DOAMBA BENJAMINE"
     },
     {
+      "birth_date": "1930",
       "family_name": "OUEDRAOGO",
+      "gender": "male",
       "given_name": "L. Bernard",
       "id": "e4ec5694-7acb-430f-9b73-b250091b1778",
+      "identifiers": [
+        {
+          "identifier": "0000 0000 7975 2280",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n91009158",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "084482079",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "51730415",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q822574",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bernard_Lédéa_Ouédraogo"
+        }
+      ],
       "name": "L. Bernard OUEDRAOGO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bernard Lédéa Ouédraogo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "OUEDRAOGO, L. Bernard"
     },
     {
@@ -4798,12 +5309,18 @@
       "name": "Mr BARRY ISSA"
     },
     {
+      "birth_date": "1939-03-23",
+      "death_date": "2014-09-30",
       "gender": "male",
       "id": "eecc837e-115d-4d4c-9542-687248289ce3",
       "identifiers": [
         {
           "identifier": "29",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5643911",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_29.jpg",
@@ -4812,7 +5329,52 @@
           "url": "http://nosdeputes.assembleenationale.bf/deputes/photos/depute_29.jpg"
         }
       ],
-      "name": "Mr DIALLO HAMA ARBA"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/حماة_أربا_ديالو"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hama_Arba_Diallo"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Hama_Arba_Diallo"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Диалло,_Хама"
+        }
+      ],
+      "name": "Mr DIALLO HAMA ARBA",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "حماة أربا ديالو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hama Arba Diallo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хама Диалло",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "阿马·阿尔巴·迪亚洛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿馬·阿爾巴·迪亞洛",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "family_name": "COULIBALY",
@@ -6610,7 +7172,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.assembleenationale.bf"
+      "http://www.assembleenationale.bf",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
