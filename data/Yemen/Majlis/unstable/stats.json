@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 302,
-    "wikidata": 0,
+    "wikidata": 299,
     "latest_term": {
       "count": 302,
-      "wikidata": 0,
+      "wikidata": 299,
       "images": 302,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 0
+        "twitter": 1
       }
     }
   },
@@ -32,5 +32,37 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/ypwatch.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/yemen-ypwatch",
+      "lastmod": "2017-03-24"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/yemen-deputies-wikidata",
+      "lastmod": "2019-01-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2015-12-22"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
