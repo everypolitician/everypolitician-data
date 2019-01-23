@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 171,
-    "wikidata": 0,
+    "wikidata": 10,
     "latest_term": {
       "count": 107,
-      "wikidata": 0,
+      "wikidata": 10,
       "images": 107,
       "contacts": {
         "email": 0,
@@ -32,5 +32,49 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-term-5.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/kazakh-mazhilis",
+      "lastmod": "2017-03-24"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/kazakhstan-mazhilis",
+      "lastmod": "2017-03-29"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/kazakhstan-deputies-wikidata",
+      "lastmod": "2019-01-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-11-01"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-01-14"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-01-14"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }

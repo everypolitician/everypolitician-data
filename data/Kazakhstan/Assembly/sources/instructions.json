@@ -12,18 +12,6 @@
       "sourcetype": "official"
     },
     {
-      "file": "manual/terms.csv",
-      "type": "term"
-    },
-    {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
-      "create": {
-        "from": "gender-balance",
-        "source": "Kazakhstan/Assembly"
-      }
-    },
-    {
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
@@ -38,6 +26,33 @@
       },
       "type": "membership",
       "sourcetype": "official"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/kazakhstan-deputies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name__kk",
+        "existing_field": "name__kk",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "create": {
+        "from": "gender-balance",
+        "source": "Kazakhstan/Assembly"
+      }
     },
     {
       "file": "wikidata/groups.json",
