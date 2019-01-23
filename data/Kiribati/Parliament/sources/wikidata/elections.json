@@ -27,8 +27,11 @@
       }
     ],
     "dates": [
-      "2011"
-    ]
+      "2011-10-28",
+      "2011-10-21"
+    ],
+    "follows": "Kiribati parliamentary election, 2007",
+    "followed_by": "Kiribati parliamentary election, 2015"
   },
   "Q6415117": {
     "identifiers": [
@@ -199,7 +202,8 @@
     ],
     "dates": [
       "2003"
-    ]
+    ],
+    "followed_by": "Kiribati parliamentary election, 2007"
   },
   "Q6415128": {
     "identifiers": [
@@ -223,8 +227,12 @@
       }
     ],
     "dates": [
-      "2007"
-    ]
+      "2007-08-22",
+      "2007-08-30"
+    ],
+    "follows": "Kiribati parliamentary election, 2003",
+    "followed_by": "Kiribati parliamentary election, 2011",
+    "office": "Member of the House of Assembly of Kiribati"
   },
   "Q20647565": {
     "identifiers": [
@@ -269,11 +277,24 @@
         "name": "Парламентские выборы в Кирибати",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones parllamentaries de Kiribati de 2015-2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2015～16年吉里巴斯國會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "2015-12-30",
       "2016-01-07"
-    ]
+    ],
+    "follows": "Kiribati parliamentary election, 2011"
   }
 }
