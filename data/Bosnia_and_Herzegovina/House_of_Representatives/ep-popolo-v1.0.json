@@ -104,6 +104,7 @@
       "sort_name": "Isaković, Mirsad"
     },
     {
+      "birth_date": "1975-03-19",
       "contact_details": [
         {
           "type": "email",
@@ -117,6 +118,10 @@
         {
           "identifier": "253",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12759664",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/stasa%20kosarac.jpg",
@@ -125,10 +130,24 @@
           "url": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/stasa%20kosarac.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Сташа_Кошарац"
+        }
+      ],
       "name": "Staša Košarac",
+      "other_names": [
+        {
+          "lang": "sr",
+          "name": "Сташа Кошарац",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Košarac, Staša"
     },
     {
+      "birth_date": "1977-12-24",
       "contact_details": [
         {
           "type": "email",
@@ -137,17 +156,32 @@
       ],
       "email": "senad.sepic@parlament.ba",
       "gender": "male",
+      "given_name": "Senad",
       "id": "2f8ee28a-4303-45ae-a728-6edc5766d9f1",
       "identifiers": [
         {
           "identifier": "244",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23409790",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/senad%20sepic.jpg",
       "images": [
         {
           "url": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/senad%20sepic.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Senad_Šepić"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Senad_Šepić"
         }
       ],
       "name": "Senad Šepić",
@@ -279,6 +313,7 @@
       "sort_name": "Pandurević, Aleksandra"
     },
     {
+      "birth_date": "1952-01-06",
       "contact_details": [
         {
           "type": "email",
@@ -286,12 +321,49 @@
         }
       ],
       "email": "sefik.dzaferovic@parlament.ba",
+      "family_name": "Halilović",
       "gender": "male",
       "id": "3e5fcc05-84c6-4b3c-9e1b-1313ea8e59ef",
       "identifiers": [
         {
+          "identifier": "236834659",
+          "scheme": "conor"
+        },
+        {
           "identifier": "238",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "489251",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/052qfs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "121148718",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "106281",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "0000 0000 6656 0677",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2003034424",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "95103055",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1285208",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/sefik%20dzaferovic.jpg",
@@ -300,7 +372,85 @@
           "url": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/sefik%20dzaferovic.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Халилович,_Сефер"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Сефер_Халиловић"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Sefer_Halilović"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Сефер_Халілович"
+        },
+        {
+          "note": "Wikiquote (bs)",
+          "url": "https://bs.wikiquote.org/wiki/Sefer_Halilović"
+        }
+      ],
       "name": "Šefik Džaferović",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sefer Halilović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サフェル・ハリロヴィッチ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Халилович, Сефер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Сефер Халиловић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Сефер Халиловић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Сефер Халілович",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Džaferović, Šefik"
     },
     {
@@ -604,6 +754,7 @@
       "sort_name": "Vukovljak, Jovan"
     },
     {
+      "birth_date": "1975-11-28",
       "contact_details": [
         {
           "type": "email",
@@ -612,17 +763,44 @@
       ],
       "email": "denis.becirovic@parlament.ba",
       "gender": "male",
+      "given_name": "Denis",
       "id": "a0432c87-1771-466e-b329-5f549451dd38",
       "identifiers": [
         {
           "identifier": "274",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 0765 0987",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "160340890",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q13081568",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/denis%20becirovic.jpg",
       "images": [
         {
           "url": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/denis%20becirovic.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Denis_Bećirović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Denis_Bećirović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Denis_Bećirović"
         }
       ],
       "name": "Denis Bećirović",
@@ -654,6 +832,7 @@
       "sort_name": "Škaljić, Fehim"
     },
     {
+      "birth_date": "1969-11-29",
       "contact_details": [
         {
           "type": "email",
@@ -667,12 +846,22 @@
         {
           "identifier": "277",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23418890",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/jasmin%20emric.jpg",
       "images": [
         {
           "url": "https://www.parlament.ba/mandat_2014_2018/poslanici/pics/jasmin%20emric.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jasmin_Emrić"
         }
       ],
       "name": "Jasmin Emrić",
@@ -2255,7 +2444,8 @@
   ],
   "meta": {
     "sources": [
-      "https://www.parlament.ba"
+      "https://www.parlament.ba",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [

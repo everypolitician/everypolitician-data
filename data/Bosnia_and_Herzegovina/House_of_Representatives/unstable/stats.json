@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 42,
-    "wikidata": 0,
+    "wikidata": 5,
     "latest_term": {
       "count": 42,
-      "wikidata": 0,
+      "wikidata": 5,
       "images": 42,
       "contacts": {
         "email": 42,
@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/BiH-assembly",
+      "lastmod": "2017-03-24"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/bosnia-herzegovina-deputies-wikidata",
+      "lastmod": "2019-01-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-03-21"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-03-03"
+    }
+  ]
 }
