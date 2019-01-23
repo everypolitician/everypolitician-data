@@ -68,6 +68,21 @@
       "sourcetype": "pmo"
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/burkina-faso-deputies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },

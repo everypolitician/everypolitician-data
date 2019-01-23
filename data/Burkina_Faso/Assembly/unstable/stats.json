@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 476,
-    "wikidata": 0,
+    "wikidata": 14,
     "latest_term": {
       "count": 127,
-      "wikidata": 0,
+      "wikidata": 2,
       "images": 127,
       "contacts": {
         "email": 18,
@@ -63,6 +63,12 @@
       "type": "membership",
       "scraper": "tmtmtmtm/burkina-faso-historic",
       "lastmod": "2016-05-30"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/burkina-faso-deputies-wikidata",
+      "lastmod": "2019-01-23"
     },
     {
       "file": "manual/terms.csv",
