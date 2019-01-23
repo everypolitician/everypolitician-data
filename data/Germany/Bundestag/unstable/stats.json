@@ -9,7 +9,7 @@
       "contacts": {
         "email": 1,
         "facebook": 490,
-        "twitter": 314
+        "twitter": 316
       }
     }
   },
@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 97
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/germany-bundestag-members-wikipedia",
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/sparql.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/germany-bundestag-sparql",
+      "lastmod": "2017-09-30"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/germany-bundestag-members-wikidata",
+      "lastmod": "2019-01-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-09-30"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-04-01"
+    },
+    {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/germany-positions",
+      "lastmod": "2018-05-30"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-08-22"
+    }
+  ]
 }
