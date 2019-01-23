@@ -37,8 +37,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
+        "incoming_field": "name__ru",
+        "existing_field": "name__ru",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
