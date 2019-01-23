@@ -1,11 +1,11 @@
 {
   "people": {
     "count": 250,
-    "wikidata": 0,
+    "wikidata": 8,
     "latest_term": {
       "count": 250,
-      "wikidata": 0,
-      "images": 0,
+      "wikidata": 8,
+      "images": 3,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/mozambique-assembleia",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/mozambique-deputies-wikidata",
+      "lastmod": "2019-01-23"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-03-05"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-01-13"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
