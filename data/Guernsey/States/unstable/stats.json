@@ -32,5 +32,61 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "archive/official-2016.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/guernsey-2016",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/guernsey-states-wikidata",
+      "lastmod": "2016-11-11"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-05-28"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2016-11-11"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2016-07-07"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
