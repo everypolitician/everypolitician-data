@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 538,
-    "wikidata": 0
+    "wikidata": 536
   },
   "elections": {
     "count": 22,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/india-lok-sabha-wikidata",
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-01-24"
     },
     {
       "file": "morph/terms.csv",
@@ -57,6 +57,12 @@
       "type": "person",
       "scraper": "everypolitician-scrapers/india-lok-sabha-gender-balance",
       "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/india-lok-sabha-constituencies-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/cabinet.csv",
