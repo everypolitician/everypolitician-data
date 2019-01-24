@@ -884,6 +884,7 @@
     {
       "birth_date": "1986-07-16",
       "gender": "female",
+      "given_name": "Muriel",
       "id": "788123d5-6e04-4658-9395-d6edd9b7d357",
       "identifiers": [
         {
@@ -902,6 +903,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Muriel_Cruz"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Muriel_Cruz"
@@ -986,6 +991,12 @@
     },
     {
       "birth_date": "1975-12-02",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "gabrielascz"
+        }
+      ],
       "gender": "female",
       "given_name": "Gabriela",
       "id": "7de3946c-93e6-41e7-8d52-8661f049961b",
@@ -1003,15 +1014,24 @@
       "images": [
         {
           "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/montanio.vl.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gabriela_Montaño_Viaña_como_Presidenta_Interina_del_Estado_Plurinacional_de_Bolivia.png"
         }
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Gabriela_Montaño"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gabriela_Montaño"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Gabriela_Montaño"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/gabrielascz"
         }
       ],
       "name": "Lilly Gabriela Montaño Viaña",
@@ -2413,6 +2433,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ca",
+          "name": "Moviment al Socialisme",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pt",
           "name": "Movimento Al Socialismo",
           "note": "multilingual",
@@ -2505,6 +2531,12 @@
         {
           "lang": "en",
           "name": "MAS-IPSP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "cs",
+          "name": "Movimiento al Socialismo (MAS)",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
