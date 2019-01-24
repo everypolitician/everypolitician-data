@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/us-congress-members",
-        "query": "SELECT *, NULL AS district, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'rep' ORDER BY id"
+        "query": "SELECT *, NULL AS district, ocd_id AS area_id, CASE WHEN end_date > date('now') THEN '' ELSE end_date END AS end_date FROM data WHERE house = 'rep' AND term != '116' ORDER BY id"
       },
       "source": "https://github.com/unitedstates/congress-legislators",
       "type": "membership",
