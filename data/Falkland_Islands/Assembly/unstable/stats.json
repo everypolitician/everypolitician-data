@@ -28,9 +28,59 @@
   },
   "elections": {
     "count": 19,
-    "latest": "2017"
+    "latest": "2017-11-09"
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/falkland-islands",
+      "lastmod": "2016-12-23"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/falkland-islands-assembly",
+      "lastmod": "2017-02-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/falkland-islands-representatives-wikidata",
+      "lastmod": "2018-08-24"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-07-04"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-12-15"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2016-11-12"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-07-17"
+    }
+  ]
 }
