@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 42,
-    "wikidata": 5,
+    "wikidata": 6,
     "latest_term": {
       "count": 42,
-      "wikidata": 5,
+      "wikidata": 6,
       "images": 42,
       "contacts": {
         "email": 42,
@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 9,
-    "latest": "2014-10-12"
+    "count": 10,
+    "latest": "2018-10-07"
   },
   "positions": {
     "cabinet": 0
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/bosnia-herzegovina-deputies-wikidata",
-      "lastmod": "2019-01-23"
+      "lastmod": "2019-01-24"
     },
     {
       "file": "manual/terms.csv",
@@ -62,13 +62,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2017-10-07"
+      "lastmod": "2019-01-24"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2017-03-03"
+      "lastmod": "2019-01-24"
     }
   ]
 }
