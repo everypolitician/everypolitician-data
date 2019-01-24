@@ -4,11 +4,6 @@
   ],
   "persons": [
     {
-      "gender": "male",
-      "id": "00573e80-76c3-4f15-8aa7-aa2b35602b3d",
-      "name": "Lars Emil Johansen"
-    },
-    {
       "birth_date": "1947-05-06",
       "family_name": "Rasmussen",
       "gender": "female",
@@ -1837,8 +1832,15 @@
       ]
     },
     {
+      "birth_date": "1947-09-27",
       "gender": "female",
       "id": "1999f15a-d488-42ac-9525-c4b049e7929c",
+      "identifiers": [
+        {
+          "identifier": "Q60670080",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Eva Fatum"
     },
     {
@@ -16160,9 +16162,35 @@
       "name": "Helge Adam Møller"
     },
     {
+      "birth_date": "1944-02-01",
+      "family_name": "Christiansen",
       "gender": "male",
+      "given_name": "Per",
       "id": "8064b2b2-6200-4c6a-8278-22be7cba6f0f",
-      "name": "Per Dalgaard"
+      "identifiers": [
+        {
+          "identifier": "Q12331302",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Per_Dalgaard_Christiansen"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Per_Dalgaard_Christiansen"
+        }
+      ],
+      "name": "Per Dalgaard",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Per Dalgaard Christiansen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1984-07-29",
@@ -17778,8 +17806,21 @@
       "name": "Trine Bramsen"
     },
     {
+      "birth_date": "1930-07-21",
       "gender": "male",
       "id": "8f6649b6-56b3-4254-80b5-42e0ef766bb8",
+      "identifiers": [
+        {
+          "identifier": "Q57409822",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Svend_Taanquist"
+        }
+      ],
       "name": "Svend Taanquist"
     },
     {
@@ -22480,6 +22521,7 @@
       "name": "Kirsten Brosbøl"
     },
     {
+      "birth_date": "1951",
       "family_name": "Josefsen",
       "gender": "female",
       "given_name": "Birgitte",
@@ -40193,13 +40235,6 @@
   },
   "memberships": [
     {
-      "legislative_period_id": "term/2001",
-      "on_behalf_of_id": "SIU",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "00573e80-76c3-4f15-8aa7-aa2b35602b3d",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -43455,6 +43490,13 @@
           "url": "http://www.thedanishparliament.dk/Members/alttoge.aspx"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/2001",
+      "on_behalf_of_id": "SIU",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "4c9a4903-77d0-4c10-9fba-edbe94b5d416",
+      "role": "member"
     },
     {
       "legislative_period_id": "term/2005",
