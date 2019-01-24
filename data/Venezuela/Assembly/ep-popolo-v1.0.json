@@ -7256,7 +7256,33 @@
     {
       "classification": "party",
       "id": "20",
-      "name": "APC"
+      "identifiers": [
+        {
+          "identifier": "Q20829892",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "APC",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Alianza para el Cambio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "Alliance for Change",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "APC",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
