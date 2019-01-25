@@ -2144,12 +2144,21 @@
       ]
     },
     {
+      "birth_date": "1962-01-01",
       "gender": "male",
       "id": "3b5ee371-234a-40f0-bbcd-8d55e90559d3",
       "identifiers": [
         {
           "identifier": "178",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/11b6b4z2yw",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q12219876",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.ypwatch.org/upimages/members/178.jpg",
@@ -2158,7 +2167,25 @@
           "url": "http://www.ypwatch.org/upimages/members/178.jpg"
         }
       ],
-      "name": "صخر احمد عباس احمد الوجيه"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/صخر_الوجية"
+        }
+      ],
+      "name": "صخر احمد عباس احمد الوجيه",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "صخر الوجية",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sakhr Al Wajih",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964",
@@ -14600,7 +14627,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2017",
+      "end_date": "2019",
       "id": "Q8052129",
       "identifiers": [
         {
@@ -14608,8 +14635,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Yemeni parliamentary election, 2017",
-      "start_date": "2017"
+      "name": "Yemeni parliamentary election, 2019",
+      "start_date": "2009-04-27"
     }
   ],
   "areas": [
