@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 226,
-    "wikidata": 65,
+    "wikidata": 67,
     "latest_term": {
       "count": 226,
-      "wikidata": 65,
+      "wikidata": 67,
       "images": 226,
       "contacts": {
         "email": 0,
-        "facebook": 3,
-        "twitter": 3
+        "facebook": 5,
+        "twitter": 19
       }
     }
   },
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/tunisia-marsad-wikidata",
-      "lastmod": "2018-11-19"
+      "lastmod": "2019-01-25"
     },
     {
       "file": "morph/terms.csv",
@@ -68,19 +68,19 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-10-16"
+      "lastmod": "2019-01-25"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "scraper": null,
-      "lastmod": "2018-11-19"
+      "lastmod": "2019-01-25"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-11-19"
+      "lastmod": "2018-11-26"
     }
   ]
 }
