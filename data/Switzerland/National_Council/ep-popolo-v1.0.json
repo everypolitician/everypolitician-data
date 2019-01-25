@@ -6975,6 +6975,35 @@
       "sort_name": "Stamm, Luzi"
     },
     {
+      "birth_date": "1994-01-23",
+      "family_name": "Marti",
+      "gender": "female",
+      "given_name": "Samira",
+      "id": "2122238d-1ee4-4325-b4f6-f2d4001e1a9a",
+      "identifiers": [
+        {
+          "identifier": "4228",
+          "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q59615268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Samira_Marti"
+        },
+        {
+          "note": "website",
+          "url": "https://www.samira-marti.ch/"
+        }
+      ],
+      "name": "Samira Marti",
+      "sort_name": "Marti, Samira"
+    },
+    {
       "birth_date": "1924-07-30",
       "family_name": "Gloor",
       "gender": "male",
@@ -37965,6 +37994,21 @@
       "sort_name": "Jacquod, René"
     },
     {
+      "birth_date": "1992-08-02",
+      "family_name": "Egger",
+      "gender": "male",
+      "given_name": "Mike",
+      "id": "aedac842-deae-4573-93fa-e37efd2b8ade",
+      "identifiers": [
+        {
+          "identifier": "4229",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Mike Egger",
+      "sort_name": "Egger, Mike"
+    },
+    {
       "birth_date": "1941-10-07",
       "family_name": "Columberg",
       "gender": "male",
@@ -49184,6 +49228,21 @@
       ],
       "name": "Markus Zemp",
       "sort_name": "Zemp, Markus"
+    },
+    {
+      "birth_date": "1978-07-07",
+      "family_name": "Bregy",
+      "gender": "male",
+      "given_name": "Philipp Matthias",
+      "id": "e0f39484-6f85-4c93-81ae-54917469ffc3",
+      "identifiers": [
+        {
+          "identifier": "4230",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Philipp Matthias Bregy",
+      "sort_name": "Bregy, Philipp Matthias"
     },
     {
       "birth_date": "1929-10-10",
@@ -61277,6 +61336,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=214"
         }
       ]
+    },
+    {
+      "area_id": "BL",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "2122238d-1ee4-4325-b4f6-f2d4001e1a9a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4228"
+        }
+      ],
+      "start_date": "2018-12-10"
     },
     {
       "area_id": "VD",
@@ -76879,6 +76952,7 @@
     },
     {
       "area_id": "SG",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -83522,6 +83596,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=2406"
         }
       ]
+    },
+    {
+      "area_id": "SG",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "aedac842-deae-4573-93fa-e37efd2b8ade",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4229"
+        }
+      ],
+      "start_date": "2019-03-04"
     },
     {
       "area_id": "GR",
@@ -91790,6 +91878,20 @@
       ]
     },
     {
+      "area_id": "VS",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "3",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "e0f39484-6f85-4c93-81ae-54917469ffc3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4230"
+        }
+      ],
+      "start_date": "2019-03-04"
+    },
+    {
       "area_id": "BL",
       "legislative_period_id": "term/39",
       "on_behalf_of_id": "4",
@@ -96780,6 +96882,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2018-12-31",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
