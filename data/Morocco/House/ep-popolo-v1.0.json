@@ -298,12 +298,25 @@
     },
     {
       "family_name": "Elkohli",
+      "gender": "female",
       "given_name": "Loubna",
       "id": "0585f92f-8dff-4126-af64-20da55f79861",
+      "identifiers": [
+        {
+          "identifier": "Q50887057",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_361.jpg?itok=sQRQG4Ie",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_361.jpg?itok=sQRQG4Ie"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Loubna_El_Kohli"
         }
       ],
       "name": "Loubna Elkohli",
@@ -589,14 +602,30 @@
       "gender": "female",
       "given_name": "Hajar",
       "id": "08e6e980-44f7-4181-9026-c795545a6133",
+      "identifiers": [
+        {
+          "identifier": "Q56304104",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-1333-1490783817.jpg?itok=dO_JZlZA",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-1333-1490783817.jpg?itok=dO_JZlZA"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hajar_El_Masqi"
+        }
+      ],
       "name": "Hajar Elmaski",
       "other_names": [
+        {
+          "name": "Hajar El Masqi",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "هاجر المسقي",
@@ -605,6 +634,11 @@
         {
           "lang": "en",
           "name": "HAJAR ELMASQI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hajar El Masqi",
           "note": "multilingual"
         }
       ],
@@ -1980,10 +2014,22 @@
       "gender": "female",
       "given_name": "Ibtissam",
       "id": "182cd22f-8ae9-4044-b384-239ad83bb7b3",
+      "identifiers": [
+        {
+          "identifier": "Q56304161",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_343.jpg?itok=jNozKM7m",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_343.jpg?itok=jNozKM7m"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ibtissam_Merras"
         }
       ],
       "name": "Ibtissam Meras",
@@ -2643,10 +2689,22 @@
       "gender": "female",
       "given_name": "Saadia",
       "id": "231b24dd-2c19-463d-a21d-8ad22b88a068",
+      "identifiers": [
+        {
+          "identifier": "Q56304102",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_344.jpg?itok=KAsEw75t",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_344.jpg?itok=KAsEw75t"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Saadia_Benshili"
         }
       ],
       "name": "Saadia Bensahli",
@@ -3646,10 +3704,22 @@
       "family_name": "Boukir",
       "given_name": "Amal",
       "id": "3132b7fa-65e8-4ea2-b7b1-32b6a9e6d5b6",
+      "identifiers": [
+        {
+          "identifier": "Q56304128",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_50.jpg?itok=GyI2fvj0",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_50.jpg?itok=GyI2fvj0"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Amal_Boukir"
         }
       ],
       "name": "Amal Boukir",
@@ -6271,10 +6341,22 @@
       "gender": "female",
       "given_name": "Souad",
       "id": "4ff61875-24e2-4fc8-8c90-cabf52616e76",
+      "identifiers": [
+        {
+          "identifier": "Q50887078",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_311.jpg?itok=-DGABEui",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_311.jpg?itok=-DGABEui"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Souad_Lamari"
         }
       ],
       "name": "Souad Lomari",
@@ -7714,17 +7796,38 @@
       "gender": "female",
       "given_name": "Khadija",
       "id": "657d3772-fdb0-4256-b8ee-87ac2f192749",
+      "identifiers": [
+        {
+          "identifier": "Q56304113",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_335.jpg?itok=I255iDwr",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_335.jpg?itok=I255iDwr"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khadija_Ziani"
+        }
+      ],
       "name": "Khadija Ziyani",
       "other_names": [
         {
+          "name": "Khadija Ziani",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "خديجة الزياني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Khadija Ziani",
           "note": "multilingual"
         }
       ],
@@ -9485,10 +9588,22 @@
       "family_name": "Bersat",
       "given_name": "Fatima Ezzahra",
       "id": "80c6eee2-0ab0-4b26-9705-2e84601e0868",
+      "identifiers": [
+        {
+          "identifier": "Q56304117",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_374.jpg?itok=OIcQCEE2",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_374.jpg?itok=OIcQCEE2"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fatima_Zahra_Barassat"
         }
       ],
       "name": "Fatima Ezzahra Bersat",
@@ -9835,12 +9950,25 @@
     },
     {
       "family_name": "Rihab",
+      "gender": "female",
       "given_name": "Hanane",
       "id": "8569ca66-f7da-46bf-b24c-e866e26ccbf8",
+      "identifiers": [
+        {
+          "identifier": "Q50887064",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_379.jpg?itok=8KuzP62f",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_379.jpg?itok=8KuzP62f"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hanane_Rahhab"
         }
       ],
       "name": "Hanane Rihab",
@@ -11931,10 +12059,22 @@
       "gender": "female",
       "given_name": "Aziza",
       "id": "9fa7742d-9e61-4db4-96fe-cd6948560de3",
+      "identifiers": [
+        {
+          "identifier": "Q56304141",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_303.jpg?itok=cXhx0DAt",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_303.jpg?itok=cXhx0DAt"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aziza_Chagaf"
         }
       ],
       "name": "Aziza Cheggaf",
@@ -12227,10 +12367,22 @@
       "gender": "female",
       "given_name": "Hakima",
       "id": "a30baf8d-26f6-4cfd-9e0b-fbb312452a95",
+      "identifiers": [
+        {
+          "identifier": "Q50887070",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_339.jpg?itok=Uqd67IV6",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_339.jpg?itok=Uqd67IV6"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hakima_Bel-Kassaoui"
         }
       ],
       "name": "Hakima Bel Qsaoui",
@@ -12321,7 +12473,7 @@
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-1110-1518522236.jpg?itok=KfF3Qg3a"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Abdelwahed_Radi.png"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abdelwahed_Radi_-_2012_(cropped).jpg"
         }
       ],
       "links": [
@@ -14829,10 +14981,22 @@
       "gender": "female",
       "given_name": "Majda",
       "id": "cb91882a-0588-4272-8fb2-89a2ef96fe83",
+      "identifiers": [
+        {
+          "identifier": "Q50406908",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_308.jpg?itok=P2P3TxTt",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_308.jpg?itok=P2P3TxTt"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Majda_Benarbia"
         }
       ],
       "name": "Majda Benarbia",
@@ -15016,19 +15180,51 @@
     },
     {
       "family_name": "Chaabi",
+      "gender": "male",
       "given_name": "Faouzi",
       "id": "cc4e7115-3646-4abf-bef8-77809b032f81",
+      "identifiers": [
+        {
+          "identifier": "Q27962429",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-1093-1492786624.jpg?itok=zBorpdvU",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-1093-1492786624.jpg?itok=zBorpdvU"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Faouzi_Chaâbi"
+        }
+      ],
       "name": "Faouzi Chaabi",
       "other_names": [
         {
+          "name": "Faouzi Chaâbi",
+          "note": "alternate"
+        },
+        {
           "lang": "ar",
           "name": "فوزي الشعبي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Faouzi Chaâbi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Faouzi Chaâbi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Faouzi Chaâbi",
           "note": "multilingual"
         }
       ],
@@ -17442,10 +17638,22 @@
       "gender": "female",
       "given_name": "Ghita",
       "id": "f5fdb1e9-48d2-432e-b1dc-aaddeaa94cad",
+      "identifiers": [
+        {
+          "identifier": "Q56304130",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_342.jpg?itok=MErFH-SL",
       "images": [
         {
           "url": "http://www.chambredesrepresentants.ma/sites/default/files/styles/thumbnail/public/pictures/picture-_342.jpg?itok=MErFH-SL"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rita_Hatimi"
         }
       ],
       "name": "Ghita El Hatimi",
@@ -17487,7 +17695,7 @@
       ]
     },
     {
-      "birth_date": "1973",
+      "birth_date": "1976-01",
       "family_name": "El Mansouri",
       "gender": "female",
       "given_name": "Fatima",
