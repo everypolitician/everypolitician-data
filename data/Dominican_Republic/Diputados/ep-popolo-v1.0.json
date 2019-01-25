@@ -3471,12 +3471,46 @@
     {
       "classification": "party",
       "id": "apd",
-      "name": "APD"
+      "identifiers": [
+        {
+          "identifier": "Q4732357",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "APD",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alliance for Democracy",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "民主聯盟 (多明尼加共和國)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "bis",
-      "name": "BIS"
+      "identifiers": [
+        {
+          "identifier": "Q6041172",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "BIS",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Institutional Social Democratic Bloc",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "legislature",
@@ -3494,12 +3528,94 @@
     {
       "classification": "party",
       "id": "fnp",
-      "name": "FNP"
+      "identifiers": [
+        {
+          "identifier": "Q1472838",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://fuerzanacionalprogresista.blogspot.com/"
+        }
+      ],
+      "name": "FNP",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Fuerza Nacional Progressista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "National Progressive Force",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Fuerza Nacional Progresista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "國家進步力量",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ja",
+          "name": "全国進歩軍",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "miuca",
-      "name": "MIUCA"
+      "identifiers": [
+        {
+          "identifier": "Q6926665",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://soyfrenteamplio.com/"
+        }
+      ],
+      "name": "MIUCA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Movement for Independence, Unity and Change",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Independencia, Unidad y Cambio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Independencia Unidad y Cambio",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "MIUCA",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -3628,6 +3744,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "be",
+          "name": "Дамініканская партыя вызвалення",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fr",
           "name": "Parti de la liberation dominicaine",
           "note": "multilingual",
@@ -3668,7 +3790,21 @@
     {
       "classification": "party",
       "id": "ppc",
-      "name": "PPC"
+      "identifiers": [
+        {
+          "identifier": "Q5110020",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "PPC",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christian People's Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
