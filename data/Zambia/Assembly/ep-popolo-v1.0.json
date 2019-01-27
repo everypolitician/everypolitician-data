@@ -1409,7 +1409,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-24",
+      "birth_date": "1954-01-29",
       "gender": "male",
       "given_name": "Mathew",
       "id": "42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
@@ -1431,7 +1431,14 @@
           "url": "https://de.wikipedia.org/wiki/Mathew_Nkhuwa"
         }
       ],
-      "name": "Mathew Nkhuwa"
+      "name": "Matthew Nkhuwa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mathew Nkhuwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-02-15",
@@ -5261,6 +5268,10 @@
       "name": "Leaky Kintu"
     },
     {
+      "id": "cecd96c0-c55e-4887-8c32-cd41839da39e",
+      "name": "Goodwin Putu"
+    },
+    {
       "birth_date": "1970-03-08",
       "gender": "male",
       "id": "cefc0485-5ce9-4ea4-87e6-ab88e32bc0be",
@@ -5775,6 +5786,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "de0851b5-f1d7-472b-985a-68479fe04f6e",
+      "name": "Raphael Nakachinda"
     },
     {
       "birth_date": "1972-12-22",
@@ -11428,6 +11443,19 @@
       ]
     },
     {
+      "area_id": "mangango",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "PF",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "cecd96c0-c55e-4887-8c32-cd41839da39e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7863"
+        }
+      ]
+    },
+    {
       "area_id": "kapoche",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "MMD",
@@ -11736,6 +11764,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/node/5528"
+        }
+      ]
+    },
+    {
+      "area_id": "nominated",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "MMD",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "de0851b5-f1d7-472b-985a-68479fe04f6e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7858"
         }
       ]
     },
