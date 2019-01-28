@@ -4155,10 +4155,6 @@
       "id": "11b9faa5-49c7-4d13-b69a-f7769f02b4e5",
       "identifiers": [
         {
-          "identifier": "XX5200762",
-          "scheme": "bne"
-        },
-        {
           "identifier": "96613219",
           "scheme": "conor"
         },
@@ -9451,6 +9447,11 @@
           "lang": "pt",
           "name": "Renata Eitelwein Bueno",
           "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Renata Eitelwein Bueno",
+          "note": "multilingual"
         }
       ]
     },
@@ -9909,10 +9910,6 @@
       "given_name": "Paola",
       "id": "32fdd9f3-b998-466e-89ec-158fa3f013a2",
       "identifiers": [
-        {
-          "identifier": "XX5486171",
-          "scheme": "bne"
-        },
         {
           "identifier": "302190",
           "scheme": "everypolitician_legacy"
@@ -10989,10 +10986,6 @@
       "given_name": "Carlo",
       "id": "398bb60f-54f5-4f09-bf65-da4ece629e2e",
       "identifiers": [
-        {
-          "identifier": "XX1278235",
-          "scheme": "bne"
-        },
         {
           "identifier": "a10872048",
           "scheme": "cantic"
@@ -16262,10 +16255,6 @@
           "scheme": "bibsys"
         },
         {
-          "identifier": "XX870220",
-          "scheme": "bne"
-        },
-        {
           "identifier": "185285731",
           "scheme": "conor"
         },
@@ -16312,10 +16301,6 @@
         {
           "identifier": "1133295",
           "scheme": "nlatrove"
-        },
-        {
-          "identifier": "000026977",
-          "scheme": "nli"
         },
         {
           "identifier": "072351640",
@@ -22652,10 +22637,6 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "004608174",
-          "scheme": "nli"
-        },
-        {
           "identifier": "000469334",
           "scheme": "nsk"
         },
@@ -22963,7 +22944,7 @@
         },
         {
           "note": "Wikipedia (co)",
-          "url": "https://co.wikipedia.org/wiki/Matteu_Salvini"
+          "url": "https://co.wikipedia.org/wiki/Matteo_Salvini"
         },
         {
           "note": "Wikipedia (cs)",
@@ -29944,10 +29925,6 @@
         {
           "identifier": "67233",
           "scheme": "allocine"
-        },
-        {
-          "identifier": "XX4839456",
-          "scheme": "bne"
         },
         {
           "identifier": "100935",
@@ -42631,10 +42608,6 @@
           "scheme": "bav"
         },
         {
-          "identifier": "XX941397",
-          "scheme": "bne"
-        },
-        {
           "identifier": "305532",
           "scheme": "everypolitician_legacy"
         },
@@ -45433,6 +45406,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1026092418",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0003 7532 6454",
           "scheme": "isni"
         },
@@ -45441,8 +45418,16 @@
           "scheme": "italian_cod"
         },
         {
+          "identifier": "no2012105283",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "686772",
           "scheme": "openpolis"
+        },
+        {
+          "identifier": "251662420",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q8262071",
@@ -49708,10 +49693,6 @@
       "given_name": "Nicola",
       "id": "e9553b7c-d6ae-454a-8892-6c45366ff273",
       "identifiers": [
-        {
-          "identifier": "XX5167011",
-          "scheme": "bne"
-        },
         {
           "identifier": "a11418321",
           "scheme": "cantic"
@@ -56153,6 +56134,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrea_Ferro_(politician)"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Andrea_Ferro_(politico)"
@@ -75136,6 +75121,19 @@
       ],
       "name": "Italian general election, 2018",
       "start_date": "2018-03-04"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-05-26",
+      "id": "Q60870761",
+      "identifiers": [
+        {
+          "identifier": "Q60870761",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2018 Italian by-elections",
+      "start_date": "2019-01-20"
     }
   ],
   "areas": [
