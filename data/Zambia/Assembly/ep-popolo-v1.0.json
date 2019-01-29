@@ -1185,6 +1185,10 @@
       "name": "Fackson Shamenda"
     },
     {
+      "id": "37a8564c-f8b1-4e84-8505-efaec2ce4543",
+      "name": "Goodwin Putu"
+    },
+    {
       "birth_date": "1974-11-25",
       "death_date": "2018-08-28",
       "gender": "male",
@@ -1409,7 +1413,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-24",
+      "birth_date": "1954-01-29",
       "gender": "male",
       "given_name": "Mathew",
       "id": "42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
@@ -1431,7 +1435,14 @@
           "url": "https://de.wikipedia.org/wiki/Mathew_Nkhuwa"
         }
       ],
-      "name": "Mathew Nkhuwa"
+      "name": "Matthew Nkhuwa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mathew Nkhuwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-02-15",
@@ -4798,6 +4809,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "b603d2c1-60c8-4708-bfdd-821639bc89ec",
+      "name": "Raphael Nakachinda"
     },
     {
       "birth_date": "1947-11-06",
@@ -9025,6 +9040,19 @@
     {
       "area_id": "mangango",
       "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "PF",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "37a8564c-f8b1-4e84-8505-efaec2ce4543",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7863"
+        }
+      ]
+    },
+    {
+      "area_id": "mangango",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "UPND",
       "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
       "person_id": "381817ff-3780-4ca0-865d-82911fcffdaa",
@@ -11164,6 +11192,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/node/3754"
+        }
+      ]
+    },
+    {
+      "area_id": "nominated",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "MMD",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "b603d2c1-60c8-4708-bfdd-821639bc89ec",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7858"
         }
       ]
     },
