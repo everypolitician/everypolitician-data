@@ -1,29 +1,29 @@
 {
   "people": {
-    "count": 171,
+    "count": 285,
     "wikidata": 59,
     "latest_term": {
-      "count": 171,
-      "wikidata": 59,
-      "images": 171,
+      "count": 170,
+      "wikidata": 17,
+      "images": 165,
       "contacts": {
-        "email": 0,
-        "facebook": 11,
-        "twitter": 5
+        "email": 169,
+        "facebook": 3,
+        "twitter": 2
       }
     }
   },
   "groups": {
-    "count": 14,
+    "count": 30,
     "wikidata": 13
   },
   "terms": {
-    "count": 1,
-    "latest": "2014-07-20",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2018-07-20",
+    "wikidata": 2
   },
   "areas": {
-    "count": 36,
+    "count": 52,
     "wikidata": 0
   },
   "elections": {
@@ -39,6 +39,12 @@
       "type": "membership",
       "scraper": null,
       "lastmod": "2019-01-29"
+    },
+    {
+      "file": "morph/official-2018.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/colombia-representantes",
+      "lastmod": null
     },
     {
       "file": "morph/wikidata.csv",
