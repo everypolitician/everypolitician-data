@@ -31,7 +31,7 @@ module Source
           identifiers:    row[:wikidata].to_s.empty? ? nil : [{
             scheme:     'wikidata',
             identifier: row[:wikidata],
-          },],
+          }],
           classification: 'legislative period',
         }.reject { |_, v| v.to_s.empty? }
       end
