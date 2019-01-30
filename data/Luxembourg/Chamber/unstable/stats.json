@@ -7,7 +7,7 @@
       "wikidata": 63,
       "images": 63,
       "contacts": {
-        "email": 63,
+        "email": 0,
         "facebook": 41,
         "twitter": 35
       }
@@ -20,7 +20,7 @@
   "terms": {
     "count": 1,
     "latest": "2013-11-13",
-    "wikidata": 0
+    "wikidata": 1
   },
   "areas": {
     "count": 0,
@@ -44,13 +44,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/luxembourg-chamber-of-deputies-wikidata",
-      "lastmod": "2019-01-28"
+      "lastmod": "2019-01-30"
     },
     {
-      "file": "manual/terms.csv",
+      "file": "morph/terms.csv",
       "type": "term",
-      "scraper": null,
-      "lastmod": "2016-12-15"
+      "scraper": "everypolitician-scrapers/luxembourg-chamber-of-deputies-terms-wikidata",
+      "lastmod": "2019-01-30"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -62,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-01-30"
     },
     {
       "file": "morph/cabinet.csv",
