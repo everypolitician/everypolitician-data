@@ -37,6 +37,29 @@
       }
     }
   ],
+  "Q29577454": [
+    {
+      "id": "Q19286411",
+      "label": "Member of the Constituent National Assembly",
+      "title": "Member of the Constituent National Assembly",
+      "description": "member of the Tunisian constituent assembly",
+      "qualifiers": {
+        "P2715": "Tunisian Constituent Assembly election, 2011",
+        "P580": "2011-11-22",
+        "P582": "2014-12-02"
+      }
+    },
+    {
+      "id": "Q29169698",
+      "label": "Member of the Assembly of the Representatives of the People",
+      "title": "Member of the Assembly of the Representatives of the People",
+      "description": "member of the Tunisian parliament",
+      "qualifiers": {
+        "P580": "2014-12-02",
+        "P2715": "Tunisian parliamentary election, 2014"
+      }
+    }
+  ],
   "Q21511555": [
     {
       "id": "Q29169698",
@@ -729,6 +752,33 @@
         "P580": "2014-12-02",
         "P768": null,
         "P2715": "Tunisian parliamentary election, 2014"
+      }
+    }
+  ],
+  "Q29577510": [
+    {
+      "id": "Q29169698",
+      "label": "Member of the Assembly of the Representatives of the People",
+      "title": "Member of the Assembly of the Representatives of the People",
+      "description": "member of the Tunisian parliament",
+      "qualifiers": {
+        "P580": "2014-12-02",
+        "P582": "2018-11-30",
+        "P768": null,
+        "P2715": "Tunisian parliamentary election, 2014",
+        "P1366": "Hajer Triki"
+      }
+    },
+    {
+      "id": "Q19286411",
+      "label": "Member of the Constituent National Assembly",
+      "title": "Member of the Constituent National Assembly",
+      "description": "member of the Tunisian constituent assembly",
+      "qualifiers": {
+        "P580": "2011-11-22",
+        "P582": "2014-12-02",
+        "P768": null,
+        "P2715": "Tunisian Constituent Assembly election, 2011"
       }
     }
   ],
