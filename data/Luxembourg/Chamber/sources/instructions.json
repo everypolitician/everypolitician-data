@@ -7,6 +7,22 @@
       "sourcetype": "official"
     },
     {
+      "file": "morph/official-2018.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/luxembourg-chamber-of-deputies",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-2018.csv"
+      },
+      "source": "http://www.chd.lu",
+      "type": "membership",
+      "sourcetype": "official"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
