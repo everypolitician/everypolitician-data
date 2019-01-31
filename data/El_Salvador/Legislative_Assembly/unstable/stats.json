@@ -7,7 +7,7 @@
       "wikidata": 0,
       "images": 84,
       "contacts": {
-        "email": 84,
+        "email": 0,
         "facebook": 0,
         "twitter": 56
       }
@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/official-2015.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2019-01-31"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2019-01-31"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2018-05-31"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-list-el-salvador",
+      "lastmod": "2016-07-22"
+    }
+  ]
 }
