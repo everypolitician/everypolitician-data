@@ -27,10 +27,42 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 4,
-    "latest": "2017-07-22"
+    "count": 5,
+    "latest": "2018-05-12"
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/timor-leste-parlamento",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2016-06-14"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-01-13"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-01-13"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
