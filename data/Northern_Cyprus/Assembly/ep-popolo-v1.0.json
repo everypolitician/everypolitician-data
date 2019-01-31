@@ -267,12 +267,22 @@
         {
           "identifier": "menteş_gündüz",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q61075663",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg",
       "images": [
         {
           "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/mentes-gunduz.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Menteş_Gündüz"
         }
       ],
       "name": "Menteş Gündüz",
@@ -1458,6 +1468,10 @@
         {
           "identifier": "hüseyin_alanlı",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q61075686",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg",
@@ -1466,11 +1480,26 @@
           "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/huseyin-avkiran-alanli.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Hüseyin_Avkıran_Alanlı"
+        }
+      ],
       "name": "Hüseyin Alanlı",
       "other_names": [
         {
           "name": "Hüseyin Avkıran Alanlı",
           "note": "alternate"
+        },
+        {
+          "name": "Hüseyin Avkıran Alanlı",
+          "note": "alternate"
+        },
+        {
+          "lang": "tr",
+          "name": "Hüseyin Avkıran Alanlı",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Alanlı, Hüseyin Avkıran"
@@ -1918,12 +1947,22 @@
         {
           "identifier": "Önder_sennaroğlu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q61075677",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg",
       "images": [
         {
           "url": "https://cdn.rawgit.com/wfdd/nc-assembly-scraper/master/photos/onder-sennaroglu.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Önder_Sennaroğlu"
         }
       ],
       "name": "Önder Sennaroğlu",
@@ -2840,7 +2879,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "national_unity_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -2853,7 +2892,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -2879,7 +2918,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -3100,7 +3139,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "democratic_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -3243,7 +3282,7 @@
       ]
     },
     {
-      "area_id": "İskele",
+      "area_id": "i̇skele",
       "legislative_period_id": "term/14",
       "on_behalf_of_id": "republican_turkish_party",
       "organization_id": "fdd61ead-e65e-43e0-b9db-2b01ffd37b58",
@@ -3451,13 +3490,13 @@
       "type": "constituency"
     },
     {
-      "id": "lefkoşa",
-      "name": "Lefkoşa",
+      "id": "i̇skele",
+      "name": "İskele",
       "type": "constituency"
     },
     {
-      "id": "İskele",
-      "name": "İskele",
+      "id": "lefkoşa",
+      "name": "Lefkoşa",
       "type": "constituency"
     }
   ]
