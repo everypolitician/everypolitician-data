@@ -8,7 +8,7 @@
       "images": 101,
       "contacts": {
         "email": 0,
-        "facebook": 52,
+        "facebook": 53,
         "twitter": 95
       }
     }
@@ -32,5 +32,37 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "wfdd/colombia-senado-scraper",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "morph/twitter.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/twitter-colombia-senate-list",
+      "lastmod": "2018-05-25"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "wfdd/colombia-senado-wikidata-scraper",
+      "lastmod": "2018-09-25"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2018-04-25"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/colombia-senate-gender-balance",
+      "lastmod": "2017-04-11"
+    }
+  ]
 }
