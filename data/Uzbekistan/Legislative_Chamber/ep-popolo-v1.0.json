@@ -355,6 +355,7 @@
     },
     {
       "birth_date": "1952-12-03",
+      "gender": "male",
       "id": "257ca390-dba4-491a-a9cd-85b964d1be4b",
       "identifiers": [
         {
@@ -1201,6 +1202,7 @@
     },
     {
       "birth_date": "1959-03-08",
+      "gender": "male",
       "id": "915a97d7-8731-41f8-ad3d-2c6e674aff64",
       "identifiers": [
         {
@@ -1947,97 +1949,122 @@
         {
           "lang": "de",
           "name": "Liberaldemokratische Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Либерально-демократическая партия Узбекистана",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Oʻzbekiston Liberal Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Uzbekistan Liberal Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "ウズベキスタン自由民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "乌兹别克斯坦自由民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Liberalno-Demokratyczna Partia Uzbekistanu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Demócrata Liberal de Uzbekistán",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "우즈베키스탄 자유민주당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti libéral-démocrate d'Ouzbékistan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Ліберальна-дэмакратычная партыя Узбекістана",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Ліберально-демократична партія Узбекистану",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tt",
+          "name": "Үзбәкстан либерал-демократик фиркасе",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Özbekistan Liberal Demokrat Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Liberaldemokratische Partei Usbekistans",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "УзЛиДеП",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Либерально-демократическая партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
           "name": "Ўзбекистон Либерал Демократик Партияси",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
-          "name": "OʻZLIDEP",
-          "note": "multilingual"
+          "name": "OʻzLiDeP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
-          "lang": "uz",
-          "name": "O`ZLIDEP",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uz",
-          "name": "O’ZLIDEP",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uz",
-          "name": "O'zbekiston Liberal Demokratik Partiyasi",
-          "note": "multilingual"
+          "lang": "es",
+          "name": "Partido Democrata Liberal de Uzbekistan",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2061,32 +2088,68 @@
         {
           "lang": "en",
           "name": "Justice Social Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Oʻzbekiston Adolat Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "公正社会民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "公正社會民主黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "公正社会民主党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Adalet Sosyal Demokrat Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemócrata de la Justicia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "公正社会民主党",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "O'zbekiston Adolat Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
           "name": "O`zbekiston Adolat Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
           "name": "Adolat Sotsial Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2099,47 +2162,109 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://mt.uz"
+        }
+      ],
       "name": "Ўзбекистон «Миллий тикланиш» демократик партиясининг фракцияси",
       "other_names": [
         {
           "lang": "ja",
           "name": "ウズベキスタン国民復興民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Oʻzbekiston Milliy Tiklanish Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Uzbekistan National Revival Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "乌兹别克斯坦民族复兴民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Demokratyczna Partia Odnowy Narodowej Uzbekistanu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Демократическая партия Миллий Тикланиш",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Milliy tiklanish demokratik partiyasi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "de",
+          "name": "Milliy tiklanish demokratik partiyasi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be",
+          "name": "Дэмакратычная партыя Мілій Тыкланіш",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Демократична партія Міллій Тикланіш",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Özbekistan Milli Diriliş Demokrat Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Ўзбекистон Миллий Тикланиш Демократик Партияси",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
           "name": "O`zbekiston Milliy Tiklanish Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uz",
           "name": "O'zbekiston Milliy Tiklanish Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "uz",
+          "name": "Milliy tiklanish demokratik partiyasi",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Миллий Тикланиш",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2163,77 +2288,104 @@
         {
           "lang": "de",
           "name": "Volksdemokratische Partei Usbekistans",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "People's Democratic Party of Uzbekistan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "우즈베키스탄 인민민주당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Ludowo-Demokratyczna Partia Uzbekistanu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Народно-демократическая партия Узбекистана",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Oʻzbekiston Xalq Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "ウズベキスタン人民民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "乌兹别克斯坦人民民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Democrático Popular de Uzbekistán",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Partido Democrático Popular do Uzbequistão",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti Démocratique Populaire d'Ouzbékistan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Democratico Popolare dell'Uzbekistan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
-          "lang": "nl",
-          "name": "People's Democratic Party of Uzbekistan",
-          "note": "multilingual"
+          "lang": "tt",
+          "name": "Үзбәкстан халык-демократик фиркасе",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "tr",
+          "name": "Özbekistan Halk Demokrat Partisi",
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "O'zbekistan Xalq Demokratik Partiyasi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "НДПУ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democratico Popular de Uzbekistan",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2251,17 +2403,20 @@
         {
           "lang": "uz",
           "name": "O‘zbekiston ekologik harakati",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Ecological Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Ekoharakat / O‘zbekiston ekologik harakati",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     }
