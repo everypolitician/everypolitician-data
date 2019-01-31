@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 29,
-    "wikidata": 7,
+    "wikidata": 8,
     "latest_term": {
       "count": 20,
-      "wikidata": 4,
+      "wikidata": 5,
       "images": 2,
       "contacts": {
         "email": 0,
@@ -32,5 +32,55 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "archive/wikipedia-2012.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/wikipedia-2017.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/wallis-and-futuna-territorial-assembly",
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "wfdd/wf-assemblee-territoriale-scraper",
+      "lastmod": "2017-02-22"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "tmtmtmtm/wallis-and-futuna-territorial-assembly-wikidata",
+      "lastmod": "2018-02-09"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    },
+    {
+      "file": "morph/genderbalance.csv",
+      "type": "person",
+      "scraper": "everypolitician-scrapers/wallis-and-futuna-territorial-assembly-gender-balance",
+      "lastmod": "2017-04-11"
+    },
+    {
+      "file": "wikidata/positions.json",
+      "type": "wikidata-positions",
+      "scraper": null,
+      "lastmod": "2018-02-09"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2018-02-09"
+    }
+  ]
 }
