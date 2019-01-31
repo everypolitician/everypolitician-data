@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 15,
-    "wikidata": 1,
+    "wikidata": 6,
     "latest_term": {
       "count": 15,
-      "wikidata": 1,
+      "wikidata": 6,
       "images": 15,
       "contacts": {
         "email": 0,
-        "facebook": 0,
-        "twitter": 0
+        "facebook": 1,
+        "twitter": 1
       }
     }
   },
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/us-virgin-islands-senators-wikidata",
-      "lastmod": "2017-03-03"
+      "lastmod": "2019-01-31"
     },
     {
       "file": "manual/terms.csv",
@@ -68,7 +68,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2017-01-14"
+      "lastmod": "2019-01-31"
     },
     {
       "file": "wikidata/elections.json",
