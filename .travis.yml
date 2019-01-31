@@ -8,7 +8,7 @@ after_success:
   - scripts/deploy.sh
 cache: bundler
 rvm:
-  - 2.3.6
+  - 2.4.4
 env:
   global:
     secure: ZCQVQdKDUyPY/BM1FYriv6h+rNF+PqQETnj5FwU/jQKNz8utvaUVjXD/pIMwEmO5orzng5/MnZvErkr2+JZBs+0JghXWtjDxQHxJzfBTZJnaiAY9hWZBC9Kgbl1/mJvUvK132W5GzQ5xS9lw/pyKFGRba9A7rfoYFfkaJKmgq1U=
