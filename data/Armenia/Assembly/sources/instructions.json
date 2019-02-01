@@ -13,6 +13,22 @@
       "sourcetype": "official"
     },
     {
+      "file": "morph/official-7.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "tmtmtmtm/armenia-assembly",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-7.csv"
+      },
+      "source": "http://parliament.am/",
+      "type": "membership",
+      "sourcetype": "official"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
