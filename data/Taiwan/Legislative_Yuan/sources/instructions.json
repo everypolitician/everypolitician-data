@@ -34,7 +34,8 @@
       "merge": {
         "incoming_field": "name__zh",
         "existing_field": "name__zh",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "reconciliation_file": "reconciliation/wikidata.csv",
+        "report_extras": false
       }
     },
     {
