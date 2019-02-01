@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 399,
-    "wikidata": 3,
+    "wikidata": 6,
     "latest_term": {
       "count": 116,
-      "wikidata": 1,
+      "wikidata": 2,
       "images": 113,
       "contacts": {
         "email": 0,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/kosovan-parliament-wikidata",
-      "lastmod": "2018-09-24"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "manual/terms.csv",
@@ -62,13 +62,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2018-09-24"
+      "lastmod": "2019-01-21"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2018-09-24"
+      "lastmod": "2019-02-01"
     }
   ]
 }
