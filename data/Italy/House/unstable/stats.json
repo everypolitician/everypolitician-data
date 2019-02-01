@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 31,
-    "wikidata": 0
+    "wikidata": 27
   },
   "elections": {
     "count": 42,
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/italy-legislature-XVII-wikidata",
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "morph/cabinet.csv",
@@ -63,6 +63,12 @@
       "type": "term",
       "scraper": "everypolitician-scrapers/italian-parliament-terms-wikidata",
       "lastmod": "2018-09-14"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/italy-deputies-constituencies-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/genderbalance.csv",
