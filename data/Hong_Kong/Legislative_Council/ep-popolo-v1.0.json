@@ -16023,12 +16023,78 @@
   "areas": [
     {
       "id": "accountancy",
+      "identifiers": [
+        {
+          "identifier": "Q4672761",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Accountancy",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "會計界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "會計界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "會計界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "會計界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "agriculture_and_fisheries",
+      "identifiers": [
+        {
+          "identifier": "Q3248948",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Agriculture and Fisheries",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "漁農界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "漁農界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "渔农界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "漁農界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "漁農界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "漁農界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -16038,162 +16104,1681 @@
     },
     {
       "id": "architectural,_surveying_and_planning",
+      "identifiers": [
+        {
+          "identifier": "Q3249080",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Architectural, Surveying and Planning",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "建築、測量及都市規劃界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "建築、測量及都市規劃界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "建筑、测量及都市规划界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "建築、測量及都市規劃界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "建築、測量及都市規劃界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "建築、測量及都市規劃界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "catering",
+      "identifiers": [
+        {
+          "identifier": "Q5051926",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Catering",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "飲食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "飲食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "饮食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "饮食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "飲食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "飲食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "飲食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "饮食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "饮食界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "飲食界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "commercial_(first)",
+      "identifiers": [
+        {
+          "identifier": "Q3248609",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Commercial (First)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "商界（第一）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "commercial_(second)",
+      "identifiers": [
+        {
+          "identifier": "Q3248782",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Commercial (Second)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "商界（第二）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "district_council_(first)",
+      "identifiers": [
+        {
+          "identifier": "Q5283289",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "District Council (First)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "區議會（第一）功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "區議會（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "區議會（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "區議會（第一）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "district_council_(second)",
+      "identifiers": [
+        {
+          "identifier": "Q5283291",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "District Council (Second)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "区议会（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "区议会（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "区议会（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "区议会（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "區議會（第二）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "education",
+      "identifiers": [
+        {
+          "identifier": "Q3248767",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Education",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "教育界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "教育界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "engineering",
+      "identifiers": [
+        {
+          "identifier": "Q5377807",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Engineering",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Engineering (constituency)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "工程界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "工程界功能界別",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "finance",
+      "identifiers": [
+        {
+          "identifier": "Q3248972",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Finance",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "金融界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "金融界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "financial_services",
+      "identifiers": [
+        {
+          "identifier": "Q5449654",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Financial Services",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "金融服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金融服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "金融服务界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "金融服务界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "金融服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "金融服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "金融服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "金融服务界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "金融服务界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "金融服務界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "health_services",
+      "identifiers": [
+        {
+          "identifier": "Health-Services",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q5301966",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Health Services",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "衛生服務界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "衛生服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "卫生服务界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "衛生服務界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "衞生服務界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "衛生服務界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "heung_yee_kuk",
+      "identifiers": [
+        {
+          "identifier": "Q3248929",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Heung Yee Kuk",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "鄉議局功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鄉議局",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "乡议局功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "鄉議局",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "鄉議局功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "鄉議局",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "hong_kong_island",
+      "identifiers": [
+        {
+          "identifier": "Q3248921",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hong Kong Island",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "香港島",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "香港島",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "香港岛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "香港岛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "香港島",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "香港島",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "香港島",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "香港岛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "香港岛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "香港島",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "import_and_export",
+      "identifiers": [
+        {
+          "identifier": "Q6007397",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Import and Export",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "進出口界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "進出口界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "進出口界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "進出口界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "industrial_(first)",
+      "identifiers": [
+        {
+          "identifier": "Q3248751",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Industrial (First)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "工業界（第一）功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "工業界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "工业界（第一）功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "工業界（第一）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "工業界（第一）功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "工業界（第一）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "industrial_(second)",
+      "identifiers": [
+        {
+          "identifier": "Q3248622",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Industrial (Second)",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "工業界（第二）功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "工業界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "工业界（第二）功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "工業界（第二）",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "工業界（第二）功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "工業界（第二）",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "information_technology",
+      "identifiers": [
+        {
+          "identifier": "Q6030879",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Information Technology",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "资讯科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "资讯科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "资讯科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "资讯科技界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "資訊科技界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "insurance",
+      "identifiers": [
+        {
+          "identifier": "Q3248942",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Insurance",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Insurance functional constituency",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "保險界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "保險界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "保险界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "保險界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "保險界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "保險界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "kowloon_east",
+      "identifiers": [
+        {
+          "identifier": "Q10879608",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kowloon East",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "九龍東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "九龍東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "九龙东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "九龙东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "九龍東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "九龍東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "九龍東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "九龙东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "九龙东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "九龍東",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "kowloon_west",
+      "identifiers": [
+        {
+          "identifier": "Q10879625",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kowloon West",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "九龍西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "九龍西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "九龙西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "九龙西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "九龍西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "九龍西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "九龍西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "九龙西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "九龙西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "九龍西",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "labour",
+      "identifiers": [
+        {
+          "identifier": "Q6467372",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Labour",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "勞工界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "勞工界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "勞工界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "勞工界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "legal",
+      "identifiers": [
+        {
+          "identifier": "Q3248636",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legal",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "法律界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "法律界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "法律界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "法律界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "法律界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "法律界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "medical",
+      "identifiers": [
+        {
+          "identifier": "Q3248957",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Medical",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "醫學界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "醫學界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "医学界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "医学界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "醫學界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "醫學界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "醫學界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "医学界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "医学界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "醫學界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "new_territories_east",
+      "identifiers": [
+        {
+          "identifier": "Q11083612",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "New Territories East",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "新界東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新界東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "新界东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "新界东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "新界東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "新界東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "新界東",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "新界东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "新界东",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "新界東",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "new_territories_west",
+      "identifiers": [
+        {
+          "identifier": "/m/093kdy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1099862",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "New Territories West",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "新界西",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "新界西",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "real_estate_and_construction",
+      "identifiers": [
+        {
+          "identifier": "Q7300911",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Real Estate and Construction",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "地产及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "地产及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "地产及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "地产及建造界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "地產及建造界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "social_welfare",
+      "identifiers": [
+        {
+          "identifier": "Q3249071",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Social Welfare",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "社會福利界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "社會福利界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "社会福利界功能界别",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "社會福利界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "社會福利界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "社會福利界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "sports,_performing_arts,_culture_and_publication",
+      "identifiers": [
+        {
+          "identifier": "Q7579643",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Sports, Performing Arts, Culture and Publication",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "体育、演艺、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "体育、演艺、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "体育、演艺、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "体育、演艺、文化及出版界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "體育、演藝、文化及出版界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "textiles_and_garment",
+      "identifiers": [
+        {
+          "identifier": "Q7708490",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Textiles and Garment",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "紡織及製衣界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "紡織及製衣界功能界別",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "tourism",
+      "identifiers": [
+        {
+          "identifier": "Q7829082",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tourism",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "旅遊界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "旅遊界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "旅游界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "旅游界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "旅遊界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "旅遊界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "旅遊界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "旅游界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "旅游界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "旅遊界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "transport",
+      "identifiers": [
+        {
+          "identifier": "Q3248982",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Transport",
+      "other_names": [
+        {
+          "lang": "yue",
+          "name": "航運交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "航運交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "航运交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "航运交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "航運交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "航運交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_mo",
+          "name": "航運交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_my",
+          "name": "航运交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_sg",
+          "name": "航运交通界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "航運交通界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "wholesale_&amp;_retail",
+      "identifiers": [
+        {
+          "identifier": "Q7997580",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wholesale &amp; Retail",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wholesale and Retail",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "批發及零售界功能界別",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "批發及零售界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "批發及零售界",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_tw",
+          "name": "批發及零售界",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]

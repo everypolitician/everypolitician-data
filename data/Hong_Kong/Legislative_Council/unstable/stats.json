@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 35,
-    "wikidata": 0
+    "wikidata": 34
   },
   "elections": {
     "count": 11,
@@ -63,6 +63,12 @@
       "type": "term",
       "scraper": null,
       "lastmod": "2017-02-03"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/hong-kong-legco-constituencies-wikidata",
+      "lastmod": null
     },
     {
       "file": "morph/genderbalance.csv",
