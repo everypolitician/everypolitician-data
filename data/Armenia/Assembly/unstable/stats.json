@@ -1,13 +1,13 @@
 {
   "people": {
-    "count": 186,
-    "wikidata": 167,
+    "count": 264,
+    "wikidata": 131,
     "latest_term": {
-      "count": 105,
-      "wikidata": 87,
-      "images": 105,
+      "count": 132,
+      "wikidata": 0,
+      "images": 132,
       "contacts": {
-        "email": 0,
+        "email": 73,
         "facebook": 0,
         "twitter": 0
       }
@@ -15,11 +15,11 @@
   },
   "groups": {
     "count": 9,
-    "wikidata": 9
+    "wikidata": 7
   },
   "terms": {
     "count": 2,
-    "latest": "2017-05-18",
+    "latest": "2019-01-14",
     "wikidata": 2
   },
   "areas": {
@@ -31,7 +31,7 @@
     "latest": "2018-12-09"
   },
   "positions": {
-    "cabinet": 5
+    "cabinet": 4
   },
   "sources": [
     {
@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/armenia-assembly-wikidata",
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/armenia-assembly-terms-wikidata",
-      "lastmod": "2018-10-11"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "wikidata/groups.json",
