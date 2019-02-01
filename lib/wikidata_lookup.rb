@@ -140,8 +140,13 @@ class ElectionLookup < WikidataLookup
   # We don't have the normal id => uuid Hash here,
   # but rather instructions for a Wikidata SPARQL lookup
   def initialize(instructions)
-    q = "SELECT ?item WHERE { ?item wdt:P31 wd:#{instructions[:base]} . }"
-    ids = wikidata_sparql(q)
+    query = <<~EOSPARQL
+      SELECT ?item WHERE {
+        ?item wdt:P31 wd:#{instructions[:base]}
+        FILTER NOT EXISTS { ?item wdt:P361/wdt:P31 wd:#{instructions[:base]} }
+      }
+    EOSPARQL
+    ids = wikidata_sparql(query)
     @wikidata_id_lookup = Hash[ids.map { |id| [id, id] }]
   end
 
