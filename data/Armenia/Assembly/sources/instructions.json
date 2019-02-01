@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/official-6.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/armenia-assembly",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "archive/official-6.csv",
       "source": "http://parliament.am/",
       "type": "membership",
       "sourcetype": "official"
