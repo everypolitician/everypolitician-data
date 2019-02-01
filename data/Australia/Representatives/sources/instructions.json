@@ -17,7 +17,7 @@
       "create": {
         "from": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
-        "query": "SELECT aph_id, photo_url AS photo, email, facebook, website, twitter FROM data WHERE house = 'representatives' AND photo_url != '' ORDER BY aph_id"
+        "query": "SELECT aph_id, CASE WHEN SUBSTR(photo_url, 1, 5)='http:' THEN photo_url ELSE ('http://www.aph.gov.au/' || photo_url) END AS photo, email, facebook, website, twitter FROM data WHERE house = 'representatives' AND photo_url != '' ORDER BY aph_id"
       },
       "merge": {
         "incoming_field": "aph_id",
