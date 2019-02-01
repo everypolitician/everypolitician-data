@@ -54,7 +54,8 @@ class Patcher
       end
 
       # If we have the same as before (case insensitively), that's OK
-      next if existing[h].casecmp(incoming[h].downcase).zero?
+      # NB: the casecmp version on its own isn't sufficient in some cases (e.g. Turkey)
+      next if (existing[h] == incoming[h]) || existing[h].casecmp(incoming[h].downcase).zero?
 
       # Accept more precise dates
       if h.to_s.include?('date')
