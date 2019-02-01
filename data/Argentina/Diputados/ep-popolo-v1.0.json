@@ -2763,18 +2763,25 @@
       "sort_name": "GUCCIONE, JOSE DANIEL"
     },
     {
+      "birth_date": "1964",
       "contact_details": [
         {
           "type": "twitter",
           "value": "ManuGarridoOk"
         }
       ],
+      "family_name": "Garrido",
       "gender": "male",
+      "given_name": "Manuel",
       "id": "383997bb-0487-445b-900f-f4cc11411299",
       "identifiers": [
         {
           "identifier": "mgarrido",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5993110",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/mgarrido.jpg",
@@ -2783,10 +2790,21 @@
           "url": "http://www4.hcdn.gob.ar/fotos/mgarrido.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Manuel_Garrido.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/614260625779388416/94eGqq2d.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Manuel_Garrido"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Manuel_Garrido"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/ManuGarridoOk"
@@ -11656,10 +11674,6 @@
       "name": "NICOLAS DEL CAÑO",
       "other_names": [
         {
-          "name": "Nicolas del Caño",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
           "name": "Nicolás del Caño",
           "note": "multilingual"
@@ -14762,7 +14776,63 @@
     {
       "classification": "party",
       "id": "democrata_de_mendoza",
-      "name": "DEMOCRATA DE MENDOZA"
+      "identifiers": [
+        {
+          "identifier": "Q5255687",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "https://www.partidodemocrata.com.ar"
+        }
+      ],
+      "name": "DEMOCRATA DE MENDOZA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Democratic Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Demócrata (Mendoza)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Demócrata Mendoza",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata (Mendoza)",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata Mendoza",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Demócrata de Mendoza",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata de Mendoza",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -14841,7 +14911,21 @@
     {
       "classification": "party",
       "id": "fe",
-      "name": "FE"
+      "identifiers": [
+        {
+          "identifier": "Q43262435",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "FE",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Fe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -14908,7 +14992,45 @@
     {
       "classification": "party",
       "id": "frente_civico_-_cordoba",
-      "name": "FRENTE CIVICO - CORDOBA"
+      "identifiers": [
+        {
+          "identifier": "Q1680786",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.partidonuevocordoba.com.ar"
+        }
+      ],
+      "name": "FRENTE CIVICO - CORDOBA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Partido Nuevo",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "New Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Nuevo contra la Corrupción, por la Honestidad y la Transparencia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Nuovo Partito",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -14919,6 +15041,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Frente_Cívico_por_Santiago.png",
       "name": "FRENTE CIVICO POR SANTIAGO",
       "other_names": [
         {
@@ -14956,6 +15079,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_FPCyS.png",
       "name": "FRENTE CIVICO Y SOCIAL DE CATAMARCA",
       "other_names": [
         {
@@ -14993,6 +15117,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Frente_de_Izquierda_y_de_los_Trabajadores_Logo.svg",
       "name": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
       "other_names": [
         {
@@ -15741,6 +15866,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Libresdelsur_logo.svg",
       "links": [
         {
           "note": "website",
@@ -15790,7 +15916,39 @@
     {
       "classification": "party",
       "id": "mov_pop_fueguino",
-      "name": "MOV POP FUEGUINO"
+      "identifiers": [
+        {
+          "identifier": "Q5507109",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.mopof.org/mpf/"
+        }
+      ],
+      "name": "MOV POP FUEGUINO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Fueguino People's Movement",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Popular Fueguino",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Народное движение Огненной Земли",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -15801,6 +15959,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_MPN.png",
       "name": "MOV POP NEUQUINO",
       "other_names": [
         {
@@ -15820,7 +15979,21 @@
     {
       "classification": "party",
       "id": "movimiento_nacional_alfonsinista",
-      "name": "MOVIMIENTO NACIONAL ALFONSINISTA"
+      "identifiers": [
+        {
+          "identifier": "Q47161829",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "MOVIMIENTO NACIONAL ALFONSINISTA",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Movimiento Nacional Alfonsinista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -16416,7 +16589,21 @@
     {
       "classification": "party",
       "id": "unidad_popular",
-      "name": "UNIDAD POPULAR"
+      "identifiers": [
+        {
+          "identifier": "Q47459631",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UNIDAD POPULAR",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Unidad Popular (Argentina)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        }
+      ]
     },
     {
       "classification": "party",
