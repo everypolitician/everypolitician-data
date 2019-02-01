@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 29,
-    "wikidata": 0
+    "wikidata": 21
   },
   "elections": {
     "count": 51,
@@ -51,6 +51,12 @@
       "type": "term",
       "scraper": "tmtmtmtm/sweden-parliament-api",
       "lastmod": "2018-10-09"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/sweden-riksdag-constituencies-wikidata",
+      "lastmod": null
     },
     {
       "file": "wikidata/groups.json",
