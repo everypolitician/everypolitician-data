@@ -35,10 +35,10 @@
   },
   "sources": [
     {
-      "file": "morph/official-6.csv",
+      "file": "archive/official-6.csv",
       "type": "membership",
-      "scraper": "tmtmtmtm/armenia-assembly",
-      "lastmod": "2018-10-11"
+      "scraper": null,
+      "lastmod": "2019-02-01"
     },
     {
       "file": "archive/official-5.csv",
@@ -50,13 +50,13 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/armenia-assembly-wikidata",
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/armenia-assembly-terms-wikidata",
-      "lastmod": "2018-10-11"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "wikidata/groups.json",
