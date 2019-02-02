@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 1763,
+    "count": 1772,
     "wikidata": 1615,
     "latest_term": {
-      "count": 356,
-      "wikidata": 307,
-      "images": 356,
+      "count": 372,
+      "wikidata": 314,
+      "images": 372,
       "contacts": {
         "email": 0,
-        "facebook": 10,
-        "twitter": 171
+        "facebook": 13,
+        "twitter": 177
       }
     }
   },
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/sweden-riksdag-members-wikidata",
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "morph/terms.csv",
@@ -74,13 +74,13 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/sweden-positions",
-      "lastmod": "2019-01-28"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-18"
+      "lastmod": "2019-02-01"
     },
     {
       "file": "morph/twitter.csv",
