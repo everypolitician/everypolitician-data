@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1436,
-    "wikidata": 600,
+    "wikidata": 1436,
     "latest_term": {
       "count": 652,
-      "wikidata": 270,
-      "images": 586,
+      "wikidata": 652,
+      "images": 651,
       "contacts": {
         "email": 647,
-        "facebook": 502,
-        "twitter": 577
+        "facebook": 509,
+        "twitter": 588
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2017-06-08"
   },
   "positions": {
-    "cabinet": 67
+    "cabinet": 236
   },
   "sources": [
     {
@@ -62,7 +62,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/uk-house-of-commons-wikidata",
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-02-02"
     },
     {
       "file": "manual/emails.csv",
@@ -80,7 +80,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2017-12-06"
+      "lastmod": "2019-02-02"
     },
     {
       "file": "gender-balance/results.csv",
@@ -98,7 +98,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2017-12-06"
+      "lastmod": "2019-02-02"
     },
     {
       "file": "morph/areas.csv",
