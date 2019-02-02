@@ -32,5 +32,43 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/saint-helena-election-2013",
+      "lastmod": "2016-12-16"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/saint-helena-legislative-council",
+      "lastmod": "2015-11-25"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "scraper": null,
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "scraper": null,
+      "lastmod": "2017-01-14"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "scraper": null,
+      "lastmod": "2017-01-14"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "scraper": null,
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
