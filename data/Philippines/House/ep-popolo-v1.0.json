@@ -861,6 +861,10 @@
       "name": "Sakaluran, Raden C."
     },
     {
+      "id": "12f2bc56-c238-45e0-9fa7-dfc2269e7949",
+      "name": "Ang, Ronald S."
+    },
+    {
       "birth_date": "1977-11-09",
       "gender": "male",
       "given_name": "Allan",
@@ -7014,6 +7018,10 @@
       "name": "Radaza, Aileen C."
     },
     {
+      "id": "8d9b817b-9681-4f7c-94df-3bb853bb4e1f",
+      "name": "Garces, Ulysses G."
+    },
+    {
       "birth_date": "1954-07-05",
       "gender": "male",
       "given_name": "Rolando",
@@ -9489,12 +9497,18 @@
       "name": "Abaya, Francis Gerald A."
     },
     {
+      "birth_date": "1966-04-25",
+      "death_date": "2018-12-22",
       "gender": "male",
       "id": "c28571a8-c383-4283-a2ab-1f335235d441",
       "identifiers": [
         {
           "identifier": "batocabe-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371250",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/batocabe-r.jpg",
@@ -9503,7 +9517,24 @@
           "url": "http://www.congress.gov.ph/members/images/16th/batocabe-r.jpg"
         }
       ],
-      "name": "Batocabe, Rodel M."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rodel_Batocabe"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Rodel_Batocabe"
+        }
+      ],
+      "name": "Batocabe, Rodel M.",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rodel Batocabe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c2da1c27-29e2-4800-b04f-2bd6950a257b",
@@ -11018,6 +11049,12 @@
         {
           "identifier": "Q57127946",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.congress.gov.ph/members/images/17th/hernandez-p.jpg",
+      "images": [
+        {
+          "url": "http://www.congress.gov.ph/members/images/17th/hernandez-p.jpg"
         }
       ],
       "name": "Hernandez, Paul P.",
@@ -13745,6 +13782,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=sakaluran-r"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "ako_bicol",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "12f2bc56-c238-45e0-9fa7-dfc2269e7949",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=ang"
         }
       ]
     },
@@ -17317,6 +17366,18 @@
       "sources": [
         {
           "url": "http://www.congress.gov.ph/members/search.php?id=radaza-a"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "abs",
+      "organization_id": "02e84be8-6151-4224-90bf-94d1317da396",
+      "person_id": "8d9b817b-9681-4f7c-94df-3bb853bb4e1f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.congress.gov.ph/members/search.php?id=garces-u"
         }
       ]
     },
