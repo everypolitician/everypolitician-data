@@ -145,6 +145,7 @@ class ElectionLookup < WikidataLookup
         ?item wdt:P31 wd:#{instructions[:base]}
         FILTER NOT EXISTS { ?item wdt:P361/wdt:P31 wd:#{instructions[:base]} }
       }
+      ORDER BY ?item
     EOSPARQL
     ids = wikidata_sparql(query)
     @wikidata_id_lookup = Hash[ids.map { |id| [id, id] }]
