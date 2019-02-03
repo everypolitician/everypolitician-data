@@ -129,12 +129,17 @@
         }
       ],
       "email": "zac.hall@gov.im",
+      "family_name": "Hall",
       "gender": "male",
       "id": "0ffdde83-6b1c-486f-9c71-d9197e386b0c",
       "identifiers": [
         {
           "identifier": "zac-hall",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25752087",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/HallZ.jpg",
@@ -771,6 +776,12 @@
       ],
       "gender": "male",
       "id": "833668d6-4aaf-4f9c-83d7-0939a18fb5ca",
+      "identifiers": [
+        {
+          "identifier": "Q25752130",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/HarmerRK.png",
       "images": [
         {
@@ -804,11 +815,16 @@
       ],
       "email": "graham.cregeen@gov.im",
       "gender": "male",
+      "given_name": "Graham",
       "id": "98af3d0c-efb3-4f85-8f45-7264a07f0a32",
       "identifiers": [
         {
           "identifier": "graham-cregeen",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25751961",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/CregeenGD.jpg",
@@ -983,11 +999,16 @@
       ],
       "email": "alfred.cannan@gov.im",
       "gender": "male",
+      "given_name": "Alfred",
       "id": "c6d90d22-2511-4c36-8361-7366fe881c01",
       "identifiers": [
         {
           "identifier": "alfred-cannan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25752002",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/CannanAL.jpg",
@@ -1150,6 +1171,7 @@
       ]
     },
     {
+      "birth_date": "1967",
       "contact_details": [
         {
           "type": "email",
@@ -1162,23 +1184,43 @@
       ],
       "email": "howard.quayle@gov.im",
       "gender": "male",
+      "given_name": "Howard",
       "id": "fdda1de3-9933-4886-8707-f29e35986ffc",
       "identifiers": [
         {
           "identifier": "howard-quayle",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25752048",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.tynwald.org.im/SiteCollectionImages/QuayleRH.jpg",
       "images": [
         {
           "url": "http://www.tynwald.org.im/SiteCollectionImages/QuayleRH.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Howard_Quayle.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Howard_Quayle"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Howard_Quayle"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Howard_Quayle"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Говард_Квейл"
         }
       ],
       "name": "Howard Quayle",
@@ -1186,6 +1228,26 @@
         {
           "name": "Robert Howard QUAYLE MHK",
           "note": "alternate"
+        },
+        {
+          "lang": "ja",
+          "name": "ハワード・クエール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Говард Квейл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "霍華德·奎爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "霍华德·奎尔",
+          "note": "multilingual"
         }
       ]
     }
