@@ -1,11 +1,11 @@
 {
   "people": {
     "count": 498,
-    "wikidata": 21,
+    "wikidata": 22,
     "latest_term": {
       "count": 498,
-      "wikidata": 21,
-      "images": 1,
+      "wikidata": 22,
+      "images": 2,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/drc-national-assembly-members-wikidata",
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-02-04"
     },
     {
       "file": "manual/terms.csv",
@@ -62,13 +62,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-02-04"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-02-04"
     }
   ]
 }
