@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 2169,
-    "wikidata": 354,
+    "wikidata": 484,
     "latest_term": {
       "count": 298,
-      "wikidata": 107,
+      "wikidata": 120,
       "images": 298,
       "contacts": {
         "email": 29,
@@ -31,7 +31,7 @@
     "latest": "2019-10-13"
   },
   "positions": {
-    "cabinet": 29
+    "cabinet": 30
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/portugal-deputados-wikidata",
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "morph/terms.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -86,7 +86,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-06"
     }
   ]
 }
