@@ -1650,7 +1650,14 @@
     },
     {
       "birth_date": "1973-08-27",
+      "gender": "male",
       "id": "4ae83eaa-339a-4ec5-9432-f2839892cd60",
+      "identifiers": [
+        {
+          "identifier": "Q60854009",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.zm/sites/default/files/styles/mp_details/public/images/mp/Sensil%20Banda.JPG?itok=rHsrR4rW",
       "images": [
         {
@@ -7430,6 +7437,12 @@
         {
           "lang": "ast",
           "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "or",
+          "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
