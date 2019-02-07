@@ -364,10 +364,6 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "21895098",
-          "scheme": "gnc"
-        },
-        {
           "identifier": "1118402804",
           "scheme": "gnd"
         },
@@ -3326,6 +3322,7 @@
           "value": "PaulDewar"
         }
       ],
+      "death_date": "2019-02-06",
       "family_name": "DEWAR",
       "gender": "male",
       "given_name": "Paul, B.A., B.Ed.",
@@ -7399,6 +7396,11 @@
       ],
       "name": "Joyce Murray",
       "other_names": [
+        {
+          "lang": "fa",
+          "name": "جویس موری",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Джойс Мюррэй",
@@ -12790,10 +12792,6 @@
       "given_name": "Ralph",
       "id": "4842c8d2-87f6-496d-8214-5a60f393b1f9",
       "identifiers": [
-        {
-          "identifier": "128695907",
-          "scheme": "conor"
-        },
         {
           "identifier": "ralph-goodale",
           "scheme": "everypolitician_legacy"
@@ -18522,10 +18520,6 @@
       "id": "6b803fc2-03c4-4edd-ba3d-a36d20f65d61",
       "identifiers": [
         {
-          "identifier": "a1176949x",
-          "scheme": "cantic"
-        },
-        {
           "identifier": "jean-yves-duclos",
           "scheme": "everypolitician_legacy"
         },
@@ -18846,6 +18840,11 @@
         {
           "name": "The Hon. Keith, P.C. ASHFIELD",
           "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Ашфилд, Кит",
+          "note": "multilingual"
         }
       ],
       "sort_name": "ASHFIELD, The Hon. Keith, P.C."
@@ -21327,10 +21326,6 @@
         {
           "identifier": "stephen-harper",
           "scheme": "ne_se"
-        },
-        {
-          "identifier": "1488783",
-          "scheme": "nlatrove"
         },
         {
           "identifier": "373/000111040",
@@ -30102,6 +30097,11 @@
         {
           "name": "K. Kellie Leitch",
           "note": "alternate"
+        },
+        {
+          "lang": "fa",
+          "name": "کلی لیچ",
+          "note": "multilingual"
         }
       ]
     },
@@ -32459,7 +32459,14 @@
           "url": "http://lisaraittmp.ca"
         }
       ],
-      "name": "Lisa Raitt"
+      "name": "Lisa Raitt",
+      "other_names": [
+        {
+          "lang": "fa",
+          "name": "لیزا رایت",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-06-15",
@@ -35800,6 +35807,11 @@
           "note": "alternate"
         },
         {
+          "lang": "fa",
+          "name": "اروین کاتلر",
+          "note": "multilingual"
+        },
+        {
           "lang": "he",
           "name": "ארוין קוטלר",
           "note": "multilingual"
@@ -36071,10 +36083,6 @@
         {
           "identifier": "biography/Jim-Flaherty",
           "scheme": "britannica"
-        },
-        {
-          "identifier": "129625699",
-          "scheme": "conor"
         },
         {
           "identifier": "jim-flaherty",
@@ -41790,10 +41798,6 @@
           "scheme": "allmovie"
         },
         {
-          "identifier": "129844",
-          "scheme": "allocine"
-        },
-        {
           "identifier": "86007",
           "scheme": "csfd"
         },
@@ -43710,6 +43714,12 @@
         {
           "lang": "ast",
           "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "or",
+          "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
