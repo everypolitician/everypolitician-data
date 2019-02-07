@@ -4,8 +4,31 @@
   ],
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "geoffrey.boot@gov.im"
+        },
+        {
+          "type": "phone",
+          "value": "01624 685485"
+        }
+      ],
+      "email": "geoffrey.boot@gov.im",
       "id": "01f8c289-72f7-4b9c-affc-f8fe77c896ca",
-      "name": "Geoffrey Boot"
+      "image": "http://www.tynwald.org.im/SiteCollectionImages/BootGG.jpg",
+      "images": [
+        {
+          "url": "http://www.tynwald.org.im/SiteCollectionImages/BootGG.jpg"
+        }
+      ],
+      "name": "Geoffrey Boot",
+      "other_names": [
+        {
+          "name": "Geoffrey George BOOT MHK",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "birth_date": "1959-07-22",
