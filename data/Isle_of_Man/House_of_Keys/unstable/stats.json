@@ -1,29 +1,29 @@
 {
   "people": {
-    "count": 29,
-    "wikidata": 25,
+    "count": 41,
+    "wikidata": 27,
     "latest_term": {
-      "count": 29,
-      "wikidata": 25,
-      "images": 25,
+      "count": 24,
+      "wikidata": 12,
+      "images": 12,
       "contacts": {
-        "email": 0,
+        "email": 11,
         "facebook": 0,
         "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 2,
+    "count": 4,
     "wikidata": 2
   },
   "terms": {
-    "count": 1,
-    "latest": "2011-10-04",
+    "count": 2,
+    "latest": "2016-09-27",
     "wikidata": 0
   },
   "areas": {
-    "count": 15,
+    "count": 27,
     "wikidata": 0
   },
   "elections": {
@@ -45,6 +45,12 @@
       "type": "membership",
       "scraper": null,
       "lastmod": "2018-11-09"
+    },
+    {
+      "file": "morph/wikipedia-2016.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/isle-of-man-house-of-keys-2016-wikipedia",
+      "lastmod": "2019-02-07"
     },
     {
       "file": "morph/images.csv",
