@@ -410,12 +410,30 @@
       ]
     },
     {
+      "family_name": "Napa",
       "gender": "female",
+      "given_name": "Selina",
       "id": "440abfc8-699f-4da4-b438-d21fba223358",
       "identifiers": [
         {
           "identifier": "selina_napa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7448468",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SelinaNapa2016.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SelinaNapa2016.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Selina_Napa"
         }
       ],
       "name": "Selina Napa"
@@ -740,15 +758,34 @@
       ]
     },
     {
+      "family_name": "Nicholas",
       "gender": "male",
+      "given_name": "Albert",
       "id": "6647e778-ebf0-4a40-8d0b-c21ef99e52ce",
       "identifiers": [
         {
           "identifier": "albert_taaviri_kaitara_nicholas",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25184641",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Albert Taaviri Kaitara Nicholas"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Albert_Nicholas_(Cook_Islands)"
+        }
+      ],
+      "name": "Albert Taaviri Kaitara Nicholas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Albert Nicholas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-05-09",
@@ -2211,6 +2248,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "or",
+          "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -3537,6 +3580,7 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2018-06-14",
       "id": "term/14",
       "identifiers": [
         {
