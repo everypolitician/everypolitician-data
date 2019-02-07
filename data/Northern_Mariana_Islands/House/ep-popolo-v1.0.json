@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1982-05-27",
       "contact_details": [
         {
           "type": "fax",
@@ -14,11 +15,16 @@
           "value": "(670) 664-8983"
         }
       ],
+      "gender": "male",
       "id": "0bb935b0-b6f4-48b4-a0ea-240425cd5611",
       "identifiers": [
         {
           "identifier": "494",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q58215740",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cnmileg.gov.mp/images/members/494.jpg",
@@ -27,7 +33,20 @@
           "url": "http://www.cnmileg.gov.mp/images/members/494.jpg"
         }
       ],
-      "name": "Angel A. Demapan"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Angel_Demapan"
+        }
+      ],
+      "name": "Angel A. Demapan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Angel Demapan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -984,6 +1003,12 @@
         {
           "lang": "ast",
           "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "or",
+          "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
