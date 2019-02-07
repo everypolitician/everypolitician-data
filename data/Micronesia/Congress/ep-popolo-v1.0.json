@@ -358,20 +358,55 @@
       "name": "Robson U. Romolow"
     },
     {
+      "birth_date": "1941-07-24",
+      "gender": "male",
       "id": "98284053-7a5c-4f42-b1e4-b968461af240",
       "identifiers": [
         {
           "identifier": "yosiwo_p._george",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/11cm0kjm5y",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q23302699",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/George.1.jpg",
       "images": [
         {
           "url": "http://www.fsmcongress.fm/images/18th%20Congress/18c%20fsm%20foto/George.1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Federated_States_of_Micronesia_Opening_Ceremony_150622-N-MK341-013.jpg"
         }
       ],
-      "name": "Yosiwo P. George"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yosiwo_George"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Yosiwo_George"
+        }
+      ],
+      "name": "Yosiwo P. George",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Yosiwo George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尤斯沃·喬治",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9cc3f28a-6e0f-40ff-ac39-c57b4ce9da8a",
@@ -1164,6 +1199,12 @@
         {
           "lang": "ast",
           "name": "políticu independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "or",
+          "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
