@@ -18,6 +18,22 @@
       "sourcetype": "wikipedia"
     },
     {
+      "file": "morph/wikipedia-2016.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/isle-of-man-house-of-keys-2016-wikipedia",
+        "query": "SELECT *, 2016 AS term FROM data ORDER BY name"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikipedia-2016.csv"
+      },
+      "source": "https://en.wikipedia.org/",
+      "type": "membership",
+      "sourcetype": "wikipedia"
+    },
+    {
       "file": "morph/images.csv",
       "create": {
         "from": "morph",
