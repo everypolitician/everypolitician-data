@@ -1,7 +1,7 @@
 {
   "people": {
     "count": 48,
-    "wikidata": 9,
+    "wikidata": 10,
     "latest_term": {
       "count": 36,
       "wikidata": 7,
@@ -56,7 +56,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/bermuda-wikidata",
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "manual/terms.csv",
@@ -74,13 +74,13 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-30"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-15"
+      "lastmod": "2019-02-07"
     }
   ]
 }
