@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 18,
-    "wikidata": 0,
+    "wikidata": 4,
     "latest_term": {
       "count": 18,
-      "wikidata": 0,
+      "wikidata": 4,
       "images": 18,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 0
+        "twitter": 1
       }
     }
   },
@@ -41,10 +41,16 @@
       "lastmod": "2017-03-27"
     },
     {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/cayman-islands-assembly-wikidata",
+      "lastmod": "2019-02-07"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term",
       "scraper": null,
-      "lastmod": "2015-07-15"
+      "lastmod": "2015-07-16"
     },
     {
       "file": "gender-balance/results.csv",
@@ -56,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-17"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "wikidata/elections.json",
