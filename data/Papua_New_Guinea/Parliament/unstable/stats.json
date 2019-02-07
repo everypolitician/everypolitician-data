@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 111,
-    "wikidata": 16,
+    "wikidata": 66,
     "latest_term": {
       "count": 111,
-      "wikidata": 16,
+      "wikidata": 66,
       "images": 111,
       "contacts": {
         "email": 61,
@@ -15,7 +15,7 @@
   },
   "groups": {
     "count": 19,
-    "wikidata": 14
+    "wikidata": 18
   },
   "terms": {
     "count": 1,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/png-parliament-wikidata",
-      "lastmod": "2019-01-21"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "manual/terms.csv",
@@ -62,13 +62,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-06"
     }
   ]
 }
