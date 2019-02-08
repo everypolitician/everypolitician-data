@@ -20,7 +20,7 @@
       },
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
+        "incoming_field": "name__zh",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
