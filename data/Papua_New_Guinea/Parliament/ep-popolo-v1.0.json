@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1962",
       "contact_details": [
         {
           "type": "fax",
@@ -14,12 +15,18 @@
           "value": "3277568"
         }
       ],
+      "death_date": "2016-02-20",
       "gender": "male",
+      "given_name": "Steven",
       "id": "00d1bdd4-483a-43eb-8f9d-7f90dd94d208",
       "identifiers": [
         {
           "identifier": "Steven-Kamma",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22953338",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/uploads/profiles/jkamma.png",
@@ -28,7 +35,24 @@
           "url": "http://www.parliament.gov.pg/uploads/profiles/jkamma.png"
         }
       ],
-      "name": "Hon. Steven Kamma, MP"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Steven_Pirika_Kama"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Steven_Pirika_Kama"
+        }
+      ],
+      "name": "Hon. Steven Kamma, MP",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Steven Pirika Kama",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5108,7 +5132,7 @@
       ]
     },
     {
-      "birth_date": "1960",
+      "birth_date": "1960-01-28",
       "contact_details": [
         {
           "type": "email",
@@ -5728,6 +5752,12 @@
         {
           "lang": "or",
           "name": "ନିର୍ଦଳୀୟ ରାଜନୀତିଜ୍ଞ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lb",
+          "name": "Onofhängeg",
           "note": "multilingual",
           "source": "wikidata-label"
         },
