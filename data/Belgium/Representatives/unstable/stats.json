@@ -31,7 +31,7 @@
     "latest": "2014-05-25"
   },
   "positions": {
-    "cabinet": 12
+    "cabinet": 14
   },
   "sources": [
     {
@@ -56,7 +56,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/belgium-represenatives-wikidata",
-      "lastmod": "2019-01-28"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "morph/terms.csv",
@@ -86,13 +86,13 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-01-15"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-21"
+      "lastmod": "2019-02-07"
     }
   ]
 }
