@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 1031,
-    "wikidata": 644,
+    "count": 1000,
+    "wikidata": 608,
     "latest_term": {
-      "count": 531,
-      "wikidata": 206,
-      "images": 531,
+      "count": 500,
+      "wikidata": 170,
+      "images": 500,
       "contacts": {
         "email": 0,
-        "facebook": 12,
-        "twitter": 19
+        "facebook": 8,
+        "twitter": 10
       }
     }
   },
@@ -23,7 +23,7 @@
     "wikidata": 2
   },
   "areas": {
-    "count": 363,
+    "count": 335,
     "wikidata": 0
   },
   "elections": {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/mexico-deputies-wikidata",
-      "lastmod": "2019-02-02"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "morph/terms.csv",
@@ -68,7 +68,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-07"
     },
     {
       "file": "morph/cabinet.csv",
@@ -80,7 +80,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-02-02"
+      "lastmod": "2019-02-07"
     }
   ]
 }
