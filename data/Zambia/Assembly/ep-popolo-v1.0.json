@@ -1409,7 +1409,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-24",
+      "birth_date": "1954-01-29",
       "gender": "male",
       "given_name": "Mathew",
       "id": "42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
@@ -1431,7 +1431,14 @@
           "url": "https://de.wikipedia.org/wiki/Mathew_Nkhuwa"
         }
       ],
-      "name": "Mathew Nkhuwa"
+      "name": "Matthew Nkhuwa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mathew Nkhuwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-02-15",
@@ -2004,6 +2011,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "594681f2-2d0d-4463-9bce-b75b29a236c9",
+      "name": "Goodwin Putu"
     },
     {
       "birth_date": "1972-10-04",
@@ -4477,6 +4488,10 @@
         }
       ],
       "name": "Darious Mumba"
+    },
+    {
+      "id": "a9df358f-b5a8-4212-aee2-36f0a881510a",
+      "name": "Raphael Nakachinda"
     },
     {
       "birth_date": "1964-11-27",
@@ -9530,6 +9545,19 @@
       ]
     },
     {
+      "area_id": "mangango",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "PF",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "594681f2-2d0d-4463-9bce-b75b29a236c9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7863"
+        }
+      ]
+    },
+    {
       "area_id": "kasenengwa",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "MMD",
@@ -10982,6 +11010,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/node/4689"
+        }
+      ]
+    },
+    {
+      "area_id": "nominated",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "MMD",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "a9df358f-b5a8-4212-aee2-36f0a881510a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7858"
         }
       ]
     },
