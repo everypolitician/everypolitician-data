@@ -1179,6 +1179,28 @@
       "sort_name": "Tannas, Scott"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Stanley.Kutcher@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Stanley.Kutcher@sen.parl.gc.ca",
+      "id": "4185fb6d-6d5e-464a-ba38-0cb737b9a74a",
+      "image": "https://sencanada.ca/media/363771/sen_218929_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363771/sen_218929_large.jpg"
+        }
+      ],
+      "name": "Stan Kutcher",
+      "sort_name": "Kutcher, Stan"
+    },
+    {
       "birth_date": "1955-08-05",
       "contact_details": [
         {
@@ -1625,6 +1647,28 @@
       ],
       "name": "Marilou McPhedran",
       "sort_name": "McPhedran, Marilou"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Pat.Duncan@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Pat.Duncan@sen.parl.gc.ca",
+      "id": "5577d360-789c-4d41-b70b-8cd59df3ca17",
+      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
+        }
+      ],
+      "name": "Pat Duncan",
+      "sort_name": "Duncan, Pat"
     },
     {
       "birth_date": "1945-02-18",
@@ -4382,52 +4426,6 @@
       "sort_name": "Dawson, Dennis"
     },
     {
-      "birth_date": "1960-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pat.Duncan@sen.parl.gc.ca"
-        },
-        {
-          "type": "phone",
-          "value": "613-944-3453"
-        }
-      ],
-      "email": "Pat.Duncan@sen.parl.gc.ca",
-      "family_name": "Duncan",
-      "gender": "female",
-      "given_name": "Pat",
-      "id": "9eb76731-4482-4c1a-a957-39fa5cdd8018",
-      "identifiers": [
-        {
-          "identifier": "Q3368534",
-          "scheme": "wikidata"
-        },
-        {
-          "identifier": "Duncan-4250",
-          "scheme": "wikitree"
-        }
-      ],
-      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Pat_Duncan"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Pat_Duncan"
-        }
-      ],
-      "name": "Pat Duncan",
-      "sort_name": "Duncan, Pat"
-    },
-    {
       "birth_date": "1951-08-23",
       "contact_details": [
         {
@@ -7093,48 +7091,6 @@
       "sort_name": "Black, Robert"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Stanley.Kutcher@sen.parl.gc.ca"
-        },
-        {
-          "type": "phone",
-          "value": "613-944-3453"
-        }
-      ],
-      "email": "Stanley.Kutcher@sen.parl.gc.ca",
-      "gender": "male",
-      "id": "f62c2bcc-0806-4d4a-92a4-aafee5fc1bcd",
-      "identifiers": [
-        {
-          "identifier": "Q59726113",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://sencanada.ca/media/363771/sen_218929_large.jpg",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/363771/sen_218929_large.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Stanley_Kutcher"
-        }
-      ],
-      "name": "Stan Kutcher",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Stanley Kutcher",
-          "note": "multilingual"
-        }
-      ],
-      "sort_name": "Kutcher, Stan"
-    },
-    {
       "birth_date": "1955-12-31",
       "contact_details": [
         {
@@ -7199,8 +7155,12 @@
           "value": "Rosemary.Moodie@sen.parl.gc.ca"
         },
         {
+          "type": "fax",
+          "value": "613-947-7239"
+        },
+        {
           "type": "phone",
-          "value": "613-944-3453"
+          "value": "613-947-7237"
         }
       ],
       "email": "Rosemary.Moodie@sen.parl.gc.ca",
@@ -9285,6 +9245,19 @@
       ]
     },
     {
+      "area_id": "nova_scotia_(nova_scotia)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "4185fb6d-6d5e-464a-ba38-0cb737b9a74a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/kutcher-stan/"
+        }
+      ]
+    },
+    {
       "area_id": "ontario_(ontario)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
@@ -9387,6 +9360,19 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/mcphedran-marilou/"
+        }
+      ]
+    },
+    {
+      "area_id": "yukon_(yukon)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "5577d360-789c-4d41-b70b-8cd59df3ca17",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/duncan-pat/"
         }
       ]
     },
@@ -9923,19 +9909,6 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/dawson-dennis/"
-        }
-      ]
-    },
-    {
-      "area_id": "yukon_(yukon)",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
-      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
-      "person_id": "9eb76731-4482-4c1a-a957-39fa5cdd8018",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://sencanada.ca/en/senators/duncan-patricia/"
         }
       ]
     },
@@ -10516,19 +10489,6 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/black-robert/"
-        }
-      ]
-    },
-    {
-      "area_id": "nova_scotia_(nova_scotia)",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
-      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
-      "person_id": "f62c2bcc-0806-4d4a-92a4-aafee5fc1bcd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://sencanada.ca/en/senators/kutcher-stanley/"
         }
       ]
     },
