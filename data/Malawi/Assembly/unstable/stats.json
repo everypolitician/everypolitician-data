@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 193,
+    "count": 196,
     "wikidata": 188,
     "latest_term": {
-      "count": 193,
+      "count": 196,
       "wikidata": 188,
-      "images": 2,
+      "images": 190,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -37,14 +37,26 @@
     {
       "file": "morph/official.csv",
       "type": "membership",
-      "scraper": "tmtmtmtm/malawi-parliament",
+      "scraper": "everypolitician-scrapers/malawi-parliament",
+      "lastmod": "2017-10-17"
+    },
+    {
+      "file": "archive/official-2014-old.csv",
+      "type": "membership",
+      "scraper": null,
+      "lastmod": "2019-02-11"
+    },
+    {
+      "file": "archive/gender.csv",
+      "type": "person",
+      "scraper": null,
       "lastmod": "2017-10-17"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/malawi-national-assembly-wikidata",
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "manual/terms.csv",
@@ -62,7 +74,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "wikidata/elections.json",
