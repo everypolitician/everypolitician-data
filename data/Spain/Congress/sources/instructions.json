@@ -132,7 +132,13 @@
       "merge": {
         "incoming_field": "twitter",
         "existing_field": "twitter",
-        "reconciliation_file": "reconciliation/twitter.csv"
+        "reconciliation_file": "reconciliation/twitter.csv",
+        "patch": {
+          "ignore": [
+            "name",
+            "image"
+          ]
+        }
       }
     }
   ]
