@@ -58,6 +58,7 @@ namespace :term_csvs do
   task reports: :term_tables do
     warn '-' * 72
     warn '⚠ No wikidata membership item' unless json_load(LEGISLATURE_META).key?(:member)
+    warn '⚠ No wikidata cabinet item' unless json_load(COUNTRY_META).key?(:cabinet)
     wikidata_matched('Persons', @popolo.persons.partition(&:wikidata))
     wikidata_matched('Areas', @popolo.areas.partition(&:wikidata))
     wikidata_matched('Parties', @popolo.organizations.where(classification: 'party')
