@@ -57,6 +57,7 @@ namespace :term_csvs do
   desc 'Add some final reporting information'
   task reports: :term_tables do
     warn '-' * 72
+    warn '⚠ No wikidata membership item' unless json_load(LEGISLATURE_META).key?(:member)
     wikidata_matched('Persons', @popolo.persons.partition(&:wikidata))
     wikidata_matched('Areas', @popolo.areas.partition(&:wikidata))
     wikidata_matched('Parties', @popolo.organizations.where(classification: 'party')
