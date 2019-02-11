@@ -9,7 +9,7 @@
       "contacts": {
         "email": 120,
         "facebook": 109,
-        "twitter": 111
+        "twitter": 108
       }
     }
   },
@@ -62,7 +62,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/new-zealand-parliament-wikidata",
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "morph/terms.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "morph/areas.csv",
@@ -99,12 +99,6 @@
       "type": "wikidata-elections",
       "scraper": null,
       "lastmod": "2019-02-07"
-    },
-    {
-      "file": "morph/twitter.csv",
-      "type": "person",
-      "scraper": "everypolitician-scrapers/twitter-list-new-zealand-parliament",
-      "lastmod": "2018-05-25"
     }
   ]
 }
