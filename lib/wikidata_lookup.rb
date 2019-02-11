@@ -140,15 +140,7 @@ class ElectionLookup < WikidataLookup
   # We don't have the normal id => uuid Hash here,
   # but rather instructions for a Wikidata SPARQL lookup
   def initialize(instructions)
-    query = <<~EOSPARQL
-      SELECT ?item WHERE {
-        ?item wdt:P31 wd:#{instructions[:base]}
-        FILTER NOT EXISTS { ?item wdt:P361/wdt:P31 wd:#{instructions[:base]} }
-      }
-      ORDER BY ?item
-    EOSPARQL
-    ids = wikidata_sparql(query)
-    @wikidata_id_lookup = Hash[ids.map { |id| [id, id] }]
+    @instructions = instructions
   end
 
   def other_fields_for(result)
@@ -169,6 +161,8 @@ class ElectionLookup < WikidataLookup
 
   private
 
+  attr_reader :instructions
+
   WIKIDATA_SPARQL_URL = 'https://query.wikidata.org/sparql'
 
   def wikidata_sparql(query)
@@ -177,5 +171,23 @@ class ElectionLookup < WikidataLookup
     json[:results][:bindings].map { |res| res[:item][:value].split('/').last }
   rescue RestClient::Exception => e
     abort "Wikidata query #{query.inspect} failed: #{e.message}"
+  end
+
+  def query
+    <<~EOSPARQL
+      SELECT ?item WHERE {
+        ?item wdt:P31 wd:#{instructions[:base]}
+        FILTER NOT EXISTS { ?item wdt:P361/wdt:P31 wd:#{instructions[:base]} }
+      }
+      ORDER BY ?item
+    EOSPARQL
+  end
+
+  def ids
+    wikidata_sparql(query)
+  end
+
+  def wikidata_id_lookup
+    Hash[ids.map { |id| [id, id] }]
   end
 end
