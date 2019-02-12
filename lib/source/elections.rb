@@ -17,7 +17,9 @@ module Source
                   [data[:start_date], data[:end_date]] :
                   [data[:dates]]
                 ).flatten.compact.sort
-        next warn "No dates for election #{id} (#{name[:name]})" if dates.empty?
+        next warn "\tNo dates for election #{id} (#{name[:name]})" if dates.empty?
+
+        warn "\tShort date for election #{id} (#{name[:name]})" if dates.all? { |d| d.length < 10 }
 
         {
           id:             id,
