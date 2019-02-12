@@ -98,7 +98,7 @@ namespace :transform do
       next unless t[:end_date]
 
       if t[:end_date].length == 4
-        warn "Imprecise end date (#{t[:end_date]}) for term #{t[:name]}"
+        warn "\tShort end date (#{t[:end_date]}) for term #{t[:name]}"
         t.delete :end_date unless t[:end_date].to_i < today.year.to_i
       else
         d = Date.parse(t[:end_date]) rescue nil
