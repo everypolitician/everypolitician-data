@@ -623,16 +623,11 @@
       "birth_date": "1984-05-30",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Steffan.Lewis@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "SteffanLewis"
         }
       ],
       "death_date": "2019-01-11",
-      "email": "Steffan.Lewis@assembly.wales",
       "family_name": "Lewis",
       "gender": "male",
       "given_name": "Steffan",
@@ -2327,6 +2322,13 @@
     },
     {
       "birth_date": "1960-06-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "HelenMary.Jones@assembly.wales"
+        }
+      ],
+      "email": "HelenMary.Jones@assembly.wales",
       "family_name": "Jones",
       "gender": "female",
       "given_name": "Helen",
@@ -6337,6 +6339,29 @@
       ]
     },
     {
+      "family_name": "Jewell",
+      "gender": "female",
+      "given_name": "Delyth",
+      "id": "99995d63-b32c-48e6-9863-cdc42879e399",
+      "identifiers": [
+        {
+          "identifier": "Q60658323",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Delyth_Jewell"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Delyth_Jewell"
+        }
+      ],
+      "name": "Delyth Jewell"
+    },
+    {
       "birth_date": "1972",
       "contact_details": [
         {
@@ -6654,11 +6679,411 @@
           "url": "https://twitter.com/siangwenfelin"
         }
       ],
-      "name": "Sian Gwenllian",
+      "name": "Siân Gwenllian",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Siân Gwenllian",
+          "lang": "af",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Sian Gwenllian",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Sian Gwenllian",
           "note": "multilingual"
         }
       ]
@@ -7672,15 +8097,10 @@
       "birth_date": "1963-12-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Simon.Thomas@assembly.wales"
-        },
-        {
           "type": "twitter",
           "value": "SimonThomasAC"
         }
       ],
-      "email": "Simon.Thomas@assembly.wales",
       "family_name": "Thomas",
       "gender": "male",
       "given_name": "Simon",
@@ -12017,6 +12437,7 @@
     },
     {
       "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+      "end_date": "2019-01-11",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
@@ -12481,6 +12902,15 @@
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "37d64651-0bbe-4c31-8ad6-4252191c4e73",
       "role": "member"
+    },
+    {
+      "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "37d64651-0bbe-4c31-8ad6-4252191c4e73",
+      "role": "member",
+      "start_date": "2018-08-02"
     },
     {
       "area_id": "9d152dd1-055e-4cec-bf56-b0fd6dd76193",
@@ -13627,6 +14057,15 @@
       "role": "member"
     },
     {
+      "area_id": "ff168f40-b756-4eab-a36e-900066b7cde3",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "99995d63-b32c-48e6-9863-cdc42879e399",
+      "role": "member",
+      "start_date": "2019-02-08"
+    },
+    {
       "area_id": "5fda6cf1-63a1-4467-bfa7-b8b9945c6722",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "b3b881f7-f595-4fa7-9107-2382b33f0e70",
@@ -14046,6 +14485,7 @@
     },
     {
       "area_id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
+      "end_date": "2018-07-25",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "e07e997c-9ee8-48f8-b278-c7a372026296",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
