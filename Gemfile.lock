@@ -21,12 +21,12 @@ GIT
 
 GIT
   remote: https://github.com/everypolitician/everypolitician-pull_request.git
-  revision: ca3606b58cc9cfe35554b472257ad668016b7df7
+  revision: 12c35540813f200189f5ccb5beea7ce0bbe18084
   specs:
-    everypolitician-pull_request (0.4.1)
+    everypolitician-pull_request (0.5.0)
       activesupport
       everypolitician-popolo
-      octokit
+      octokit (~> 4.13)
       require_all
 
 GIT
@@ -157,7 +157,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    rubocop (0.63.1)
+    rubocop (0.64.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.5, != 2.5.1.1)
