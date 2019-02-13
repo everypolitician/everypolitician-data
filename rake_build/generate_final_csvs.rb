@@ -14,8 +14,12 @@ namespace :term_csvs do
   task term_tables: POPOLO_JSON do
     source_warn 'Creating termfiles'
     @popolo = popolo = EveryPolitician::Popolo.read(POPOLO_JSON)
+    terms_with_members = @popolo.memberships.map(&:term).map(&:id).uniq.map { |id| id.split('/').last }.to_set
+
     terms = EveryPolitician::Dataview::Terms.new(popolo: @popolo).terms
     terms.each do |term|
+      next unless terms_with_members.include? term.id
+
       path = Pathname.new('term-%s.csv' % term.id)
       path.write(term.as_csv)
 

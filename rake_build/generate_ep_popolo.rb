@@ -77,15 +77,16 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :merge_termfile
   task merge_termfile: :ensure_legislature do
+    existing_terms = @json[:events].select { |e| e[:classification] == 'legislative period' }
     terms = @INSTRUCTIONS.sources_of_type('term')
                          .flat_map { |src| src.to_popolo[:events] }
                          .each { |t| t[:organization_id] = @legislature[:id] }
-                         .group_by { |t| t[:id] }
+    @json[:events].delete_if { |e| e[:classification] == 'legislative period' }
+    @json[:events] += terms
 
-    @json[:events].each do |e|
-      csv_terms = terms[e[:id]] or abort "No term information for #{e[:id]}"
-      e.merge! csv_terms.first
-    end
+    # Are any memberships of terms not in the termfile?
+    missing = (existing_terms.map { |t| t[:id] } - terms.map { |t| t[:id] })
+    abort "No term information for #{missing.join(', ')}" if missing.any?
   end
 
   #---------------------------------------------------------------------
