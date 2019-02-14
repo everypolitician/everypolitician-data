@@ -76,21 +76,6 @@
       }
     },
     {
-      "file": "morph/politwitter.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/canada-politwitter",
-        "query": "SELECT id, name, twitter, area FROM data WHERE twitter != '' ORDER BY id"
-      },
-      "source": "http://politwitter.ca/",
-      "type": "person",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/politwitter.csv"
-      }
-    },
-    {
       "file": "morph/politwitfb.csv",
       "create": {
         "from": "morph",
