@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 413,
-    "wikidata": 277,
+    "wikidata": 291,
     "latest_term": {
       "count": 275,
-      "wikidata": 261,
+      "wikidata": 275,
       "images": 275,
       "contacts": {
         "email": 11,
         "facebook": 0,
-        "twitter": 6
+        "twitter": 9
       }
     }
   },
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/ghana-parliament-wikidata",
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "manual/terms.csv",
@@ -62,7 +62,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -74,13 +74,13 @@
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
       "scraper": null,
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-14"
     }
   ]
 }
