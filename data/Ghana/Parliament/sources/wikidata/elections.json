@@ -30,50 +30,6 @@
       "1965"
     ]
   },
-  "Q1638870": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q1638870"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "de",
-        "name": "Parlamentswahlen in Ghana 1992",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Ghanaian parliamentary election, 1992",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni parlamentari in Ghana del 1992",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ru",
-        "name": "Парламентские выборы в Гане",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Élections législatives ghanéennes de 1992",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "1992-12-29"
-    ],
-    "office": "Member of the Parliament of Ghana"
-  },
   "Q1641358": {
     "identifiers": [
       {
@@ -132,9 +88,10 @@
       }
     ],
     "dates": [
-      "1996"
+      "1996-12-07"
     ],
-    "office": "President of Ghana"
+    "follows": "Ghanaian general election, 1992",
+    "followed_by": "Ghanaian general election, 2000"
   },
   "Q18344384": {
     "identifiers": [
@@ -283,7 +240,8 @@
     "dates": [
       "2000-12-07"
     ],
-    "office": "President of Ghana"
+    "follows": "Ghanaian general election, 1996",
+    "followed_by": "Ghanaian general election, 2004"
   },
   "Q2115160": {
     "identifiers": [
@@ -629,5 +587,25 @@
     "dates": [
       "1969"
     ]
+  },
+  "Q61724334": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q61724334"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Ghanaian general election, 1992",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1992-12-29"
+    ],
+    "followed_by": "Ghanaian general election, 1996"
   }
 }
