@@ -1409,7 +1409,7 @@
       ]
     },
     {
-      "birth_date": "1954-01-24",
+      "birth_date": "1954-01-29",
       "gender": "male",
       "given_name": "Mathew",
       "id": "42c2a6cf-4989-426c-8aaf-ea13a90ffdfa",
@@ -1431,7 +1431,14 @@
           "url": "https://de.wikipedia.org/wiki/Mathew_Nkhuwa"
         }
       ],
-      "name": "Mathew Nkhuwa"
+      "name": "Matthew Nkhuwa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mathew Nkhuwa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-02-15",
@@ -5636,6 +5643,10 @@
       "name": "Douglas Syakalima"
     },
     {
+      "id": "d6d50e64-4683-4230-b139-069023335095",
+      "name": "Raphael Nakachinda"
+    },
+    {
       "birth_date": "1946-04-28",
       "gender": "male",
       "id": "d7640a9b-98a3-48a7-a183-3a022e8b9208",
@@ -6682,6 +6693,10 @@
         }
       ],
       "name": "Dawson Kafwaya"
+    },
+    {
+      "id": "f58ad760-ad2e-4dd4-a793-7213755981a5",
+      "name": "Goodwin Putu"
     },
     {
       "birth_date": "1981-03-16",
@@ -11668,6 +11683,19 @@
       ]
     },
     {
+      "area_id": "nominated",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "MMD",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "d6d50e64-4683-4230-b139-069023335095",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7858"
+        }
+      ]
+    },
+    {
       "area_id": "kanyama",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "PF",
@@ -12249,6 +12277,19 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.zm/members-of-parliament"
+        }
+      ]
+    },
+    {
+      "area_id": "mangango",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "PF",
+      "organization_id": "9b4913bc-bbad-4646-bc73-a510b11a921f",
+      "person_id": "f58ad760-ad2e-4dd4-a793-7213755981a5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.zm/node/7863"
         }
       ]
     },
