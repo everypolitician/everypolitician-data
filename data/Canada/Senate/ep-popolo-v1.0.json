@@ -242,10 +242,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://sencanada.ca/media/26263/sen_2759_large.jpg",
+      "image": "https://sencanada.ca/media/26263/sen_2759_2019_large.jpg",
       "images": [
         {
-          "url": "https://sencanada.ca/media/26263/sen_2759_large.jpg"
+          "url": "https://sencanada.ca/media/26263/sen_2759_2019_large.jpg"
         }
       ],
       "links": [
@@ -2514,6 +2514,10 @@
         },
         {
           "type": "twitter",
+          "value": "EricForestSen"
+        },
+        {
+          "type": "twitter",
           "value": "EricForestRiki"
         }
       ],
@@ -2545,6 +2549,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/ericforest.sen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EricForestSen"
         },
         {
           "note": "twitter",
@@ -2727,10 +2735,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://sencanada.ca/media/362981/sen_217512_large_2018.jpg",
+      "image": "https://sencanada.ca/media/362981/sen_217512_large_2019.jpg",
       "images": [
         {
-          "url": "https://sencanada.ca/media/362981/sen_217512_large_2018.jpg"
+          "url": "https://sencanada.ca/media/362981/sen_217512_large_2019.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Peter_Boehm_-_2015_(16399694871)_(cropped).jpg"
@@ -4383,17 +4391,6 @@
     },
     {
       "birth_date": "1960-04-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pat.Duncan@sen.parl.gc.ca"
-        },
-        {
-          "type": "phone",
-          "value": "613-944-3453"
-        }
-      ],
-      "email": "Pat.Duncan@sen.parl.gc.ca",
       "family_name": "Duncan",
       "gender": "female",
       "given_name": "Pat",
@@ -4406,12 +4403,6 @@
         {
           "identifier": "Duncan-4250",
           "scheme": "wikitree"
-        }
-      ],
-      "image": "https://sencanada.ca/media/363761/sen_large.jpg",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/363761/sen_large.jpg"
         }
       ],
       "links": [
@@ -9040,6 +9031,11 @@
       "name": "Senate",
       "seats": 105,
       "type": "upper house"
+    },
+    {
+      "classification": "party",
+      "id": "party/_unknown",
+      "name": "unknown"
     }
   ],
   "meta": {
@@ -9940,9 +9936,8 @@
       ]
     },
     {
-      "area_id": "yukon_(yukon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "09fe12de-7eef-4bb7-b518-107447fd8bd4",
+      "on_behalf_of_id": "party/_unknown",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "9eb76731-4482-4c1a-a957-39fa5cdd8018",
       "role": "member",
