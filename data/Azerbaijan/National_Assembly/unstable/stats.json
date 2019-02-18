@@ -1,9 +1,9 @@
 {
   "people": {
-    "count": 152,
-    "wikidata": 152,
+    "count": 135,
+    "wikidata": 133,
     "latest_term": {
-      "count": 124,
+      "count": 125,
       "wikidata": 124,
       "images": 38,
       "contacts": {
@@ -14,8 +14,8 @@
     }
   },
   "groups": {
-    "count": 14,
-    "wikidata": 14
+    "count": 13,
+    "wikidata": 1
   },
   "terms": {
     "count": 2,
@@ -38,13 +38,13 @@
       "file": "morph/wikipedia.csv",
       "type": "membership",
       "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikipedia",
-      "lastmod": "2018-10-11"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikidata",
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "morph/terms.csv",
@@ -74,7 +74,7 @@
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "scraper": null,
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-18"
     }
   ]
 }
