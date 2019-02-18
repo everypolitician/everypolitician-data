@@ -21,9 +21,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "incoming_field": "identifier__riksdagen",
+        "existing_field": "identifier__riksdagen"
       }
     },
     {
