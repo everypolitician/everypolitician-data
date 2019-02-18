@@ -35,16 +35,16 @@
   },
   "sources": [
     {
-      "file": "morph/official.csv",
+      "file": "archive/official-2013.csv",
       "type": "membership",
-      "scraper": "tmtmtmtm/togo-national-assembly",
-      "lastmod": "2019-02-08"
+      "scraper": null,
+      "lastmod": null
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/togo-national-assembly-wikidata",
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "manual/terms.csv",
@@ -68,7 +68,7 @@
       "file": "wikidata/groups.json",
       "type": "group",
       "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "wikidata/elections.json",
