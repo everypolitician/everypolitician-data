@@ -1,29 +1,29 @@
 {
   "people": {
-    "count": 91,
-    "wikidata": 5,
+    "count": 173,
+    "wikidata": 6,
     "latest_term": {
       "count": 91,
-      "wikidata": 5,
+      "wikidata": 1,
       "images": 1,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 1
+        "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 7,
-    "wikidata": 5
+    "count": 23,
+    "wikidata": 9
   },
   "terms": {
-    "count": 1,
-    "latest": "2013-08-20",
+    "count": 2,
+    "latest": "2018-12-21",
     "wikidata": 0
   },
   "areas": {
-    "count": 31,
+    "count": 35,
     "wikidata": 0
   },
   "elections": {
@@ -38,7 +38,13 @@
       "file": "archive/official-2013.csv",
       "type": "membership",
       "scraper": null,
-      "lastmod": null
+      "lastmod": "2019-02-18"
+    },
+    {
+      "file": "morph/official-2018.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/togo-national-assembly",
+      "lastmod": "2019-02-18"
     },
     {
       "file": "morph/wikidata.csv",
