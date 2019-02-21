@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 20,
+    "count": 21,
     "wikidata": 20
   },
   "terms": {
@@ -37,13 +37,11 @@
     {
       "file": "archive/official-term-7.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-03-29"
     },
     {
       "file": "archive/official-8-vanished.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-09-13"
     },
     {
@@ -56,7 +54,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/guatemala-congress-members-wikidata",
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "morph/terms.csv",
@@ -67,8 +65,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-06"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -79,8 +76,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-01-31"
+      "lastmod": "2019-02-06"
     }
   ]
 }
