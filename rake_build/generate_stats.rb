@@ -120,7 +120,7 @@ namespace :stats do
         type:    src[:type],
         scraper: src.dig(:create, :scraper),
         lastmod: bs.lastmod,
-      }
+      }.compact
     end
     STATSFILE.dirname.mkpath
     STATSFILE.write(JSON.pretty_generate(stats))
