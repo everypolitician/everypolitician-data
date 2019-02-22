@@ -367,14 +367,16 @@
       },
       {
         "lang": "fr",
-        "name": "Élections constituantes luxembourgeoises de 1918",
+        "name": "élections constituantes luxembourgeoises de 1918",
         "note": "multilingual",
         "source": "wikidata-label"
       }
     ],
     "dates": [
-      "1918"
+      "1918-07-28",
+      "1918-08-04"
     ],
+    "follows": "Luxembourgian legislative election, 1915",
     "followed_by": "Luxembourgian legislative election, 1919"
   },
   "Q2002561": {
@@ -758,7 +760,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives luxembourgeoises de 1919",
+        "name": "élections législatives luxembourgeoises de 1919",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -1036,7 +1038,9 @@
     ],
     "dates": [
       "1964"
-    ]
+    ],
+    "follows": "Luxembourgian legislative election, 1959",
+    "followed_by": "Luxembourgian legislative election, 1968"
   },
   "Q3246845": {
     "identifiers": [
@@ -1085,7 +1089,9 @@
     ],
     "dates": [
       "1968"
-    ]
+    ],
+    "follows": "Luxembourgian legislative election, 1964",
+    "followed_by": "Luxembourgian legislative election, 1974"
   },
   "Q3246850": {
     "identifiers": [
@@ -1134,7 +1140,9 @@
     ],
     "dates": [
       "1974"
-    ]
+    ],
+    "follows": "Luxembourgian legislative election, 1968",
+    "followed_by": "Luxembourgian legislative election, 1979"
   },
   "Q3246853": {
     "identifiers": [
@@ -1183,7 +1191,8 @@
     ],
     "dates": [
       "1959"
-    ]
+    ],
+    "followed_by": "Luxembourgian legislative election, 1964"
   },
   "Q3246862": {
     "identifiers": [
@@ -1232,7 +1241,9 @@
     ],
     "dates": [
       "1979"
-    ]
+    ],
+    "follows": "Luxembourgian legislative election, 1974",
+    "followed_by": "Luxembourgian legislative election, 1984"
   },
   "Q3246868": {
     "identifiers": [
@@ -1368,11 +1379,18 @@
         "name": "Eleccions legislatives luxemburgueses de 1915",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives luxembourgeoises de 1915",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
-      "1915"
-    ]
+      "1915-12-23"
+    ],
+    "followed_by": "Luxembourgian Constitutional Assembly election, 1918"
   },
   "Q6706334": {
     "identifiers": [
@@ -1488,7 +1506,7 @@
       }
     ],
     "dates": [
-      "1951"
+      "1951-06-03"
     ]
   }
 }
