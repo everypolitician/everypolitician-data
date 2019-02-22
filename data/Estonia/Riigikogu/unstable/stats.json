@@ -31,7 +31,7 @@
     "latest": "2019-03-03"
   },
   "positions": {
-    "cabinet": 112
+    "cabinet": 111
   },
   "sources": [
     {
@@ -43,7 +43,6 @@
     {
       "file": "google/sheet-12.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-01-13"
     },
     {
@@ -67,7 +66,6 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-09"
     },
     {
@@ -85,14 +83,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-11"
     },
     {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/estonia-positions",
-      "lastmod": "2018-12-03"
+      "lastmod": "2019-02-21"
     }
   ]
 }
