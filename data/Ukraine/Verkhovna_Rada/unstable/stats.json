@@ -28,7 +28,7 @@
   },
   "elections": {
     "count": 9,
-    "latest": "2019"
+    "latest": "2019-10-27"
   },
   "positions": {
     "cabinet": 24
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/ukraine-deputies-wikidata",
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-15"
     },
     {
       "file": "morph/terms.csv",
@@ -61,7 +61,6 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-09"
     },
     {
@@ -73,8 +72,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-15"
     }
   ]
 }
