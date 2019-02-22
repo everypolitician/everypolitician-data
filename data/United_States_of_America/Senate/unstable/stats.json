@@ -9,7 +9,7 @@
       "contacts": {
         "email": 0,
         "facebook": 88,
-        "twitter": 98
+        "twitter": 99
       }
     }
   },
@@ -55,19 +55,17 @@
     {
       "file": "wikidata/parties.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-17"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/us-states-wikidata",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2019-01-24"
     },
     {
@@ -85,7 +83,6 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-05"
     }
   ]
