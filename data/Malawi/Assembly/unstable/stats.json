@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 11,
-    "latest": "2014-05-20"
+    "count": 12,
+    "latest": "2019-05-21"
   },
   "positions": {
     "cabinet": 0
@@ -43,44 +43,38 @@
     {
       "file": "archive/official-2014-old.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2019-02-11"
     },
     {
       "file": "archive/gender.csv",
       "type": "person",
-      "scraper": null,
       "lastmod": "2017-10-17"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/malawi-national-assembly-wikidata",
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-15"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-12-16"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "scraper": null,
       "lastmod": "2015-12-22"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-09"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-15"
     }
   ]
 }
