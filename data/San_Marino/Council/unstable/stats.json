@@ -1,10 +1,10 @@
 {
   "people": {
-    "count": 102,
+    "count": 103,
     "wikidata": 54,
     "latest_term": {
       "count": 62,
-      "wikidata": 26,
+      "wikidata": 25,
       "images": 62,
       "contacts": {
         "email": 0,
@@ -37,7 +37,6 @@
     {
       "file": "archive/official-2012.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-10-06"
     },
     {
@@ -49,19 +48,17 @@
     {
       "file": "archive/official-2016-vanished.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2019-01-30"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/san_marino_council-wikidata",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-20"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-10-06"
     },
     {
@@ -79,13 +76,11 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-20"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-18"
     }
   ]
