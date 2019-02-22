@@ -14,8 +14,8 @@
     }
   },
   "groups": {
-    "count": 3,
-    "wikidata": 3
+    "count": 4,
+    "wikidata": 1
   },
   "terms": {
     "count": 1,
@@ -43,7 +43,6 @@
     {
       "file": "archive/wikipedia-ceased.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-10-16"
     },
     {
@@ -56,7 +55,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/botswana-national-assembly-wikidata",
-      "lastmod": "2019-01-27"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "morph/terms.csv",
@@ -73,20 +72,17 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2018-09-18"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-14"
     }
   ]
 }
