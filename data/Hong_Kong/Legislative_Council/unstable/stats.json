@@ -37,7 +37,6 @@
     {
       "file": "archive/term-5.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-10-07"
     },
     {
@@ -49,7 +48,6 @@
     {
       "file": "archive/vanished-6.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-10-07"
     },
     {
@@ -61,14 +59,13 @@
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-02-03"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/hong-kong-legco-constituencies-wikidata",
-      "lastmod": "2019-02-02"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -85,13 +82,11 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-10"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-10"
     }
   ]
