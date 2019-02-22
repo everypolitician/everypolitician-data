@@ -37,14 +37,13 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2019-02-06"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "tmtmtmtm/uk-parliament-members",
-      "lastmod": "2019-02-11"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "morph/twitter.csv",
@@ -67,25 +66,21 @@
     {
       "file": "manual/emails.csv",
       "type": "person",
-      "scraper": null,
       "lastmod": "2015-08-28"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-06-09"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-13"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "scraper": null,
       "lastmod": "2016-05-13"
     },
     {
@@ -97,25 +92,22 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-18"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "morph/twitter.csv",
       "type": "person",
-      "scraper": null,
       "lastmod": "2017-05-15"
     },
     {
       "file": "manual/facebook.csv",
       "type": "person",
-      "scraper": null,
       "lastmod": "2017-07-05"
     }
   ]
