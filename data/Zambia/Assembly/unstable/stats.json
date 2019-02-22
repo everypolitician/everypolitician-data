@@ -1,9 +1,9 @@
 {
   "people": {
-    "count": 260,
+    "count": 262,
     "wikidata": 183,
     "latest_term": {
-      "count": 169,
+      "count": 171,
       "wikidata": 169,
       "images": 167,
       "contacts": {
@@ -37,7 +37,6 @@
     {
       "file": "archive/official-2012.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-02-22"
     },
     {
@@ -49,43 +48,37 @@
     {
       "file": "archive/vanished-2016.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-11-23"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/zambia-national-assembly-wikidata",
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2019-01-23"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "scraper": null,
       "lastmod": "2018-11-22"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-09"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     }
   ]
