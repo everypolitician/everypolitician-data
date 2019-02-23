@@ -28,7 +28,7 @@
   },
   "elections": {
     "count": 19,
-    "latest": "2019"
+    "latest": "2019-02-25"
   },
   "positions": {
     "cabinet": 0
@@ -44,19 +44,17 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikidata",
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-10"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2016-06-13"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-10"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -67,13 +65,11 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2016-03-03"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     }
   ]
