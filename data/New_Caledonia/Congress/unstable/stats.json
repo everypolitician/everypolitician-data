@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 56,
-    "wikidata": 24,
+    "count": 55,
+    "wikidata": 23,
     "latest_term": {
-      "count": 56,
-      "wikidata": 24,
-      "images": 56,
+      "count": 55,
+      "wikidata": 23,
+      "images": 55,
       "contacts": {
         "email": 0,
         "facebook": 1,
@@ -14,8 +14,8 @@
     }
   },
   "groups": {
-    "count": 11,
-    "wikidata": 11
+    "count": 8,
+    "wikidata": 6
   },
   "terms": {
     "count": 1,
@@ -44,42 +44,36 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/new-caledonia-mps-wp",
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "archive/official-vanished.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-11-09"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2015-08-02"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "scraper": null,
       "lastmod": "2016-10-13"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2018-09-28"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-02-07"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-07"
     }
   ]
