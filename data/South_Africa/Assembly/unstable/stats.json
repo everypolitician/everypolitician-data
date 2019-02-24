@@ -7,7 +7,7 @@
       "wikidata": 497,
       "images": 497,
       "contacts": {
-        "email": 386,
+        "email": 385,
         "facebook": 3,
         "twitter": 15
       }
@@ -44,7 +44,7 @@
       "file": "morph/peoplesassembly.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/south-africa-national-assembly",
-      "lastmod": "2019-02-04"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "morph/wikidata.csv",
@@ -55,7 +55,6 @@
     {
       "file": "wikidata/parties.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-13"
     },
     {
@@ -74,12 +73,11 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/south-africa-positions",
-      "lastmod": "2019-01-17"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-13"
     }
   ]
