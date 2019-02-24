@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 48,
-    "wikidata": 19,
+    "count": 24,
+    "wikidata": 1,
     "latest_term": {
-      "count": 48,
-      "wikidata": 19,
-      "images": 48,
+      "count": 24,
+      "wikidata": 1,
+      "images": 24,
       "contacts": {
-        "email": 48,
-        "facebook": 1,
-        "twitter": 1
+        "email": 24,
+        "facebook": 0,
+        "twitter": 0
       }
     }
   },
   "groups": {
     "count": 2,
-    "wikidata": 2
+    "wikidata": 1
   },
   "terms": {
     "count": 1,
@@ -23,7 +23,7 @@
     "wikidata": 0
   },
   "areas": {
-    "count": 47,
+    "count": 23,
     "wikidata": 0
   },
   "elections": {
@@ -43,7 +43,6 @@
     {
       "file": "archive/official-ceased.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-01-18"
     },
     {
@@ -55,7 +54,6 @@
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2015-06-30"
     },
     {
@@ -67,13 +65,11 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-01-16"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-01-16"
     }
   ]
