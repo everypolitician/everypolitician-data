@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 34,
-    "latest": "2016-05-09"
+    "count": 35,
+    "latest": "2019-05-13"
   },
   "positions": {
     "cabinet": 0
@@ -37,14 +37,13 @@
     {
       "file": "archive/official-16.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-11-09"
     },
     {
       "file": "morph/term-17.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/philippines-house-of-representatives",
-      "lastmod": "2019-02-02"
+      "lastmod": "2019-02-18"
     },
     {
       "file": "morph/wikidata.csv",
@@ -67,19 +66,16 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-01-31"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2019-01-28"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     }
   ]
