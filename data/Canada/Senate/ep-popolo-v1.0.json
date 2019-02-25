@@ -2376,28 +2376,6 @@
       "sort_name": "LaBoucane-Benson, Patti"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "Pat.Duncan@sen.parl.gc.ca"
-        },
-        {
-          "type": "phone",
-          "value": "613-944-3453"
-        }
-      ],
-      "email": "Pat.Duncan@sen.parl.gc.ca",
-      "id": "6964ddbb-0339-4547-bff6-5661d1512ee0",
-      "image": "https://sencanada.ca/media/363761/sen_218933_large.jpg",
-      "images": [
-        {
-          "url": "https://sencanada.ca/media/363761/sen_218933_large.jpg"
-        }
-      ],
-      "name": "Pat Duncan",
-      "sort_name": "Duncan, Pat"
-    },
-    {
       "birth_date": "1950-09-21",
       "contact_details": [
         {
@@ -4414,6 +4392,52 @@
         }
       ],
       "sort_name": "Dawson, Dennis"
+    },
+    {
+      "birth_date": "1960-04-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Pat.Duncan@sen.parl.gc.ca"
+        },
+        {
+          "type": "phone",
+          "value": "613-944-3453"
+        }
+      ],
+      "email": "Pat.Duncan@sen.parl.gc.ca",
+      "family_name": "Duncan",
+      "gender": "female",
+      "given_name": "Pat",
+      "id": "9eb76731-4482-4c1a-a957-39fa5cdd8018",
+      "identifiers": [
+        {
+          "identifier": "Q3368534",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Duncan-4250",
+          "scheme": "wikitree"
+        }
+      ],
+      "image": "https://sencanada.ca/media/363761/sen_218933_large.jpg",
+      "images": [
+        {
+          "url": "https://sencanada.ca/media/363761/sen_218933_large.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pat_Duncan"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pat_Duncan"
+        }
+      ],
+      "name": "Pat Duncan",
+      "sort_name": "Duncan, Pat"
     },
     {
       "birth_date": "1951-08-23",
@@ -9546,19 +9570,6 @@
       ]
     },
     {
-      "area_id": "yukon_(yukon)",
-      "legislative_period_id": "term/42",
-      "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
-      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
-      "person_id": "6964ddbb-0339-4547-bff6-5661d1512ee0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://sencanada.ca/en/senators/duncan-pat/"
-        }
-      ]
-    },
-    {
       "area_id": "quebec_(de_la_vallière)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
@@ -9934,6 +9945,19 @@
       "sources": [
         {
           "url": "https://sencanada.ca/en/senators/dawson-dennis/"
+        }
+      ]
+    },
+    {
+      "area_id": "yukon_(yukon)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "45fc5629-2cd9-46a7-bccb-a1c5a8d33fa0",
+      "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
+      "person_id": "9eb76731-4482-4c1a-a957-39fa5cdd8018",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://sencanada.ca/en/senators/duncan-pat/"
         }
       ]
     },
