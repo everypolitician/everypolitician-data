@@ -76,27 +76,6 @@
       }
     },
     {
-      "file": "morph/twitter.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/twitter-australia-senate",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
-      "type": "person",
-      "source": "https://twitter.com/AuSenate/lists/senators",
-      "merge": {
-        "incoming_field": "name",
-        "existing_field": "name__en",
-        "reconciliation_file": "reconciliation/twitter.csv",
-        "patch": {
-          "ignore": [
-            "name",
-            "image"
-          ]
-        }
-      }
-    },
-    {
       "file": "morph/areas.csv",
       "create": {
         "from": "morph",
