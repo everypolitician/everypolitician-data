@@ -521,6 +521,12 @@
       "sort_name": "ÁRPÁD FREMOND"
     },
     {
+      "birth_date": "1989",
+      "id": "0dd1d2f0-a94a-4268-ac8e-393c73240125",
+      "name": "NEMANJA RADOJEVIC",
+      "sort_name": "NEMANJA RADOJEVIC"
+    },
+    {
       "birth_date": "1949",
       "honorific_prefix": "Dr",
       "id": "0e537eb1-d449-4ab1-b2d3-85e297037d6f",
@@ -1645,6 +1651,12 @@
       "sort_name": "ZARKO Dr KORAC"
     },
     {
+      "birth_date": "1977",
+      "id": "1e067f1b-aa90-446e-bf63-53a208eaaf2c",
+      "name": "VOJIN BILjIC",
+      "sort_name": "VOJIN BILjIC"
+    },
+    {
       "birth_date": "1956-02-25",
       "gender": "male",
       "given_name": "Milorad",
@@ -2174,6 +2186,12 @@
         }
       ],
       "sort_name": "NEMANJA SAROVIC"
+    },
+    {
+      "birth_date": "1978",
+      "id": "26a9f33e-058c-4323-a13f-7c982f89059d",
+      "name": "MILAN LjUBIC",
+      "sort_name": "MILAN LjUBIC"
     },
     {
       "birth_date": "1949-10-21",
@@ -2706,6 +2724,12 @@
         }
       ],
       "sort_name": "MILAN KRKOBABIC"
+    },
+    {
+      "birth_date": "1986",
+      "id": "3396cc8e-a62e-4717-b232-5ee5753af7ce",
+      "name": "VIOLETA LUTOVAC DJURDJEVIC",
+      "sort_name": "VIOLETA LUTOVAC DJURDJEVIC"
     },
     {
       "birth_date": "1976",
@@ -12849,6 +12873,12 @@
       "sort_name": "STANIJA KOMPIROVIC"
     },
     {
+      "birth_date": "1979",
+      "id": "da917a4d-9ab2-4c99-86d1-646bd454a4b5",
+      "name": "ANDRIJANA AVRAMOV",
+      "sort_name": "ANDRIJANA AVRAMOV"
+    },
+    {
       "birth_date": "1981",
       "gender": "male",
       "id": "db2e3753-f82f-485a-8745-a7bac857baae",
@@ -15841,11 +15871,6 @@
     },
     {
       "classification": "party",
-      "id": "free_mps",
-      "name": "Free MPs"
-    },
-    {
-      "classification": "party",
       "id": "independent_mps_club",
       "name": "Independent MPs Club"
     },
@@ -16085,6 +16110,11 @@
     },
     {
       "classification": "party",
+      "id": "party_of_modern_serbia",
+      "name": "Party of Modern Serbia"
+    },
+    {
+      "classification": "party",
       "id": "party_of_united_pensioners_of_serbia",
       "identifiers": [
         {
@@ -16203,6 +16233,11 @@
           "source": "wikidata-alias"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "politics_has_to_be_different",
+      "name": "Politics Has To Be Different"
     },
     {
       "classification": "party",
@@ -17620,6 +17655,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party_of_modern_serbia",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "0dd1d2f0-a94a-4268-ac8e-393c73240125",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/NEMANJA_RADOJEVIC.1010.488.html"
+        }
+      ],
+      "start_date": "2019-02-13"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "socialist_party_of_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -17984,6 +18032,19 @@
     },
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "1e067f1b-aa90-446e-bf63-53a208eaaf2c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/VOJIN_BILjIC.1011.488.html"
+        }
+      ],
+      "start_date": "2019-02-13"
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "serbian_radical_party",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "1e1c7d74-08f9-403a-99ca-877208958194",
@@ -18044,7 +18105,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "1fbc864e-a3ac-4621-ad76-83cf59265172",
       "role": "member",
@@ -18211,6 +18272,19 @@
           "url": "http://www.parlament.gov.rs/NEMANJA_SAROVIC.523.488.html"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "26a9f33e-058c-4323-a13f-7c982f89059d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/MILAN_LjUBIC.1013.488.html"
+        }
+      ],
+      "start_date": "2019-02-13"
     },
     {
       "legislative_period_id": "term/10",
@@ -18492,6 +18566,19 @@
       ]
     },
     {
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "3396cc8e-a62e-4717-b232-5ee5753af7ce",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/VIOLETA_LUTOVAC+DJURDJEVIC.830.488.html"
+        }
+      ],
+      "start_date": "2019-02-13"
+    },
+    {
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "alliance_of_vojvodina_hungarians",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
@@ -18518,7 +18605,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "346cf056-6998-46b0-8187-4f239e36ff96",
       "role": "member",
@@ -18640,7 +18727,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "free_mps",
+      "on_behalf_of_id": "party_of_modern_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "377938c7-b90c-48a4-aa69-387887d73282",
       "role": "member",
@@ -18844,7 +18931,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "free_mps",
+      "on_behalf_of_id": "party_of_modern_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "42448180-2048-43e2-98d0-9ce766f5d634",
       "role": "member",
@@ -18880,7 +18967,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "free_mps",
+      "on_behalf_of_id": "party_of_modern_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "43476a31-ddcd-4f70-a6aa-d44c75480676",
       "role": "member",
@@ -18905,7 +18992,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "politics_has_to_be_different",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "438f7638-91c0-4115-88d5-2debec2bcc79",
       "role": "member",
@@ -20402,7 +20489,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "politics_has_to_be_different",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "8808bce7-4d1f-480c-8bac-d8be8ea36443",
       "role": "member",
@@ -20922,7 +21009,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "politics_has_to_be_different",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "9b54d321-2dd6-46c4-af76-4f4823ab866e",
       "role": "member",
@@ -21093,7 +21180,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "free_mps",
+      "on_behalf_of_id": "party_of_modern_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "a1491696-fbca-462b-890d-4f417f616fc3",
       "role": "member",
@@ -21502,7 +21589,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "dveri",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "b0b01548-d8f1-4fee-ad74-af30b501c41b",
       "role": "member",
@@ -21550,7 +21637,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "b10ef8af-2f37-4a9f-8319-3fd92b0d2459",
       "role": "member",
@@ -22739,6 +22826,19 @@
     },
     {
       "legislative_period_id": "term/11",
+      "on_behalf_of_id": "serbian_progressive_party",
+      "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
+      "person_id": "da917a4d-9ab2-4c99-86d1-646bd454a4b5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.gov.rs/ANDRIJANA_AVRAMOV.1012.488.html"
+        }
+      ],
+      "start_date": "2019-02-13"
+    },
+    {
+      "legislative_period_id": "term/11",
       "on_behalf_of_id": "dveri",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "db2e3753-f82f-485a-8745-a7bac857baae",
@@ -23100,7 +23200,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "enough_is_enough",
+      "on_behalf_of_id": "party/unknown",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "e537647d-db0d-490f-8a51-e6f27090b0aa",
       "role": "member",
@@ -23802,7 +23902,7 @@
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "free_mps",
+      "on_behalf_of_id": "party_of_modern_serbia",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "person_id": "fcfd6b1d-5787-4780-b64c-eb1ab25d8f27",
       "role": "member",
