@@ -1,13 +1,13 @@
 {
   "people": {
-    "count": 213,
+    "count": 292,
     "wikidata": 124,
     "latest_term": {
-      "count": 138,
-      "wikidata": 75,
-      "images": 130,
+      "count": 140,
+      "wikidata": 35,
+      "images": 140,
       "contacts": {
-        "email": 0,
+        "email": 140,
         "facebook": 1,
         "twitter": 0
       }
@@ -18,9 +18,9 @@
     "wikidata": 13
   },
   "terms": {
-    "count": 2,
-    "latest": "2013-09-09",
-    "wikidata": 2
+    "count": 3,
+    "latest": "2017-09-09",
+    "wikidata": 3
   },
   "areas": {
     "count": 24,
@@ -39,6 +39,12 @@
       "type": "membership",
       "scraper": "tmtmtmtm/albania-kuvendi-wikipedia",
       "lastmod": "2016-12-15"
+    },
+    {
+      "file": "morph/official-9.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/albania-kuvendi",
+      "lastmod": "2019-02-26"
     },
     {
       "file": "morph/wikipedia-7.csv",
