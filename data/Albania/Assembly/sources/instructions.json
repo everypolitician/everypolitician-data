@@ -28,12 +28,7 @@
       "sourcetype": "wikipedia"
     },
     {
-      "file": "morph/official-8.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/albania-kuvendi",
-        "query": "SELECT id,name,email,image,birth_date,birth_place,source AS website,id AS identifier__kuvendi FROM data ORDER BY id"
-      },
+      "file": "archive/official-8.csv",
       "source": "http://www.parlament.al/",
       "type": "person",
       "merge": {
