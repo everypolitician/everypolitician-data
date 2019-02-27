@@ -68,6 +68,11 @@ namespace :term_csvs do
 
   desc 'Build the Cabinet file'
   task positions: [POPOLO_JSON] do
+    # Warn if data is still also being generated the old way
+    @INSTRUCTIONS.sources_of_type('wikidata-positions').each do |_i|
+      warn '⚠ using old-style cabinet lookup'
+    end
+
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
     source_warn "Creating #{POSITION_CSV}"
 
