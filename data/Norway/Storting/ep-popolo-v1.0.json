@@ -693,10 +693,41 @@
       "gender": "male",
       "given_name": "Sigbjørn",
       "id": "01df714c-f009-4dea-b36a-95fce5677c89",
+      "identifiers": [
+        {
+          "identifier": "SIGJE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q14437803",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SIGJE&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SIGJE&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sigbjørn_Gjelsvik_(2017-03-23_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sigbjørn_Gjelsvik"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sigbjørn_Gjelsvik"
         }
       ],
       "name": "Sigbjørn Gjelsvik",
@@ -1009,6 +1040,7 @@
     },
     {
       "birth_date": "1923-10-13",
+      "death_date": "2012-06-10",
       "family_name": "Bolle",
       "gender": "male",
       "given_name": "Eivind",
@@ -1017,6 +1049,58 @@
         {
           "identifier": "EIBO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0b9pvb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "74",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EIBO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "227906593",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1321485",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Former_minister_of_Fisheries_Eivind_Bolle.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Former_minister_of_Fisheries_Eivind_Bolle.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Eivind_Bolle"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eivind_Bolle"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eivind_Bolle"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Eivind_Bolle"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Eivind_Bolle"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Eivind_Bolle"
         }
       ],
       "name": "Eivind Bolle",
@@ -1298,6 +1382,7 @@
     },
     {
       "birth_date": "1913-05-12",
+      "death_date": "2006-12-31",
       "family_name": "Strømdahl",
       "gender": "male",
       "given_name": "Reidar",
@@ -1306,6 +1391,28 @@
         {
           "identifier": "RESR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "759",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RESR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7310027",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Reidar_Strømdahl"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Reidar_Strømdahl"
         }
       ],
       "name": "Reidar Strømdahl",
@@ -1717,6 +1824,7 @@
     },
     {
       "birth_date": "1888-06-23",
+      "death_date": "1957-09-28",
       "family_name": "Mørland",
       "gender": "male",
       "given_name": "Arnt Jacobsen",
@@ -1725,9 +1833,42 @@
         {
           "identifier": "ARMØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "573",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ARM_O",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4795420",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arnt_J._Mørland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Arnt_J._Mørland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arnt_J._Mørland"
         }
       ],
       "name": "Arnt Jacobsen Mørland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Arnt J. Mørland",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mørland, Arnt Jacobsen"
     },
     {
@@ -2220,6 +2361,7 @@
     },
     {
       "birth_date": "1887-05-07",
+      "death_date": "1958-09-16",
       "family_name": "Oksvik",
       "gender": "male",
       "given_name": "Olav Berntsen",
@@ -2228,9 +2370,64 @@
         {
           "identifier": "OLOK",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "267686",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0003 6640 1520",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n90633829",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "607",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OLOK",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "229591720",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6980160",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/32430_Olav_Oksvik.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/32430_Olav_Oksvik.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olav_Oksvik"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Olav_Oksvik"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Olav_Oksvik"
         }
       ],
       "name": "Olav Berntsen Oksvik",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Olav Oksvik",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Oksvik, Olav Berntsen"
     },
     {
@@ -2546,6 +2743,7 @@
     },
     {
       "birth_date": "1920-12-05",
+      "death_date": "1989-05-17",
       "family_name": "Eika",
       "gender": "male",
       "given_name": "Hallvard",
@@ -2554,6 +2752,40 @@
         {
           "identifier": "HAEK",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "153",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HAEK",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "49148995744459750507",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4572009",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hallvard_Eika"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hallvard_Eika"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Hallvard_Eika"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hallvard_Eika"
         }
       ],
       "name": "Hallvard Eika",
@@ -2649,12 +2881,45 @@
         {
           "identifier": "RAE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30163",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RAE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q3432890",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=RAE&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=RAE&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rigmor_A._Eide_Foto.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rigmor_Andersen_Eide"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rigmor_Andersen_Eide"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Rigmor_Andersen_Eide"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Rigmor_Andersen_Eide"
         }
       ],
       "name": "Rigmor Andersen Eide",
@@ -3149,6 +3414,7 @@
     },
     {
       "birth_date": "1893-09-26",
+      "death_date": "1963-01-04",
       "family_name": "Valen",
       "gender": "male",
       "given_name": "Neri",
@@ -3157,6 +3423,32 @@
         {
           "identifier": "NEVA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "833",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "NEVA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6996164",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Neri_Valen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Neri_Valen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Neri_Valen"
         }
       ],
       "name": "Neri Valen",
@@ -3226,12 +3518,49 @@
         {
           "identifier": "KJT",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "31478",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KJT",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q3432015",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KJT&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KJT&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Kjersti_Toppe_kandidater_Sp,_stortingsvalget_2013_(2).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Kjersti_Toppe"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kjersti_Toppe"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kjersti_Toppe"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kjersti_Toppe"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kjersti_Toppe"
         }
       ],
       "name": "Kjersti Toppe",
@@ -3723,12 +4052,53 @@
         {
           "identifier": "PEG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0d_v4j",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "30151",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PEG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q1771760",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=PEG&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=PEG&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Peter_S._Gitmark.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Peter_S._Gitmark"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Skovholt_Gitmark"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Peter_Skovholt_Gitmark"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Peter_Gitmark"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Peter_Skovholt_Gitmark"
         }
       ],
       "name": "Peter Skovholt Gitmark",
@@ -4211,6 +4581,7 @@
     },
     {
       "birth_date": "1916-09-24",
+      "death_date": "1994-08-30",
       "family_name": "Gjærevoll",
       "gender": "male",
       "given_name": "Olav",
@@ -4219,9 +4590,99 @@
         {
           "identifier": "OLGÆ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0001 0968 3184",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n80156261",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "olav-gjaerevoll",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "121556042",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "239",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OLGÆ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "44904558",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4579325",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ordfører_Olav_Gjærevoll_(1980)_(9462991591).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Ordfører_Olav_Gjærevoll_(1980)_(9462991591).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Olav_Gjærevoll"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Olav_Gjærevoll"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olav_Gjærevoll"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Olav_Gjaerevoll"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Olav_Gjærevoll"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Olav_Gjærevoll"
+        },
+        {
+          "note": "Wikipedia (species)",
+          "url": "https://species.wikipedia.org/wiki/Olav_Gjærevoll"
         }
       ],
       "name": "Olav Gjærevoll",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Olav Gjaerevoll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Olav Gjaerevoll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Olav Gjaerevoll",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Olav Gjaerevoll",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gjærevoll, Olav"
     },
     {
@@ -4741,17 +5202,63 @@
     },
     {
       "birth_date": "1916-03-20",
+      "death_date": "1994-12-11",
       "family_name": "Andersen",
       "gender": "male",
       "given_name": "Magnus",
       "id": "1265b999-f8ae-4674-9a9b-9e54d0173a7c",
       "identifiers": [
         {
+          "identifier": "90531489",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "MAAN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "11",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MAAN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "222341642",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4576503",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Magnus_Andersen_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Magnus_Andersen_(politician)"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Magnus_Andersen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Magnus_Andersen_(politiker)"
         }
       ],
       "name": "Magnus Andersen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Магнус Андерсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Andersen, Magnus"
     },
     {
@@ -5275,8 +5782,68 @@
       "id": "14578f44-6a31-4c80-8037-07470e2f4204",
       "identifiers": [
         {
+          "identifier": "11005377",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "TRJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bpzwf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "2133",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TRJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q488369",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terje_Riis-Johansen_Senterpartiet_Landbruks-_og_matminister20051017.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Terje_Riis-Johansen_Senterpartiet_Landbruks-_og_matminister20051017.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Terje_Riis-Johansen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Terje_Riis-Johansen"
         }
       ],
       "name": "Terje Riis-Johansen",
@@ -5838,12 +6405,38 @@
         {
           "identifier": "IVO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4131",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "IVO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6098492",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=IVO&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=IVO&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivar_Østberg"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ivar_Østberg"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ivar_Østberg"
         }
       ],
       "name": "Ivar Østberg",
@@ -5975,6 +6568,7 @@
     },
     {
       "birth_date": "1925-08-17",
+      "death_date": "2016-11-13",
       "family_name": "Fadum",
       "gender": "female",
       "given_name": "Aslaug",
@@ -5983,6 +6577,28 @@
         {
           "identifier": "ASFD",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "180",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ASFD",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4807310",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aslaug_Fadum"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Aslaug_Fadum"
         }
       ],
       "name": "Aslaug Fadum",
@@ -6418,14 +7034,63 @@
       "id": "182f8eb3-b0dc-4b18-adfa-a614ec75d0db",
       "identifiers": [
         {
+          "identifier": "13022957",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "IOL",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/080bfpd",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "31449",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "IOL",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "302097950",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1799837",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=IOL&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=IOL&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ingalill_Olsen_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ingalill_Olsen"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ingalill_Olsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ingalill_Olsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ingalill_Olsen"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Ingalill_Olsen"
         }
       ],
       "name": "Ingalill Olsen",
@@ -6989,6 +7654,7 @@
     },
     {
       "birth_date": "1931-03-18",
+      "death_date": "2012-05-17",
       "family_name": "Synnes",
       "gender": "male",
       "given_name": "Harald",
@@ -6997,6 +7663,32 @@
         {
           "identifier": "HRSY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "776",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HRSY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5653986",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Harald_Synnes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Harald_Synnes"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Harald_Synnes"
         }
       ],
       "name": "Harald Synnes",
@@ -7582,6 +8274,7 @@
     },
     {
       "birth_date": "1901-01-09",
+      "death_date": "1971-09-04",
       "family_name": "Lyngstad",
       "gender": "male",
       "given_name": "Bjarne",
@@ -7590,6 +8283,48 @@
         {
           "identifier": "BJLY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 4386 4168",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2005038617",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "513",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "BJLY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "44029236",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4571889",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Bjarne_Lyngstad"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bjarne_Lyngstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Bjarne_Lyngstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bjarne_Lyngstad"
         }
       ],
       "name": "Bjarne Lyngstad",
@@ -7811,6 +8546,18 @@
         {
           "identifier": "ESO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2107",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ESO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5360321",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ESO&storrelse=middels",
@@ -7819,11 +8566,26 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ESO&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eli_Sollied_Øveraas"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Eli_Sollied_Øveraas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Eli_Sollied_Øveraas"
+        }
+      ],
       "name": "Eli Sollied Øveraas",
       "sort_name": "Øveraas, Eli Sollied"
     },
     {
       "birth_date": "1905-09-03",
+      "death_date": "1977-07-07",
       "family_name": "Lysø",
       "gender": "male",
       "given_name": "Nils Kristian",
@@ -7832,9 +8594,42 @@
         {
           "identifier": "NILY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "516",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "NILY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4575768",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nils_Lysø"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Nils_Lysø"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Nils_Lysø"
         }
       ],
       "name": "Nils Kristian Lysø",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nils Lysø",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lysø, Nils Kristian"
     },
     {
@@ -8330,6 +9125,7 @@
     },
     {
       "birth_date": "1908-04-24",
+      "death_date": "1981-03-11",
       "family_name": "Enge",
       "gender": "male",
       "given_name": "Jonas",
@@ -8338,6 +9134,28 @@
         {
           "identifier": "JOEN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "162",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JOEN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6272074",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jonas_Enge"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jonas_Enge"
         }
       ],
       "name": "Jonas Enge",
@@ -8419,6 +9237,7 @@
     },
     {
       "birth_date": "1910-08-02",
+      "death_date": "1978-04-30",
       "family_name": "Riise",
       "gender": "male",
       "given_name": "Lauritz Johan",
@@ -8427,6 +9246,36 @@
         {
           "identifier": "LARI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "651",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LARI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11135193",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lauritz_Johan_Riise"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lauritz_Johan_Riise"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Lauritz_Johan_Riise"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Lauritz_Johan_Riise"
         }
       ],
       "name": "Lauritz Johan Riise",
@@ -9482,6 +10331,44 @@
         {
           "identifier": "LIH",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02x73pp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3347",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "1128",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LIH",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q1777084",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lisbeth_Holand"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Lisbeth_Holand"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Lisbeth_Holand"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Lisbeth_Holand"
         }
       ],
       "name": "Lisbeth Holand",
@@ -9489,23 +10376,232 @@
     },
     {
       "birth_date": "1960-08-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jonasgahrstore"
+        }
+      ],
       "family_name": "Støre",
       "gender": "male",
       "given_name": "Jonas Gahr",
       "id": "2777a13d-f368-4915-b9b1-1da471ed3cf7",
       "identifiers": [
         {
+          "identifier": "2121602",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "JGS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/08d5c9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1051651468",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "229104",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "0000 0003 8339 1811",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2004002461",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "31300",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JGS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "jonas_gahr_store",
+          "scheme": "ted"
+        },
+        {
+          "identifier": "269536238",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q467948",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=JGS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JGS&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jonas_Gahr_Støre_(174630).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/يوناس_غار_ستوره"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ionas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Стёре,_Йонас_Гар"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Йонас_Гар_Стьоре"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/約納斯·加爾·斯特勒"
+        },
+        {
+          "note": "Wikiquote (cs)",
+          "url": "https://cs.wikiquote.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "Wikiquote (pl)",
+          "url": "https://pl.wikiquote.org/wiki/Jonas_Gahr_Støre"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jonasgahrstore"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jonasgahrstore"
         }
       ],
       "name": "Jonas Gahr Støre",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "يوناس غار ستوره",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヨーナス・ガール・ストーレ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ionas Gahr Støre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Йонас Гар Стёре",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Йонас Гар Стьоре",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "約納斯·加爾·斯特勒",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "约纳斯·加尔·斯特勒",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "約納斯·加爾·斯特勒",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Støre, Jonas Gahr"
     },
     {
@@ -10115,7 +11211,7 @@
     },
     {
       "birth_date": "1922-12-28",
-      "death_date": "2019-02-18",
+      "death_date": "2019-02-17",
       "family_name": "Christiansen",
       "gender": "male",
       "given_name": "Ragnar Karl Viktor",
@@ -10488,12 +11584,49 @@
         {
           "identifier": "JHR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30853",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JHR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6321658",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=JHR&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JHR&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Jørund_Henning_Rytman.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jørund_Henning_Rytman"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jørund_Rytman"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jørund_Henning_Rytman"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jørund_Rytman"
+        },
+        {
+          "note": "website",
+          "url": "http://www.rytman.no"
         }
       ],
       "name": "Jørund Rytman",
@@ -10547,10 +11680,38 @@
       "gender": "male",
       "given_name": "Kjell-Børge",
       "id": "2b92bf1d-75ae-4b45-b1e1-b6491b08ac3c",
+      "identifiers": [
+        {
+          "identifier": "32049",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KBF",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11213033",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KBF&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KBF&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kjell-Børge_Freiberg"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kjell-Børge_Freiberg"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kjell-Børge_Freiberg"
         }
       ],
       "name": "Kjell-Børge Freiberg",
@@ -13464,6 +14625,7 @@
     },
     {
       "birth_date": "1916-05-07",
+      "death_date": "1994-06-17",
       "family_name": "Liane",
       "gender": "male",
       "given_name": "Eigil Olaf",
@@ -13472,6 +14634,32 @@
         {
           "identifier": "EILI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "480",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EILI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5349172",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eigil_Olaf_Liane"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Eigil_Liane"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Eigil_Olaf_Liane"
         }
       ],
       "name": "Eigil Olaf Liane",
@@ -14111,6 +15299,7 @@
     },
     {
       "birth_date": "1919-08-09",
+      "death_date": "1997-03-21",
       "family_name": "Andersen",
       "gender": "female",
       "given_name": "Liv",
@@ -14119,9 +15308,42 @@
         {
           "identifier": "LIAN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "10",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LIAN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11986523",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Liv_Andersen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Liv_Andersen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Liv_Andersen"
         }
       ],
       "name": "Liv Andersen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Лив Андерсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Andersen, Liv"
     },
     {
@@ -14205,6 +15427,7 @@
     },
     {
       "birth_date": "1922-12-29",
+      "death_date": "1994-12-28",
       "family_name": "Norwich",
       "gender": "male",
       "given_name": "Arnljot",
@@ -14213,6 +15436,32 @@
         {
           "identifier": "ARNW",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "595",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ARNW",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4794862",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arnljot_Norwich"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Arnljot_Norwich"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arnljot_Norwich"
         }
       ],
       "name": "Arnljot Norwich",
@@ -19475,12 +20724,38 @@
         {
           "identifier": "ODG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2152",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ODG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7082844",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ODG&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ODG&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ola_D._Gløtvold"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ola_D._Gløtvold"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ola_D._Gløtvold"
         }
       ],
       "name": "Ola D. Gløtvold",
@@ -20099,6 +21374,7 @@
     },
     {
       "birth_date": "1926-05-10",
+      "death_date": "2012-05-29",
       "family_name": "Røssum",
       "gender": "male",
       "given_name": "Ola O.",
@@ -20107,6 +21383,32 @@
         {
           "identifier": "OLRØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "677",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OLR_O",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7082878",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ola_O._Røssum"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ola_O._Røssum"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ola_O._Røssum"
         }
       ],
       "name": "Ola O. Røssum",
@@ -20455,14 +21757,79 @@
       "id": "4f71060e-0d20-48d5-96da-86cbb85d6ed4",
       "identifiers": [
         {
+          "identifier": "13022443",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "OBM",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bpw0z",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1162202661",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0004 0865 800X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "30118",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OBM",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "301338416",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q728444",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=OBM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=OBM&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ola_Borten_Moe.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ola_Borten_Moe"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ola_Borten_Moe"
         }
       ],
       "name": "Ola Borten Moe",
@@ -20677,6 +22044,7 @@
     },
     {
       "birth_date": "1894-05-03",
+      "death_date": "1976-10-20",
       "family_name": "Langlo",
       "gender": "male",
       "given_name": "Kristian",
@@ -20685,6 +22053,28 @@
         {
           "identifier": "KRLA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "467",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KRLA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6437935",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kristian_Langlo"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kristian_Langlo"
         }
       ],
       "name": "Kristian Langlo",
@@ -20754,6 +22144,7 @@
     },
     {
       "birth_date": "1943-09-03",
+      "death_date": "2018-09-12",
       "family_name": "Ringstad",
       "gender": "female",
       "given_name": "Jorunn",
@@ -20762,12 +22153,46 @@
         {
           "identifier": "JR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 6276 1270",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "2141",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "225894080",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6279061",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=JR&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JR&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jorunn_Ringstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jorunn_Ringstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jorunn_Ringstad"
         }
       ],
       "name": "Jorunn Ringstad",
@@ -21752,6 +23177,7 @@
     },
     {
       "birth_date": "1914-03-18",
+      "death_date": "1998-12-10",
       "family_name": "Haugeland",
       "gender": "male",
       "given_name": "Trygve",
@@ -21760,6 +23186,44 @@
         {
           "identifier": "TRHG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0004 2001 8160",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "300",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TRHG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "226143936",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6513655",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Trygve_Haugeland"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Trygve_Haugeland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Trygve_Haugeland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Trygve_Haugeland"
         }
       ],
       "name": "Trygve Haugeland",
@@ -22422,6 +23886,7 @@
     },
     {
       "birth_date": "1931-10-16",
+      "death_date": "2012-08-07",
       "family_name": "Rossbach",
       "gender": "male",
       "given_name": "Hans Hammond",
@@ -22430,6 +23895,44 @@
         {
           "identifier": "HARO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02x4kzs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "660",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HARO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q1343834",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Hans_Hammond_Rossbach"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hans_Hammond_Rossbach"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hans_Hammond_Rossbach"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Hans_Hammond_Rossbach"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hans_Hammond_Rossbach"
         }
       ],
       "name": "Hans Hammond Rossbach",
@@ -23055,12 +24558,38 @@
         {
           "identifier": "OJB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1111",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OJB",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7085875",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=OJB&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=OJB&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ole_Johs._Brunæs"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ole_Johs._Brunæs"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ole_Johs._Brunæs"
         }
       ],
       "name": "Ole Johs. Brunæs",
@@ -23456,21 +24985,196 @@
     },
     {
       "birth_date": "1885-01-05",
+      "death_date": "1964-12-15",
       "family_name": "Hambro",
       "gender": "male",
       "given_name": "Carl Joachim",
       "id": "5bfcbe79-6914-49cb-b1bf-8ea1bd2d2788",
       "identifiers": [
         {
+          "identifier": "90105608",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "CAHM",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "148811",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/04x26r",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119361027",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 0972 0117",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85011901",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "071035745",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "279",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "w63r44xm",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "CAHM",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "52497376",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1039034",
+          "scheme": "wikidata"
+        },
+        {
+          "identifier": "Hambro-7",
+          "scheme": "wikitree"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/33519_C.J._Hambro.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/33519_C.J._Hambro.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Carl_Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Carl_Joachim_Hambro_(politiker)"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Carl_Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/C._J._Hambro"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Carl_Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Carl_Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Carl_Joachim_Hambro"
+        },
+        {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Хамбро_Карл_Йоаким"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Carl_Joachim_Hambro_(1885-1964)"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/C.J._Hambro"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хамбро,_Карл_Йоаким"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Carl_Joachim_Hambro_(politiker)"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/C.J._Hambro"
         }
       ],
       "name": "Carl Joachim Hambro",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "C. J. Hambro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joachim Hambro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "C. J. Hambro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "カール・ヨアヒム・ハンブロ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Хамбро Карл Йоаким",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "C. J. Hambro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хамбро, Карл Йоаким",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "卡爾·漢布洛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "C·J·汉布罗",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "C·J·汉布罗",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "C·J·漢布羅",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hambro, Carl Joachim"
     },
     {
       "birth_date": "1925-06-18",
+      "death_date": "2016-02-03",
       "family_name": "Weiberg-Aurdal",
       "gender": "male",
       "given_name": "Arnold",
@@ -23479,6 +25183,32 @@
         {
           "identifier": "ARWE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "858",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ARWE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4585518",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arnold_Weiberg-Aurdal"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Arnold_Weiberg-Aurdal"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arnold_Weiberg-Aurdal"
         }
       ],
       "name": "Arnold Weiberg-Aurdal",
@@ -23778,6 +25508,32 @@
         {
           "identifier": "JOBT",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "54",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JOBT",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6291124",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jostein_Berntsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jostein_Berntsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jostein_Berntsen"
         }
       ],
       "name": "Jostein Berntsen",
@@ -23916,6 +25672,7 @@
     },
     {
       "birth_date": "1907-10-26",
+      "death_date": "1973-09-04",
       "family_name": "Johannessen",
       "gender": "female",
       "given_name": "Martha Frederikke",
@@ -23924,6 +25681,32 @@
         {
           "identifier": "MAJO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "386",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MAJO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6774401",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Martha_Frederikke_Johannessen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Martha_Johannessen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Martha_Frederikke_Johannessen"
         }
       ],
       "name": "Martha Frederikke Johannessen",
@@ -23985,10 +25768,46 @@
       "gender": "male",
       "given_name": "Tellef Inge",
       "id": "5df030f9-0225-44a8-b6b0-249770aa84a7",
+      "identifiers": [
+        {
+          "identifier": "8012037",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "30840",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TIM",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "72149106262468492107",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q25427239",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TIM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TIM&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tellef_Inge_Mørland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tellef_Inge_Mørland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tellef_Inge_Mørland"
         }
       ],
       "name": "Tellef Inge Mørland",
@@ -24317,12 +26136,38 @@
         {
           "identifier": "TNY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2146",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TNY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7825264",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TNY&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TNY&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tor_Nymo"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tor_Nymo"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tor_Nymo"
         }
       ],
       "name": "Tor Nymo",
@@ -25178,6 +27023,7 @@
     },
     {
       "birth_date": "1907-01-05",
+      "death_date": "1995-05-30",
       "family_name": "Møller",
       "gender": "female",
       "given_name": "Sunniva Hakestad",
@@ -25186,6 +27032,32 @@
         {
           "identifier": "SUMØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "571",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "SUMØ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7640608",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sunniva_Hakestad_Møller"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Sunniva_Hakestad_Møller"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Sunniva_Hakestad_Møller"
         }
       ],
       "name": "Sunniva Hakestad Møller",
@@ -25637,12 +27509,38 @@
         {
           "identifier": "OAS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2129",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OAS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7077473",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=OAS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=OAS&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oddbjørg_Ausdal_Starrfelt"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Oddbjørg_Ausdal_Starrfelt"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Oddbjørg_Ausdal_Starrfelt"
         }
       ],
       "name": "Oddbjørg Ausdal Starrfelt",
@@ -25758,17 +27656,199 @@
     },
     {
       "birth_date": "1905-08-22",
+      "death_date": "1978-01-18",
       "family_name": "Lyng",
       "gender": "male",
       "given_name": "John",
       "id": "64de6c70-07da-479f-b3ce-92f1ed578b62",
       "identifiers": [
         {
+          "identifier": "90059177",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "JOLY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "32860",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01blxy",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "170823539",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 2482 1410",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n79032157",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "john-lyng",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "511",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JOLY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "38188676",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q337301",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/John_Lyng_by_Schrøder_(1932).JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/John_Lyng_by_Schrøder_(1932).JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_Lyng"
+        },
+        {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/یون_لینگ"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (fo)",
+          "url": "https://fo.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/욘_륑"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (sw)",
+          "url": "https://sw.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/John_Lyng"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/伊翁·吕恩"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/John_Lyng"
         }
       ],
       "name": "John Lyng",
+      "other_names": [
+        {
+          "lang": "fa",
+          "name": "یون لینگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "욘 륑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊翁·吕恩",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lyng, John"
     },
     {
@@ -25902,6 +27982,7 @@
     },
     {
       "birth_date": "1917-03-06",
+      "death_date": "1998-04-03",
       "family_name": "Svarstad",
       "gender": "male",
       "given_name": "Paul",
@@ -25910,6 +27991,32 @@
         {
           "identifier": "PASV",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "769",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PASV",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7153879",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Svarstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Paul_Svarstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Paul_Svarstad"
         }
       ],
       "name": "Paul Svarstad",
@@ -26679,10 +28786,37 @@
       "gender": "male",
       "given_name": "Lars",
       "id": "68c6e8fa-9746-4f3d-a495-196be59c3d3e",
+      "identifiers": [
+        {
+          "identifier": "LAHA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6491499",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=LAHA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=LAHA&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Lars_Haltbrekken,_2011_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lars_Haltbrekken"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lars_Haltbrekken"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Lars_Haltbrekken"
         }
       ],
       "name": "Lars Haltbrekken",
@@ -26774,6 +28908,7 @@
     },
     {
       "birth_date": "1923-11-10",
+      "death_date": "1991-08-02",
       "family_name": "Bjørnø",
       "gender": "male",
       "given_name": "Alf Martin",
@@ -26782,6 +28917,32 @@
         {
           "identifier": "ALBJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "68",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ALBJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4721717",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alf_Martin_Bjørnø"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Alf_Bjørnø"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Alf_Martin_Bjørnø"
         }
       ],
       "name": "Alf Martin Bjørnø",
@@ -27317,6 +29478,7 @@
     },
     {
       "birth_date": "1919-08-04",
+      "death_date": "2001-11-01",
       "family_name": "Lie",
       "gender": "male",
       "given_name": "Engly",
@@ -27325,6 +29487,32 @@
         {
           "identifier": "ENLI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "482",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ENLI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5378717",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Engly_Lie"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Engly_Lie"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Engly_Lie"
         }
       ],
       "name": "Engly Lie",
@@ -27782,6 +29970,7 @@
     },
     {
       "birth_date": "1915-03-31",
+      "death_date": "2004-05-13",
       "family_name": "Fjose",
       "gender": "female",
       "given_name": "Bergfrid",
@@ -27790,6 +29979,38 @@
         {
           "identifier": "BEFJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "194",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "BEFJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4585759",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bergrfrid_Fjose.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bergrfrid_Fjose.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bergfrid_Fjose"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Bergfrid_Fjose"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bergfrid_Fjose"
         }
       ],
       "name": "Bergfrid Fjose",
@@ -27801,10 +30022,45 @@
       "gender": "female",
       "given_name": "Kari Elisabeth",
       "id": "7059b5be-d490-4193-8cf0-16d2ae02e05d",
+      "identifiers": [
+        {
+          "identifier": "9013022",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "KEKA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "64145970175332251462",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q19715025",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KEKA&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KEKA&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kari_Elisabeth_Kaski_03.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Kari_Elisabeth_Kaski"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kari_Elisabeth_Kaski"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kari_Elisabeth_Kaski"
         }
       ],
       "name": "Kari Elisabeth Kaski",
@@ -27866,9 +30122,42 @@
         {
           "identifier": "KJHE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "313",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KJHE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6419372",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kjell_Helland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kjell_Helland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kjell_Helland"
         }
       ],
       "name": "Kjell Edvard Helland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kjell Helland",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Helland, Kjell Edvard"
     },
     {
@@ -27927,14 +30216,63 @@
     },
     {
       "birth_date": "1931-04-26",
+      "death_date": "2015-02-09",
       "family_name": "Bjorvatn",
       "gender": "male",
       "given_name": "Øyvind",
       "id": "70e62f0f-7ed5-4cb5-b9da-ce9af11c0257",
       "identifiers": [
         {
+          "identifier": "90163643",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "ØYBJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 8476 0324",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "66",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ØYBJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "278086037",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3442938",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Øyvind_Bjorvatn.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Øyvind_Bjorvatn.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Øyvind_Bjorvatn"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Øyvind_Bjorvatn"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Øyvind_Bjorvatn"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Øyvind_Bjorvatn"
         }
       ],
       "name": "Øyvind Bjorvatn",
@@ -29504,14 +31842,67 @@
     },
     {
       "birth_date": "1904-01-27",
+      "death_date": "1998-04-26",
       "family_name": "Broch",
       "gender": "male",
       "given_name": "Theodor",
       "id": "764153db-72e5-41ec-bce6-e35331484301",
       "identifiers": [
         {
+          "identifier": "90272091",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "THBR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 6185 3667",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "94",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "w6vd949t",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "THBR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "222653152",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7781572",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Situasjonen_i_Finnmark_(Theodor_Broch)_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Situasjonen_i_Finnmark_(Theodor_Broch)_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Theodor_Broch"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Theodor_Broch"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Theodor_Broch"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Theodor_Broch"
         }
       ],
       "name": "Theodor Broch",
@@ -29872,6 +32263,7 @@
     },
     {
       "birth_date": "1921-02-04",
+      "death_date": "1999-12-23",
       "family_name": "Gabrielsen",
       "gender": "male",
       "given_name": "Valter",
@@ -29880,6 +32272,32 @@
         {
           "identifier": "VAGA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "226",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "VAGA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7912653",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Valter_Gabrielsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Valter_Gabrielsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Valter_Gabrielsen"
         }
       ],
       "name": "Valter Gabrielsen",
@@ -30097,6 +32515,7 @@
     },
     {
       "birth_date": "1927-08-05",
+      "death_date": "2009-10-20",
       "family_name": "Lowzow",
       "gender": "male",
       "given_name": "Carl Fredrik",
@@ -30105,6 +32524,36 @@
         {
           "identifier": "CALO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "502",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "CALO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5040171",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carl_Fredrik_Lowzow"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Carl_Fredrik_Lowzow"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Carl_Fredrik_Lowzow"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Carl_Fredrik_Lowzow"
         }
       ],
       "name": "Carl Fredrik Lowzow",
@@ -30361,6 +32810,7 @@
     },
     {
       "birth_date": "1921-04-06",
+      "death_date": "1988-07-19",
       "family_name": "Asdahl",
       "gender": "male",
       "given_name": "Erland",
@@ -30369,6 +32819,32 @@
         {
           "identifier": "ERAS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "25",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ERAS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5389720",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Erland_Asdahl"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Erland_Asdahl"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Erland_Asdahl"
         }
       ],
       "name": "Erland Asdahl",
@@ -30384,6 +32860,32 @@
         {
           "identifier": "ARAS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "734",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ARAS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4586292",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arne_Alsåker_Spilde"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Arne_Alsåker_Spilde"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arne_Alsåker_Spilde"
         }
       ],
       "name": "Arne Alsåker Spilde",
@@ -30847,6 +33349,7 @@
     },
     {
       "birth_date": "1885-08-29",
+      "death_date": "1967-05-02",
       "family_name": "Dahlø",
       "gender": "male",
       "given_name": "Paul Martin",
@@ -30855,6 +33358,32 @@
         {
           "identifier": "PADA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "129",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PADA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7152240",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Martin_Dahlø"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Paul_Dahlø"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Paul_Martin_Dahlø"
         }
       ],
       "name": "Paul Martin Dahlø",
@@ -31259,6 +33788,7 @@
     },
     {
       "birth_date": "1887-06-12",
+      "death_date": "1957-03-29",
       "family_name": "Grønland",
       "gender": "male",
       "given_name": "Laurits",
@@ -31267,6 +33797,28 @@
         {
           "identifier": "LAGR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "254",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LAGR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6501865",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Laurits_Grønland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Laurits_Grønland"
         }
       ],
       "name": "Laurits Grønland",
@@ -31983,9 +34535,38 @@
         {
           "identifier": "RJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1133",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7310020",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Reidar_Johansen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Reidar_Johansen"
         }
       ],
       "name": "Reidar Johansen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Рейдар Йохансен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Johansen, Reidar"
     },
     {
@@ -32259,6 +34840,28 @@
         {
           "identifier": "TENY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1147",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TENY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q12005537",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terje_Nyberget"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Terje_Nyberget"
         }
       ],
       "name": "Terje Nyberget",
@@ -32331,12 +34934,38 @@
         {
           "identifier": "BJFR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0278j8x",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "2086",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "BJFR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4919817",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=BJFR&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=BJFR&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bjørgulv_Froyn"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bjørgulv_Froyn"
         }
       ],
       "name": "Bjørgulv Froyn",
@@ -33379,11 +36008,82 @@
       "id": "870f8174-1faf-4f8a-8507-2226efbdc2a2",
       "identifiers": [
         {
+          "identifier": "90564379",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "TWI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/07m1qc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "31668",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TWI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "255149196420674791147",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q446390",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thorhild_Widvey_2014.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thorhild_Widvey_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Թորհիլդ_Վիդվեյ"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Thorhild_Widvey"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Thorhild_Widvey"
         }
       ],
       "name": "Thorhild Widvey",
+      "other_names": [
+        {
+          "lang": "hy",
+          "name": "Թորհիլդ Վիդվեյ",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Widvey, Thorhild"
     },
     {
@@ -33552,17 +36252,77 @@
       "id": "87a71d02-20e0-45e6-82ca-e6ba7611de4b",
       "identifiers": [
         {
+          "identifier": "8015495",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "OLGB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 7237 300X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2009067731",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "2245",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OLGB",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "101409404",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6516073",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=OLGB&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=OLGB&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Olav_Gunnar_Ballo_2009.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Olav_Gunnar_Ballo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olav_Gunnar_Ballo"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Olav_Gunnar_Ballo"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Olav_Gunnar_Ballo"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Olav_Gunnar_Ballo"
         }
       ],
       "name": "Olav Gunnar Ballo",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "奧拉夫·貢納爾·巴爾羅",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ballo, Olav Gunnar"
     },
     {
@@ -34179,6 +36939,7 @@
     },
     {
       "birth_date": "1920-08-09",
+      "death_date": "1973-01-25",
       "family_name": "Langeland",
       "gender": "male",
       "given_name": "Kjeld",
@@ -34187,6 +36948,32 @@
         {
           "identifier": "KJLA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "463",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KJLA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6419312",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kjeld_Langeland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kjeld_Langeland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kjeld_Langeland"
         }
       ],
       "name": "Kjeld Langeland",
@@ -35058,17 +37845,109 @@
     },
     {
       "birth_date": "1943-01-20",
+      "death_date": "2004-09-26",
       "family_name": "Førde",
       "gender": "male",
       "given_name": "Einar",
       "id": "8ceebe3b-965d-4204-9733-fc5fb3a50daa",
       "identifiers": [
         {
+          "identifier": "90191147",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "EIFØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1782457",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0bb5t4",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "13403256X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7880 9898",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n82019794",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "130907014",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "225",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EIF_O",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "67801826",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q563243",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Einar_Førde.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Einar_Førde.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Einar_Førde"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikiquote (nn)",
+          "url": "https://nn.wikiquote.org/wiki/Einar_Førde"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Einar_Førde"
         }
       ],
       "name": "Einar Førde",
+      "other_names": [
+        {
+          "lang": "pl",
+          "name": "Einar Foerde",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Førde, Einar"
     },
     {
@@ -35529,14 +38408,95 @@
       "id": "8f1731cb-6d5a-4315-82ce-7b443a884d2a",
       "identifiers": [
         {
+          "identifier": "90737058",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "KNUS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/08rs52",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0004 0804 9220",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2013098338",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "27136",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KNUS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "228625401",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1343717",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=KNUS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=KNUS&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Justisminister_Knut_Storberget.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Knut_Storberget"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Knut_Storberget"
         }
       ],
       "name": "Knut Storberget",
@@ -36788,6 +39748,32 @@
         {
           "identifier": "SHS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1022",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "SHS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4586383",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Solveig_Sollie"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Solveig_Sollie"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Solveig_Sollie"
         }
       ],
       "name": "Solveig Sollie",
@@ -36886,6 +39872,7 @@
     },
     {
       "birth_date": "1893-06-08",
+      "death_date": "1958-05-01",
       "family_name": "Torp",
       "gender": "male",
       "given_name": "Oscar Fredrik",
@@ -36894,9 +39881,227 @@
         {
           "identifier": "OSTO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "118416",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01bly9",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "13371358X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 2235 0280",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n83180873",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "oscar-torp",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "807",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "w6mf52sx",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "OSTO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "13508084",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q355258",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/26771_Oscar_Torp.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/26771_Oscar_Torp.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اسکار_تورپ"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/오스카르_토르프"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Торп,_Оскар"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (sw)",
+          "url": "https://sw.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Oscar_Torp"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/奥斯卡尔·托尔普"
         }
       ],
       "name": "Oscar Fredrik Torp",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Oscar Torp",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "اسکار تورپ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オスカル・トルプ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "오스카르 토르프",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Оскар Торп",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奥斯卡尔·托尔普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "奥斯卡尔·托尔普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "奥斯卡尔·托尔普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "奧斯卡爾·托爾普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "奧斯卡爾·托爾普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "奥斯卡尔·托尔普",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "奧斯卡爾·托爾普",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Torp, Oscar Fredrik"
     },
     {
@@ -37605,6 +40810,7 @@
     },
     {
       "birth_date": "1910-02-24",
+      "death_date": "1995-05-16",
       "family_name": "Berntsen",
       "gender": "male",
       "given_name": "Parelius Hjalmar Bang",
@@ -37613,6 +40819,32 @@
         {
           "identifier": "PABE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "55",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PABE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7136721",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Parelius_Hjalmar_Bang_Berntsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Parelius_Berntsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Parelius_Berntsen"
         }
       ],
       "name": "Parelius Hjalmar Bang Berntsen",
@@ -39288,23 +42520,568 @@
     },
     {
       "birth_date": "1959-03-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jensstoltenberg"
+        }
+      ],
       "family_name": "Stoltenberg",
       "gender": "male",
       "given_name": "Jens",
       "id": "9f9dfeee-3e75-4b82-90f5-e1e3fd4b9ce2",
       "identifiers": [
         {
+          "identifier": "90506074",
+          "scheme": "bibsys"
+        },
+        {
+          "identifier": "4167376",
+          "scheme": "bigenc_ru"
+        },
+        {
+          "identifier": "biography/Jens-Stoltenberg",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "JES",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "293666",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01b8g6",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "130141771",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "229096",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "0000 0000 7873 6545",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n91105527",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "jens-stoltenberg",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "793/000162307",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "304626708",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "vjo0abtau0vf",
+          "scheme": "parlement"
+        },
+        {
+          "identifier": "1337",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JES",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "35554569",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q57665",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=JES&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JES&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jens_Stoltenberg_February_2015.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikinews (de)",
+          "url": "https://de.wikinews.org/wiki/Kategorie:Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Йенс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ينس_ستولتنبرغ"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Yens_Stoltenberq"
+        },
+        {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Енс_Столтэнберг"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Енс_Стольтэнбэрг"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Йенс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (br)",
+          "url": "https://br.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Γενς_Στόλτενμπεργκ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (enwikisource)",
+          "url": "https://enwikisource.wikipedia.org/wiki/Author:Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/ینس_استولتنبرگ"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (fo)",
+          "url": "https://fo.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/ינס_סטולטנברג"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/जेन्स_स्टोल्टेनबर्ग"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ենս_Սթոլթենբերգ"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/イェンス・ストルテンベルグ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/იენს_სტოლტენბერგი"
+        },
+        {
+          "note": "Wikipedia (kk)",
+          "url": "https://kk.wikipedia.org/wiki/Йенс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/옌스_스톨텐베르그"
+        },
+        {
+          "note": "Wikipedia (ku)",
+          "url": "https://ku.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ioannes_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Jenss_Stoltenbergs"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Јенс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ജെൻസ്_സ്റ്റോൾട്ടൻബർഗ്"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/येन्स_स्टोल्टेनबर्ग"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Столтенберг,_Йенс"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Јенс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (sw)",
+          "url": "https://sw.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/இயென்சு_சுடோல்ட்டென்பர்க்"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Енс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Єнс_Столтенберг"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/延斯·斯托尔滕贝格"
+        },
+        {
+          "note": "Wikiquote (cs)",
+          "url": "https://cs.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikiquote (de)",
+          "url": "https://de.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikiquote (fa)",
+          "url": "https://fa.wikiquote.org/wiki/ینس_استولتنبرگ"
+        },
+        {
+          "note": "Wikiquote (it)",
+          "url": "https://it.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "Wikiquote (pl)",
+          "url": "https://pl.wikiquote.org/wiki/Jens_Stoltenberg"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jensstoltenberg"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jensstoltenberg"
+        },
+        {
+          "note": "website",
+          "url": "http://jensstoltenberg.no"
         }
       ],
       "name": "Jens Stoltenberg",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ينس ستولتنبرغ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Yens Stoltenberq",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Енс Столтэнберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Енс Стольтэнбэрг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Йенс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Γενς Στόλτενμπεργκ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ینس استولتنبرگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ינס סטולטנברג",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "जेन्स स्टोल्टेनबर्ग",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ենս Սթոլթենբերգ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イェンス・ストルテンベルグ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "იენს სტოლტენბერგი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk",
+          "name": "Йенс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "옌스 스톨텐베르그",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jenss Stoltenbergs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Јенс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ജെൻസ് സ്റ്റോൾട്ടൻബർഗ്",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "येन्स स्टोल्टेनबर्ग",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Йенс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Јенс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "இயென்சு சுடோல்ட்டென்பர்க்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Енс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Єнс Столтенберг",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "延斯·斯托尔滕贝格",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Stoltenberg, Jens"
     },
     {
@@ -41215,17 +44992,252 @@
     },
     {
       "birth_date": "1879-09-06",
+      "death_date": "1952-09-09",
       "family_name": "Nygaardsvold",
       "gender": "male",
       "given_name": "Johan",
       "id": "a720e20f-46e5-4fd5-9285-15574b0f1bf9",
       "identifiers": [
         {
+          "identifier": "90063794",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "JONY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "115782",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01cjdv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "123997720",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 2237 889X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n83145906",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "johan-nygaardsvold",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "mp128778",
+          "scheme": "npg"
+        },
+        {
+          "identifier": "095896058",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "597",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JONY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "15693519",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q317659",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Johan_Nygaardsvold_1934.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Johan_Nygaardsvold_1934.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/يوهان_نيغورسفول"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/یوهان_نیگورسول"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/요한_뉘고르스볼"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Нюгорсвольд,_Йохан"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Johan_Nygaardsvold"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/约翰·尼高斯沃尔"
         }
       ],
       "name": "Johan Nygaardsvold",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "يوهان نيغورسفول",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "یوهان نیگورسول",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヨハン・ニーゴーシュヴォル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "요한 뉘고르스볼",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нюгорсвольд, Юхан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "约翰·尼高斯沃尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "约翰·尼高斯沃尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "约翰·尼高斯沃尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "約翰·尼高斯沃爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "約翰·尼高斯沃爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "约翰·尼高斯沃尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "約翰·尼高斯沃爾",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Nygaardsvold, Johan"
     },
     {
@@ -41296,12 +45308,46 @@
         {
           "identifier": "HJR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 5252 2901",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "676",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HJR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "19274309",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4591291",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=HJR&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=HJR&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hans_J._Røsjorde"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Hans_J._Røsjorde"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hans_J._Røsjorde"
         }
       ],
       "name": "Hans J. Røsjorde",
@@ -41653,9 +45699,42 @@
         {
           "identifier": "ARL",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2137",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ARL",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4592559",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Arild_Lund"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Arild_Lund"
+        },
+        {
+          "note": "Wikipedia (szl)",
+          "url": "https://szl.wikipedia.org/wiki/Arild_Lund"
         }
       ],
       "name": "Arild Lund",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Арильд Лунд",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lund, Arild"
     },
     {
@@ -42378,12 +46457,41 @@
         {
           "identifier": "MOW",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "32034",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MOW",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q15235179",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MOW&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MOW&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Morten_Wold_på_Sentralbanksjefens_årstale_2018_(190941).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Morten_Wold"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Morten_Wold"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Morten_Wold"
         }
       ],
       "name": "Morten Wold",
@@ -43199,12 +47307,38 @@
         {
           "identifier": "AWN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2331",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "AWN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q12011654",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=AWN&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=AWN&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Åse_Wisløff_Nilssen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Åse_Wisløff_Nilssen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Åse_Wisløff_Nilssen"
         }
       ],
       "name": "Åse Wisløff Nilssen",
@@ -43447,6 +47581,7 @@
     },
     {
       "birth_date": "1912-02-18",
+      "death_date": "1993-07-18",
       "family_name": "Rein",
       "gender": "male",
       "given_name": "Kristoffer",
@@ -43455,6 +47590,32 @@
         {
           "identifier": "KRRE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "645",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KRRE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6438435",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kristoffer_Rein"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kristoffer_Rein"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kristoffer_Rein"
         }
       ],
       "name": "Kristoffer Rein",
@@ -43683,6 +47844,7 @@
     },
     {
       "birth_date": "1928-02-03",
+      "death_date": "2006-10-28",
       "family_name": "Fredheim",
       "gender": "male",
       "given_name": "Kjell Magne",
@@ -43691,6 +47853,32 @@
         {
           "identifier": "KJFR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "212",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "KJFR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6419396",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kjell_Magne_Fredheim"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Kjell_Magne_Fredheim"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kjell_Magne_Fredheim"
         }
       ],
       "name": "Kjell Magne Fredheim",
@@ -44882,12 +49070,38 @@
         {
           "identifier": "RK",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2313",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RK",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7291706",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=RK&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=RK&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Randi_Karlstrøm"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Randi_Karlstrøm"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Randi_Karlstrøm"
         }
       ],
       "name": "Randi Karlstrøm",
@@ -46682,12 +50896,45 @@
         {
           "identifier": "MEBB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30919",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MEBB",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q15075007",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MEBB&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MEBB&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Margunn_Ebbesen_(2017-03-11_bilde01).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Margunn_Ebbesen"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Margunn_Ebbesen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Margunn_Ebbesen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Margunn_Ebbesen"
         }
       ],
       "name": "Margunn Ebbesen",
@@ -46699,10 +50946,34 @@
       "gender": "male",
       "given_name": "Eigil",
       "id": "bc9dc59a-50c6-43dc-a566-948053673ec3",
+      "identifiers": [
+        {
+          "identifier": "31874",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EIK",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q15742603",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=EIK&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=EIK&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eigil_Knutsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Eigil_Knutsen"
         }
       ],
       "name": "Eigil Knutsen",
@@ -47491,6 +51762,7 @@
     },
     {
       "birth_date": "1929-08-07",
+      "death_date": "1986-02-20",
       "family_name": "Nyheim",
       "gender": "male",
       "given_name": "Einar",
@@ -47499,6 +51771,28 @@
         {
           "identifier": "EINY",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "598",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EINY",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11966822",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Einar_Nyheim"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Einar_Nyheim"
         }
       ],
       "name": "Einar Nyheim",
@@ -48510,12 +52804,45 @@
         {
           "identifier": "EBO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30725",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EBO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q3434929",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=EBO&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=EBO&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Else-May_Botten.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Else-May_Botten"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Else-May_Botten"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Else-May_Botten"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Else-May_Botten"
         }
       ],
       "name": "Else-May Botten",
@@ -50062,12 +54389,53 @@
         {
           "identifier": "IM",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/09gk919",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3979",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "1143",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "IM",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4586765",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=IM&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=IM&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Inge_Myrvoll.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Inge_Myrvoll"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Inge_Myrvoll"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Inge_Myrvoll"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Inge_Myrvoll"
         }
       ],
       "name": "Inge Myrvoll",
@@ -50837,10 +55205,34 @@
       "gender": "female",
       "given_name": "Elise",
       "id": "c90aedd2-9dcc-4248-9205-917d724bbf1e",
+      "identifiers": [
+        {
+          "identifier": "32035",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ELW",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q29057520",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=ELW&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=ELW&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elise_Bjørnebekk-Waagen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Elise_Bjørnebekk-Waagen"
         }
       ],
       "name": "Elise Bjørnebekk-Waagen",
@@ -50931,14 +55323,81 @@
     },
     {
       "birth_date": "1910-04-16",
+      "death_date": "1991-05-02",
       "family_name": "Haugland",
       "gender": "male",
       "given_name": "Jens",
       "id": "c9993830-7561-484f-9674-d2c49f254206",
       "identifiers": [
         {
+          "identifier": "90056386",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "JEHU",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "190528",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "118901214",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "107628",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "0000 0000 2927 8445",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85255475",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "n2017169981",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "303",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JEHU",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "54946556",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4586568",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jens_Haugland"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jens_Haugland"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jens_Haugland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Jens_Haugland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jens_Haugland"
         }
       ],
       "name": "Jens Haugland",
@@ -51038,12 +55497,38 @@
         {
           "identifier": "SFS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1033",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "SFS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q12000617",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=SFS&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=SFS&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Siri_Frost_Sterri"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Siri_Frost_Sterri"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Siri_Frost_Sterri"
         }
       ],
       "name": "Siri Frost Sterri",
@@ -51689,6 +56174,7 @@
     },
     {
       "birth_date": "1900-05-10",
+      "death_date": "1972-09-18",
       "family_name": "Engelstad",
       "gender": "male",
       "given_name": "Gunvald",
@@ -51697,6 +56183,32 @@
         {
           "identifier": "GUEN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "163",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "GUEN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5619532",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gunvald_Engelstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Gunvald_Engelstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Gunvald_Engelstad"
         }
       ],
       "name": "Gunvald Engelstad",
@@ -52769,12 +57281,49 @@
         {
           "identifier": "MHE",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/06w3rkw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "31522",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MHE",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q1783942",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MHE&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MHE&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Martin_Henriksen.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Martin_Henriksen_(Norwegian_politician)"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Martin_Henriksen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Martin_Henriksen"
+        },
+        {
+          "note": "Wikipedia (se)",
+          "url": "https://se.wikipedia.org/wiki/Martin_Henriksen"
         }
       ],
       "name": "Martin Henriksen",
@@ -53160,6 +57709,7 @@
     },
     {
       "birth_date": "1904-10-04",
+      "death_date": "1976-03-12",
       "family_name": "Reinsnes",
       "gender": "male",
       "given_name": "Peter Ovald",
@@ -53168,9 +57718,42 @@
         {
           "identifier": "PERI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "646",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PERI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4584711",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Petter_Carl_Reinsnes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/P.C._Reinsnes"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/P.C._Reinsnes"
         }
       ],
       "name": "Peter Ovald Reinsnes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Petter Carl Reinsnes",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Reinsnes, Peter Ovald"
     },
     {
@@ -53552,6 +58135,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "be-tarask",
+          "name": "Эрна Сульбэрг",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Ерна Солберг",
           "note": "multilingual"
@@ -53847,6 +58435,58 @@
         {
           "identifier": "PEDI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0czs59",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "133",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PEDI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q3121951",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/DietlevSimonsen.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/DietlevSimonsen.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Per_Ditlev-Simonsen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Per_Ditlev-Simonsen"
         }
       ],
       "name": "Per Ditlev-Simonsen",
@@ -53967,6 +58607,7 @@
     },
     {
       "birth_date": "1923-03-07",
+      "death_date": "2012-02-26",
       "family_name": "Vågsnes",
       "gender": "male",
       "given_name": "Johannes",
@@ -53975,6 +58616,32 @@
         {
           "identifier": "JOVÅ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "853",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JOVÅ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6217051",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johannes_Vågsnes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Johannes_Vågsnes"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Johannes_Vågsnes"
         }
       ],
       "name": "Johannes Vågsnes",
@@ -54310,6 +58977,28 @@
         {
           "identifier": "PERS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1149",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PERS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7166781",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Per_Risvik"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Per_Risvik"
         }
       ],
       "name": "Per Risvik",
@@ -54405,6 +59094,7 @@
     },
     {
       "birth_date": "1919-01-14",
+      "death_date": "2003-09-05",
       "family_name": "Hansen",
       "gender": "male",
       "given_name": "Harry",
@@ -54413,9 +59103,47 @@
         {
           "identifier": "HAHA",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "285",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HAHA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5669473",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Harry_Hansen_(politician)"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Harry_Hansen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Harry_Hansen"
         }
       ],
       "name": "Harry Hansen",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هاري هانسن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гарри Хансен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hansen, Harry"
     },
     {
@@ -54634,12 +59362,41 @@
         {
           "identifier": "AK",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "4067",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "AK",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4759949",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=AK&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=AK&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Andre_kvakkestad_06.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/André_Kvakkestad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/André_Kvakkestad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/André_Kvakkestad"
         }
       ],
       "name": "André Kvakkestad",
@@ -54711,6 +59468,7 @@
     },
     {
       "birth_date": "1894-10-07",
+      "death_date": "1952-02-11",
       "family_name": "Lyngstad",
       "gender": "male",
       "given_name": "Ola Torstensen",
@@ -54719,6 +59477,28 @@
         {
           "identifier": "OLLG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "514",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OLLG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7082900",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ola_Torstensen_Lyngstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ola_T._Lyngstad"
         }
       ],
       "name": "Ola Torstensen Lyngstad",
@@ -54829,6 +59609,7 @@
     },
     {
       "birth_date": "1922-08-02",
+      "death_date": "1985-10-17",
       "family_name": "Gravås",
       "gender": "male",
       "given_name": "Ottar",
@@ -54837,6 +59618,32 @@
         {
           "identifier": "OTGR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "247",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "OTGR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q11994380",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ottar_Gravås"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ottar_Gravås"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ottar_Gravås"
         }
       ],
       "name": "Ottar Gravås",
@@ -55514,6 +60321,7 @@
     },
     {
       "birth_date": "1910-01-18",
+      "death_date": "1983-11-26",
       "family_name": "Hoel",
       "gender": "male",
       "given_name": "Oddmund",
@@ -55522,6 +60330,40 @@
         {
           "identifier": "ODHO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "473",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "330",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ODHO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q3432178",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oddmund_Hoel"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Oddmund_Hoel"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Oddmund_Hoel"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Oddmund_Hoel"
         }
       ],
       "name": "Oddmund Hoel",
@@ -56035,6 +60877,7 @@
     },
     {
       "birth_date": "1887-01-07",
+      "death_date": "1952-09-28",
       "family_name": "Tøndel",
       "gender": "male",
       "given_name": "Ingvald",
@@ -56043,6 +60886,38 @@
         {
           "identifier": "INTØ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "820",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "INTØ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6033510",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ingvald_Tøndel_(UBT-AU-33627_01_1)_(crop).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ingvald_Tøndel_(UBT-AU-33627_01_1)_(crop).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ingvald_Tøndel"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ingvald_Tøndel"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ingvald_Tøndel"
         }
       ],
       "name": "Ingvald Tøndel",
@@ -57615,11 +62490,85 @@
       "id": "e081756d-4c5d-4f69-9427-a14e233b774b",
       "identifiers": [
         {
+          "identifier": "90053199",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "ACS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bx3j3",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1123980268",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8361 7700",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n79085014",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "072004061",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "702",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "ACS",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "18502762",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4587854",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Anders_C._Sjaastad"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Anders_Christian_Sjaastad"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anders_C._Sjaastad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Anders_C._Sjaastad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Anders_C._Sjaastad"
         }
       ],
       "name": "Anders C. Sjaastad",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Anders Christian Sjaastad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anders Christian Sjaastad",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sjaastad, Anders C."
     },
     {
@@ -57736,6 +62685,7 @@
     },
     {
       "birth_date": "1926-05-27",
+      "death_date": "2016-09-24",
       "family_name": "Lowzow",
       "gender": "female",
       "given_name": "Wenche Bryn",
@@ -57744,9 +62694,88 @@
         {
           "identifier": "WELO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "149503",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0dtkn2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0003 8437 1038",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85019070",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "503",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "WELO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "275463419",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3356395",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Friele_Lowzow.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Friele_Lowzow.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Wenche_Lowzow"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Wenche_Lowzow"
         }
       ],
       "name": "Wenche Bryn Lowzow",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wenche Lowzow",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lowzow, Wenche Bryn"
     },
     {
@@ -58081,6 +63110,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Eilef_A._Meland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Eilef_A._Meland"
         },
         {
           "note": "Wikipedia (no)",
@@ -58573,12 +63606,49 @@
         {
           "identifier": "TALI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30831",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TALI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6513865",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TALI&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TALI&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Tord_Lien_8293.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Tord_Lien"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tord_Lien"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tord_André_Lien"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tord_Lien"
+        },
+        {
+          "note": "Wikiquote (no)",
+          "url": "https://no.wikiquote.org/wiki/Tord_André_Lien"
         }
       ],
       "name": "Tord Lien",
@@ -59249,6 +64319,7 @@
     },
     {
       "birth_date": "1892-05-09",
+      "death_date": "1975-05-15",
       "family_name": "Iveland",
       "gender": "male",
       "given_name": "Einar",
@@ -59257,9 +64328,46 @@
         {
           "identifier": "EIIV",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "373",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "EIIV",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5349649",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أينار_إيفيلاند"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Einar_Iveland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Einar_Iveland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Einar_Iveland"
         }
       ],
       "name": "Einar Iveland",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أينار إيفيلاند",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Iveland, Einar"
     },
     {
@@ -59318,6 +64426,7 @@
     },
     {
       "birth_date": "1900-05-04",
+      "death_date": "1984-11-09",
       "family_name": "Dalland",
       "gender": "male",
       "given_name": "Randulf",
@@ -59326,6 +64435,38 @@
         {
           "identifier": "RADL",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "131",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RADL",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7292032",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Randulf_Dalland_(no_halftone).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Randulf_Dalland_(no_halftone).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Randulf_Dalland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Randulf_Dalland"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Randulf_Dalland"
         }
       ],
       "name": "Randulf Dalland",
@@ -59337,10 +64478,34 @@
       "gender": "female",
       "given_name": "Hanne Dyveke",
       "id": "e5ea0984-306a-4a7c-b9a7-ec1c01c4a225",
+      "identifiers": [
+        {
+          "identifier": "4094",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HDH",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q5649049",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=HDH&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=HDH&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hanne_Dyveke_Søttar"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hanne_Dyveke_Søttar"
         }
       ],
       "name": "Hanne Dyveke Søttar",
@@ -59660,12 +64825,41 @@
         {
           "identifier": "MHG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "2155",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MHG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6515087",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MHG&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MHG&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kransenedlegging_ved_bauta_(2570225058).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/May-Helen_Molvær_Grimstad"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/May-Helen_Molvær_Grimstad"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/May-Helen_Molvær_Grimstad"
         }
       ],
       "name": "May-Helen Molvær Grimstad",
@@ -60586,6 +65780,7 @@
     },
     {
       "birth_date": "1902-05-05",
+      "death_date": "1968-05-11",
       "family_name": "Andersen",
       "gender": "male",
       "given_name": "Johan",
@@ -60594,9 +65789,38 @@
         {
           "identifier": "JOAN",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "9",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "JOAN",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6214882",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johan_Andersen_(politician)"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Johan_Andersen"
         }
       ],
       "name": "Johan Andersen",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Йохан Андерсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Andersen, Johan"
     },
     {
@@ -60643,6 +65867,7 @@
     },
     {
       "birth_date": "1924-04-19",
+      "death_date": "2013-07-18",
       "family_name": "Eide",
       "gender": "female",
       "given_name": "Mary",
@@ -60651,9 +65876,42 @@
         {
           "identifier": "MAEI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "150",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MAEI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6779391",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mary_Eide"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Mary_Eide"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Mary_Eide"
         }
       ],
       "name": "Mary Eide",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Мэри Эйде",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Eide, Mary"
     },
     {
@@ -61312,6 +66570,7 @@
     },
     {
       "birth_date": "1882-06-26",
+      "death_date": "1964-12-31",
       "family_name": "Alsvik",
       "gender": "male",
       "given_name": "Peder",
@@ -61320,6 +66579,28 @@
         {
           "identifier": "PEAV",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "5",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "PEAV",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7159083",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peder_Alsvik"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Peder_Alsvik"
         }
       ],
       "name": "Peder Alsvik",
@@ -61427,6 +66708,32 @@
         {
           "identifier": "RBJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "400",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "RBJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7283128",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ragna_Berget_Jørgensen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ragna_Berget_Jørgensen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ragna_Berget_Jørgensen"
         }
       ],
       "name": "Ragna Berget Jørgensen",
@@ -62026,6 +67333,22 @@
         {
           "identifier": "REIG",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0404r3m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "2304",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "REIG",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7310049",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=REIG&storrelse=middels",
@@ -62034,11 +67357,22 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=REIG&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Reidun_Gravdahl"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Reidun_Gravdahl"
+        }
+      ],
       "name": "Reidun Gravdahl",
       "sort_name": "Gravdahl, Reidun"
     },
     {
       "birth_date": "1897-07-22",
+      "death_date": "1978-07-03",
       "family_name": "Messel",
       "gender": "male",
       "given_name": "Syvert Tobiassen",
@@ -62047,6 +67381,24 @@
         {
           "identifier": "SYME",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "540",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "SYME",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q7663943",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Syvert_Tobiassen_Messel"
         }
       ],
       "name": "Syvert Tobiassen Messel",
@@ -62269,6 +67621,18 @@
         {
           "identifier": "TAJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30493",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TAJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q15109978",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=TAJ&storrelse=middels",
@@ -62277,11 +67641,63 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=TAJ&storrelse=middels"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tor_André_Johnsen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tor_André_Johnsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tor_Andre_Johnsen"
+        }
+      ],
       "name": "Tor André Johnsen",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "تور أندريه يونسن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tor Andre Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tor Andre Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tor Andre Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tor Andre Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tor Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тор Йонсен",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Johnsen, Tor André"
     },
     {
       "birth_date": "1910-11-07",
+      "death_date": "1989-10-22",
       "family_name": "Solli",
       "gender": "male",
       "given_name": "Bjarne Daniel",
@@ -62290,6 +67706,32 @@
         {
           "identifier": "BJSO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "730",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "BJSO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q4919504",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bjarne_Daniel_Solli"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Bjarne_Solli"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bjarne_Daniel_Solli"
         }
       ],
       "name": "Bjarne Daniel Solli",
@@ -63652,12 +69094,41 @@
         {
           "identifier": "LFO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30417",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LFO",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6519395",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=LFO&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=LFO&storrelse=middels"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Leif_Frode_Onarheim.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leif_Frode_Onarheim"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Leif_Frode_Onarheim"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Leif_Frode_Onarheim"
         }
       ],
       "name": "Leif Frode Onarheim",
@@ -64125,12 +69596,38 @@
         {
           "identifier": "LEJ",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "30301",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "LEJ",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q6514535",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=LEJ&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=LEJ&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lena_Jensen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Lena_Jensen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Lena_Jensen"
         }
       ],
       "name": "Lena Jensen",
@@ -64273,17 +69770,59 @@
     },
     {
       "birth_date": "1899-07-01",
+      "death_date": "1981-02-11",
       "family_name": "Wika",
       "gender": "male",
       "given_name": "Haakon Olsen",
       "id": "f928a912-6104-4f21-a015-60233a069364",
       "identifiers": [
         {
+          "identifier": "90326155",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "HAWI",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "867",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "HAWI",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "62825530",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5636501",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Haakon_Olsen_Wika"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Haakon_O._Wika"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Håkon_O._Wika"
         }
       ],
       "name": "Haakon Olsen Wika",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Håkon O. Wika",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wika, Haakon Olsen"
     },
     {
@@ -64755,6 +70294,7 @@
     },
     {
       "birth_date": "1933-05-16",
+      "death_date": "2017-11-01",
       "family_name": "Henriksen",
       "gender": "male",
       "given_name": "Tor",
@@ -64763,6 +70303,32 @@
         {
           "identifier": "TOHR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "324",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "TOHR",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "Q16760848",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tor_Henriksen"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Tor_Henriksen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tor_Henriksen"
         }
       ],
       "name": "Tor Henriksen",
@@ -65498,14 +71064,60 @@
       "id": "ffe1487d-0620-43ad-86f1-59e8ca83c81c",
       "identifiers": [
         {
+          "identifier": "7075446",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "MIB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 6540 1430",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "2117",
+          "scheme": "polsys"
+        },
+        {
+          "identifier": "MIB",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "228834514",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q4586514",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://data.stortinget.no/eksport/personbilde?personid=MIB&storrelse=middels",
       "images": [
         {
           "url": "http://data.stortinget.no/eksport/personbilde?personid=MIB&storrelse=middels"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mimmi_Bæivi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mimmi_Bæivi"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Mimmi_Bæivi"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Mimmi_Bæivi"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Mimmi_Bæivi"
         }
       ],
       "name": "Mimmi Bæivi",
