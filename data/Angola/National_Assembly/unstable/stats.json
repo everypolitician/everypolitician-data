@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 343,
+    "count": 348,
     "wikidata": 15,
     "latest_term": {
-      "count": 220,
+      "count": 218,
       "wikidata": 12,
-      "images": 220,
+      "images": 218,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -23,7 +23,7 @@
     "wikidata": 2
   },
   "areas": {
-    "count": 66,
+    "count": 69,
     "wikidata": 0
   },
   "elections": {
@@ -37,7 +37,6 @@
     {
       "file": "archive/official-3.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-08-15"
     },
     {
@@ -55,25 +54,22 @@
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2018-08-15"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-01-30"
     },
     {
       "file": "morph/genderbalance.csv",
       "type": "person",
       "scraper": "everypolitician-scrapers/angola-national-assembly-gender-balance",
-      "lastmod": "2019-01-15"
+      "lastmod": "2019-02-12"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     }
   ]
