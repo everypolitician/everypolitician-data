@@ -77,6 +77,7 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :merge_termfile
   task merge_termfile: :ensure_legislature do
+    source_warn 'Adding term information'
     terms = @INSTRUCTIONS.sources_of_type('term')
                          .flat_map { |src| src.to_popolo[:events] }
                          .each { |t| t[:organization_id] = @legislature[:id] }
@@ -223,6 +224,7 @@ namespace :transform do
   task write: :election_info
   task election_info: :load do
     @INSTRUCTIONS.sources_of_type('wikidata-elections').each do |src|
+      source_warn 'Adding election information'
       @json[:events] += src.to_popolo[:events]
     end
   end
@@ -233,6 +235,7 @@ namespace :transform do
   task write: :area_wikidata
   task area_wikidata: :load do
     @INSTRUCTIONS.sources_of_type('area-wikidata').each do |src|
+      source_warn 'Adding area information'
       src.to_popolo[:areas].each do |area|
         @json[:areas].select do |a|
           a[:type] == 'constituency' &&
@@ -260,6 +263,7 @@ namespace :transform do
 
   task group_wikidata: :check_group_ids do
     @INSTRUCTIONS.sources_of_type('group').each do |src|
+      source_warn 'Adding party information'
       src.to_popolo[:organizations].each do |org|
         matched = @json[:organizations].select do |o|
           o[:classification] == 'party' &&
