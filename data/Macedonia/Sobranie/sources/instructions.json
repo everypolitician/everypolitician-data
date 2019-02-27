@@ -62,7 +62,7 @@
       "type": "wikidata-cabinet",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/macedonia-positions",
+        "scraper": "everypolitician-scrapers/macedonia-cabinet",
         "query": "SELECT * FROM data ORDER BY id, position, start_date"
       }
     },
