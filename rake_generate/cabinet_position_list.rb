@@ -21,7 +21,7 @@ namespace :generate do
 
     position_query = <<~SPARQL
       SELECT DISTINCT ?item ?itemLabel WHERE {
-        ?item wdt:P279* wd:Q83307 ; wdt:P361 wd:#{c_json[:cabinet]}.
+        ?item wdt:P31/wdt:P279* wd:Q4164871 ; wdt:P361 wd:#{c_json[:cabinet]}.
         SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
         # date = #{Time.now}
       }
@@ -30,7 +30,7 @@ namespace :generate do
     data = sparql(position_query).map(&:to_h)
 
     csv_head = [%w[id label type]]
-    csv_data = data.map { |r| [r[:item].split('/').last, r[:itemlabel], 'cabinet'] }
+    csv_data = data.map { |r| [r[:item].to_s.split('/').last, r[:itemlabel].to_s, 'cabinet'] }
     POSITION_FILTER_CSV.write csv_head.concat(csv_data).map(&:to_csv).join
   end
 end
