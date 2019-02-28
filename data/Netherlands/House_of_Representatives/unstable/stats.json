@@ -31,13 +31,12 @@
     "latest": "2017-03-15"
   },
   "positions": {
-    "cabinet": 12
+    "cabinet": 0
   },
   "sources": [
     {
       "file": "archive/wikipedia-2012.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-09-28"
     },
     {
@@ -61,7 +60,6 @@
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-09-28"
     },
     {
@@ -79,13 +77,11 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-12"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-12"
     },
     {
