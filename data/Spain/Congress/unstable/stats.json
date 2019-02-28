@@ -31,7 +31,7 @@
     "latest": "2016-06-26"
   },
   "positions": {
-    "cabinet": 16
+    "cabinet": 21
   },
   "sources": [
     {
@@ -49,7 +49,6 @@
     {
       "file": "manual/old-official-2015.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2016-06-12"
     },
     {
@@ -73,7 +72,6 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-01-31"
     },
     {
@@ -86,12 +84,11 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/spain-positions",
-      "lastmod": "2019-01-24"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-03"
     },
     {
