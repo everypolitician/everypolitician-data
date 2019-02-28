@@ -196,90 +196,6 @@
     "eligible_voters": "10300000",
     "ballots_cast": "4216594"
   },
-  "Q4689129": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q4689129"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Afghan parliamentary election, 1965",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élections législatives afghanes de 1965",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "1965-09-07"
-    ],
-    "follows": "Afghan parliamentary election, 1961",
-    "followed_by": "Afghan parliamentary election, 1969"
-  },
-  "Q4689130": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q4689130"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Afghan parliamentary election, 1969",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élections législatives afghanes de 1969",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "1969"
-    ],
-    "follows": "Afghan parliamentary election, 1965",
-    "followed_by": "Afghan parliamentary election, 1988"
-  },
-  "Q4689131": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q4689131"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Afghan parliamentary election, 1988",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élections législatives afghanes de 1988",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "1988"
-    ],
-    "follows": "Afghan parliamentary election, 1969",
-    "followed_by": "Afghan parliamentary election, 2005",
-    "successful_candidates": [
-      "Mohammad Hasan Sharq"
-    ]
-  },
   "Q20003457": {
     "identifiers": [
       {
@@ -356,9 +272,11 @@
       }
     ],
     "dates": [
+      "2018-10-20",
       "2018-07-07"
     ],
-    "follows": "Afghan parliamentary election, 2010"
+    "follows": "Afghan parliamentary election, 2010",
+    "office": "Member of the House of the People"
   },
   "Q24045328": {
     "identifiers": [
@@ -379,5 +297,93 @@
       "1961"
     ],
     "followed_by": "Afghan parliamentary election, 1965"
+  },
+  "Q4689129": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4689129"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Afghan parliamentary election, 1965",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives afghanes de 1965",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1965-09-07"
+    ],
+    "follows": "Afghan parliamentary election, 1961",
+    "followed_by": "Afghan parliamentary election, 1969"
+  },
+  "Q4689130": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4689130"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Afghan parliamentary election, 1969",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives afghanes de 1969",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1969"
+    ],
+    "start_date": "1969-08-29",
+    "end_date": "1969-09-11",
+    "follows": "Afghan parliamentary election, 1965",
+    "followed_by": "Afghan parliamentary election, 1988"
+  },
+  "Q4689131": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q4689131"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Afghan parliamentary election, 1988",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives afghanes de 1988",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1988-04"
+    ],
+    "start_date": "1988-04-06",
+    "end_date": "1988-04-15",
+    "follows": "Afghan parliamentary election, 1969",
+    "followed_by": "Afghan parliamentary election, 2005",
+    "successful_candidates": [
+      "Mohammad Hasan Sharq"
+    ]
   }
 }
