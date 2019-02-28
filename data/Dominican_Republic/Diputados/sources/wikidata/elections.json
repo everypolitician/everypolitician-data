@@ -1,66 +1,93 @@
 {
-  "Q959056": {
+  "Q16303160": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q959056"
+        "identifier": "Q16303160"
       }
     ],
     "other_names": [
       {
-        "lang": "pl",
-        "name": "Wybory parlamentarne na Dominikanie w 2010 roku",
+        "lang": "es",
+        "name": "Elecciones presidenciales de la República Dominicana de 2016",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "en",
-        "name": "Dominican Republic parliamentary election, 2010",
+        "name": "Dominican Republic general election, 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年多明尼加共和國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "fr",
-        "name": "élections sénatoriales, législatives et municipales dominicaines de 2010",
+        "name": "élection présidentielle dominicaine de 2016",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
-        "lang": "pt",
-        "name": "Eleições parlamentares na República Dominicana em 2010",
+        "lang": "ru",
+        "name": "президентские выборы в Доминиканской Республике",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Präsidentschaftswahl in der Dominikanischen Republik 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Γενικές εκλογές στη Δομινικανή Δημοκρατία",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "第40屆多明尼加總統選舉",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "he",
-        "name": "הבחירות הפרלמנטריות ברפובליקה הדומיניקנית 2010",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones parlamentarias de la República Dominicana de 2010",
+        "name": "הבחירות הכלליות ברפובליקה הדומיניקנית 2016",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ast",
-        "name": "eleiciones parllamentaries de la República Dominicana de 2010",
+        "name": "eleiciones presidenciales de la República Dominicana de 2016",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari nella Repubblica Dominicana del 2010",
+        "name": "Elezioni generali nella Repubblica Dominicana del 2016",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones presidenciales de la Republica Dominicana de 2016",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
-      "2010-05-16"
+      "2016-05-15"
     ],
-    "eligible_voters": "6116397",
-    "ballots_cast": "3511505"
+    "follows": "Dominican Republic presidential election, 2012",
+    "office": "President of the Dominican Republic",
+    "successful_candidates": [
+      "Danilo Medina"
+    ]
   },
   "Q5290754": {
     "identifiers": [
@@ -440,6 +467,11 @@
     ],
     "dates": [
       "1962"
+    ],
+    "follows": "Dominican Republic general election, 1957",
+    "followed_by": "Dominican Republic general election, 1966",
+    "successful_candidates": [
+      "Juan Bosch"
     ]
   },
   "Q5290789": {
@@ -477,6 +509,11 @@
     ],
     "dates": [
       "1966"
+    ],
+    "follows": "Dominican Republic general election, 1962",
+    "followed_by": "Dominican Republic general election, 1970",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290790": {
@@ -514,6 +551,11 @@
     ],
     "dates": [
       "1970"
+    ],
+    "follows": "Dominican Republic general election, 1966",
+    "followed_by": "Dominican Republic general election, 1974",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290791": {
@@ -551,6 +593,11 @@
     ],
     "dates": [
       "1974"
+    ],
+    "follows": "Dominican Republic general election, 1970",
+    "followed_by": "Dominican Republic general election, 1978",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290792": {
@@ -588,6 +635,11 @@
     ],
     "dates": [
       "1978"
+    ],
+    "follows": "Dominican Republic general election, 1974",
+    "followed_by": "Dominican Republic general election, 1982",
+    "successful_candidates": [
+      "Antonio Guzmán Fernández"
     ]
   },
   "Q5290793": {
@@ -625,6 +677,11 @@
     ],
     "dates": [
       "1982"
+    ],
+    "follows": "Dominican Republic general election, 1978",
+    "followed_by": "Dominican Republic general election, 1986",
+    "successful_candidates": [
+      "Salvador Jorge Blanco"
     ]
   },
   "Q5290794": {
@@ -662,6 +719,11 @@
     ],
     "dates": [
       "1986"
+    ],
+    "follows": "Dominican Republic general election, 1982",
+    "followed_by": "Dominican Republic general election, 1990",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290795": {
@@ -699,6 +761,11 @@
     ],
     "dates": [
       "1990"
+    ],
+    "follows": "Dominican Republic general election, 1986",
+    "followed_by": "Dominican Republic general election, 1994",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290796": {
@@ -736,6 +803,11 @@
     ],
     "dates": [
       "1994"
+    ],
+    "follows": "Dominican Republic general election, 1990",
+    "followed_by": "Dominican Republic presidential election, 1996",
+    "successful_candidates": [
+      "Joaquín Balaguer"
     ]
   },
   "Q5290804": {
@@ -773,7 +845,9 @@
     ],
     "dates": [
       "1998"
-    ]
+    ],
+    "follows": "Dominican Republic general election, 1994",
+    "followed_by": "Dominican Republic parliamentary election, 2002"
   },
   "Q5290805": {
     "identifiers": [
@@ -810,7 +884,9 @@
     ],
     "dates": [
       "2002"
-    ]
+    ],
+    "follows": "Dominican Republic parliamentary election, 1998",
+    "followed_by": "Dominican Republic parliamentary election, 2006"
   },
   "Q5290806": {
     "identifiers": [
@@ -848,96 +924,73 @@
     "dates": [
       "2006-05-16"
     ],
+    "follows": "Dominican Republic parliamentary election, 2002",
+    "followed_by": "Dominican Republic parliamentary election, 2010",
     "office": "Member of the Chamber of Deputies of the Dominican Republic"
   },
-  "Q16303160": {
+  "Q959056": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q16303160"
+        "identifier": "Q959056"
       }
     ],
     "other_names": [
       {
-        "lang": "es",
-        "name": "Elecciones presidenciales de la República Dominicana de 2016",
+        "lang": "pl",
+        "name": "Wybory parlamentarne na Dominikanie w 2010 roku",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "en",
-        "name": "Dominican Republic general election, 2016",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "2016年多明尼加共和國大選",
+        "name": "Dominican Republic parliamentary election, 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "fr",
-        "name": "élection présidentielle dominicaine de 2016",
+        "name": "élections sénatoriales, législatives et municipales dominicaines de 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
-        "lang": "ru",
-        "name": "президентские выборы в Доминиканской Республике",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Präsidentschaftswahl in der Dominikanischen Republik 2016",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "el",
-        "name": "Γενικές εκλογές στη Δομινικανή Δημοκρατία",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "yue",
-        "name": "第40屆多明尼加總統選舉",
+        "lang": "pt",
+        "name": "Eleições parlamentares na República Dominicana em 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "he",
-        "name": "הבחירות הכלליות ברפובליקה הדומיניקנית 2016",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones presidenciales de la República Dominicana de 2016",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Elezioni generali nella Repubblica Dominicana del 2016",
+        "name": "הבחירות הפרלמנטריות ברפובליקה הדומיניקנית 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "es",
-        "name": "Elecciones presidenciales de la Republica Dominicana de 2016",
+        "name": "Elecciones parlamentarias de la República Dominicana de 2010",
         "note": "multilingual",
-        "source": "wikidata-alias"
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones parllamentaries de la República Dominicana de 2010",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari nella Repubblica Dominicana del 2010",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
-      "2016-05-15"
+      "2010-05-16"
     ],
-    "follows": "Dominican Republic presidential election, 2012",
-    "office": "President of the Dominican Republic",
-    "successful_candidates": [
-      "Danilo Medina"
-    ]
+    "follows": "Dominican Republic parliamentary election, 2006",
+    "followed_by": "Dominican Republic general election, 2016",
+    "eligible_voters": "6116397",
+    "ballots_cast": "3511505"
   }
 }
