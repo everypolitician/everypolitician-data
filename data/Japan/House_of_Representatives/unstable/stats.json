@@ -27,7 +27,7 @@
     "wikidata": 297
   },
   "elections": {
-    "count": 48,
+    "count": 49,
     "latest": "2017-10-22"
   },
   "positions": {
@@ -43,20 +43,18 @@
     {
       "file": "archive/official-47.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-10-16"
     },
     {
       "file": "archive/official-vanished.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-10-16"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/japan-house-of-representatives-wikidata",
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-27"
     },
     {
       "file": "morph/terms.csv",
@@ -80,19 +78,17 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/japan-constituencies",
-      "lastmod": "2019-02-01"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-14"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-14"
+      "lastmod": "2019-02-27"
     }
   ]
 }
