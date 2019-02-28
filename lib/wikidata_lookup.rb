@@ -192,6 +192,7 @@ class ElectionLookup < WikidataLookup
     <<~SPARQL
       SELECT ?item WHERE {
         ?item wdt:P31/wdt:P279* wd:Q40231 ; wdt:P541/wdt:P279* wd:#{instructions[:office]}
+        # date = #{Time.now}
       }
       ORDER BY ?item
     SPARQL
