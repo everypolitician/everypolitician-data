@@ -27,8 +27,8 @@
     "wikidata": 50
   },
   "elections": {
-    "count": 127,
-    "latest": "2018"
+    "count": 126,
+    "latest": "2018-11-06"
   },
   "positions": {
     "cabinet": 21
@@ -44,13 +44,13 @@
       "file": "morph/socialmedia.csv",
       "type": "person",
       "scraper": "tmtmtmtm/us-congress-members-social-media",
-      "lastmod": "2019-01-27"
+      "lastmod": "2019-02-22"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/us-senators-wikidata",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "wikidata/parties.json",
@@ -83,7 +83,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-05"
+      "lastmod": "2019-02-28"
     }
   ]
 }
