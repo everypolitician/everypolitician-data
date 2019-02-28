@@ -31,7 +31,7 @@
     "latest": "2019-10-06"
   },
   "positions": {
-    "cabinet": 36
+    "cabinet": 37
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/portugal-deputados-wikidata",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-26"
     },
     {
       "file": "morph/terms.csv",
@@ -68,12 +68,12 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/portugal-positions",
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-26"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -84,7 +84,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-02-26"
     }
   ]
 }
