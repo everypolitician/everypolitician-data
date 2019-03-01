@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 7,
-    "latest": "2013-09-15"
+    "count": 8,
+    "latest": "2017-09-17"
   },
   "positions": {
     "cabinet": 0
@@ -44,12 +44,11 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/macau-legislative-assembly-wikidata",
-      "lastmod": "2019-01-28"
+      "lastmod": "2019-01-30"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2015-09-20"
     },
     {
@@ -61,13 +60,11 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2019-01-28"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-01-28"
     }
   ]
