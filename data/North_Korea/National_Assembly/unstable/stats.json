@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 13,
-    "latest": "2014-03-09"
+    "count": 14,
+    "latest": "2019-03-10"
   },
   "positions": {
     "cabinet": 0
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/north-korea-assembly-wikidata",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "manual/terms.csv",
@@ -57,14 +57,14 @@
       "lastmod": "2018-06-11"
     },
     {
-      "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
-      "lastmod": "2018-10-07"
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/north-korea-cabinet"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-02-28"
     }
   ]
 }
