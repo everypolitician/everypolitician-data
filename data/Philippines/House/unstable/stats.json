@@ -31,7 +31,7 @@
     "latest": "2019-05-13"
   },
   "positions": {
-    "cabinet": 0
+    "cabinet": 4
   },
   "sources": [
     {
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/philippines-house-of-representatives-wikidata",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "morph/terms.csv",
@@ -69,14 +69,14 @@
       "lastmod": "2019-01-31"
     },
     {
-      "file": "wikidata/positions.json",
-      "type": "wikidata-positions",
-      "lastmod": "2019-01-28"
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "scraper": "everypolitician-scrapers/philippines-cabinet"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-26"
+      "lastmod": "2019-02-28"
     }
   ]
 }
