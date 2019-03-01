@@ -153,6 +153,12 @@
         "name": "2015吉爾吉斯国会選舉",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Kirghizistan del 2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -276,7 +282,8 @@
       }
     ],
     "dates": [
-      "2005"
+      "2005-03-13",
+      "2005-02-27"
     ]
   },
   "Q6452425": {
@@ -319,7 +326,8 @@
       }
     ],
     "dates": [
-      "1990"
+      "1990-04-07",
+      "1990-02-25"
     ]
   },
   "Q6452426": {
@@ -362,8 +370,10 @@
       }
     ],
     "dates": [
-      "1995"
-    ]
+      "1995-02-05"
+    ],
+    "follows": "Kyrgyzstani parliamentary election, 1990",
+    "followed_by": "Kyrgyzstani parliamentary election, 2000"
   },
   "Q6452427": {
     "identifiers": [
@@ -411,7 +421,9 @@
       }
     ],
     "dates": [
-      "2000"
-    ]
+      "2000-02-20"
+    ],
+    "follows": "Kyrgyzstani parliamentary election, 1995",
+    "followed_by": "Kyrgyzstani parliamentary election, 2005"
   }
 }
