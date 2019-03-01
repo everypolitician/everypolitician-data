@@ -70,7 +70,7 @@ namespace :term_csvs do
   task positions: [POPOLO_JSON] do
     # Warn if data is still also being generated the old way
     @INSTRUCTIONS.sources_of_type('wikidata-positions').each do |_i|
-      warn '⚠ using old-style cabinet lookup'
+      warn "\t⚠ using old-style cabinet lookup"
     end
 
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
