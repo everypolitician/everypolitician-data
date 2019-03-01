@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 1106,
-    "wikidata": 366,
+    "count": 678,
+    "wikidata": 183,
     "latest_term": {
-      "count": 283,
-      "wikidata": 67,
-      "images": 283,
+      "count": 236,
+      "wikidata": 51,
+      "images": 236,
       "contacts": {
-        "email": 234,
+        "email": 205,
         "facebook": 1,
         "twitter": 1
       }
     }
   },
   "groups": {
-    "count": 37,
-    "wikidata": 37
+    "count": 26,
+    "wikidata": 26
   },
   "terms": {
-    "count": 6,
+    "count": 5,
     "latest": "2017-04-19",
-    "wikidata": 6
+    "wikidata": 5
   },
   "areas": {
     "count": 31,
@@ -31,7 +31,7 @@
     "latest": "2017-03-26"
   },
   "positions": {
-    "cabinet": 13
+    "cabinet": 3
   },
   "sources": [
     {
@@ -44,18 +44,16 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/bulgaria-parliament-wikidata",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-14"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2017-12-06"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-13"
     },
     {
@@ -73,8 +71,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-14"
     }
   ]
 }
