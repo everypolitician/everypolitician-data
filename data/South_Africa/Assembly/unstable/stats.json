@@ -31,14 +31,14 @@
     "latest": "2019-05-08"
   },
   "positions": {
-    "cabinet": 22
+    "cabinet": 28
   },
   "sources": [
     {
       "file": "morph/wikidata-memberships.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/south-africa-national-assembly-wikidata",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-27"
     },
     {
       "file": "morph/peoplesassembly.csv",
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/south-african-national-assembly-members-wikidata",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-27"
     },
     {
       "file": "wikidata/parties.json",
@@ -78,7 +78,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-27"
     }
   ]
 }
