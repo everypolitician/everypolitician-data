@@ -5,11 +5,11 @@
     "latest_term": {
       "count": 277,
       "wikidata": 277,
-      "images": 152,
+      "images": 153,
       "contacts": {
         "email": 0,
-        "facebook": 14,
-        "twitter": 82
+        "facebook": 15,
+        "twitter": 83
       }
     }
   },
@@ -27,8 +27,8 @@
     "wikidata": 24
   },
   "elections": {
-    "count": 31,
-    "latest": "2017-10-22"
+    "count": 32,
+    "latest": "2019"
   },
   "positions": {
     "cabinet": 4
@@ -37,19 +37,16 @@
     {
       "file": "archive/official-2015.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-03-16"
     },
     {
       "file": "archive/official-2016.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-03-16"
     },
     {
       "file": "archive/vanished-2017.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-03-16"
     },
     {
@@ -73,7 +70,6 @@
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2018-10-08"
     },
     {
@@ -86,7 +82,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "tmtmtmtm/argentina-provinces-wikidata",
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-02-21"
     },
     {
       "file": "morph/cabinet.csv",
@@ -97,13 +93,11 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-01"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     }
   ]
