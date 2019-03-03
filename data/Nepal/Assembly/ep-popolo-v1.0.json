@@ -223,6 +223,7 @@
           "value": "9848145799"
         }
       ],
+      "gender": "male",
       "id": "0294ff2c-82c2-4286-a65c-efa337351f61",
       "identifiers": [
         {
@@ -235,6 +236,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Santa_Kumar_Tharu"
+        },
         {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/सन्तकुमार_थारु"
@@ -2884,32 +2889,13 @@
         {
           "identifier": "suryaman_gurung",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q19714133",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ne)",
-          "url": "https://ne.wikipedia.org/wiki/सूर्यमान_गुरुङ"
         }
       ],
       "name": "Suryaman Gurung",
       "other_names": [
         {
-          "name": "सूर्यमान गुरुङ",
-          "note": "alternate"
-        },
-        {
           "lang": "ne",
           "name": "मा.सूर्यमान गुरुङ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ne",
-          "name": "सूर्यमान गुरुङ",
           "note": "multilingual"
         }
       ]
@@ -11624,29 +11610,10 @@
         {
           "identifier": "chandra_bahadur_gurung",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q13179346",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ne)",
-          "url": "https://ne.wikipedia.org/wiki/इन्द्रबहादुर_गुरुङ"
         }
       ],
       "name": "Chandra Bahadur Gurung",
       "other_names": [
-        {
-          "name": "इन्द्रबहादुर गुरुङ",
-          "note": "alternate"
-        },
-        {
-          "lang": "ne",
-          "name": "इन्द्रबहादुर गुरुङ",
-          "note": "multilingual"
-        },
         {
           "lang": "ne",
           "name": "मा. चन्द्र बहादुर गुरुङ",
@@ -12619,29 +12586,10 @@
         {
           "identifier": "tek_bahadur_basnet",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q13181479",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ne)",
-          "url": "https://ne.wikipedia.org/wiki/टेक_बहादुर_बस्नेत"
         }
       ],
       "name": "Tek Bahadur Basnet",
       "other_names": [
-        {
-          "name": "टेक बहादुर बस्नेत",
-          "note": "alternate"
-        },
-        {
-          "lang": "ne",
-          "name": "टेक बहादुर बस्नेत",
-          "note": "multilingual"
-        },
         {
           "lang": "ne",
           "name": "मा.टेक बहादुर बस्नेत",
@@ -17132,48 +17080,18 @@
         }
       ],
       "email": "bpaudel1959@gmail.com",
-      "gender": "male",
       "id": "e6399c78-4c83-444d-9569-72d63616fd33",
       "identifiers": [
         {
           "identifier": "bishnu_prasad_poudel",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q19683842",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ne)",
-          "url": "https://ne.wikipedia.org/wiki/विष्णु_प्रसाद_पौडेल"
         }
       ],
       "name": "Bishnu Prasad Poudel",
       "other_names": [
         {
-          "name": "विष्णु प्रसाद पौडेल",
-          "note": "alternate"
-        },
-        {
-          "lang": "bho",
-          "name": "विष्णु प्रसाद पौडेल",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mai",
-          "name": "विष्णु प्रसाद पौडेल",
-          "note": "multilingual"
-        },
-        {
           "lang": "ne",
           "name": "मा.विष्णु प्रसाद पौडेल",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ne",
-          "name": "विष्णु प्रसाद पौडेल",
           "note": "multilingual"
         }
       ]
@@ -26713,6 +26631,19 @@
     },
     {
       "classification": "general election",
+      "end_date": "1999-05-17",
+      "id": "Q6994500",
+      "identifiers": [
+        {
+          "identifier": "Q6994500",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Nepalese legislative election, 1999",
+      "start_date": "1999-05-03"
+    },
+    {
+      "classification": "general election",
       "end_date": "2008-04-10",
       "id": "Q1534989",
       "identifiers": [
@@ -26722,19 +26653,6 @@
         }
       ],
       "name": "Nepalese Constituent Assembly election, 2008",
-      "start_date": "2008-04-10"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2008-04-10",
-      "id": "Q6994500",
-      "identifiers": [
-        {
-          "identifier": "Q6994500",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Nepalese legislative election, 1999",
       "start_date": "2008-04-10"
     },
     {
