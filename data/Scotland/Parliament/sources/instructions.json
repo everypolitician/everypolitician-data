@@ -67,6 +67,15 @@
       }
     },
     {
+      "file": "morph/cabinet-positions.csv",
+      "type": "wikidata-cabinet",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/scotland-positions",
+        "query": "SELECT * FROM positions ORDER BY id"
+      }
+    },
+    {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
       "create": {
