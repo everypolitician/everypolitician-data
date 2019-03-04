@@ -3676,6 +3676,12 @@
     },
     {
       "birth_date": "1961-05-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "clemirapachecor"
+        }
+      ],
       "gender": "female",
       "id": "47239a24-e422-4089-992a-7add269772cd",
       "identifiers": [
@@ -3686,6 +3692,10 @@
         {
           "identifier": "Q16301478",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCRGgV-BrIJ8mhNLUMAOKKQQ",
+          "scheme": "youtube"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Clemira_Pacheco_Rivas.jpg",
@@ -3702,12 +3712,40 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Clemira_Pacheco"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/clemira.pachecorivas"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/clemirapachecor"
         }
       ],
       "name": "Clemira Pacheco Rivas",
       "other_names": [
         {
-          "lang": "en",
+          "lang": "ast",
+          "name": "Clemira Pacheco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Clemira Pacheco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Clemira Pacheco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Clemira Pacheco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Clemira Pacheco",
           "note": "multilingual"
         }
@@ -10220,6 +10258,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Aníbal_Pérez"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/دومينغو_بيريز_(سياسي)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Aníbal_Pérez"
         },
@@ -10230,6 +10272,11 @@
       ],
       "name": "Aníbal Pérez Lobos",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "دومينغو بيريز",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Aníbal Pérez",
@@ -13171,6 +13218,10 @@
           "url": "https://pt.wikipedia.org/wiki/Evelyn_Matthei"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Evelyn_Matthei"
+        },
+        {
           "note": "website",
           "url": "http://evelynmatthei.cl/"
         }
@@ -13392,6 +13443,7 @@
     },
     {
       "birth_date": "1954-07-08",
+      "family_name": "Ringeling",
       "gender": "male",
       "given_name": "Federico",
       "id": "f1244641-537d-4160-b6b1-b1130341f4c1",
@@ -14330,6 +14382,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Andrés_Chadwick"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أندريس_تشادويك"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Andrés_Chadwick"
         },
@@ -14344,6 +14400,11 @@
       ],
       "name": "Andrés Chadwick Piñera",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "أندريس تشادويك",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Andrés Chadwick",
@@ -14687,6 +14748,12 @@
         {
           "lang": "pt",
           "name": "Evolução Política",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "政治进化",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -24326,7 +24393,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1941",
+      "end_date": "1941-03-02",
       "id": "Q583754",
       "identifiers": [
         {
@@ -24335,7 +24402,7 @@
         }
       ],
       "name": "Chilean parliamentary election, 1941",
-      "start_date": "1941"
+      "start_date": "1941-03-02"
     },
     {
       "classification": "general election",
@@ -24352,7 +24419,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1949",
+      "end_date": "1949-03-06",
       "id": "Q8774545",
       "identifiers": [
         {
@@ -24361,7 +24428,7 @@
         }
       ],
       "name": "Chilean parliamentary election, 1949",
-      "start_date": "1949"
+      "start_date": "1949-03-06"
     },
     {
       "classification": "general election",
@@ -24378,7 +24445,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1957",
+      "end_date": "1957-03-03",
       "id": "Q5828526",
       "identifiers": [
         {
@@ -24387,7 +24454,7 @@
         }
       ],
       "name": "Chilean parliamentary election, 1957",
-      "start_date": "1957"
+      "start_date": "1957-03-03"
     },
     {
       "classification": "general election",
