@@ -76,7 +76,10 @@ namespace :term_csvs do
     src = @INSTRUCTIONS.sources_of_type('wikidata-cabinet').first or next
     source_warn "Creating #{POSITION_CSV}"
 
-    pmap = PositionMap::CSV.new(POSITION_FILTER_CSV)
+    filter = [CABINET_FILTER, POSITION_FILTER_CSV].find(&:exist?)
+    warn "\t⚠ using old-style local cabinet position list" unless CABINET_FILTER.exist?
+
+    pmap = PositionMap::CSV.new(filter)
     wanted, unwanted = src.partitioned(position_map: pmap)
     members = @popolo.persons.select(&:wikidata).group_by(&:wikidata)
 
