@@ -29,7 +29,6 @@
     "dates": [
       "1995-05-14"
     ],
-    "office": "President of Argentina",
     "successful_candidates": [
       "Carlos Menem"
     ]
@@ -271,10 +270,10 @@
       }
     ],
     "dates": [
-      "2009"
+      "2009-06-28"
     ],
     "follows": "Argentine general election, 2007",
-    "followed_by": "Argentine general election, 2011"
+    "followed_by": "Argentine presidential election, 2011"
   },
   "Q20010711": {
     "identifiers": [
@@ -313,6 +312,7 @@
       "2015-10-25"
     ],
     "follows": "Argentine legislative election, 2013",
+    "followed_by": "Argentine legislative election, 2017",
     "part_of": "Argentine general election, 2015",
     "office": "member of the Argentine Chamber of Deputies"
   },
@@ -485,7 +485,7 @@
       "2007-10-28"
     ],
     "follows": "Argentine presidential election, 2003",
-    "followed_by": "Argentine general election, 2011",
+    "followed_by": "Argentine presidential election, 2011",
     "office": "President of Argentina",
     "successful_candidates": [
       "Cristina Kirchner"
@@ -551,7 +551,9 @@
     "dates": [
       "2017-10-22"
     ],
-    "follows": "Argentine legislative election, 2015"
+    "follows": "Argentine legislative election, 2015",
+    "followed_by": "Argentine legislative election, 2019",
+    "office": "member of the Argentine Chamber of Deputies"
   },
   "Q3586850": {
     "identifiers": [
@@ -691,7 +693,9 @@
     ],
     "dates": [
       "2005"
-    ]
+    ],
+    "follows": "Argentine parliamentary elections, 2003",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff064d0>"
   },
   "Q4356097": {
     "identifiers": [
@@ -759,8 +763,9 @@
     "dates": [
       "2013-10-27"
     ],
-    "follows": "Argentine general election, 2011",
+    "follows": "Argentine legislative election, 2011",
     "followed_by": "Argentine legislative election, 2015",
+    "office": "member of the Argentine Chamber of Deputies",
     "successful_candidates": [
       "Miguel Ángel Pichetto",
       "Julián Domínguez"
@@ -814,7 +819,9 @@
     ],
     "dates": [
       "1957"
-    ]
+    ],
+    "follows": "Argentine Constituent Assembly election, 1948",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff04b30>"
   },
   "Q4789438": {
     "identifiers": [
@@ -889,6 +896,8 @@
     "dates": [
       "1946"
     ],
+    "follows": "Argentine presidential election, 1937",
+    "followed_by": "Argentine general election, 1951",
     "office": "President of Argentina",
     "successful_candidates": [
       "Juan Domingo Perón"
@@ -1009,7 +1018,9 @@
     ],
     "dates": [
       "1954"
-    ]
+    ],
+    "follows": "#<Wikisnakker::Item:0x000056420ff09e50>",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff09cc0>"
   },
   "Q4789469": {
     "identifiers": [
@@ -1034,7 +1045,9 @@
     ],
     "dates": [
       "1962"
-    ]
+    ],
+    "follows": "Argentine legislative election, 1960",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff09630>"
   },
   "Q4789470": {
     "identifiers": [
@@ -1059,7 +1072,9 @@
     ],
     "dates": [
       "1960"
-    ]
+    ],
+    "follows": "#<Wikisnakker::Item:0x000056420ff090e0>",
+    "followed_by": "Argentine legislative election, 1962"
   },
   "Q4789472": {
     "identifiers": [
@@ -1084,7 +1099,9 @@
     ],
     "dates": [
       "1965"
-    ]
+    ],
+    "follows": "#<Wikisnakker::Item:0x000056420ff08a50>",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff088c0>"
   },
   "Q4789473": {
     "identifiers": [
@@ -1121,7 +1138,9 @@
     ],
     "dates": [
       "1948"
-    ]
+    ],
+    "follows": "#<Wikisnakker::Item:0x000056420ff081e0>",
+    "followed_by": "#<Wikisnakker::Item:0x000056420ff08050>"
   },
   "Q4789475": {
     "identifiers": [
@@ -1147,6 +1166,8 @@
     "dates": [
       "1987"
     ],
+    "follows": "Argentine legislative election, 1985",
+    "followed_by": "Argentine parliamentary election, 1989",
     "successful_candidates": [
       "Juan Carlos Pugliese"
     ]
@@ -1175,6 +1196,8 @@
     "dates": [
       "1991"
     ],
+    "follows": "Argentine parliamentary election, 1989",
+    "followed_by": "Argentine legislative election, 1993",
     "successful_candidates": [
       "Alberto Pierri"
     ]
@@ -1203,6 +1226,8 @@
     "dates": [
       "1993"
     ],
+    "follows": "Argentine legislative election, 1991",
+    "followed_by": "Argentine legislative election, 1995",
     "successful_candidates": [
       "Alberto Pierri"
     ]
@@ -1231,6 +1256,8 @@
     "dates": [
       "1997"
     ],
+    "follows": "Argentine legislative election, 1995",
+    "followed_by": "Argentine parliamentary election, 1999",
     "successful_candidates": [
       "Alberto Pierri"
     ]
@@ -1277,10 +1304,39 @@
     "dates": [
       "2001"
     ],
+    "follows": "Argentine parliamentary election, 1999",
+    "followed_by": "Argentine parliamentary elections, 2003",
     "successful_candidates": [
       "Eduardo Camaño",
       "Ramón Puerta"
     ]
+  },
+  "Q51881672": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q51881672"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Argentina de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Argentine legislative election, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2019"
+    ],
+    "follows": "Argentine legislative election, 2017",
+    "part_of": "Argentine general election, 2019"
   },
   "Q5828220": {
     "identifiers": [
@@ -1306,9 +1362,58 @@
     "dates": [
       "1985"
     ],
+    "follows": "Argentine parliamentary election, 1983",
+    "followed_by": "Argentine legislative election, 1987",
     "successful_candidates": [
       "Juan Carlos Pugliese"
     ]
+  },
+  "Q5828240": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5828240"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "elecciones legislativas de Argentina de 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives argentines de 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahlen in Argentinien 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Argentine legislative election, 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "elecciones parlamentarias de Argentina de 2011",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2011-10-23"
+    ],
+    "follows": "Argentine legislative election, 2009",
+    "followed_by": "Argentine legislative election, 2013",
+    "part_of": "Argentine presidential election, 2011",
+    "office": "member of the Argentine Chamber of Deputies"
   },
   "Q5828597": {
     "identifiers": [
@@ -1351,102 +1456,6 @@
     "office": "President of Argentina",
     "successful_candidates": [
       "Arturo Frondizi"
-    ]
-  },
-  "Q977040": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q977040"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "de",
-        "name": "Präsidentschafts- und Parlamentswahlen in Argentinien 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Argentine general election, 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "elecciones presidenciales de Argentina de 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élection présidentielle argentine de 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "id",
-        "name": "Pemilihan umum Argentina 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ms",
-        "name": "Pilihan raya umum Argentina 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleições gerais na Argentina em 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ru",
-        "name": "Выборы в Аргентине 2011 года",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni presidenziali in Argentina del 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "2011年阿根廷大選",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones presidenciales d'Arxentina de 2011",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Argentine presidential election, 2011",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "zh",
-        "name": "2010年阿根廷總統大選",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "dates": [
-      "2011-10-23"
-    ],
-    "follows": "Argentine general election, 2007",
-    "followed_by": "Argentine legislative election, 2013",
-    "successful_candidates": [
-      "Cristina Kirchner"
     ]
   }
 }
