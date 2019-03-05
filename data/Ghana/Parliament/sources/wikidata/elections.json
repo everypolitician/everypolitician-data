@@ -27,8 +27,9 @@
       }
     ],
     "dates": [
-      "1965"
-    ]
+      "1965-08-29"
+    ],
+    "followed_by": "Ghanaian parliamentary election, 1969"
   },
   "Q1641358": {
     "identifiers": [
@@ -178,6 +179,7 @@
       "2016-12-07"
     ],
     "follows": "Ghanaian general election, 2012",
+    "followed_by": "Wikipedia:Future events",
     "office": "President of Ghana"
   },
   "Q1848500": {
@@ -252,12 +254,6 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Präsidentschaftswahlen in Ghana 1979",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "en",
         "name": "Ghanaian general election, 1979",
         "note": "multilingual",
@@ -289,8 +285,10 @@
       }
     ],
     "dates": [
-      "1979"
-    ]
+      "1979-06-18"
+    ],
+    "follows": "Ghanaian presidential election, 1960",
+    "followed_by": "Ghanaian presidential election, 1992"
   },
   "Q2115166": {
     "identifiers": [
@@ -346,6 +344,8 @@
     "dates": [
       "2004-12-07"
     ],
+    "follows": "Ghanaian general election, 2000",
+    "followed_by": "Ghanaian general election, 2008",
     "office": "President of Ghana"
   },
   "Q388349": {
@@ -445,6 +445,8 @@
       "2008-12-07"
     ],
     "start_date": "2008-12-07",
+    "follows": "Ghanaian general election, 2004",
+    "followed_by": "Ghanaian general election, 2012",
     "office": "President of Ghana",
     "successful_candidates": [
       "John Evans Atta Mills"
@@ -540,6 +542,8 @@
     "dates": [
       "2012-12-07"
     ],
+    "follows": "Ghanaian general election, 2008",
+    "followed_by": "Ghanaian general election, 2016",
     "office": "President of Ghana",
     "successful_candidates": [
       "John Mahama"
@@ -585,8 +589,10 @@
       }
     ],
     "dates": [
-      "1969"
-    ]
+      "1969-08-29"
+    ],
+    "follows": "Ghanaian parliamentary election, 1965",
+    "followed_by": "Ghanaian general election, 1979"
   },
   "Q61724334": {
     "identifiers": [
@@ -601,11 +607,18 @@
         "name": "Ghanaian general election, 1992",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Ghana de 1992",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "1992-12-29"
     ],
+    "follows": "Ghanaian general election, 1979",
     "followed_by": "Ghanaian general election, 1996"
   }
 }
