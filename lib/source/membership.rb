@@ -71,11 +71,17 @@ module Source
     end
 
     def group_mapfile
-      @group_mapfile ||= UuidMapFile.new(group_id_map_file)
+      @group_mapfile ||= begin
+        warn "\t⚠ Missing group UUID mapping" unless group_id_map_file.exist?
+        UuidMapFile.new(group_id_map_file)
+      end
     end
 
     def area_mapfile
-      @area_mapfile ||= UuidMapFile.new(area_id_map_file)
+      @area_mapfile ||= begin
+        warn "\t⚠ Missing area UUID mapping" unless area_id_map_file.exist?
+        UuidMapFile.new(area_id_map_file)
+      end
     end
 
     private
