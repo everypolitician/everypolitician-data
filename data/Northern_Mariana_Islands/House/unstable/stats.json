@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 20,
-    "wikidata": 1,
+    "wikidata": 2,
     "latest_term": {
       "count": 20,
-      "wikidata": 1,
+      "wikidata": 2,
       "images": 20,
       "contacts": {
         "email": 0,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/northern-marianas-legislature-wikidata",
-      "lastmod": "2019-01-17"
+      "lastmod": "2019-03-07"
     },
     {
       "file": "manual/terms.csv",
@@ -64,12 +64,12 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-06"
+      "lastmod": "2019-03-07"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "lastmod": "2018-05-25"
+      "lastmod": "2019-03-07"
     }
   ]
 }
