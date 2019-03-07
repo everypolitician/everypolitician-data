@@ -2562,6 +2562,12 @@
     },
     {
       "birth_date": "1969-08-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "adriandeliapn"
+        }
+      ],
       "gender": "male",
       "given_name": "Adrian",
       "id": "c3e49b32-f769-43f3-9488-4cf9e145594b",
@@ -2597,6 +2603,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Adrian_Delia"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/adriandeliapn"
         }
       ],
       "name": "Adrian Delia",
@@ -2888,6 +2898,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Christian_Cardona"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كريستيان_كاردونا"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Christian_Cardona"
         },
@@ -2898,6 +2912,11 @@
       ],
       "name": "Chris Cardona",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "كريستيان كاردونا",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Christian Cardona",
@@ -4208,6 +4227,12 @@
         {
           "lang": "be",
           "name": "Нацыяналістычная партыя",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الوطني",
           "note": "multilingual",
           "source": "wikidata-label"
         },
