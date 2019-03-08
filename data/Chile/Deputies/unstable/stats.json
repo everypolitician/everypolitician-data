@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 375,
-    "wikidata": 333,
+    "wikidata": 332,
     "latest_term": {
       "count": 121,
-      "wikidata": 121,
-      "images": 121,
+      "wikidata": 120,
+      "images": 120,
       "contacts": {
         "email": 0,
         "facebook": 8,
-        "twitter": 14
+        "twitter": 15
       }
     }
   },
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/chile-congress-wikidata",
-      "lastmod": "2019-02-28"
+      "lastmod": "2019-03-04"
     },
     {
       "file": "manual/terms.csv",
@@ -54,7 +54,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-23"
+      "lastmod": "2019-03-04"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -71,7 +71,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-28"
+      "lastmod": "2019-03-04"
     }
   ]
 }
