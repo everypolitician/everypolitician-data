@@ -235,6 +235,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n91043423",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "251322231818692216",
           "scheme": "nrsr"
         },
@@ -4837,6 +4841,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jozef_Mihál"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Jozef_Mihál"
         },
@@ -5195,6 +5203,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Рудольф_Шустер"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Rudolf_Schuster"
         },
         {
           "note": "Wikipedia (zh)",
@@ -10850,6 +10862,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Miroslav_Číž"
+        },
+        {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Miroslav_Číž"
         }
@@ -15539,6 +15555,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Peter_Markovič"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Peter_Markovič"
         },
@@ -19908,6 +19928,7 @@
       ],
       "email": "milan_krajniak@nrsr.sk",
       "family_name": "Krajniak",
+      "gender": "male",
       "given_name": "Milan",
       "id": "a52e74ec-7b32-4461-adb0-82c5bd490c46",
       "identifiers": [
@@ -19920,9 +19941,20 @@
       "images": [
         {
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=920&ImageWidth=140"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/MilanKrajniakWikifoto.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Milan_Krajniak"
+        },
+        {
+          "note": "Wikipedia (hsb)",
+          "url": "https://hsb.wikipedia.org/wiki/Milan_Krajniak"
+        },
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Milan_Krajniak"
@@ -22976,12 +23008,6 @@
         {
           "identifier": "Q3735272",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Milan_Knažko.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Milan_Knažko.jpg"
         }
       ],
       "links": [
@@ -29593,6 +29619,10 @@
           "url": "https://sk.wikipedia.org/wiki/Peter_Pellegrini"
         },
         {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Петер_Пелегрини"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Peter_Pellegrini"
         },
@@ -29646,6 +29676,11 @@
         {
           "lang": "ru",
           "name": "Пеллегрини, Петер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Петер Пелегрини",
           "note": "multilingual"
         },
         {
@@ -29738,6 +29773,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/رودلف_باور_(سياسي)"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rudolf_Bauer_(politician)"
@@ -30285,6 +30324,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Владимир_Мечіар"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Vladimír_Mečiar"
         },
         {
           "note": "Wikiquote (cs)",
@@ -35623,6 +35666,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "cy",
+          "name": "Undeb Democrataidd a Christnogol Slofaciaidd - Plaid Ddemocrataidd",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "sk",
           "name": "SDKÚ–DS",
           "note": "multilingual",
@@ -36117,6 +36166,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "cy",
+          "name": "Undeb Democrataidd a Christnogol Slofaciaidd - Plaid Ddemocrataidd",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "sk",
           "name": "SDKÚ–DS",
           "note": "multilingual",
@@ -36607,6 +36662,12 @@
         {
           "lang": "eo",
           "name": "Slovaka Demokratia kaj Kristana Unio — Demokratia Partio",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Undeb Democrataidd a Christnogol Slofaciaidd - Plaid Ddemocrataidd",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -64541,7 +64602,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1948",
+      "end_date": "1948-05-30",
       "id": "Q11931708",
       "identifiers": [
         {
@@ -64549,12 +64610,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Slovak parliamentary election",
-      "start_date": "1948"
+      "name": "Slovak parliamentary election, 1948",
+      "start_date": "1948-05-30"
     },
     {
       "classification": "general election",
-      "end_date": "1954",
+      "end_date": "1954-11-28",
       "id": "Q11931732",
       "identifiers": [
         {
@@ -64562,8 +64623,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Slovak parliamentary election",
-      "start_date": "1954"
+      "name": "Slovak parliamentary election, 1954",
+      "start_date": "1954-11-28"
     },
     {
       "classification": "general election",
@@ -64671,7 +64732,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1994",
+      "end_date": "1994-10-01",
       "id": "Q1308966",
       "identifiers": [
         {
@@ -64680,7 +64741,7 @@
         }
       ],
       "name": "Slovak parliamentary election, 1994",
-      "start_date": "1994"
+      "start_date": "1994-09-30"
     },
     {
       "classification": "general election",
