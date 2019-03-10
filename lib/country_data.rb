@@ -89,10 +89,12 @@ module Everypolitician
 
       def terms
         # TODO: use everypolitician-popolo
-        terms = popolo[:events].select { |event| event[:classification] == 'legislative period' }
-        terms.sort_by { |term| term[:start_date].to_s }.reverse.map do |term|
-          Term.new(event: term, legislature: self)
-        end.select(&:exists?).map(&:stanza)
+        popolo[:events].select { |event| event[:classification] == 'legislative period' }
+                       .map { |term| Term.new(event: term, legislature: self) }
+                       .select(&:exists?)
+                       .map(&:stanza)
+                       .sort_by { |term| term[:start_date].to_s }
+                       .reverse
       end
 
       def legislature
