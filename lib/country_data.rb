@@ -17,7 +17,7 @@ module Everypolitician
           country:      name,
           code:         meta['iso_code'].upcase,
           slug:         slug,
-          legislatures: dirs.map { |h| Legislature::Metadata.new(dir: h, commit_metadata: commit_metadata).stanza },
+          legislatures: dirs.map { |dir| Legislature::Metadata.new(dir: dir, commit_metadata: commit_metadata).stanza },
         }
       end
 
@@ -104,7 +104,7 @@ module Everypolitician
       end
 
       def legislature
-        orgs = popolo[:organizations].select { |o| o[:classification] == 'legislature' }
+        orgs = popolo[:organizations].select { |org| org[:classification] == 'legislature' }
         raise "Wrong number of legislatures (#{orgs})" unless orgs.count == 1
 
         orgs.first
@@ -121,8 +121,8 @@ module Everypolitician
       def json_with_count
         @json_with_count ||= begin
           statements = 0
-          json = JSON.load(File.read(json_file), lambda do |h|
-            statements += h.values.select { |v| v.class == String }.count if h.class == Hash
+          json = JSON.load(File.read(json_file), lambda do |hash|
+            statements += hash.values.select { |value| value.class == String }.count if hash.class == Hash
           end, symbolize_names: true, create_additions: false)
           [json, statements]
         end
