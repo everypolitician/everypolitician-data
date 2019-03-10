@@ -23,12 +23,12 @@ module Task
       Pathname.new('countries.json')
     end
 
-    def existing_data
-      JSON.parse(countries_file.read, symbolize_names: true)
+    def raw_existing_data
+      @raw_existing_data ||= JSON.parse(countries_file.read, symbolize_names: true)
     end
 
     def existing_data_as_hash
-      existing_data.map { |e| [e[:name], e] }.to_h
+      raw_existing_data.map { |e| [e[:name], e] }.to_h
     end
 
     def all_countries
