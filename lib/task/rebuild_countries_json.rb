@@ -67,9 +67,7 @@ module Task
 
     def country_data(country)
       Everypolitician::Metadata::Country.new(
-        # TODO: change this to accept an EveryPolitician::Country
-        country:         country.name,
-        dirs:            country.legislatures.map { |l| 'data/' + l.directory },
+        country:         country,
         commit_metadata: commit_metadata
       ).stanza
     end

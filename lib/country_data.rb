@@ -4,9 +4,8 @@ module Everypolitician
   module Metadata
     # The metadata for a country, included in countries.json
     class Country
-      def initialize(country:, dirs:, commit_metadata:)
+      def initialize(country:, commit_metadata:)
         @country = country
-        @dirs = dirs
         @commit_metadata = commit_metadata
       end
 
@@ -23,7 +22,11 @@ module Everypolitician
 
       private
 
-      attr_reader :country, :dirs, :commit_metadata
+      attr_reader :country, :commit_metadata
+
+      def dirs
+        country.legislatures.map { |l| 'data/' + l.directory }
+      end
 
       def meta_file
         dirs.first + '/../meta.json'
@@ -38,7 +41,7 @@ module Everypolitician
       end
 
       def name
-        meta['name'] || country.tr('_', ' ')
+        meta['name'] || country.name.tr('_', ' ')
       end
 
       def slug
