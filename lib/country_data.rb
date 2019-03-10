@@ -144,23 +144,18 @@ module Everypolitician
 
     # The metadata for a legislative period, included in countries.json
     class Term
+      require 'active_support/core_ext/hash/except'
+
       def initialize(event:, legislature:)
         @event = event
         @legislature = legislature
       end
 
       def stanza
-        # TODO: split this up
-        @stanza ||= begin
-          event.delete :classification
-          event.delete :organization_id
-          event.delete :identifiers
-          event[:slug] ||= event[:id].split('/').last
-          event[:csv] = legislature.path + "term-#{event[:slug]}.csv"
-          term_csv_sha = legislature.commit_metadata[event[:csv].to_s][:sha]
-          event[:csv_url] = legislature.remote_source % [term_csv_sha, event[:csv]]
-          event
-        end
+        event.except(:classification, :organization_id, :identifiers).merge(
+          csv:     csv_path,
+          csv_url: csv_url
+        )
       end
 
       def exists?
@@ -170,6 +165,22 @@ module Everypolitician
       private
 
       attr_reader :event, :legislature
+
+      def slug
+        event[:slug] ||= event[:id].split('/').last
+      end
+
+      def csv_path
+        legislature.path + "term-#{slug}.csv"
+      end
+
+      def term_csv_sha
+        legislature.commit_metadata[csv_path.to_s][:sha]
+      end
+
+      def csv_url
+        legislature.remote_source % [term_csv_sha, csv_path]
+      end
     end
   end
 end
