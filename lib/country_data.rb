@@ -66,11 +66,7 @@ module Everypolitician
           lastmod:             lastmod,
           person_count:        popolo[:persons].size,
           sha:                 sha,
-          legislative_periods: terms.each do |t|
-            t.delete :identifiers
-            term_csv_sha = commit_metadata[t[:csv]][:sha]
-            t[:csv_url] = remote_source % [term_csv_sha, t[:csv]]
-          end,
+          legislative_periods: terms,
           statement_count:     statement_count,
           type:                type,
         }
@@ -93,14 +89,18 @@ module Everypolitician
       end
 
       def terms
-        terms = popolo[:events].select { |o| o[:classification] == 'legislative period' }
-        terms.sort_by { |t| t[:start_date].to_s }.reverse.map do |t|
-          t.delete :classification
-          t.delete :organization_id
-          t[:slug] ||= t[:id].split('/').last
-          t[:csv] = dir + "/term-#{t[:slug]}.csv"
-          t
-        end.select { |t| File.exist? t[:csv] }
+        # TODO: use everypolitician-popolo
+        terms = popolo[:events].select { |event| event[:classification] == 'legislative period' }
+        terms.sort_by { |term| term[:start_date].to_s }.reverse.map do |term|
+          term.delete :classification
+          term.delete :organization_id
+          term.delete :identifiers
+          term[:slug] ||= term[:id].split('/').last
+          term[:csv] = dir + "/term-#{term[:slug]}.csv"
+          term_csv_sha = commit_metadata[term[:csv]][:sha]
+          term[:csv_url] = remote_source % [term_csv_sha, term[:csv]]
+          term
+        end.select { |term| File.exist? term[:csv] }
       end
 
       def legislature
