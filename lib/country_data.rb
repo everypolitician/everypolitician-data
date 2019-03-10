@@ -16,7 +16,7 @@ module Everypolitician
           country:      name,
           code:         meta['iso_code'].upcase,
           slug:         slug,
-          legislatures: dirs.map { |dir| Legislature.new(dir: dir, commit_metadata: commit_metadata).stanza },
+          legislatures: paths.map { |path| Legislature.new(path: path, commit_metadata: commit_metadata).stanza },
         }
       end
 
@@ -24,20 +24,24 @@ module Everypolitician
 
       attr_reader :country, :commit_metadata
 
-      def dirs
-        country.legislatures.map { |l| 'data/' + l.directory }
+      def datadir
+        Pathname.new('data')
+      end
+
+      def paths
+        country.legislatures.map { |l| datadir + l.directory }
       end
 
       def meta_file
-        dirs.first + '/../meta.json'
+        paths.first.parent + 'meta.json'
       end
 
       def meta_json
-        JSON.load(File.open(meta_file))
+        JSON.load(meta_file.open)
       end
 
       def meta
-        @meta ||= File.exist?(meta_file) ? meta_json : {}
+        @meta ||= meta_file.exist? ? meta_json : {}
       end
 
       def name
@@ -45,23 +49,23 @@ module Everypolitician
       end
 
       def slug
-        dirs.first.split('/').drop(1).first.tr('_', '-')
+        paths.first.parent.split.last.to_s.tr('_', '-')
       end
     end
 
     # The metadata for a legislature, included in countries.json
     class Legislature
-      def initialize(dir:, commit_metadata:)
-        @dir = dir
+      def initialize(path:, commit_metadata:)
+        @path = path
         @commit_metadata = commit_metadata
       end
 
       def stanza
-        sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
+        sha, lastmod = commit_metadata[json_file.to_s].values_at :sha, :timestamp
         {
           name:                lname,
           slug:                lslug,
-          sources_directory:   "#{dir}/sources",
+          sources_directory:   path + 'sources',
           popolo:              json_file,
           popolo_url:          remote_source % [sha, json_file],
           names:               name_file,
@@ -74,7 +78,7 @@ module Everypolitician
         }
       end
 
-      attr_reader :dir, :commit_metadata
+      attr_reader :path, :commit_metadata
 
       def remote_source
         'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
@@ -83,11 +87,11 @@ module Everypolitician
       private
 
       def json_file
-        dir + '/ep-popolo-v1.0.json'
+        path + 'ep-popolo-v1.0.json'
       end
 
       def name_file
-        dir + '/names.csv'
+        path + 'names.csv'
       end
 
       def terms
@@ -112,13 +116,13 @@ module Everypolitician
       end
 
       def lslug
-        dir.split('/').last.tr('_', '-')
+        path.basename.to_s.tr('_', '-')
       end
 
       def json_with_count
         @json_with_count ||= begin
           statements = 0
-          json = JSON.load(File.read(json_file), lambda do |hash|
+          json = JSON.load(json_file.read, lambda do |hash|
             statements += hash.values.select { |value| value.class == String }.count if hash.class == Hash
           end, symbolize_names: true, create_additions: false)
           [json, statements]
@@ -134,7 +138,7 @@ module Everypolitician
       end
 
       def type
-        legislature[:type] || raise("Missing 'type' for Legislature #{legislature[:name]} in #{dir}")
+        legislature[:type] || raise("Missing 'type' for Legislature #{legislature[:name]} in #{path}")
       end
     end
 
@@ -152,15 +156,15 @@ module Everypolitician
           event.delete :organization_id
           event.delete :identifiers
           event[:slug] ||= event[:id].split('/').last
-          event[:csv] = legislature.dir + "/term-#{event[:slug]}.csv"
-          term_csv_sha = legislature.commit_metadata[event[:csv]][:sha]
+          event[:csv] = legislature.path + "term-#{event[:slug]}.csv"
+          term_csv_sha = legislature.commit_metadata[event[:csv].to_s][:sha]
           event[:csv_url] = legislature.remote_source % [term_csv_sha, event[:csv]]
           event
         end
       end
 
       def exists?
-        File.exist? stanza[:csv]
+        stanza[:csv].exist?
       end
 
       private
