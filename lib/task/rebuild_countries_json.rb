@@ -61,18 +61,17 @@ module Task
 
     def updated_data
       data = existing_data_as_hash
-
-      countries.each do |c|
-        country = Everypolitician::Country::Metadata.new(
-          # TODO: change this to accept an EveryPolitician::Country
-          country:         c.name,
-          dirs:            c.legislatures.map { |l| 'data/' + l.directory },
-          commit_metadata: commit_metadata
-        ).stanza
-        data[c[:name]] = country
-      end
-
+      countries.each { |c| data[c[:name]] = country_data(c) }
       data.values
+    end
+
+    def country_data(country)
+      Everypolitician::Country::Metadata.new(
+        # TODO: change this to accept an EveryPolitician::Country
+        country:         country.name,
+        dirs:            country.legislatures.map { |l| 'data/' + l.directory },
+        commit_metadata: commit_metadata
+      ).stanza
     end
   end
 end
