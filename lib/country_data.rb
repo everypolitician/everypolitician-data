@@ -71,9 +71,13 @@ module Everypolitician
         }
       end
 
-      private
-
       attr_reader :dir, :commit_metadata
+
+      def remote_source
+        'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
+      end
+
+      private
 
       def json_file
         dir + '/ep-popolo-v1.0.json'
@@ -83,23 +87,12 @@ module Everypolitician
         dir + '/names.csv'
       end
 
-      def remote_source
-        'https://cdn.rawgit.com/everypolitician/everypolitician-data/%s/%s'
-      end
-
       def terms
         # TODO: use everypolitician-popolo
         terms = popolo[:events].select { |event| event[:classification] == 'legislative period' }
         terms.sort_by { |term| term[:start_date].to_s }.reverse.map do |term|
-          term.delete :classification
-          term.delete :organization_id
-          term.delete :identifiers
-          term[:slug] ||= term[:id].split('/').last
-          term[:csv] = dir + "/term-#{term[:slug]}.csv"
-          term_csv_sha = commit_metadata[term[:csv]][:sha]
-          term[:csv_url] = remote_source % [term_csv_sha, term[:csv]]
-          term
-        end.select { |term| File.exist? term[:csv] }
+          Term.new(event: term, legislature: self)
+        end.select(&:exists?).map(&:stanza)
       end
 
       def legislature
@@ -138,6 +131,36 @@ module Everypolitician
       def type
         legislature[:type] || raise("Missing 'type' for Legislature #{legislature[:name]} in #{dir}")
       end
+    end
+
+    # The metadata for a legislative period, included in countries.json
+    class Term
+      def initialize(event:, legislature:)
+        @event = event
+        @legislature = legislature
+      end
+
+      def stanza
+        # TODO: split this up
+        @stanza ||= begin
+          event.delete :classification
+          event.delete :organization_id
+          event.delete :identifiers
+          event[:slug] ||= event[:id].split('/').last
+          event[:csv] = legislature.dir + "/term-#{event[:slug]}.csv"
+          term_csv_sha = legislature.commit_metadata[event[:csv]][:sha]
+          event[:csv_url] = legislature.remote_source % [term_csv_sha, event[:csv]]
+          event
+        end
+      end
+
+      def exists?
+        File.exist? stanza[:csv]
+      end
+
+      private
+
+      attr_reader :event, :legislature
     end
   end
 end
