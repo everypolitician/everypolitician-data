@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 module Everypolitician
-  class Country
+  module Metadata
     # The metadata for a country, included in countries.json
-    class Metadata
+    class Country
       def initialize(country:, dirs:, commit_metadata:)
         @country = country
         @dirs = dirs
@@ -17,7 +17,7 @@ module Everypolitician
           country:      name,
           code:         meta['iso_code'].upcase,
           slug:         slug,
-          legislatures: dirs.map { |dir| Legislature::Metadata.new(dir: dir, commit_metadata: commit_metadata).stanza },
+          legislatures: dirs.map { |dir| Legislature.new(dir: dir, commit_metadata: commit_metadata).stanza },
         }
       end
 
@@ -45,10 +45,9 @@ module Everypolitician
         dirs.first.split('/').drop(1).first.tr('_', '-')
       end
     end
-  end
 
-  class Legislature
-    class Metadata
+    # The metadata for a legislature, included in countries.json
+    class Legislature
       def initialize(dir:, commit_metadata:)
         @dir = dir
         @commit_metadata = commit_metadata

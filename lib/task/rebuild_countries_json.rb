@@ -66,7 +66,7 @@ module Task
     end
 
     def country_data(country)
-      Everypolitician::Country::Metadata.new(
+      Everypolitician::Metadata::Country.new(
         # TODO: change this to accept an EveryPolitician::Country
         country:         country.name,
         dirs:            country.legislatures.map { |l| 'data/' + l.directory },
