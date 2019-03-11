@@ -23,12 +23,12 @@ module Task
       Pathname.new('countries.json')
     end
 
-    def existing_data
-      JSON.parse(countries_file.read, symbolize_names: true)
+    def raw_existing_data
+      @raw_existing_data ||= JSON.parse(countries_file.read, symbolize_names: true)
     end
 
     def existing_data_as_hash
-      existing_data.map { |e| [e[:name], e] }.to_h
+      raw_existing_data.map { |e| [e[:name], e] }.to_h
     end
 
     def all_countries
@@ -61,18 +61,15 @@ module Task
 
     def updated_data
       data = existing_data_as_hash
-
-      countries.each do |c|
-        country = Everypolitician::Country::Metadata.new(
-          # TODO: change this to accept an EveryPolitician::Country
-          country:         c.name,
-          dirs:            c.legislatures.map { |l| 'data/' + l.directory },
-          commit_metadata: commit_metadata
-        ).stanza
-        data[c[:name]] = country
-      end
-
+      countries.each { |c| data[c[:name]] = country_data(c) }
       data.values
+    end
+
+    def country_data(country)
+      Everypolitician::Metadata::Country.new(
+        country:         country,
+        commit_metadata: commit_metadata
+      ).stanza
     end
   end
 end
