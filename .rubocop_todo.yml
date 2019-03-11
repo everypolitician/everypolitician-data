@@ -26,11 +26,6 @@ Lint/AmbiguousRegexpLiteral:
   Exclude:
     - 'lib/git.rb'
 
-# Offense count: 1
-Lint/ShadowingOuterLocalVariable:
-  Exclude:
-    - 'rake_build/generate_ep_popolo.rb'
-
 # Offense count: 2
 Lint/UselessAssignment:
   Exclude:
