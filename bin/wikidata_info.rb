@@ -17,11 +17,11 @@ end
 
 EveryPolitician.countries_json = 'countries.json'
 
-puts <<'TABLEHEADER'
-{| class="wikitable sortable"
-|-
-! Country !! Legislature !! Total Members !! Matched to Wikidata !! Percentage !! Parties !! Matched !! Pct
-|-
+puts <<~'TABLEHEADER'
+  {| class="wikitable sortable"
+  |-
+  ! Country !! Legislature !! Total Members !! Matched to Wikidata !! Percentage !! Parties !! Matched !! Pct
+  |-
 TABLEHEADER
 
 total = { persons: 0, matched: 0 }
