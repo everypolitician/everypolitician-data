@@ -28,12 +28,7 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "everypolitician-scrapers/gibraltar-parliament",
-        "query": "SELECT * FROM terms ORDER BY id"
-      },
+      "file": "manual/terms.csv",
       "source": "http://www.parliament.gi/",
       "type": "term"
     },
