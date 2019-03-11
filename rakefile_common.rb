@@ -142,7 +142,6 @@ def popolo_write(pathname, json)
 end
 
 @SOURCE_DIR = 'sources/manual'
-@DATA_FILE = @SOURCE_DIR + '/members.csv'
 @INSTRUCTIONS_FILE = Pathname.new('sources/instructions.json')
 raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 
