@@ -116,10 +116,10 @@ namespace :transform do
   task tidy_memberships: :no_future_end_dates do
     @json[:memberships].each do |m|
       abort "No 'term' in #{m}" if m[:legislative_period_id].to_s.empty?
-      e = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a known term (in #{m})"
+      term = @json[:events].find { |e| e[:id] == m[:legislative_period_id] } or abort "#{m[:legislative_period_id]} is not a known term (in #{m})"
 
-      m.delete :start_date if m[:start_date].to_s.empty? || (!e[:start_date].to_s.empty? && m[:start_date].to_s <= e[:start_date].to_s)
-      m.delete :end_date   if m[:end_date].to_s.empty?   || (!e[:end_date].to_s.empty?   && m[:end_date].to_s   >= e[:end_date].to_s)
+      m.delete :start_date if m[:start_date].to_s.empty? || (!term[:start_date].to_s.empty? && m[:start_date].to_s <= term[:start_date].to_s)
+      m.delete :end_date   if m[:end_date].to_s.empty?   || (!term[:end_date].to_s.empty?   && m[:end_date].to_s   >= term[:end_date].to_s)
     end
     duplicates = @json[:memberships].group_by { |m| m }.select { |_, ms| ms.size > 1 }.map(&:first)
     if duplicates.any?
