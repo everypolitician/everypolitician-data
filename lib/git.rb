@@ -4,34 +4,36 @@
 # hash that maps from symbolized match names to the matched text.
 class MatchData
   def to_hash
-    Hash[names.map(&:to_sym).zip(captures)]
+    names.map(&:to_sym).zip(captures).to_h
   end
 end
 
-def file_to_commit_metadata(directories)
-  # There's about 2MB of data returned by this command, so rather than
-  # using backticks to turning it into a string and then splitting it,
-  # parse the output line-by-line. As a bonus this doesn't
-  # unnecessarily invoke a shell.
-  command = [
-    'git', '--no-pager', 'log', '--name-only', '--format=%H|%at',
-    '--', *directories,
-  ]
-  last_commit = {}
-  commit_details = nil
-  IO.popen(command) do |f|
-    f.each_line do |line|
-      # Each commit is introduced with the abbreviated object name
-      # of the commit and author date timestamp, separated by '|'.
-      # Then there's a blank line, then one filename per line.
-      line.strip!
-      commit_match = line.match /^(?<sha>[a-f\d]+)\|(?<timestamp>\d+)$/
-      if commit_match
-        commit_details = commit_match.to_hash
-      elsif !line.empty?
-        last_commit[line] ||= commit_details
+class GitHistory
+  def initialize(directories:)
+    @directories = directories
+  end
+
+  def metadata
+    last_commit = {}
+    # The command can return multi-MB of data, so parse it section by section
+    IO.popen(command) do |output|
+      output.each_line("\n\n\n") do |section|
+        header, *files = section.strip.split(/\n+/)
+        next unless files.any?
+
+        commit_data = header.match(/^(?<sha>[a-f\d]+)\|(?<timestamp>\d+)$/).to_hash
+        files.each { |file| last_commit[file] ||= commit_data }
       end
     end
+    last_commit
   end
-  last_commit
+
+  private
+
+  attr_reader :directories
+
+  def command
+    # Add three linebreaks to distinguish each section, so we can parse on that later
+    ['git', '--no-pager', 'log', '--name-only', "--format=\n\n\n%H|%at", '--', *directories]
+  end
 end
