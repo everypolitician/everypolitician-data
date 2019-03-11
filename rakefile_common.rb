@@ -141,7 +141,6 @@ def popolo_write(pathname, json)
   pathname.write(JSON.pretty_generate(final))
 end
 
-@SOURCE_DIR = 'sources/manual'
 @INSTRUCTIONS_FILE = Pathname.new('sources/instructions.json')
 raise("Can't read #{@INSTRUCTIONS_FILE}") unless @INSTRUCTIONS_FILE.exist?
 
