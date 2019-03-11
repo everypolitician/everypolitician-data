@@ -1,26 +1,9 @@
 # frozen_string_literal: true
 
-require 'everypolitician'
 require 'fileutils'
-require 'pathname'
-require 'pry'
 require 'require_all'
-require 'tmpdir'
-require 'json'
 
 require_rel 'lib'
-
-@HOUSES = FileList['data/*/*/Rakefile.rb'].map { |f| f.pathmap '%d' }.reject { |p| File.exist? "#{p}/WIP" }
-
-def json_load(file)
-  raise "No such file #{file}" unless File.exist? file
-
-  JSON.parse(File.read(file), symbolize_names: true)
-end
-
-def json_write(file, json)
-  File.write(file, JSON.pretty_generate(json))
-end
 
 desc 'Install country-list locally'
 task 'countries.json' do
@@ -31,7 +14,6 @@ task 'countries.json' do
 end
 
 require 'rake/testtask'
-
 Rake::TestTask.new do |t|
   t.libs << 'test'
   t.test_files = FileList['test/*_test.rb']
