@@ -24,7 +24,7 @@ module Source
     def events
       @events ||= as_table.map do |row|
         {
-          id:             row[:id][/\//] ? row[:id] : "term/#{row[:id]}",
+          id:             row[:id][%r{/}] ? row[:id] : "term/#{row[:id]}",
           name:           row[:name],
           start_date:     row[:start_date],
           end_date:       row[:end_date],
