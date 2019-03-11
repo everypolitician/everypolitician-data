@@ -129,6 +129,7 @@
         "sha": "c5793e37bebbacb64205ca14f7d50ff90cd1e047",
         "legislative_periods": [
           {
+            "end_date": "2018-12-31",
             "id": "term/2017",
             "name": "2017-2018",
             "start_date": "2017-01-01",
@@ -146,7 +147,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a75c94fb3f01a45e5616242dec9743ba96f137f/data/Alderney/States/term-2014.csv"
           }
         ],
-        "statement_count": 873,
+        "statement_count": 874,
         "type": "unicameral legislature"
       }
     ]
@@ -2241,11 +2242,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Colombia/Representatives/sources",
         "popolo": "data/Colombia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0be81f9db6eab84b2e0b10383b67984efaeae879/data/Colombia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e18ebe343321020b375aee680dd4a89c3e4a3e84/data/Colombia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Colombia/Representatives/names.csv",
-        "lastmod": "1551251623",
+        "lastmod": "1552311866",
         "person_count": 285,
-        "sha": "0be81f9db6eab84b2e0b10383b67984efaeae879",
+        "sha": "e18ebe343321020b375aee680dd4a89c3e4a3e84",
         "legislative_periods": [
           {
             "id": "term/2018",
@@ -2265,7 +2266,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1d0ea6647aa40b9a9f578232d4a4b4bebae6dd15/data/Colombia/Representatives/term-2014.csv"
           }
         ],
-        "statement_count": 6692,
+        "statement_count": 6707,
         "type": "lower house"
       },
       {
@@ -3000,19 +3001,20 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b397a61f7e6fab49fdd20152d900e6b479500260/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3583007d24109444a61d5d13cacb9e51db6d3589/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
         "names": "data/Estonia/Riigikogu/names.csv",
-        "lastmod": "1551982351",
+        "lastmod": "1552328311",
         "person_count": 216,
-        "sha": "b397a61f7e6fab49fdd20152d900e6b479500260",
+        "sha": "3583007d24109444a61d5d13cacb9e51db6d3589",
         "legislative_periods": [
           {
+            "end_date": "2019-03-03",
             "id": "term/13",
             "name": "13th Riigikogu",
             "start_date": "2015-03-30",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/258a879faf20f50e83c7c0ce455d1a817f1d3c61/data/Estonia/Riigikogu/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3583007d24109444a61d5d13cacb9e51db6d3589/data/Estonia/Riigikogu/term-13.csv"
           },
           {
             "end_date": "2015-03-23",
@@ -3021,10 +3023,10 @@
             "start_date": "2011-03-27",
             "slug": "12",
             "csv": "data/Estonia/Riigikogu/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d7527e3e2ca2183d9f9dceddf2dabcb54f8c862f/data/Estonia/Riigikogu/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3583007d24109444a61d5d13cacb9e51db6d3589/data/Estonia/Riigikogu/term-12.csv"
           }
         ],
-        "statement_count": 11947,
+        "statement_count": 11443,
         "type": "unicameral legislature"
       }
     ]
@@ -11794,11 +11796,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Venezuela/Assembly/sources",
         "popolo": "data/Venezuela/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7c018f50910625222785ab581c0ab065b6e8cab9/data/Venezuela/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6ca0901c2cf7e3e697264fb055eefc83d58a6813/data/Venezuela/Assembly/ep-popolo-v1.0.json",
         "names": "data/Venezuela/Assembly/names.csv",
-        "lastmod": "1551325948",
+        "lastmod": "1552302437",
         "person_count": 279,
-        "sha": "7c018f50910625222785ab581c0ab065b6e8cab9",
+        "sha": "6ca0901c2cf7e3e697264fb055eefc83d58a6813",
         "legislative_periods": [
           {
             "id": "term/4",
@@ -11818,7 +11820,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a73877e09010dc66d21271e8e96413bdbb704ec0/data/Venezuela/Assembly/term-3.csv"
           }
         ],
-        "statement_count": 7847,
+        "statement_count": 7915,
         "type": "unicameral legislature"
       }
     ]
