@@ -32,5 +32,39 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-2010.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/burundi-assemblee",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/official-2015.csv",
+      "type": "membership",
+      "scraper": "duncanfwalker/burundi-national-assembly",
+      "lastmod": "2017-04-25"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2015-09-05"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2017-08-17"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "lastmod": "2017-08-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
