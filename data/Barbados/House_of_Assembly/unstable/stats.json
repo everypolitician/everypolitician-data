@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 30,
-    "wikidata": 0,
+    "wikidata": 6,
     "latest_term": {
       "count": 30,
-      "wikidata": 0,
+      "wikidata": 6,
       "images": 30,
       "contacts": {
         "email": 30,
@@ -41,6 +41,11 @@
       "lastmod": "2017-08-17"
     },
     {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/barbados-house-of-assembly-members-wikidata"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term",
       "lastmod": "2016-06-13"
@@ -53,12 +58,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2017-08-17"
+      "lastmod": "2019-03-12"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2017-10-07"
+      "lastmod": "2019-03-12"
     }
   ]
 }
