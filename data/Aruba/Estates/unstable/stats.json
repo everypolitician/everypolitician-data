@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 21,
-    "wikidata": 0,
+    "wikidata": 3,
     "latest_term": {
       "count": 21,
-      "wikidata": 0,
+      "wikidata": 3,
       "images": 21,
       "contacts": {
         "email": 11,
@@ -41,6 +41,11 @@
       "lastmod": "2017-03-27"
     },
     {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/aruba-estates-members-wikidata"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term",
       "lastmod": "2016-12-15"
@@ -53,12 +58,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2016-09-17"
+      "lastmod": "2019-03-12"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2017-10-07"
+      "lastmod": "2019-03-12"
     }
   ]
 }

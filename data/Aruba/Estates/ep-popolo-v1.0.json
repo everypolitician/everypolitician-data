@@ -46,6 +46,7 @@
       ]
     },
     {
+      "birth_date": "1974-01-09",
       "contact_details": [
         {
           "type": "email",
@@ -67,6 +68,10 @@
         {
           "identifier": "1750",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q47463588",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.aw/plaat.php?fileid=5994&f=086206e7856cf37109fe2a434ee1ac971737ddba9920f3ab18cb91a9d8dc3b34a7b84e1bf4b6a556ff99553e8eb38e9ea325e7a14d9ae2d747f6861e9e4b8c72",
@@ -77,6 +82,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Guillfred_Besaril"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Guillfred_Besaril"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/GuillfredBesaril"
         }
@@ -85,6 +98,11 @@
       "other_names": [
         {
           "name": "G. F. Besaril"
+        },
+        {
+          "lang": "en",
+          "name": "Guillfred Besaril",
+          "note": "multilingual"
         }
       ]
     },
@@ -271,6 +289,10 @@
         {
           "identifier": "1740",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q60733815",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.aw/plaat.php?fileid=5982&f=b3e50676b8c1b20f5ad800ce28042c705b307bf3e99889f31cf7baf3bc9424eefc8a391e050788cbe3d15d7bb5b2e0f445544a1a25216ff202d911d35f962059",
@@ -281,6 +303,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dangui_Oduber"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/dangui.oduber"
         }
@@ -289,6 +315,11 @@
       "other_names": [
         {
           "name": "D. P. Oduber"
+        },
+        {
+          "lang": "en",
+          "name": "Dangui Oduber",
+          "note": "multilingual"
         }
       ]
     },
@@ -314,20 +345,44 @@
       ],
       "email": "evelyna.croes@parlamento.aw",
       "gender": "female",
+      "given_name": "Evelyn",
       "id": "8ad5ebbf-c112-481e-8298-d5e0ce3bd9f4",
       "identifiers": [
         {
           "identifier": "1746",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23038705",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.aw/plaat.php?fileid=4073&f=5da398e21cd71f21c59c8f328f48135752dff7e880fdb904e7d5bc2f840f78c92ca28be93eed8059757c9364c86ab122785a941e99c6b8bf18db9a6d1e644b10",
       "images": [
         {
           "url": "http://www.parlamento.aw/plaat.php?fileid=4073&f=5da398e21cd71f21c59c8f328f48135752dff7e880fdb904e7d5bc2f840f78c92ca28be93eed8059757c9364c86ab122785a941e99c6b8bf18db9a6d1e644b10"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/180531_Wever-Croes_Aruba_bij_Blok_(28597045908)_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Evelyn_Wever-Croes"
+        },
+        {
+          "note": "Wikinews (nl)",
+          "url": "https://nl.wikinews.org/wiki/Categorie:Evelyn_Wever-Croes"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Evelyn_Wever-Croes"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Evelyn_Wever-Croes"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/EvelynMEP"
@@ -337,6 +392,26 @@
       "other_names": [
         {
           "name": "mr. E. C. Wever-Croes"
+        },
+        {
+          "lang": "en",
+          "name": "Evelyn Wever-Croes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "イブリン・ウェバー・クローズ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊夫林·韋弗-克洛斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "伊芙琳·韦佛-克罗斯",
+          "note": "multilingual"
         }
       ]
     },
@@ -1205,7 +1280,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.parlamento.aw"
+      "http://www.parlamento.aw",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
