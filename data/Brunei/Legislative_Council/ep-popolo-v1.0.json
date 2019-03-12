@@ -317,6 +317,10 @@
         {
           "identifier": "datin_paduka_dayang_hajah_salbiah_binti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16885945",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majlis-mesyuarat.gov.bn/JMM%20Images/ahli_jmm/mmn_hjhsalbiah.jpg",
@@ -325,7 +329,25 @@
           "url": "http://majlis-mesyuarat.gov.bn/JMM%20Images/ahli_jmm/mmn_hjhsalbiah.jpg"
         }
       ],
-      "name": "Datin Paduka Dayang Hajah Salbiah binti"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Salbiah_Sulaiman"
+        }
+      ],
+      "name": "Datin Paduka Dayang Hajah Salbiah binti",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Salbiah binti Haji Sulaiman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Salbiah Haji Sulaiman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -368,7 +390,8 @@
   ],
   "meta": {
     "sources": [
-      "http://majlis-mesyuarat.gov.bn"
+      "http://majlis-mesyuarat.gov.bn",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
