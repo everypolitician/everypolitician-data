@@ -574,12 +574,32 @@
       "id": "0f7308e4-c263-4516-bf00-e1575694b052",
       "identifiers": [
         {
+          "identifier": "2079055",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "lilja_mósesdóttir",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "128446218",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 3737 9801",
           "scheme": "isni"
+        },
+        {
+          "identifier": "nb2001019451",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "250140543",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "10898360",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q467437",
@@ -1956,6 +1976,10 @@
           "url": "https://en.wikipedia.org/wiki/Guðlaugur_Þór_Þórðarson"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Guðlaugur_Þór_Þórðarson"
+        },
+        {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Guðlaugur_Þór_Þórðarson"
         },
@@ -2057,6 +2081,10 @@
       "gender": "male",
       "id": "204fb458-dbc3-45de-a41d-3560ce6c72be",
       "identifiers": [
+        {
+          "identifier": "nb2014006532",
+          "scheme": "lcauth"
+        },
         {
           "identifier": "Q55768517",
           "scheme": "wikidata"
@@ -4446,6 +4474,10 @@
           "url": "https://pl.wikipedia.org/wiki/Steingrímur_J._Sigfússon"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Steingrímur_Jóhann_Sigfússon"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Steingrímur_Jóhann_Sigfússon"
         },
@@ -4701,8 +4733,12 @@
           "url": "https://en.wikipedia.org/wiki/Sigríður_Á._Andersen"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Sigríður_Á._Andersen"
+        },
+        {
           "note": "Wikipedia (is)",
-          "url": "https://is.wikipedia.org/wiki/Sigríður_Ásthildur_Andersen"
+          "url": "https://is.wikipedia.org/wiki/Sigríður_Andersen"
         }
       ],
       "name": "Sigríður Á. Andersen",
@@ -4985,6 +5021,12 @@
         {
           "identifier": "Q55768509",
           "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Karl_Gauti_Hjaltason"
         }
       ],
       "name": "Karl Gauti Hjaltason"
@@ -6596,6 +6638,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "n2011065262",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "171339135",
           "scheme": "viaf"
         },
@@ -7641,6 +7687,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/آرني_يونسن"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Árni_Johnsen"
         },
@@ -7661,7 +7711,14 @@
           "url": "Árni Johnsen"
         }
       ],
-      "name": "Árni Johnsen"
+      "name": "Árni Johnsen",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "آرني يونسن",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-03-17",
@@ -23739,7 +23796,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1923",
+      "end_date": "1923-10-27",
       "id": "Q5985828",
       "identifiers": [
         {
@@ -23748,7 +23805,7 @@
         }
       ],
       "name": "Icelandic parliamentary election, 1923",
-      "start_date": "1923"
+      "start_date": "1923-10-27"
     },
     {
       "classification": "general election",
@@ -23791,7 +23848,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1931",
+      "end_date": "1931-06-12",
       "id": "Q5985837",
       "identifiers": [
         {
@@ -23800,7 +23857,7 @@
         }
       ],
       "name": "Icelandic parliamentary election, 1931",
-      "start_date": "1931"
+      "start_date": "1931-06-12"
     },
     {
       "classification": "general election",
@@ -24207,7 +24264,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Icelandic Constitutional Assembly election",
+      "name": "2010 Icelandic Constitutional Assembly election",
       "start_date": "2010-09-27"
     },
     {
