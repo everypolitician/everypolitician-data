@@ -2800,6 +2800,12 @@
     },
     {
       "birth_date": "1980-12-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "samygemayel"
+        }
+      ],
       "family_name": "Gemayel",
       "gender": "male",
       "given_name": "Samy",
@@ -2850,6 +2856,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Жмайель,_Сами"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/samygemayel"
         }
       ],
       "name": "Samy Gemayel",
@@ -4012,6 +4022,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "no2008030424",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "324180",
           "scheme": "viaf"
         },
@@ -4366,6 +4380,11 @@
         {
           "lang": "ar",
           "name": "روبير إسكندر غانم",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "โรเบิร์ต กาเนม",
           "note": "multilingual"
         }
       ]
@@ -14540,7 +14559,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1972",
+      "end_date": "1972-04-30",
       "id": "Q254097",
       "identifiers": [
         {
@@ -14549,7 +14568,7 @@
         }
       ],
       "name": "Lebanese general election, 1972",
-      "start_date": "1972"
+      "start_date": "1972-04-16"
     },
     {
       "classification": "general election",
@@ -14566,7 +14585,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1996",
+      "end_date": "1996-09-15",
       "id": "Q588458",
       "identifiers": [
         {
@@ -14575,11 +14594,11 @@
         }
       ],
       "name": "Lebanese general election, 1996",
-      "start_date": "1996"
+      "start_date": "1996-08-18"
     },
     {
       "classification": "general election",
-      "end_date": "2000",
+      "end_date": "2000-09-03",
       "id": "Q1605069",
       "identifiers": [
         {
@@ -14588,7 +14607,7 @@
         }
       ],
       "name": "Lebanese general election, 2000",
-      "start_date": "2000"
+      "start_date": "2000-08-27"
     },
     {
       "classification": "general election",
