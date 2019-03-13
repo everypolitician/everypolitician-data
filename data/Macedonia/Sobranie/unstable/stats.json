@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 92,
-    "wikidata": 48,
+    "count": 169,
+    "wikidata": 94,
     "latest_term": {
-      "count": 92,
-      "wikidata": 48,
-      "images": 92,
+      "count": 120,
+      "wikidata": 87,
+      "images": 119,
       "contacts": {
-        "email": 0,
+        "email": 102,
         "facebook": 1,
         "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 13,
+    "count": 28,
     "wikidata": 13
   },
   "terms": {
-    "count": 1,
-    "latest": "2014-05-10",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2016-12-30",
+    "wikidata": 2
   },
   "areas": {
     "count": 0,
@@ -31,7 +31,7 @@
     "latest": "2016-12-11"
   },
   "positions": {
-    "cabinet": 2
+    "cabinet": 3
   },
   "sources": [
     {
@@ -39,6 +39,12 @@
       "type": "membership",
       "scraper": "tmtmtmtm/macedonia-sobranie",
       "lastmod": "2018-10-01"
+    },
+    {
+      "file": "morph/official-2016.csv",
+      "type": "membership",
+      "scraper": "everypolitician-scrapers/macedonia-sobranie",
+      "lastmod": "2019-03-13"
     },
     {
       "file": "morph/wikidata.csv",
@@ -67,7 +73,7 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/macedonia-cabinet",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-02-27"
     },
     {
       "file": "wikidata/elections.json",
