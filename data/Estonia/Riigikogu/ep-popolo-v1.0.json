@@ -2613,10 +2613,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RE_Kaja_Kallas.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaja_Kallas_(36784407542)_(cropped).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/RE_Kaja_Kallas.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kaja_Kallas_(36784407542)_(cropped).jpg"
         }
       ],
       "links": [
@@ -2655,6 +2655,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Kaja_Kallas"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Kaja_Kallas"
         },
         {
           "note": "Wikipedia (it)",
@@ -3306,6 +3310,10 @@
         {
           "identifier": "0000 0000 7693 8311",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n97060833",
+          "scheme": "lcauth"
         },
         {
           "identifier": "204240352",
@@ -6595,6 +6603,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no2014160121",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "08134982-2ac6-436c-ad8f-8f941ca41d3c",
           "scheme": "riigikogu"
         },
@@ -9037,6 +9049,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "n2017066567",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "79811084",
           "scheme": "viaf"
         },
@@ -10161,6 +10177,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n81143699",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "f70a1d6a-aa98-4a6b-9ffb-ff2f45f9739c",
           "scheme": "riigikogu"
         },
@@ -11120,8 +11140,16 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "111099575X",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "ae55c88e-c202-4290-832b-b4e2fb5086ed",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "14147121665026390964",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q16402978",
@@ -11179,6 +11207,10 @@
         {
           "identifier": "0000 0000 7778 7308",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n99005513",
+          "scheme": "lcauth"
         },
         {
           "identifier": "ed14baf6-eddf-46f6-bff2-21503139d1ec",
@@ -14735,19 +14767,13 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "et",
-          "name": "EKRE",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "cs",
           "name": "Eesti Konservatiivne Rahvaerakond",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
-          "lang": "cs",
+          "lang": "en",
           "name": "EKRE",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -15455,6 +15481,12 @@
         {
           "lang": "hu",
           "name": "Észt Reformpárt",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lmo",
+          "name": "Partii di Reform (Estonia)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16698,6 +16730,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "ja",
+          "name": "社会民主党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "et",
           "name": "Isamaa ja Res Publica Liit",
           "note": "multilingual",
@@ -16742,6 +16780,12 @@
         {
           "lang": "en",
           "name": "Isamaa",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Fatherland",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -21116,7 +21160,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election 1920",
+      "name": "1920 Estonian parliamentary election",
       "start_date": "1920-11-29"
     },
     {
@@ -21129,7 +21173,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1923",
+      "name": "1923 Estonian parliamentary election",
       "start_date": "1923-05-07"
     },
     {
@@ -21142,7 +21186,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election 1926",
+      "name": "1926 Estonian parliamentary election",
       "start_date": "1926-05-17"
     },
     {
@@ -21155,7 +21199,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1929",
+      "name": "1929 Estonian parliamentary election",
       "start_date": "1929-05-13"
     },
     {
@@ -21168,7 +21212,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election 1932",
+      "name": "1932 Estonian parliamentary election",
       "start_date": "1932-05-23"
     },
     {
@@ -21181,7 +21225,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election 1938",
+      "name": "1938 Estonian parliamentary election",
       "start_date": "1938-02-24"
     },
     {
@@ -21194,7 +21238,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1940",
+      "name": "1940 Estonian parliamentary election",
       "start_date": "1940-07-14"
     },
     {
@@ -21207,7 +21251,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1992",
+      "name": "1992 Estonian parliamentary election",
       "start_date": "1992-09-20"
     },
     {
@@ -21220,7 +21264,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1995",
+      "name": "1995 Estonian parliamentary election",
       "start_date": "1995-03-05"
     },
     {
@@ -21233,7 +21277,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 1999",
+      "name": "1999 Estonian parliamentary election",
       "start_date": "1999-03-07"
     },
     {
@@ -21246,7 +21290,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 2003",
+      "name": "2003 Estonian parliamentary election",
       "start_date": "2003-03-02"
     },
     {
@@ -21259,7 +21303,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election 2007",
+      "name": "2007 Estonian parliamentary election",
       "start_date": "2007-03-04"
     },
     {
@@ -21272,7 +21316,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 2011",
+      "name": "2011 Estonian parliamentary election",
       "start_date": "2011-03-06"
     },
     {
@@ -21299,7 +21343,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 2015",
+      "name": "2015 Estonian parliamentary election",
       "start_date": "2015-03-01"
     },
     {
@@ -21326,7 +21370,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Estonian parliamentary election, 2019",
+      "name": "2019 Estonian parliamentary election",
       "start_date": "2019-03-03"
     }
   ],
