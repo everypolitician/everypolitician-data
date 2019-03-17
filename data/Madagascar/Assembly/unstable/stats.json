@@ -28,7 +28,7 @@
   },
   "elections": {
     "count": 11,
-    "latest": "2013-12-20"
+    "latest": "2019-05-27"
   },
   "positions": {
     "cabinet": 0
@@ -43,19 +43,17 @@
     {
       "file": "archive/official-2013-vanished.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-11-09"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/madagascar-national-assembly-members-wikidata",
-      "lastmod": "2019-02-08"
+      "lastmod": "2019-02-10"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2016-05-19"
     },
     {
@@ -67,19 +65,16 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2018-06-26"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-02-08"
+      "lastmod": "2019-02-10"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-08"
     }
   ]
