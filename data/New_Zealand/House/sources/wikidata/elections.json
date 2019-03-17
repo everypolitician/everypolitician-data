@@ -48,7 +48,7 @@
       "1853"
     ],
     "followed_by": "New Zealand general election, 1855",
-    "office": "Member of the New Zealand House of Representatives"
+    "office": "Member of the New Zealand Parliament"
   },
   "Q1366881": {
     "identifiers": [
@@ -349,6 +349,7 @@
       "1899"
     ],
     "follows": "New Zealand general election, 1896",
+    "followed_by": "New Zealand general election, 1902",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Richard Seddon"
@@ -432,15 +433,21 @@
     "other_names": [
       {
         "lang": "en",
-        "name": "Mangere by-election, 1977",
+        "name": "1977 Mangere by-election",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Mangere by-election, 1977",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "1977"
     ],
-    "office": "Member of the New Zealand House of Representatives",
+    "office": "Member of the New Zealand Parliament",
     "successful_candidates": [
       "David Lange"
     ]
@@ -500,6 +507,8 @@
     "dates": [
       "1925"
     ],
+    "follows": "New Zealand general election, 1922",
+    "followed_by": "1926 Eden by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Gordon Coates"
@@ -530,6 +539,7 @@
       "1931-12-01",
       "1931-12-02"
     ],
+    "followed_by": "New Zealand general election, 1935",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "George Forbes"
@@ -595,6 +605,7 @@
     "dates": [
       "1951"
     ],
+    "followed_by": "1954 Onslow by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Sidney Holland"
@@ -624,6 +635,7 @@
     "dates": [
       "1963"
     ],
+    "follows": "1963 Northern Maori by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Keith Holyoake"
@@ -700,7 +712,8 @@
     "dates": [
       "1984"
     ],
-    "office": "Member of the New Zealand House of Representatives",
+    "followed_by": "New Zealand general election, 1987",
+    "office": "Member of the New Zealand Parliament",
     "successful_candidates": [
       "David Lange"
     ]
@@ -735,6 +748,8 @@
     "dates": [
       "1996"
     ],
+    "follows": "New Zealand general election, 1993",
+    "followed_by": "1998 Taranaki-King Country by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Jim Bolger"
@@ -891,7 +906,7 @@
       "2017-09-23"
     ],
     "follows": "New Zealand general election, 2014",
-    "office": "Member of the New Zealand House of Representatives"
+    "office": "Member of the New Zealand Parliament"
   },
   "Q264968": {
     "identifiers": [
@@ -954,7 +969,7 @@
     "dates": [
       "2017-02-25"
     ],
-    "office": "Member of the New Zealand House of Representatives",
+    "office": "Member of the New Zealand Parliament",
     "successful_candidates": [
       "Jacinda Ardern"
     ]
@@ -977,7 +992,7 @@
     "dates": [
       "2016-12-03"
     ],
-    "office": "Member of the New Zealand House of Representatives",
+    "office": "Member of the New Zealand Parliament",
     "successful_candidates": [
       "Michael Wood"
     ]
@@ -1042,6 +1057,32 @@
     "successful_candidates": [
       "Helen Clark"
     ]
+  },
+  "Q48771246": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q48771246"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Next New Zealand general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2020年10月13日",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2020-11-21"
+    ],
+    "office": "Member of the New Zealand Parliament"
   },
   "Q7016079": {
     "identifiers": [
@@ -1148,6 +1189,7 @@
       "1875"
     ],
     "follows": "1871 New Zealand general election",
+    "followed_by": "New Zealand general election, 1879",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Julius Vogel"
@@ -1245,6 +1287,7 @@
     "dates": [
       "1887"
     ],
+    "follows": "New Zealand general election, 1884",
     "followed_by": "New Zealand general election, 1890",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
@@ -1403,6 +1446,7 @@
       "1911-12-14",
       "1911-12-19"
     ],
+    "follows": "New Zealand general election, 1908",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Joseph Ward"
@@ -1432,6 +1476,7 @@
     "dates": [
       "1914-12-10"
     ],
+    "followed_by": "New Zealand general election, 1919",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "William Massey"
@@ -1494,6 +1539,7 @@
       "1928-11-13",
       "1928-11-14"
     ],
+    "follows": "1926 Eden by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Joseph Ward"
@@ -1531,6 +1577,7 @@
       "1935-11-27"
     ],
     "follows": "New Zealand general election, 1931",
+    "followed_by": "New Zealand general election, 1938",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Michael Joseph Savage"
@@ -1562,6 +1609,7 @@
       "1938-10-14"
     ],
     "follows": "New Zealand general election, 1935",
+    "followed_by": "1942 Mid-Canterbury by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Michael Joseph Savage"
@@ -1630,6 +1678,7 @@
       "1946-11-26",
       "1946-11-27"
     ],
+    "follows": "New Zealand general election, 1943",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Peter Fraser"
@@ -1659,6 +1708,7 @@
     "dates": [
       "1954-11-13"
     ],
+    "follows": "1954 Onslow by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Sidney Holland"
@@ -1688,6 +1738,7 @@
     "dates": [
       "1960-11-26"
     ],
+    "followed_by": "1963 Northern Maori by-election",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Keith Holyoake"
@@ -2050,6 +2101,8 @@
     "dates": [
       "1999-11-27"
     ],
+    "follows": "1998 Taranaki-King Country by-election",
+    "followed_by": "New Zealand general election, 2002",
     "office": "Prime Minister of New Zealand",
     "successful_candidates": [
       "Helen Clark"
@@ -2141,7 +2194,7 @@
     ],
     "follows": "New Zealand general election, 2011",
     "followed_by": "New Zealand general election, 2017",
-    "office": "Member of the New Zealand House of Representatives"
+    "office": "Member of the New Zealand Parliament"
   },
   "Q846073": {
     "identifiers": [
