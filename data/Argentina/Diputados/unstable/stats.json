@@ -1,20 +1,20 @@
 {
   "people": {
-    "count": 396,
-    "wikidata": 297,
+    "count": 498,
+    "wikidata": 296,
     "latest_term": {
-      "count": 277,
-      "wikidata": 277,
-      "images": 153,
+      "count": 272,
+      "wikidata": 169,
+      "images": 106,
       "contacts": {
         "email": 0,
-        "facebook": 15,
-        "twitter": 83
+        "facebook": 8,
+        "twitter": 59
       }
     }
   },
   "groups": {
-    "count": 57,
+    "count": 74,
     "wikidata": 48
   },
   "terms": {
@@ -59,7 +59,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/argentina-diputados-wikidata",
-      "lastmod": "2019-03-06"
+      "lastmod": "2019-03-12"
     },
     {
       "file": "morph/twitter.csv",
@@ -93,12 +93,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-01"
+      "lastmod": "2019-03-12"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-03-06"
+      "lastmod": "2019-03-12"
     }
   ]
 }
