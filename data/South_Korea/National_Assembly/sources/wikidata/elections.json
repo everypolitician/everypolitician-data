@@ -47,7 +47,7 @@
       },
       {
         "lang": "en",
-        "name": "South Korean by-elections, 2018",
+        "name": "2018 South Korean by-elections",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -56,12 +56,18 @@
         "name": "2018年大韓民國補選",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "South Korean by-elections, 2018",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2018-06-13"
     ],
-    "followed_by": "#<Wikisnakker::Item:0x0000564f7d24fef0>",
+    "followed_by": "#<Wikisnakker::Item:0x0000560b5a557330>",
     "office": "Member of National Assembly of South Korea"
   },
   "Q487489": {
@@ -455,6 +461,8 @@
     "dates": [
       "2008-04-09"
     ],
+    "follows": "South Korean legislative election, 2004",
+    "followed_by": "South Korean legislative election, 2012",
     "office": "Member of National Assembly of South Korea",
     "successful_candidates": [
       "Kang Jae-sup"
@@ -1220,8 +1228,9 @@
       }
     ],
     "dates": [
-      "1973"
+      "1973-02-27"
     ],
+    "follows": "South Korean legislative election, 1971",
     "followed_by": "South Korean legislative election, 1978",
     "office": "Member of National Assembly of South Korea"
   },
@@ -1277,8 +1286,9 @@
       }
     ],
     "dates": [
-      "1978"
+      "1978-12-12"
     ],
+    "follows": "South Korean legislative election, 1973",
     "followed_by": "South Korean legislative election, 1981",
     "office": "Member of National Assembly of South Korea"
   },
@@ -1336,6 +1346,7 @@
     "dates": [
       "1981-03-25"
     ],
+    "follows": "South Korean legislative election, 1978",
     "followed_by": "South Korean legislative election, 1985",
     "office": "Member of National Assembly of South Korea"
   },
@@ -1469,6 +1480,7 @@
     "dates": [
       "1985-02-12"
     ],
+    "follows": "South Korean legislative election, 1981",
     "followed_by": "South Korean legislative election, 1988",
     "office": "Member of National Assembly of South Korea"
   },
@@ -1538,6 +1550,7 @@
     "dates": [
       "1988-04-26"
     ],
+    "follows": "South Korean legislative election, 1985",
     "followed_by": "South Korean legislative election, 1992",
     "office": "Member of National Assembly of South Korea"
   },
