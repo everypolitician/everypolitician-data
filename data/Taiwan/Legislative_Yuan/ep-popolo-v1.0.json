@@ -1732,6 +1732,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "n2011070532",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q8274933",
           "scheme": "wikidata"
         }
@@ -2088,6 +2092,11 @@
         {
           "name": "李彥秀",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lee Yen-hsiu",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -3501,6 +3510,7 @@
     },
     {
       "birth_date": "1965-02-09",
+      "family_name": "Chang Liao",
       "gender": "male",
       "id": "48a7712c-eefc-41f1-91d4-ebf1447ee7ee",
       "identifiers": [
@@ -5956,7 +5966,7 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "13159268",
+          "identifier": "315176750",
           "scheme": "viaf"
         },
         {
@@ -6619,6 +6629,10 @@
         {
           "note": "Wikiquote (zh)",
           "url": "https://zh.wikiquote.org/wiki/姚文智"
+        },
+        {
+          "note": "instagram",
+          "url": "pasuya2018"
         }
       ],
       "name": "Wen-Chih Yao",
@@ -11018,6 +11032,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/王惠美"
+        },
+        {
+          "note": "instagram",
+          "url": "wanghuimei1122"
         }
       ],
       "name": "Hui-Mei Wang",
@@ -11697,6 +11715,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/李俊俋"
+        },
+        {
+          "note": "instagram",
+          "url": "chunyi_chiayi"
         }
       ],
       "name": "Chun-Yi Lee",
@@ -13653,6 +13675,24 @@
         {
           "lang": "zh",
           "name": "时代力量",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "時力",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "时力",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "NPP",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -17288,6 +17328,19 @@
     {
       "classification": "general election",
       "end_date": "2016-01-16",
+      "id": "Q10845966",
+      "identifiers": [
+        {
+          "identifier": "Q10845966",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Taiwan general election, 2016",
+      "start_date": "2016-01-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2016-01-16",
       "id": "Q17370547",
       "identifiers": [
         {
@@ -17310,6 +17363,110 @@
       "name": "9th Legislative Yuan",
       "organization_id": "e1fef832-4c78-497c-ad3a-6a8df1fef861",
       "start_date": "2016-01-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-01-27",
+      "id": "Q60992527",
+      "identifiers": [
+        {
+          "identifier": "Q60992527",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwanese by-election for Taipei City Constituency 2",
+      "start_date": "2019-01-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-01-27",
+      "id": "Q60992591",
+      "identifiers": [
+        {
+          "identifier": "Q60992591",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwanese by-election for Taichung City Constituency 5",
+      "start_date": "2019-01-27"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-03-16",
+      "id": "Q59180571",
+      "identifiers": [
+        {
+          "identifier": "Q59180571",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwan legislative by-election for the 2nd Constituency of National Legislators of Tainan",
+      "start_date": "2019-03-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-03-16",
+      "id": "Q60992774",
+      "identifiers": [
+        {
+          "identifier": "Q60992774",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwanese by-election in Kinmen County Constituency",
+      "start_date": "2019-03-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-03-16",
+      "id": "Q60992775",
+      "identifiers": [
+        {
+          "identifier": "Q60992775",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwanese by-election in Changhua County Constituency 1",
+      "start_date": "2019-03-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-03-16",
+      "id": "Q60994566",
+      "identifiers": [
+        {
+          "identifier": "Q60994566",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2019 Taiwan legislative by-election for New Taipei 3rd district",
+      "start_date": "2019-03-16"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2020",
+      "id": "Q60287334",
+      "identifiers": [
+        {
+          "identifier": "Q60287334",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2020 Taiwan legislative election",
+      "start_date": "2020"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2020",
+      "id": "Q60740537",
+      "identifiers": [
+        {
+          "identifier": "Q60740537",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2020 Taiwan general election",
+      "start_date": "2020"
     }
   ],
   "areas": [
