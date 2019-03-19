@@ -27,8 +27,8 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 11,
-    "latest": "2015-03-31"
+    "count": 0,
+    "latest": ""
   },
   "positions": {
     "cabinet": 0
@@ -44,37 +44,32 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/tuvalu-parliament-wikidata",
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-12"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2016-12-15"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "scraper": null,
       "lastmod": "2016-02-26"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2018-11-26"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-12"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
-      "lastmod": "2019-01-16"
+      "lastmod": "2019-02-12"
     }
   ]
 }
