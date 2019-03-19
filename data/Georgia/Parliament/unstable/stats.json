@@ -27,7 +27,7 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 10,
+    "count": 11,
     "latest": "2016-10-08"
   },
   "positions": {
@@ -37,7 +37,6 @@
     {
       "file": "archive/chemiparlamenti-8.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2017-04-28"
     },
     {
@@ -50,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/georgia-parliament-wikidata",
-      "lastmod": "2019-02-09"
+      "lastmod": "2019-02-12"
     },
     {
       "file": "morph/terms.csv",
@@ -67,19 +66,16 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2019-02-09"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-02-06"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-02-09"
     }
   ]
