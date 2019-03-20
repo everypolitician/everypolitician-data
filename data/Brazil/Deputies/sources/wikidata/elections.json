@@ -1,4 +1,33 @@
 {
+  "Q10271438": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q10271438"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais da Bahia de 2006",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais da bahia de 2006",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2006"
+    ],
+    "follows": "#<Wikisnakker::Item:0x000055732a7b7c60>",
+    "followed_by": "Bahia gubernatorial election, 2010",
+    "part_of": "Brazilian general election, 2006",
+    "office": "governor of the state of Bahia"
+  },
   "Q10271554": {
     "identifiers": [
       {
@@ -22,38 +51,9 @@
     ],
     "dates": [
       "1945"
-    ]
-  },
-  "Q10271555": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q10271555"
-      }
     ],
-    "other_names": [
-      {
-        "lang": "pt",
-        "name": "Eleições gerais no Brasil em 1950",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Brazilian general election, 1950",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "1950"
-    ],
-    "follows": "Brazilian general election, 1945",
-    "followed_by": "Brazilian presidential election, 1955",
-    "office": "President of Brazil",
-    "successful_candidates": [
-      "Getúlio Vergas"
-    ]
+    "followed_by": "Brazilian general election, 1950",
+    "office": "Brazilian federal deputy"
   },
   "Q10271556": {
     "identifiers": [
@@ -78,7 +78,8 @@
     ],
     "dates": [
       "1954"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q10271557": {
     "identifiers": [
@@ -103,7 +104,8 @@
     ],
     "dates": [
       "1958"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q10271558": {
     "identifiers": [
@@ -128,7 +130,8 @@
     ],
     "dates": [
       "1962"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q10271560": {
     "identifiers": [
@@ -153,7 +156,8 @@
     ],
     "dates": [
       "1974"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q10271561": {
     "identifiers": [
@@ -178,7 +182,8 @@
     ],
     "dates": [
       "1970"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q10271562": {
     "identifiers": [
@@ -203,7 +208,8 @@
     ],
     "dates": [
       "1978"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q1045449": {
     "identifiers": [
@@ -327,6 +333,7 @@
     ],
     "follows": "Brazilian general election, 2006",
     "followed_by": "Brazilian general election, 2014",
+    "office": "Brazilian federal deputy",
     "successful_candidates": [
       "Dilma Rousseff"
     ]
@@ -354,7 +361,105 @@
     ],
     "dates": [
       "1978"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
+  },
+  "Q17813784": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q17813784"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "State elections in Acre in 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais no Acre em 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Eleições estaduais no Acre em 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2014"
+    ],
+    "follows": "Acre gubernatorial election, 2010",
+    "followed_by": "Acre gubernatorial election, 2018",
+    "office": "state governor of Brazil",
+    "eligible_voters": "506520"
+  },
+  "Q18048152": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18048152"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Bahia gubernatorial election, 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais na Bahia em 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2014"
+    ],
+    "follows": "Bahia gubernatorial election, 2010",
+    "followed_by": "#<Wikisnakker::Item:0x000055732a7ae980>",
+    "part_of": "#<Wikisnakker::Item:0x000055732a7ae7f0>",
+    "office": "governor of the state of Bahia"
+  },
+  "Q18413839": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18413839"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Élections législatives brésiliennes de 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Brazilian legislative election, 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições parlamentares no Brasil em 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2014-10-05"
+    ],
+    "followed_by": "Brazilian legislative election, 2018",
+    "office": "Brazilian federal deputy"
   },
   "Q20052286": {
     "identifiers": [
@@ -379,165 +484,8 @@
     ],
     "dates": [
       "1935"
-    ]
-  },
-  "Q2164948": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q2164948"
-      }
     ],
-    "other_names": [
-      {
-        "lang": "nl",
-        "name": "Braziliaanse parlementsverkiezingen 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Wahlen in Brasilien 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Brazilian general election, 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones generales de Brasil de 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni generali in Brasile del 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleições gerais no Brasil em 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ro",
-        "name": "Alegeri legislative în Brazilia, 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "nb",
-        "name": "Valget i Brasil 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones xenerales de Brasil de 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "haw",
-        "name": "Hāmaniu cīsuāma ua Palakila mai 2006",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      }
-    ],
-    "dates": [
-      "2006-10-01"
-    ],
-    "follows": "Brazilian general election, 2002",
-    "followed_by": "Brazilian presidential election, 2010",
-    "office": "President of Brazil",
-    "successful_candidates": [
-      "Luiz Inácio 'Lula' da Silva"
-    ]
-  },
-  "Q2346732": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q2346732"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "pt",
-        "name": "Eleição presidencial brasileira de 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Brazilian general election, 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones generales de Brasil de 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ro",
-        "name": "Alegeri generale în Brazilia",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni generali in Brasile del 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Élection présidentielle brésilienne de 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones xenerales de Brasil de 1998",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleições presidenciais brasileiras de 1998",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleição presidencial do Brasil em 1998",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
-        "name": "Elezioni generali brasiliane 1998",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "dates": [
-      "1998-10-04"
-    ],
-    "follows": "Brazilian general election, 1994",
-    "followed_by": "Brazilian general election, 2002",
-    "office": "President of Brazil",
-    "successful_candidates": [
-      "Fernando Henrique Cardoso"
-    ]
+    "office": "Brazilian federal deputy"
   },
   "Q3722281": {
     "identifiers": [
@@ -574,158 +522,51 @@
     ],
     "dates": [
       "2010-10-03"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
-  "Q3722534": {
+  "Q4842571": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q3722534"
+        "identifier": "Q4842571"
       }
     ],
     "other_names": [
       {
         "lang": "en",
-        "name": "Brazilian general election, 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni generali in Brasile del 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones generales de Brasil de 2002",
+        "name": "Bahia gubernatorial election, 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "pt",
-        "name": "Eleição presidencial no Brasil em 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Eleição presidencial no Brasil em 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Wahlen in Brasilien 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élection présidentielle brésilienne de 2002",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones xenerales de Brasil de 2002",
+        "name": "Eleições estaduais da Bahia em 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "pt",
-        "name": "Eleição presidencial brasileira de 2002",
+        "name": "Eleições estaduais na Bahia em 2010",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Eleições brasileiras de 2002",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleições presidenciais no Brasil em 2002",
+        "name": "Eleições estaduais da Bahia de 2010",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
     ],
     "dates": [
-      "2002-10-27"
+      "2010-10-03"
     ],
-    "follows": "Brazilian general election, 1998",
-    "followed_by": "2006 Brazilian presidential election",
-    "office": "President of Brazil",
+    "follows": "#<Wikisnakker::Item:0x000055732a7acd38>",
+    "followed_by": "Bahia gubernatorial election, 2014",
+    "part_of": "Brazilian gubernatorial elections, 2010",
+    "office": "governor of the state of Bahia",
     "successful_candidates": [
-      "Luiz Inácio 'Lula' da Silva"
-    ]
-  },
-  "Q4958829": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q4958829"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "ro",
-        "name": "Alegeri generale în Brazilia, 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "Brazilian general election, 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleição presidencial brasileira de 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones generales de Brasil de 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "elezioni generali in Brasile del 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "Élection présidentielle brésilienne de 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ast",
-        "name": "eleiciones xenerales de Brasil de 1994",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleição presidencial de 1994",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "dates": [
-      "1994-10-03"
-    ],
-    "follows": "Brazilian presidential election, 1989",
-    "followed_by": "Brazilian general election, 1998",
-    "office": "President of Brazil",
-    "successful_candidates": [
-      "Fernando Henrique Cardoso"
+      "Jaques Wagner"
     ]
   },
   "Q4958841": {
@@ -745,7 +586,8 @@
     ],
     "dates": [
       "1954"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958842": {
     "identifiers": [
@@ -764,7 +606,8 @@
     ],
     "dates": [
       "1958"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958845": {
     "identifiers": [
@@ -795,7 +638,8 @@
     ],
     "dates": [
       "1947"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958846": {
     "identifiers": [
@@ -820,7 +664,8 @@
     ],
     "dates": [
       "1966"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958849": {
     "identifiers": [
@@ -839,7 +684,8 @@
     ],
     "dates": [
       "1974"
-    ]
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958850": {
     "identifiers": [
@@ -869,8 +715,9 @@
       }
     ],
     "dates": [
-      "1982"
-    ]
+      "1982-11-15"
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958851": {
     "identifiers": [
@@ -894,8 +741,9 @@
       }
     ],
     "dates": [
-      "1986"
-    ]
+      "1986-11-15"
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958852": {
     "identifiers": [
@@ -925,8 +773,9 @@
       }
     ],
     "dates": [
-      "1990"
-    ]
+      "1990-10-03"
+    ],
+    "office": "Brazilian federal deputy"
   },
   "Q4958898": {
     "identifiers": [
@@ -1099,8 +948,131 @@
     ],
     "follows": "Brazilian presidential election, 2010",
     "followed_by": "Brazilian general election, 2018",
+    "office": "President of Brazil",
     "successful_candidates": [
       "Dilma Rousseff"
     ]
+  },
+  "Q51332426": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q51332426"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pt-br",
+        "name": "Eleições estaduais no Acre em 2014 para Deputado federal",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "State elections in Acre in 2014 for Federal Deputy",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais no Acre em 2014 para Deputado federal",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2014-10-05"
+    ],
+    "part_of": "State elections in Acre in 2014, first round",
+    "office": "Brazilian federal deputy",
+    "successful_candidates": [
+      "Raimundo Angelim",
+      "Carlos César Correia de Messias",
+      "Major Rocha",
+      "Leo de Brito",
+      "Jéssica Sales",
+      "Sibá Machado",
+      "Flaviano Melo",
+      "Alan Rick Miranda"
+    ],
+    "eligible_voters": "506520"
+  },
+  "Q51379058": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q51379058"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pt-br",
+        "name": "Eleições estaduais no Acre em 2014 - 1º turno",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "State elections in Acre in 2014, first round",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais no Acre em 2014 - 1º turno",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2014-10-05"
+    ],
+    "followed_by": "State elections in Acre in 2014, second round",
+    "part_of": "State elections in Acre in 2014",
+    "office": "state governor of Brazil",
+    "eligible_voters": "506520"
+  },
+  "Q52508934": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q52508934"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Brazilian Chamber of Deputies election, 2018",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2018-10-07"
+    ],
+    "part_of": "Brazilian legislative election, 2018",
+    "office": "Brazilian federal deputy"
+  },
+  "Q56351783": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q56351783"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pt",
+        "name": "Eleições estaduais na Bahia em 2018",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2018"
+    ],
+    "follows": "Bahia gubernatorial election, 2014",
+    "part_of": "Brazilian gubernatorial elections, 2018",
+    "office": "governor of the state of Bahia"
   }
 }
