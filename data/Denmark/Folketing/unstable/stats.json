@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 612,
-    "wikidata": 578,
+    "wikidata": 299,
     "latest_term": {
       "count": 211,
-      "wikidata": 211,
-      "images": 204,
+      "wikidata": 122,
+      "images": 202,
       "contacts": {
         "email": 209,
-        "facebook": 49,
-        "twitter": 139
+        "facebook": 31,
+        "twitter": 85
       }
     }
   },
@@ -27,11 +27,11 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 62,
-    "latest": "2015-06-18"
+    "count": 20,
+    "latest": "2019"
   },
   "positions": {
-    "cabinet": 144
+    "cabinet": 84
   },
   "sources": [
     {
@@ -72,7 +72,7 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/denmark-positions",
-      "lastmod": "2019-03-01"
+      "lastmod": "2019-03-07"
     },
     {
       "file": "wikidata/elections.json",
