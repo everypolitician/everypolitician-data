@@ -2078,9 +2078,6 @@
       "images": [
         {
           "url": "https://www.nass.gov.ng/images/mps/824.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Ossy_Chinedu_Prestige.jpg"
         }
       ],
       "links": [
@@ -3136,6 +3133,7 @@
         }
       ],
       "email": "lawalyahaya001@yahoo.com",
+      "gender": "male",
       "id": "3e4fe02e-cdf8-4c5e-b88d-355cb886fb56",
       "identifiers": [
         {
@@ -3162,6 +3160,12 @@
         },
         {
           "url": "http://pombola.shineyoureye.org/media_root/images/lawal-yahaya-gumau"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lawal_Yahaya_Gumau"
         }
       ],
       "name": "Gumau Yahaya",
@@ -4005,6 +4009,7 @@
           "value": "08033479788"
         }
       ],
+      "death_date": "2019-03-09",
       "gender": "male",
       "id": "5002acd7-8dd6-48ac-814f-c4c57a92e40a",
       "identifiers": [
@@ -4030,7 +4035,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Olatoye_Tempitope_Sugar"
+          "url": "https://en.wikipedia.org/wiki/Olatoye_Temitope_Sugar"
         }
       ],
       "name": "TEMITOPE OLATOYE",
@@ -5562,6 +5567,11 @@
         },
         {
           "lang": "zh-cn",
+          "name": "尤瑟夫·苏莱曼·勒桑",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
           "name": "尤瑟夫·苏莱曼·勒桑",
           "note": "multilingual"
         },
@@ -7237,6 +7247,7 @@
     },
     {
       "birth_date": "1966-03-24",
+      "gender": "male",
       "id": "882b0aa5-5113-4bdb-81e2-1c47b0c781a4",
       "identifiers": [
         {
@@ -7259,6 +7270,12 @@
         },
         {
           "url": "http://pombola.shineyoureye.org/media_root/images/kingsley-ogundu-chinda"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kingsley_Chinda"
         }
       ],
       "name": "CHINDA OGUNDU",
@@ -11673,6 +11690,11 @@
         },
         {
           "lang": "zh-cn",
+          "name": "雅库布·多格拉",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
           "name": "雅库布·多格拉",
           "note": "multilingual"
         },
@@ -20053,7 +20075,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1959",
+      "name": "1959 Nigerian general election",
       "start_date": "1959"
     },
     {
@@ -20066,7 +20088,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1964",
+      "name": "1964 Nigerian general election",
       "start_date": "1964"
     },
     {
@@ -20079,7 +20101,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1979",
+      "name": "1979 Nigerian parliamentary election",
       "start_date": "1979"
     },
     {
@@ -20092,12 +20114,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1983",
+      "name": "1983 Nigerian parliamentary election",
       "start_date": "1983"
     },
     {
       "classification": "general election",
-      "end_date": "1992",
+      "end_date": "1992-07-04",
       "id": "Q7033040",
       "identifiers": [
         {
@@ -20105,12 +20127,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1992",
-      "start_date": "1992"
+      "name": "1992 Nigerian parliamentary election",
+      "start_date": "1992-07-04"
     },
     {
       "classification": "general election",
-      "end_date": "1998",
+      "end_date": "1998-04-25",
       "id": "Q7033041",
       "identifiers": [
         {
@@ -20118,12 +20140,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1998",
-      "start_date": "1998"
+      "name": "1998 Nigerian parliamentary election",
+      "start_date": "1998-04-25"
     },
     {
       "classification": "general election",
-      "end_date": "1999",
+      "end_date": "1999-02-20",
       "id": "Q7033042",
       "identifiers": [
         {
@@ -20131,8 +20153,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 1999",
-      "start_date": "1999"
+      "name": "1999 Nigerian parliamentary election",
+      "start_date": "1999-02-20"
     },
     {
       "classification": "general election",
@@ -20144,20 +20166,20 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 2003",
+      "name": "2003 Nigerian parliamentary election",
       "start_date": "2003-04-12"
     },
     {
       "classification": "general election",
       "end_date": "2007-04-21",
-      "id": "Q177483",
+      "id": "Q28941223",
       "identifiers": [
         {
-          "identifier": "Q177483",
+          "identifier": "Q28941223",
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian general election, 2007",
+      "name": "Nigerian legislative election, 2007",
       "start_date": "2007-04-21"
     },
     {
@@ -20170,8 +20192,21 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Nigerian parliamentary election, 2011",
+      "name": "2011 Nigerian parliamentary election",
       "start_date": "2011-04-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2014-04-05",
+      "id": "Q19604765",
+      "identifiers": [
+        {
+          "identifier": "Q19604765",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2014 Ilaje-Ese Odo by-election",
+      "start_date": "2014-04-05"
     },
     {
       "classification": "general election",
@@ -20198,6 +20233,19 @@
       "name": "8th National Assembly of Nigeria",
       "organization_id": "7cbd22c6-4df6-42f8-b7c0-44b715b88153",
       "start_date": "2015-06-09"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-02-23",
+      "id": "Q30594192",
+      "identifiers": [
+        {
+          "identifier": "Q30594192",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Nigerian general election, 2019",
+      "start_date": "2019-02-23"
     }
   ],
   "areas": [
