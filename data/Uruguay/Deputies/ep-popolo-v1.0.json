@@ -1015,6 +1015,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "no2015114949",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q16596518",
           "scheme": "wikidata"
         }
@@ -2588,6 +2592,7 @@
         }
       ],
       "email": "gpenades@parlamento.gub.uy",
+      "family_name": "Penadés",
       "gender": "male",
       "given_name": "Gustavo",
       "id": "97e98dee-c69c-4b17-b29c-6c89226c96f0",
@@ -2714,6 +2719,11 @@
         {
           "lang": "en",
           "name": "Jaime Trobo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "池洛博",
           "note": "multilingual"
         }
       ],
@@ -3053,6 +3063,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Verónica_Alonso"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Verónica_Alonso"
@@ -4337,6 +4351,7 @@
         }
       ],
       "email": "mmutti@parlamento.gub.uy",
+      "family_name": "Mutti",
       "gender": "female",
       "given_name": "María Manuela",
       "id": "fb2306b6-4574-4628-ba23-f59b9d50d8b1",
@@ -4354,6 +4369,9 @@
       "images": [
         {
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot11594_2.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/MERCOSUL_-_Representação_Brasileira_no_Parlamento_do_Mercosul_(21840592735).jpg"
         }
       ],
       "links": [
@@ -4718,6 +4736,12 @@
         {
           "lang": "eu",
           "name": "Colorado Alderdia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cy",
+          "name": "Plaid Colorado",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7167,7 +7191,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1931",
+      "end_date": "1931-11-29",
       "id": "Q7901499",
       "identifiers": [
         {
@@ -7176,7 +7200,7 @@
         }
       ],
       "name": "Uruguayan parliamentary election, 1931",
-      "start_date": "1931"
+      "start_date": "1931-11-29"
     },
     {
       "classification": "general election",
@@ -7193,7 +7217,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1934",
+      "end_date": "1934-04-19",
       "id": "Q7901500",
       "identifiers": [
         {
@@ -7202,7 +7226,7 @@
         }
       ],
       "name": "Uruguayan parliamentary election, 1934",
-      "start_date": "1934"
+      "start_date": "1934-04-19"
     },
     {
       "classification": "general election",
@@ -7284,7 +7308,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1962",
+      "end_date": "1962-11-25",
       "id": "Q800015",
       "identifiers": [
         {
@@ -7293,7 +7317,7 @@
         }
       ],
       "name": "1962 Uruguayan general election",
-      "start_date": "1962"
+      "start_date": "1962-11-25"
     },
     {
       "classification": "general election",
@@ -7349,58 +7373,6 @@
     },
     {
       "classification": "general election",
-      "end_date": "1994",
-      "id": "Q1635470",
-      "identifiers": [
-        {
-          "identifier": "Q1635470",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "1994 Uruguayan general election",
-      "start_date": "1994"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1999",
-      "id": "Q176133",
-      "identifiers": [
-        {
-          "identifier": "Q176133",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Uruguayan general election, 1999",
-      "start_date": "1999"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2004-10-31",
-      "id": "Q1403423",
-      "identifiers": [
-        {
-          "identifier": "Q1403423",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Uruguayan general election, 2004",
-      "start_date": "2004-10-31"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2009-11-29",
-      "id": "Q1809096",
-      "identifiers": [
-        {
-          "identifier": "Q1809096",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "2009 Uruguayan general election",
-      "start_date": "2009-10-25"
-    },
-    {
-      "classification": "general election",
       "end_date": "2009-11-29",
       "id": "Q22338594",
       "identifiers": [
@@ -7431,6 +7403,19 @@
       "name": "XLVIII Legislatura",
       "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
       "start_date": "2015-02-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019-10",
+      "id": "Q30099171",
+      "identifiers": [
+        {
+          "identifier": "Q30099171",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Uruguayan general election, 2019",
+      "start_date": "2019-10"
     }
   ],
   "areas": [
