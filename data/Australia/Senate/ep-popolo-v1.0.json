@@ -413,15 +413,10 @@
       "birth_date": "1952-04-01",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.leyonhjelm@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "DavidLeyonhjelm"
         }
       ],
-      "email": "senator.leyonhjelm@aph.gov.au",
       "family_name": "Leyonhjelm",
       "gender": "male",
       "given_name": "David",
@@ -4780,6 +4775,19 @@
         }
       ],
       "sort_name": "Short, Jim"
+    },
+    {
+      "family_name": "Ciccone",
+      "given_name": "Raff",
+      "id": "424b2d10-79f6-4846-b461-092967ee0a03",
+      "identifiers": [
+        {
+          "identifier": "10915",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Raff Ciccone",
+      "sort_name": "Ciccone, Raff"
     },
     {
       "birth_date": "1948-12-05",
@@ -13295,6 +13303,19 @@
       "sort_name": "Alston, Richard"
     },
     {
+      "family_name": "Askew",
+      "given_name": "Wendy",
+      "id": "d2cfb88e-2a02-4586-a1ad-af3f48d389b9",
+      "identifiers": [
+        {
+          "identifier": "10914",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Wendy Askew",
+      "sort_name": "Askew, Wendy"
+    },
+    {
       "birth_date": "1943-06-20",
       "family_name": "Tambling",
       "gender": "male",
@@ -20459,6 +20480,7 @@
     },
     {
       "area_id": "nsw",
+      "end_date": "2019-03-01",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_democratic_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -24008,6 +24030,20 @@
       ]
     },
     {
+      "area_id": "victoria",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "australian_labor_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "424b2d10-79f6-4846-b461-092967ee0a03",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2019-03-06"
+    },
+    {
       "area_id": "queensland",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal_party",
@@ -24601,6 +24637,7 @@
     },
     {
       "area_id": "tasmania",
+      "end_date": "2019-01-21",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "liberal_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -26247,6 +26284,7 @@
     },
     {
       "area_id": "victoria",
+      "end_date": "2019-02-15",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -31396,6 +31434,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "tasmania",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "d2cfb88e-2a02-4586-a1ad-af3f48d389b9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2019-03-06"
     },
     {
       "area_id": "nt",
