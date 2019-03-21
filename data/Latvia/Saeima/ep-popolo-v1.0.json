@@ -128,6 +128,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "nb2014026685",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q9381626",
           "scheme": "wikidata"
         }
@@ -3753,6 +3757,10 @@
           "url": "https://et.wikipedia.org/wiki/Janīna_Kursīte-Pakule"
         },
         {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Janīna_Kursīte-Pakule"
+        },
+        {
           "note": "Wikipedia (ltg)",
           "url": "https://ltg.wikipedia.org/wiki/Janina_Kūrseite"
         },
@@ -4581,6 +4589,10 @@
         {
           "identifier": "0000 0003 9446 5679",
           "scheme": "isni"
+        },
+        {
+          "identifier": "no2012151983",
+          "scheme": "lcauth"
         },
         {
           "identifier": "288973428",
@@ -5530,6 +5542,11 @@
         {
           "lang": "he",
           "name": "מיכאיל זמלינסקי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ミハイルス・ゼムリンスキス",
           "note": "multilingual"
         },
         {
@@ -9234,6 +9251,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "18659982X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2004018307",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "61250436",
           "scheme": "viaf"
         },
@@ -10055,6 +10080,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "アンドリス・シュケーレ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Шкеле, Андрис",
           "note": "multilingual"
@@ -10080,6 +10110,10 @@
         {
           "identifier": "0000 0001 0875 0103",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n85106103",
+          "scheme": "lcauth"
         },
         {
           "identifier": "07227588X",
@@ -15545,7 +15579,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15702,6 +15736,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16557,6 +16597,12 @@
         {
           "lang": "lv",
           "name": "Partija Vienotība",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ja",
+          "name": "新統一",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -22265,7 +22311,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 1990",
+      "name": "1990 Latvian Supreme Soviet election",
       "start_date": "1990-03-18"
     },
     {
@@ -22278,7 +22324,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 1993",
+      "name": "1993 Latvian parliamentary election",
       "start_date": "1993-06-05"
     },
     {
@@ -22291,7 +22337,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 1995",
+      "name": "1995 Latvian parliamentary election",
       "start_date": "1995-09-30"
     },
     {
@@ -22304,7 +22350,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 1998",
+      "name": "1998 Latvian parliamentary election",
       "start_date": "1998-10-03"
     },
     {
@@ -22317,7 +22363,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2002",
+      "name": "2002 Latvian parliamentary election",
       "start_date": "2002-10-05"
     },
     {
@@ -22330,7 +22376,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2006",
+      "name": "2006 Latvian parliamentary election",
       "start_date": "2006-10-07"
     },
     {
@@ -22343,7 +22389,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2010",
+      "name": "2010 Latvian parliamentary election",
       "start_date": "2010-10-02"
     },
     {
@@ -22370,7 +22416,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2011",
+      "name": "2011 Latvian parliamentary election",
       "start_date": "2011-09-17"
     },
     {
@@ -22397,7 +22443,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2014",
+      "name": "2014 Latvian parliamentary election",
       "start_date": "2014-10-04"
     },
     {
@@ -22424,8 +22470,21 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Latvian parliamentary election, 2018",
+      "name": "2018 Latvian parliamentary election",
       "start_date": "2018-10-07"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2022",
+      "id": "Q60528251",
+      "identifiers": [
+        {
+          "identifier": "Q60528251",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2022 Latvian parliamentary election",
+      "start_date": "2022"
     }
   ],
   "areas": [
