@@ -862,6 +862,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ca",
+          "name": "Pablo López",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Pablo Sebastián López",
           "note": "multilingual"
@@ -1828,6 +1833,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ca",
+          "name": "Néstor Javier David",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Javier David",
           "note": "multilingual"
@@ -2278,6 +2288,10 @@
         {
           "identifier": "/m/09ggg1q",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "n2013023624",
+          "scheme": "lcauth"
         },
         {
           "identifier": "299681237",
@@ -2916,7 +2930,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "391ca61d-f353-44b7-8a1e-6c730c3876d8",
       "identifiers": [
         {
@@ -3269,7 +3283,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "3ee149c5-59ae-4b71-958e-c423b39fcc46",
       "identifiers": [
         {
@@ -3554,6 +3568,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "no2009136466",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "90804620",
           "scheme": "viaf"
         },
@@ -3688,6 +3706,11 @@
         {
           "name": "Inés Beatriz Lotto Vecchietti",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Inés Beatriz Lotto",
+          "note": "multilingual"
         },
         {
           "lang": "de",
@@ -5478,7 +5501,7 @@
       ],
       "family_name": "Heller",
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "683d13d4-46c2-4b46-9d75-cc8129a8c79c",
       "identifiers": [
         {
@@ -5530,6 +5553,11 @@
         {
           "name": "Carlos Salomón Heller",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Carlos Salomón Heller",
+          "note": "multilingual"
         },
         {
           "lang": "da",
@@ -6803,6 +6831,11 @@
         },
         {
           "lang": "ast",
+          "name": "Nilda Garré",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
           "name": "Nilda Garré",
           "note": "multilingual"
         },
@@ -9755,7 +9788,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "a2ce1ab1-3427-46f9-9080-d45af26d3d27",
       "identifiers": [
         {
@@ -10326,7 +10359,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "b432b6f0-462d-46f2-b5a9-6528a7b0e9ee",
       "identifiers": [
         {
@@ -11264,7 +11297,7 @@
     {
       "family_name": "Moreno",
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "c3007a36-d3e7-4b92-a865-ebf9c632cf4c",
       "identifiers": [
         {
@@ -12073,7 +12106,7 @@
     {
       "birth_date": "1960-11-01",
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "d342dbb3-9e89-4203-810e-5601187dafc8",
       "identifiers": [
         {
@@ -13155,7 +13188,7 @@
     {
       "birth_date": "1968-03-06",
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "e9cac585-aa7b-45b9-a5f0-a5f6b01942fa",
       "identifiers": [
         {
@@ -14329,7 +14362,7 @@
       "birth_date": "1945-11-06",
       "family_name": "Kunkel",
       "gender": "male",
-      "given_name": "Carlos",
+      "given_name": "Carlos papa de julio",
       "id": "fbf53801-c0bd-4bc2-9df7-6ab1c2d2cb72",
       "identifiers": [
         {
@@ -29552,32 +29585,6 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "1922-04-02",
-      "id": "Q4789438",
-      "identifiers": [
-        {
-          "identifier": "Q4789438",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1922",
-      "start_date": "1922-04-02"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1946",
-      "id": "Q4789443",
-      "identifiers": [
-        {
-          "identifier": "Q4789443",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1946",
-      "start_date": "1946"
-    },
-    {
-      "classification": "general election",
       "end_date": "1948",
       "id": "Q4789383",
       "identifiers": [
@@ -29586,7 +29593,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine Constituent Assembly election, 1948",
+      "name": "1948 Argentine Constituent Assembly election",
       "start_date": "1948"
     },
     {
@@ -29599,21 +29606,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1948",
+      "name": "1948 Argentine legislative election",
       "start_date": "1948"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1951-11-11",
-      "id": "Q4789447",
-      "identifiers": [
-        {
-          "identifier": "Q4789447",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1951",
-      "start_date": "1951-11-11"
     },
     {
       "classification": "general election",
@@ -29625,7 +29619,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1954",
+      "name": "1954 Argentine legislative election",
       "start_date": "1954"
     },
     {
@@ -29638,21 +29632,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine Constitutional Assembly election, 1957",
+      "name": "1957 Argentine Constitutional Assembly election",
       "start_date": "1957"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1958-02-23",
-      "id": "Q5828597",
-      "identifiers": [
-        {
-          "identifier": "Q5828597",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1958",
-      "start_date": "1958-02-23"
     },
     {
       "classification": "general election",
@@ -29664,7 +29645,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1960",
+      "name": "1960 Argentine legislative election",
       "start_date": "1960"
     },
     {
@@ -29677,21 +29658,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1962",
+      "name": "1962 Argentine legislative election",
       "start_date": "1962"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1963-07-07",
-      "id": "Q4789445",
-      "identifiers": [
-        {
-          "identifier": "Q4789445",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1963",
-      "start_date": "1963-07-07"
     },
     {
       "classification": "general election",
@@ -29703,34 +29671,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1965",
+      "name": "1965 Argentine legislative election",
       "start_date": "1965"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1973-03-11",
-      "id": "Q3586850",
-      "identifiers": [
-        {
-          "identifier": "Q3586850",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, March 1973",
-      "start_date": "1973-03-11"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1983-10-30",
-      "id": "Q16062345",
-      "identifiers": [
-        {
-          "identifier": "Q16062345",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election of 1983",
-      "start_date": "1983-10-30"
     },
     {
       "classification": "general election",
@@ -29742,12 +29684,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1985",
+      "name": "1985 Argentine legislative election",
       "start_date": "1985-11-03"
     },
     {
       "classification": "general election",
-      "end_date": "1987",
+      "end_date": "1987-09-06",
       "id": "Q4789475",
       "identifiers": [
         {
@@ -29755,25 +29697,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1987",
-      "start_date": "1987"
+      "name": "1987 Argentine legislative election",
+      "start_date": "1987-09-06"
     },
     {
       "classification": "general election",
-      "end_date": "1989-05-14",
-      "id": "Q16062343",
-      "identifiers": [
-        {
-          "identifier": "Q16062343",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election of 1989",
-      "start_date": "1989-05-14"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1991",
+      "end_date": "1991-09-08",
       "id": "Q4789476",
       "identifiers": [
         {
@@ -29781,12 +29710,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1991",
-      "start_date": "1991"
+      "name": "1991 Argentine legislative election",
+      "start_date": "1991-09-08"
     },
     {
       "classification": "general election",
-      "end_date": "1993",
+      "end_date": "1993-10-03",
       "id": "Q4789477",
       "identifiers": [
         {
@@ -29794,8 +29723,21 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1993",
-      "start_date": "1993"
+      "name": "1993 Argentine legislative election",
+      "start_date": "1993-10-03"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995",
+      "id": "Q5828229",
+      "identifiers": [
+        {
+          "identifier": "Q5828229",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Argentine legislative election, 1995",
+      "start_date": "1995"
     },
     {
       "classification": "general election",
@@ -29820,21 +29762,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 1997",
+      "name": "1997 Argentine legislative election",
       "start_date": "1997-10-26"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1999-10-24",
-      "id": "Q16060893",
-      "identifiers": [
-        {
-          "identifier": "Q16060893",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 1999",
-      "start_date": "1999-10-24"
     },
     {
       "classification": "general election",
@@ -29846,7 +29775,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 2001",
+      "name": "2001 Argentine legislative election",
       "start_date": "2001-10-14"
     },
     {
@@ -29872,21 +29801,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 2005",
+      "name": "2005 Argentine legislative election",
       "start_date": "2005"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2007-10-28",
-      "id": "Q2032101",
-      "identifiers": [
-        {
-          "identifier": "Q2032101",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine general election, 2007",
-      "start_date": "2007-10-28"
     },
     {
       "classification": "general election",
@@ -29898,7 +29814,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 2009",
+      "name": "2009 Argentine legislative election",
       "start_date": "2009-06-28"
     },
     {
@@ -29924,7 +29840,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 2013",
+      "name": "2013 Argentine legislative election",
       "start_date": "2013-10-27"
     },
     {
@@ -29974,7 +29890,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Argentine legislative election, 2017",
+      "name": "2017 Argentine legislative election",
       "start_date": "2017-10-22"
     },
     {
