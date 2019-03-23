@@ -1018,13 +1018,21 @@
         "name": "2019年エストニア総選挙",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "pl",
+        "name": "Wybory parlamentarne w Estonii w 2019 roku",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "2019-03-03"
     ],
     "follows": "2015 Estonian parliamentary election",
-    "office": "Member of the 14th Riigikogu"
+    "followed_by": "2023 Estonian parliamentary election",
+    "office": "Member of the 14th Riigikogu",
+    "ballots_cast": "565028"
   },
   "Q2052936": {
     "identifiers": [
@@ -1082,6 +1090,7 @@
     ],
     "start_date": "1940-07-14",
     "end_date": "1940-07-15",
+    "followed_by": "1947 Estonian Supreme Soviet election",
     "office": "member of the Estonian Riigikogu"
   },
   "Q2075093": {
@@ -1347,6 +1356,33 @@
     "successful_candidates": [
       "Mart Laar"
     ]
+  },
+  "Q62116538": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q62116538"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "et",
+        "name": "2023. aasta Riigikogu valimised",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "2023 Estonian parliamentary election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023"
+    ],
+    "follows": "2019 Estonian parliamentary election",
+    "office": "member of the Estonian Riigikogu"
   },
   "Q933830": {
     "identifiers": [
