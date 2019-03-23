@@ -1,10 +1,10 @@
 {
   "people": {
     "count": 566,
-    "wikidata": 536,
+    "wikidata": 472,
     "latest_term": {
       "count": 320,
-      "wikidata": 290,
+      "wikidata": 265,
       "images": 320,
       "contacts": {
         "email": 315,
@@ -37,7 +37,6 @@
     {
       "file": "archive/openpolis-17.csv",
       "type": "membership",
-      "scraper": null,
       "lastmod": "2018-10-09"
     },
     {
@@ -50,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/italy-senate-wikidata",
-      "lastmod": "2019-02-01"
+      "lastmod": "2019-02-08"
     },
     {
       "file": "morph/terms.csv",
@@ -67,8 +66,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
-      "lastmod": "2019-01-22"
+      "lastmod": "2019-02-08"
     }
   ]
 }
