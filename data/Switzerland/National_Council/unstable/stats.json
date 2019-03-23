@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1238,
-    "wikidata": 872,
+    "wikidata": 593,
     "latest_term": {
       "count": 225,
-      "wikidata": 225,
-      "images": 187,
+      "wikidata": 165,
+      "images": 148,
       "contacts": {
         "email": 1,
         "facebook": 0,
-        "twitter": 55
+        "twitter": 54
       }
     }
   },
@@ -27,11 +27,11 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 50,
-    "latest": "2015-10-18"
+    "count": 51,
+    "latest": "2019"
   },
   "positions": {
-    "cabinet": 41
+    "cabinet": 20
   },
   "sources": [
     {
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/switzerland-national-assembly-wikidata",
-      "lastmod": "2019-02-26"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "morph/terms.csv",
@@ -67,7 +67,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-26"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "morph/twitter.csv",
