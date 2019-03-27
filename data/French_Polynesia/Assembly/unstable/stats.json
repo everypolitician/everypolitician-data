@@ -27,7 +27,7 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 3,
+    "count": 2,
     "latest": "2013-05-05"
   },
   "positions": {
@@ -44,12 +44,11 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/french-polynesia-assembly-wikidata",
-      "lastmod": "2019-01-21"
+      "lastmod": "2019-01-25"
     },
     {
       "file": "manual/terms.csv",
       "type": "term",
-      "scraper": null,
       "lastmod": "2016-12-15"
     },
     {
@@ -61,19 +60,16 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "scraper": null,
       "lastmod": "2019-01-16"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "scraper": null,
       "lastmod": "2019-01-16"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "scraper": null,
       "lastmod": "2019-01-16"
     }
   ]
