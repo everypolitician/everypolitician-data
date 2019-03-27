@@ -120,6 +120,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "n2017064785",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q312340",
           "scheme": "wikidata"
         }
@@ -1062,6 +1066,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "no2019018673",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q7938368",
           "scheme": "wikidata"
         }
@@ -1217,6 +1225,11 @@
         {
           "lang": "ro",
           "name": "Andrei Neguță",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Негуца, Андрей Кириллович",
           "note": "multilingual"
         }
       ],
@@ -2272,6 +2285,10 @@
           "url": "https://fr.wikipedia.org/wiki/Nicolae_Juravschi"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Նիկոլայ_Ժուրավսկի"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Nicolae_Juravschi"
         },
@@ -2548,6 +2565,10 @@
         {
           "identifier": "0000 0003 5513 3305",
           "scheme": "isni"
+        },
+        {
+          "identifier": "no2009105399",
+          "scheme": "lcauth"
         },
         {
           "identifier": "81364992",
@@ -5470,6 +5491,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n2017064788",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "170964206",
           "scheme": "viaf"
         },
@@ -7200,6 +7225,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "no2011064637",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q19916913",
           "scheme": "wikidata"
         }
@@ -8380,6 +8409,12 @@
           "name": "Moldaviens liberaldemokratiske parti",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "Либерално-демократическа партия на Молдова",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -8932,7 +8967,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -9089,6 +9124,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11201,19 +11242,6 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "1990-07-03",
-      "id": "Q3827128",
-      "identifiers": [
-        {
-          "identifier": "Q3827128",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Moldovan parliamentary election, 1990",
-      "start_date": "1990-07-03"
-    },
-    {
-      "classification": "general election",
       "end_date": "1994-02-27",
       "id": "Q1347557",
       "identifiers": [
@@ -11222,7 +11250,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 1994",
+      "name": "1994 Moldovan parliamentary election",
       "start_date": "1994-02-27"
     },
     {
@@ -11235,7 +11263,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 1998",
+      "name": "1998 Moldovan parliamentary election",
       "start_date": "1998-03-22"
     },
     {
@@ -11248,7 +11276,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 2001",
+      "name": "2001 Moldovan parliamentary election",
       "start_date": "2001-02-25"
     },
     {
@@ -11261,7 +11289,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 2005",
+      "name": "2005 Moldovan parliamentary election",
       "start_date": "2005-03-06"
     },
     {
@@ -11274,7 +11302,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, April 2009",
+      "name": "April 2009 Moldovan parliamentary election",
       "start_date": "2009-04-05"
     },
     {
@@ -11287,7 +11315,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, July 2009",
+      "name": "July 2009 Moldovan parliamentary election",
       "start_date": "2009-07-29"
     },
     {
@@ -11300,7 +11328,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 2010",
+      "name": "2010 Moldovan parliamentary election",
       "start_date": "2010-11-28"
     },
     {
@@ -11313,7 +11341,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 2014",
+      "name": "2014 Moldovan parliamentary election",
       "start_date": "2014-11-30"
     },
     {
@@ -11339,7 +11367,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Moldovan parliamentary election, 2019",
+      "name": "2019 Moldovan parliamentary election",
       "start_date": "2019-02-24"
     }
   ],
