@@ -874,6 +874,7 @@
         }
       ],
       "email": "aadamou@parliament.cy",
+      "family_name": "Adamou",
       "gender": "male",
       "id": "2bccfeee-aeb1-4223-b0b9-2160ff3625a2",
       "identifiers": [
@@ -4061,6 +4062,11 @@
       "name": "Tornaritis Nikos",
       "other_names": [
         {
+          "lang": "ast",
+          "name": "Nikos Tornaritis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Νίκος Τορναρίτης",
           "note": "multilingual"
@@ -4068,6 +4074,11 @@
         {
           "lang": "el",
           "name": "Τορναρίτης Νίκος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikos Tornaritis",
           "note": "multilingual"
         },
         {
@@ -4883,6 +4894,10 @@
         {
           "note": "Wikipedia (el)",
           "url": "https://el.wikipedia.org/wiki/Γιώργος_Κ._Γεωργίου_(βουλευτής_Λάρνακας)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jorgos_Jeorjiu"
         }
       ],
       "name": "Georgiou K. Giorgos",
@@ -4895,6 +4910,11 @@
         {
           "lang": "el",
           "name": "Γιώργος Γεωργίου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jorgos Jeorjiu",
           "note": "multilingual"
         },
         {
@@ -7353,7 +7373,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7510,6 +7530,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -9341,155 +9367,12 @@
   ],
   "events": [
     {
-      "classification": "general election",
-      "end_date": "1960",
-      "id": "Q3556429",
-      "identifiers": [
-        {
-          "identifier": "Q3556429",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1960",
-      "start_date": "1960"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1970-07-05",
-      "id": "Q3563383",
-      "identifiers": [
-        {
-          "identifier": "Q3563383",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1970",
-      "start_date": "1970-07-05"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1976-09-05",
-      "id": "Q3566196",
-      "identifiers": [
-        {
-          "identifier": "Q3566196",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1976",
-      "start_date": "1976-09-05"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1981-05-24",
-      "id": "Q3563446",
-      "identifiers": [
-        {
-          "identifier": "Q3563446",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1981",
-      "start_date": "1981-05-24"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1985-12-08",
-      "id": "Q3563436",
-      "identifiers": [
-        {
-          "identifier": "Q3563436",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1985",
-      "start_date": "1985-12-08"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1991",
-      "id": "Q3496797",
-      "identifiers": [
-        {
-          "identifier": "Q3496797",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1991",
-      "start_date": "1991"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1996-05-26",
-      "id": "Q3496803",
-      "identifiers": [
-        {
-          "identifier": "Q3496803",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 1996",
-      "start_date": "1996-05-26"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2001-03-21",
-      "id": "Q2633735",
-      "identifiers": [
-        {
-          "identifier": "Q2633735",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 2001",
-      "start_date": "2001-03-21"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2006",
-      "id": "Q1485307",
-      "identifiers": [
-        {
-          "identifier": "Q1485307",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 2006",
-      "start_date": "2006"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2011",
-      "id": "Q2568422",
-      "identifiers": [
-        {
-          "identifier": "Q2568422",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 2011",
-      "start_date": "2011"
-    },
-    {
       "classification": "legislative period",
       "end_date": "2016-04-14",
       "id": "term/10",
       "name": "10th Term",
       "organization_id": "94d3bc35-8e9a-434b-9062-416ec38582d3",
       "start_date": "2011-06-02"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2016-05-22",
-      "id": "Q20948997",
-      "identifiers": [
-        {
-          "identifier": "Q20948997",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Cypriot legislative election, 2016",
-      "start_date": "2016-05-22"
     },
     {
       "classification": "legislative period",
