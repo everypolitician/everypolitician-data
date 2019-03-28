@@ -1600,13 +1600,6 @@
     },
     {
       "birth_date": "1983-05-10",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "staudt.gabor@parlament.hu"
-        }
-      ],
-      "email": "staudt.gabor@parlament.hu",
       "gender": "male",
       "given_name": "Gábor",
       "id": "1d985468-1b5a-4e21-a80a-281be31bc1a4",
@@ -7113,6 +7106,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "hollik.istvan@parlament.hu"
+        }
+      ],
+      "email": "hollik.istvan@parlament.hu",
+      "id": "63b774b4-22fe-48bd-bdf8-fe0dd746fab0",
+      "image": "http://www.parlament.hu/kepv/kepek/h078.jpg",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/h078.jpg"
+        }
+      ],
+      "name": "Hollik, István"
+    },
+    {
       "birth_date": "1968-01-08",
       "contact_details": [
         {
@@ -11232,6 +11242,23 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "csanyi.tamas@parlament.hu"
+        }
+      ],
+      "email": "csanyi.tamas@parlament.hu",
+      "id": "a3d60ee6-1c3b-4bf9-807e-839348d5b003",
+      "image": "http://www.parlament.hu/kepv/kepek/c046.jpg",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/c046.jpg"
+        }
+      ],
+      "name": "Csányi, Tamás"
+    },
+    {
       "birth_date": "1975-05-21",
       "contact_details": [
         {
@@ -11502,14 +11529,7 @@
     },
     {
       "birth_date": "1967-09-29",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ferenc.hirt@parlament.hu"
-        }
-      ],
       "death_date": "2018-12-07",
-      "email": "ferenc.hirt@parlament.hu",
       "family_name": "Hirt",
       "gender": "male",
       "given_name": "Ferenc",
@@ -14000,13 +14020,6 @@
     },
     {
       "birth_date": "1970",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "hegedus.lorantne@parlament.hu"
-        }
-      ],
-      "email": "hegedus.lorantne@parlament.hu",
       "gender": "female",
       "id": "cf804e21-0dd0-46fb-b573-02c1c09ded9a",
       "identifiers": [
@@ -16244,13 +16257,6 @@
     },
     {
       "birth_date": "1981-03-08",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "szavay.istvan@parlament.hu"
-        }
-      ],
-      "email": "szavay.istvan@parlament.hu",
       "gender": "male",
       "given_name": "István",
       "id": "eb0a79ad-efe0-4814-984d-6e606802bab8",
@@ -16556,10 +16562,20 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "szekely.sandor@parlament.hu"
+          "value": "bencsik.janos1985@parlament.hu"
         }
       ],
-      "email": "szekely.sandor@parlament.hu",
+      "email": "bencsik.janos1985@parlament.hu",
+      "id": "efc11dae-7f58-40e4-b970-dafd0c37793d",
+      "image": "http://www.parlament.hu/kepv/kepek/b132.jpg",
+      "images": [
+        {
+          "url": "http://www.parlament.hu/kepv/kepek/b132.jpg"
+        }
+      ],
+      "name": "Bencsik, János"
+    },
+    {
       "given_name": "Sándor",
       "id": "f0ea77e6-7547-4258-8f2f-2dd885a23f85",
       "identifiers": [
@@ -20380,13 +20396,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "jobbik",
-      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
-      "person_id": "1d985468-1b5a-4e21-a80a-281be31bc1a4",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "lmp",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
@@ -21546,6 +21555,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "kdnp",
+      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
+      "person_id": "63b774b4-22fe-48bd-bdf8-fe0dd746fab0",
+      "role": "member",
+      "start_date": "2019-02-18"
+    },
+    {
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "fidesz",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
@@ -22484,6 +22501,14 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "jobbik",
+      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
+      "person_id": "a3d60ee6-1c3b-4bf9-807e-839348d5b003",
+      "role": "member",
+      "start_date": "2019-02-18"
+    },
+    {
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "fidesz",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
@@ -22564,13 +22589,6 @@
           "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "fidesz",
-      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
-      "person_id": "aa1c789d-1c91-4035-b670-dc38138bd7f5",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/40",
@@ -23122,13 +23140,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "jobbik",
-      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
-      "person_id": "cf804e21-0dd0-46fb-b573-02c1c09ded9a",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "fidesz",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
@@ -23534,13 +23545,6 @@
       ]
     },
     {
-      "legislative_period_id": "term/41",
-      "on_behalf_of_id": "jobbik",
-      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
-      "person_id": "eb0a79ad-efe0-4814-984d-6e606802bab8",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/40",
       "on_behalf_of_id": "fidesz",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
@@ -23606,6 +23610,15 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/41",
+      "on_behalf_of_id": "jobbik",
+      "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
+      "person_id": "efc11dae-7f58-40e4-b970-dafd0c37793d",
+      "role": "member",
+      "start_date": "2019-02-18"
+    },
+    {
+      "end_date": "2018-12-21",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "dk",
       "organization_id": "777902f1-4b1f-42ea-b15a-9f12cc4bb773",
