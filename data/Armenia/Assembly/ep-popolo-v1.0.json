@@ -4146,6 +4146,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "no2003062150",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "4517",
           "scheme": "pace"
         },
@@ -6102,6 +6106,10 @@
         {
           "identifier": "1064",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "no2016029007",
+          "scheme": "lcauth"
         },
         {
           "identifier": "501145857959023021379",
@@ -9620,40 +9628,18 @@
         }
       ],
       "email": "vardan.ghukasyan@parliament.am",
-      "gender": "male",
       "id": "ac12bf07-c9ee-4a90-b905-c8cdc06b882e",
-      "identifiers": [
-        {
-          "identifier": "Q44077329",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1251",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1251"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (hy)",
-          "url": "https://hy.wikipedia.org/wiki/Վարդան_Ղուկասյան_(քաղաքական_գործիչ)"
-        }
-      ],
       "name": "Vardan Ghukasyan",
       "other_names": [
         {
-          "name": "Վարդան Ղուկասյան",
-          "note": "alternate"
-        },
-        {
           "lang": "hy",
           "name": "Վարդան Կոլյայի Ղուկասյան",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hy",
-          "name": "Վարդան Ղուկասյան",
           "note": "multilingual"
         },
         {
@@ -9669,47 +9655,21 @@
       "id": "ac94fa1f-49b5-4d6d-a432-c9c8871263da",
       "identifiers": [
         {
-          "identifier": "146",
-          "scheme": "armenian_parliament"
-        },
-        {
           "identifier": "1077",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q20508566",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1077",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1077"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Araqel_Movsisyan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (hy)",
-          "url": "https://hy.wikipedia.org/wiki/Առաքել_Մովսիսյան"
         }
       ],
       "name": "Arakel Movsisyan",
       "other_names": [
         {
-          "name": "Առաքել Մովսիսյան",
-          "note": "alternate"
-        },
-        {
           "lang": "hy",
           "name": "Առաքել Աբրահամի Մովսիսյան",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hy",
-          "name": "Առաքել Մովսիսյան",
           "note": "multilingual"
         },
         {
@@ -10820,6 +10780,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "no2019003615",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "2026152637852820220009",
           "scheme": "viaf"
         },
@@ -10921,6 +10885,10 @@
         {
           "note": "Wikipedia (ia)",
           "url": "https://ia.wikipedia.org/wiki/Nikol_Pashinyan"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Nikol_Pashinyan"
         },
         {
           "note": "Wikipedia (io)",
@@ -11614,15 +11582,7 @@
       "identifiers": [
         {
           "identifier": "1116",
-          "scheme": "armenian_parliament"
-        },
-        {
-          "identifier": "1116",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q54934830",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1116",
@@ -11634,22 +11594,8 @@
       "name": "Ara Aramyan",
       "other_names": [
         {
-          "name": "Արա Արամյան",
-          "note": "alternate"
-        },
-        {
-          "lang": "hy",
-          "name": "Արա Արամյան",
-          "note": "multilingual"
-        },
-        {
           "lang": "hy",
           "name": "Արա Հայկի Արամյան",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Ара Арамян",
           "note": "multilingual"
         },
         {
@@ -16422,7 +16368,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16579,6 +16525,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23062,7 +23014,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 1990",
+      "name": "1990 Armenian Supreme Soviet election",
       "start_date": "1990-05-20"
     },
     {
@@ -23075,7 +23027,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 1995",
+      "name": "1995 Armenian parliamentary election",
       "start_date": "1995-07-05"
     },
     {
@@ -23088,7 +23040,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 1999",
+      "name": "1999 Armenian parliamentary election",
       "start_date": "1999-05-30"
     },
     {
@@ -23101,7 +23053,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 2003",
+      "name": "2003 Armenian parliamentary election",
       "start_date": "2003-05-25"
     },
     {
@@ -23114,7 +23066,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 2007",
+      "name": "2007 Armenian parliamentary election",
       "start_date": "2007-05-12"
     },
     {
@@ -23127,7 +23079,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 2012",
+      "name": "2012 Armenian parliamentary election",
       "start_date": "2012-05-06"
     },
     {
@@ -23154,7 +23106,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Armenian parliamentary election, 2017",
+      "name": "2017 Armenian parliamentary election",
       "start_date": "2017-04-02"
     },
     {
