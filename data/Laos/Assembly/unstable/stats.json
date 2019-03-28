@@ -27,10 +27,45 @@
     "wikidata": 0
   },
   "elections": {
-    "count": 16,
+    "count": 15,
     "latest": "2016-03-20"
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official-2011.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/laos-national-assembly",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/official-2016.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/laos-national-assembly",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/laos-national-assembly-wikidata",
+      "lastmod": "2018-03-06"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2016-06-13"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2015-12-22"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2017-08-27"
+    }
+  ]
 }
