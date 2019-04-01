@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 152,
-    "wikidata": 152,
+    "count": 136,
+    "wikidata": 0,
     "latest_term": {
-      "count": 124,
-      "wikidata": 124,
-      "images": 38,
+      "count": 125,
+      "wikidata": 0,
+      "images": 0,
       "contacts": {
         "email": 0,
-        "facebook": 1,
-        "twitter": 1
+        "facebook": 0,
+        "twitter": 0
       }
     }
   },
   "groups": {
-    "count": 14,
-    "wikidata": 14
+    "count": 13,
+    "wikidata": 1
   },
   "terms": {
     "count": 2,
@@ -44,7 +44,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/azerbaijan-national-assembly-wikidata",
-      "lastmod": "2019-03-07"
+      "lastmod": "2019-03-27"
     },
     {
       "file": "morph/terms.csv",
@@ -61,17 +61,17 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-03-04"
+      "lastmod": "2019-03-27"
     },
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "lastmod": "2018-08-18"
+      "lastmod": "2019-03-27"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-03-07"
+      "lastmod": "2019-03-27"
     }
   ]
 }
