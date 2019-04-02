@@ -32,5 +32,28 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/transnistrian-supreme-council",
+      "lastmod": "2018-03-20"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2016-03-14"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2016-09-18"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2017-10-07"
+    }
+  ]
 }
