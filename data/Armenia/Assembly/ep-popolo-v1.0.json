@@ -9660,23 +9660,55 @@
         }
       ],
       "email": "vardan.ghukasyan@parliament.am",
+      "family_name": "Gukasyan",
+      "gender": "male",
       "id": "ac12bf07-c9ee-4a90-b905-c8cdc06b882e",
+      "identifiers": [
+        {
+          "identifier": "Q4151751",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1251",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1251"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Վարդան_Ղուկասյան_(քաղաքական_գործիչ)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гукасян,_Вардан_Николаевич"
+        }
+      ],
       "name": "Vardan Ghukasyan",
       "other_names": [
+        {
+          "name": "Վարդան Ղուկասյան",
+          "note": "alternate"
+        },
         {
           "lang": "hy",
           "name": "Վարդան Կոլյայի Ղուկասյան",
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Վարդան Ղուկասյան",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Вардан Коляевич Гукасян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гукасян, Вардан Николаевич",
           "note": "multilingual"
         }
       ]
@@ -9687,26 +9719,61 @@
       "id": "ac94fa1f-49b5-4d6d-a432-c9c8871263da",
       "identifiers": [
         {
+          "identifier": "146",
+          "scheme": "armenian_parliament"
+        },
+        {
           "identifier": "1077",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4299033",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1077",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1077"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Araqel_Movsisyan.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Առաքել_Մովսիսյան"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мовсисян,_Аракел_Абрамович"
         }
       ],
       "name": "Arakel Movsisyan",
       "other_names": [
+        {
+          "name": "Արաքել Մովսիսյան",
+          "note": "alternate"
+        },
         {
           "lang": "hy",
           "name": "Առաքել Աբրահամի Մովսիսյան",
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Արաքել Մովսիսյան",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Аракел Абраамович Мовсисян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мовсисян, Аракел Абрамович",
           "note": "multilingual"
         }
       ]
@@ -11626,7 +11693,15 @@
       "identifiers": [
         {
           "identifier": "1116",
+          "scheme": "armenian_parliament"
+        },
+        {
+          "identifier": "1116",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4068501",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1116",
@@ -11635,8 +11710,23 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1116"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Арамян,_Ара_Айкович"
+        }
+      ],
       "name": "Ara Aramyan",
       "other_names": [
+        {
+          "name": "Արա Արամյան",
+          "note": "alternate"
+        },
+        {
+          "lang": "hy",
+          "name": "Արա Արամյան",
+          "note": "multilingual"
+        },
         {
           "lang": "hy",
           "name": "Արա Հայկի Արամյան",
@@ -11645,6 +11735,11 @@
         {
           "lang": "ru",
           "name": "Ара Гайкович Арамян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Арамян, Ара Айкович",
           "note": "multilingual"
         }
       ]
