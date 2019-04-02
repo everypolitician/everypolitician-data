@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 4073,
-    "wikidata": 497,
+    "wikidata": 4072,
     "latest_term": {
       "count": 709,
-      "wikidata": 78,
-      "images": 64,
+      "wikidata": 708,
+      "images": 556,
       "contacts": {
-        "email": 0,
-        "facebook": 52,
-        "twitter": 34
+        "email": 1,
+        "facebook": 491,
+        "twitter": 320
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2017-09-24"
   },
   "positions": {
-    "cabinet": 16
+    "cabinet": 97
   },
   "sources": [
     {
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/germany-bundestag-members-wikidata",
-      "lastmod": "2019-02-28"
+      "lastmod": "2019-04-02"
     },
     {
       "file": "manual/terms.csv",
@@ -71,12 +71,12 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-28"
+      "lastmod": "2019-04-01"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-18"
+      "lastmod": "2019-04-01"
     }
   ]
 }
