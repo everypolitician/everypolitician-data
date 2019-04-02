@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 940,
-    "wikidata": 763,
+    "wikidata": 762,
     "latest_term": {
       "count": 596,
-      "wikidata": 596,
+      "wikidata": 595,
       "images": 596,
       "contacts": {
         "email": 0,
         "facebook": 65,
-        "twitter": 50
+        "twitter": 52
       }
     }
   },
@@ -27,8 +27,8 @@
     "wikidata": 27
   },
   "elections": {
-    "count": 25,
-    "latest": "2014-10-26"
+    "count": 27,
+    "latest": "2018-10-07"
   },
   "positions": {
     "cabinet": 3
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/brasil-deputados-wikidata",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "morph/terms.csv",
@@ -79,12 +79,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-28"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-13"
+      "lastmod": "2019-02-28"
     }
   ]
 }
