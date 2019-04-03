@@ -271,9 +271,8 @@ namespace :transform do
         end
         warn "Party #{org[:id]} not in Popolo" unless matched.any?
         matched.each do |existing|
-          existing.merge!(org) do |key, old, new|
-            key == :id ? old : new
-          end
+          existing.delete(:name) if existing[:name] == 'unknown' # Get from WD instead
+          DeepMerge.deep_merge!(org, existing, preserve_unmergeables: true)
         end
       end
     end
