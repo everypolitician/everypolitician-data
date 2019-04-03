@@ -874,6 +874,7 @@
         }
       ],
       "email": "aadamou@parliament.cy",
+      "family_name": "Adamou",
       "gender": "male",
       "id": "2bccfeee-aeb1-4223-b0b9-2160ff3625a2",
       "identifiers": [
@@ -2998,6 +2999,10 @@
           "scheme": "openpatata"
         },
         {
+          "identifier": "6851",
+          "scheme": "pace"
+        },
+        {
           "identifier": "403",
           "scheme": "parliament_cy"
         },
@@ -4061,6 +4066,11 @@
       "name": "Tornaritis Nikos",
       "other_names": [
         {
+          "lang": "ast",
+          "name": "Nikos Tornaritis",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Νίκος Τορναρίτης",
           "note": "multilingual"
@@ -4068,6 +4078,11 @@
         {
           "lang": "el",
           "name": "Τορναρίτης Νίκος",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikos Tornaritis",
           "note": "multilingual"
         },
         {
@@ -4883,10 +4898,19 @@
         {
           "note": "Wikipedia (el)",
           "url": "https://el.wikipedia.org/wiki/Γιώργος_Κ._Γεωργίου_(βουλευτής_Λάρνακας)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jorgos_Jeorjiu"
         }
       ],
       "name": "Georgiou K. Giorgos",
       "other_names": [
+        {
+          "lang": "ast",
+          "name": "Jorgos Jeorjiu",
+          "note": "multilingual"
+        },
         {
           "lang": "el",
           "name": "Γεωργίου Κ. Γιώργος",
@@ -4895,6 +4919,11 @@
         {
           "lang": "el",
           "name": "Γιώργος Γεωργίου",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jorgos Jeorjiu",
           "note": "multilingual"
         },
         {
@@ -7353,7 +7382,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7510,6 +7539,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -9342,7 +9377,7 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "1960",
+      "end_date": "1960-07-31",
       "id": "Q3556429",
       "identifiers": [
         {
@@ -9350,8 +9385,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1960",
-      "start_date": "1960"
+      "name": "1960 Cypriot legislative election",
+      "start_date": "1960-07-31"
     },
     {
       "classification": "general election",
@@ -9363,7 +9398,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1970",
+      "name": "1970 Cypriot legislative election",
       "start_date": "1970-07-05"
     },
     {
@@ -9376,7 +9411,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1976",
+      "name": "1976 Cypriot legislative election",
       "start_date": "1976-09-05"
     },
     {
@@ -9389,7 +9424,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1981",
+      "name": "1981 Cypriot legislative election",
       "start_date": "1981-05-24"
     },
     {
@@ -9402,12 +9437,12 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1985",
+      "name": "1985 Cypriot legislative election",
       "start_date": "1985-12-08"
     },
     {
       "classification": "general election",
-      "end_date": "1991",
+      "end_date": "1991-05-19",
       "id": "Q3496797",
       "identifiers": [
         {
@@ -9415,8 +9450,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1991",
-      "start_date": "1991"
+      "name": "1991 Cypriot legislative election",
+      "start_date": "1991-05-19"
     },
     {
       "classification": "general election",
@@ -9428,7 +9463,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 1996",
+      "name": "1996 Cypriot legislative election",
       "start_date": "1996-05-26"
     },
     {
@@ -9441,7 +9476,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 2001",
+      "name": "2001 Cypriot legislative election",
       "start_date": "2001-03-21"
     },
     {
@@ -9454,7 +9489,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 2006",
+      "name": "2006 Cypriot legislative election",
       "start_date": "2006"
     },
     {
@@ -9467,7 +9502,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 2011",
+      "name": "2011 Cypriot legislative election",
       "start_date": "2011"
     },
     {
@@ -9488,7 +9523,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cypriot legislative election, 2016",
+      "name": "2016 Cypriot legislative election",
       "start_date": "2016-05-22"
     },
     {
