@@ -18,6 +18,7 @@
         "scraper": "everypolitician-scrapers/estonia-riigikogu",
         "query": "SELECT id,name,image,phone,email,facebook,twitter,source,id AS identifier__riigikogu FROM data ORDER BY id"
       },
+      "source": "https://www.riigikogu.ee/",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
