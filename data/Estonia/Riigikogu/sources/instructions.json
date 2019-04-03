@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/estonia-riigikogu-members-wikidata",
-        "query": "SELECT * FROM data WHERE TERM >= 12 ORDER BY id"
+        "query": "SELECT statement,id,constituency_id,party_id,start_date,end_date,term FROM data WHERE TERM >= 12 ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "membership",
