@@ -968,7 +968,12 @@
       "name": "Javier Bedoya De Vivanco",
       "other_names": [
         {
-          "lang": "en",
+          "lang": "de",
+          "name": "Javier Bedoya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Javier Bedoya",
           "note": "multilingual"
         }
@@ -1279,6 +1284,10 @@
         {
           "identifier": "0000 0001 1500 3819",
           "scheme": "isni"
+        },
+        {
+          "identifier": "nb2008022665",
+          "scheme": "lcauth"
         },
         {
           "identifier": "166297267",
@@ -2476,6 +2485,9 @@
       "images": [
         {
           "url": "http://www.congreso.gob.pe/Storage/tbl_congresistas/fld_47_Fotografia_file/66-p9Mr9Po9Tu0Qa8P.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/José_León_Rivera.jpg"
         }
       ],
       "links": [
@@ -2889,7 +2901,7 @@
           "url": "http://www.congreso.gob.pe/Storage/tbl_congresistas/fld_47_Fotografia_file/51-e1Dj2Mc7Xn5Za7P.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Víctor_Andrés_García_Belaúnde_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Víctor_Andrés_García_Belaunde.jpg"
         }
       ],
       "links": [
@@ -4009,7 +4021,7 @@
       "links": [
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Juan_Díaz_Dios"
+          "url": "https://es.wikipedia.org/wiki/Juan_José_Díaz_Dios"
         },
         {
           "note": "twitter",
@@ -5390,6 +5402,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n82085965",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "240961234",
           "scheme": "nta"
         },
@@ -5406,6 +5422,9 @@
       "images": [
         {
           "url": "http://www.congreso.gob.pe/Storage/tbl_congresistas/fld_47_Fotografia_file/37-t8Nd2Ev7Bv8Ak7P.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Manuel_Dammert_Ego_Aguirre.png"
         }
       ],
       "links": [
@@ -5579,6 +5598,10 @@
         {
           "identifier": "116",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "no2015054360",
+          "scheme": "lcauth"
         },
         {
           "identifier": "315606466",
@@ -8042,7 +8065,7 @@
         },
         {
           "lang": "hi",
-          "name": "स्वतंत्र",
+          "name": "निर्दलीय (राजनेता)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -8199,6 +8222,12 @@
         {
           "lang": "lb",
           "name": "Onofhängeg",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -10713,7 +10742,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1931",
+      "name": "1931 Peruvian general election",
       "start_date": "1931"
     },
     {
@@ -10726,7 +10755,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1939",
+      "name": "1939 Peruvian general election",
       "start_date": "1939-10-22"
     },
     {
@@ -10739,7 +10768,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1945",
+      "name": "1945 Peruvian general election",
       "start_date": "1945-06-10"
     },
     {
@@ -10752,7 +10781,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1950",
+      "name": "1950 Peruvian general election",
       "start_date": "1950-07-02"
     },
     {
@@ -10765,7 +10794,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1956",
+      "name": "1956 Peruvian general election",
       "start_date": "1956-06-17"
     },
     {
@@ -10778,7 +10807,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1962",
+      "name": "1962 Peruvian general election",
       "start_date": "1962-06-10"
     },
     {
@@ -10791,21 +10820,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1963",
+      "name": "1963 Peruvian general election",
       "start_date": "1963-06-09"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1978",
-      "id": "Q5707797",
-      "identifiers": [
-        {
-          "identifier": "Q5707797",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian Constituent Assembly election, 1978",
-      "start_date": "1978"
     },
     {
       "classification": "general election",
@@ -10817,60 +10833,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 1980",
+      "name": "1980 Peruvian general election",
       "start_date": "1980-05-18"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1985-04-14",
-      "id": "Q2370849",
-      "identifiers": [
-        {
-          "identifier": "Q2370849",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian general election, 1985",
-      "start_date": "1985-04-14"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1990-04-08",
-      "id": "Q2370880",
-      "identifiers": [
-        {
-          "identifier": "Q2370880",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian general election, 1990",
-      "start_date": "1990-04-08"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1992",
-      "id": "Q7171152",
-      "identifiers": [
-        {
-          "identifier": "Q7171152",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian Democratic Constituent Congress election, 1992",
-      "start_date": "1992"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1995-04-09",
-      "id": "Q2370864",
-      "identifiers": [
-        {
-          "identifier": "Q2370864",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian general election, 1995",
-      "start_date": "1995-04-09"
     },
     {
       "classification": "general election",
@@ -10882,7 +10846,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 2000",
+      "name": "2000 Peruvian general election",
       "start_date": "2000-04-09"
     },
     {
@@ -10895,34 +10859,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 2001",
+      "name": "2001 Peruvian general election",
       "start_date": "2001-04-08"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2006-04-09",
-      "id": "Q1760317",
-      "identifiers": [
-        {
-          "identifier": "Q1760317",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian general election, 2006",
-      "start_date": "2006-04-09"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2011-04-10",
-      "id": "Q41246",
-      "identifiers": [
-        {
-          "identifier": "Q41246",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Peruvian general election 2011",
-      "start_date": "2011-04-10"
     },
     {
       "classification": "legislative period",
