@@ -60,8 +60,9 @@ class WikidataLookup
           identifier: result.id,
         },
       ],
+      name:        result.label(:en),
       other_names: other_names_for(result),
-    }.merge(other_fields_for(result))
+    }.compact.merge(other_fields_for(result))
   end
 
   def other_names_for(result)
