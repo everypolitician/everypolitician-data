@@ -19,7 +19,8 @@ module Source
                 ).flatten.compact.sort
         next warn "\tNo dates for election #{id} (#{name[:name]})" if dates.empty?
 
-        warn "\tShort date for election #{id} (#{name[:name]})" if dates.all? { |d| d.length < 10 }
+        # warn if a historic election has only year or month precision
+        warn "\tShort date for election #{id} (#{name[:name]})" if dates.all? { |d| d.length < 10 && d[0..3].to_i < DateTime.now.year }
 
         {
           id:             id,
