@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 10,
-    "wikidata": 0
+    "wikidata": 10
   },
   "elections": {
     "count": 11,
@@ -65,6 +65,11 @@
       "file": "manual/terms.csv",
       "type": "term",
       "lastmod": "2019-04-04"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/guyana-assembly-constituencies-wikidata"
     },
     {
       "file": "gender-balance/results.csv",

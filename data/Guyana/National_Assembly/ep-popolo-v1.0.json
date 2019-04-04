@@ -3025,52 +3025,1578 @@
   "areas": [
     {
       "id": "1",
+      "identifiers": [
+        {
+          "identifier": "GY10",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/04tkzs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3379515",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "Q537740",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Barima/Waini",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "باريما - ويني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Барима-Уейни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "বারিমা-ওয়াইনি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Barima-Waini Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπαρίμα-Γουαΐνι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Barima-Waini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "باریما-واینی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "બારીમા-વાઈની",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "बरीमा-वैनी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "バリマ・ワイニ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಬರಿಮಾ-ವೈನಿ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "바리마와이니주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Barima-Vainis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Barima-Vaini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "बरिमा-वेनई",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Барима-Уайни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "බරිමා-වයිනි",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "பரிமா -வைனி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "బరిమా-వైని",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "บาริมา-วาอินิ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Баріма-Вайні",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "باریما واینی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "巴里马-瓦伊尼",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "10",
+      "identifiers": [
+        {
+          "identifier": "GY18",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07m2lw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3375469",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002573",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1309042",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Upper Demerara/Upper Berbice",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أوت ديمارارا بيربيس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "আপার ডেমারারা-বারবিচ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Upper Demerara-Berbice Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Άπερ Ντεμεράρα-Μπερμπίκε",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Upper Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alto Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "دمرارا-بربیک علیا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Haut-Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "અપર ડેમેરારા-બર્બાઈસ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "ऊपरी डेमरारा-बर्बिस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Demerara Hulu-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alto Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アッパー・デメララ＝ベルビセ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಅಪ್ಪರ್ ಡೆಮೆರಾ-ಬರ್ಬಿಸ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "어퍼데메라라버비스주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Aukštutinė Demerara-Berbisas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Augšdemerara-Berbisa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अप्पर डेमेररा-बरबिस",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Alto Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Аппер-Демерара-Бербис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ඉහල දෙමෙරාරා -බර්බිස්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "அப்பர் டெமென்றாரா -பெர்பிஸ்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "అప్పర్ డమెరారా-బెర్బైస్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เดเมอร์อราเบอร์บิสตอนบน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Upper Demerara- Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Верхня Демерара-Бербіс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "بالائی دیمیرارا بربیس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Thượng Demerara-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "上德梅拉拉-伯比斯區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "上德梅拉拉-伯比斯区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "2",
+      "identifiers": [
+        {
+          "identifier": "GY16",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07l3ff",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3376407",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002566",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q680382",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Pomeroon/Supernaam",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بوميرون-سوبنام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Померун-Супенам",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "পোমেরুন-সুপেনাম",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Pomeroon-Supenaam Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Πομερούν-Σουπεναάμ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pomeroon-Supenaam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "پومرون-سوپنام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "પોમેરૂન-સુપેનામ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पोमेरून-सुपनाम",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ポメローン＝スペナーム州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಪೋಮರೂನ್-ಸುಪೀನಾಮ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포메룬수페남주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Pomeronas-Supenamas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Pomerūna-Supenāma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "पोमेरून-सुपेंनाम",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Померун-Супенаам",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "පොමෙරූන්-සුපෙනාම්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "போமெரூன் -சூப்பேனாம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పోమెరూన్-సూపెనామ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เมืองดิงลี",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Померун-Супенаам",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "پومیرون سوپینام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "波默倫-蘇佩納姆區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "波默伦-苏佩纳姆区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "3",
+      "identifiers": [
+        {
+          "identifier": "GY14",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07l39w",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3378741",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002570",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1368802",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Essequibo Islands/West Demerara",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "إقليم جزر ايسيكويبو غرب ديميرارا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "এসেকুইবো আইল্যান্ড",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Essequibo Islands-West Demerara Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Νησιά Εσσεσουίμπο-Γουέστ Ντεμεράρα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Essequibo Islands-West Demerara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Islas Esequibo-Demerara Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "جزایر اسیکوییبو-دمرارا غربی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Îles d'Essequibo-Demerara Occidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "એસેક્યુબો આઇલેન્ડ્સ-વેસ્ટ ડેમેરારા",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "एसेकिबो द्वीपसमूह-पश्चिमी डेमरारा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Pulau Essequibo-Demerara Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Isole Essequibo-Demerara Occidentale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エセキボ諸島＝西デメララ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಈಸ್ಕಿನಿಬೋ ಐಲ್ಯಾಂಡ್ಸ್-ವೆಸ್ಟ್ ಡೆಮೆರಾರಾ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "에세키보아일랜즈웨스트데메라라주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Esekibo salos-Vakarų Demerara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Esekibo salas-Rietumdemerara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "एसेशिबू आइलॅंड्स-वेस्ट डेमेरारा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Kepulauan Essequibo-Demerara Barat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ilhas Essequibo-Demerara Ocidental",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эссекибо-Айлендс-Уэст-Демерара",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "එසේකුයිබෝ දූපත්",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "எஸ்செகுஇபோ இஸ்லாண்ட்ஸ் -மேற்கு   டெமெரரா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఎసెక్విబో దీవులు-పశ్చిమ డెమెరారా",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "หมู่เกาะเอสสิคิวโบเดเมราร่าตะวันตก",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Essequibo Adaları - Batı Demerara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Острови Есекібо-Західна Демерара",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ایسیکویبو جزائر مغربی دیمیرارا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Quần đảo Essequibo Islands (Tây Demerara)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃塞奎博群島-西德梅拉拉區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "埃塞奎博群岛-西德梅拉拉区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "4",
+      "identifiers": [
+        {
+          "identifier": "GY12",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07l355",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3378950",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002571",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1185362",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Demerara/Mahaica",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ديميرارا-مهايكا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Дэмерара-Махайка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Демерара-Махайка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ডেমারারা-মাহিয়াকা",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Demerara-Mahaica Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντεμεράρα-Μαχάικα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Demerara-Mahaica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "دمرارا-ماهایکا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ડેમેરારા-મહૈકા",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "डेमरारा-महाइका",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デメララ・マハイカ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಡೆಮೆರರಾ-ಮಹಾಕಾ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "데메라라마하이카주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Demerara-Mahaika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Demerara-Mahaika",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "डेमेरारा-महाका",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демерара-Махайка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "දෙමෙරාරා මහසියා",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "டெமெரரா -மஹேகா",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "డెమెరారా-మాహైకా",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เดเมอรารา-มาเฮคา",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Demerara- Mahaica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Демерара-Махайка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "دیمیرارا ماہایکا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "德梅拉拉-馬海卡區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "德梅拉拉-马海卡区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "5",
+      "identifiers": [
+        {
+          "identifier": "GY15",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07l1wc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3377274",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002572",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1466671",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mahaica/Berbice",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Махайка-Бърбайс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Mahaica-Berbice Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mahaica-Berbice",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ماهایکا-بربیک",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マハイカ＝ベルビセ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "마하이카버비스주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Mahaika-Berbisas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Махайка-Бербис",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Махайка-Бербіс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "ماہایکا بربیس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "馬海卡-伯比斯區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "马海卡-伯比斯区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "馬海卡-伯比斯區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "馬海卡-伯比斯區",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "6",
+      "identifiers": [
+        {
+          "identifier": "GY13",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/075wb5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3378840",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002574",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1277758",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Berbice/Corentyne",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "شرق بيربيس كورتين",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ইস্ট বারবিচ-করেনটাইন",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "East Berbice-Corentyne Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ήστ Μπερμπίκε-Κορεντίνε",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "East Berbice-Corentyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Berbice Oriental-Corentyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "بربیک شرقی-کورنتاین",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Berbice oriental-Courantyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "ઇસ્ટ બેર્બિસ-કોરેન્ટીન",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "ईस्ट बेर्बिस-कोरेंटीन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Berbice-Corentyne Timur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Berbice Orientale-Corentyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "東ベルビセ＝コレンティネ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಈಸ್ಟ್ ಬರ್ಬೀಸ್-ಕೊರೆಂಟೈನ್",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "이스트버비스코렌타인주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Rytų Berbisas-Koranteinas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Austrumberbisa-Koranteina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "ईस्ट बेर्बाइस-कोरनेटीन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Berbice Oriental-Corentyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ист-Бербис-Корентайн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "නැගෙනහිර බර්බයිස් කොරෙන්ට්ය්නේ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "கிழக்கு  பெர்பிஸ் -காரெண்ட்டின்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "తూర్పు బెర్బైస్-కోరెంటైన్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "อีส เบอไบซ์ โคเร็นไทร์",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Doğu Berbice-County",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Східний Бербіс-Корентайн",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "مشرقی بربیس کورینتینے",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đông Berbice-Corentyne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "东伯比斯-科兰太因",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "7",
+      "identifiers": [
+        {
+          "identifier": "GY11",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/06qt4c",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3379023",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002567",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1146777",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Cuyuni/Mazaruni",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "كويوني مازاروني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Каюни-Мазаруни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "কুয়ুনি-মাজারুনি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Cuyuni-Mazaruni Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Κουγιούνι-Μαζαρούνι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cuyuni-Mazaruni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کویونی-مازارونی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "કુયૂની-મઝારૂની",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "कुयूनी-मज़ारूनी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クユニ＝マザルニ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಕುಯುನಿ-ಮಝರುನಿ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "쿠유니마자루니주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Kujunis-Mazarunis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Kujuni-Mazaruni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "क्युनी-मझारुनी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Куюни-Мазаруни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "කුයිනි මාසරූනි",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சுயூனி -மாசாருநி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "కయూని-మజరునై",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "คูยูนี-มาซารูนี",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Cuyuni-Maarauni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Куюні-Мазаруні",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "کویونی مازارونی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "庫尤尼-馬扎魯尼區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "库尤尼-马扎鲁尼区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "8",
+      "identifiers": [
+        {
+          "identifier": "GY17",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07m2sj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3376386",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002568",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1454035",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Potaro/Siparuni",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بوتارو سيباروني",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Потаро-Сипаруни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "পোতারো সিপারুনি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Potaro-Siparuni Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ποτάρο-Σιπαρούνι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Potaro-Siparuni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "پوتارو-سیپارونی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "પોટારો-સિપરુનિ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पोटारो-सिपारुनी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ポタ＝シパルニ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಪೋಟೋರೋ-ಸಿಪರುನಿ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "포타로시파루니주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Potaras-Siparunis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "पोट्रो-सिपरुन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Потаро-Сипаруни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "පොටාරෝ-සිපරුනි",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "போடரோ-சிபருணி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పోటారో-సిపారుని",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "โปตาโร สิปารูนิ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Потаро-Сипаруні",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "پوتارو سیپارونی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "波塔羅-錫帕魯尼區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "波塔罗-锡帕鲁尼区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "9",
+      "identifiers": [
+        {
+          "identifier": "GY19",
+          "scheme": "fips"
+        },
+        {
+          "identifier": "/m/07p670",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "3375463",
+          "scheme": "geonames"
+        },
+        {
+          "identifier": "7002569",
+          "scheme": "tgn"
+        },
+        {
+          "identifier": "Q1516381",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Upper Takutu/Upper Essequibo",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أبر كاتوكو - أبر ايسيكوبيو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "আপার টাকুটু-আপার এসেকুইবো",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Upper Takutu-Upper Essequibo Region",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Άπερ Τακούτου-Άπερ Εσεκουίμπο",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Upper Takutu-Upper Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alto Tacutu-Alto Esequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تاکوتو بالا- اسیکوییبو بالا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Haut-Takutu-Haut-Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "અપર ટકુટુ-અપર એસેકુબો",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "ऊपरी टकूटू-ऊपरी एसेकिबो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Takutu Hulu-Essequibo Hulu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alto Takutu-Alto Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アッパー・タクトゥ＝アッパー・エセキボ州",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಅಪ್ಪರ್ ಟಕುತು-ಅಪ್ಪರ್ ಎಸ್ಸಿಸ್ಟಿಬೊ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "어퍼타쿠투어퍼에세키보주",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Aukštutinis Takutu-Aukštutinis Esekibas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Augštakutu-Augšesekibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "अप्पर टोकुतू-अप्पर इस्कोवबो",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Alto Takutu-Alto Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Аппер-Такуту-Аппер-Эссекибо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "ඉහල ටකුටු -ඉහල එසේකුයිබෝ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Upper Takatu-Upper Esseqiubo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "அப்பர் டாகுது-அப்பர்  எஸ்ஸேகுஇபோ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "అప్పర్ టకూటూ-అప్పర్ ఎసెక్విబో",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ทาคูตูตอนบน-สคิวโบตอนบน",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Upper Takutu- Upper Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Верхнє Такуту-Верхня Есекібо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "بالائی تاکوتو بالائی ایسیکویبو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Thượng Takutu-Thượng Essequibo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "上塔库图-上埃塞奎博",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hans",
+          "name": "上塔库图-上埃塞奎博",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "上塔庫圖-上埃塞奎博",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hk",
+          "name": "上塔庫圖-上埃塞奎博",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
