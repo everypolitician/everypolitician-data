@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/guyana-assembly-p39s",
-        "query": "SELECT * FROM data WHERE term >= 11 ORDER BY id"
+        "query": "SELECT id,constituency_id,party_id,start_date,end_date,term FROM data WHERE term >= 11 ORDER BY id"
       },
       "source": "http://wikidata.org/",
       "type": "membership",
