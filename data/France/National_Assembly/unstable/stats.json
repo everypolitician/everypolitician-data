@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1552,
-    "wikidata": 1167,
+    "wikidata": 1542,
     "latest_term": {
       "count": 586,
-      "wikidata": 433,
+      "wikidata": 586,
       "images": 586,
       "contacts": {
         "email": 0,
-        "facebook": 205,
-        "twitter": 524
+        "facebook": 277,
+        "twitter": 540
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2018-04-15"
   },
   "positions": {
-    "cabinet": 91
+    "cabinet": 117
   },
   "sources": [
     {
@@ -55,7 +55,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/france-chamber-of-deputies-wikidata",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-04"
     },
     {
       "file": "manual/terms.csv",
@@ -83,12 +83,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-04"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-04"
     }
   ]
 }
