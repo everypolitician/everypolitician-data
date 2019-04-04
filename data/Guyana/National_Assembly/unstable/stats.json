@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 2,
+    "count": 4,
     "wikidata": 2
   },
   "terms": {
@@ -35,14 +35,20 @@
   },
   "sources": [
     {
-      "file": "morph/official.csv",
+      "file": "morph/p39s.csv",
       "type": "membership",
+      "scraper": "everypolitician-scrapers/guyana-assembly-p39s",
+      "lastmod": "2019-04-04"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
       "scraper": "tmtmtmtm/guyana-parliament",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-04"
     },
     {
       "file": "archive/official-term-11.csv",
-      "type": "membership",
+      "type": "person",
       "lastmod": "2019-04-04"
     },
     {
@@ -53,7 +59,7 @@
     {
       "file": "manual/honorific_prefix.csv",
       "type": "person",
-      "lastmod": "2016-09-09"
+      "lastmod": "2019-04-04"
     },
     {
       "file": "morph/wikidata.csv",
