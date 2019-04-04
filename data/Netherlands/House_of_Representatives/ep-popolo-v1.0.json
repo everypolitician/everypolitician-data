@@ -6126,6 +6126,12 @@
     },
     {
       "birth_date": "1961-05-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "TimmermansEU"
+        }
+      ],
       "family_name": "Timmermans",
       "gender": "male",
       "given_name": "Frans",
@@ -6150,6 +6156,10 @@
         {
           "identifier": "n2010072634",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "frans-timmermans",
+          "scheme": "ne_se"
         },
         {
           "identifier": "229369448",
@@ -6290,6 +6300,10 @@
         {
           "note": "Wikiquote (pl)",
           "url": "https://pl.wikiquote.org/wiki/Frans_Timmermans"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/TimmermansEU"
         }
       ],
       "name": "Frans Timmermans",
@@ -23330,6 +23344,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "it",
+          "name": "Forum per la Democrazia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Democracy forum",
           "note": "multilingual",
@@ -23344,6 +23364,12 @@
         {
           "lang": "nl",
           "name": "FVD",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "it",
+          "name": "FvD",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
