@@ -236,16 +236,15 @@
           "url": "https://ru.wikipedia.org/wiki/Рамсаран,_Бери_Сигмонд"
         }
       ],
-      "name": "Bheri S. Ramsarran",
+      "name": "Bheri Sygmond Ramsaran",
       "other_names": [
+        {
+          "name": "Bheri S. Ramsarran",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "بهيري رامساران",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Bheri Sygmond Ramsaran",
           "note": "multilingual"
         },
         {
@@ -705,12 +704,11 @@
           "url": "https://en.wikipedia.org/wiki/Barton_Scotland"
         }
       ],
-      "name": "Barton U.A. Scotland, C.C.H",
+      "name": "Barton Scotland",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Barton Scotland",
-          "note": "multilingual"
+          "name": "Barton U.A. Scotland, C.C.H",
+          "note": "alternate"
         }
       ]
     },
@@ -1723,12 +1721,11 @@
           "url": "http://parliament.gov.gy/images/member_photos/152/raphael_g.c.trotman.jpg"
         }
       ],
-      "name": "Raphael G.C.Trotman",
+      "name": "Raphael G.C. Trotman",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Raphael G.C. Trotman",
-          "note": "multilingual"
+          "name": "Raphael G.C.Trotman",
+          "note": "alternate"
         }
       ]
     },
@@ -1783,12 +1780,11 @@
           "url": "https://la.wikipedia.org/wiki/Carolus_Barrington_Greenidge"
         }
       ],
-      "name": "Carl B. Greenidge",
+      "name": "Carl Barrington Greenidge",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Carl Barrington Greenidge",
-          "note": "multilingual"
+          "name": "Carl B. Greenidge",
+          "note": "alternate"
         },
         {
           "lang": "ja",
@@ -1855,7 +1851,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "A Party For National Unity + Alliance For Change",
+      "name": "A Partnership for National Unity",
       "other_names": [
         {
           "lang": "en",
@@ -1876,6 +1872,11 @@
           "source": "wikidata-label"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "Q327591",
+      "name": "independent politician"
     },
     {
       "classification": "legislature",
@@ -1906,7 +1907,7 @@
           "url": "http://www.ppp-civic.org"
         }
       ],
-      "name": "People Progressive Party/Civic",
+      "name": "People's Progressive Party",
       "other_names": [
         {
           "lang": "de",
@@ -2062,12 +2063,13 @@
     },
     {
       "classification": "party",
-      "id": "unkown",
-      "name": "Unknown"
+      "id": "Q1758037",
+      "name": "speaker"
     }
   ],
   "meta": {
     "sources": [
+      "http://wikidata.org/",
       "http://parliament.gov.gy/"
     ]
   },
@@ -2077,60 +2079,35 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "0ca3d01e-f74b-4610-8768-077260101426",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-rupert-roopnarine/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "10fdc05b-0a25-4f5e-a8c4-7ea53065d7de",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/indranie-chandarpal/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "12e87f9b-6d5f-4a8f-90a7-6fddf8844039",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/frank-anthony/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "1395ba90-5dc7-45e9-ad98-6bdab4065a14",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/bishop-juan-a-edghill/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "146db39d-9ebb-413c-8aaa-43efd4f40896",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-nicolette-o-henry-mp/"
-        }
-      ]
+      "role": "member"
     },
     {
       "end_date": "2016-09-30",
@@ -2138,24 +2115,14 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/charles-s-ramson/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "1daf4b15-5904-4172-ae02-0e59f4b91e52",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/odinga-lumumba/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "942f7dee-4376-47a6-a3d0-edea433a9671",
@@ -2163,36 +2130,21 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "1dc9bce6-02dc-4813-a102-eadf1b7765b3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-cornel-damon/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "207279bd-142c-4ec2-a911-7b58dbe9b93d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-karen-cummings/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "22e0caf7-bb4e-40ea-ad8e-6c5315a9d34a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/bheri-ramsarran/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "76fd6aa8-6b90-4e09-8452-8ae83f21ca54",
@@ -2200,12 +2152,7 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "253800d3-de4e-43ac-9947-2aff8e9002a3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-jennifer-westford/"
-        }
-      ]
+      "role": "member"
     },
     {
       "end_date": "2016-11-02",
@@ -2213,12 +2160,7 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "2e062152-3c11-4af3-be84-c9282d29bbed",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/clive-r.-jagan/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "2bfbbce3-bfac-47e2-b60e-d2f54c034d40",
@@ -2226,24 +2168,14 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "41537a83-212a-4a19-a475-4e3cb261e7fe",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-komal-chand/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "417ca7aa-5e4d-4ee3-b410-5a69bb3abcf8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/annette-ferguson/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "43532cbc-1b78-4a53-94dc-2485ab905e1c",
@@ -2251,12 +2183,7 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "4543a12e-0d76-4c5f-acd7-e21ddc4b3ee0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-jermaine-figueira-mp/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "0a1175e1-2a66-4328-a1ad-9159876309f1",
@@ -2264,36 +2191,21 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "45716acd-ceb2-47aa-84e2-092f728203dd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-basil-williams/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "47c91a7b-7fc0-4060-8195-f5101766e096",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dharamkumar-seeraj/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "48b9cc62-2222-4118-9b28-47945fcfaa30",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/sheila-veersammy/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "76fd6aa8-6b90-4e09-8452-8ae83f21ca54",
@@ -2301,24 +2213,14 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "4c50155f-0ffb-4c3b-8fd1-81ec4fad9fa8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mrs-dawn-hastings-williams/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "4db68f31-1619-4cfa-8103-9c8c0feeeb50",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/clement-rohee/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "4354c04b-a90b-4131-931d-b14c169384e4",
@@ -2326,48 +2228,28 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "516316a2-d035-4e76-bd27-75480056b91c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/collin-d-croal/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "52bd767f-65e9-466e-a0a8-02d922022381",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/pauline-campbell-sukhai/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "596d01b1-275e-40d3-96c0-e66beb92c854",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/kathy-hughes/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "5f5b39c3-cc01-4e89-a75b-a33cc0e35cc8",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/winston-felix/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "e894a583-f715-46b4-b37b-80accc4467e5",
@@ -2375,12 +2257,7 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6d2f785f-0205-471a-830f-2d8977b40047",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/alister-s-charlie/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "2bfbbce3-bfac-47e2-b60e-d2f54c034d40",
@@ -2388,12 +2265,7 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6d8fb690-a0b2-47bd-aa93-295ce57b49bd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-john-adams/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "0a1175e1-2a66-4328-a1ad-9159876309f1",
@@ -2401,72 +2273,42 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6db2c684-e256-4b7b-83fd-49a9c7cdaf10",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gillian-r-persaud/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6e76beec-cc56-4723-ade3-32951886d5e3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/khemraj-ramjattan/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6e8d9733-022a-4836-8652-3c840778540e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-audwin-rutherford-mp/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "6fbe5be8-3f37-4e71-9367-90b0f2af8291",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ronald-bulkan/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
+      "on_behalf_of_id": "Q1758037",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7195abfc-75bd-426c-9e2c-67d6b758c8bd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-barton-scotland/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "731c6431-e8f0-4c33-bf83-67df38f5da1a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/sydney-c-allicock/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "25db02fd-ed9f-46c5-867c-c2c7e3c0fa44",
@@ -2474,36 +2316,21 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7bb9c2c1-f8a4-4f73-8a92-ee8236b90057",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mustapha-zulfikar/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7c55dda1-d45a-4ee4-b6ed-f45db7668758",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms-amna-ally/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7df71e89-208b-4f00-8afd-a7e4077f873b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms-africo-selman/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "78483196-617b-48a2-b1ab-25dcdd7798a0",
@@ -2511,24 +2338,14 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7fa60b3e-33c8-48a7-90cb-e7ddf03d7b2d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/priya-manickchand/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "7ff58b64-47c4-461a-94d6-ce7e16ad3188",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-george-norton/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "2bfbbce3-bfac-47e2-b60e-d2f54c034d40",
@@ -2536,12 +2353,7 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "81274e1d-c3d1-43b1-8dde-9159f1dbe30a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mohamed-irfaan-ali/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "0a1175e1-2a66-4328-a1ad-9159876309f1",
@@ -2549,36 +2361,21 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "82c00bc0-60aa-46df-b5f9-0c2694b3726b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-jaipaul-sharma/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "8b1c050b-209a-4955-b7d0-b4d6a095fe29",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/gail-teixeira/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "8c0b33a7-14d0-4719-baa0-3ac6b353382b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-vindhya-vasini-persaud/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "78483196-617b-48a2-b1ab-25dcdd7798a0",
@@ -2586,48 +2383,28 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "99690204-9755-4a59-a0b6-69ab4a8aa50f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms-jennifer-wade/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "9a23bf52-9338-4deb-9b32-270195db3755",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/nigel-d-dharamlall/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "9aa3d151-1000-4929-a342-679dd6363f03",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/bharrat-jagdeo/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "9f88b8d2-91a3-4047-a673-b9612452cba6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/moses-v-nagamootoo/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "0a1175e1-2a66-4328-a1ad-9159876309f1",
@@ -2635,12 +2412,7 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "a2b5eed6-b238-4189-8342-9bdbe38a7469",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mrs-volda-lawrence/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "345fb3e4-dd78-4537-b1fb-24368dce4abb",
@@ -2648,96 +2420,56 @@
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "a797da0b-10b8-4532-b498-427a076ae9ab",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms-rajcoomarie-bancroft/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "a81c2030-dc7d-4639-acc7-00939fb166a4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-mr-dominic-gaskin/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "aac50e95-03c8-4333-89d1-7012b4eb1d30",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/valerie-garrido-lowe/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "ad5c508f-3ecf-4456-b8e9-e7900a76d0c0",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-simona-broomes-mp/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "b0a565e3-46df-40ce-94f7-817a333d7da1",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-mr-winston-dacosta-jordan/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "bda29a61-bdb0-4af1-8be5-8da2d48d6306",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/keith-scott/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "ccf3509f-d3d8-42ed-9b34-9bcf5246e304",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-mr-noel-holder/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "d48c0df9-2dd5-4839-a117-08a437abb58a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/yvonne-p-fredericks/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "25db02fd-ed9f-46c5-867c-c2c7e3c0fa44",
@@ -2745,123 +2477,73 @@
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "d539f4b9-cf70-4c06-9447-8971fc9a21ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/dr-vishwa-db-mahadeo/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "25db02fd-ed9f-46c5-867c-c2c7e3c0fa44",
       "end_date": "2018-12-21",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "dc7716ce-be97-4465-b1c2-790d7e135720",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/mr-charrandaspersaud/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "dd736f4c-8fb8-43b7-a63e-47918c27df43",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ganga-persaud/"
-        }
-      ]
+      "role": "member"
     },
     {
       "area_id": "43532cbc-1b78-4a53-94dc-2485ab905e1c",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "unkown",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "dd9c9634-2798-4e0c-9d57-dd7b1921cf9c",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/ms-valarie-patterson/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "de600456-bb0f-4d27-a02c-9296cb5c57d4",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/lt-col-ret-joseph-harmon/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "ebd8ea54-55ac-45fe-a056-bddf8249bb6a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/raphael-gctrotman/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "fb6be5bb-c05a-423f-ab9a-fac707b277e3",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/harry-gill/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "fd6f9612-e2b2-4a44-b8aa-5299436db772",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/carl-greenidge/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "79a79a98-b9f8-41b2-af5b-8369100f6dac",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "fd8abb07-04bf-4bc3-89ba-33609fa12cdd",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/adrian-v-anamayah/"
-        }
-      ]
+      "role": "member"
     },
     {
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "5ab5edcc-6236-4130-b2e4-2c589a212e79",
       "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
       "person_id": "fefaffd3-6665-486b-a608-fea8df088201",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-david-petterson/"
-        }
-      ]
+      "role": "member"
     }
   ],
   "events": [
@@ -3047,7 +2729,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Demerara/Mahaica",
+      "name": "Demerara-Mahaica",
       "other_names": [
         {
           "lang": "ar",
@@ -3077,11 +2759,6 @@
         {
           "lang": "el",
           "name": "Ντεμεράρα-Μαχάικα",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Demerara-Mahaica",
           "note": "multilingual"
         },
         {
@@ -3206,7 +2883,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "East Berbice/Corentyne",
+      "name": "East Berbice-Corentyne",
       "other_names": [
         {
           "lang": "ar",
@@ -3226,11 +2903,6 @@
         {
           "lang": "el",
           "name": "Ήστ Μπερμπίκε-Κορεντίνε",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "East Berbice-Corentyne",
           "note": "multilingual"
         },
         {
@@ -3380,7 +3052,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Essequibo Islands/West Demerara",
+      "name": "Essequibo Islands-West Demerara",
       "other_names": [
         {
           "lang": "ar",
@@ -3400,11 +3072,6 @@
         {
           "lang": "el",
           "name": "Νησιά Εσσεσουίμπο-Γουέστ Ντεμεράρα",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Essequibo Islands-West Demerara",
           "note": "multilingual"
         },
         {
@@ -3564,7 +3231,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Potaro/Siparuni",
+      "name": "Potaro-Siparuni",
       "other_names": [
         {
           "lang": "ar",
@@ -3589,11 +3256,6 @@
         {
           "lang": "el",
           "name": "Ποτάρο-Σιπαρούνι",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Potaro-Siparuni",
           "note": "multilingual"
         },
         {
@@ -3708,7 +3370,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Upper Demerara/Upper Berbice",
+      "name": "Upper Demerara-Berbice",
       "other_names": [
         {
           "lang": "ar",
@@ -3728,11 +3390,6 @@
         {
           "lang": "el",
           "name": "Άπερ Ντεμεράρα-Μπερμπίκε",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Upper Demerara-Berbice",
           "note": "multilingual"
         },
         {
@@ -3883,7 +3540,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Barima/Waini",
+      "name": "Barima-Waini",
       "other_names": [
         {
           "lang": "ar",
@@ -3908,11 +3565,6 @@
         {
           "lang": "el",
           "name": "Μπαρίμα-Γουαΐνι",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Barima-Waini",
           "note": "multilingual"
         },
         {
@@ -4027,7 +3679,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Cuyuni/Mazaruni",
+      "name": "Cuyuni-Mazaruni",
       "other_names": [
         {
           "lang": "ar",
@@ -4052,11 +3704,6 @@
         {
           "lang": "el",
           "name": "Κουγιούνι-Μαζαρούνι",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Cuyuni-Mazaruni",
           "note": "multilingual"
         },
         {
@@ -4181,7 +3828,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Mahaica/Berbice",
+      "name": "Mahaica-Berbice",
       "other_names": [
         {
           "lang": "bg",
@@ -4191,11 +3838,6 @@
         {
           "lang": "ceb",
           "name": "Mahaica-Berbice Region",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Mahaica-Berbice",
           "note": "multilingual"
         },
         {
@@ -4280,7 +3922,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Pomeroon/Supernaam",
+      "name": "Pomeroon-Supenaam",
       "other_names": [
         {
           "lang": "ar",
@@ -4305,11 +3947,6 @@
         {
           "lang": "el",
           "name": "Πομερούν-Σουπεναάμ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Pomeroon-Supenaam",
           "note": "multilingual"
         },
         {
@@ -4429,7 +4066,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Upper Takutu/Upper Essequibo",
+      "name": "Upper Takutu-Upper Essequibo",
       "other_names": [
         {
           "lang": "ar",
@@ -4449,11 +4086,6 @@
         {
           "lang": "el",
           "name": "Άπερ Τακούτου-Άπερ Εσεκουίμπο",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Upper Takutu-Upper Essequibo",
           "note": "multilingual"
         },
         {

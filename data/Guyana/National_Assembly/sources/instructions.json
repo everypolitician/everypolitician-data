@@ -1,20 +1,41 @@
 {
   "sources": [
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/guyana-assembly-p39s",
+        "query": "SELECT * FROM data WHERE term >= 11 ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership",
+      "sourcetype": "wikidata"
+    },
+    {
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/guyana-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id,honorific_prefix,name,gender,image FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
       },
       "source": "http://parliament.gov.gy/",
-      "type": "membership",
+      "type": "person",
       "sourcetype": "official"
     },
     {
       "file": "archive/official-term-11.csv",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-term-11.csv"
+      },
       "source": "http://parliament.gov.gy/",
-      "type": "membership",
+      "type": "person",
       "sourcetype": "official"
     },
     {
