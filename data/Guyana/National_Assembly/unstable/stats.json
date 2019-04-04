@@ -1,14 +1,14 @@
 {
   "people": {
     "count": 64,
-    "wikidata": 0,
+    "wikidata": 64,
     "latest_term": {
       "count": 64,
-      "wikidata": 0,
+      "wikidata": 64,
       "images": 64,
       "contacts": {
         "email": 0,
-        "facebook": 0,
+        "facebook": 1,
         "twitter": 0
       }
     }
@@ -56,6 +56,12 @@
       "lastmod": "2016-09-09"
     },
     {
+      "file": "morph/wikidata.csv",
+      "type": "wikidata",
+      "scraper": "everypolitician-scrapers/guyana-assembly-members-wikidata",
+      "lastmod": "2019-04-04"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term",
       "lastmod": "2019-04-04"
@@ -68,7 +74,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-02"
+      "lastmod": "2019-04-04"
     },
     {
       "file": "wikidata/elections.json",
