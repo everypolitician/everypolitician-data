@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 612,
-    "wikidata": 578,
+    "wikidata": 431,
     "latest_term": {
       "count": 211,
-      "wikidata": 211,
+      "wikidata": 162,
       "images": 204,
       "contacts": {
         "email": 209,
-        "facebook": 49,
-        "twitter": 139
+        "facebook": 40,
+        "twitter": 105
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2019"
   },
   "positions": {
-    "cabinet": 145
+    "cabinet": 113
   },
   "sources": [
     {
@@ -55,7 +55,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/denmark-folketing-wikidata",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-04-02"
     },
     {
       "file": "manual/terms.csv",
@@ -72,17 +72,17 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/denmark-positions",
-      "lastmod": "2019-03-07"
+      "lastmod": "2019-04-02"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-02-25"
+      "lastmod": "2019-04-02"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-02-12"
+      "lastmod": "2019-04-02"
     }
   ]
 }
