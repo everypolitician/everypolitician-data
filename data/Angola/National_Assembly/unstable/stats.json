@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 343,
-    "wikidata": 15,
+    "count": 272,
+    "wikidata": 11,
     "latest_term": {
-      "count": 220,
-      "wikidata": 12,
-      "images": 220,
+      "count": 80,
+      "wikidata": 5,
+      "images": 80,
       "contacts": {
         "email": 0,
         "facebook": 0,
@@ -23,7 +23,7 @@
     "wikidata": 2
   },
   "areas": {
-    "count": 66,
+    "count": 50,
     "wikidata": 0
   },
   "elections": {
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/angola-national-assembly-wikidata",
-      "lastmod": "2019-03-25"
+      "lastmod": "2019-03-28"
     },
     {
       "file": "manual/terms.csv",
@@ -70,7 +70,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-03-25"
+      "lastmod": "2019-03-28"
     }
   ]
 }
