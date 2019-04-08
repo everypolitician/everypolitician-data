@@ -610,7 +610,6 @@
     },
     {
       "birth_date": "1995-06-27",
-      "family_name": "Vlasov",
       "gender": "male",
       "given_name": "Vasily",
       "id": "035ac4de-203a-4e83-81e9-58d2c3d6647a",
@@ -3300,6 +3299,7 @@
     },
     {
       "birth_date": "1952-01-05",
+      "death_date": "2019-04-08",
       "family_name": "Lichatschow",
       "gender": "male",
       "given_name": "Vasily",
@@ -3351,6 +3351,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Лихачёв,_Василий_Николаевич"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Vasily_Likhachyov"
         },
         {
           "note": "Wikipedia (tt)",
@@ -16568,9 +16572,6 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/256/256f730df40d2116dc33699b8ebb8080.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Виталий_Пашин.jpg"
         }
       ],
       "links": [
@@ -20436,6 +20437,10 @@
         {
           "note": "Wikiquote (uk)",
           "url": "https://uk.wikiquote.org/wiki/Ніконов_В'ячеслав_Олексійович"
+        },
+        {
+          "note": "website",
+          "url": "http://v-nikonov.ru/"
         }
       ],
       "name": "Никонов Вячеслав Алексеевич",
@@ -24209,9 +24214,10 @@
     },
     {
       "birth_date": "1949-08-06",
+      "death_date": "2019-04-05",
       "family_name": "Kovalyov",
       "gender": "male",
-      "given_name": "Nikolay",
+      "given_name": "Nikolai",
       "id": "7acd321b-f067-400c-a3ec-72556736af8f",
       "identifiers": [
         {
@@ -24237,13 +24243,17 @@
           "url": "http://www.duma.gov.ru/upload/iblock/031/0317e7a485e198ac1e2ba7a5e40ab3e7.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Nikolai_Kovalev_20_April_2006.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nikolay_Dmitrievich_Kovalyov.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Nikolai_Kovalev"
+        },
+        {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Николай_Ковалёв_(1949—2019)"
         },
         {
           "note": "Wikipedia (de)",
@@ -24276,6 +24286,14 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ковалёв,_Николай_Дмитриевич"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Nikolay_Kovalyov_(politician)"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Микола_Дмитрович_Ковальов"
         }
       ],
       "name": "Ковалев Николай Дмитриевич",
@@ -24283,6 +24301,11 @@
         {
           "name": "Ковалёв, Николай Дмитриевич",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نيكولاي كوفاليوف",
+          "note": "multilingual"
         },
         {
           "lang": "ca",
@@ -24316,7 +24339,7 @@
         },
         {
           "lang": "ja",
-          "name": "ニコライ・コヴァレフ",
+          "name": "ニコライ・コヴァリョフ",
           "note": "multilingual"
         },
         {
@@ -32194,6 +32217,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Boris_Chernyshov"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Борис_Чернышов"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Boris_Chernyshov"
         },
@@ -36315,6 +36342,11 @@
         {
           "lang": "ru",
           "name": "Зугура Ягануровна Рахматуллина",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Рахматулліна Зугура Яганурівна",
           "note": "multilingual"
         }
       ]
@@ -42294,6 +42326,11 @@
           "lang": "ru",
           "name": "Сергей Георгиевич Левченко",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "谢尔盖·格里戈里耶维奇·列夫琴科",
+          "note": "multilingual"
         }
       ]
     },
@@ -47609,6 +47646,11 @@
         {
           "name": "Муравленко, Сергей Викторович",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sergei Wiktorowitsch Murawlenko",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -53021,7 +53063,8 @@
           "note": "multilingual",
           "source": "wikidata-alias"
         }
-      ]
+      ],
+      "srgb": "DDDDDD"
     },
     {
       "classification": "party",
