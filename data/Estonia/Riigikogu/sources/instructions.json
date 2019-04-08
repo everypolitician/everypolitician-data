@@ -35,9 +35,8 @@
       },
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name",
-        "existing_field": "name",
-        "reconciliation_file": "reconciliation/wikidata.csv"
+        "incoming_field": "id",
+        "existing_field": "id"
       }
     },
     {
