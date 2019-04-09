@@ -1280,6 +1280,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1171004737",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "93648",
           "scheme": "gtaa"
         },
@@ -5575,6 +5579,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Thierry_Baudet"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Боде,_Тьерри"
         },
         {
           "note": "Wikipedia (simple)",
@@ -10669,7 +10677,14 @@
           "url": "https://twitter.com/ahmedmarcouch"
         }
       ],
-      "name": "Ahmed Marcouch"
+      "name": "Ahmed Marcouch",
+      "other_names": [
+        {
+          "lang": "be-tarask",
+          "name": "Агмэд Маркуш",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-04-07",
@@ -17466,6 +17481,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Sander_Dekker"
+        },
+        {
+          "note": "Wikipedia (li)",
+          "url": "https://li.wikipedia.org/wiki/Sander_Dekker"
         },
         {
           "note": "Wikipedia (nl)",
@@ -24711,7 +24730,8 @@
           "note": "multilingual",
           "source": "wikidata-alias"
         }
-      ]
+      ],
+      "srgb": "DDDDDD"
     },
     {
       "classification": "party",
