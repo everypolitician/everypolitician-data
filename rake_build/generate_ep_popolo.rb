@@ -15,7 +15,7 @@ namespace :transform do
   CLEAN.include(POPOLO_JSON, 'final.json')
 
   task load: MERGED_JSON do
-    @json = JSON.parse(MERGED_JSON.read, symbolize_names: true)
+    @json = EveryPolitician::GeneratedFile::MergedJSON.new(MERGED_JSON).json
   end
 
   task :write do
