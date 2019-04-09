@@ -31,14 +31,6 @@ namespace :transform do
     raise "Legislature count = #{legis.count}" unless legis.count == 1
 
     @legislature = legis.first
-
-    # Remake 'chamber' memberships to the full legislature
-    @json[:organizations].select { |h| h[:classification] == 'chamber' }.each do |c|
-      @json[:memberships].select { |m| m[:organization_id] == c[:id] }.each do |m|
-        m[:organization_id] = @legislature[:id]
-      end
-    end
-    @json[:organizations].delete_if { |h| h[:classification] == 'chamber' }
   end
 
   #---------------------------------------------------------------------
@@ -180,8 +172,7 @@ namespace :transform do
 
   task write: :ensure_behalf_of
   task ensure_behalf_of: :ensure_legislature do
-    leg_ids = @json[:organizations].select { |o| %w[legislature chamber].include? o[:classification] }.map { |o| o[:id] }
-    @json[:memberships].select { |m| m[:role] == 'member' && leg_ids.include?(m[:organization_id]) }.each do |m|
+    @json[:memberships].select { |m| m[:role] == 'member' }.each do |m|
       m[:on_behalf_of_id] = unknown_party[:id] if m[:on_behalf_of_id].to_s.empty?
     end
   end
