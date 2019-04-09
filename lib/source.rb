@@ -62,7 +62,6 @@ module Source
       chamber:         %w[house],
       death_date:      %w[dod date_of_death],
       end_date:        %w[end ended until to],
-      executive:       %w[post],
       family_name:     %w[last_name surname lastname],
       fax:             %w[facsimile],
       gender:          %w[sex],

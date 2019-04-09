@@ -5,7 +5,6 @@ require 'deep_merge'
 #-----------------------------------------------------------------------
 # Transform the results from generic CSV-to-Popolo into EP-Popolo
 #
-#   - remove all Executive Memberships
 #   - remove duplicated names
 #   - merge legislature data from meta.json
 #     - ensure all legislative memberships are on that
@@ -28,10 +27,6 @@ namespace :transform do
   #---------------------------------------------------------------------
   task write: :ensure_legislature
   task ensure_legislature: :load do
-    # Clean out legislative memberships
-    @json[:memberships].delete_if { |m| m[:organization_id] == 'executive' }
-    @json[:organizations].delete_if { |h| h[:classification] == 'executive' }
-
     legis = @json[:organizations].select { |h| h[:classification] == 'legislature' }
     raise "Legislature count = #{legis.count}" unless legis.count == 1
 
