@@ -59,7 +59,6 @@ module Source
       birth_date:      %w[dob date_of_birth],
       blog:            %w[weblog],
       cell:            %w[mob mobile cellphone],
-      chamber:         %w[house],
       death_date:      %w[dod date_of_death],
       end_date:        %w[end ended until to],
       family_name:     %w[last_name surname lastname],
