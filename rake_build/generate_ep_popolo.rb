@@ -15,7 +15,9 @@ namespace :transform do
   CLEAN.include(POPOLO_JSON, 'final.json')
 
   task load: MERGED_JSON do
-    @json = EveryPolitician::GeneratedFile::MergedJSON.new(MERGED_JSON).json
+    @mergefile = EveryPolitician::GeneratedFile::MergedJSON.new(MERGED_JSON)
+    @legislature = @mergefile.legislature
+    @json = @mergefile.json
   end
 
   task :write do
@@ -23,21 +25,10 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Rule: There must be a single legislature
-  #---------------------------------------------------------------------
-  task write: :ensure_legislature
-  task ensure_legislature: :load do
-    legis = @json[:organizations].select { |h| h[:classification] == 'legislature' }
-    raise "Legislature count = #{legis.count}" unless legis.count == 1
-
-    @legislature = legis.first
-  end
-
-  #---------------------------------------------------------------------
   # Set legislature data from meta.json file
   #---------------------------------------------------------------------
   task write: :name_legislature
-  task name_legislature: :ensure_legislature do
+  task name_legislature: :load do
     raise 'No meta.json file available' unless LEGISLATURE_META.exist?
 
     meta_info = json_load(LEGISLATURE_META)
@@ -63,7 +54,7 @@ namespace :transform do
   # Merge with terms.csv
   #---------------------------------------------------------------------
   task write: :merge_termfile
-  task merge_termfile: :ensure_legislature do
+  task merge_termfile: :load do
     source_warn 'Adding term information'
     terms = @INSTRUCTIONS.sources_of_type('term')
                          .flat_map { |src| src.to_popolo[:events] }
@@ -171,7 +162,7 @@ namespace :transform do
   end
 
   task write: :ensure_behalf_of
-  task ensure_behalf_of: :ensure_legislature do
+  task ensure_behalf_of: :load do
     @json[:memberships].select { |m| m[:role] == 'member' }.each do |m|
       m[:on_behalf_of_id] = unknown_party[:id] if m[:on_behalf_of_id].to_s.empty?
     end

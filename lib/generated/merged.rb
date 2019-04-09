@@ -18,6 +18,10 @@ module Everypolitician
         raw
       end
 
+      def legislature
+        @legislature ||= raw[:organizations].find { |h| h[:classification] == 'legislature' }
+      end
+
       private
 
       attr_reader :pathname
