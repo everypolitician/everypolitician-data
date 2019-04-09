@@ -32,5 +32,33 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/official.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/turkmenistan-majilis",
+      "lastmod": "2017-03-22"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2016-11-08"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "lastmod": "2016-06-05"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2017-10-07"
+    }
+  ]
 }

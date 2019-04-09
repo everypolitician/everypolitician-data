@@ -32,5 +32,33 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/abidjan-forums.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/ivory-coast-election-results-2011",
+      "lastmod": "2017-03-24"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2016-12-15"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2016-03-05"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "lastmod": "2018-05-31"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2018-05-31"
+    }
+  ]
 }

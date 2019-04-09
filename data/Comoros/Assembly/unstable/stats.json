@@ -32,5 +32,33 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "morph/wikipedia.csv",
+      "type": "membership",
+      "scraper": "tmtmtmtm/comoros-legislative-election-2015",
+      "lastmod": "2017-03-27"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2017-01-11"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2016-09-17"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "lastmod": "2017-08-17"
+    },
+    {
+      "file": "wikidata/elections.json",
+      "type": "wikidata-elections",
+      "lastmod": "2017-10-07"
+    }
+  ]
 }

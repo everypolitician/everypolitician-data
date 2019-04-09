@@ -32,5 +32,38 @@
   },
   "positions": {
     "cabinet": 0
-  }
+  },
+  "sources": [
+    {
+      "file": "google/memberships.csv",
+      "type": "membership",
+      "lastmod": "2015-12-11"
+    },
+    {
+      "file": "google/people.csv",
+      "type": "person",
+      "lastmod": "2016-06-03"
+    },
+    {
+      "file": "morph/official.csv",
+      "type": "person",
+      "scraper": "tmtmtmtm/zimbabwe-parliament",
+      "lastmod": "2017-02-22"
+    },
+    {
+      "file": "manual/terms.csv",
+      "type": "term",
+      "lastmod": "2016-06-12"
+    },
+    {
+      "file": "wikidata/groups.json",
+      "type": "group",
+      "lastmod": "2016-09-18"
+    },
+    {
+      "file": "gender-balance/results.csv",
+      "type": "gender",
+      "lastmod": "2016-09-18"
+    }
+  ]
 }
