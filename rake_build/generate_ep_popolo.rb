@@ -178,14 +178,6 @@ namespace :transform do
   end
 
   #---------------------------------------------------------------------
-  # Rule: Areas should be first class, not just embedded
-  #---------------------------------------------------------------------
-  task write: :check_no_embedded_areas
-  task check_no_embedded_areas: :ensure_legislature do
-    raise 'Memberships should not have embedded areas' if @json[:memberships].any? { |m| m.key? :area }
-  end
-
-  #---------------------------------------------------------------------
   # Remap gender to consistent format
   #---------------------------------------------------------------------
   task write: :remap_gender
