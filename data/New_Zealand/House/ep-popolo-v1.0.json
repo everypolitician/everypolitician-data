@@ -23863,7 +23863,7 @@
       "start_date": "2019-01-31"
     },
     {
-      "area_id": "waiariki",
+      "area_id": "ef71256e-0fb0-4037-a817-1794017a3b37",
       "legislative_period_id": "term/52",
       "on_behalf_of_id": "3f1a4838-7bcd-4475-9cbd-4c477714716d",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -26515,7 +26515,7 @@
       "role": "member"
     },
     {
-      "area_id": "waiariki",
+      "area_id": "ef71256e-0fb0-4037-a817-1794017a3b37",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "a91a0459-3345-46e1-ae7f-ae60f1a176fe",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -26539,7 +26539,7 @@
       "role": "member"
     },
     {
-      "area_id": "member_for_waiariki",
+      "area_id": "ef71256e-0fb0-4037-a817-1794017a3b37",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "c79a306a-7e47-4577-89a0-df8e0c78d6c4",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -29159,6 +29159,12 @@
     },
     {
       "id": "cdc564c2-45bf-4a3a-be87-dabd8c571029",
+      "identifiers": [
+        {
+          "identifier": "Q7676243",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tainui",
       "type": "constituency"
     },
@@ -29402,7 +29408,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Waiāriki",
+      "name": "Member for Waiariki",
       "other_names": [
         {
           "lang": "en",
@@ -29517,11 +29523,6 @@
       "type": "constituency"
     },
     {
-      "id": "member_for_waiariki",
-      "name": "Member for Waiariki",
-      "type": "constituency"
-    },
-    {
       "id": "mt_albert",
       "name": "Mt Albert",
       "type": "constituency"
@@ -29529,11 +29530,6 @@
     {
       "id": "te_atatu",
       "name": "Te Atatu",
-      "type": "constituency"
-    },
-    {
-      "id": "waiariki",
-      "name": "Waiariki",
       "type": "constituency"
     }
   ]
