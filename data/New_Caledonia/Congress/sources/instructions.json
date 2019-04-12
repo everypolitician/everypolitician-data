@@ -34,6 +34,18 @@
       "sourcetype": "official"
     },
     {
+      "file": "morph/areas.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/new-caledonia-provinces",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
