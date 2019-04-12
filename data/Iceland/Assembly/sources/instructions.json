@@ -52,6 +52,18 @@
       "type": "term"
     },
     {
+      "file": "morph/areas.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/iceland-constituencies-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "area-wikidata",
+      "merge": {
+        "reconciliation_file": "reconciliation/areas.csv"
+      }
+    },
+    {
       "file": "morph/genderbalance.csv",
       "create": {
         "from": "morph",
