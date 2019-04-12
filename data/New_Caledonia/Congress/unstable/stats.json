@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 3,
-    "wikidata": 0
+    "wikidata": 3
   },
   "elections": {
     "count": 3,
@@ -44,12 +44,17 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/new-caledonia-mps-wp",
-      "lastmod": "2019-04-08"
+      "lastmod": "2019-04-11"
     },
     {
       "file": "archive/official-vanished.csv",
       "type": "membership",
       "lastmod": "2018-11-09"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/new-caledonia-provinces"
     },
     {
       "file": "manual/terms.csv",
