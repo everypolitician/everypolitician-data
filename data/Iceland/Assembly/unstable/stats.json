@@ -24,7 +24,7 @@
   },
   "areas": {
     "count": 30,
-    "wikidata": 0
+    "wikidata": 14
   },
   "elections": {
     "count": 39,
@@ -50,13 +50,18 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/iceland-althingismenn-wikidata",
-      "lastmod": "2019-04-10"
+      "lastmod": "2019-04-12"
     },
     {
       "file": "morph/terms.csv",
       "type": "term",
       "scraper": "everypolitician-scrapers/iceland-althing-terms-wikidata",
       "lastmod": "2018-10-11"
+    },
+    {
+      "file": "morph/areas.csv",
+      "type": "area-wikidata",
+      "scraper": "everypolitician-scrapers/iceland-constituencies-wikidata"
     },
     {
       "file": "morph/genderbalance.csv",
