@@ -5,9 +5,9 @@
     "latest_term": {
       "count": 133,
       "wikidata": 133,
-      "images": 124,
+      "images": 133,
       "contacts": {
-        "email": 0,
+        "email": 64,
         "facebook": 4,
         "twitter": 123
       }
@@ -40,10 +40,15 @@
       "lastmod": "2017-08-02"
     },
     {
+      "file": "morph/scotparl.csv",
+      "type": "person",
+      "scraper": "mashedkeyboard/scottish_parliament_member_info"
+    },
+    {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/scottish-parliament-wikidata",
-      "lastmod": "2019-04-09"
+      "lastmod": "2019-04-24"
     },
     {
       "file": "manual/terms.csv",
@@ -70,7 +75,7 @@
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/scotland-positions",
-      "lastmod": "2019-04-02"
+      "lastmod": "2019-04-23"
     },
     {
       "file": "morph/cabinet-positions.csv",
