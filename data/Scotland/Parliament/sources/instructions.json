@@ -11,6 +11,21 @@
       "sourcetype": "pmo"
     },
     {
+      "file": "morph/scotparl.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "mashedkeyboard/scottish_parliament_member_info",
+        "query": "SELECT * FROM data ORDER BY name"
+      },
+      "source": "https://data.parliament.scot/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/scotparl.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
