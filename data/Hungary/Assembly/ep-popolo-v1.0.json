@@ -1984,6 +1984,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h211.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Hajdu_László_2019.jpg"
         }
       ],
       "links": [
@@ -4332,6 +4335,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Péter_Szijjártó"
         },
         {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Piter_Siyyarto"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Péter_Szijjártó"
         },
@@ -4471,6 +4478,7 @@
         }
       ],
       "email": "csaba.toth@parlament.hu",
+      "family_name": "Tóth",
       "gender": "male",
       "given_name": "Csaba",
       "id": "3efc648e-ad62-4c00-abf7-bb24722b8bca",
@@ -4977,6 +4985,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Márta_Mátrai"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Márta_Mátrai"
@@ -7768,7 +7780,7 @@
       ]
     },
     {
-      "birth_date": "1981",
+      "birth_date": "1981-01-26",
       "contact_details": [
         {
           "type": "email",
@@ -7815,7 +7827,26 @@
       "name": "Tordai, Bence",
       "other_names": [
         {
+          "name": "Tordai Bence",
+          "note": "alternate"
+        },
+        {
+          "lang": "ast",
+          "name": "Tordai Bence",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Bence Tordai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tordai Bence",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
           "name": "Tordai Bence",
           "note": "multilingual"
         }
@@ -9390,6 +9421,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:László_Kövér"
+        },
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Laslo_Köver"
         },
         {
           "note": "Wikipedia (cs)",
@@ -13601,6 +13636,10 @@
       "id": "c2c852a2-a49d-4d0c-9bb2-00c91d2b638b",
       "identifiers": [
         {
+          "identifier": "23810",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "v013",
           "scheme": "everypolitician_legacy"
         },
@@ -14249,6 +14288,7 @@
     {
       "birth_date": "1970",
       "gender": "female",
+      "given_name": "Enikő",
       "id": "cf804e21-0dd0-46fb-b573-02c1c09ded9a",
       "identifiers": [
         {
@@ -14330,8 +14370,17 @@
       "name": "Bencsik, János",
       "other_names": [
         {
+          "name": "Bencsik János",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
           "name": "János Bencsik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bencsik János",
           "note": "multilingual"
         }
       ]
@@ -14933,6 +14982,7 @@
       ]
     },
     {
+      "birth_date": "1980",
       "contact_details": [
         {
           "type": "email",
@@ -14940,6 +14990,8 @@
         }
       ],
       "email": "kocsis-cake.olivio@parlament.hu",
+      "gender": "male",
+      "given_name": "Olívio",
       "id": "d7b51876-78c9-4099-933a-dcf4cbada380",
       "identifiers": [
         {
@@ -14951,12 +15003,19 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/k159.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kocsis-Cake_Olivio_MP.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Olivio_Kocsis-Cake"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kocsis-Cake_Olivio"
         }
       ],
       "name": "Kocsis-Cake, Olivio",
@@ -15631,6 +15690,10 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Viktor_Orbán"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/วิกโตร์_โอร์บาน"
         },
         {
           "note": "Wikipedia (tpi)",
@@ -18123,6 +18186,12 @@
         {
           "lang": "fa",
           "name": "فیدس",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "th",
+          "name": "ฟิแด็ส",
           "note": "multilingual",
           "source": "wikidata-label"
         },
