@@ -2685,6 +2685,7 @@
       "birth_date": "1947-06-08",
       "family_name": "Petersen",
       "gender": "male",
+      "given_name": "Andrias",
       "id": "88466152-a778-4184-ae33-5349ab92236f",
       "identifiers": [
         {
@@ -4091,6 +4092,10 @@
           "url": "https://fo.wikipedia.org/wiki/Edva_Jacobsen"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Edva_Jacobsen"
+        },
+        {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Edva_Jacobsen"
         }
@@ -4744,6 +4749,10 @@
           "url": "https://tr.wikipedia.org/wiki/Kaj_Leo_Johannesen"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Кай_Лео_Йоганнесен"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/卡伊·莱奥·约翰内森"
         }
@@ -4788,6 +4797,11 @@
         {
           "lang": "ru",
           "name": "Кай Лео Йоханнесен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Кай Лео Йоганнесен",
           "note": "multilingual"
         },
         {
@@ -6757,6 +6771,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "uk",
+          "name": "Партія союзу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pl",
           "name": "Sambandsflokkurin",
           "note": "multilingual",
@@ -7254,6 +7274,12 @@
         {
           "lang": "ru",
           "name": "Партия союза",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "uk",
+          "name": "Партія союзу",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -10938,7 +10964,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1970",
+      "end_date": "1970-11-07",
       "id": "Q5436103",
       "identifiers": [
         {
@@ -10947,7 +10973,7 @@
         }
       ],
       "name": "1970 Faroese general election",
-      "start_date": "1970"
+      "start_date": "1970-11-07"
     },
     {
       "classification": "general election",
@@ -11078,19 +11104,6 @@
       "start_date": "1998"
     },
     {
-      "classification": "general election",
-      "end_date": "2002",
-      "id": "Q5202129",
-      "identifiers": [
-        {
-          "identifier": "Q5202129",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "2002 Faroese general election",
-      "start_date": "2002"
-    },
-    {
       "classification": "legislative period",
       "end_date": "2004",
       "id": "term/2002",
@@ -11100,16 +11113,16 @@
     },
     {
       "classification": "general election",
-      "end_date": "2004",
-      "id": "Q4570344",
+      "end_date": "2002-04-30",
+      "id": "Q5202129",
       "identifiers": [
         {
-          "identifier": "Q4570344",
+          "identifier": "Q5202129",
           "scheme": "wikidata"
         }
       ],
-      "name": "2004 Faroese general election",
-      "start_date": "2004"
+      "name": "2002 Faroese general election",
+      "start_date": "2002-04-30"
     },
     {
       "classification": "legislative period",
@@ -11121,7 +11134,20 @@
     },
     {
       "classification": "general election",
-      "end_date": "2008",
+      "end_date": "2004-01-20",
+      "id": "Q4570344",
+      "identifiers": [
+        {
+          "identifier": "Q4570344",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2004 Faroese general election",
+      "start_date": "2004-01-20"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2008-01-19",
       "id": "Q3358104",
       "identifiers": [
         {
@@ -11130,7 +11156,7 @@
         }
       ],
       "name": "2008 Faroese general election",
-      "start_date": "2008"
+      "start_date": "2008-01-19"
     },
     {
       "classification": "legislative period",
