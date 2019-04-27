@@ -476,6 +476,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/تيري_بيك"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Terry_Peck"
         },
@@ -484,7 +488,14 @@
           "url": "https://es.wikipedia.org/wiki/Terry_Peck"
         }
       ],
-      "name": "Terry Peck"
+      "name": "Terry Peck",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "تيري بيك",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954",
@@ -2079,7 +2090,8 @@
           "note": "multilingual",
           "source": "wikidata-alias"
         }
-      ]
+      ],
+      "srgb": "DDDDDD"
     },
     {
       "classification": "legislature",
@@ -3197,19 +3209,6 @@
       "start_date": "1976"
     },
     {
-      "classification": "general election",
-      "end_date": "1977",
-      "id": "Q16820777",
-      "identifiers": [
-        {
-          "identifier": "Q16820777",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "1977 Falkland Islands general election",
-      "start_date": "1977"
-    },
-    {
       "classification": "legislative period",
       "end_date": "1981",
       "id": "term/1977",
@@ -3219,16 +3218,16 @@
     },
     {
       "classification": "general election",
-      "end_date": "1981",
-      "id": "Q16820784",
+      "end_date": "1977-10-06",
+      "id": "Q16820777",
       "identifiers": [
         {
-          "identifier": "Q16820784",
+          "identifier": "Q16820777",
           "scheme": "wikidata"
         }
       ],
-      "name": "1981 Falkland Islands general election",
-      "start_date": "1981"
+      "name": "1977 Falkland Islands general election",
+      "start_date": "1977-10-06"
     },
     {
       "classification": "legislative period",
@@ -3240,16 +3239,16 @@
     },
     {
       "classification": "general election",
-      "end_date": "1985",
-      "id": "Q16820789",
+      "end_date": "1981-10-01",
+      "id": "Q16820784",
       "identifiers": [
         {
-          "identifier": "Q16820789",
+          "identifier": "Q16820784",
           "scheme": "wikidata"
         }
       ],
-      "name": "1985 Falkland Islands general election",
-      "start_date": "1985"
+      "name": "1981 Falkland Islands general election",
+      "start_date": "1981-10-01"
     },
     {
       "classification": "legislative period",
@@ -3258,6 +3257,19 @@
       "name": "1985–1989",
       "organization_id": "07436402-48a2-42ba-93f2-b68fd1b8bbff",
       "start_date": "1985"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1985-10-03",
+      "id": "Q16820789",
+      "identifiers": [
+        {
+          "identifier": "Q16820789",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "1985 Falkland Islands general election",
+      "start_date": "1985-10-03"
     },
     {
       "classification": "legislative period",
