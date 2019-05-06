@@ -1459,7 +1459,7 @@
       ],
       "family_name": "Torroba",
       "gender": "male",
-      "given_name": "Francisco Javier",
+      "given_name": "Francisco Javier nep",
       "id": "1b4f2034-73da-4872-bbe0-3dfb4c10a670",
       "identifiers": [
         {
@@ -2241,6 +2241,7 @@
       "sort_name": "Mestre, Diego Matias"
     },
     {
+      "birth_date": "1950-06-05",
       "gender": "female",
       "given_name": "Leonor",
       "id": "2c566c18-0814-4fc5-b780-eb60c8df1a49",
@@ -6637,7 +6638,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Juan Carlos",
+      "given_name": "Juan Carlos varela",
       "id": "778d577e-ab47-4e4f-b302-9842174b38d1",
       "identifiers": [
         {
@@ -8050,7 +8051,7 @@
     {
       "birth_date": "1960-05-06",
       "gender": "male",
-      "given_name": "Juan Carlos",
+      "given_name": "Juan Carlos varela",
       "id": "8af15ec8-a878-4142-b51d-86da29044047",
       "identifiers": [
         {
@@ -13990,7 +13991,7 @@
     },
     {
       "gender": "male",
-      "given_name": "Juan Carlos",
+      "given_name": "Juan Carlos varela",
       "id": "f379043a-b60b-4da6-8686-42ddd5fe6cd0",
       "identifiers": [
         {
@@ -15737,8 +15738,32 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "fr",
+          "name": "Parti GEN",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "GEN",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "es",
           "name": "Generacion para un Encuentro Nacional",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Partido GEN",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "Generación para un Encuentro Nacional",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -30072,7 +30097,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1965",
+      "end_date": "1965-03-14",
       "id": "Q4789472",
       "identifiers": [
         {
@@ -30081,7 +30106,7 @@
         }
       ],
       "name": "1965 Argentine legislative election",
-      "start_date": "1965"
+      "start_date": "1965-03-14"
     },
     {
       "classification": "general election",
@@ -30215,19 +30240,6 @@
     },
     {
       "classification": "general election",
-      "end_date": "1995",
-      "id": "Q5828229",
-      "identifiers": [
-        {
-          "identifier": "Q5828229",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine legislative election, 1995",
-      "start_date": "1995"
-    },
-    {
-      "classification": "general election",
       "end_date": "1995-05-14",
       "id": "Q16054930",
       "identifiers": [
@@ -30237,6 +30249,19 @@
         }
       ],
       "name": "Argentine general election of 1995",
+      "start_date": "1995-05-14"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1995-05-14",
+      "id": "Q5828229",
+      "identifiers": [
+        {
+          "identifier": "Q5828229",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Argentine legislative election, 1995",
       "start_date": "1995-05-14"
     },
     {
@@ -30254,19 +30279,6 @@
     },
     {
       "classification": "general election",
-      "end_date": "1999",
-      "id": "Q5828236",
-      "identifiers": [
-        {
-          "identifier": "Q5828236",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Argentine parliamentary election, 1999",
-      "start_date": "1999"
-    },
-    {
-      "classification": "general election",
       "end_date": "1999-10-24",
       "id": "Q16060893",
       "identifiers": [
@@ -30276,6 +30288,19 @@
         }
       ],
       "name": "1999 Argentine general election",
+      "start_date": "1999-10-24"
+    },
+    {
+      "classification": "general election",
+      "end_date": "1999-10-24",
+      "id": "Q5828236",
+      "identifiers": [
+        {
+          "identifier": "Q5828236",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Argentine parliamentary election, 1999",
       "start_date": "1999-10-24"
     },
     {
