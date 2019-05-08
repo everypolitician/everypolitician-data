@@ -4396,6 +4396,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/011_znwj",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "0000 0000 5165 4291",
           "scheme": "isni"
         },
@@ -6441,14 +6445,6 @@
       ]
     },
     {
-      "birth_date": "1969-02-05",
-      "contact_details": [
-        {
-          "type": "twitter",
-          "value": "krisnamukti17"
-        }
-      ],
-      "gender": "male",
       "id": "5faf9a93-2de1-49b0-a35e-33417c238480",
       "identifiers": [
         {
@@ -6466,24 +6462,7 @@
           "url": "http://dpr.go.id/doksigota/photo/1420.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (id)",
-          "url": "https://id.wikipedia.org/wiki/Krisna_Mukti"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/krisnamukti17"
-        }
-      ],
-      "name": "KRISNA MUKTI",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Khrisna Mukti",
-          "note": "multilingual"
-        }
-      ]
+      "name": "KRISNA MUKTI"
     },
     {
       "birth_date": "1962-08-11",
@@ -7363,6 +7342,10 @@
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/أوتوت_أديانتو"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Utut_Adianto"
         },
         {
           "note": "Wikipedia (de)",
@@ -10037,12 +10020,22 @@
     },
     {
       "birth_date": "1971-06-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "fadlizon"
+        }
+      ],
       "gender": "male",
       "id": "93547bca-a406-49ec-8064-b5b72330a929",
       "identifiers": [
         {
           "identifier": "1416",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0c3qdm8",
+          "scheme": "freebase"
         },
         {
           "identifier": "1036372405",
@@ -10086,6 +10079,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Fadli_Zon"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/fadlizon"
         }
       ],
       "name": "H. FADLI ZON, S.S., M.Sc.",
@@ -11983,6 +11980,10 @@
         {
           "identifier": "163",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/120y84fv",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "Setya-Novanto",
@@ -14190,6 +14191,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ruhut_Sitompul"
+        },
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Ruhut_Sitompul"
@@ -17228,6 +17233,10 @@
         {
           "note": "Wikipedia (su)",
           "url": "https://su.wikipedia.org/wiki/Yayuk_Basuki"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Басукі_Яюк"
         }
       ],
       "name": "YAYUK BASUKI",
@@ -17255,6 +17264,11 @@
         {
           "lang": "ru",
           "name": "Яюк Басуки",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Басукі Яюк",
           "note": "multilingual"
         }
       ]
@@ -18202,6 +18216,12 @@
         {
           "lang": "zh-hans",
           "name": "专业集团党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Галкар",
           "note": "multilingual",
           "source": "wikidata-label"
         },
