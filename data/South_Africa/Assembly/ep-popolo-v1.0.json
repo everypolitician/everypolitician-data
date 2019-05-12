@@ -3274,6 +3274,12 @@
     },
     {
       "birth_date": "1952-11-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cyrilramaphosa"
+        }
+      ],
       "gender": "male",
       "given_name": "Cyril",
       "honorific_prefix": "Mr",
@@ -3347,6 +3353,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Cyril_Ramaphosa"
         },
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Сирил_Рамафоса"
+        },
+        {
           "note": "Wikipedia (af)",
           "url": "https://af.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
@@ -3411,12 +3421,20 @@
           "url": "https://fr.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Cyril_Ramaphosa"
+        },
+        {
           "note": "Wikipedia (gu)",
           "url": "https://gu.wikipedia.org/wiki/સિરિલ_રામાફોસા"
         },
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/סיריל_רמפוזה"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
           "note": "Wikipedia (id)",
@@ -3559,6 +3577,10 @@
           "url": "https://vi.wikipedia.org/wiki/Cyril_Ramaphosa"
         },
         {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/西里尔·拉马福萨"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/西里爾·拉馬福薩"
         },
@@ -3569,6 +3591,14 @@
         {
           "note": "Wikiquote (en)",
           "url": "https://en.wikiquote.org/wiki/Cyril_Ramaphosa"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cyrilramaphosa"
+        },
+        {
+          "note": "website",
+          "url": "http://www.presidency.gov.za/profiles/president-cyril-ramaphosa%3A-profile"
         }
       ],
       "name": "Cyril Ramaphosa",
@@ -5091,6 +5121,7 @@
       "death_date": "2017-10-06",
       "family_name": "Baker",
       "gender": "female",
+      "given_name": "Tania",
       "honorific_prefix": "Ms",
       "id": "2d5454af-78de-494d-8f7e-197879db24f0",
       "identifiers": [
@@ -5245,6 +5276,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Mmusi_Maimane"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/姆穆西·邁馬內"
         },
         {
           "note": "instagram",
@@ -7307,6 +7342,7 @@
       ],
       "email": "nbhengu@parliament.gov.za",
       "gender": "female",
+      "given_name": "Ruth",
       "honorific_prefix": "Ms",
       "id": "42974813-a227-4128-8268-ed75b69ec868",
       "identifiers": [
@@ -9891,6 +9927,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Michael",
       "honorific_prefix": "Mr",
       "id": "5c5bb3a8-4221-453e-b160-e235b9cca4f2",
       "identifiers": [
@@ -12747,6 +12784,7 @@
       ]
     },
     {
+      "gender": "male",
       "given_name": "Albert",
       "id": "7f19a40a-0135-486c-8d94-15a40cb69273",
       "identifiers": [
@@ -16622,6 +16660,10 @@
           "url": "https://sv.wikipedia.org/wiki/Julius_Malema"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/朱利叶斯·马勒马"
+        },
+        {
           "note": "Wikipedia (zu)",
           "url": "https://zu.wikipedia.org/wiki/Julius_Malema"
         },
@@ -17002,6 +17044,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "aca0a5e7-519d-4aba-a789-10801d063968",
       "identifiers": [
         {
@@ -17798,6 +17841,7 @@
       ],
       "email": "manduy@health.gov.za",
       "gender": "male",
+      "given_name": "Joseph",
       "honorific_prefix": "Dr",
       "id": "b56efaea-762d-40f5-be4c-3ddc094e43fa",
       "identifiers": [
@@ -23155,6 +23199,10 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Nosiviwe_Mapisa-Nqakula"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nosiviwe_Mapisa-Nqakula"
         }
       ],
       "name": "Nosiviwe Mapisa-Nqakula",
@@ -23889,6 +23937,7 @@
         }
       ],
       "email": "nshabalala@parliament.gov.za",
+      "gender": "female",
       "id": "f271f802-6eaa-43e4-acac-a81350c64209",
       "identifiers": [
         {
@@ -25380,6 +25429,12 @@
           "name": "非洲獨立大會",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "AIC",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -26123,12 +26178,6 @@
           "name": "COPE",
           "note": "multilingual",
           "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "Congress of the People, \"COPE\"",
-          "note": "multilingual",
-          "source": "wikidata-alias"
         }
       ]
     },
@@ -26278,6 +26327,12 @@
         {
           "lang": "es",
           "name": "Alianza Democratica",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "DA",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -26572,12 +26627,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "de",
-          "name": "VF+",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "nds",
           "name": "Freeheitsfront",
           "note": "multilingual",
@@ -26748,12 +26797,6 @@
         },
         {
           "lang": "en",
-          "name": "Inkatha Freedom Party , \"IFP\"",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "zu",
           "name": "IFP",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -26829,6 +26872,12 @@
         {
           "lang": "af",
           "name": "NVP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "NFP",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -26966,7 +27015,7 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "fr",
+          "lang": "en",
           "name": "PAC",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -27045,13 +27094,7 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "af",
-          "name": "UDM",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nl",
+          "lang": "en",
           "name": "UDM",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -31031,240 +31074,6 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "1910-09-15",
-      "id": "Q1789291",
-      "identifiers": [
-        {
-          "identifier": "Q1789291",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1910",
-      "start_date": "1910-09-15"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1915-10-20",
-      "id": "Q1789278",
-      "identifiers": [
-        {
-          "identifier": "Q1789278",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1915",
-      "start_date": "1915-10-20"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1920-03-20",
-      "id": "Q1789268",
-      "identifiers": [
-        {
-          "identifier": "Q1789268",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1920",
-      "start_date": "1920-03-20"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1921-02-08",
-      "id": "Q1789261",
-      "identifiers": [
-        {
-          "identifier": "Q1789261",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1921",
-      "start_date": "1921-02-08"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1924-06-19",
-      "id": "Q2571893",
-      "identifiers": [
-        {
-          "identifier": "Q2571893",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1924",
-      "start_date": "1924-06-19"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1929-06-12",
-      "id": "Q4676431",
-      "identifiers": [
-        {
-          "identifier": "Q4676431",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1929",
-      "start_date": "1929-06-12"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1933-05-17",
-      "id": "Q2141187",
-      "identifiers": [
-        {
-          "identifier": "Q2141187",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1933",
-      "start_date": "1933-05-17"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1938-05-18",
-      "id": "Q2008692",
-      "identifiers": [
-        {
-          "identifier": "Q2008692",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1938",
-      "start_date": "1938-05-18"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1943-07-07",
-      "id": "Q2223283",
-      "identifiers": [
-        {
-          "identifier": "Q2223283",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1943",
-      "start_date": "1943-07-07"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1948-05-26",
-      "id": "Q1255896",
-      "identifiers": [
-        {
-          "identifier": "Q1255896",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1948",
-      "start_date": "1948-05-26"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1953-04-15",
-      "id": "Q578251",
-      "identifiers": [
-        {
-          "identifier": "Q578251",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1953",
-      "start_date": "1953-04-15"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1958-04-16",
-      "id": "Q2625614",
-      "identifiers": [
-        {
-          "identifier": "Q2625614",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1958",
-      "start_date": "1958-04-16"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1961-10-18",
-      "id": "Q2328039",
-      "identifiers": [
-        {
-          "identifier": "Q2328039",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1961",
-      "start_date": "1961-10-18"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1966-03-30",
-      "id": "Q3643230",
-      "identifiers": [
-        {
-          "identifier": "Q3643230",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1966",
-      "start_date": "1966-03-30"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1970-04-22",
-      "id": "Q2404361",
-      "identifiers": [
-        {
-          "identifier": "Q2404361",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1970",
-      "start_date": "1970-04-22"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1974-04-24",
-      "id": "Q2337904",
-      "identifiers": [
-        {
-          "identifier": "Q2337904",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1974",
-      "start_date": "1974-04-24"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1977-11-30",
-      "id": "Q2802316",
-      "identifiers": [
-        {
-          "identifier": "Q2802316",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1977",
-      "start_date": "1977-11-30"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1981-04-29",
-      "id": "Q2391250",
-      "identifiers": [
-        {
-          "identifier": "Q2391250",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1981",
-      "start_date": "1981-04-29"
-    },
-    {
-      "classification": "general election",
       "end_date": "1984-08-28",
       "id": "Q2490395",
       "identifiers": [
@@ -31273,21 +31082,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 1984",
+      "name": "1984 South African general election",
       "start_date": "1984-08-22"
-    },
-    {
-      "classification": "general election",
-      "end_date": "1987-05-06",
-      "id": "Q2930512",
-      "identifiers": [
-        {
-          "identifier": "Q2930512",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "South African general election, 1987",
-      "start_date": "1987-05-06"
     },
     {
       "classification": "general election",
@@ -31299,7 +31095,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 1989",
+      "name": "1989 South African general election",
       "start_date": "1989-09-06"
     },
     {
@@ -31312,7 +31108,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 1994",
+      "name": "1994 South African general election",
       "start_date": "1994-04-26"
     },
     {
@@ -31325,7 +31121,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 1999",
+      "name": "1999 South African general election",
       "start_date": "1999-06-02"
     },
     {
@@ -31338,7 +31134,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 2004",
+      "name": "2004 South African general election",
       "start_date": "2004-04-14"
     },
     {
@@ -31351,7 +31147,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 2009",
+      "name": "2009 South African general election",
       "start_date": "2009-04-22"
     },
     {
@@ -31364,7 +31160,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 2014",
+      "name": "2014 South African general election",
       "start_date": "2014-05-07"
     },
     {
@@ -31390,7 +31186,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "South African general election, 2019",
+      "name": "2019 South African general election",
       "start_date": "2019-05-08"
     }
   ],
