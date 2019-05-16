@@ -34,6 +34,9 @@ namespace :generate do
       data = known_groups_in_source.map do |id|
         [id, mapping[id][:uuid] ||= SecureRandom.uuid]
       end.to_h
+
+      raise "No groups from #{src.filename}" if data.empty?
+
       src.group_mapfile.rewrite(data)
     end
 
