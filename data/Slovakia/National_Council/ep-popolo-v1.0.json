@@ -302,11 +302,22 @@
       ],
       "links": [
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Петер_Марчек"
+        },
+        {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Peter_Marček"
         }
       ],
-      "name": "Peter Marček"
+      "name": "Peter Marček",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Петер Марчек",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-07-11",
@@ -4219,6 +4230,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Mikuláš_Dzurinda"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Mikuláš_Dzurinda"
         },
         {
           "note": "Wikipedia (ru)",
@@ -16548,6 +16563,11 @@
       "name": "Gábor Gál",
       "national_identity": "maďarská",
       "other_names": [
+        {
+          "lang": "hu",
+          "name": "Gál Gábor",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Ґабор Ґал",
@@ -29082,6 +29102,13 @@
       ],
       "name": "István Pásztor",
       "national_identity": "maďarská",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Pásztor István",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pásztor, István"
     },
     {
@@ -32456,6 +32483,18 @@
           "name": "candidatu independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DDDDDD"
@@ -35592,6 +35631,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -65011,7 +65062,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1964",
+      "end_date": "1964-06-14",
       "id": "Q11931767",
       "identifiers": [
         {
@@ -65020,11 +65071,11 @@
         }
       ],
       "name": "Slovak parliamentary election, 1964",
-      "start_date": "1964"
+      "start_date": "1964-06-14"
     },
     {
       "classification": "general election",
-      "end_date": "1971",
+      "end_date": "1971-11-27",
       "id": "Q11931811",
       "identifiers": [
         {
@@ -65033,7 +65084,7 @@
         }
       ],
       "name": "Slovak parliamentary election, 1971",
-      "start_date": "1971"
+      "start_date": "1971-11-26"
     },
     {
       "classification": "general election",
