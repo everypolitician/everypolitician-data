@@ -1999,6 +1999,21 @@
       "sort_name": "Ledergerber, Elmar"
     },
     {
+      "birth_date": "1959-04-14",
+      "family_name": "Schläpfer",
+      "gender": "female",
+      "given_name": "Therese",
+      "id": "0cf89302-cb06-4e23-b42a-36a1e8d218e0",
+      "identifiers": [
+        {
+          "identifier": "4234",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Therese Schläpfer",
+      "sort_name": "Schläpfer, Therese"
+    },
+    {
       "birth_date": "1924-07-27",
       "death_date": "2006-03-21",
       "family_name": "Müller",
@@ -8653,6 +8668,21 @@
         }
       ],
       "sort_name": "Chopard-Acklin, Max"
+    },
+    {
+      "birth_date": "1962-05-03",
+      "family_name": "Haab",
+      "gender": "male",
+      "given_name": "Martin",
+      "id": "2952ec66-49ea-4962-ad44-d4caa519f36f",
+      "identifiers": [
+        {
+          "identifier": "4236",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Martin Haab",
+      "sort_name": "Haab, Martin"
     },
     {
       "birth_date": "1952-01-04",
@@ -23700,6 +23730,21 @@
       ],
       "name": "Ernst Sieber",
       "sort_name": "Sieber, Ernst"
+    },
+    {
+      "birth_date": "1982-12-09",
+      "family_name": "Rochat Fernandez",
+      "gender": "male",
+      "given_name": "Nicolas",
+      "id": "721b5990-5c1c-4e65-a9e8-781dd7a9382b",
+      "identifiers": [
+        {
+          "identifier": "4232",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Nicolas Rochat Fernandez",
+      "sort_name": "Rochat Fernandez, Nicolas"
     },
     {
       "birth_date": "1951-04-20",
@@ -56803,6 +56848,20 @@
     },
     {
       "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "0cf89302-cb06-4e23-b42a-36a1e8d218e0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4234"
+        }
+      ],
+      "start_date": "2019-06-03"
+    },
+    {
+      "area_id": "ZH",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "5",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -60885,6 +60944,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4007"
         }
       ]
+    },
+    {
+      "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "2952ec66-49ea-4962-ad44-d4caa519f36f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4236"
+        }
+      ],
+      "start_date": "2019-06-03"
     },
     {
       "area_id": "SG",
@@ -72367,6 +72440,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=207"
         }
       ]
+    },
+    {
+      "area_id": "VD",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "721b5990-5c1c-4e65-a9e8-781dd7a9382b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4232"
+        }
+      ],
+      "start_date": "2019-05-07"
     },
     {
       "area_id": "GE",
@@ -83921,6 +84008,7 @@
     },
     {
       "area_id": "AI",
+      "end_date": "2019-06-02",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
