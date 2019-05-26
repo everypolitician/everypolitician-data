@@ -997,6 +997,11 @@
           "lang": "ur",
           "name": "سیلیا فلوریس",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西利雅·弗洛勒斯",
+          "note": "multilingual"
         }
       ]
     },
@@ -1268,6 +1273,10 @@
           "url": "https://ru.wikipedia.org/wiki/Барбоса,_Омар"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/奥马尔·巴尔博扎"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/OmarBarbozaDip"
         }
@@ -1287,6 +1296,11 @@
         {
           "lang": "ru",
           "name": "Омар Барбоса",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "奥马尔·巴尔博扎",
           "note": "multilingual"
         },
         {
@@ -1328,7 +1342,14 @@
           "url": "https://es.wikipedia.org/wiki/Fernando_Soto_Rojas"
         }
       ],
-      "name": "FERNANDO SOTO ROJAS"
+      "name": "FERNANDO SOTO ROJAS",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "費爾南多·索托·羅哈斯",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2672,6 +2693,12 @@
     },
     {
       "birth_date": "1971-11-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "delsasolorzano"
+        }
+      ],
       "gender": "female",
       "id": "5c0684f7-4d62-4791-abef-0987be0547f2",
       "identifiers": [
@@ -2713,6 +2740,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Delsa_Solórzano"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/delsasolorzano"
         }
       ],
       "name": "SOLÓRZANO BERNAL DELSA JENNIFFER",
@@ -3677,6 +3708,11 @@
           "lang": "ru",
           "name": "Хулио Борхес",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "胡利奧·博爾赫斯",
+          "note": "multilingual"
         }
       ]
     },
@@ -3797,6 +3833,11 @@
         {
           "lang": "ru",
           "name": "Рамос Аллуп, Энри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "亨利·拉莫斯·阿盧普",
           "note": "multilingual"
         },
         {
@@ -4032,6 +4073,7 @@
     {
       "birth_date": "1955-07-20",
       "gender": "male",
+      "given_name": "Edgar",
       "id": "856ec0c3-58df-4b4b-8216-2aa8923fb28a",
       "identifiers": [
         {
@@ -4072,6 +4114,11 @@
         {
           "lang": "zh",
           "name": "埃德加·桑布拉諾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "桑布拉诺",
           "note": "multilingual"
         }
       ]
@@ -5821,6 +5868,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1176448137",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "no2014110775",
           "scheme": "lcauth"
         },
@@ -5927,10 +5978,6 @@
       "name": "DIOSDADO CABELLO RONDÓN",
       "other_names": [
         {
-          "name": "Diosdi Cabello",
-          "note": "alternate"
-        },
-        {
           "lang": "ar",
           "name": "ديوسدادو كابيو",
           "note": "multilingual"
@@ -5938,11 +5985,6 @@
         {
           "lang": "en",
           "name": "Diosdado Cabello",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Diosdi Cabello",
           "note": "multilingual"
         },
         {
@@ -9202,6 +9244,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
