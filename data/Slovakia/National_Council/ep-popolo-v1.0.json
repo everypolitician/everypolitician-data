@@ -302,11 +302,22 @@
       ],
       "links": [
         {
+          "note": "Wikinews (ru)",
+          "url": "https://ru.wikinews.org/wiki/Категория:Петер_Марчек"
+        },
+        {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Peter_Marček"
         }
       ],
-      "name": "Peter Marček"
+      "name": "Peter Marček",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Петер Марчек",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-07-11",
@@ -1561,6 +1572,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Peter_Pollák"
+        },
         {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Peter_Pollák"
@@ -4219,6 +4234,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Mikuláš_Dzurinda"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Mikuláš_Dzurinda"
         },
         {
           "note": "Wikipedia (ru)",
@@ -8364,6 +8383,7 @@
       ],
       "email": "milan_uhrik@nrsr.sk",
       "family_name": "Uhrík",
+      "gender": "male",
       "given_name": "Milan",
       "id": "4c355a2f-212e-41f2-a4e6-28d7f3fda3e9",
       "identifiers": [
@@ -8495,7 +8515,7 @@
           "url": "https://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=944&ImageWidth=140"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Marian_Kotleba.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Marian_Kotleba_(portrait).jpg"
         }
       ],
       "links": [
@@ -16548,6 +16568,11 @@
       "name": "Gábor Gál",
       "national_identity": "maďarská",
       "other_names": [
+        {
+          "lang": "hu",
+          "name": "Gál Gábor",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Ґабор Ґал",
@@ -28043,6 +28068,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ľubomír_Fogaš"
+        },
+        {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/Ľubomír_Fogaš"
         }
@@ -29082,6 +29111,13 @@
       ],
       "name": "István Pásztor",
       "national_identity": "maďarská",
+      "other_names": [
+        {
+          "lang": "hu",
+          "name": "Pásztor István",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pásztor, István"
     },
     {
@@ -32456,6 +32492,18 @@
           "name": "candidatu independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DDDDDD"
@@ -35592,6 +35640,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -43174,7 +43234,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_-_Ľudová_strana_Naše_Slovensko_-_People's_Party_Our_Slovakia.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Kotleba-ĽSNS_New_Logo.png",
       "links": [
         {
           "note": "website",
@@ -43197,7 +43257,7 @@
         },
         {
           "lang": "de",
-          "name": "Volkspartei – Unsere Slowakei",
+          "name": "Kotleba – Volkspartei Unsere Slowakei",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -65011,7 +65071,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1964",
+      "end_date": "1964-06-14",
       "id": "Q11931767",
       "identifiers": [
         {
@@ -65020,11 +65080,11 @@
         }
       ],
       "name": "Slovak parliamentary election, 1964",
-      "start_date": "1964"
+      "start_date": "1964-06-14"
     },
     {
       "classification": "general election",
-      "end_date": "1971",
+      "end_date": "1971-11-27",
       "id": "Q11931811",
       "identifiers": [
         {
@@ -65033,7 +65093,7 @@
         }
       ],
       "name": "Slovak parliamentary election, 1971",
-      "start_date": "1971"
+      "start_date": "1971-11-26"
     },
     {
       "classification": "general election",
