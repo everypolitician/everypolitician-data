@@ -1,26 +1,26 @@
 {
   "people": {
-    "count": 499,
+    "count": 702,
     "wikidata": 499,
     "latest_term": {
-      "count": 499,
-      "wikidata": 499,
-      "images": 499,
+      "count": 401,
+      "wikidata": 198,
+      "images": 198,
       "contacts": {
-        "email": 385,
-        "facebook": 3,
-        "twitter": 19
+        "email": 189,
+        "facebook": 1,
+        "twitter": 14
       }
     }
   },
   "groups": {
-    "count": 13,
+    "count": 16,
     "wikidata": 13
   },
   "terms": {
-    "count": 1,
-    "latest": "2014-05-21",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2019-05-22",
+    "wikidata": 2
   },
   "areas": {
     "count": 10,
@@ -38,7 +38,7 @@
       "file": "morph/wikidata-memberships.csv",
       "type": "membership",
       "scraper": "everypolitician-scrapers/south-africa-national-assembly-wikidata",
-      "lastmod": "2019-05-17"
+      "lastmod": "2019-05-18"
     },
     {
       "file": "morph/peoplesassembly.csv",
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/south-african-national-assembly-members-wikidata",
-      "lastmod": "2019-05-17"
+      "lastmod": "2019-05-18"
     },
     {
       "file": "wikidata/parties.json",
@@ -78,7 +78,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-05-17"
+      "lastmod": "2019-05-18"
     }
   ]
 }
