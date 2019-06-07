@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 279,
-    "wikidata": 85,
+    "wikidata": 23,
     "latest_term": {
       "count": 167,
-      "wikidata": 61,
+      "wikidata": 19,
       "images": 167,
       "contacts": {
         "email": 0,
-        "facebook": 3,
-        "twitter": 10
+        "facebook": 1,
+        "twitter": 5
       }
     }
   },
@@ -50,7 +50,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/venezuela-asamblea-wikidata",
-      "lastmod": "2019-03-11"
+      "lastmod": "2019-05-08"
     },
     {
       "file": "morph/terms.csv",
@@ -67,17 +67,17 @@
     {
       "file": "wikidata/positions.json",
       "type": "wikidata-positions",
-      "lastmod": "2019-03-11"
+      "lastmod": "2019-05-08"
     },
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-12"
+      "lastmod": "2019-05-08"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-03-11"
+      "lastmod": "2019-05-08"
     }
   ]
 }
