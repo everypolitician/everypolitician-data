@@ -24,7 +24,10 @@
       "id": "Q611644",
       "label": "Catholic bishop",
       "title": "Catholic bishop",
-      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)",
+      "qualifiers": {
+        "P580": "1987-11-07"
+      }
     }
   ],
   "Q712039": [
@@ -68,10 +71,10 @@
       "description": "bishop of higher rank in many Christian denominations"
     },
     {
-      "id": "Q29182",
-      "label": "bishop",
-      "title": "bishop",
-      "description": "ordained or consecrated member of the Christian clergy (for Catholic bishops, use Q611644, for Orthodox bishops, use Q15283040)"
+      "id": "Q611644",
+      "label": "Catholic bishop",
+      "title": "Catholic bishop",
+      "description": "ordained minister in the Catholic Church (for other religious denominations, use Q29182)"
     },
     {
       "id": "Q121998",
