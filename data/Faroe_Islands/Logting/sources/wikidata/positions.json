@@ -75,7 +75,10 @@
     {
       "id": "Q48474540",
       "label": "member of the Faroese Løgting",
-      "title": "member of the Faroese Løgting"
+      "title": "member of the Faroese Løgting",
+      "qualifiers": {
+        "P580": "2015-09-01"
+      }
     }
   ],
   "Q1001510": [
@@ -287,6 +290,18 @@
         "P4100": "Union Party",
         "P580": "2007",
         "P582": "2015"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing",
+      "description": "member of Danish parliament",
+      "qualifiers": {
+        "P2937": "Folketing 2019-",
+        "P580": "2019-06-05",
+        "P4100": "Union Party",
+        "P768": "Faroe Islands"
       }
     }
   ],
@@ -553,7 +568,8 @@
       "description": "member of Danish parliament",
       "qualifiers": {
         "P4100": "Social Democratic Party of the Faroe Islands",
-        "P2937": "Folketing 2015–2019"
+        "P2937": "Folketing 2015–2019",
+        "P768": "Faroe Islands"
       }
     },
     {
@@ -563,7 +579,19 @@
       "description": "member of Danish parliament",
       "qualifiers": {
         "P2937": "Folketing 2011–2015",
-        "P4100": "Social Democratic Party of the Faroe Islands"
+        "P4100": "Social Democratic Party of the Faroe Islands",
+        "P768": "Faroe Islands"
+      }
+    },
+    {
+      "id": "Q12311817",
+      "label": "member of the Folketing",
+      "title": "member of the Folketing",
+      "description": "member of Danish parliament",
+      "qualifiers": {
+        "P2937": "Folketing 2019-",
+        "P4100": "Social Democratic Party of the Faroe Islands",
+        "P768": "Faroe Islands"
       }
     }
   ],
