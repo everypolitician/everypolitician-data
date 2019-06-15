@@ -330,7 +330,7 @@
         },
         {
           "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ion-Marcel_Ciolacu"
+          "url": "https://ro.wikipedia.org/wiki/Marcel_Ciolacu"
         }
       ],
       "name": "Ion-Marcel CIOLACU",
@@ -387,29 +387,17 @@
     },
     {
       "birth_date": "1951-04-14",
-      "gender": "male",
-      "given_name": "Aurel",
       "id": "04e6b1d7-2bd0-48fb-a609-63795b65b6ce",
       "identifiers": [
         {
           "identifier": "245",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18544283",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nechita_Aurel.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nechita_Aurel.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Aurel_Nechita"
         }
       ],
       "name": "Aurel NECHITA",
@@ -443,6 +431,7 @@
     },
     {
       "birth_date": "1962-10-28",
+      "family_name": "Dragnea",
       "gender": "male",
       "given_name": "Liviu",
       "id": "05e94842-de00-43b7-996e-54795761fa2b",
@@ -489,6 +478,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Liviu_Dragnea"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Liviu_Dragnea"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Liviu_Dragnea"
         },
         {
           "note": "Wikipedia (fr)",
@@ -579,7 +576,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "eo",
+          "name": "Liviu Dragnea",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Liviu Dragnea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Liviu Dragnea",
           "note": "multilingual"
         },
@@ -745,6 +752,10 @@
         {
           "type": "email",
           "value": "iulian.bulai@cdep.ro"
+        },
+        {
+          "type": "twitter",
+          "value": "iulibulai"
         }
       ],
       "email": "iulian.bulai@cdep.ro",
@@ -777,6 +788,10 @@
           "url": "https://facebook.com/bulaiiulian2016"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/iulibulai"
+        },
+        {
           "note": "website",
           "url": "http://iulianbulai.ro/"
         }
@@ -786,17 +801,11 @@
     },
     {
       "birth_date": "1956-06-06",
-      "gender": "male",
-      "given_name": "Eugen",
       "id": "07cabef9-44dc-4ad6-9376-5ff64a7e8b57",
       "identifiers": [
         {
           "identifier": "258",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12727818",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nicolicea_Eugen.jpg",
@@ -805,28 +814,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Nicolicea_Eugen.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Eugen_Nicolicea"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Eugenius_Nicolicea"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eugen_Nicolicea"
-        }
-      ],
       "name": "Eugen NICOLICEA",
-      "other_names": [
-        {
-          "lang": "la",
-          "name": "Eugenius Nicolicea",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Nicolicea Eugen"
     },
     {
@@ -860,29 +848,17 @@
     },
     {
       "birth_date": "1954-08-08",
-      "gender": "male",
-      "given_name": "Gheorghe",
       "id": "087dc51c-302a-4d15-ae22-c7cf7f3fcfb6",
       "identifiers": [
         {
           "identifier": "82",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q24622093",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Costin_Gheorghe.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Costin_Gheorghe.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Costin"
         }
       ],
       "name": "Gheorghe COSTIN",
@@ -1012,21 +988,11 @@
     },
     {
       "birth_date": "1956-08-08",
-      "gender": "male",
-      "given_name": "Miron",
       "id": "091fad67-f56e-446d-82a4-09f4ef4d8aaf",
       "identifiers": [
         {
           "identifier": "225",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/05mzm81",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q6873881",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Mitrea_Miron.jpg",
@@ -1035,59 +1001,22 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Mitrea_Miron.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Miron_Mitrea"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Miron_Mitrea"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Miron_Mitrea"
-        },
-        {
-          "note": "website",
-          "url": "http://mmitrea.ro/"
-        }
-      ],
       "name": "Miron Tudor MITREA",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Miron Mitrea",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Mitrea Miron Tudor"
     },
     {
       "birth_date": "1950-03-23",
-      "gender": "male",
-      "given_name": "Constantin",
       "id": "09af1219-1a06-4da2-954c-5361c22e325a",
       "identifiers": [
         {
           "identifier": "95",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21746984",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Dascalu_Constantin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Dascalu_Constantin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Constantin_Dascălu"
         }
       ],
       "name": "Constantin DASCĂLU",
@@ -1162,55 +1091,14 @@
     },
     {
       "birth_date": "1974-02-18",
-      "gender": "male",
-      "given_name": "Cătălin",
       "id": "0bb3879d-88fc-4f91-91ba-a75cda1d0266",
-      "identifiers": [
-        {
-          "identifier": "39707",
-          "scheme": "europarlmep"
-        },
-        {
-          "identifier": "Q9200268",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Nechifor_Catalin.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Nechifor_Catalin.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Catalin_Nechifor_la_Liga_Alesilor_Locali_ai_PSD,_Palatul_Parlamentului_(10775962295).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Cătălin_Ioan_Nechifor"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Cătălin_Nechifor"
         }
       ],
       "name": "Cătălin-Ioan NECHIFOR",
-      "other_names": [
-        {
-          "name": "Cătălin Nechifor",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Cătălin Ioan Nechifor",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Cătălin Nechifor",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Nechifor Cătălin-Ioan"
     },
     {
@@ -1467,35 +1355,14 @@
     },
     {
       "birth_date": "1956-04-07",
-      "gender": "male",
-      "given_name": "Nicu",
       "id": "0e79f801-2f0f-4d08-aef8-7dc70603f1a1",
-      "identifiers": [
-        {
-          "identifier": "Q28039511",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Nita_Nicu.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Nita_Nicu.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Nicu_Niță"
-        }
-      ],
       "name": "Nicu NIŢĂ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Nicu Niță",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Niţă Nicu"
     },
     {
@@ -1600,17 +1467,11 @@
     },
     {
       "birth_date": "1976-06-17",
-      "gender": "male",
-      "given_name": "Ioan",
       "id": "0fb91021-50aa-4274-89b0-a23e44194d1b",
       "identifiers": [
         {
           "identifier": "406",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18647975",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/VulpescuIoan.jpg",
@@ -1619,55 +1480,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/VulpescuIoan.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ioan_Vulpescu"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ionuț_Vulpescu"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Ioan_Vulpescu"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Ionuţ_Vulpescu"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ioan_Vulpescu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ioan_Vulpescu"
-        }
-      ],
       "name": "Ioan VULPESCU",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Ionuț Vulpescu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ionuț Vulpescu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Ionuț Vulpescu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Ionuț Vulpescu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Vulpescu Ioan"
     },
     {
@@ -1764,47 +1577,20 @@
     },
     {
       "birth_date": "1953-07-21",
-      "family_name": "Seres",
-      "gender": "male",
-      "given_name": "Dénes",
       "id": "10e9d3b3-7bd2-4585-8934-c3482619bad1",
       "identifiers": [
         {
           "identifier": "332",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12727248",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Seres_Denes.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Seres_Denes.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Seres_Dénes.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Seres_Dénes"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dénes_Seres"
         }
       ],
       "name": "SERES Dénes",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Dénes Seres",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Seres Dénes"
     },
     {
@@ -1923,30 +1709,18 @@
     },
     {
       "birth_date": "1969-08-20",
-      "family_name": "Marin",
       "gender": "female",
-      "given_name": "Laura",
       "id": "11d9c43d-20c0-4d32-8136-82e9ac916815",
       "identifiers": [
         {
           "identifier": "413",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179294",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/MarinLaura.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/MarinLaura.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Laura_Marin"
         }
       ],
       "name": "Laura MARIN",
@@ -2316,36 +2090,17 @@
     },
     {
       "birth_date": "1977-04-20",
-      "gender": "male",
-      "given_name": "Adrian",
       "id": "13678655-9fa8-4f96-90eb-e4f31b27ef23",
       "identifiers": [
         {
           "identifier": "160",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12720004",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Gurzau_Adrian.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Gurzau_Adrian.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Adrian_Gurzău.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Adrian_Gurzău"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Adrian_Gurzău"
         }
       ],
       "name": "Adrian GURZĂU",
@@ -2881,16 +2636,11 @@
     },
     {
       "birth_date": "1947-10-06",
-      "gender": "male",
       "id": "19ec2ff6-d68b-44e7-83af-852737922235",
       "identifiers": [
         {
           "identifier": "389",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179404",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/UdristeGheorghe.jpg",
@@ -2899,20 +2649,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/UdristeGheorghe.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Udriște"
-        }
-      ],
       "name": "Gheorghe UDRIŞTE",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Gheorghe Udriște",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Udrişte Gheorghe"
     },
     {
@@ -3084,28 +2821,17 @@
     },
     {
       "birth_date": "1978-04-03",
-      "gender": "male",
       "id": "1b31d907-9c82-4b02-8df5-5dba4d9298e4",
       "identifiers": [
         {
           "identifier": "219",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179301",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Mihailescu_Ion_Bogdan.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Mihailescu_Ion_Bogdan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ion-Bogdan_Mihăilescu"
         }
       ],
       "name": "Ion-Bogdan MIHĂILESCU",
@@ -3142,6 +2868,12 @@
     },
     {
       "birth_date": "1978-06-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "dianatusa"
+        }
+      ],
       "gender": "male",
       "given_name": "Diana",
       "id": "1bc949d8-2886-4589-bfa7-b28d69e825c5",
@@ -3165,6 +2897,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Adriana-Diana_Tușa"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dianatusa"
         },
         {
           "note": "website",
@@ -3275,62 +3011,14 @@
         }
       ],
       "email": "robert.turcescu@cdep.ro",
-      "gender": "male",
-      "given_name": "Robert",
       "id": "1e3cdf2b-8834-4699-b051-34045918313f",
-      "identifiers": [
-        {
-          "identifier": "0000 0000 8405 5973",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "no2010044614",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "108074256",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q7350501",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Turcescu_Robert.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Turcescu_Robert.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert_Turcescu_hotnews.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Robert_Turcescu"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Robert_Turcescu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Robert_Turcescu"
-        },
-        {
-          "note": "website",
-          "url": "http://www.turcescu.ro/"
         }
       ],
       "name": "Robert-Nicolae TURCESCU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Robert Turcescu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Turcescu Robert-Nicolae"
     },
     {
@@ -3981,41 +3669,20 @@
     {
       "birth_date": "1958-05-10",
       "gender": "male",
-      "given_name": "Eugen",
       "id": "27d2a2bb-ed32-49a3-b01e-c2b6c7117f04",
       "identifiers": [
         {
           "identifier": "392",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18548918",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Uricec_Eugen_Constantin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Uricec_Eugen_Constantin.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Informal_meeting_of_environment_ministers._Arrivals_Eugen-Constantin_Uricec_(35103596113).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eugen_Uricec"
         }
       ],
       "name": "Eugen Constantin URICEC",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Eugen Uricec",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Uricec Eugen Constantin"
     },
     {
@@ -4347,16 +4014,11 @@
     },
     {
       "birth_date": "1975-02-22",
-      "gender": "female",
       "id": "2ba3b339-dec6-4685-afb1-6175d3f98865",
       "identifiers": [
         {
           "identifier": "390",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18548846",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/UiroreanuElenaRamon.jpg",
@@ -4365,20 +4027,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/UiroreanuElenaRamon.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Elena-Ramona_Uioreanu"
-        }
-      ],
       "name": "Elena-Ramona REUER",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Elena-Ramona Uioreanu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Reuer Elena-Ramona"
     },
     {
@@ -4630,16 +4279,11 @@
     },
     {
       "birth_date": "1988-08-28",
-      "gender": "female",
       "id": "2ebf4ec2-0953-45a2-a920-1df263d4fee3",
       "identifiers": [
         {
           "identifier": "362",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18548413",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Stefanescu_Catalina.jpg",
@@ -4648,24 +4292,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Stefanescu_Catalina.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Cătălina_Ștefănescu"
-        }
-      ],
       "name": "Elena Cătălina ŞTEFĂNESCU",
-      "other_names": [
-        {
-          "name": "Cătălina Ștefănescu",
-          "note": "alternate"
-        },
-        {
-          "lang": "ro",
-          "name": "Cătălina Ștefănescu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Ştefănescu Elena Cătălina"
     },
     {
@@ -4799,35 +4426,17 @@
     },
     {
       "birth_date": "1959-09-05",
-      "gender": "male",
       "id": "312646e8-b1c9-411e-83df-f0a857b60ab1",
       "identifiers": [
         {
           "identifier": "283",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18547154",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Paslaru_Florin_Costin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Paslaru_Florin_Costin.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Florin-Costin_Pâslaru_-_October_2016_(cropped).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Florin-Costin_Pâslaru"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florin-Costin_Pâslaru"
         }
       ],
       "name": "Florin-Costin PÂSLARU",
@@ -5644,6 +5253,9 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Gerea_Andrei_Dominic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Andrei-Gerea-Bucharest-Forum-2015.png"
         }
       ],
       "links": [
@@ -6105,17 +5717,11 @@
     },
     {
       "birth_date": "1954-07-26",
-      "gender": "male",
-      "given_name": "Viorel",
       "id": "3d71360a-eebb-4e1e-9f50-3ca03a280db7",
       "identifiers": [
         {
           "identifier": "361",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18549450",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/StefanViorel.jpg",
@@ -6124,36 +5730,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/StefanViorel.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Viorel_Ștefan"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Viorel_Ștefan"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Viorel_Ștefan"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Viorel_Ștefan"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Viorel_Ștefan"
-        }
-      ],
       "name": "Viorel ŞTEFAN",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Viorel Ștefan",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Ştefan Viorel"
     },
     {
@@ -6400,25 +5977,11 @@
     },
     {
       "birth_date": "1947-12-14",
-      "gender": "male",
-      "given_name": "Károly",
       "id": "418834fe-e021-4f9c-ad8e-a2f8c8fad87f",
       "identifiers": [
         {
           "identifier": "189",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "0000 0000 7920 142X",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "121456894",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q12731760",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Kerekes_Karoly.jpg",
@@ -6427,20 +5990,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Kerekes_Karoly.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Károly_Kerekes"
-        }
-      ],
       "name": "KEREKES Károly",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Károly Kerekes",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Kerekes Károly"
     },
     {
@@ -6474,28 +6024,17 @@
     },
     {
       "birth_date": "1969-05-24",
-      "gender": "male",
       "id": "4222e4dd-74cf-4d28-879b-180c0b4cbd1a",
       "identifiers": [
         {
           "identifier": "107",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18539771",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Dolha_Mircea.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Dolha_Mircea.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mircea_Dolha"
         }
       ],
       "name": "Mircea DOLHA",
@@ -6749,29 +6288,17 @@
     },
     {
       "birth_date": "1958-04-08",
-      "gender": "male",
-      "given_name": "Ioan",
       "id": "446ef78c-859e-4b6c-b326-4b4dba507fce",
       "identifiers": [
         {
           "identifier": "373",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179391",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/TeodorescuIoanViorel.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/TeodorescuIoanViorel.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ioan_Viorel_Teodorescu"
         }
       ],
       "name": "Ioan Viorel TEODORESCU",
@@ -6959,6 +6486,10 @@
           "url": "https://fr.wikipedia.org/wiki/Doina_Pană"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Adriana-Doina_Pană"
+        },
+        {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Hadriana_Doina_Pană"
         },
@@ -7042,16 +6573,11 @@
     },
     {
       "birth_date": "1961-05-10",
-      "gender": "female",
       "id": "464d267e-bd4f-416e-82e5-f68d84494258",
       "identifiers": [
         {
           "identifier": "248",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179328",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Negrut_Cornelia.jpg",
@@ -7060,20 +6586,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Negrut_Cornelia.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Cornelia_Negruț"
-        }
-      ],
       "name": "Cornelia NEGRUŢ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Cornelia Negruț",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Negruţ Cornelia"
     },
     {
@@ -7159,30 +6672,17 @@
     },
     {
       "birth_date": "1952-10-01",
-      "family_name": "Marin",
-      "gender": "male",
-      "given_name": "Gheorghe",
       "id": "473969c1-bfaa-412b-a478-2ffb365bda42",
       "identifiers": [
         {
           "identifier": "206",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12729180",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Marin_Gheorghe.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Marin_Gheorghe.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Marin_(politician)"
         }
       ],
       "name": "Gheorghe MARIN",
@@ -7429,15 +6929,11 @@
         },
         {
           "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ileana_Carmen_Moldovan"
+          "url": "https://ro.wikipedia.org/wiki/Carmen-Ileana_Mihălcescu"
         }
       ],
       "name": "Carmen-Ileana MIHĂLCESCU",
       "other_names": [
-        {
-          "name": "Ileana Carmen Moldovan",
-          "note": "alternate"
-        },
         {
           "lang": "it",
           "name": "Ileana Carmen Moldovan",
@@ -7445,11 +6941,6 @@
         },
         {
           "lang": "nl",
-          "name": "Ileana Carmen Moldovan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
           "name": "Ileana Carmen Moldovan",
           "note": "multilingual"
         },
@@ -7657,26 +7148,11 @@
         }
       ],
       "email": "bogdan.gheorghiu@cdep.ro",
-      "family_name": "Gheorghiu",
-      "gender": "male",
-      "given_name": "Bogdan",
       "id": "4cadd362-5b9c-464c-8100-c0519603c870",
-      "identifiers": [
-        {
-          "identifier": "Q28113964",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Gheorghiu_Bogdan.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Gheorghiu_Bogdan.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Bogdan_Gheorghiu"
         }
       ],
       "name": "Bogdan GHEORGHIU",
@@ -7732,32 +7208,17 @@
     },
     {
       "birth_date": "1956-09-25",
-      "gender": "male",
       "id": "4d529b60-0cff-4331-8d77-5e356cf2547a",
       "identifiers": [
         {
           "identifier": "268",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6095518",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nosa_Iuliu.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nosa_Iuliu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Iuliu_Nosa"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Iuliu_Nosa"
         }
       ],
       "name": "Iuliu NOSA",
@@ -7841,25 +7302,11 @@
         }
       ],
       "email": "marius.iancu@cdep.ro",
-      "gender": "male",
-      "given_name": "Marius",
       "id": "4f4002f7-9c9d-49b3-8a07-87c633476221",
-      "identifiers": [
-        {
-          "identifier": "Q28113875",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Iancu_Marius.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Iancu_Marius.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Marius-Ionel_Iancu"
         }
       ],
       "name": "Marius-Ionel IANCU",
@@ -7874,39 +7321,14 @@
         }
       ],
       "email": "marius.pascan@cdep.ro",
-      "gender": "male",
-      "given_name": "Emil",
       "id": "4f803867-67b1-459e-a995-8b6025d30040",
-      "identifiers": [
-        {
-          "identifier": "Q21747040",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Pascan_Emil.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Pascan_Emil.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Emil-Marius_Pașcan"
-        },
-        {
-          "note": "website",
-          "url": "http://mariuspascan.ro/"
-        }
-      ],
       "name": "Emil-Marius PAŞCAN",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Emil-Marius Pașcan",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Paşcan Emil-Marius"
     },
     {
@@ -8012,6 +7434,10 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Petre_Daea"
+        },
+        {
+          "note": "Wikiquote (ro)",
+          "url": "https://ro.wikiquote.org/wiki/Petre_Daea"
         }
       ],
       "name": "Petre DAEA",
@@ -8210,16 +7636,11 @@
     },
     {
       "birth_date": "1960-01-31",
-      "gender": "female",
       "id": "52e78121-81a4-4b82-ae14-806b3b7c0d9d",
       "identifiers": [
         {
           "identifier": "60",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179165",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Chereches_Florica.jpg",
@@ -8228,24 +7649,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Chereches_Florica.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florica_Cherecheș"
-        },
-        {
-          "note": "website",
-          "url": "http://www.fchereches.ro/"
-        }
-      ],
       "name": "Florica CHERECHEŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Florica Cherecheș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Cherecheş Florica"
     },
     {
@@ -8420,14 +7824,7 @@
     },
     {
       "birth_date": "1954-12-28",
-      "gender": "male",
       "id": "54cb7b97-b318-432a-86e5-a9575ee6eb10",
-      "identifiers": [
-        {
-          "identifier": "Q55790959",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Gherman_Dumitru.jpg",
       "images": [
         {
@@ -8476,28 +7873,17 @@
     },
     {
       "birth_date": "1954-04-02",
-      "gender": "male",
       "id": "551b5b1a-59e9-4e9b-915b-944a2dab3173",
       "identifiers": [
         {
           "identifier": "34",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12743139",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Bleotu_Vasile.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Bleotu_Vasile.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Vasile_Bleotu"
         }
       ],
       "name": "Vasile BLEOTU",
@@ -8595,35 +7981,14 @@
     },
     {
       "birth_date": "1978-09-21",
-      "gender": "male",
-      "given_name": "Alin",
       "id": "57746484-1f5c-4f46-a078-16012fdfc9de",
-      "identifiers": [
-        {
-          "identifier": "Q28084513",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Vacaru_Alin.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Vacaru_Alin.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Alin_Vasile_Văcaru"
-        }
-      ],
       "name": "Alin Vasile VĂCARU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Alin-Vasile Văcaru",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Văcaru Alin Vasile"
     },
     {
@@ -8657,28 +8022,17 @@
     },
     {
       "birth_date": "1980-10-29",
-      "gender": "male",
       "id": "57ebea7d-997e-4dfb-87db-452c1091b66e",
       "identifiers": [
         {
           "identifier": "122",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179222",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Dumitru_Ovidiu_Ioan.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Dumitru_Ovidiu_Ioan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ovidiu-Ioan_Dumitru"
         }
       ],
       "name": "Ovidiu-Ioan DUMITRU",
@@ -8823,12 +8177,15 @@
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Balan_Ioan.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Conventia_PD-L_2013_-_Ioan_Balan.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Ioan_Bălan"
+          "url": "https://commons.wikimedia.org/wiki/Category:Ioan_Balan"
         },
         {
           "note": "Wikipedia (ro)",
@@ -8840,39 +8197,14 @@
     },
     {
       "birth_date": "1957-05-17",
-      "gender": "male",
       "id": "587b6ebf-23e6-46cc-8583-adb6c5b009a7",
-      "identifiers": [
-        {
-          "identifier": "Q55791064",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Stan_Viorel.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Stan_Viorel.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Viorel_Stan"
-        }
-      ],
       "name": "Viorel STAN",
-      "other_names": [
-        {
-          "lang": "nl",
-          "name": "Stan Viorel",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sl",
-          "name": "Stan Viorel",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Stan Viorel"
     },
     {
@@ -8910,75 +8242,32 @@
     },
     {
       "birth_date": "1956-08-28",
-      "gender": "male",
-      "given_name": "Corneliu",
       "id": "58eefd1e-8cd1-4b73-9792-05aad73670bf",
-      "identifiers": [
-        {
-          "identifier": "Q12725739",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Bichinet_Corneliu.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Bichinet_Corneliu.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Corneliu_Bichineț"
-        }
-      ],
       "name": "Corneliu BICHINEŢ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Corneliu Bichineț",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Bichineţ Corneliu"
     },
     {
       "birth_date": "1951-07-22",
-      "gender": "male",
-      "given_name": "Eugen",
       "id": "591e1264-8892-4d1d-9e6c-78e5751588be",
       "identifiers": [
         {
           "identifier": "59",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18538914",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Chebac_Eugen.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Chebac_Eugen.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Eugen_Chebac,_presedinte_Consiliul_Judetului_Galati.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eugen_Chebac"
         }
       ],
       "name": "Eugen CHEBAC",
-      "other_names": [
-        {
-          "lang": "ja",
-          "name": "エウゼン・チェバック",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Chebac Eugen"
     },
     {
@@ -9056,223 +8345,20 @@
     },
     {
       "birth_date": "1967-03-06",
-      "family_name": "Tudose",
-      "gender": "male",
-      "given_name": "Mihai",
       "id": "5b23dac0-ae55-4a51-8a68-44707e9d6417",
       "identifiers": [
         {
           "identifier": "383",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "1136129758",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "4483",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "4429149919438306650007",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q12735517",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/TudoseMihai.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/TudoseMihai.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Mihai_Tudose_2018.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (be)",
-          "url": "https://be.wikipedia.org/wiki/Міхай_Тудосэ"
-        },
-        {
-          "note": "Wikipedia (bg)",
-          "url": "https://bg.wikipedia.org/wiki/Михай_Тудосе"
-        },
-        {
-          "note": "Wikipedia (cs)",
-          "url": "https://cs.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (el)",
-          "url": "https://el.wikipedia.org/wiki/Μιχάι_Τουντόσε"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (fi)",
-          "url": "https://fi.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/מיכאי_טודוסה"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/미하이_투도세"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Michael_Tudose"
-        },
-        {
-          "note": "Wikipedia (lb)",
-          "url": "https://lb.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (lv)",
-          "url": "https://lv.wikipedia.org/wiki/Mihajs_Tudose"
-        },
-        {
-          "note": "Wikipedia (ms)",
-          "url": "https://ms.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (mzn)",
-          "url": "https://mzn.wikipedia.org/wiki/میگوی_تودوس"
-        },
-        {
-          "note": "Wikipedia (nl)",
-          "url": "https://nl.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Тудосе,_Михай"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Mihai_Tudose"
-        },
-        {
-          "note": "Wikipedia (uk)",
-          "url": "https://uk.wikipedia.org/wiki/Міхай_Тудосе"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/米哈伊·圖多塞"
         }
       ],
       "name": "Mihai TUDOSE",
-      "other_names": [
-        {
-          "lang": "be",
-          "name": "Міхай Тудосэ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bg",
-          "name": "Михай Тудосе",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Μιχάι Τουντόσε",
-          "note": "multilingual"
-        },
-        {
-          "lang": "he",
-          "name": "מיכאי טודוסה",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "ミハイ・トゥドセ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "미하이 투도세",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Michael Tudose",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lv",
-          "name": "Mihajs Tudose",
-          "note": "multilingual"
-        },
-        {
-          "lang": "mzn",
-          "name": "میگوی تودوس",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Тудосе, Михай",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tt",
-          "name": "Михай Тудосе",
-          "note": "multilingual"
-        },
-        {
-          "lang": "uk",
-          "name": "Міхай Тудосе",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "米哈伊·杜多斯",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Tudose Mihai"
     },
     {
@@ -9315,28 +8401,17 @@
     },
     {
       "birth_date": "1979-10-14",
-      "gender": "male",
       "id": "5b554408-d496-4489-a84a-27b169f101b1",
       "identifiers": [
         {
           "identifier": "126",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179229",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Enea_Constantin_Cosmin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Enea_Constantin_Cosmin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Constantin-Cosmin_Enea"
         }
       ],
       "name": "Constantin-Cosmin ENEA",
@@ -9403,29 +8478,17 @@
     },
     {
       "birth_date": "1956-12-17",
-      "gender": "male",
-      "given_name": "Constantin",
       "id": "5c4ed320-4bb4-4001-a2cf-2d1b6e50e4f1",
       "identifiers": [
         {
           "identifier": "137",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179237",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Galan_Constantin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Galan_Constantin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Constantin_Galan"
         }
       ],
       "name": "Constantin GALAN",
@@ -9574,16 +8637,11 @@
     },
     {
       "birth_date": "1970-07-11",
-      "gender": "male",
       "id": "60a052ff-121e-4104-b424-d12dfa9f4485",
       "identifiers": [
         {
           "identifier": "79",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179186",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Condurateanu_Andrei_Razvan.jpg",
@@ -9592,20 +8650,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Condurateanu_Andrei_Razvan.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Andrei-Răzvan_Condurățeanu"
-        }
-      ],
       "name": "Andrei-Răzvan CONDURĂŢEANU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Andrei-Răzvan Condurățeanu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Condurăţeanu Andrei-Răzvan"
     },
     {
@@ -9948,17 +8993,11 @@
     },
     {
       "birth_date": "1972-02-09",
-      "gender": "male",
-      "given_name": "Ioan",
       "id": "66c89341-c019-4113-b821-91625bc7f78d",
       "identifiers": [
         {
           "identifier": "62",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179167",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Chirtes_Ioan_Cristian.jpg",
@@ -9967,20 +9006,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Chirtes_Ioan_Cristian.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ioan-Cristian_Chirteș"
-        }
-      ],
       "name": "Ioan-Cristian CHIRTEŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ioan-Cristian Chirteș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Chirteş Ioan-Cristian"
     },
     {
@@ -10232,35 +9258,14 @@
         }
       ],
       "email": "norbert.apjok@cdep.ro",
-      "gender": "male",
-      "given_name": "Norbert",
       "id": "68f371b0-e24b-4133-bfcc-4f2889dec846",
-      "identifiers": [
-        {
-          "identifier": "Q28111482",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Apjok_Norbert.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Apjok_Norbert.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Apjok_Norbert"
-        }
-      ],
       "name": "APJOK Norbert",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Norbert Apjok",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Apjok Norbert"
     },
     {
@@ -10636,44 +9641,14 @@
         }
       ],
       "email": "ioana.bran@cdep.ro",
-      "gender": "female",
-      "given_name": "Ioana",
       "id": "6c57e502-ec37-4619-88f5-d0519282d7a2",
-      "identifiers": [
-        {
-          "identifier": "Q28113816",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Bran_Ioana.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Bran_Ioana.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Ioanna_Bran"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ioana_Bran"
-        }
-      ],
       "name": "Ioana BRAN",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ioana Pizda",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Ioanna Bran",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Bran Ioana"
     },
     {
@@ -10869,62 +9844,17 @@
       "sort_name": "Ciofu Tamara-Dorina"
     },
     {
-      "birth_date": "1952-06-30",
-      "death_date": "2014-02-03",
-      "gender": "male",
-      "given_name": "Mircea",
       "id": "6d87b9e9-ce01-451c-855f-416b550bd3b5",
       "identifiers": [
         {
           "identifier": "156",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "no2016071272",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "17146635421341980768",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q3858799",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Grosaru_Mircea.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Grosaru_Mircea.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mircea_Grosaru_a_Trento_(crop).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Mircea_Grosaru"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Mircea_Grosaru"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mircea_Grosaru"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Mircea_Grosaru"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mircea_Grosaru"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Mircea_Grosaru"
         }
       ],
       "name": "Mircea GROSARU",
@@ -10932,54 +9862,20 @@
     },
     {
       "birth_date": "1949-08-31",
-      "gender": "male",
-      "given_name": "Radu",
       "id": "6e25fca4-6c93-4905-93cf-e317749e1345",
       "identifiers": [
         {
           "identifier": "351",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q7281730",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/StroeRadu.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/StroeRadu.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Radu_Stroe.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Radu_Stroe"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Radu_Stroe"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Radu_Stroe"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/拉杜·斯特罗埃"
         }
       ],
       "name": "Radu STROE",
-      "other_names": [
-        {
-          "lang": "zh",
-          "name": "拉杜·斯特罗埃",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Stroe Radu"
     },
     {
@@ -11258,28 +10154,17 @@
     },
     {
       "birth_date": "1955-01-13",
-      "gender": "female",
       "id": "72978bde-38a2-4c53-8223-ba1f96059005",
       "identifiers": [
         {
           "identifier": "265",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179338",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nistor_Marioara.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nistor_Marioara.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Marioara_Nistor"
         }
       ],
       "name": "Marioara NISTOR",
@@ -11346,44 +10231,17 @@
     },
     {
       "birth_date": "1967-08-15",
-      "gender": "male",
-      "given_name": "Nicolae",
       "id": "7367492b-6527-43f6-b2c0-2ef331730fbd",
       "identifiers": [
         {
           "identifier": "397",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "1077635214",
-          "scheme": "gnd"
-        },
-        {
-          "identifier": "168144782963901815350",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q11791098",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nicolae_Vasilescu.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nicolae_Vasilescu.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/N._Vasilescu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Nicolae_Vasilescu_(polityk)"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Nicolae_Vasilescu"
         }
       ],
       "name": "Nicolae VASILESCU",
@@ -11656,28 +10514,17 @@
     },
     {
       "birth_date": "1962-10-22",
-      "gender": "male",
       "id": "7534b42f-0476-462a-8e4d-9d21ea51684b",
       "identifiers": [
         {
           "identifier": "260",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179334",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Niculescu_Dumitru.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Niculescu_Dumitru.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dumitru_Niculescu"
         }
       ],
       "name": "Dumitru NICULESCU",
@@ -11728,61 +10575,29 @@
         }
       ],
       "email": "oana.bizgan@cdep.ro",
-      "gender": "female",
-      "given_name": "Oana",
       "id": "75fbff48-482e-430d-981b-b80cb2c902d6",
-      "identifiers": [
-        {
-          "identifier": "Q28035341",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Bizgan_Oana.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Bizgan_Oana.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Oana_Bîzgan"
-        }
-      ],
       "name": "Oana-Mioara BÎZGAN-GAYRAL",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Oana Bîzgan",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Bîzgan-Gayral Oana-Mioara"
     },
     {
       "birth_date": "1960-06-30",
-      "gender": "male",
       "id": "770dada7-2eef-40e1-a59b-2aabd309d7e4",
       "identifiers": [
         {
           "identifier": "6",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12734993",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Almajanu_Marin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Almajanu_Marin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Marin_Almăjanu"
         }
       ],
       "name": "Marin ALMĂJANU",
@@ -11944,89 +10759,21 @@
     },
     {
       "birth_date": "1962-12-12",
-      "family_name": "Silaghi",
       "gender": "male",
-      "given_name": "Ovidiu",
       "id": "78932d3b-45c0-47b2-9c89-b6492441c781",
       "identifiers": [
         {
-          "identifier": "33991",
-          "scheme": "europarlmep"
-        },
-        {
           "identifier": "333",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/027gfq3",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q347505",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Silaghi_Ovidiu_Ioan.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ovidiu_Ioan_Silaghi.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Ovidiu_Ioan_Silaghi"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ovidiu_Ioan_Silaghi"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ovidiu_Silaghi"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Ovidiu_Silaghi"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Ovidius_Silaghi"
-        },
-        {
-          "note": "Wikipedia (mg)",
-          "url": "https://mg.wikipedia.org/wiki/Ovidiu_Silaghi"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ovidiu_Silaghi"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ovidiu_Silaghi"
         }
       ],
       "name": "Ovidiu Ioan SILAGHI",
-      "other_names": [
-        {
-          "lang": "el",
-          "name": "Ομπίντιου Σίλαγκι",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Ovidiu Silaghi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Ovidius Silaghi",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Silaghi Ovidiu Ioan"
     },
     {
@@ -12133,6 +10880,12 @@
     },
     {
       "birth_date": "1977-06-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "korodiattila"
+        }
+      ],
       "gender": "male",
       "given_name": "Attila",
       "id": "7a8edbe9-33fb-43af-9a14-72521fd2c4f9",
@@ -12176,6 +10929,14 @@
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Attila_Korodi"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/korodiattilakepviselo"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/korodiattila"
         }
       ],
       "name": "KORODI Attila",
@@ -12197,25 +10958,11 @@
         }
       ],
       "email": "victoria.longher@cdep.ro",
-      "gender": "female",
-      "given_name": "Victoria",
       "id": "7b3f5eb8-34f3-4283-9efa-bb9408c62387",
-      "identifiers": [
-        {
-          "identifier": "Q28055984",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Longher_Victoria.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Longher_Victoria.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Victoria_Longher"
         }
       ],
       "name": "Victoria LONGHER",
@@ -12301,16 +11048,11 @@
     },
     {
       "birth_date": "1973-12-13",
-      "gender": "male",
       "id": "7d3685d5-d3cd-4953-a4d6-1a29c61f9e8b",
       "identifiers": [
         {
           "identifier": "209",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18541723",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Martin_Eduard_Stelian.jpg",
@@ -12319,40 +11061,22 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Martin_Eduard_Stelian.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eduard-Stelian_Martin"
-        }
-      ],
       "name": "Eduard-Stelian MARTIN",
       "sort_name": "Martin Eduard-Stelian"
     },
     {
       "birth_date": "1973-01-23",
-      "gender": "male",
-      "given_name": "Alin",
       "id": "7e01b6db-1c0a-4b8f-9999-0ab7753686ed",
       "identifiers": [
         {
           "identifier": "301",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18547008",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Popoviciu_Alin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Popoviciu_Alin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Alin_Augustin_Florin_Popoviciu"
         }
       ],
       "name": "Alin Augustin Florin POPOVICIU",
@@ -12394,6 +11118,10 @@
         {
           "type": "email",
           "value": "liviu.plesoianu@cdep.ro"
+        },
+        {
+          "type": "twitter",
+          "value": "liviu_plesoianu"
         }
       ],
       "email": "liviu.plesoianu@cdep.ro",
@@ -12424,6 +11152,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/liviuplesoianu.oficial"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/liviu_plesoianu"
         },
         {
           "note": "website",
@@ -12658,50 +11390,24 @@
     },
     {
       "birth_date": "1955-10-05",
-      "gender": "female",
-      "given_name": "Viorica",
       "id": "811d2b9f-8a02-42ac-b504-3d65bb777660",
-      "identifiers": [
-        {
-          "identifier": "Q28111681",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Chereches_Viorica.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Chereches_Viorica.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Viorica_Cherecheș"
-        }
-      ],
       "name": "Viorica CHERECHEŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Viorica Cherecheș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Cherecheş Viorica"
     },
     {
       "birth_date": "1977-07-28",
       "gender": "male",
-      "given_name": "Radu",
       "id": "82183216-d3a2-4039-a547-7b6f26fbc9c6",
       "identifiers": [
         {
           "identifier": "387",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21747083",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/TimpauRaduBogdan.jpg",
@@ -12710,20 +11416,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/TimpauRaduBogdan.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Radu_Bogdan_Țîmpău"
-        }
-      ],
       "name": "Radu Bogdan ŢÎMPĂU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Radu Bogdan Țîmpău",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Ţîmpău Radu Bogdan"
     },
     {
@@ -12898,33 +11591,17 @@
     },
     {
       "birth_date": "1955-06-10",
-      "gender": "male",
-      "given_name": "Gheorghe",
       "id": "84721e03-545c-4683-a8a8-537b29c34e4b",
       "identifiers": [
         {
           "identifier": "132",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12729143",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Firczak_Gheorghe.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Firczak_Gheorghe.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Gheorghe_Firczak"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Firczak"
         }
       ],
       "name": "Gheorghe FIRCZAK",
@@ -13612,7 +12289,9 @@
         }
       ],
       "email": "maricela.cobuz@cdep.ro",
+      "family_name": "Cobuz",
       "gender": "female",
+      "given_name": "Maricela",
       "id": "8828ba8e-c62a-45b4-9122-4f73fd4309cb",
       "identifiers": [
         {
@@ -13743,25 +12422,11 @@
         }
       ],
       "email": "dan.vilceanu@cdep.ro",
-      "gender": "male",
-      "given_name": "Dan",
       "id": "8ac438af-3c71-46d7-a349-4813d0032f4a",
-      "identifiers": [
-        {
-          "identifier": "Q28084569",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Vilceanu_Dan.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Vilceanu_Dan.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dan_Vîlceanu"
         }
       ],
       "name": "Dan VÎLCEANU",
@@ -13815,35 +12480,14 @@
         }
       ],
       "email": "cristina.pruna@cdep.ro",
-      "gender": "female",
-      "given_name": "Cristina",
       "id": "8b5b61a4-1a8c-46ad-ad3c-cfe141c101d4",
-      "identifiers": [
-        {
-          "identifier": "Q28035524",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Pruna_Cristina.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Pruna_Cristina.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Cristina-Mădălina_Prună"
-        }
-      ],
       "name": "Cristina-Mădălina PRUNĂ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Cristina Mădălina Prună",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Prună Cristina-Mădălina"
     },
     {
@@ -13989,17 +12633,11 @@
     },
     {
       "birth_date": "1981-03-24",
-      "gender": "male",
-      "given_name": "Diana",
       "id": "8ed00f24-3a2d-49d9-bf7d-7e234b8e88ec",
       "identifiers": [
         {
           "identifier": "328",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12743050",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/ScheleanValeriaDiana.jpg",
@@ -14008,30 +12646,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/ScheleanValeriaDiana.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Valeria-Diana_Schelean"
-        }
-      ],
       "name": "Valeria-Diana SCHELEAN-ŞOMFELEAN",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Valeria-Diana Schelean",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Valeria-Diana Schelean-Șomfelean",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Valeria-Diana Schelean",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Schelean-Şomfelean Valeria-Diana"
     },
     {
@@ -14149,28 +12764,17 @@
     },
     {
       "birth_date": "1970-10-12",
-      "gender": "male",
       "id": "8f915832-7135-4598-a33d-b714505335e0",
       "identifiers": [
         {
           "identifier": "175",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18540841",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Iane_Ovidiu_Cristian.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Iane_Ovidiu_Cristian.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ovidiu-Cristian_Iane"
         }
       ],
       "name": "Ovidiu-Cristian IANE",
@@ -14339,6 +12943,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Dan Barna",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Dan Barna",
           "note": "multilingual"
@@ -14411,28 +13020,17 @@
     },
     {
       "birth_date": "1950-09-20",
-      "gender": "male",
       "id": "95a65d1c-d3c0-4618-a332-297498bbd6af",
       "identifiers": [
         {
           "identifier": "83",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21746978",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Covaci_Dorel.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Covaci_Dorel.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dorel_Covaci"
         }
       ],
       "name": "Dorel COVACI",
@@ -14589,25 +13187,11 @@
         }
       ],
       "email": "lucian.simion@cdep.ro",
-      "gender": "male",
-      "given_name": "Lucian",
       "id": "975c5d8a-d960-49d3-a9e9-7475bf9feee1",
-      "identifiers": [
-        {
-          "identifier": "Q28113959",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Simion_Lucian.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Simion_Lucian.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Lucian-Eduard_Simion"
         }
       ],
       "name": "Lucian-Eduard SIMION",
@@ -14615,28 +13199,11 @@
     },
     {
       "birth_date": "1975-02-23",
-      "gender": "male",
-      "given_name": "Leonardo",
       "id": "97adf278-e83a-4b3e-b28a-0f394fc84d24",
-      "identifiers": [
-        {
-          "identifier": "Q21746956",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Badea_Leonardo.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Badea_Leonardo.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Presedinte_ASF_Leonardo_Badea.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Leonardo_Badea"
         }
       ],
       "name": "Leonardo BADEA",
@@ -14816,14 +13383,7 @@
     },
     {
       "birth_date": "1964-05-28",
-      "gender": "female",
       "id": "9957ca79-fca0-4e64-bee4-be57bfa8c7a9",
-      "identifiers": [
-        {
-          "identifier": "Q55791016",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Haratau_Elena.JPG",
       "images": [
         {
@@ -15121,25 +13681,11 @@
         }
       ],
       "email": "vasile.axinte@cdep.ro",
-      "gender": "male",
-      "given_name": "Vasile",
       "id": "9bf94465-d0a1-4806-9aee-07a05d71b490",
-      "identifiers": [
-        {
-          "identifier": "Q28085936",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Axinte_Vasile.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Axinte_Vasile.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Vasile_Axinte"
         }
       ],
       "name": "Vasile AXINTE",
@@ -15147,35 +13693,17 @@
     },
     {
       "birth_date": "1959-04-25",
-      "gender": "male",
       "id": "9ccb7969-a64e-4c39-884b-a1d319a07fc5",
       "identifiers": [
         {
           "identifier": "277",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q14429591",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Pambuccian_Varujan.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Pambuccian_Varujan.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Varujan_Pambuccian_(2).JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Varujan_Pambuccian"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Varujan_Pambuccian"
         }
       ],
       "name": "Varujan PAMBUCCIAN",
@@ -15495,62 +14023,29 @@
         }
       ],
       "email": "mara.mares@cdep.ro",
-      "gender": "female",
-      "given_name": "Mara",
       "id": "9f994a2b-d30a-4ce5-b896-c3d1b117fe31",
-      "identifiers": [
-        {
-          "identifier": "Q28039632",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Mares_Mara.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Mares_Mara.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mara_Mareș"
-        }
-      ],
       "name": "Mara MAREŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mara Mareș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Mareş Mara"
     },
     {
       "birth_date": "1977-07-03",
-      "gender": "male",
-      "given_name": "Răzvan",
       "id": "9fbcccd4-5893-4ac2-9303-6d3b38c785ee",
       "identifiers": [
         {
           "identifier": "320",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179368",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Rotaru_Razvan.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Rotaru_Razvan.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Răzvan_Rotaru"
         }
       ],
       "name": "Răzvan ROTARU",
@@ -15602,35 +14097,14 @@
         }
       ],
       "email": "violeta_radut@yahoo.com",
-      "gender": "female",
-      "given_name": "Violeta",
       "id": "a03de03e-2180-4a92-b46b-c54887364c4b",
-      "identifiers": [
-        {
-          "identifier": "Q28914210",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Radut_Violeta.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Radut_Violeta.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/violeta.radut"
-        }
-      ],
       "name": "Violeta RĂDUŢ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Violeta Răduț",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Răduţ Violeta"
     },
     {
@@ -15683,29 +14157,17 @@
     },
     {
       "birth_date": "1967-06-20",
-      "gender": "male",
-      "given_name": "Daniel",
       "id": "a1bb82c3-78ab-4c2c-a57e-34c06c8610f7",
       "identifiers": [
         {
           "identifier": "174",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179265",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Iane_Daniel.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Iane_Daniel.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Daniel_Iane"
         }
       ],
       "name": "Daniel IANE",
@@ -15743,28 +14205,17 @@
     },
     {
       "birth_date": "1978-12-15",
-      "gender": "male",
       "id": "a2a995f9-121a-446f-90c5-11748f0832ed",
       "identifiers": [
         {
           "identifier": "143",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179241",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Gheorghe_Florin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Gheorghe_Florin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florin_Gheorghe"
         }
       ],
       "name": "Florin GHEORGHE",
@@ -15917,50 +14368,20 @@
     },
     {
       "birth_date": "1968-06-29",
-      "gender": "male",
-      "given_name": "Florin",
       "id": "a465367b-9ddb-4a24-b6e6-ab71776666c7",
       "identifiers": [
         {
           "identifier": "300",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12728406",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Popescu_Florin_Aurelian.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Popescu_Florin_Aurelian.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Conventia_PD-L_2013_-_Florin_Popescu_(1).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Florin_Popescu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florin_Aurelian_Popescu"
-        },
-        {
-          "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/弗洛林·奥勒扬·波佩斯库"
         }
       ],
       "name": "Florin Aurelian POPESCU",
-      "other_names": [
-        {
-          "lang": "zh",
-          "name": "弗洛林·奥勒扬·波佩斯库",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Popescu Florin Aurelian"
     },
     {
@@ -16106,35 +14527,14 @@
     },
     {
       "birth_date": "1985-12-22",
-      "gender": "male",
-      "given_name": "Ciprian",
       "id": "a56e5b34-0a0a-4572-8f82-db35305f8850",
-      "identifiers": [
-        {
-          "identifier": "Q28113991",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Serban_Ciprian.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Serban_Ciprian.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ciprian-Constantin_Șerban"
-        }
-      ],
       "name": "Ciprian-Constantin ŞERBAN",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Ciprian-Constantin Șerban",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Şerban Ciprian-Constantin"
     },
     {
@@ -16250,36 +14650,17 @@
     },
     {
       "birth_date": "1958-10-15",
-      "gender": "male",
       "id": "a92f39b9-6821-40c5-9fcd-f123e5527ad6",
       "identifiers": [
         {
           "identifier": "53",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "5361",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "Q5175131",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Canacheu_Costica.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Canacheu_Costica.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Costică_Canacheu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Costică_Canacheu"
         }
       ],
       "name": "Costică CANACHEU",
@@ -16316,29 +14697,17 @@
     },
     {
       "birth_date": "1960-05-16",
-      "gender": "male",
-      "given_name": "Mihai",
       "id": "a9ef778b-73fd-41f7-8a9b-6d5e1c342f93",
       "identifiers": [
         {
           "identifier": "96",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18539611",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Deaconu_Mihai.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Deaconu_Mihai.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mihai_Deaconu"
         }
       ],
       "name": "Mihai DEACONU",
@@ -16376,17 +14745,11 @@
     },
     {
       "birth_date": "1959-09-14",
-      "gender": "male",
-      "given_name": "Gheorghe",
       "id": "aa9124cb-8722-44c5-95cf-0424a10ab478",
       "identifiers": [
         {
           "identifier": "172",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q3104827",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ialomitianu_Gheorghe.jpg",
@@ -16395,33 +14758,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Ialomitianu_Gheorghe.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Gheorghe_Ialomițianu"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Georgius_Ialomițianu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Ialomițianu"
-        }
-      ],
       "name": "Gheorghe IALOMIŢIANU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Gheorghe Ialomițianu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Georgius Ialomițianu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Ialomiţianu Gheorghe"
     },
     {
@@ -16459,28 +14796,17 @@
     },
     {
       "birth_date": "1971-04-03",
-      "gender": "male",
       "id": "aadc9c5c-a0b0-41e9-928b-d4a2515f31f6",
       "identifiers": [
         {
           "identifier": "74",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179180",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ciurariu_Florin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Ciurariu_Florin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florin_Ciurariu"
         }
       ],
       "name": "Florin CIURARIU",
@@ -16713,30 +15039,17 @@
     },
     {
       "birth_date": "1967-09-28",
-      "family_name": "Muistul",
-      "gender": "male",
-      "given_name": "Alexandri",
       "id": "b0623653-8fdd-4faf-b50d-48063a59e283",
       "identifiers": [
         {
           "identifier": "254",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12720255",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nicolae_Alexandri.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nicolae_Alexandri.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Alexandri_Nicolae"
         }
       ],
       "name": "Alexandri NICOLAE",
@@ -16816,6 +15129,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Monica_Iacob_Ridzi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Monica_Iacob_Ridzi"
         },
         {
           "note": "Wikipedia (it)",
@@ -17127,17 +15444,11 @@
     },
     {
       "birth_date": "1962-08-24",
-      "gender": "male",
-      "given_name": "Viorel",
       "id": "b35dc435-cde2-4633-a096-3be60eacdc15",
       "identifiers": [
         {
           "identifier": "274",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21747038",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Palasca_Viorel.jpg",
@@ -17146,20 +15457,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Palasca_Viorel.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Viorel_Palașcă"
-        }
-      ],
       "name": "Viorel PALAŞCĂ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Viorel Palașcă",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Palaşcă Viorel"
     },
     {
@@ -17171,25 +15469,11 @@
         }
       ],
       "email": "bogdan.stoica@cdep.ro",
-      "gender": "male",
-      "given_name": "Bogdan",
       "id": "b4e7b70a-43af-44c3-acaf-492c1de24f4d",
-      "identifiers": [
-        {
-          "identifier": "Q28113897",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Stoica_Bogdan.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Stoica_Bogdan.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Bogdan-Alin_Stoica"
         }
       ],
       "name": "Bogdan-Alin STOICA",
@@ -17474,39 +15758,14 @@
     },
     {
       "birth_date": "1978-04-29",
-      "gender": "male",
-      "given_name": "Florin",
       "id": "b7188892-64b4-43db-af16-f525181bbe9b",
-      "identifiers": [
-        {
-          "identifier": "Q28050361",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Petcu_Toma.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Petcu_Toma.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Thomas_Petcu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Toma-Florin_Petcu"
-        }
-      ],
       "name": "Toma-Florin PETCU",
-      "other_names": [
-        {
-          "lang": "la",
-          "name": "Thomas Petcu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Petcu Toma-Florin"
     },
     {
@@ -17645,6 +15904,11 @@
         {
           "lang": "fr",
           "name": "Daniel Suciu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Basilius Daniel Suciu",
           "note": "multilingual"
         }
       ],
@@ -18367,29 +16631,17 @@
     },
     {
       "birth_date": "1972-02-06",
-      "gender": "male",
-      "given_name": "Gheorghe",
       "id": "bcacd023-a0f3-4514-94be-a975bb6aeeb2",
       "identifiers": [
         {
           "identifier": "314",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21747051",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Roman_Gheorghe.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Roman_Gheorghe.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe_Roman_(deputat,_născut_în_1972)"
         }
       ],
       "name": "Gheorghe ROMAN",
@@ -18487,25 +16739,11 @@
         }
       ],
       "email": "alexandra.presura@cdep.ro",
-      "gender": "female",
-      "given_name": "Alexandra",
       "id": "bde298bc-90c0-4383-9c0e-1e9535b074ba",
-      "identifiers": [
-        {
-          "identifier": "Q28045611",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Presura_Alexandra.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Presura_Alexandra.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Alexandra_Presură"
         }
       ],
       "name": "Alexandra PRESURĂ",
@@ -18664,12 +16902,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Marius_Budăi"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Marius-Constantin_Budăi"
         }
       ],
       "name": "Marius-Constantin BUDĂI",
       "other_names": [
+        {
+          "lang": "la",
+          "name": "Marius Budăi",
+          "note": "multilingual"
+        },
         {
           "lang": "nl",
           "name": "Marius-Constantin Budai",
@@ -18763,30 +17010,17 @@
       "sort_name": "Ghiţă Sebastian-Aurelian"
     },
     {
-      "birth_date": "1950-10-01",
-      "death_date": "2016-09-25",
-      "gender": "male",
       "id": "bf8dd7da-a9ca-4e12-be49-abe2b0e40eba",
       "identifiers": [
         {
           "identifier": "222",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12736796",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Mircovici_Niculae.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Mircovici_Niculae.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Niculae_Mircovici"
         }
       ],
       "name": "Niculae MIRCOVICI",
@@ -18841,24 +17075,11 @@
         }
       ],
       "email": "florinel.stancu@cdep.ro",
-      "gender": "male",
       "id": "c022663e-0b53-48ca-93ac-afd34586d463",
-      "identifiers": [
-        {
-          "identifier": "Q28045613",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Stancu_Florinel.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Stancu_Florinel.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Florinel_Stancu"
         }
       ],
       "name": "Florinel STANCU",
@@ -19134,25 +17355,11 @@
     },
     {
       "birth_date": "1971-10-07",
-      "gender": "male",
-      "given_name": "Liviu",
       "id": "c2132f08-95ac-44f7-a4f0-51ea101cfe8a",
-      "identifiers": [
-        {
-          "identifier": "Q28113874",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Balint_Liviu.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Balint_Liviu.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Liviu-Ioan_Balint"
         }
       ],
       "name": "Liviu-Ioan BALINT",
@@ -19189,18 +17396,11 @@
     },
     {
       "birth_date": "1960-02-15",
-      "family_name": "Ciocan",
-      "gender": "male",
-      "given_name": "Dan",
       "id": "c26ae69a-c5fa-4327-9f29-1301f086f999",
       "identifiers": [
         {
           "identifier": "68",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179172",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ciocan_Dan.jpg",
@@ -19209,93 +17409,25 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Ciocan_Dan.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dan_Ciocan"
-        }
-      ],
       "name": "Dan CIOCAN",
       "sort_name": "Ciocan Dan"
     },
     {
       "birth_date": "1960-06-22",
-      "family_name": "Plumb",
-      "gender": "female",
       "id": "c2a310a8-290f-4c89-a713-3509ed7636cc",
       "identifiers": [
         {
-          "identifier": "38595",
-          "scheme": "europarlmep"
-        },
-        {
           "identifier": "290",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/0h_dxyv",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q443095",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Plumb_Rovana.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Plumb_Rovana.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mitingul_Electoral_al_Aliantei_PSD-UNPR-PC,_Galati_-_10.05_(14)_(14278213368).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Rovana_Plumb"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Rovana_Plumb"
         }
       ],
       "name": "Rovana PLUMB",
-      "other_names": [
-        {
-          "lang": "el",
-          "name": "Ροβάνα Πλουμπ",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Plumb Rovana"
     },
     {
@@ -19445,25 +17577,11 @@
         }
       ],
       "email": "nicolaie.radu@cdep.ro",
-      "gender": "male",
-      "given_name": "Sebastian",
       "id": "c5443c4c-c0bc-45d9-90cc-0526d4897161",
-      "identifiers": [
-        {
-          "identifier": "Q28039797",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Radu_Nicolaie.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Radu_Nicolaie.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Nicolaie-Sebastian-Valentin_Radu"
         }
       ],
       "name": "Nicolaie-Sebastian-Valentin RADU",
@@ -19516,16 +17634,11 @@
     },
     {
       "birth_date": "1973-12-03",
-      "gender": "male",
       "id": "c585631c-70f0-4b27-9ce8-20b837f09091",
       "identifiers": [
         {
           "identifier": "365",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18548437",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/TalosGheorghe.jpg",
@@ -19534,63 +17647,25 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/TalosGheorghe.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gheorghe-Mirel_Taloș"
-        }
-      ],
       "name": "Gheorghe-Mirel TALOŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Gheorghe-Mirel Taloș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Taloş Gheorghe-Mirel"
     },
     {
       "birth_date": "1978-09-10",
-      "gender": "female",
       "id": "c5bf3972-c399-4dab-87d1-efbe3ab1fdff",
       "identifiers": [
         {
           "identifier": "280",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12720646",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Paul_Maria_Andreea.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Paul_Maria_Andreea.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Conventia_PD-L_2013_-_Andreea_Paul_Vass.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Andreea_Paul_Vass"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Andreea_Paul"
         }
       ],
       "name": "Maria-Andreea PAUL",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Andreea Vass",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Paul Maria-Andreea"
     },
     {
@@ -19631,25 +17706,11 @@
         }
       ],
       "email": "mirela.furtuna@cdep.ro",
-      "gender": "female",
-      "given_name": "Mirela",
       "id": "c620d1a8-7233-402e-82ec-3c8b11731fae",
-      "identifiers": [
-        {
-          "identifier": "Q28035151",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Furtuna_Mirela.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Furtuna_Mirela.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mirela_Furtună"
         }
       ],
       "name": "Mirela FURTUNĂ",
@@ -19657,28 +17718,17 @@
     },
     {
       "birth_date": "1948-07-18",
-      "gender": "male",
       "id": "c6813911-bc8b-488a-8882-5a26c4a346f8",
       "identifiers": [
         {
           "identifier": "282",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18545271",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Pargaru_Ion.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Pargaru_Ion.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ion_Pârgaru"
         }
       ],
       "name": "Ion PÂRGARU",
@@ -19763,6 +17813,13 @@
         }
       ],
       "name": "Andi-Gabriel GROSARU",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Анди-Габриэл Гросару",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Grosaru Andi-Gabriel"
     },
     {
@@ -20117,25 +18174,11 @@
         }
       ],
       "email": "dumitru.lupescu@cdep.ro",
-      "gender": "male",
-      "given_name": "Dumitru",
       "id": "c9c6110c-c732-4233-8aa4-96ccfba7ed3e",
-      "identifiers": [
-        {
-          "identifier": "Q28045453",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Lupescu_Dumitru.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Lupescu_Dumitru.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dumitru_Lupescu"
         }
       ],
       "name": "Dumitru LUPESCU",
@@ -20262,46 +18305,14 @@
         }
       ],
       "email": "adriana.saftoiu@cdep.ro",
-      "gender": "female",
-      "given_name": "Adriana",
       "id": "cb309dc4-0acf-4b7e-8b44-b08065771766",
-      "identifiers": [
-        {
-          "identifier": "nb2016001172",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "Q12720056",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Saftoiu_Adriana1.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Saftoiu_Adriana1.JPG"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Adriana_Saftoiu.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Adriana_Săftoiu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Adriana_Săftoiu"
         }
       ],
       "name": "Ana Adriana SĂFTOIU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Adriana Săftoiu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Săftoiu Ana Adriana"
     },
     {
@@ -20810,30 +18821,17 @@
     },
     {
       "birth_date": "1965-07-12",
-      "family_name": "Florea",
-      "gender": "male",
-      "given_name": "Damian",
       "id": "ce43473f-7e47-44d8-97d7-12442b2b2e41",
       "identifiers": [
         {
           "identifier": "133",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12726277",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Florea_Damian.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Florea_Damian.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Damian_Florea"
         }
       ],
       "name": "Damian FLOREA",
@@ -20848,25 +18846,11 @@
         }
       ],
       "email": "bogdan.rodeanu@cdep.ro",
-      "gender": "male",
-      "given_name": "Bogdan",
       "id": "ce7d2386-642f-4ea4-82a2-a04e5bbc8ff4",
-      "identifiers": [
-        {
-          "identifier": "Q28045667",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Rodeanu_Bogdan.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Rodeanu_Bogdan.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Bogdan-Ionel_Rodeanu"
         }
       ],
       "name": "Bogdan-Ionel RODEANU",
@@ -20906,28 +18890,17 @@
     },
     {
       "birth_date": "1967-05-26",
-      "gender": "male",
       "id": "cecbdf64-0c0b-4400-a0d8-e5cbccabfe70",
       "identifiers": [
         {
           "identifier": "33",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179145",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Blanariu_Valentin.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Blanariu_Valentin.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Valentin_Blănariu"
         }
       ],
       "name": "Valentin BLĂNARIU",
@@ -21271,156 +19244,32 @@
         }
       ],
       "email": "vasile.cocos@cdep.ro",
-      "gender": "male",
-      "given_name": "Vasile",
       "id": "d0fefcf9-fd20-4c03-968e-bc9ba696e5cf",
-      "identifiers": [
-        {
-          "identifier": "Q28113892",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Cocos_Vasile.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Cocos_Vasile.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Vasile_Cocoș"
-        }
-      ],
       "name": "Vasile COCOŞ",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Vasile Cocoș",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Cocoş Vasile"
     },
     {
       "birth_date": "1974-10-27",
-      "gender": "male",
-      "given_name": "Eduard",
       "id": "d28e94d8-acca-447a-8761-0f84f7e7570a",
       "identifiers": [
         {
-          "identifier": "37448",
-          "scheme": "europarlmep"
-        },
-        {
           "identifier": "165",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "/m/027g5cn",
-          "scheme": "freebase"
-        },
-        {
-          "identifier": "Q349024",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Hellvig_Eduard_Raul.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Hellvig_Eduard_Raul.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Eduard_Hellvig.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Eduard_Hellvig"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Eduard_Hellvig"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Eduard_Hellvig"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Eduard_Hellvig"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Eduard-Raul_Hellvig"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Eduardus_Hellvig"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Eduard-Raul_Hellvig"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eduard_Hellvig"
         }
       ],
       "name": "Eduard Raul HELLVIG",
-      "other_names": [
-        {
-          "lang": "ca",
-          "name": "Eduard-Raul Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Eduard Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Eduard Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Eduard-Raul Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Eduard Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Eduard-Raul Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "エドゥアルド・ヘルヴィグ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Eduardus Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Eduard Hellvig",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sl",
-          "name": "Eduard Hellvig",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Hellvig Eduard Raul"
     },
     {
@@ -21558,25 +19407,11 @@
     },
     {
       "birth_date": "1978-06-11",
-      "gender": "male",
-      "given_name": "Cătălin",
       "id": "d34850e0-3bb4-4c62-b5f9-cf5499810963",
-      "identifiers": [
-        {
-          "identifier": "Q28050317",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Cristache_Catalin.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Cristache_Catalin.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Cătălin_Cristache"
         }
       ],
       "name": "Cătălin CRISTACHE",
@@ -21792,28 +19627,17 @@
     {
       "birth_date": "1982-12-01",
       "gender": "female",
-      "given_name": "Ileana",
       "id": "d59b0bf0-62b1-4f4a-83bb-286d15c8a14e",
       "identifiers": [
         {
           "identifier": "119",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21746982",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Dumitrache_Ileana_Cristina.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Dumitrache_Ileana_Cristina.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ileana_Cristina_Dumitrache"
         }
       ],
       "name": "Ileana Cristina DUMITRACHE",
@@ -21889,59 +19713,20 @@
     },
     {
       "birth_date": "1955-08-02",
-      "gender": "male",
-      "given_name": "Eugen",
       "id": "d6cc5f98-d228-46d3-984e-820d689dd614",
       "identifiers": [
         {
           "identifier": "256",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5406958",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Nicolaescu_Gheorghe_Eugen.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Nicolaescu_Gheorghe_Eugen.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eugen_Nicolaescu_(2008).jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Eugen_Nicolaescu"
-        },
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Eugen_Nicolăescu"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Eugenius_Nicolăescu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Eugen_Nicolăescu"
         }
       ],
       "name": "Gheorghe-Eugen NICOLĂESCU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Eugen Nicolăescu",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Eugenius Nicolăescu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Nicolăescu Gheorghe-Eugen"
     },
     {
@@ -22604,89 +20389,29 @@
     },
     {
       "birth_date": "1973-08-30",
-      "family_name": "Birchall",
-      "gender": "female",
-      "given_name": "Ana",
       "id": "dcde408a-e077-476b-a626-896006ec4361",
       "identifiers": [
         {
           "identifier": "31",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "7075",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "Q12720574",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Birchall_Ana.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Birchall_Ana.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vice_Prime_Minister_for_Romania's_Strategic_Partnerships'_Implementation,_Ana_Birchall.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (et)",
-          "url": "https://et.wikipedia.org/wiki/Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (it)",
-          "url": "https://it.wikipedia.org/wiki/Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Anna_Birchall"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ana_Birchall"
-        },
-        {
-          "note": "Wikipedia (sv)",
-          "url": "https://sv.wikipedia.org/wiki/Ana_Birchall"
         }
       ],
       "name": "Ana BIRCHALL",
-      "other_names": [
-        {
-          "lang": "la",
-          "name": "Anna Birchall",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Birchall Ana"
     },
     {
       "birth_date": "1972-01-03",
-      "gender": "male",
       "id": "dd7abaf0-3bd8-4cc7-adb1-7bcc72ad128f",
       "identifiers": [
         {
           "identifier": "194",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q5556492",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Longher_Ghervazen.jpg",
@@ -22695,44 +20420,16 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Longher_Ghervazen.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ghervazen_Longher"
-        },
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Ghervazen_Longher"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ghervazen_Longher"
-        }
-      ],
       "name": "Ghervazen LONGHER",
       "sort_name": "Longher Ghervazen"
     },
     {
       "birth_date": "1965-12-26",
-      "gender": "male",
-      "given_name": "Slavoljub",
       "id": "ddb5c414-ff32-4257-947d-d3e787da7547",
-      "identifiers": [
-        {
-          "identifier": "Q28113954",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Adnagi_Slavoliub.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Adnagi_Slavoliub.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Slavoliub_Adnagi"
         }
       ],
       "name": "Slavoliub ADNAGI",
@@ -22773,24 +20470,11 @@
     },
     {
       "birth_date": "1957-01-24",
-      "gender": "male",
       "id": "ddc06b24-01a2-4f01-98c4-d24b765f91c9",
-      "identifiers": [
-        {
-          "identifier": "Q18544044",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Ghilea_Gavrila_1.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Ghilea_Gavrila_1.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Găvrilă_Ghilea"
         }
       ],
       "name": "Găvrilă GHILEA",
@@ -22877,29 +20561,17 @@
     },
     {
       "birth_date": "1969-06-11",
-      "gender": "male",
-      "given_name": "Daniel",
       "id": "dec1d289-350d-42aa-9e71-dc39f48c57a7",
       "identifiers": [
         {
           "identifier": "269",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q12726403",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Oajdea_Daniel_Vasile.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Oajdea_Daniel_Vasile.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Daniel_Vasile_Oajdea"
         }
       ],
       "name": "Daniel Vasile OAJDEA",
@@ -23076,46 +20748,20 @@
     },
     {
       "birth_date": "1966-04-08",
-      "gender": "male",
-      "given_name": "Mircea",
       "id": "e06a5646-9399-4b4c-8282-17aab6b0a5e1",
       "identifiers": [
         {
           "identifier": "115",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18549570",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Draghici_Mircea_Gheorghe.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Draghici_Mircea_Gheorghe.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mircea_Draghici.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mircea_Gheorghe_Drăghici"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mircea_Gheorghe_Drăghici"
         }
       ],
       "name": "Mircea-Gheorghe DRĂGHICI",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mircea Gheorghe Drăghici",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Drăghici Mircea-Gheorghe"
     },
     {
@@ -23210,28 +20856,11 @@
     },
     {
       "birth_date": "1953-03-10",
-      "gender": "male",
       "id": "e1bb534a-1602-46af-94c0-528b7752c5ac",
       "identifiers": [
         {
           "identifier": "162",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "0000 0000 7736 361X",
-          "scheme": "isni"
-        },
-        {
-          "identifier": "n78026364",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "38172145",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q12740992",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Gvozdenovici_Slavomir.jpg",
@@ -23240,24 +20869,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Gvozdenovici_Slavomir.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Slavomir_Gvozdenovici"
-        },
-        {
-          "note": "Wikipedia (sr)",
-          "url": "https://sr.wikipedia.org/wiki/Славомир_Гвозденовић"
-        }
-      ],
       "name": "Slavomir GVOZDENOVICI",
-      "other_names": [
-        {
-          "lang": "sr",
-          "name": "Славомир Гвозденовић",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Gvozdenovici Slavomir"
     },
     {
@@ -23399,18 +21011,11 @@
     },
     {
       "birth_date": "1953-04-20",
-      "family_name": "Oltean",
-      "gender": "male",
-      "given_name": "Ioan",
       "id": "e48395bc-ab0f-45f1-a0bf-8aadb9e82c55",
       "identifiers": [
         {
           "identifier": "271",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q6061837",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Oltean_Ioan.jpg",
@@ -23419,28 +21024,7 @@
           "url": "http://www.cdep.ro/parlamentari/l2012/Oltean_Ioan.jpg"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Ioan_Oltean"
-        },
-        {
-          "note": "Wikipedia (la)",
-          "url": "https://la.wikipedia.org/wiki/Ioannes_Oltean"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Ioan_Oltean"
-        }
-      ],
       "name": "Ioan OLTEAN",
-      "other_names": [
-        {
-          "lang": "la",
-          "name": "Ioannes Oltean",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Oltean Ioan"
     },
     {
@@ -23517,28 +21101,17 @@
     },
     {
       "birth_date": "1948-07-27",
-      "gender": "male",
       "id": "e4d212ee-d084-445e-80c6-39f6d0b926d1",
       "identifiers": [
         {
           "identifier": "226",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q18549572",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Mirza_Gavril.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Mirza_Gavril.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Gavril_Mîrza"
         }
       ],
       "name": "Gavril MÎRZA",
@@ -23664,25 +21237,11 @@
         }
       ],
       "email": "virgil.popescu@cdep.ro",
-      "gender": "male",
-      "given_name": "Virgil",
       "id": "e597f8b4-9de6-424a-903f-de2c833c1748",
-      "identifiers": [
-        {
-          "identifier": "Q28113715",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Popescu_Virgil.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Popescu_Virgil.JPG"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Virgil-Daniel_Popescu"
         }
       ],
       "name": "Virgil-Daniel POPESCU",
@@ -23750,29 +21309,17 @@
     },
     {
       "birth_date": "1975-06-16",
-      "gender": "male",
-      "given_name": "Viorel",
       "id": "e629e16e-224e-4fec-8fe8-2bc651ef87f3",
       "identifiers": [
         {
           "identifier": "114",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179214",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Dragomir_Viorel_Marian.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Dragomir_Viorel_Marian.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Viorel_Marian_Dragomir"
         }
       ],
       "name": "Viorel Marian DRAGOMIR",
@@ -23997,35 +21544,14 @@
         }
       ],
       "email": "mirceabanias@cdep.ro",
-      "gender": "male",
-      "given_name": "Mircea",
       "id": "e8c4b955-d856-4864-a1fa-83f020404ff2",
-      "identifiers": [
-        {
-          "identifier": "Q12735661",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Banias_Mircea.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Banias_Mircea.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Mircea_Banias"
-        }
-      ],
       "name": "Mircea Marius BANIAS",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Mircea Banias",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Banias Mircea Marius"
     },
     {
@@ -24204,50 +21730,20 @@
     },
     {
       "birth_date": "1965-09-24",
-      "gender": "male",
-      "given_name": "Valeriu",
       "id": "ea5c4a76-b923-4da6-8aa6-ef4981f9ab41",
       "identifiers": [
         {
           "identifier": "346",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "8018",
-          "scheme": "pace"
-        },
-        {
-          "identifier": "Q18548175",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/SteriuValeriuAndrei.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/SteriuValeriuAndrei.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Valeriu_Steriu.png"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (pl)",
-          "url": "https://pl.wikipedia.org/wiki/Valeriu-Andrei_Steriu"
-        },
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Valeriu-Andrei_Steriu"
         }
       ],
       "name": "Valeriu-Andrei STERIU",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Valeriu Andrei Steriu",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Steriu Valeriu-Andrei"
     },
     {
@@ -24978,35 +22474,14 @@
     },
     {
       "birth_date": "1969-05-29",
-      "gender": "male",
-      "given_name": "Sándor",
       "id": "f294fbfe-3bc5-4909-b89b-e19936d2e9a4",
-      "identifiers": [
-        {
-          "identifier": "Q28085058",
-          "scheme": "wikidata"
-        }
-      ],
       "image": "http://www.cdep.ro/parlamentari/l2016/Bende_Sandor.JPG",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2016/Bende_Sandor.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Sándor_Bende"
-        }
-      ],
       "name": "BENDE Sándor",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Sándor Bende",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Bende Sándor"
     },
     {
@@ -25624,28 +23099,17 @@
     },
     {
       "birth_date": "1978-02-02",
-      "gender": "male",
       "id": "fad92554-9359-4e9d-9f6c-e7a263b6901d",
       "identifiers": [
         {
           "identifier": "286",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21179348",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Petrea_Dorin_Silviu.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Petrea_Dorin_Silviu.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Dorin_Silviu_Petrea"
         }
       ],
       "name": "Dorin Silviu PETREA",
@@ -25749,28 +23213,17 @@
     },
     {
       "birth_date": "1954-08-10",
-      "gender": "female",
       "id": "fc41ec1a-3f67-48e5-85e3-a7b6eef167e5",
       "identifiers": [
         {
           "identifier": "15",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21746952",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Ardeleanu_Sanda_Maria.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Ardeleanu_Sanda_Maria.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Sanda-Maria_Ardeleanu"
         }
       ],
       "name": "Sanda-Maria ARDELEANU",
@@ -26063,29 +23516,17 @@
     },
     {
       "birth_date": "1967-02-03",
-      "gender": "female",
-      "given_name": "Lucia",
       "id": "ff56016c-97d4-4b7b-a829-b2e474268369",
       "identifiers": [
         {
           "identifier": "395",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q21747072",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/VargaLuciaAna.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/VargaLuciaAna.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (ro)",
-          "url": "https://ro.wikipedia.org/wiki/Lucia-Ana_Varga"
         }
       ],
       "name": "Lucia-Ana VARGA",
@@ -26195,7 +23636,7 @@
         },
         {
           "lang": "en",
-          "name": "Alliance of Liberals and Democrats Party",
+          "name": "Alliance of Liberals and Democrats Party (Romania)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -26286,6 +23727,12 @@
         {
           "lang": "en",
           "name": "ALDE",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "自由民主聯盟黨",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -27381,6 +24828,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -28821,6 +26280,18 @@
         {
           "lang": "ko",
           "name": "루마니아 구국연합",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "拯救羅馬尼亞聯盟",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "az",
+          "name": "Rumıniyanın Qurtuluş Birliyi",
           "note": "multilingual",
           "source": "wikidata-label"
         },
