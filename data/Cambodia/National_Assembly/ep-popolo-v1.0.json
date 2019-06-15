@@ -1269,6 +1269,16 @@
           "lang": "zh",
           "name": "莫淑華",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "穆索华",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "穆索華",
+          "note": "multilingual"
         }
       ]
     },
@@ -2155,7 +2165,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.samdechhunsen.gov.kh/"
+          "url": "http://www.samdechhunsen.gov.kh"
         }
       ],
       "name": "Hun Sen",
@@ -2707,9 +2717,20 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mam_Bunheng"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蒙文兴"
         }
       ],
-      "name": "Mam Bunheng"
+      "name": "Mam Bunheng",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "蒙文兴",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "d3864c0c-fe0e-4b7f-b55d-2adc7bdc9329",
@@ -3402,7 +3423,14 @@
           "url": "https://en.wikipedia.org/wiki/Nguon_Nhel"
         }
       ],
-      "name": "Nguon Nhel"
+      "name": "Nguon Nhel",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "阮涅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "f7467e6d-dd26-4291-969a-bae108f36842",
@@ -3642,6 +3670,12 @@
         {
           "lang": "it",
           "name": "Partito della Salvezza Nazionale della Cambogia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب الإنقاذ الوطني الكمبودي",
           "note": "multilingual",
           "source": "wikidata-label"
         },
