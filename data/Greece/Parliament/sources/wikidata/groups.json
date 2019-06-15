@@ -435,7 +435,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/New_Democracy_Logo_2018.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/New_Democracy_Logo_2018.png",
+    "srgb": "185CCB"
   },
   "syriza": {
     "identifiers": [
@@ -521,6 +522,12 @@
       {
         "lang": "ja",
         "name": "急進左派連合",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Συνασπισμός Ριζοσπαστικής Αριστεράς",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -766,12 +773,6 @@
       },
       {
         "lang": "es",
-        "name": "ΣΥΡΙΖΑ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
         "name": "Syriza",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -815,12 +816,6 @@
       {
         "lang": "ja",
         "name": "急進左翼進歩連合",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "el",
-        "name": "ΣΥΡΙΖΑ",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -910,12 +905,6 @@
       },
       {
         "lang": "sr",
-        "name": "ΣΥΡΙΖΑ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sr",
         "name": "Коалиција радикалних левичара",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -935,12 +924,6 @@
       {
         "lang": "uk",
         "name": "Ліво-радикальна коаліція Греції",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "uk",
-        "name": "ΣΥΡΙΖΑ",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -976,7 +959,7 @@
       },
       {
         "lang": "en",
-        "name": "Συνασπισμός Ριζοσπαστικής Αριστεράς",
+        "name": "ΣΥΡΙΖΑ",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -987,7 +970,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SYRIZA_logo_2014.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SYRIZA_logo_2014.svg",
+    "srgb": "CA272C"
   },
   "laikossyndesmoschrysiavgi": {
     "identifiers": [
@@ -1557,7 +1541,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Meandros_flag.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Meandros_flag.svg",
+    "srgb": "000000"
   },
   "pasok": {
     "identifiers": [
@@ -2145,7 +2130,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/PASOK_logo_2012.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/PASOK_logo_2012.svg",
+    "srgb": "005329"
   },
   "kke": {
     "identifiers": [
@@ -2637,7 +2623,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_the_Communist_Party_of_Greece.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo_of_the_Communist_Party_of_Greece.svg",
+    "srgb": "E20002"
   },
   "topotami": {
     "identifiers": [
@@ -2799,7 +2786,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/ToPotamiLogo.png"
+    "srgb": "9E4F48"
   },
   "anexartitoiellines": {
     "identifiers": [
@@ -3050,7 +3037,8 @@
         "url": "http://www.anexartitoiellines.gr/",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "00FFFF"
   },
   "unionofcentrists": {
     "identifiers": [
@@ -3509,6 +3497,12 @@
         "name": "DIMAR",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "pt",
+        "name": "ΔΗΜ.ΑΡ.",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -3517,7 +3511,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DIMAR_logo.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DIMAR_logo.svg",
+    "srgb": "E34234"
   },
   "allianceofprogressiveandleftforces": {
     "identifiers": [
@@ -4055,6 +4050,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ka",
+        "name": "დამოუკიდებელი პოლიტიკოსი",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -4521,8 +4522,21 @@
         "name": "candidatu independiente",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "беспартыйны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
-    ]
+    ],
+    "srgb": "DDDDDD"
   },
   "laos": {
     "identifiers": [
@@ -4713,7 +4727,8 @@
         "url": "http://www.laos.gr/",
         "note": "website"
       }
-    ]
+    ],
+    "srgb": "00008B"
   },
   "pola": {
     "identifiers": [
