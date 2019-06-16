@@ -25904,6 +25904,21 @@
       "sort_name": "Schwab, Heinz"
     },
     {
+      "birth_date": "1982-12-09",
+      "family_name": "Rochat Fernandez",
+      "gender": "male",
+      "given_name": "Nicolas",
+      "id": "7cbd71ca-5501-4a94-a56f-f26a8509cc1f",
+      "identifiers": [
+        {
+          "identifier": "4232",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Nicolas Rochat Fernandez",
+      "sort_name": "Rochat Fernandez, Nicolas"
+    },
+    {
       "birth_date": "1952-10-03",
       "family_name": "Frainier",
       "gender": "male",
@@ -35895,6 +35910,21 @@
       "sort_name": "Vogel, Daniel"
     },
     {
+      "birth_date": "1959-04-14",
+      "family_name": "Schläpfer",
+      "gender": "female",
+      "given_name": "Therese",
+      "id": "a9229b87-e510-41e3-91f6-6d41c82222c3",
+      "identifiers": [
+        {
+          "identifier": "4234",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Therese Schläpfer",
+      "sort_name": "Schläpfer, Therese"
+    },
+    {
       "birth_date": "1947-01-14",
       "family_name": "Fehr",
       "gender": "male",
@@ -41166,6 +41196,21 @@
       ],
       "name": "Paul Jäggi",
       "sort_name": "Jäggi, Paul"
+    },
+    {
+      "birth_date": "1962-05-03",
+      "family_name": "Haab",
+      "gender": "male",
+      "given_name": "Martin",
+      "id": "c0168ab5-5bc5-464f-b58b-ebabd7f4ec2f",
+      "identifiers": [
+        {
+          "identifier": "4236",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Martin Haab",
+      "sort_name": "Haab, Martin"
     },
     {
       "birth_date": "1901-03-15",
@@ -55008,6 +55053,11 @@
     },
     {
       "classification": "party",
+      "id": "4",
+      "name": "BGB"
+    },
+    {
+      "classification": "party",
       "id": "3",
       "name": "C"
     },
@@ -55082,7 +55132,7 @@
     {
       "classification": "party",
       "id": "1",
-      "name": "RL"
+      "name": "R"
     },
     {
       "classification": "party",
@@ -55098,11 +55148,6 @@
       "classification": "party",
       "id": "5",
       "name": "U"
-    },
-    {
-      "classification": "party",
-      "id": "4",
-      "name": "V"
     }
   ],
   "meta": {
@@ -74068,6 +74113,20 @@
       ]
     },
     {
+      "area_id": "VD",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "2",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "7cbd71ca-5501-4a94-a56f-f26a8509cc1f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4232"
+        }
+      ],
+      "start_date": "2019-05-07"
+    },
+    {
       "area_id": "BE",
       "legislative_period_id": "term/44",
       "on_behalf_of_id": "3",
@@ -81359,6 +81418,20 @@
     },
     {
       "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "a9229b87-e510-41e3-91f6-6d41c82222c3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4234"
+        }
+      ],
+      "start_date": "2019-06-03"
+    },
+    {
+      "area_id": "ZH",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "4",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -83240,7 +83313,7 @@
     {
       "area_id": "ZH",
       "legislative_period_id": "term/50",
-      "on_behalf_of_id": "2",
+      "on_behalf_of_id": "137",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
       "person_id": "b362a706-7634-47a2-9ec0-f5aef5706682",
       "role": "member",
@@ -83249,7 +83322,7 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=4227"
         }
       ],
-      "start_date": "2018-12-10"
+      "start_date": "2019-05-29"
     },
     {
       "area_id": "BS",
@@ -83921,6 +83994,7 @@
     },
     {
       "area_id": "AI",
+      "end_date": "2019-06-02",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
@@ -85146,6 +85220,20 @@
           "url": "https://www.parlament.ch/en/biografie?CouncillorId=118"
         }
       ]
+    },
+    {
+      "area_id": "ZH",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "4",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "c0168ab5-5bc5-464f-b58b-ebabd7f4ec2f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4236"
+        }
+      ],
+      "start_date": "2019-06-03"
     },
     {
       "area_id": "AG",
