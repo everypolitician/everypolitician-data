@@ -6836,6 +6836,19 @@
       "sort_name": "Spindler, Sid"
     },
     {
+      "family_name": "Spender",
+      "given_name": "Duncan",
+      "id": "6a25b46c-7350-40f0-b568-084e85d6113d",
+      "identifiers": [
+        {
+          "identifier": "10916",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Duncan Spender",
+      "sort_name": "Spender, Duncan"
+    },
+    {
       "birth_date": "1957-03-05",
       "family_name": "McGauran",
       "gender": "male",
@@ -15348,15 +15361,10 @@
       "birth_date": "1970-03-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.david.smith@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenDaveSmith"
         }
       ],
-      "email": "senator.david.smith@aph.gov.au",
       "family_name": "Smith",
       "gender": "male",
       "given_name": "David",
@@ -25913,6 +25921,20 @@
       ]
     },
     {
+      "area_id": "97cc720d-2300-4d4f-88b1-9ea5762eacf0",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_democratic_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "6a25b46c-7350-40f0-b568-084e85d6113d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2019-03-20"
+    },
+    {
       "area_id": "188d9ee3-b2d1-42e4-92b8-e890a5ef5c55",
       "legislative_period_id": "term/35",
       "on_behalf_of_id": "national_party",
@@ -33362,6 +33384,7 @@
     },
     {
       "area_id": "0a90db02-8ff0-4f2f-b33f-35bb133e7b15",
+      "end_date": "2019-04-11",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
