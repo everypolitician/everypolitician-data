@@ -2321,6 +2321,7 @@
           "value": "BiljanaBorzan"
         }
       ],
+      "family_name": "Borzan",
       "gender": "female",
       "given_name": "Biljana",
       "id": "403c6f79-b3c3-42be-b6e0-7dc370d4858d",
@@ -4182,6 +4183,7 @@
           "value": "TPicula"
         }
       ],
+      "family_name": "Picula",
       "gender": "male",
       "given_name": "Tonino",
       "id": "6844b89a-c54f-46ca-81cc-d299ae6e5660",
@@ -4886,6 +4888,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Slaven_Dobrović"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Slaven_Dobrović"
         },
@@ -5408,6 +5414,7 @@
           "value": "ruzatomasic"
         }
       ],
+      "family_name": "Tomašič",
       "gender": "female",
       "given_name": "Ruža",
       "id": "834c2f77-f730-4ef8-82c3-12f1ae43953a",
@@ -5438,6 +5445,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Ruža_Tomašić"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Ruža_Tomašićová"
         },
         {
           "note": "Wikipedia (de)",
@@ -5482,6 +5493,11 @@
       ],
       "name": "Ruža Tomašić",
       "other_names": [
+        {
+          "lang": "cs",
+          "name": "Ruža Tomašićová",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Ружа Томашич",
@@ -6184,7 +6200,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "197294679",
+          "identifier": "305471926",
           "scheme": "viaf"
         },
         {
@@ -8785,6 +8801,7 @@
           "value": "andrejplenkovic"
         }
       ],
+      "family_name": "Plenković",
       "gender": "male",
       "given_name": "Andrej",
       "id": "ce5256f0-849b-479d-b44e-8d2d4df67d13",
@@ -8875,6 +8892,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Andrej_Plenković"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/آندری_پلنکوویچ"
         },
         {
           "note": "Wikipedia (fi)",
@@ -9033,6 +9054,11 @@
         {
           "lang": "el",
           "name": "Αντρέι Πλένκοβιτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "آندری پلنکوویچ",
           "note": "multilingual"
         },
         {
@@ -10819,6 +10845,10 @@
         {
           "note": "Wikipedia (hr)",
           "url": "https://hr.wikipedia.org/wiki/Branimir_Bunjac"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Branimir_Bunjac"
         }
       ],
       "name": "Branimir Bunjac"
@@ -11336,6 +11366,10 @@
         {
           "note": "Wikipedia (hr)",
           "url": "https://hr.wikipedia.org/wiki/Josip_Leko"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Josip_Leko"
         },
         {
           "note": "Wikipedia (pl)",
@@ -12874,7 +12908,8 @@
           "note": "multilingual",
           "source": "wikidata-alias"
         }
-      ]
+      ],
+      "srgb": "025EB1"
     },
     {
       "classification": "party",
@@ -14144,6 +14179,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh",
+          "name": "人類之盾",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "인본보호당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Living Wall",
           "note": "multilingual",
@@ -14243,6 +14290,18 @@
         {
           "lang": "fr",
           "name": "Bouclier humain (parti politique)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "zh",
+          "name": "人類之盾",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "인본보호당",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15457,6 +15516,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
