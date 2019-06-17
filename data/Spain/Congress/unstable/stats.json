@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 621,
-    "wikidata": 621,
+    "wikidata": 301,
     "latest_term": {
       "count": 351,
-      "wikidata": 351,
+      "wikidata": 180,
       "images": 351,
       "contacts": {
         "email": 0,
-        "facebook": 144,
-        "twitter": 284
+        "facebook": 134,
+        "twitter": 274
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2019-04-28"
   },
   "positions": {
-    "cabinet": 22
+    "cabinet": 13
   },
   "sources": [
     {
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/spain-diputados-wikidata",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-28"
     },
     {
       "file": "morph/terms.csv",
@@ -72,7 +72,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-02"
+      "lastmod": "2019-04-28"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -89,7 +89,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-04-03"
+      "lastmod": "2019-04-28"
     },
     {
       "file": "morph/twitter.csv",
