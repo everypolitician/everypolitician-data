@@ -1503,6 +1503,19 @@
       "sort_name": "Richardson, Graham"
     },
     {
+      "family_name": "Spender",
+      "given_name": "Duncan",
+      "id": "20c0aeb4-0c31-4d26-9cfc-fe5bd9235106",
+      "identifiers": [
+        {
+          "identifier": "10916",
+          "scheme": "openaustralia"
+        }
+      ],
+      "name": "Duncan Spender",
+      "sort_name": "Spender, Duncan"
+    },
+    {
       "birth_date": "1974-06-14",
       "contact_details": [
         {
@@ -15348,15 +15361,10 @@
       "birth_date": "1970-03-25",
       "contact_details": [
         {
-          "type": "email",
-          "value": "senator.david.smith@aph.gov.au"
-        },
-        {
           "type": "twitter",
           "value": "SenDaveSmith"
         }
       ],
-      "email": "senator.david.smith@aph.gov.au",
       "family_name": "Smith",
       "gender": "male",
       "given_name": "David",
@@ -21708,6 +21716,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "97cc720d-2300-4d4f-88b1-9ea5762eacf0",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "liberal_democratic_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "20c0aeb4-0c31-4d26-9cfc-fe5bd9235106",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2019-03-20"
     },
     {
       "area_id": "c75ba519-19a4-4e07-aa8b-35b995eb2329",
@@ -33362,6 +33384,7 @@
     },
     {
       "area_id": "0a90db02-8ff0-4f2f-b33f-35bb133e7b15",
+      "end_date": "2019-04-11",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "australian_labor_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
