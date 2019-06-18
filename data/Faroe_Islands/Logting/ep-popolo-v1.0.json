@@ -484,6 +484,10 @@
           "url": "https://fo.wikipedia.org/wiki/Bjarni_Hammer"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bjarni_Hammer"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Bjarni_Hammer"
         }
@@ -1570,6 +1574,7 @@
     },
     {
       "birth_date": "1944-09-19",
+      "family_name": "Joensen",
       "gender": "male",
       "given_name": "Edmund",
       "id": "6b002fb1-a936-4e4e-b20b-09a22a4a91e4",
@@ -1629,6 +1634,10 @@
         {
           "note": "Wikipedia (fo)",
           "url": "https://fo.wikipedia.org/wiki/Edmund_Joensen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Edmund_Joensen"
         },
         {
           "note": "Wikipedia (hu)",
@@ -4277,6 +4286,7 @@
     },
     {
       "birth_date": "1958-09-28",
+      "family_name": "Joensen",
       "gender": "male",
       "given_name": "Jákup",
       "id": "bbd4f1e3-7a22-442b-bed8-414511564b1a",
@@ -5412,6 +5422,10 @@
           "url": "https://fo.wikipedia.org/wiki/Katrin_Kallsberg"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Katrin_Kallsberg"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Katrin_Kallsberg"
         }
@@ -6327,6 +6341,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ko",
+          "name": "평등당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt",
+          "name": "Partido Social-Democrata (Ilhas Faroé)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pl",
           "name": "Føroyski Javnaðarflokkurin",
           "note": "multilingual",
@@ -6636,6 +6662,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ko",
+          "name": "중앙당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Miðflokkurin",
           "note": "multilingual",
@@ -6781,6 +6813,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ko",
+          "name": "통일당",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "pl",
           "name": "Sambandsflokkurin",
           "note": "multilingual",
@@ -6897,7 +6935,7 @@
         },
         {
           "lang": "nb",
-          "name": "Sjálvstýrisflokkurin",
+          "name": "Sjálvstýri",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6909,7 +6947,7 @@
         },
         {
           "lang": "fr",
-          "name": "Parti de l'autogouvernement",
+          "name": "Sjálvstýri",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -6928,6 +6966,12 @@
         {
           "lang": "ru",
           "name": "Новое самоуправление",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "it",
+          "name": "Sjálvstýri",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7017,12 +7061,6 @@
         },
         {
           "lang": "nb",
-          "name": "Sjálvstýri",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "nb",
           "name": "Sjálvstýrið",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -7030,6 +7068,18 @@
         {
           "lang": "nb",
           "name": "Selvstyrepartiet",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nb",
+          "name": "Sjálvstýrisflokkurin",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de l'autogouvernement",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -7127,6 +7177,12 @@
         {
           "lang": "cy",
           "name": "Gweriniaeth",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "공화당",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -7284,6 +7340,12 @@
         {
           "lang": "uk",
           "name": "Партія союзу",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ko",
+          "name": "통일당",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -10916,7 +10978,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1954",
+      "end_date": "1954-11-08",
       "id": "Q5436099",
       "identifiers": [
         {
@@ -10925,11 +10987,11 @@
         }
       ],
       "name": "1954 Faroese general election",
-      "start_date": "1954"
+      "start_date": "1954-11-08"
     },
     {
       "classification": "general election",
-      "end_date": "1958",
+      "end_date": "1958-11-08",
       "id": "Q5436100",
       "identifiers": [
         {
@@ -10938,7 +11000,7 @@
         }
       ],
       "name": "1958 Faroese general election",
-      "start_date": "1958"
+      "start_date": "1958-11-08"
     },
     {
       "classification": "general election",
@@ -11066,8 +11128,16 @@
       "start_date": "1990-11-17"
     },
     {
+      "classification": "legislative period",
+      "end_date": "1998",
+      "id": "term/1994",
+      "name": "Løgting 1994–1998",
+      "organization_id": "6cfc55e3-0ee4-4cf9-9145-c22a0d457feb",
+      "start_date": "1994"
+    },
+    {
       "classification": "general election",
-      "end_date": "1994",
+      "end_date": "1994-07-07",
       "id": "Q5202355",
       "identifiers": [
         {
@@ -11076,15 +11146,7 @@
         }
       ],
       "name": "1994 Faroese general election",
-      "start_date": "1994"
-    },
-    {
-      "classification": "legislative period",
-      "end_date": "1998",
-      "id": "term/1994",
-      "name": "Løgting 1994–1998",
-      "organization_id": "6cfc55e3-0ee4-4cf9-9145-c22a0d457feb",
-      "start_date": "1994"
+      "start_date": "1994-07-07"
     },
     {
       "classification": "legislative period",
