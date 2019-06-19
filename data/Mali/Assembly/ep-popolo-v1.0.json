@@ -385,7 +385,9 @@
     },
     {
       "birth_date": "1949-12-20",
+      "family_name": "Cissé",
       "gender": "male",
+      "given_name": "Soumaila",
       "id": "30e76cac-5a88-4da4-8033-21e24ab87fbf",
       "identifiers": [
         {
@@ -1202,7 +1204,9 @@
     },
     {
       "birth_date": "1946-06-26",
+      "family_name": "Sidibé",
       "gender": "male",
+      "given_name": "Issaka",
       "id": "b1a23270-e4e6-4304-89c4-360d4550ea0c",
       "identifiers": [
         {
@@ -1221,6 +1225,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Issaka_Sidibé"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Issaka_Sidibé"
@@ -2998,6 +3006,18 @@
         {
           "lang": "ast",
           "name": "candidatu independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -5473,7 +5493,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2019",
+      "end_date": "2019-06",
       "id": "Q28223398",
       "identifiers": [
         {
@@ -5482,7 +5502,7 @@
         }
       ],
       "name": "2019 Malian parliamentary election",
-      "start_date": "2019"
+      "start_date": "2019-06"
     }
   ],
   "areas": [
