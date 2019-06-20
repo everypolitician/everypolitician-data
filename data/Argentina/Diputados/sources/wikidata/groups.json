@@ -95,7 +95,14 @@
         "note": "multilingual",
         "source": "wikidata-label"
       }
-    ]
+    ],
+    "links": [
+      {
+        "url": "http://chubutsomostodos.org.ar/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/CHST.png"
   },
   "coalicion_civica": {
     "identifiers": [
@@ -429,14 +436,28 @@
         "identifier": "Q43262435"
       }
     ],
+    "name": "Fe Party",
     "other_names": [
       {
         "lang": "es",
         "name": "Partido Fe",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Fe Party",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
-    ]
+    ],
+    "links": [
+      {
+        "url": "http://www.partidofe.org/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_de_Partido_Fe.svg"
   },
   "federal_unidos_por_una_nueva_argentina": {
     "identifiers": [
@@ -881,7 +902,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Frente_para_la_Victoria.svg",
+    "srgb": "104E8B"
   },
   "frente_renovador": {
     "identifiers": [
@@ -950,6 +972,7 @@
         "identifier": "Q5692773"
       }
     ],
+    "name": "GEN",
     "other_names": [
       {
         "lang": "es",
@@ -982,8 +1005,32 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fr",
+        "name": "Parti GEN",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "GEN",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "es",
         "name": "Generacion para un Encuentro Nacional",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Partido GEN",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Generación para un Encuentro Nacional",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1311,7 +1358,8 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PJ-logo.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/PJ-logo.png",
+    "srgb": "104E8B"
   },
   "libertad_valores_y_cambio": {
     "identifiers": [
@@ -1778,7 +1826,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Partdetrabsoc.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Escudo_PTS.png"
   },
   "salta_somos_todos": {
     "identifiers": [
@@ -2018,7 +2066,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ucr_modern_logo.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/LogoUCR2018.svg"
   },
   "unidad_popular": {
     "identifiers": [
@@ -2112,6 +2160,12 @@
       {
         "lang": "es",
         "name": "Unión por Córdoba",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió per Córdoba",
         "note": "multilingual",
         "source": "wikidata-label"
       },
