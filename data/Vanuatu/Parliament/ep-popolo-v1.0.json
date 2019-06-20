@@ -917,10 +917,6 @@
       "name": "Alickson Vira"
     },
     {
-      "id": "8c143e9a-58ca-48e4-bac3-46eb1b34d56e",
-      "name": "Ronald Warsal Kalmasei"
-    },
-    {
       "id": "8d81949b-cf2e-463f-990e-5641c848e369",
       "identifiers": [
         {
@@ -1179,10 +1175,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://parliament.gov.vu/images/bio/Joe_Natuman.jpg",
+      "image": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg",
       "images": [
         {
-          "url": "https://parliament.gov.vu/images/bio/Joe_Natuman.jpg"
+          "url": "http://parliament.gov.vu/images/bio/Joe_Natuman.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Joe_Natuman_2014_(cropped).jpg"
@@ -1528,10 +1524,10 @@
     },
     {
       "id": "d3ab5e34-d2cf-4fbb-9083-d032d2bb0345",
-      "image": "https://parliament.gov.vu/images/bio/Samson_Samsen.jpg",
+      "image": "https://parliament.gov.vu/images/bio/Samson_Samsen.JPG",
       "images": [
         {
-          "url": "https://parliament.gov.vu/images/bio/Samson_Samsen.jpg"
+          "url": "https://parliament.gov.vu/images/bio/Samson_Samsen.JPG"
         }
       ],
       "name": "Samson Samsen"
@@ -1600,6 +1596,16 @@
       "name": "Marc Ati"
     },
     {
+      "id": "dedf5f8c-d3e0-47ae-9fea-0df116259319",
+      "image": "https://parliament.gov.vu/images/bio/Ronald_Warsal.jpg",
+      "images": [
+        {
+          "url": "https://parliament.gov.vu/images/bio/Ronald_Warsal.jpg"
+        }
+      ],
+      "name": "Ronald Warsal Kalmasei"
+    },
+    {
       "id": "e3812414-ebab-4e50-9afe-615a042eda33",
       "image": "https://parliament.gov.vu/images/bio/Jotham_Napat.jpg",
       "images": [
@@ -1608,6 +1614,16 @@
         }
       ],
       "name": "Jotham Napat"
+    },
+    {
+      "id": "e48dfd01-7914-486c-a8e5-a8417d2a5b76",
+      "image": "https://parliament.gov.vu/images/bio/no_image.jpg",
+      "images": [
+        {
+          "url": "https://parliament.gov.vu/images/bio/no_image.jpg"
+        }
+      ],
+      "name": "Jimmy Nipo"
     },
     {
       "birth_date": "1986-05-16",
@@ -2045,11 +2061,6 @@
     }
   ],
   "organizations": [
-    {
-      "classification": "party",
-      "id": "ambae",
-      "name": "Ambae"
-    },
     {
       "classification": "party",
       "id": "fmp",
@@ -4141,7 +4152,7 @@
     {
       "area_id": "epi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ind",
+      "on_behalf_of_id": "vp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "160b2f57-4912-4f92-9f2b-8b61854506d3",
       "role": "member",
@@ -4505,7 +4516,7 @@
     {
       "area_id": "ambae",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ambae",
+      "on_behalf_of_id": "nag",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "51585f6f-2ba8-43dc-b285-4ad6689ce7ff",
       "role": "member",
@@ -4713,7 +4724,7 @@
     {
       "area_id": "ambae",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ump",
+      "on_behalf_of_id": "ig",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "7763a202-87ef-42c3-ac52-630fc64585eb",
       "role": "member",
@@ -4776,7 +4787,7 @@
       ]
     },
     {
-      "area_id": "torres",
+      "area_id": "banks",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "vndp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
@@ -4841,19 +4852,6 @@
       ]
     },
     {
-      "area_id": "santo",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "vp",
-      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
-      "person_id": "8c143e9a-58ca-48e4-bac3-46eb1b34d56e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://parliament.gov.vu/index.php/memebers/members-of-11th-legislatture"
-        }
-      ]
-    },
-    {
       "area_id": "port_vila",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "vpdp",
@@ -4869,7 +4867,7 @@
     {
       "area_id": "pentecost",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "nup",
+      "on_behalf_of_id": "vlp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "9078be87-f1a4-4191-a06d-65c9e9e50bae",
       "role": "member",
@@ -4882,7 +4880,7 @@
     {
       "area_id": "tafea_outer_islands",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ump",
+      "on_behalf_of_id": "rmc",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "9c07f41a-d058-4ab8-89ee-929fede31987",
       "role": "member",
@@ -5010,19 +5008,6 @@
       ]
     },
     {
-      "area_id": "tanna",
-      "legislative_period_id": "term/11",
-      "on_behalf_of_id": "vp",
-      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
-      "person_id": "aee4adc6-a000-4017-9a48-6ce4b7799bcc",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://parliament.gov.vu/index.php/members/92-hon-joe-natuman"
-        }
-      ]
-    },
-    {
       "area_id": "shepherds_outer_islands",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "gc",
@@ -5038,7 +5023,7 @@
     {
       "area_id": "shepherds_island",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "gc",
+      "on_behalf_of_id": "vp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "af22f32e-5d6c-43d6-9030-6be262fc8737",
       "role": "member",
@@ -5116,7 +5101,7 @@
     {
       "area_id": "santo_rural",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ppp",
+      "on_behalf_of_id": "vp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "c7314763-2e65-43ac-abeb-a88fe3e2c766",
       "role": "member",
@@ -5194,7 +5179,7 @@
     {
       "area_id": "santo_rural",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ppp",
+      "on_behalf_of_id": "psp",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "d3ab5e34-d2cf-4fbb-9083-d032d2bb0345",
       "role": "member",
@@ -5270,6 +5255,19 @@
       ]
     },
     {
+      "area_id": "santo_rural",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "vp",
+      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
+      "person_id": "dedf5f8c-d3e0-47ae-9fea-0df116259319",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://parliament.gov.vu/index.php/members/204-hon-ronald-warsal-kalmasei"
+        }
+      ]
+    },
+    {
       "area_id": "tanna",
       "legislative_period_id": "term/11",
       "on_behalf_of_id": "vlp",
@@ -5279,6 +5277,19 @@
       "sources": [
         {
           "url": "https://parliament.gov.vu/index.php/members/201-honjothamnapat"
+        }
+      ]
+    },
+    {
+      "area_id": "tanna",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "vlp",
+      "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
+      "person_id": "e48dfd01-7914-486c-a8e5-a8417d2a5b76",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://parliament.gov.vu/index.php/members/205-hon-jimmy-nipo"
         }
       ]
     },
@@ -5389,7 +5400,7 @@
     {
       "area_id": "epi",
       "legislative_period_id": "term/11",
-      "on_behalf_of_id": "ump",
+      "on_behalf_of_id": "rmc",
       "organization_id": "76b3861e-919b-4110-bd8b-b178b350b0d7",
       "person_id": "fdfe64ad-7115-418c-962f-6a0c06c09d89",
       "role": "member",
@@ -5690,11 +5701,6 @@
     {
       "id": "tongoa",
       "name": "Tongoa",
-      "type": "constituency"
-    },
-    {
-      "id": "torres",
-      "name": "Torres",
       "type": "constituency"
     }
   ]
