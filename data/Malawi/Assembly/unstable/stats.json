@@ -1,21 +1,21 @@
 {
   "people": {
-    "count": 196,
-    "wikidata": 188,
+    "count": 104,
+    "wikidata": 11,
     "latest_term": {
-      "count": 196,
-      "wikidata": 188,
-      "images": 190,
+      "count": 104,
+      "wikidata": 11,
+      "images": 0,
       "contacts": {
         "email": 0,
         "facebook": 0,
-        "twitter": 2
+        "twitter": 0
       }
     }
   },
   "groups": {
     "count": 7,
-    "wikidata": 7
+    "wikidata": 6
   },
   "terms": {
     "count": 1,
@@ -23,7 +23,7 @@
     "wikidata": 1
   },
   "areas": {
-    "count": 193,
+    "count": 101,
     "wikidata": 0
   },
   "elections": {
@@ -54,7 +54,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/malawi-national-assembly-wikidata",
-      "lastmod": "2019-04-01"
+      "lastmod": "2019-04-23"
     },
     {
       "file": "manual/terms.csv",
@@ -69,12 +69,12 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-01"
+      "lastmod": "2019-04-23"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-04-01"
+      "lastmod": "2019-04-23"
     }
   ]
 }
