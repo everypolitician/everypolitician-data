@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 700,
-    "wikidata": 606,
+    "wikidata": 395,
     "latest_term": {
       "count": 452,
-      "wikidata": 428,
+      "wikidata": 275,
       "images": 452,
       "contacts": {
         "email": 0,
-        "facebook": 30,
-        "twitter": 35
+        "facebook": 18,
+        "twitter": 24
       }
     }
   },
@@ -31,7 +31,7 @@
     "latest": "2016-09-18"
   },
   "positions": {
-    "cabinet": 5
+    "cabinet": 3
   },
   "sources": [
     {
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/russian-duma-wikidata",
-      "lastmod": "2019-04-10"
+      "lastmod": "2019-05-07"
     },
     {
       "file": "morph/terms.csv",
@@ -60,7 +60,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-04-10"
+      "lastmod": "2019-05-07"
     },
     {
       "file": "morph/genderbalance.csv",
@@ -77,7 +77,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-04-04"
+      "lastmod": "2019-05-07"
     }
   ]
 }
