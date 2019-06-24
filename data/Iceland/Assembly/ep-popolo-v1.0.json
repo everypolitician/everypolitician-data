@@ -2293,6 +2293,12 @@
     },
     {
       "birth_date": "1987-05-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "sunnago"
+        }
+      ],
       "gender": "female",
       "id": "23422fb6-d358-4c9f-9cfc-e3b99f3f6db7",
       "identifiers": [
@@ -2317,6 +2323,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Þórhildur_Sunna_Ævarsdóttir"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sunnago"
         }
       ],
       "name": "Þórhildur Sunna Ævarsdóttir"
@@ -4522,6 +4532,10 @@
           "url": "https://pt.wikipedia.org/wiki/Steingrímur_Jóhann_Sigfússon"
         },
         {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Стејнгримур_Сигфусон"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Steingrímur_Jóhann_Sigfússon"
         },
@@ -4569,6 +4583,11 @@
         {
           "lang": "pt",
           "name": "Steingrímur Jóhann Sigfússon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Стејнгримур Сигфусон",
           "note": "multilingual"
         },
         {
@@ -6017,11 +6036,19 @@
       "id": "5970d089-ceab-4759-8a6b-85bfb1985d43",
       "identifiers": [
         {
+          "identifier": "6649152139998711100003",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q31749109",
           "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Njáll_Trausti_Friðbertsson"
+        },
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Njáll_Trausti_Friðbertsson"
@@ -10836,6 +10863,10 @@
           "url": "https://cs.wikipedia.org/wiki/Katrín_Jakobsdóttir"
         },
         {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Katrin_Jakobsdóttir"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Katrín_Jakobsdóttir"
         },
@@ -11008,6 +11039,11 @@
         {
           "lang": "es",
           "name": "Katrin Jakobsdóttir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "کاترین یاکوبسدوتیر",
           "note": "multilingual"
         },
         {
@@ -12760,6 +12796,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "cs",
+          "name": "Světlá budoucnost",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "it",
           "name": "Björt Framtíð",
           "note": "multilingual",
@@ -14226,6 +14268,18 @@
           "name": "candidatu independiente",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "беспартыйны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DDDDDD"
@@ -14412,6 +14466,12 @@
         {
           "lang": "be",
           "name": "Лева-Зялёны рух",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Hnutí zelené levice",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15262,6 +15322,30 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "se",
+          "name": "Piráhtabellodat",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "smn",
+          "name": "Piiraatpiäládâh",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sms",
+          "name": "Pirattpeällõk",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "cs",
+          "name": "Islandská pirátská strana",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "is",
           "name": "Píratapartýið",
           "note": "multilingual",
@@ -15282,6 +15366,36 @@
         {
           "lang": "en",
           "name": "Piratar",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "se",
+          "name": "Islándda piráhtabellodat",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fi",
+          "name": "Islannin piraattipuolue",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "smn",
+          "name": "Island piiraatpiäládâh",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sms",
+          "name": "Islaant pirattpeällõk",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "cs",
+          "name": "Pirátská strana Islandu",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
