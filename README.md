@@ -1,3 +1,5 @@
+**The EveryPolitician project is currently on hold. See [this blog post](https://www.mysociety.org/2019/06/26/placing-everypolitician-on-hold/) for more information.**
+
 # everypolitician-data
 
 This is the data repo for EveryPolitician. It contains the data powering [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](http://www.gender-balance.org/).
