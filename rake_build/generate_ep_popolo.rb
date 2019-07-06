@@ -31,16 +31,10 @@ namespace :transform do
   task name_legislature: :load do
     raise 'No meta.json file available' unless LEGISLATURE_META.exist?
 
-    meta_info = json_load(LEGISLATURE_META)
-    @legislature.merge! meta_info.except(:member)
-    if @legislature.key?(:wikidata)
-      (@legislature[:identifiers] ||= []) << {
-        scheme:     'wikidata',
-        identifier: @legislature.delete(:wikidata),
-      }
-    end
+    meta = Everypolitician::Metafile::Legislature.new(LEGISLATURE_META).popolo
+    @legislature.merge! meta
 
-    # Switch the legislature ID everywhere it's used
+    # Switch the default legislature ID to the UUID throughout
     @json[:memberships].select { |m| m[:organization_id] == @legislature[:id] }.each do |m|
       m[:organization_id] = @legislature[:uuid]
     end
