@@ -4,6 +4,10 @@
   ],
   "persons": [
     {
+      "id": "00ef0eea-137c-412b-8559-2fb76a9d94b6",
+      "name": "Mark Golding"
+    },
+    {
       "birth_date": "1949-12-28",
       "family_name": "Phillips",
       "gender": "male",
@@ -2118,6 +2122,14 @@
       "name": "Andrew Wheatley"
     },
     {
+      "id": "d1d34df5-99d8-4dcf-a22d-9d8ba2e65b1b",
+      "name": "Ann-Marie Vaz"
+    },
+    {
+      "id": "d2f9f741-9d1d-484d-9df2-83cdc14793fa",
+      "name": "Norman Dunn"
+    },
+    {
       "gender": "male",
       "id": "d338a7db-ac2a-43f1-b5d9-7532bf38751d",
       "identifiers": [
@@ -2380,6 +2392,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "e9545092-08a9-4561-bf45-a7cefefa958a",
+      "name": "Angela Brown-Burke"
     },
     {
       "gender": "female",
@@ -2984,6 +3000,19 @@
   },
   "memberships": [
     {
+      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_southern",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "people's_national_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "00ef0eea-137c-412b-8559-2fb76a9d94b6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
       "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_east_central",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "people's_national_party",
@@ -3023,19 +3052,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "04ba6529-249f-43e1-bc41-1e22f9870490",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "people's_national_party",
@@ -3045,19 +3061,6 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Constituencies_of_Jamaica&oldid=707616860"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_southern",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "0a8bc903-b520-44a2-81f8-19c78e9e05ef",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
         }
       ]
     },
@@ -3149,19 +3152,6 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/w/index.php?title=Constituencies_of_Jamaica&oldid=707616860"
-        }
-      ]
-    },
-    {
-      "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_eastern",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "18ee12d8-870a-447a-8126-e9f1172e0298",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
         }
       ]
     },
@@ -4154,19 +4144,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_eastern",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "c2478951-0260-4896-9ca4-eafc391c1dc6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ja/parish:hanover/constituency:hanover_eastern",
       "legislative_period_id": "term/2016",
       "on_behalf_of_id": "jamaica_labour_party",
@@ -4276,6 +4253,32 @@
       "on_behalf_of_id": "jamaica_labour_party",
       "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
       "person_id": "ceb54a82-6f64-4172-b72d-3d93fd47508b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ja/parish:portland/constituency:portland_eastern",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "jamaica_labour_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "d1d34df5-99d8-4dcf-a22d-9d8ba2e65b1b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ja/parish:st._mary/constituency:st._mary_south_eastern",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "jamaica_labour_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "d2f9f741-9d1d-484d-9df2-83cdc14793fa",
       "role": "member",
       "sources": [
         {
@@ -4419,6 +4422,19 @@
       "on_behalf_of_id": "people's_national_party",
       "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
       "person_id": "e48ba893-ed9b-4db2-88e8-6ec52b49e113",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:ja/parish:st._andrew/constituency:st._andrew_south_western",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "people's_national_party",
+      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
+      "person_id": "e9545092-08a9-4561-bf45-a7cefefa958a",
       "role": "member",
       "sources": [
         {
