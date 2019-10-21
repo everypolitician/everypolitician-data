@@ -12,6 +12,15 @@ module Source
       true
     end
 
+    MEMBERSHIP_FIELDS = %i(group group_id area area_id term start_date end_date)
+
+    def fields
+      fields = super
+      unwanted = fields & MEMBERSHIP_FIELDS
+      raise "#{filename} should not include membership fields (#{unwanted})" unless unwanted.empty?
+      fields
+    end
+
     # TODO: split this up. This version was migrated directly from the
     # original Rakefile approach, so is still doing too many things.
     def merged_with(csv)
