@@ -2,7 +2,7 @@ jQuery(function($) {
 
   var button = function(text) { 
     return $('<button style="margin:2px">' + text + '</button>').click(function (e) { 
-      var id = $(this).closest('p').hide().attr('data-id');
+      var id = $(this).closest('p').hide().attr('data-id');mfgb,
       $("#results").append(id + "," + text + "\n")
     }) 
   };
